@@ -368,6 +368,17 @@ http://vods.tuxchannel.tv/series/another_life/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/10/09/27/0676766.jpg" group-title="Another Life: Otra vida T1",Cap. 10
 http://vods.tuxchannel.tv/series/another_life/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 01
+http://54.39.52.63/SERIE%20ANGEL/apagon/19633.Apagon.S01E01.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 02
+http://54.39.52.63/SERIE%20ANGEL/apagon/6816.Apagon.S01E02.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 03
+http://54.39.52.63/SERIE%20ANGEL/apagon/18056.Apagon.S01E03.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 04
+http://54.39.52.63/SERIE%20ANGEL/apagon/13609.Apagon.S01E04.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 05
+http://54.39.52.63/SERIE%20ANGEL/apagon/7663.Apagon.S01E05.720p.WEBRip.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="Arcane",Cap. 01
 http://51.81.208.167/series2022/Arcane/Arcane.101.lati.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="Arcane",Cap. 02
