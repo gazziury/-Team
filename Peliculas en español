@@ -5,6 +5,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="https://cartelerasdecine.info/wp-content/uploads/2017/11/Estrenos-Noviembre-Carteleras-de-Cine.jpg" group-title="PELICULAS GRATIS",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2009/12/w1280/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg" group-title="Peliculas 4K",Avatar (2009)
+http://vod.tuxchannel.mx/peliculas4k/avatar.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/5/w1280/36zplRXApiw9QT1h0L6piEI906B.jpg" group-title="Peliculas 4K",Warcraft (2016)
 http://vod.tuxchannel.mx/peliculas4k/warcraft.mkv
 
