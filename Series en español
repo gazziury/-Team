@@ -7617,6 +7617,12 @@ http://vods.tuxchannel.tv/series/see/s_03_e_03.mkv
 http://vods.tuxchannel.tv/series/see/s_03_e_04.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/07/25/10/10/3168545.jpg" group-title="See T3",Cap. 05
 http://vods.tuxchannel.tv/series/see/s_03_e_05.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/07/25/10/10/3168545.jpg" group-title="See T3",Cap. 06
+http://vods.tuxchannel.tv/series/see/s_03_e_06.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/07/25/10/10/3168545.jpg" group-title="See T3",Cap. 07
+http://vods.tuxchannel.tv/series/see/s_03_e_07.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/07/25/10/10/3168545.jpg" group-title="See T3",Cap. 08
+http://vods.tuxchannel.tv/series/see/s_03_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/06/16/13/5645928.jpg" group-title="Selena T1",cap. 01
 http://vods.tuxchannel.tv/series/selena_the_series/s_01_e_01.mkv
