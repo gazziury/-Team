@@ -5771,6 +5771,8 @@ http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_02.mkv
 http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 04
 http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 05
+https://archive.org/download/17-5_20221113/17_5.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La rueda del tiempo",TRAILER
 https://archive.org/download/trailer-l-4-ru-3d-4-d-3l-t-13mp-0/trailer%20L4%20Ru3d4%20d3l%20T13mp0.mp4
