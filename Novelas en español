@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 
-http://vods.tuxchannel.tv/series/cabo/s_01_e_08.mkv ...seran 77 capitulos
+http://vods.tuxchannel.tv/series/cabo/s_01_e_15.mkv ...seran 77 capitulos
 
 http://vods.tuxchannel.tv/series/la_madrastra/s_01_e_33.mkv ...seran 50 capitulos
 
@@ -1049,9 +1049,22 @@ http://vods.tuxchannel.tv/series/cabo/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/cabo/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 08
 http://vods.tuxchannel.tv/series/cabo/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 09
+http://vods.tuxchannel.tv/series/cabo/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 10
+http://vods.tuxchannel.tv/series/cabo/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 11
+http://vods.tuxchannel.tv/series/cabo/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 12
+http://vods.tuxchannel.tv/series/cabo/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 13
+http://vods.tuxchannel.tv/series/cabo/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 14
+http://vods.tuxchannel.tv/series/cabo/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 15
+http://vods.tuxchannel.tv/series/cabo/s_01_e_15.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Serán 77 capítulos
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/11/29/10/09/4838537.jpg" group-title="Cafe con aroma de mujer",Cap. 01
 http://vods.tuxchannel.tv/series/cafe_con_aroma_de_mujer/s_01_e_01.mkv
