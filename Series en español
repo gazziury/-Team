@@ -276,11 +276,21 @@ https://archive.org/download/06_20220421/06.mp4
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Andor",TRAILER
 https://archive.org/download/trailer-4nd-0r/trailer%204nd0r.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 01
-https://archive.org/download/03_20220923_20220923_1946/01.mp4
+http://vods.tuxchannel.tv/series/andor/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 02
-https://archive.org/download/03_20220923_20220923_1946/02.mp4
+http://vods.tuxchannel.tv/series/andor/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 03
-https://archive.org/download/03_20220923_20220923_1946/03.mp4
+http://vods.tuxchannel.tv/series/andor/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 04
+http://vods.tuxchannel.tv/series/andor/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 05
+http://vods.tuxchannel.tv/series/andor/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 06
+http://vods.tuxchannel.tv/series/andor/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 07
+http://vods.tuxchannel.tv/series/andor/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 08
+http://vods.tuxchannel.tv/series/andor/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Anne con E T1",TRAILER
 https://archive.org/download/trailer-4nn-3-c-0n-3-1/trailer%204nn3%20c0n%203%201.mp4
@@ -5755,7 +5765,7 @@ http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 03
 http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 04
-https://archive.org/download/01_20221104_202211/01.mp4
+http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_04.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La rueda del tiempo",TRAILER
 https://archive.org/download/trailer-l-4-ru-3d-4-d-3l-t-13mp-0/trailer%20L4%20Ru3d4%20d3l%20T13mp0.mp4
