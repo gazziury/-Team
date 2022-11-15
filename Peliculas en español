@@ -67,8 +67,10 @@ http://vod.tuxchannel.mx/peliculas4k/passengers.mkv
 http://vod.tuxchannel.mx/peliculas4k/power%20rangers.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/4/w1280/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg" group-title="Peliculas 4K",Rapidos y furiosos 7 (4K)
 http://vod.tuxchannel.mx/peliculas4k/fast%20and%20furious%207.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas 4K",Resident evil: El huesped maldito (4K)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas 4K",Resident evil 1: El huesped maldito (4K)
 http://vod.tuxchannel.mx/peliculas4k/resident%20evil.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/9/w1280/goVSqAsY54LJZ29gNRM8Kq8lDlp.jpg" group-title="Peliculas 4K",Resident evil 2: Apocalipsis (4K)
+http://vod.tuxchannel.mx/peliculas4k/resident%20evil apocalypse.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/12/w1280/pO1SrJgf5BumqcIRkYviSGIFdmX.jpg" group-title="Peliculas 4K",Soy leyenda (4K)
 http://vod.tuxchannel.mx/peliculas4k/i%20am%20legend.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/9/w1280/7tgdZEWljiTokgayEmL4SFQuAGu.jpg" group-title="Peliculas 4K",Thor (4K)
