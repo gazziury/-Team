@@ -39,6 +39,8 @@ http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy.mkv
 http://vod.tuxchannel.mx/peliculas4k/guardians%20of%20the%20galaxy%20vol%202.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/10/w1280/lCGqpwsgjegq26fMiR54ugJtIc6.jpg" group-title="Peliculas 4K",Inferno (4K)
 http://vod.tuxchannel.mx/peliculas4k/inferno.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/8/w1280/hn2C89W1APrPPoZ1XQv69jJb1RP.jpg" group-title="Peliculas 4K",Invicto 4 (4K)
+http://vod.tuxchannel.mx/peliculas4k/boyka%20undisputed%20iv.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/6/w1280/lWhnr4ehIiRMudbF6YCEViatbaN.jpg" group-title="Peliculas 4K",Jurassic World (4K)
 http://vod.tuxchannel.mx/peliculas4k/jurassic%20world.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2010/2/w1280/56utveUWJwmG12YU7c2zKw6pbRZ.jpg" group-title="Peliculas 4K",La isla siniestra (4K)
@@ -3279,8 +3281,6 @@ http://vod.tuxchannel.mx/peliculas/720/batman%20the%20killing%20joke.mkv
 http://vod.tuxchannel.mx/peliculas/720/batman%20bad%20blood.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/03/04/15/47/480948.jpg" group-title="2016",Batman vs Superman: El origen de la Justicia (2016)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51NONFCG7cL.jpg" group-title="2016",Boyka: Invicto 4 (2016) 4K
-http://vod.tuxchannel.mx/peliculas4k/boyka%20undisputed%20iv.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81BF9--HtCL._RI_.jpg" group-title="2016",Buenos niños (2016)
 http://vod.tuxchannel.mx/peliculas/720/good%20kids.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/03/14/16/21/478890.jpg" group-title="2016",Buscando a Dory (2016)
