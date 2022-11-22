@@ -3758,13 +3758,13 @@ http://vod.tuxchannel.mx/peliculas/720/hocus%20pocus.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/711op1YNOOL._SY445_.jpg" group-title="Peliculas Viejas",Accion policial (2013)
 http://vod.tuxchannel.mx/peliculas/720/police%20story.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/26/10/25/202748.jpg" group-title="Peliculas Viejas",Actividad paranormal (2007)
-
+http://vod.tuxchannel.mx/peliculas/720/paranormal%20activity%202007.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/91/79/19517112.jpg" group-title="Peliculas Viejas",Actividad paranormal 2 (2010)
-
+http://vod.tuxchannel.mx/peliculas/720/paranormal%20activity%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/85/62/21/19835338.jpg" group-title="Peliculas Viejas",Actividad paranormal 3 (2011)
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/90/50/16/20209908.jpg" group-title="Peliculas Viejas",Actividad paranormal 4 (2012)
-
+http://vod.tuxchannel.mx/peliculas/720/paranormal%20activity%204.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/75/60/6e/75606e2075b3c82a55bb77a0d08a24ce.jpg" group-title="Peliculas Viejas",Agente Salt (2010)
 http://vod.tuxchannel.mx/peliculas/720/salt.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/0c/28/350c28aecc41b879bcc03545a14773f5.jpg" group-title="Peliculas Viejas",Agentes del desorden (2014)
@@ -3880,11 +3880,11 @@ http://vod.tuxchannel.mx/peliculas/720/inglourious%20basterds.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/80/20/55/19997597.jpg" group-title="Peliculas Viejas",Battleship: Batalla naval (2012)
 http://vod.tuxchannel.mx/peliculas/720/battleship.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/67/07/51/20134041.gif" group-title="Peliculas Viejas",Batman Regresa (1992)
-
+http://vod.tuxchannel.mx/peliculas/720/batman%20returns.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/07/45/20134042.gif" group-title="Peliculas Viejas",Batman Forever (1995)
-
+http://vod.tuxchannel.mx/peliculas/720/batman%20forever.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/07/50/20134040.gif" group-title="Peliculas Viejas",Batman y Robin (1997)
-
+http://vod.tuxchannel.mx/peliculas/720/batman%20and%20robin.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2005/6/w1280/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg" group-title="Peliculas Viejas",Batman inicia (2005)
 http://vod.tuxchannel.mx/peliculas/720/batman%20begins.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/7/w1280/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg" group-title="Peliculas Viejas",Batman: El Caballero de la noche (2008)
@@ -3932,7 +3932,7 @@ http://vod.tuxchannel.mx/peliculas/720/the%20shawshank%20redemption.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/15/11/02/12/26/041714.jpg" group-title="Peliculas Viejas",Camino salvaje (2007)
 http://vod.tuxchannel.mx/peliculas/720/into%20the%20wild.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/84/79/82/20099009.jpg" group-title="Peliculas Viejas",Capitan America: El primer vengador (2011)
-
+http://vod.tuxchannel.mx/peliculas/720/captain%20america%20the%20first%20avenger.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/31/16/12/220933.jpg" group-title="Peliculas Viejas",Capitan America: El soldado de invierno (2014)
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/210/038/21003890_20130507112915793.jpg" group-title="Peliculas Viejas",Carrie (2013)
@@ -3951,8 +3951,8 @@ http://vod.tuxchannel.mx/peliculas/720/charlie%20and%20the%20chocolate%20factory
 http://vod.tuxchannel.mx/peliculas/720/chicago%202002.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91KGBseC1FL._SL1500_.jpg" group-title="Peliculas Viejas",Chicas armadas y peligrosas (2013)
 http://vod.tuxchannel.mx/peliculas/720/the%20heat.mkv
-#EXTINF:-1 tvg-logo="https://media.filmelier.com/images/filmes/cartaz/see-no-evil-hear-no-evil9944.jpeg" group-title="Peliculas Viejas",Ciegos sordos y locos (1989)
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51zDEZJFcQL._AC_SY580_.jpg" group-title="Peliculas Viejas",Ciegos sordos y locos (1989)
+http://vod.tuxchannel.mx/peliculas/720/see%20no%20evil%20hear%20no%20evil.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/82/49/41/19634717.jpg" group-title="Peliculas Viejas",Cisne negro (2010)
 http://vod.tuxchannel.mx/peliculas/720/black%20swan.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/14/02/13/13/57/036032.jpg" group-title="Peliculas Viejas",Click (2006)
@@ -4100,9 +4100,9 @@ http://vod.tuxchannel.mx/peliculas/720/the%20ring.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/89/75/50/20065286.jpg" group-title="Peliculas Viejas",El aro 2 (1999) Japon
 http://vod.tuxchannel.mx/peliculas/720/the%20ring%202.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/29/37/20139549.jpg" group-title="Peliculas Viejas",El alucinante mundo de Norman (2012)
-
+http://vod.tuxchannel.mx/peliculas/720/paranorman.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81yRIE88iwL._SY679_.jpg" group-title="Peliculas Viejas",El bueno el malo y el feo (1966)
-
+http://vod.tuxchannel.mx/peliculas/720/il%20buono%20il%20brutto%20il%20cattivo.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/86/86/43/20123634.jpg" group-title="Peliculas Viejas",El caballero oscuro: La leyenda renace (2012)
 http://vod.tuxchannel.mx/peliculas/720/the%20dark%20knight%20rises.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2010/3/w1280/qwVwxmzTdeVm4otgh1UiwM1NjqS.jpg" group-title="Peliculas Viejas",El caza recompensas: Exposados (2010)
@@ -4150,7 +4150,7 @@ http://vod.tuxchannel.mx/peliculas/720/exorcist%20the%20beginning.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/bzp/03/121780.jpg" group-title="Peliculas Viejas",El experimento (2010)
 http://vod.tuxchannel.mx/peliculas/720/the%20experiment.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/88/13/20071033.jpg" group-title="Peliculas Viejas",El Expreso Polar (2012)
-
+http://vod.tuxchannel.mx/peliculas/720/the%20polar%20express.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6e6561319d7ed73f03563c53947b5edd1d3d4ecaea2c902f083b42c67342e8b4._RI_V_TTW_.jpg" group-title="Peliculas Viejas",El extraño mundo de Jack (1993)
 https://archive.org/download/01_20211222_20211222_0931/01.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81fAIcnNTuL._RI_.jpg" group-title="Peliculas Viejas",El Fantasma (2014)
@@ -4292,7 +4292,7 @@ http://vod.tuxchannel.mx/peliculas/720/lone%20survivor.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/05/09/05/57/0131669.jpg" group-title="Peliculas Viejas",El Sorprendente Hombre Araña (2012)
 http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spiderman.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/28/10/25/215446.jpg" group-title="Peliculas Viejas",El Sorprendente Hombre Araña: El Poder de Electro (2014)
-
+http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spider-man%202%20rise%20of%20electro.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/c5/6e/01c56e894099c1aa578bf89cd8f73fe1.jpg" group-title="Peliculas Viejas",El testigo (1985)
 http://vod.tuxchannel.mx/peliculas/720/witness.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/20/13/55/247396.jpg" group-title="Peliculas Viejas",El Transportador (2002)
