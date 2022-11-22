@@ -4351,6 +4351,8 @@ http://vod.tuxchannel.mx/peliculas/720/philadelphia.mkv
 http://vod.tuxchannel.mx/peliculas/720/footloose.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/93/24/15/20244789.jpg" group-title="Peliculas Viejas",Forrest Gump (1994)
 http://vod.tuxchannel.mx/peliculas/720/forrest%20gump.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/10/w1280/hIgmIUnexSHnKLSx7uKflRmfdwE.jpg" group-title="Peliculas Viejas",Frecuencia mortal (2001)
+http://vod.tuxchannel.mx/peliculas/720/joy%20ride.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71pnWjYRcPL._SL1500_.jpg" group-title="Peliculas Viejas",Freddy contra Jason (2003)
 http://vod.tuxchannel.mx/peliculas/720/freddy%20vs%20jason.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91S5Zym4tzL._SL1500_.jpg" group-title="Peliculas Viejas",Frontera (2014)
@@ -5231,6 +5233,8 @@ http://vod.tuxchannel.mx/peliculas/720/vacaciones%20de%20navidad.mkv
 http://vod.tuxchannel.mx/peliculas/720/courage%20under%20fire.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Rb0rrQcuL._SY445_.jpg" group-title="Peliculas Viejas",Van Helsing: el cazador de monstruos (2004)
 http://vod.tuxchannel.mx/peliculas/720/van%20helsing.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/1/w1280/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg" group-title="Peliculas Viejas",Vanilla Sky (2001)
+http://vod.tuxchannel.mx/peliculas/720/vanilla%20sky.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71znQe%2BMyfL._SL1055_.jpg" group-title="Peliculas Viejas",Vaya Navidades (2007)
 http://vod.tuxchannel.mx/peliculas/720/vaya%20navidades.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/20/04/09/22/11/2952202.jpg" group-title="Peliculas Viejas",V de venganza (2006)
