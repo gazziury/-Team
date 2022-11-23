@@ -9436,6 +9436,21 @@ https://archive.org/download/05_20220205_20220205_2351/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/11/01/23/3138013.jpg" group-title="Venir del frio",Cap. 08
 https://archive.org/download/05_20220205_20220205_2351/08.mp4
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 01
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 02
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 03
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 04
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 05
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 06
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 07
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E07.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/17/02/1946442.jpg" group-title="Vikings: Valhalla",Cap. 01
 https://archive.org/download/05_20220415_20220415_1852/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/17/02/1946442.jpg" group-title="Vikings: Valhalla",Cap. 02
