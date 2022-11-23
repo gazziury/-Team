@@ -4346,6 +4346,19 @@ http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/27/10/04/5014842.jpg" group-title="Ginny y Georgia",Cap. 10
 http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 01
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 02
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 03
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 04
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 05
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 06
+http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Good Omens: Buenos presagios",TRAILER
 https://archive.org/download/trailer-g-00d-0m-3n-5/trailer%20G00d%200m3n5.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/08/21/22/2802623.jpg" group-title="Good Omens: Buenos presagios",Cap. 01
