@@ -3,6 +3,8 @@
 http://superbits.tv:2095/cCqeC084/hJQjh3pJ/24410
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",Canal 4 UY
 http://superbits.tv:2095/jMjUxtAk/heKkPcrS/24410
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_05/large.280689985_Teledoce2019.png.dc804a2cbd93975cd902d12e174a3a0e.png",Canal 12 UY
+http://br0ss.xyz:8090/Ballesteros2020/Camilo2020/2345
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",Directv LAT
 http://superbits.tv:2095/cCqeC084/hJQjh3pJ/45708
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png",Directv LAT
@@ -39,4 +41,8 @@ http://piglo.re:80/GILSON2022/2022GILSON/655549
 http://piglo.re:80/GILSON2022/2022GILSON/655551
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sportv SD
 http://piglo.re:80/GILSON2022/2022GILSON/655541
+#EXTINF:-1 tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN
+http://br0ss.xyz:8090/Ballesteros2020/Camilo2020/16044
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",Tv Publica
+http://br0ss.xyz:8090/Ballesteros2020/Camilo2020/381
 
