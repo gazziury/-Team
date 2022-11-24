@@ -23,6 +23,10 @@ http://superbits.tv:2095/jMjUxtAk/heKkPcrS/146743
 http://superbits.tv:2095/cCqeC084/hJQjh3pJ/72226
 #EXTINF:-1 tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png",ECDF
 http://superbits.tv:2095/jMjUxtAk/heKkPcrS/72226
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Rio de Janeiro
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5307
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Sao Paulo
+http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5309
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sportv FHD
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sportv HD
