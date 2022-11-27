@@ -3616,8 +3616,6 @@ http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20of%20grey.mkv
 http://vod.tuxchannel.mx/peliculas/720/creed.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/da9aa925dfdc83f3712b51f456a74c1bde3b0424fbfe40b6590fd99c229683d5._RI_V_TTW_.jpg" group-title="2015",Cuarto de guerra (2015)
 https://archive.org/download/LaPasionDeServirEnPasosFirmesADios/2015CuartoDeGuerra.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51SJ3wcKkTL._SY445_.jpg" group-title="2015",Danny Collins (2015)
-http://vod.tuxchannel.mx/peliculas/720/danny%20collins.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/12/22/17/44/293803.jpg" group-title="2015",Demoniaco (2015)
 http://vod.tuxchannel.mx/peliculas/720/demonic.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fc/21/f2/fc21f2af6402467435e99c0b2e4ba4fd.jpg" group-title="2015",Descendientes (2015)
@@ -3678,8 +3676,6 @@ http://vod.tuxchannel.mx/peliculas/720/momentum.mkv
 http://vod.tuxchannel.mx/peliculas/720/inside%20out.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f4/a2/0e/f4a20e002430c6b463fbe8bf3a2f1023.jpg" group-title="2015",Ip Man 3 (2015)
 http://vod.tuxchannel.mx/peliculas/720/ip%20man%203.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71H8cxuyr3L._SY445_.jpg" group-title="2015",Jane tomo las armas (2015)
-http://vod.tuxchannel.mx/peliculas/720/jane%20got%20a%20gun.mkv
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_817575-MLA27180769592_042018-O.jpg" group-title="2015",Jugada Salvaje (2015)
 http://vod.tuxchannel.mx/peliculas/720/wild%20card.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/10/22/08/18/133072.jpg" group-title="2015",Justicia letal (2015)
@@ -3706,6 +3702,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20wave.mkv
 http://vod.tuxchannel.mx/peliculas/720/operator.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/27/15/31/531794.jpg" group-title="2015",La reina del desierto (2015)
 http://vod.tuxchannel.mx/peliculas/720/queen%20of%20the%20desert.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/12/w1280/vGMui8uWun8MGIg3YkJJybXRTgF.jpg" group-title="2015",La venganza de Jane (2015)
+http://vod.tuxchannel.mx/peliculas/720/jane%20got%20a%20gun.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91ecG9W-ZkL._SY679_.jpg" group-title="2015",Los 8 mas odiados (2015)
 http://vod.tuxchannel.mx/peliculas/720/the%20hateful%20eight.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81HlvB4vnQL._SY679_.jpg" group-title="2015",Los 33 (2015)
@@ -3736,6 +3734,8 @@ http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
 http://vod.tuxchannel.mx/peliculas/720/mcfarland%20usa.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/02/20/10/53/320177.jpg" group-title="2015",Negocios fuera de control (2015)
 http://vod.tuxchannel.mx/peliculas/720/unfinished%20business.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/512BNjCAC1L.jpg" group-title="2015",Nunca es tarde (2015)
+http://vod.tuxchannel.mx/peliculas/720/danny%20collins.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/9/w1280/8DoiFnHXzZhkyNyGw6s7DGpaauA.jpg" group-title="2015",Oddball y sus pingüinos (2015)
 http://vod.tuxchannel.mx/peliculas/720/oddball.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/15/07/23/11/20/528010.jpg" group-title="2015",Operacion Ultra (2015)
