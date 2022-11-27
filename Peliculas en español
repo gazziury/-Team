@@ -3576,10 +3576,8 @@ http://vod.tuxchannel.mx/peliculas/720/i%20am%20wrath.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/01/15/11/29/288415.jpg" group-title="2016",Zootrópolis (2016)
 http://vod.tuxchannel.mx/peliculas/720/zootopia.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/23/13/00/193624.jpg" group-title="2015",007: Spectre (2015)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title="2015",007: Spectre (2015)
 http://vod.tuxchannel.mx/peliculas/720/spectre.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/11/24/12/19/213308.jpg" group-title="2015",30 dias para ir a la carcel (2015)
-http://vod.tuxchannel.mx/peliculas/720/get%20hard.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/23/17/04/260944.jpg" group-title="2015",Absolutamente todo (2015)
 http://vod.tuxchannel.mx/peliculas/720/absolutely%20anything.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ZGEpe3CIL._RI_.jpg" group-title="2015",Abuela (2015)
@@ -3616,6 +3614,8 @@ http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20of%20grey.mkv
 http://vod.tuxchannel.mx/peliculas/720/creed.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/da9aa925dfdc83f3712b51f456a74c1bde3b0424fbfe40b6590fd99c229683d5._RI_V_TTW_.jpg" group-title="2015",Cuarto de guerra (2015)
 https://archive.org/download/LaPasionDeServirEnPasosFirmesADios/2015CuartoDeGuerra.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/3/w1280/jg6x8XO1Avu6aJVy8otVgb5AXqn.jpg" group-title="2015",Dale duro (2015)
+http://vod.tuxchannel.mx/peliculas/720/get%20hard.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/12/22/17/44/293803.jpg" group-title="2015",Demoniaco (2015)
 http://vod.tuxchannel.mx/peliculas/720/demonic.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fc/21/f2/fc21f2af6402467435e99c0b2e4ba4fd.jpg" group-title="2015",Descendientes (2015)
