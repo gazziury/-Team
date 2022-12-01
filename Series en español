@@ -10,8 +10,8 @@ incompletas
 
 andor
 la periferia
-see t3
 la brea t2
+Willow 
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="1883 (SUB)",TRAILER
 https://archive.org/download/trailer-1883/trailer%201883.mp4
@@ -9698,6 +9698,11 @@ http://vods.tuxchannel.tv/series/warrior_nun/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/warrior_nun/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/17/16/22/3443676.jpg" group-title="Warrior Nun: La monja guerrera",Cap. 10
 http://vods.tuxchannel.tv/series/warrior_nun/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/jhdSPDlhswjN1r6O0pGP3ZvQgU8.jpg" group-title="Willow",Cap. 01
+https://archive.org/download/01_20221201_202212/01.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/jhdSPDlhswjN1r6O0pGP3ZvQgU8.jpg" group-title="Willow",Cap. 02
+https://archive.org/download/02_20221201/02.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/19/07/25/10/50/0860353.jpg" group-title="Wu Assassins",Cap. 01
 http://vods.tuxchannel.tv/series/wu_assassins/s_01_e_01.mkv
