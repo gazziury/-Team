@@ -4353,10 +4353,12 @@ http://vod.tuxchannel.mx/peliculas/720/the%20number%2023.mkv
 http://vod.tuxchannel.mx/peliculas/720/el%20orfanato.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2010/7/w1280/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg" group-title="Peliculas Viejas",El origen (2010)
 http://vod.tuxchannel.mx/peliculas/720/el%20origen.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1972/3/w1280/wLXd1Cd0XW7DhXayfC0Ok5ago9r.jpg" group-title="Peliculas Viejas",El padrino (1972)
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1974/12/w1280/mbry0W5PRylSUHsYzdiY2FSJwze.jpg" group-title="Peliculas Viejas",El padrino 2 (1974)
-
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1972/3/w1280/wLXd1Cd0XW7DhXayfC0Ok5ago9r.jpg" group-title="Peliculas Viejas",El padrino 1 (1972) SUB
+http://54.39.52.63/ZEUS/Movies/Mayo/16%20mayo/The.Godfather.1972.1080p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1974/12/w1280/mbry0W5PRylSUHsYzdiY2FSJwze.jpg" group-title="Peliculas Viejas",El padrino 2 (1974) SUB
+http://54.39.52.63/ZEUS/Movies/Mayo/16%20mayo/The.Godfather.Part.II.1974.1080p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1990/12/w1280/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg" group-title="Peliculas Viejas",El padrino 3 (1990)
+http://54.39.52.63/ZEUS/Movies/Mayo/16%20mayo/The.Godfather.Part.III.1990.Re-Edit.1080p.BluRay.Dual.Latino.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2000/6/w1280/cizgIaq65fpq2Ft08dPmZtUxDYv.jpg" group-title="Peliculas Viejas",El patriota (2000)
 http://vod.tuxchannel.mx/peliculas/720/el%20patriota.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1994/9/w1280/d64S30YeHZlCJzscBXJqC16TtiU.jpg" group-title="Peliculas Viejas",El perfecto asesino: El profesional (1994)
