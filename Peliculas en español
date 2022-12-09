@@ -2500,6 +2500,8 @@ http://vod.tuxchannel.mx/peliculas/720/santana%202020.mkv
 http://vod.tuxchannel.mx/peliculas/720/se%20busca%20papa%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/7/w1280/reJmewTkOUX1he9Wb3uR3xfQshV.jpg" group-title="2020",Sin hijos (2020)
 http://vod.tuxchannel.mx/peliculas/720/sin%20hijos%202020.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/10/w1280/m9IfhfkdgCe148DdU1E9jgyb40z.jpg" group-title="2020",Sin origen (2020)
+http://54.39.52.63/PELICULA/10.9./Sin%20Origen%20%e2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/8/w1280/6yjaKwcH3yEtuvSFPRULu96d1KC.jpg" group-title="2020",Sin rastro (2020)
 http://vod.tuxchannel.mx/peliculas/720/the%20vanished%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/10/w1280/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg" group-title="2020",Skylines 3 (2020)
@@ -3422,8 +3424,10 @@ http://vod.tuxchannel.mx/peliculas/720/bullet%20head.mkv
 http://vod.tuxchannel.mx/peliculas/720/transformers%20the%20last%20knight.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/1/w1280/wK3l4ZfcRXFph6uop7yr7scM2SP.jpg" group-title="2017",Ultima caceria (2017)
 http://vod.tuxchannel.mx/peliculas/720/walking%20out.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/09/29/10/59/3676255.jpg" group-title="2017",Una nueva vida (2017)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/uO3WdDR14fuedoU1bewzTwajAGk.jpg" group-title="2017",Una nueva vida (2017)
 http://vod.tuxchannel.mx/peliculas/720/the%20bachelors.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/5/w1280/qgdOZEnEqnbroqHoslGJSFSKl9R.jpg" group-title="2017",Una oración antes del amanecer (2017)
+http://54.39.52.63/PELICULA/10.9./Una%20oraci%c3%b3n%20antes%20del%20amanecer%20%e2%80%93%20ARESHD.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/ksQrYlnR4UtNVLmftz2i5tfiazN.jpg" group-title="2017",Una razón para vivir (2017)
 http://vod.tuxchannel.mx/peliculas/720/breathe.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/4/w1280/jGDbXh7GjoQrh6fnmN7fmvJ7lLw.jpg" group-title="2017",Un don excepcional (2017)
