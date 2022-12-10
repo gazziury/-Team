@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 
-http://vods.tuxchannel.tv/series/cabo/s_01_e_31.mkv ...seran 77 capitulos
+http://vods.tuxchannel.tv/series/cabo/s_01_e_33.mkv ...seran 77 capitulos
 
 http://vods.tuxchannel.tv/series/la_madrastra/s_01_e_33.mkv ...seran 50 capitulos
 
@@ -1095,6 +1095,10 @@ http://vods.tuxchannel.tv/series/cabo/s_01_e_29.mkv
 http://vods.tuxchannel.tv/series/cabo/s_01_e_30.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 31
 http://vods.tuxchannel.tv/series/cabo/s_01_e_31.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 32
+http://vods.tuxchannel.tv/series/cabo/s_01_e_32.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 33
+http://vods.tuxchannel.tv/series/cabo/s_01_e_33.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Serán 77 capítulos
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
