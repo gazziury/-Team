@@ -6562,6 +6562,23 @@ http://vods.tuxchannel.tv/series/manifest/s_03_e_12.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/19/10/37/2512632.jpg" group-title="Manifest T3 (SUB)",Cap. 13
 http://vods.tuxchannel.tv/series/manifest/s_03_e_13.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 01
+http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 02
+http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 03
+http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 04
+http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 05
+http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 06
+http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 07
+http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 08
+http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E08.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/09/15/42/0355057.jpg" group-title="Marianne",Cap. 01
 http://vods.tuxchannel.tv/series/marianne/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/09/15/42/0355057.jpg" group-title="Marianne",Cap. 02
