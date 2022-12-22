@@ -2972,6 +2972,8 @@ http://vod.tuxchannel.mx/peliculas/720/hustlers%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day%202%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/11/w1280/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="2019",Ford vs Ferrari: Le Mans 66 (2019)
 http://vod.tuxchannel.mx/peliculas/720/ford%20v%20ferrari%202019.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/9/w1280/oTfoMqGrwIdAtfbiIU3TSn2gMMJ.jpg" group-title="2019",Fractura (2019)
+http://vod.tuxchannel.mx/peliculas/720/fractured%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/11/w1280/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="2019",Frozen 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/frozen%20II%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/1/w1280/vYbLXENNUaNcHQl4Te94Msqn1oj.jpg" group-title="2019",Glass: Vidrio (2019)
@@ -4474,10 +4476,6 @@ http://vod.tuxchannel.mx/peliculas/720/21%20jump%20street.mkv
 http://vod.tuxchannel.mx/peliculas/720/22%20jump%20street.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1995/5/w1280/fx5CedhtFTguL4uFz039YdOrUu1.jpg" group-title="Peliculas Viejas",Copycat: Copia mortal (1995)
 http://vod.tuxchannel.mx/peliculas/720/copycat.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/5/w1280/vD0EfyAo5pz4kVqa8KHCfB9dZzC.jpg" group-title="Peliculas Viejas",Todopoderoso: Como Dios (2003)
-http://vod.tuxchannel.mx/peliculas/720/bruce%20almighty.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/6/w1280/jGYbia49LHLpURfYcCdhZVrDS1z.jpg" group-title="Peliculas Viejas",Todopoderoso 2: Sigo como Dios (2007)
-http://vod.tuxchannel.mx/peliculas/720/evan%20almighty.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/6/w1280/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg" group-title="Peliculas Viejas",Como entrenar a tu dragón 2 (2014)
 http://vod.tuxchannel.mx/peliculas/720/how%20to%20train%20your%20dragon%202.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1997/6/w1280/mZv1XUFAzhVvyTwrtjclzbtW4HJ.jpg" group-title="Peliculas Viejas",Con Air: Convictos en el aire (1997)
@@ -5770,6 +5768,10 @@ https://archive.org/download/policia-del-tiempo/policia%20del%20tiempo.mp4
 http://vod.tuxchannel.mx/peliculas/720/shooter.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1997/11/w1280/rVBIfNJZcTITcVbvgmtyPOF8CzD.jpg" group-title="Peliculas Viejas",Titanic (1997)
 http://vod.tuxchannel.mx/peliculas/720/titanic.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/5/w1280/vD0EfyAo5pz4kVqa8KHCfB9dZzC.jpg" group-title="Peliculas Viejas",Todopoderoso: Como Dios (2003)
+http://vod.tuxchannel.mx/peliculas/720/bruce%20almighty.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/6/w1280/jGYbia49LHLpURfYcCdhZVrDS1z.jpg" group-title="Peliculas Viejas",Todopoderoso 2: Sigo como Dios (2007)
+http://vod.tuxchannel.mx/peliculas/720/evan%20almighty.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1993/12/w1280/mSv4y9wl98PZ35f4m3MDI80385X.jpg" group-title="Peliculas Viejas",Tombstone: La leyenda de Wyatt Earp (1993)
 http://vod.tuxchannel.mx/peliculas/720/tombstone.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1982/12/w1280/yoza1QYYc0Ukh5yY1emL6HRdSYm.jpg" group-title="Peliculas Viejas",Tootsie (1982)
