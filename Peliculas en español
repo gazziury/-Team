@@ -3276,7 +3276,7 @@ http://vod.tuxchannel.mx/peliculas/720/zombieland%20double%20tap%202019.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/3/w1280/tUsWgu9ZZBg9JXY1a05VznouoVY.jpg" group-title="2018",7 dias en Entebbe (2018)
 http://vod.tuxchannel.mx/peliculas/720/entebbe.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/utfeX5FvjmCjV6Y1UW4w8AudXfY.jpg" group-title="2018",12 valientes (2018)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/utfeX5FvjmCjV6Y1UW4w8AudXfY.jpg" group-title="2018",12 valientes: Tropa de heroes (2018)
 http://vod.tuxchannel.mx/peliculas/720/12%20strong.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/10/w1280/jQX1Ult7VWZnCttjY4x1hGQnN2s.jpg" group-title="2018",22 de julio (2018)
 http://vod.tuxchannel.mx/peliculas/720/22%20july.mkv
@@ -3436,6 +3436,10 @@ http://vod.tuxchannel.mx/peliculas/720/the%20seagull%202018.mkv
 http://vod.tuxchannel.mx/peliculas/720/winchester.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/12/w1280/r7tJH9dXbHUHFF9ziACg3ELc2TC.jpg" group-title="2018",La mula (2018)
 http://vod.tuxchannel.mx/peliculas/720/the%20mule%202018.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/10/w1280/v95lURdIFz4A6nqD7pcwv4IWj8H.jpg" group-title="2018",La noche de halloween (2018)
+http://vod.tuxchannel.mx/peliculas/720/halloween%202018.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/2/w1280/hyeJDZxsXatr2XoPtH46NRrQ6aW.jpg" group-title="2018",La paradoja de Cloverfield (2018)
+http://vod.tuxchannel.mx/peliculas/720/the%20cloverfield%20paradox.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/11/w1280/qz2dTKSQ9VSAswb1O9jWS15jqL1.jpg" group-title="2018",Las cronicas de navidad (2018)
 https://archive.org/download/01_20211222_20211222_0544/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/8/w1280/qqHoJHiyEghxEl2XCmsgn1N9Lqh.jpg" group-title="2018",La sirenita (2018)
@@ -3518,8 +3522,6 @@ http://54.39.52.63/PELICULA/10.28.2/5218.Taxi.5.2018.1080p.BluRay.mkv
 http://vod.tuxchannel.mx/peliculas/720/tag.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/5/w1280/kEXkCDG1AhjfoTJBgxDjQYn4P1t.jpg" group-title="2018",Terminal (2018)
 http://vod.tuxchannel.mx/peliculas/720/terminal.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/2/w1280/hyeJDZxsXatr2XoPtH46NRrQ6aW.jpg" group-title="2018",The Cloverfield paradox (2018)
-http://vod.tuxchannel.mx/peliculas/720/the%20cloverfield%20paradox.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/4/w1280/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg" group-title="2018",Tiempo de tortura (2018)
 http://vod.tuxchannel.mx/peliculas/720/tempus%20tormentum%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/3/w1280/ef7sUooM7E5sl4Wk3f6QlQtGyOY.jpg" group-title="2018",Tomb Raider (2018)
