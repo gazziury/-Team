@@ -3601,6 +3601,8 @@ http://vod.tuxchannel.mx/peliculas/720/abracadabra.mkv
 http://vod.tuxchannel.mx/peliculas/720/alien%20covenant.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/4/w1280/6rBPBzlkOTPpXPLleaYNUbteyAZ.jpg" group-title="2017",Altitud mortal (2017)
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/5/w1280/tRWza39fHyef12FvScIBduaHMi6.jpg" group-title="2017",Amantes (2017)
+http://vod.tuxchannel.mx/peliculas/720/the%20lovers.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/4/w1280/zyMtH3LYpYMsvy3rJxhtLpvUyoJ.jpg" group-title="2017",Amar (2017)
 http://vod.tuxchannel.mx/peliculas/720/amar.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/7/w1280/ihROTaicjrYu6buBqn79M6OHvA6.jpg" group-title="2017",Amityville: El despertar (2017)
