@@ -5676,6 +5676,8 @@ http://vod.tuxchannel.mx/peliculas/720/poseidon.mkv
 http://vod.tuxchannel.mx/peliculas/720/predestination%202014.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/2/w1280/kqMjcHouoJ1ap5D9EAjexZOavzy.jpg" group-title="Peliculas Viejas",Premoniciones (2007)
 http://vod.tuxchannel.mx/peliculas/720/premonition.mkv
+#EXTINF:-1 tvg-logo="https://blogs.vanguardia.com/el-colombian-dream/files/2012/11/presagio-1.jpg" group-title="Peliculas Viejas",Presagio (2009)
+http://vod.tuxchannel.mx/peliculas/720/knowing.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/5/w1280/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg" group-title="Peliculas Viejas",Prometheus (2012)
 http://vod.tuxchannel.mx/peliculas/720/prometheus.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2012/3/w1280/owF9NIcQOPFAOjp2pni8BsVlnRq.jpg" group-title="Peliculas Viejas",Proyecto X (2012)
