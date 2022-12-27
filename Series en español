@@ -9285,6 +9285,15 @@ http://vods.tuxchannel.tv/series/the_witcher/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/30/10/14/0894014.jpg" group-title="The Witcher T2",Cap. 08
 http://vods.tuxchannel.tv/series/the_witcher/s_02_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/tQQmzvG2vYq1JHaf2bRQ9KAxvEl.jpg" group-title="The Witcher: El origen de la sangre",Cap. 01
+https://archive.org/download/01_20221226_20221226_2311/01.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/tQQmzvG2vYq1JHaf2bRQ9KAxvEl.jpg" group-title="The Witcher: El origen de la sangre",Cap. 02
+https://archive.org/download/01_20221226_20221226_2311/02.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/tQQmzvG2vYq1JHaf2bRQ9KAxvEl.jpg" group-title="The Witcher: El origen de la sangre",Cap. 03
+https://archive.org/download/01_20221226_20221226_2311/03.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/tQQmzvG2vYq1JHaf2bRQ9KAxvEl.jpg" group-title="The Witcher: El origen de la sangre",Cap. 04
+https://archive.org/download/01_20221226_20221226_2311/04.mp4
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/29/09/57/0597540.jpg" group-title="The Woods: Bosque adentro",Cap. 01
 http://vods.tuxchannel.tv/series/the_woods/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/29/09/57/0597540.jpg" group-title="The Woods: Bosque adentro",Cap. 02
