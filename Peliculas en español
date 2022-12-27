@@ -4192,7 +4192,7 @@ http://vod.tuxchannel.mx/peliculas/720/silence.mkv
 http://vod.tuxchannel.mx/peliculas/720/mine.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/1/w1280/s2jKCdTjSQb14llalk8i55iFZ5g.jpg" group-title="2016",Solicitud de amistad (2016)
 http://vod.tuxchannel.mx/peliculas/720/friend%20request.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/2yfbpstJY4Fan8DSfPFDl05jx9.jpg" group-title="2016",Star trek: Mas allá (2016)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/2yfbpstJY4Fan8DSfPFDl05jx9.jpg" group-title="2016",Star Trek: Mas allá (2016)
 http://vod.tuxchannel.mx/peliculas/720/star%20trek%20beyond.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/2/w1280/flDexblLAxh6EnUN59eV7wfaICT.jpg" group-title="2016",The mermaid: La sirena (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20mermaid.mkv
@@ -5968,6 +5968,8 @@ http://vod.tuxchannel.mx/peliculas/720/star%20trek%20insurrection.mkv
 http://vod.tuxchannel.mx/peliculas/720/star%20trek%20nemesis.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2009/5/w1280/AkgW79i6Z26Y1omckHA6SR5lKx.jpg" group-title="Peliculas Viejas",Star Trek XI: El futuro comienza (2009)
 http://vod.tuxchannel.mx/peliculas/720/star%20trek%20XI.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/5/w1280/7ncnBVignnCQ4vFNxiSLWDpFUcs.jpg" group-title="Peliculas Viejas",Star Trek XII: En la oscuridad (2013)
+http://vod.tuxchannel.mx/peliculas/720/star%20trek%20into%20darkness.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1983/5/w1280/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg" group-title="Peliculas Viejas",Star Wars: El regreso del Jedi (1983)
 http://vod.tuxchannel.mx/peliculas/720/star%20wars%20episode%20VI%20return%20of%20the%20jedi.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/5/w1280/rJwpYgQWfebnNnIIKSUTUx3sBc4.jpg" group-title="Peliculas Viejas",Star Wars: La amenaza fantasma (1999)
