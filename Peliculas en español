@@ -4192,6 +4192,8 @@ http://vod.tuxchannel.mx/peliculas/720/silence.mkv
 http://vod.tuxchannel.mx/peliculas/720/mine.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/1/w1280/s2jKCdTjSQb14llalk8i55iFZ5g.jpg" group-title="2016",Solicitud de amistad (2016)
 http://vod.tuxchannel.mx/peliculas/720/friend%20request.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/2yfbpstJY4Fan8DSfPFDl05jx9.jpg" group-title="2016",Star trek: Mas allá (2016)
+http://vod.tuxchannel.mx/peliculas/720/star%20trek%20beyond.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/2/w1280/flDexblLAxh6EnUN59eV7wfaICT.jpg" group-title="2016",The mermaid: La sirena (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20mermaid.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/anomz7b3GQtHPFH34SODDBBIUad.jpg" group-title="2016",Tren a Busan (2016)
