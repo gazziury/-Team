@@ -4333,6 +4333,8 @@ http://vod.tuxchannel.mx/peliculas/720/zootopia.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title="2015",007: Spectre (2015)
 http://vod.tuxchannel.mx/peliculas/720/spectre.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg" group-title="2015",50 sombras de Grey (2015)
+http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20of%20grey.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/6/w1280/dV1aYFiTEnV9Hjco38bKE4ANRTq.jpg" group-title="2015",Absolutamente todo (2015)
 http://vod.tuxchannel.mx/peliculas/720/absolutely%20anything.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/6/w1280/4LW20TF4NfQgHj5rZs0d0cgxRjV.jpg" group-title="2015",Abuela (2015)
@@ -4363,8 +4365,6 @@ http://vod.tuxchannel.mx/peliculas/720/12%20rounds%203%20lockdown.mkv
 http://vod.tuxchannel.mx/peliculas/720/cinderella.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/3/w1280/h767mOshwwM4VzmcuEu7rTZmgRa.jpg" group-title="2015",Chappie (2015)
 http://vod.tuxchannel.mx/peliculas/720/chappie.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg" group-title="2015",Cincuenta sombras de Grey (2015)
-http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20of%20grey.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/11/w1280/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg" group-title="2015",Creed (2015)
 http://vod.tuxchannel.mx/peliculas/720/creed.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/8/w1280/5QlSqu03pABknlQtbJkHiAnzHrS.jpg" group-title="2015",Cuarto de guerra (2015)
@@ -4523,6 +4523,8 @@ http://vod.tuxchannel.mx/peliculas/720/southpaw.mkv
 http://vod.tuxchannel.mx/peliculas/720/regression.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/8/w1280/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg" group-title="2015",Relatos salvajes (2015)
 http://vod.tuxchannel.mx/peliculas/720/relatos%20salvajes.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/biK0cAoIJpnRFg7A7JMIOHY7LMs.jpg" group-title="2015",Secretos de una obsesión (2015)
+http://vod.tuxchannel.mx/peliculas/720/secret%20in%20their%20eyes.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/9/w1280/l1sHixa2ooDyXwghdgPZC0kmlWu.jpg" group-title="2015",Sicario (2015)
 http://vod.tuxchannel.mx/peliculas/720/sicario.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/8/w1280/5lD3a5DP7LRqBvDjduELvqK9xJo.jpg" group-title="2015",Sin escape: Golpe de estado (2015)
