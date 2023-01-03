@@ -637,6 +637,8 @@ http://vod.tuxchannel.mx/peliculas/720/fullmetal%20alchemist%20the%20revenge%20o
 http://vod.tuxchannel.mx/peliculas/720/hustle%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/39h84nFtBfYd0iYm3C8Jo8naSII.jpg" group-title="2022",Gatlopp: Un juego entre amigos (2022)
 https://archive.org/download/01_20220705_20220705_1631/01.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/hSkcS5udA01NubLGy6hJt9yUHSi.jpg" group-title="2022",Gatúbela acechada (2022)
+http://vod.tuxchannel.mx/peliculas/720/catwoman%20hunted%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/7JPK9FKrWrGWchBPhdoIWC6qktB.jpg" group-title="2022",Gemelo siniestro (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20twin%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/i9vl0FxtPQaiTOMRoKYhEuu9xw3.jpg" group-title="2022",Ghislaine Maxwell: Asquerosamente rica (2022) SUB
@@ -5316,9 +5318,9 @@ http://vod.tuxchannel.mx/peliculas/720/gabriel%202007.mkv
 http://vod.tuxchannel.mx/peliculas/720/nowhere%20to%20run.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/11/w1280/pn4A89Rdv0fI7KuugdhSbgfJZs7.jpg" group-title="Peliculas Viejas",Gangster americano (2007)
 http://vod.tuxchannel.mx/peliculas/720/american%20gangster.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1995/5/w1280/abHmOBASOU8LWWZ6VDcyrdFaMUT.jpg" group-title="Peliculas Viejas",Gasparin (1995)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1995/5/w1280/abHmOBASOU8LWWZ6VDcyrdFaMUT.jpg" group-title="Peliculas Viejas",Gasparín (1995)
 http://vod.tuxchannel.mx/peliculas/720/casper.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/7/w1280/l40ot7UBtLOmse1qn4NI97w3ve3.jpg" group-title="Peliculas Viejas",Gatubela (2004)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2004/7/w1280/l40ot7UBtLOmse1qn4NI97w3ve3.jpg" group-title="Peliculas Viejas",Gatúbela (2004)
 http://vod.tuxchannel.mx/peliculas/720/catwoman.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1988/12/w1280/z17mNScwFyZ9sOplnd2R9aQOmlr.jpg" group-title="Peliculas Viejas",Gemelos (1988)
 http://vod.tuxchannel.mx/peliculas/720/twins.mkv
