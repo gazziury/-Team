@@ -4889,10 +4889,12 @@ http://vod.tuxchannel.mx/peliculas/720/the%20shawshank%20redemption.mkv
 http://vod.tuxchannel.mx/peliculas/720/cake.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3cad7e07b64329314de502a0e850f8d4beb082e16cf56a65385a49da0b34fcef._RI_V_TTW_.jpg" group-title="Peliculas Viejas",Camino salvaje (2007)
 http://vod.tuxchannel.mx/peliculas/720/into%20the%20wild.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/7/w1280/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg" group-title="Peliculas Viejas",Capitan America: El primer vengador (2011)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/7/w1280/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg" group-title="Peliculas Viejas",Capitán America: El primer vengador (2011)
 http://vod.tuxchannel.mx/peliculas/720/captain%20america%20the%20first%20avenger.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/3/w1280/6QBRnyvJHD7slOlX6aukvMwcEu.jpg" group-title="Peliculas Viejas",Capitan America: El soldado de invierno (2014)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/3/w1280/6QBRnyvJHD7slOlX6aukvMwcEu.jpg" group-title="Peliculas Viejas",Capitán America: El soldado de invierno (2014)
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/10/w1280/nCdaPtrMsJvy639Puw9LH0lKSwh.jpg" group-title="Peliculas Viejas",Capitán Phillips (2013)
+http://vod.tuxchannel.mx/peliculas/720/captain%20phillips.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/10/w1280/mJX62lKNQAzowhAsHLGqp9yzuNN.jpg" group-title="Peliculas Viejas",Carrie (2013)
 http://vod.tuxchannel.mx/peliculas/720/carrie.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/6/w1280/nqii8TqllZRainaNhQkJLNoSbMv.jpg" group-title="Peliculas Viejas",Cars (2006)
