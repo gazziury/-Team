@@ -12,6 +12,7 @@ la leyenda del tesoro perdido
 la brea t2
 Willow 
 echo 3
+The last of us
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="1883 (SUB)",TRAILER
 https://archive.org/download/trailer-1883/trailer%201883.mp4
@@ -8922,6 +8923,9 @@ http://vods.tuxchannel.tv/series/the_i_land/s_01_e_05.mkv
 http://vods.tuxchannel.tv/series/the_i_land/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/30/10/19/1732676.jpg" group-title="The I-Land",Cap. 07
 http://vods.tuxchannel.tv/series/the_i_land/s_01_e_07.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg" group-title="The last of us",Cap. 01
+https://archive.org/download/01_20230116_20230116_0423/01.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/13/08/12/1993324.jpg" group-title="The Liberator",Cap. 01
 http://vods.tuxchannel.tv/series/the_liberator/s_01_e_01.mkv
