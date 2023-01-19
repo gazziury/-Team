@@ -2500,6 +2500,23 @@ https://archive.org/download/03_20211221_20211221_2218/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg" group-title="Elfos",Cap. 06
 https://archive.org/download/03_20211221_20211221_2218/06.mp4
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/wdWGrl5U4CVOu2EniUXizz60gSh.jpg" group-title="El gabinete de curiosidades de Guillermo del Toro",Cap. 01
+http://vods.tuxchannel.tv/series/guillermo_del_toros_cabinet_of_curiosities/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/wdWGrl5U4CVOu2EniUXizz60gSh.jpg" group-title="El gabinete de curiosidades de Guillermo del Toro",Cap. 02
+http://vods.tuxchannel.tv/series/guillermo_del_toros_cabinet_of_curiosities/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/wdWGrl5U4CVOu2EniUXizz60gSh.jpg" group-title="El gabinete de curiosidades de Guillermo del Toro",Cap. 03
+http://vods.tuxchannel.tv/series/guillermo_del_toros_cabinet_of_curiosities/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/wdWGrl5U4CVOu2EniUXizz60gSh.jpg" group-title="El gabinete de curiosidades de Guillermo del Toro",Cap. 04
+http://vods.tuxchannel.tv/series/guillermo_del_toros_cabinet_of_curiosities/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/wdWGrl5U4CVOu2EniUXizz60gSh.jpg" group-title="El gabinete de curiosidades de Guillermo del Toro",Cap. 05
+http://vods.tuxchannel.tv/series/guillermo_del_toros_cabinet_of_curiosities/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/wdWGrl5U4CVOu2EniUXizz60gSh.jpg" group-title="El gabinete de curiosidades de Guillermo del Toro",Cap. 06
+http://vods.tuxchannel.tv/series/guillermo_del_toros_cabinet_of_curiosities/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/wdWGrl5U4CVOu2EniUXizz60gSh.jpg" group-title="El gabinete de curiosidades de Guillermo del Toro",Cap. 07
+http://vods.tuxchannel.tv/series/guillermo_del_toros_cabinet_of_curiosities/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/wdWGrl5U4CVOu2EniUXizz60gSh.jpg" group-title="El gabinete de curiosidades de Guillermo del Toro",Cap. 08
+http://vods.tuxchannel.tv/series/guillermo_del_toros_cabinet_of_curiosities/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/06/14/08/5482222.jpg" group-title="El hijo bastardo y el mismísimo diablo",Cap. 01
 https://archive.org/download/02_20221103_20221103/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/06/14/08/5482222.jpg" group-title="El hijo bastardo y el mismísimo diablo",Cap. 02
