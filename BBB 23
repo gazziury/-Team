@@ -27,6 +27,55 @@ http://infra.piglo.re:80/17992319999/92319999/53702.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 12" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Confessionario
 http://infra.piglo.re:80/17992319999/92319999/53703.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="AQUECIMENTO BBB 2023" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",Principal 1
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224396
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 AQUECIMENTO" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",Principal 2
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224880
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 1" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 1 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224634
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 1" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 1
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224881
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 2" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 2 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224635
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 2" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 2
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224882
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 3" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 3 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224636
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 3" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 3
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224883
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 4" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 4 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224637
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 4" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 4
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224884
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 5" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 5 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224638
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 5" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 5
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224885
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 6" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 6 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224639
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 6" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 6
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224886
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 7" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 7 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224640
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 7" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 7
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224887
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 8" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 8 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224641
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 8" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 8
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224888
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 9" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 9 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224642
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 9" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 9
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224889
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 10" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 10 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224643
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 10" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 10
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224890
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 11" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 11 HD
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224644
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 11" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 11
+https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224891
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Principal 1 FHD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179431
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Principal 1 HD
