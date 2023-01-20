@@ -1,172 +1,172 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo 01 HD
 http://infra.piglo.re:80/17992319999/92319999/52720.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02 MOSAICO" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo 02 MOSAICO
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02 MOSAICO" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo 02 MOSAICO
 http://infra.piglo.re:80/17992319999/92319999/52721.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo 03 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo 03 HD
 http://infra.piglo.re:80/17992319999/92319999/52757.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo 04 HD
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo 04 HD
 http://infra.piglo.re:80/17992319999/92319999/52819.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 1
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 1
 http://infra.piglo.re:80/17992319999/92319999/53692.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 2
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 2
 http://infra.piglo.re:80/17992319999/92319999/53693.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 3
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 3
 http://infra.piglo.re:80/17992319999/92319999/53694.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 4
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 4
 http://infra.piglo.re:80/17992319999/92319999/53695.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 5
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 5
 http://infra.piglo.re:80/17992319999/92319999/53696.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 6
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 6
 http://infra.piglo.re:80/17992319999/92319999/53697.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 7
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 7
 http://infra.piglo.re:80/17992319999/92319999/53698.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 8
 http://infra.piglo.re:80/17992319999/92319999/53699.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 9
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 9
 http://infra.piglo.re:80/17992319999/92319999/53700.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 10
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 10
 http://infra.piglo.re:80/17992319999/92319999/53701.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 11" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 11
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 11" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 11
 http://infra.piglo.re:80/17992319999/92319999/53702.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 12" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="BBB",Piglo CAM 12
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 12" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo CAM 12
 http://infra.piglo.re:80/17992319999/92319999/53703.ts
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay 1 FHD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay 1 FHD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179431
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay 1 HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay 1 HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/147453
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay 1 SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay 1 SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/83802
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay 2 FHD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay 2 FHD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179433
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay 2 HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay 2 HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179432
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay 2 SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay 2 SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/164580
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Academia HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Academia HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/83792
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Academia SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Academia SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/83437
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Confessionario HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Confessionario HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/164574
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Confessionario SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Confessionario SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/140730
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Cozinha HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Cozinha HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/162909
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Cozinha SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Cozinha SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/147996
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Jardim HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Jardim HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/154679
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Jardim SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Jardim SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/140731
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Mosaico HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Mosaico HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179434
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Mosaico SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Mosaico SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/155342
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Piscina HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Piscina HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/147671
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Piscina SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Piscina SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/147992
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Quarto Deserto HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Quarto Deserto HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/164579
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Quarto Deserto SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Quarto Deserto SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179429
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Quarto Fundo do Mar HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Quarto Fundo do Mar HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179437
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Quarto Fundo do Mar SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Quarto Fundo do Mar SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/179436
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Sala HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Sala HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/147537
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Sala SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Sala SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/147532
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Varanda HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Varanda HD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/163607
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",Splay Varanda SD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Splay Varanda SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/191635
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",AXR 1
 http://axr.life:80/394390/837023/1222328
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",AXR 2
 http://axr.life:80/394390/837023/1222329
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 3
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",AXR 3
 http://axr.life:80/394390/837023/1222330
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 4
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",AXR 4
 http://axr.life:80/394390/837023/1222331
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 5
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",AXR 5
 http://axr.life:80/394390/837023/1222332
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",AXR 1
 http://axr.life:80/edimilsonj/tvsmartnew/1222328
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",AXR 2
 http://axr.life:80/edimilsonj/tvsmartnew/1222329
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 3
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",AXR 3
 http://axr.life:80/edimilsonj/tvsmartnew/1222330
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 4
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",AXR 4
 http://axr.life:80/edimilsonj/tvsmartnew/1222331
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",AXR 5
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",AXR 5
 http://axr.life:80/edimilsonj/tvsmartnew/1222332
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",RCTV 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="RCTV BBB",RCTV 1
 http://rctv.tech:80/096154/686531/1222328
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",RCTV 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="RCTV BBB",RCTV 2
 http://rctv.tech:80/096154/686531/1222329
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",RCTV 3
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="RCTV BBB",RCTV 3
 http://rctv.tech:80/096154/686531/1222330
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",RCTV 4
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="RCTV BBB",RCTV 4
 http://rctv.tech:80/096154/686531/1222331
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",RCTV 5
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="RCTV BBB",RCTV 5
 http://rctv.tech:80/096154/686531/1222332
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX MOSAICO
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX MOSAICO
 http://elitex.me:80/marcelocosta03/5245381/10083110
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX PRINCIPAL 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX PRINCIPAL 1
 http://elitex.me:80/marcelocosta03/5245381/10083109
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX PRINCIPAL 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX PRINCIPAL 2
 http://elitex.me:80/marcelocosta03/5245381/10083107
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 1
 http://elitex.me:80/marcelocosta03/5245381/10083108
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 1*
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 1*
 http://elitex.me:80/marcelocosta03/5245381/10078662
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 1**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 1**
 http://elitex.me:80/marcelocosta03/5245381/10078659
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 2
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 2
 http://elitex.me:80/marcelocosta03/5245381/10083106
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 2**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 2**
 http://elitex.me:80/marcelocosta03/5245381/10078661
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 3
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 3
 http://elitex.me:80/marcelocosta03/5245381/10083105
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 3**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 3**
 http://elitex.me:80/marcelocosta03/5245381/10078660
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 4
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 4
 http://elitex.me:80/marcelocosta03/5245381/10083104
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 4**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 4**
 http://elitex.me:80/marcelocosta03/5245381/10078663
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 5
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 5
 http://elitex.me:80/marcelocosta03/5245381/10083103
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 5**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 5**
 http://elitex.me:80/marcelocosta03/5245381/10078664
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 6
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 6
 http://elitex.me:80/marcelocosta03/5245381/10083102
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 6**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 6**
 http://elitex.me:80/marcelocosta03/5245381/10078665
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 7
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 7
 http://elitex.me:80/marcelocosta03/5245381/10083101
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 7**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 7**
 http://elitex.me:80/marcelocosta03/5245381/10078666
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 8
 http://elitex.me:80/marcelocosta03/5245381/10083100
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 8**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 8**
 http://elitex.me:80/marcelocosta03/5245381/10078667
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 9
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 9
 http://elitex.me:80/marcelocosta03/5245381/10083099
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 9**
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 9**
 http://elitex.me:80/marcelocosta03/5245381/10078668
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 10
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 10
 http://elitex.me:80/marcelocosta03/5245381/10083098
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 11
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 11
 http://elitex.me:80/marcelocosta03/5245381/10083097
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png",ELITEX CAM 12
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ELITEX BBB",ELITEX CAM 12
 http://elitex.me:80/marcelocosta03/5245381/10083096
