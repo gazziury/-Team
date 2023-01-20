@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 01 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo 01 HD
 http://infra.piglo.re:80/17992319999/92319999/52720.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02 MOSAICO" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo 02 MOSAICO
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo 02 HD
 http://infra.piglo.re:80/17992319999/92319999/52721.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 03 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Piglo 03 HD
 http://infra.piglo.re:80/17992319999/92319999/52757.ts
