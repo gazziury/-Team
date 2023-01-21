@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 
-http://vods.tuxchannel.tv/series/cabo/s_01_e_60.mkv ...seran 77 capitulos
+http://vods.tuxchannel.tv/series/cabo/s_01_e_65.mkv ...seran 77 capitulos
 
 http://vods.tuxchannel.tv/series/la_madrastra/s_01_e_33.mkv ...seran 50 capitulos
 
@@ -1153,6 +1153,16 @@ http://vods.tuxchannel.tv/series/cabo/s_01_e_58.mkv
 http://vods.tuxchannel.tv/series/cabo/s_01_e_59.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 60
 http://vods.tuxchannel.tv/series/cabo/s_01_e_60.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 61
+http://vods.tuxchannel.tv/series/cabo/s_01_e_61.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 62
+http://vods.tuxchannel.tv/series/cabo/s_01_e_62.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 63
+http://vods.tuxchannel.tv/series/cabo/s_01_e_63.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 64
+http://vods.tuxchannel.tv/series/cabo/s_01_e_64.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Cap. 65
+http://vods.tuxchannel.tv/series/cabo/s_01_e_65.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/zHq8zcFj8GjBVVa5778NR3LzoDJ.jpg" group-title="Cabo",Serán 77 capítulos
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
