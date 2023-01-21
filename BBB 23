@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB MOSAICO" tvg-logo="http://natv.pm/logo/52996.jpg" group-title="R2 BBB",MOSAICO
+http://r2.natv.pm:80/pedrosoares1/24998698854/52996
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 01 FHD" tvg-logo="http://natv.pm/logo/52995.jpg" group-title="R2 BBB",CAM 01 FHD
+http://r2.natv.pm:80/pedrosoares1/24998698854/52995
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 01 HD" tvg-logo="http://natv.pm/logo/43646.jpg" group-title="R2 BBB",CAM 01 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/43646
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 01 HD²" tvg-logo="http://natv.pm/logo/43647.jpg" group-title="R2 BBB",CAM 01 HD²
+http://r2.natv.pm:80/pedrosoares1/24998698854/43647
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 01 SD" tvg-logo="http://natv.pm/logo/43648.jpg" group-title="R2 BBB",CAM 01 SD
+http://r2.natv.pm:80/pedrosoares1/24998698854/43648
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 01 SD²" tvg-logo="http://natv.pm/logo/66400.jpg" group-title="R2 BBB",CAM 01 SD²
+http://r2.natv.pm:80/pedrosoares1/24998698854/66400
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 02 HD" tvg-logo="http://natv.pm/logo/66401.jpg" group-title="R2 BBB",CAM 02 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/66401
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 02 HD²" tvg-logo="http://natv.pm/logo/69469.jpg" group-title="R2 BBB",CAM 02 HD²
+http://r2.natv.pm:80/pedrosoares1/24998698854/69469
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 03 HD" tvg-logo="http://natv.pm/logo/69470.jpg" group-title="R2 BBB",CAM 03 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/69470
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 04 HD" tvg-logo="http://natv.pm/logo/69471.jpg" group-title="R2 BBB",CAM 04 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/69471
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 05 HD" tvg-logo="http://natv.pm/logo/69472.jpg" group-title="R2 BBB",CAM 05 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/69472
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 06 HD" tvg-logo="http://natv.pm/logo/69473.jpg" group-title="R2 BBB",CAM 06 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/69473
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 07 HD" tvg-logo="http://natv.pm/logo/25579.jpg" group-title="R2 BBB",CAM 07 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/25579
+#EXTINF:-1 tvg-id="PSHOP.BR" tvg-name="BBB CAMERA 08 HD" tvg-logo="http://natv.pm/logo/25581.jpg" group-title="R2 BBB",CAM 08 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/25581
+#EXTINF:-1 tvg-id="BBBHD.BR" tvg-name="BBB CAMERA 09 HD" tvg-logo="http://natv.pm/logo/60456.jpg" group-title="R2 BBB",CAM 09 HD
+http://r2.natv.pm:80/pedrosoares1/24998698854/60456
+
 #EXTINF:-1 tvg-id="" tvg-name="BBB 01 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Principal 01 HD
 http://infra.piglo.re:80/17992319999/92319999/52720.ts
 #EXTINF:-1 tvg-id="" tvg-name="BBB 02 HD" tvg-logo="https://bk.usdu.eu/reality/U66khtH.png" group-title="Piglo BBB",Principal 02 HD
