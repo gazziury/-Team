@@ -40,14 +40,16 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86966
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86968
 #EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="MEXICO HD (ENCODER)",BITME
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86970
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="" group-title="MEXICO HD (ENCODER)",CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="MEXICO HD (ENCODER)",CARTOONITO
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86971
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="http://iptvglobal.site:25461/images/ba160487decb1da597d3ca8bbe9d8d60.png" group-title="MEXICO HD (ENCODER)",CANAL 5
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO HD (ENCODER)",CANAL 5
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86972
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="MEXICO HD (ENCODER)",CINECANAL
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="MEXICO HD (ENCODER)",CINECANAL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86973
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif" group-title="MEXICO HD (ENCODER)",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="MEXICO HD (ENCODER)",CINEMAX
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86974
+
+
 #EXTINF:-1 tvg-id="" tvg-name="LAT| CNN EN ESPANOL FHD" tvg-logo="https://i.picasion.com/pic92/56e3c55755c86152df60d0e448a7bf7f.gif" group-title="LATIN ENTERTAINMENT (HD)",LAT| CNN EN ESPANOL FHD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86975
 #EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA
