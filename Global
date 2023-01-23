@@ -1,36 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="LATINO| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="LATINO (FHD)",DISCOVERY H&H
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="LATINO| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="LATINO FHD",DISCOVERY H&H
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86845
-#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINO (FHD)",DISCOVERY THEATHER
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINO FHD",DISCOVERY THEATHER
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86846
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="LATINO| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="LATINO (FHD)",INVESTIGACION DISCOVERY
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="LATINO| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="LATINO FHD",INVESTIGACION DISCOVERY
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86847
-#EXTINF:-1 tvg-id="amchd.mx" tvg-name="LATINO| AMC CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="LATINO (FHD)",AMC
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="LATINO| AMC CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="LATINO FHD",AMC
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86848
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="LATINO| AXN CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://www.formulatv.com/images/articulos/49000/49583_abba071f13-t.jpg" group-title="LATINO (FHD)",AXN
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="LATINO| AXN CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://www.formulatv.com/images/articulos/49000/49583_abba071f13-t.jpg" group-title="LATINO FHD",AXN
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86849
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="LATINO| CINECANAL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINO (FHD)",CINECANAL
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="LATINO| CINECANAL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINO FHD",CINECANAL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86850
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="LATINO| FX PREMIUN FHD(DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="LATINO (FHD)",FX
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="LATINO| FX PREMIUN FHD(DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="LATINO FHD",FX
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86856
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINO (FHD)",HBO
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINO FHD",HBO
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86858
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="LATINO (FHD)",HBO PLUS
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="LATINO FHD",HBO PLUS
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86861
-#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="LATINO| SONY CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINO (FHD)",SONY CHANNEL
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="LATINO| SONY CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINO FHD",SONY CHANNEL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86864
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="LATINO| TNT CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="LATINO (FHD)",TNT
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="LATINO| TNT CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="LATINO FHD",TNT
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86866
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="LATINO| TNT SERIES PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="LATINO (FHD)",TNT SERIES
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="LATINO| TNT SERIES PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="LATINO FHD",TNT SERIES
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86867
-#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="LATINO| STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://www.pngkey.com/png/detail/135-1358677_studio-universal-hd-2016-canal-studio-universal-hd.png" group-title="LATINO (FHD)",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="LATINO| STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://www.pngkey.com/png/detail/135-1358677_studio-universal-hd-2016-canal-studio-universal-hd.png" group-title="LATINO FHD",STUDIO UNIVERSAL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86868
-#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="LATINO| WARNER CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/New_Warner_TV_Logo.jpg" group-title="LATINO (FHD)",WARNER TV
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="LATINO| WARNER CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/New_Warner_TV_Logo.jpg" group-title="LATINO FHD",WARNER TV
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86870
-#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="LATINO| FILM & ARTS CHANNEL FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="LATINO (FHD)",FILM & ARTS
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="LATINO| FILM & ARTS CHANNEL FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="LATINO FHD",FILM & ARTS
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86871
-#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="LATINO| DISCOVERY KIDS PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="LATINO (FHD)",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="LATINO| DISCOVERY KIDS PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="LATINO FHD",DISCOVERY KIDS
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86873
 
 
