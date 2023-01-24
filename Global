@@ -59,9 +59,9 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86979
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86980
 #EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="MEXICO HD (ENCODER)",STAR CHANNEL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86982
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="MEXICO HD (ENCODER)",FOX SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="MEXICO HD (ENCODER)",FOX SPORTS
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86988
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://iptvglobal.site:25461/images/d61377c7a5bc13f8669a6346fb547eec.png" group-title="MEXICO HD (ENCODER)",FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="MEXICO HD (ENCODER)",FOX SPORTS 2 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86989
 #EXTINF:-1 tvg-id="fx.mx" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="MEXICO HD (ENCODER)",FX HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86990
