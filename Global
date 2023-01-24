@@ -35,7 +35,7 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86873
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO HD (ENCODER)",AZTECA 7
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86966
-#EXTINF:-1 tvg-id="aztecacorazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/2560px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="MEXICO HD (ENCODER)",AZTECA CORAZON
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/2560px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="MEXICO HD (ENCODER)",AZTECA CORAZON
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86968
 #EXTINF:-1 tvg-id="bitme.mx" tvg-name="BITME" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="MEXICO HD (ENCODER)",BITME
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86970
@@ -49,17 +49,17 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86973
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86974
 #EXTINF:-1 tvg-id="distritocomediahd.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86976
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/1200px-E%21_Logo_2012.svg.png" group-title="MEXICO HD (ENCODER)",E!
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E! ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/1200px-E%21_Logo_2012.svg.png" group-title="MEXICO HD (ENCODER)",E!
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86977
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="MEXICO HD (ENCODER)",ESPN
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="MEXICO HD (ENCODER)",ESPN
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86978
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="MEXICO HD (ENCODER)",ESPN 2
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 HD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="MEXICO HD (ENCODER)",ESPN 2
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86979
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="MEXICO HD (ENCODER)",ESPN 3
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="MEXICO HD (ENCODER)",ESPN 3
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86980
-#EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="MEXICO HD (ENCODER)",STAR CHANNEL
+#EXTINF:-1 tvg-id="starchannel.mx" tvg-name="FOX CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="MEXICO HD (ENCODER)",STAR CHANNEL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86982
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="MEXICO HD (ENCODER)",FOX SPORTS
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="MEXICO HD (ENCODER)",FOX SPORTS
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86988
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="MEXICO HD (ENCODER)",FOX SPORTS 2
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86989
@@ -83,19 +83,19 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86997
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86998
 #EXTINF:-1 tvg-id="mtv.mx" tvg-name="MTV HD" tvg-logo="https://i.picasion.com/pic92/02dbe5b145e031710ef8b29f929ce895.gif" group-title="MEXICO HD (ENCODER)",MTV HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86999
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="MEXICO HD (ENCODER)",NICK HD
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="MEXICO HD (ENCODER)",NICK HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87002
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png" group-title="MEXICO HD (ENCODER)",PARAMOUNT HD
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1200px-Paramount_Channel_logo.svg.png" group-title="MEXICO HD (ENCODER)",PARAMOUNT HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87004
-#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png" group-title="MEXICO HD (ENCODER)",SONY HD
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="SONY HD" tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png" group-title="MEXICO HD (ENCODER)",SONY HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87005
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo.svg/1024px-SpaceLogo.svg.png" group-title="MEXICO HD (ENCODER)",SPACE HD
+#EXTINF:-1 tvg-id="space.mx" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo.svg/1024px-SpaceLogo.svg.png" group-title="MEXICO HD (ENCODER)",SPACE HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87006
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="MEXICO HD (ENCODER)",SYFY HD
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="SYFY HD" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="MEXICO HD (ENCODER)",SYFY HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87007
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="MEXICO HD (ENCODER)",TBS HD
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="TBS HD" tvg-logo="" group-title="MEXICO HD (ENCODER)",TBS HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87008
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT HD" tvg-logo="http://iptvglobal.site:25461/images/41f742fe33ed29ce51863f236bd6c73b.png" group-title="MEXICO HD (ENCODER)",TELEHIT HD
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="TELEHIT HD" tvg-logo="http://iptvglobal.site:25461/images/41f742fe33ed29ce51863f236bd6c73b.png" group-title="MEXICO HD (ENCODER)",TELEHIT HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87009
 #EXTINF:-1 tvg-id="tntseries.mx" tvg-name="TNT SERIES HD" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="MEXICO HD (ENCODER)",TNT SERIES HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87010
@@ -105,15 +105,15 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87011
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87012
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://iptvglobal.site:25461/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="MEXICO HD (ENCODER)",UNIVERSAL CHANNEL HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87013
-#EXTINF:-1 tvg-id="" tvg-name="ADN 40 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MEXICO HD (ENCODER)",ADN 40 HD
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MEXICO HD (ENCODER)",ADN 40 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87015
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="MEXICO HD (ENCODER)",HBO POP HD
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="MEXICO HD (ENCODER)",HBO POP HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87016
 #EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT HD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="MEXICO HD (ENCODER)",TNT HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87017
-#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2019/05/tudn-logo.png" group-title="MEXICO HD (ENCODER)",TUDN
+#EXTINF:-1 tvg-id="tudn.us" tvg-name="TUDN USA" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2019/05/tudn-logo.png" group-title="MEXICO HD (ENCODER)",TUDN
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87018
-#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://i.picasion.com/pic92/1613747113fa1d90554fc13786f0e8e3.gif" group-title="MEXICO HD (ENCODER)",DISCOVERY INVESTIGATION HD
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://i.picasion.com/pic92/1613747113fa1d90554fc13786f0e8e3.gif" group-title="MEXICO HD (ENCODER)",DISCOVERY INVESTIGATION HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87019
 #EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 HD" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title="MEXICO HD (ENCODER)",FOX SPORTS 3 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87020
@@ -125,13 +125,13 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87022
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87023
 #EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO FAMILY HD" tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="MEXICO HD (ENCODER)",HBO FAMILY HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87024
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="MEXICO HD (ENCODER)",HBO MUNDI HD
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI HD" tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="MEXICO HD (ENCODER)",HBO MUNDI HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87025
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="MEXICO HD (ENCODER)",HBO PLUS HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87026
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="MEXICO HD (ENCODER)",HBO SIGNATURE HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87027
-#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME HD" tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png" group-title="MEXICO HD (ENCODER)",HBO EXTREME HD
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="HBO EXTREME HD" tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png" group-title="MEXICO HD (ENCODER)",HBO EXTREME HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87028
 #EXTINF:-1 tvg-id="" tvg-name="MX|*DISTRITO COMEDIA HD" tvg-logo="" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87029
