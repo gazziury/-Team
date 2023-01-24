@@ -16,7 +16,7 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86850
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86856
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINO FHD",HBO
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86858
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="LATINO FHD",HBO PLUS
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1600px-Logohboplus2019.svg.png" group-title="LATINO FHD",HBO PLUS
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86861
 #EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="LATINO| SONY CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINO FHD",SONY CHANNEL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86864
@@ -127,7 +127,7 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87023
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87024
 #EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="HBO MUNDI HD" tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="MEXICO HD (ENCODER)",HBO MUNDI HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87025
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="MEXICO HD (ENCODER)",HBO PLUS HD
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1600px-Logohboplus2019.svg.png" group-title="MEXICO HD (ENCODER)",HBO PLUS
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87026
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="MEXICO HD (ENCODER)",HBO SIGNATURE HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87027
