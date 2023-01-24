@@ -39,15 +39,15 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86966
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86968
 #EXTINF:-1 tvg-id="bitme.mx" tvg-name="BITME" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="MEXICO HD (ENCODER)",BITME
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86970
-#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="MEXICO HD (ENCODER)",CARTOONITO
+#EXTINF:-1 tvg-id="cartoonito.mx" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="MEXICO HD (ENCODER)",CARTOONITO
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86971
-#EXTINF:-1 tvg-id="canal5.mx" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO HD (ENCODER)",CANAL 5
+#EXTINF:-1 tvg-id="canal5hd.mx" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO HD (ENCODER)",CANAL 5
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86972
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="MEXICO HD (ENCODER)",CINECANAL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86973
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="MEXICO HD (ENCODER)",CINEMAX
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86974
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="distritocomediahd.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86976
 #EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/1200px-E%21_Logo_2012.svg.png" group-title="MEXICO HD (ENCODER)",E!
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86977
