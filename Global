@@ -43,7 +43,7 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86970
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86971
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO HD (ENCODER)",CANAL 5
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86972
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="MEXICO HD (ENCODER)",CINECANAL
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="MEXICO HD (ENCODER)",CINECANAL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86973
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="MEXICO HD (ENCODER)",CINEMAX
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86974
