@@ -35,19 +35,19 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86873
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO HD (ENCODER)",AZTECA 7
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86966
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/2560px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="MEXICO HD (ENCODER)",AZTECA CORAZON
+#EXTINF:-1 tvg-id="aztecacorazon.mx" tvg-name="AZTECA CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/2560px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="MEXICO HD (ENCODER)",AZTECA CORAZON
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86968
-#EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="MEXICO HD (ENCODER)",BITME
+#EXTINF:-1 tvg-id="bitme.mx" tvg-name="BITME" tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="MEXICO HD (ENCODER)",BITME
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86970
 #EXTINF:-1 tvg-id="boomerang.mx" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="MEXICO HD (ENCODER)",CARTOONITO
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86971
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO HD (ENCODER)",CANAL 5
+#EXTINF:-1 tvg-id="canal5.mx" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO HD (ENCODER)",CANAL 5
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86972
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="MEXICO HD (ENCODER)",CINECANAL
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86973
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="MEXICO HD (ENCODER)",CINEMAX
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="MEXICO HD (ENCODER)",CINEMAX
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86974
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86976
 #EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/1200px-E%21_Logo_2012.svg.png" group-title="MEXICO HD (ENCODER)",E!
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86977
