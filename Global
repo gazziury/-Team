@@ -33,7 +33,6 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86871
 #EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="LATINO| DISCOVERY KIDS PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="LATINO FHD",DISCOVERY KIDS
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86873
 
-
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO HD (ENCODER)",AZTECA 7
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86966
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA CORAZON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/2560px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="MEXICO HD (ENCODER)",AZTECA CORAZON
@@ -48,19 +47,15 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86972
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86973
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="MEXICO HD (ENCODER)",CINEMAX
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86974
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LAT| CNN EN ESPANOL FHD" tvg-logo="https://i.picasion.com/pic92/56e3c55755c86152df60d0e448a7bf7f.gif" group-title="LATIN ENTERTAINMENT (HD)",LAT| CNN EN ESPANOL FHD
-http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86975
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MEXICO HD (ENCODER)",DISTRITO COMEDIA
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86976
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="" group-title="MEXICO HD (ENCODER)",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="httphttps://www.foromedios.com/uploads/monthly_2021_05/small.E-Entertainment-Logo.png.b728f413ff423d1f6c3c6b377bfccdd6.png" group-title="MEXICO HD (ENCODER)",E! ENTERTAINMENT
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86977
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="MEXICO HD (ENCODER)",ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-logo.jpg" group-title="MEXICO HD (ENCODER)",ESPN HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86978
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="MEXICO HD (ENCODER)",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="MEXICO HD (ENCODER)",ESPN 2 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86979
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" group-title="MEXICO HD (ENCODER)",ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="MEXICO HD (ENCODER)",ESPN 3 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86980
 #EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/dc53e6bb4b2b012abcbb2e5129b8fc51.gif" group-title="MEXICO HD (ENCODER)",STAR CHANNEL HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86982
@@ -110,7 +105,6 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87011
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87012
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://iptvglobal.site:25461/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="MEXICO HD (ENCODER)",UNIVERSAL CHANNEL HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87013
-
 #EXTINF:-1 tvg-id="" tvg-name="ADN 40 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MEXICO HD (ENCODER)",ADN 40 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87015
 #EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="MEXICO HD (ENCODER)",HBO POP HD
@@ -163,15 +157,13 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87045
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87048
 #EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX |* FOX SPORTS 3 HD" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title="MEXICO HD (ENCODER)",FOX SPORTS 3 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87053
-
 #EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX |* FOX SPORTS  1 HD" tvg-logo="http://iptvglobal.site:25461/images/500cf40a8e8c37cbcc81a66265dc06d0.png" group-title="MEXICO HD (ENCODER)",FOX SPORTS  1 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87055
 #EXTINF:-1 tvg-id="" tvg-name="MX |* FOX HD" tvg-logo="http://iptvglobal.site:25461/images/e69e82a3266d6feab8cd2d7eebc7ebfe.png" group-title="MEXICO HD (ENCODER)",STAR CHANNEL HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87062
 #EXTINF:-1 tvg-id="" tvg-name="MX |* ESPN 1 HD" tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="MEXICO HD (ENCODER)",ESPN 1 HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87067
-
-#EXTINF:-1 tvg-id="" tvg-name="MX |* E ENTERTAIN,MENT HD" tvg-logo="http://iptvglobal.site:25461/images/1925294ef4492da4b990901ebab5396e.png" group-title="MEXICO HD (ENCODER)",E! HD
+#EXTINF:-1 tvg-id="" tvg-name="MX |* E ENTERTAINMENT HD" tvg-logo="http://iptvglobal.site:25461/images/1925294ef4492da4b990901ebab5396e.png" group-title="MEXICO HD (ENCODER)",E! HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87069
 #EXTINF:-1 tvg-id="" tvg-name="MX |* COMEDY CENTRAL HD" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="MEXICO HD (ENCODER)",COMEDY CENTRAL HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87071
@@ -215,7 +207,6 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87102
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87104
 #EXTINF:-1 tvg-id="" tvg-name="MX |* TOONCAST HD" tvg-logo="https://i.picasion.com/pic92/982aa390a86f8be23076729b7ee71ab8.gif" group-title="MEXICO HD (ENCODER)",TOONCAST HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87106
-
 #EXTINF:-1 tvg-id="" tvg-name="MX |* TNT HD" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="MEXICO HD (ENCODER)",TNT HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87108
 #EXTINF:-1 tvg-id="" tvg-name="MX |* AMC FHD" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif" group-title="MEXICO HD (ENCODER)",AMC FHD
@@ -224,7 +215,6 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87109
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87110
 #EXTINF:-1 tvg-id="" tvg-name="MX |* TUDN HD" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="MEXICO HD (ENCODER)",TUDN HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87111
-
 #EXTINF:-1 tvg-id="" tvg-name="MX |* NICKTOONS HD" tvg-logo="https://i.picasion.com/pic92/e97183af8daaa012b02156e14d1ddecf.gif" group-title="MEXICO HD (ENCODER)",NICK JR HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87114
 #EXTINF:-1 tvg-id="" tvg-name="MX |* iSAT HD" tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif" group-title="MEXICO HD (ENCODER)",ISAT HD
@@ -247,16 +237,12 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87126
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124467
 #EXTINF:-1 tvg-id="" tvg-name="CANAL NU9VE HD" tvg-logo="" group-title="MEXICO HD (ENCODER)",CANAL NU9VE HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124469
-
 #EXTINF:-1 tvg-id="tcm.mx" tvg-name="MX |* TCM HD" tvg-logo="http://iptvglobal.site:25461/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="MEXICO HD (ENCODER)",TCM HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124471
-
 #EXTINF:-1 tvg-id="aymsports.mx" tvg-name="MX |* AYM DEPORTES MEXICO  FHD" tvg-logo="" group-title="MEXICO HD (ENCODER)",AYM DEPORTES FHD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124474
-
 #EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="MX |* GOURMET HD" tvg-logo="http://iptvglobal.site:25461/images/422cf866ef0481cd5523e343338d42bd.png" group-title="MEXICO HD (ENCODER)",GOURMET HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124477
-
 #EXTINF:-1 tvg-id="" tvg-name="MX |* ESPN 2  HD" tvg-logo="http://iptvglobal.site:25461/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="MEXICO HD (ENCODER)",ESPN 2  HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124485
 #EXTINF:-1 tvg-id="" tvg-name="MX |* D'PELICULA HD" tvg-logo="http://iptvglobal.site:25461/images/da70a8061beae45841b15f7ea17e3662.png" group-title="MEXICO HD (ENCODER)",DE PELICULA PLUS HD
@@ -269,7 +255,6 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124488
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124489
 #EXTINF:-1 tvg-id="" tvg-name="MX |* BANDAMAX FHD" tvg-logo="http://iptvglobal.site:25461/images/a2d4b314096c4986c95cab9bafbcafc6.png" group-title="MEXICO HD (ENCODER)",BANDAMAX FHD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124490
-
 #EXTINF:-1 tvg-id="" tvg-name="MX |* WARNER FHD" tvg-logo="http://iptvglobal.site:25461/images/896603e831769b26926a1fc5e8c9823b.png" group-title="MEXICO HD (ENCODER)",WARNER FHD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124493
 #EXTINF:-1 tvg-id="" tvg-name="MX |* TRUTV HD" tvg-logo="http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png" group-title="MEXICO HD (ENCODER)",TRUTV HD
@@ -280,11 +265,14 @@ http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124495
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124496
 #EXTINF:-1 tvg-id="" tvg-name="MX |* GOLDEN EDGE FHD" tvg-logo="http://iptvglobal.site:25461/images/0a9b25d270cabbe211b365d409ca0b22.png" group-title="MEXICO HD (ENCODER)",GOLDEN EDGE FHD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124497
-
 #EXTINF:-1 tvg-id="" tvg-name="MX |* A&E FHD" tvg-logo="http://iptvglobal.site:25461/images/d0c418b44f402f5c32ac988aa5c1d51b.png" group-title="MEXICO HD (ENCODER)",A&E FHD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124499
 #EXTINF:-1 tvg-id="" tvg-name="MX |* HISTORY CHANNEL HD" tvg-logo="http://iptvglobal.site:25461/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="MEXICO HD (ENCODER)",HISTORY CHANNEL HD
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/124503
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LAT| CNN EN ESPANOL FHD" tvg-logo="https://i.picasion.com/pic92/56e3c55755c86152df60d0e448a7bf7f.gif" group-title="LATIN ENTERTAINMENT (HD)",LAT| CNN EN ESPANOL FHD
+http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/86975
 #EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - A&E" tvg-logo="https://i.picasion.com/pic92/6d236270adafad7c4a3343819e6f279d.gif" group-title="LATIN CHANNELS 2MB (SD)",Latino  2mb - A&E
 http://iptvglobal.site:25461/skytvperu/e7aSxSPEmR/87429
 #EXTINF:-1 tvg-id="" tvg-name="Latino  2mb - Antena 3" tvg-logo="https://i.picasion.com/pic92/29fbecf9d29cf98464c4c6955dc6d979.gif" group-title="LATIN CHANNELS 2MB (SD)",Latino  2mb - Antena 3
