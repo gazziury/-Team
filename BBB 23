@@ -51,6 +51,57 @@ http://tntmais.com:80/wrsscnv/tvTest777/10083097
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 12" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT BBB",CAM 12
 http://tntmais.com:80/wrsscnv/tvTest777/10083096
 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="MOSAICO" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",MOSAICO
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083110
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="PRINCIPAL 1" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",PRINCIPAL 1
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083109
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="PRINCIPAL 2" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",PRINCIPAL 2
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083107
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 1" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 1
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083108
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 1*" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 1*
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078662
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 1**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 1**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078659
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 2" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 2
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083106
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 2**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 2**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078661
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 3" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 3
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083105
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 3**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 3**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078660
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 4" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 4
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083104
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 4**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 4**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078663
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 5" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 5
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083103
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 5**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 5**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078664
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 6" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 6
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083102
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 6**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 6**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078665
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 7" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 7
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083101
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 7**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 7**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078666
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 8" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 8
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083100
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 8**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 8**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078667
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 9" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 9
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083099
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 9**" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 9**
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10078668
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 10" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 10
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083098
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 11" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 11
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083097
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 12" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 12
+http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083096
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Principal
 http://axr.life:80/394390/837023/1207093
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 1
