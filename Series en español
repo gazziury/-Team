@@ -13,29 +13,6 @@ la brea t2
 echo 3
 The last of us
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="1883 (SUB)",TRAILER
-https://archive.org/download/trailer-1883/trailer%201883.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 01
-http://54.39.52.63/SERIE/1883/tem1/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 02
-http://54.39.52.63/SERIE/1883/tem1/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 03
-http://54.39.52.63/SERIE/1883/tem1/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 04
-http://54.39.52.63/SERIE/1883/tem1/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 05
-http://54.39.52.63/SERIE/1883/tem1/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 06
-http://54.39.52.63/SERIE/1883/tem1/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 07
-http://54.39.52.63/SERIE/1883/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 08
-http://54.39.52.63/SERIE/1883/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 09
-http://54.39.52.63/SERIE/1883/1x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/13/13/4306267.jpg" group-title="1883 (SUB)",Cap. 10
-http://54.39.52.63/SERIE/1883/1x10.mp4
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/2QK8tIXafyiz93PvAbKxxfK2BLb.jpg" group-title="1899",Cap. 01
 http://vods.tuxchannel.tv/series/1899/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/2QK8tIXafyiz93PvAbKxxfK2BLb.jpg" group-title="1899",Cap. 02
@@ -130,23 +107,6 @@ http://vods.tuxchannel.tv/series/acapulco/s_01_e_03.mkv
 http://vods.tuxchannel.tv/series/acapulco/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/23/16/31/5996140.jpg" group-title="Acapulco T1",Cap. 05
 http://vods.tuxchannel.tv/series/acapulco/s_01_e_05.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/35/5525253.jpg" group-title="Ahora y entonces",Cap. 01
-http://54.39.52.63/SERIE/Now%20and%20Then/2495.Now.and.Then.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/35/5525253.jpg" group-title="Ahora y entonces",Cap. 02
-http://54.39.52.63/SERIE/Now%20and%20Then/5186.Now.and.Then.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/35/5525253.jpg" group-title="Ahora y entonces",Cap. 03
-http://54.39.52.63/SERIE/Now%20and%20Then/9156.Now.and.Then.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/35/5525253.jpg" group-title="Ahora y entonces",Cap. 04
-http://54.39.52.63/SERIE/Now%20and%20Then/12117.Now.and.Then.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/35/5525253.jpg" group-title="Ahora y entonces",Cap. 05
-http://54.39.52.63/SERIE/Now%20and%20Then/S01E05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/35/5525253.jpg" group-title="Ahora y entonces",Cap. 06
-http://54.39.52.63/SERIE/Now%20and%20Then/S01E06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/35/5525253.jpg" group-title="Ahora y entonces",Cap. 07
-http://54.39.52.63/SERIE/Now%20and%20Then/S01E07.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/19/15/35/5525253.jpg" group-title="Ahora y entonces",Cap. 08
-http://54.39.52.63/SERIE/Now%20and%20Then/S01E08Final.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Alex Rider T1",TRAILER
 https://archive.org/download/trailer-4l-3x-rid-3r-1/trailer%204l3x%20Rid3r%201.mp4
@@ -402,17 +362,6 @@ http://vods.tuxchannel.tv/series/another_life/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/another_life/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/10/09/27/0676766.jpg" group-title="Another Life: Otra vida T1",Cap. 10
 http://vods.tuxchannel.tv/series/another_life/s_01_e_10.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 01
-http://54.39.52.63/SERIE%20ANGEL/apagon/19633.Apagon.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 02
-http://54.39.52.63/SERIE%20ANGEL/apagon/6816.Apagon.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 03
-http://54.39.52.63/SERIE%20ANGEL/apagon/18056.Apagon.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 04
-http://54.39.52.63/SERIE%20ANGEL/apagon/13609.Apagon.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/13/11/41/0230487.jpg" group-title="Apagon",Cap. 05
-http://54.39.52.63/SERIE%20ANGEL/apagon/7663.Apagon.S01E05.720p.WEBRip.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="Arcane",Cap. 01
 http://51.81.208.167/series2022/Arcane/Arcane.101.lati.mp4
@@ -1431,25 +1380,6 @@ http://vods.tuxchannel.tv/series/home_for_christmas/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/17/08/58/3210061.jpg" group-title="Como arruinar la Navidad: La boda",Cap. 03
 http://vods.tuxchannel.tv/series/home_for_christmas/s_01_e_03.mkv
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 01
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 02
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 03
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 04
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 05
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 06
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 07
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 08
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E08.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/88ZhSYPBnDJIgUKmt7P98mV5i2O.jpg" group-title="Como atrapé a mi asesino (SUB)",Cap. 09
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/How.I.Caught.My.Killer/How.I.Caught.My.Killer.S01E09.720p.WEBRip.mkv
-
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Como criar a un superheroe T1",TRAILER
 https://archive.org/download/trailer-c-0m-0-cr-14r-un-sup-3r-h-3r-03/trailer%20C0m0%20Cr14r%20un%20Sup3r%20H3r03.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/03/20/43/0411191.png" group-title="Como criar a un superheroe T1",Cap. 01
@@ -1873,29 +1803,6 @@ http://vods.tuxchannel.tv/series/diario_de_un_gigolo/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/diario_de_un_gigolo/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/08/29/03/35/3198400.jpg" group-title="Diario de un gigoló",Cap. 10
 http://vods.tuxchannel.tv/series/diario_de_un_gigolo/s_01_e_10.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Dias mejores",TRAILER
-https://archive.org/download/trailer-d-145-m-3j-0r-35/trailer%20D145%20m3j0r35.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 01
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/7629.Dias.mejores.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 02
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/14548.Dias.mejores.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 03
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/1864.Dias.mejores.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 04
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/18832.Dias.mejores.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 05
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/16169.Dias.mejores.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 06
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/18753.Dias.mejores.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 07
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/12036.Dias.mejores.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 08
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/10740.Dias.mejores.S01E08.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 09
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/9356.Dias.mejores.S01E09.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/20/10/13/4608192.jpg" group-title="Dias mejores",Cap. 10
-http://54.39.52.63/SERIE/D%c3%adas%20mejores%20/10130.Dias.mejores.S01E10.720p.WEBRip.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Dolores: La verdad sobre el caso Wanninkhof",TRAILER
 https://archive.org/download/trailer-d-0l-0r-35/trailer%20D0l0r35.mp4
@@ -2446,29 +2353,6 @@ http://vods.tuxchannel.tv/series/el_embarcadero/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/el_embarcadero/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/05/12/17/0603267.jpg" group-title="El Embarcadero",Cap. 08
 http://vods.tuxchannel.tv/series/el_embarcadero/s_01_e_08.mkv
-
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 01
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/7756.El.Encargado.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 02
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/6304.El.Encargado.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 03
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/16000.El.Encargado.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 04
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/12379.El.Encargado.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 05
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/6466.El.Encargado.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 06
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/18521.El.Encargado.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 07
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/7869.El.Encargado.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 08
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/1595.El.Encargado.S01E08.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 09
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/13101.El.Encargado.S01E09.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 10
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/10081.El.Encargado.S01E10.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/09/19/16/27/4675378.jpg" group-title="El Encargado",Cap. 11
-http://54.39.52.63/SERIE%20ANGEL/El%20Encargado/1772.El.Encargado.S01E11.720p.WEBRip.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El espia",TRAILER
 https://archive.org/download/trailer-3l-35p-14/trailer%203l%2035p14.mp4
@@ -4130,26 +4014,26 @@ http://vods.tuxchannel.tv/series/fringe/s_04_e_22.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="From (SUB)",TRAILER
 https://archive.org/download/trailer-fr-0-m/trailer%20FR0M.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 01
-http://54.39.52.63/SERIE/From%20(2022)/10545.From.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 02
-http://54.39.52.63/SERIE/From%20(2022)/15061.From.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 03
-http://54.39.52.63/SERIE/From%20(2022)/7489.From.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 04
-http://54.39.52.63/SERIE/From%20(2022)/7718.From.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 05
-http://54.39.52.63/SERIE/From%20(2022)/10584.From.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 06
-http://54.39.52.63/SERIE/From%20(2022)/19957.From.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 07
-http://54.39.52.63/SERIE/From%20(2022)/6201.From.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 08
-http://54.39.52.63/SERIE/From%20(2022)/1x8.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 09
-http://54.39.52.63/SERIE/From%20(2022)/1x9.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From (SUB)",Cap. 10
-http://54.39.52.63/SERIE/From%20(2022)/1x10.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 01
+http://vods.tuxchannel.tv/series/from/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 02
+http://vods.tuxchannel.tv/series/from/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 03
+http://vods.tuxchannel.tv/series/from/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 04
+http://vods.tuxchannel.tv/series/from/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 05
+http://vods.tuxchannel.tv/series/from/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 06
+http://vods.tuxchannel.tv/series/from/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 07
+http://vods.tuxchannel.tv/series/from/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 08
+http://vods.tuxchannel.tv/series/from/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 09
+http://vods.tuxchannel.tv/series/from/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg" group-title="From",Cap. 10
+http://vods.tuxchannel.tv/series/from/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Fuera de radar",TRAILER
 https://archive.org/download/trailer-th-3-unl-15t-3d/trailer%20th3%20unl15t3d.mp4
@@ -4461,17 +4345,17 @@ http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_09.mkv
 http://vods.tuxchannel.tv/series/ginny_and_georgia/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 01
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E01.mkv
+http://vods.tuxchannel.tv/series/goles_en_contra/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 02
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E02.mkv
+http://vods.tuxchannel.tv/series/goles_en_contra/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 03
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E03.mkv
+http://vods.tuxchannel.tv/series/goles_en_contra/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 04
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E04.mkv
+http://vods.tuxchannel.tv/series/goles_en_contra/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 05
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E05.mkv
+http://vods.tuxchannel.tv/series/goles_en_contra/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/hl0C8p29Kr6pca17BHbDnFAsAcG.jpg" group-title="Goles en contra",Cap. 06
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/Goles%20en%20contra/S01E06.mkv
+http://vods.tuxchannel.tv/series/goles_en_contra/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Good Omens: Buenos presagios",TRAILER
 https://archive.org/download/trailer-g-00d-0m-3n-5/trailer%20G00d%200m3n5.mp4
@@ -5123,23 +5007,6 @@ https://archive.org/download/07_20211029_20211029_1954/06.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/10/18/03/12/5421613.jpg" group-title="Insiders",Cap. 07
 https://archive.org/download/07_20211029_20211029_1954/07.mp4
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/16/31/4696309.jpg" group-title="Iosi: El espía arrepentido",Cap. 01
-http://54.39.52.63/SERIE/Iosi,%20El%20Esp%c3%ada%20Arrepentido/14425.Yosi.the.Regretful.Spy.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/16/31/4696309.jpg" group-title="Iosi: El espía arrepentido",Cap. 02
-http://54.39.52.63/SERIE/Iosi,%20El%20Esp%c3%ada%20Arrepentido/15286.Yosi.the.Regretful.Spy.S01E02.720p.WEBRip-1.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/16/31/4696309.jpg" group-title="Iosi: El espía arrepentido",Cap. 03
-http://54.39.52.63/SERIE/Iosi,%20El%20Esp%c3%ada%20Arrepentido/5559.Yosi.the.Regretful.Spy.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/16/31/4696309.jpg" group-title="Iosi: El espía arrepentido",Cap. 04
-http://54.39.52.63/SERIE/Iosi,%20El%20Esp%c3%ada%20Arrepentido/2293.Yosi.the.Regretful.Spy.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/16/31/4696309.jpg" group-title="Iosi: El espía arrepentido",Cap. 05
-http://54.39.52.63/SERIE/Iosi,%20El%20Esp%c3%ada%20Arrepentido/11397.Yosi.the.Regretful.Spy.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/16/31/4696309.jpg" group-title="Iosi: El espía arrepentido",Cap. 06
-http://54.39.52.63/SERIE/Iosi,%20El%20Esp%c3%ada%20Arrepentido/18837.Yosi.the.Regretful.Spy.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/16/31/4696309.jpg" group-title="Iosi: El espía arrepentido",Cap. 07
-http://54.39.52.63/SERIE/Iosi,%20El%20Esp%c3%ada%20Arrepentido/9037.Yosi.the.Regretful.Spy.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/07/16/31/4696309.jpg" group-title="Iosi: El espía arrepentido",Cap. 08
-http://54.39.52.63/SERIE/Iosi,%20El%20Esp%c3%ada%20Arrepentido/19984.Yosi.the.Regretful.Spy.S01E08.720p.WEBRip.mkv
-
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Jaguar",TRAILER
 https://archive.org/download/trailer-j-4-gu-4-r/trailer%20J4GU4R.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/14/17/10/4037092.jpg" group-title="Jaguar",Cap. 01
@@ -5167,23 +5034,6 @@ https://archive.org/download/05_20210630_20210630_1431/03.mp4
 https://archive.org/download/05_20210630_20210630_1431/04.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/23/25/1968054.jpg" group-title="Jiva",Cap. 05
 https://archive.org/download/05_20210630_20210630_1431/05.mp4
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg" group-title="Kacis: Escape terrorista (SUB)",01
-http://54.39.52.63/SERIE%20ANGEL/KACIS/Kacis.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg" group-title="Kacis: Escape terrorista (SUB)",02
-http://54.39.52.63/SERIE%20ANGEL/KACIS/Kacis.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg" group-title="Kacis: Escape terrorista (SUB)",03
-http://54.39.52.63/SERIE%20ANGEL/KACIS/Kacis.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg" group-title="Kacis: Escape terrorista (SUB)",04
-http://54.39.52.63/SERIE%20ANGEL/KACIS/Kacis.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg" group-title="Kacis: Escape terrorista (SUB)",05
-http://54.39.52.63/SERIE%20ANGEL/KACIS/Kacis.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg" group-title="Kacis: Escape terrorista (SUB)",06
-http://54.39.52.63/SERIE%20ANGEL/KACIS/Kacis.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg" group-title="Kacis: Escape terrorista (SUB)",07
-http://54.39.52.63/SERIE%20ANGEL/KACIS/Kacis.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/kGKdpyKm9tqL9UNVqoqxqUbpYlG.jpg" group-title="Kacis: Escape terrorista (SUB)",08
-http://54.39.52.63/SERIE%20ANGEL/KACIS/Kacis.S01E08.720p.WEBRip.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Kampamento Koral: Bob Esponja primeras aventuras",TRAILER
 https://archive.org/download/trailer-k-4mp-4m-3nt-0-k-0r-4l/trailer%20K4mp4m3nt0%20K0r4l.mp4
@@ -5955,19 +5805,6 @@ http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 08
 http://vods.tuxchannel.tv/series/the_peripheral/s_01_e_08.mkv
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/buRe826xkgyU95nyMaDMuCNxfQn.jpg" group-title="La plataforma (SUB)",Cap. 01
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/the%20rig/The.Rig.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/buRe826xkgyU95nyMaDMuCNxfQn.jpg" group-title="La plataforma (SUB)",Cap. 02
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/the%20rig/The.Rig.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/buRe826xkgyU95nyMaDMuCNxfQn.jpg" group-title="La plataforma (SUB)",Cap. 03
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/the%20rig/The.Rig.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/buRe826xkgyU95nyMaDMuCNxfQn.jpg" group-title="La plataforma (SUB)",Cap. 04
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/the%20rig/The.Rig.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/buRe826xkgyU95nyMaDMuCNxfQn.jpg" group-title="La plataforma (SUB)",Cap. 05
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/the%20rig/The.Rig.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/buRe826xkgyU95nyMaDMuCNxfQn.jpg" group-title="La plataforma (SUB)",Cap. 06
-http://54.39.52.63/SERIE%20POR%20MES/ENERO/the%20rig/The.Rig.S01E06.720p.WEBRip.mkv
-
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La rueda del tiempo",TRAILER
 https://archive.org/download/trailer-l-4-ru-3d-4-d-3l-t-13mp-0/trailer%20L4%20Ru3d4%20d3l%20T13mp0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/24/20/57/3405849.jpg" group-title="La rueda del tiempo",Cap. 01
@@ -6024,29 +5861,6 @@ http://vods.tuxchannel.tv/series/the_serpent/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/the_serpent/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ve+bdko8L._AC_.jpg" group-title="La serpiente",Cap. 08
 http://vods.tuxchannel.tv/series/the_serpent/s_01_e_08.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La suegra que te pario (SUB)",TRAILER
-https://archive.org/download/trailer-l-4-5u-3gr-4-qu-3-t-3-p-4r-10/trailer%20L4%205u3gr4%20qu3%20t3%20p4r10.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 01
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/9808.Smother-in-Law.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 02
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/8382.Smother-in-Law.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 03
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/7965.Smother-in-Law.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 04
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/6124.Smother-in-Law.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 05
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/16372.Smother-in-Law.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 06
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/7425.Smother-in-Law.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 07
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/4883.Smother-in-Law.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 08
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/3812.Smother-in-Law.S01E08.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 09
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/4936.Smother-in-Law.S01E09.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/24/22/32/2678571.jpg" group-title="La suegra que te pario (SUB)",Cap. 10
-http://54.39.52.63/SERIE/A%20Sogra%20Que%20Te%20Pariu/8032.Smother-in-Law.S01E10.720p.WEBRip.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La templanza",TRAILER
 https://archive.org/download/trailer-l-4-t-3mpl-4nz-4/trailer%20L4%20T3mpl4nz4.mp4
@@ -6178,8 +5992,6 @@ http://vods.tuxchannel.tv/series/legacies/s_02_e_15.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/01/20/17/2727279.jpg" group-title="Legacies T2",Cap. 16
 http://vods.tuxchannel.tv/series/legacies/s_02_e_16.mkv
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Legion T1",TRAILER
-
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/16/12/22/09/49/422973.jpg" group-title="Legion T1",Cap. 01
 http://vods.tuxchannel.tv/series/legion/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/16/12/22/09/49/422973.jpg" group-title="Legion T1",Cap. 02
@@ -6255,27 +6067,6 @@ http://vods.tuxchannel.tv/series/away/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/away/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/21/13/30/0440016.jpg" group-title="Lejos",Cap. 10
 http://vods.tuxchannel.tv/series/away/s_01_e_10.mkv
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 01
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 02
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 03
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 04
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 05
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 06
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 07
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 08
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E08.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 09
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E09.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/xutkCwxnijKGtcap9lZH6ra3RwB.jpg" group-title="Limbo: Hasta que lo decida",Cap. 10
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/LIMBO%202022/TEMP1/Limbo.S01E10.720p.WEBRip.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBkMjNhZTYtZjViNS00M2NhLTgwMTEtOWIyYTExZTE1ZjI4XkEyXkFqcGdeQXVyODU4MjAxOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Lios de familia",Cap. 01
 http://51.81.208.167/series2022/LIO.DE.FAMILIA/T01E01.mp4
@@ -6712,19 +6503,6 @@ http://vods.tuxchannel.tv/series/maria_felix_la_dona/s_01_e_06.mkv
 http://vods.tuxchannel.tv/series/maria_felix_la_dona/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/374980/374980_173x236.jpg" group-title="Maria Felix: La doña T1",Cap. 08
 http://vods.tuxchannel.tv/series/maria_felix_la_dona/s_01_e_08.mkv
-
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/8vxO9e8iGwJIDLUzwEDsx07DUxr.jpg" group-title="Marion SUB",Cap. 01
-http://54.39.52.63/SERIE%20ANGEL/series/Marion.S01.720p.WEBRip/Marion.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/8vxO9e8iGwJIDLUzwEDsx07DUxr.jpg" group-title="Marion SUB",Cap. 02
-http://54.39.52.63/SERIE%20ANGEL/series/Marion.S01.720p.WEBRip/Marion.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/8vxO9e8iGwJIDLUzwEDsx07DUxr.jpg" group-title="Marion SUB",Cap. 03
-http://54.39.52.63/SERIE%20ANGEL/series/Marion.S01.720p.WEBRip/Marion.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/8vxO9e8iGwJIDLUzwEDsx07DUxr.jpg" group-title="Marion SUB",Cap. 04
-http://54.39.52.63/SERIE%20ANGEL/series/Marion.S01.720p.WEBRip/Marion.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/8vxO9e8iGwJIDLUzwEDsx07DUxr.jpg" group-title="Marion SUB",Cap. 05
-http://54.39.52.63/SERIE%20ANGEL/series/Marion.S01.720p.WEBRip/Marion.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/8vxO9e8iGwJIDLUzwEDsx07DUxr.jpg" group-title="Marion SUB",Cap. 06
-http://54.39.52.63/SERIE%20ANGEL/series/Marion.S01.720p.WEBRip/Marion.S01E06.720p.WEBRip.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/43/0c/11/430c11c2c49af526a6e5bd55a3be81e0.jpg" group-title="Maya y los tres",Cap. 01
 https://archive.org/download/02_20211029_20211029_2239/01.mp4
@@ -7175,23 +6953,6 @@ http://vods.tuxchannel.tv/series/oscuro_deseo/s_01_e_16.mkv
 http://vods.tuxchannel.tv/series/oscuro_deseo/s_01_e_17.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/17/14/31/4362440.jpg" group-title="Oscuro Deseo T1",Cap. 18
 http://vods.tuxchannel.tv/series/oscuro_deseo/s_01_e_18.mkv
-
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/20/15/31/3452459.jpg" group-title="Outer range: Tierra de nadie",Cap. 01
-https://archive.org/download/04_20220422/01.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/20/15/31/3452459.jpg" group-title="Outer range: Tierra de nadie",Cap. 02
-https://archive.org/download/04_20220422/02.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/20/15/31/3452459.jpg" group-title="Outer range: Tierra de nadie",Cap. 03
-https://archive.org/download/04_20220422/03.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/20/15/31/3452459.jpg" group-title="Outer range: Tierra de nadie",Cap. 04
-https://archive.org/download/04_20220422/04.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/20/15/31/3452459.jpg" group-title="Outer range: Tierra de nadie",Cap. 05
-http://54.39.52.63/SERIE/Outer%20Range/10380.Outer.Range.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/20/15/31/3452459.jpg" group-title="Outer range: Tierra de nadie",Cap. 06
-http://54.39.52.63/SERIE/Outer%20Range/10089.Outer.Range.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/20/15/31/3452459.jpg" group-title="Outer range: Tierra de nadie",Cap. 07
-http://54.39.52.63/SERIE/Outer%20Range/6188.Outer.Range.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/20/15/31/3452459.jpg" group-title="Outer range: Tierra de nadie",Cap. 08
-http://54.39.52.63/SERIE/Outer%20Range/7331.Outer.Range.S01E08.720p.WEBRip.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/05/09/11/19/169500.jpg" group-title="Outlander: Forastero T1",Cap. 01
 http://vods.tuxchannel.tv/series/outlander/s_01_e_01.mkv
@@ -7824,23 +7585,6 @@ http://vods.tuxchannel.tv/series/dare_me/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8f/d1/78/8fd178d87947a9a6c5fe79c144c9b099.jpg" group-title="Retame",Cap. 10
 http://vods.tuxchannel.tv/series/dare_me/s_01_e_10.mkv
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/9EMO5RrXikfMCHgqddZrvXrhAxo.jpg" group-title="Sagrada familia",Cap. 01
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/SAGRADA%20FAMILIA%20(2022)%20(CASTELLANO)/TEMP1/Holy.Family.S01E01.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/9EMO5RrXikfMCHgqddZrvXrhAxo.jpg" group-title="Sagrada familia",Cap. 02
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/SAGRADA%20FAMILIA%20(2022)%20(CASTELLANO)/TEMP1/Holy.Family.S01E02.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/9EMO5RrXikfMCHgqddZrvXrhAxo.jpg" group-title="Sagrada familia",Cap. 03
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/SAGRADA%20FAMILIA%20(2022)%20(CASTELLANO)/TEMP1/Holy.Family.S01E03.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/9EMO5RrXikfMCHgqddZrvXrhAxo.jpg" group-title="Sagrada familia",Cap. 04
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/SAGRADA%20FAMILIA%20(2022)%20(CASTELLANO)/TEMP1/Holy.Family.S01E04.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/9EMO5RrXikfMCHgqddZrvXrhAxo.jpg" group-title="Sagrada familia",Cap. 05
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/SAGRADA%20FAMILIA%20(2022)%20(CASTELLANO)/TEMP1/Holy.Family.S01E05.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/9EMO5RrXikfMCHgqddZrvXrhAxo.jpg" group-title="Sagrada familia",Cap. 06
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/SAGRADA%20FAMILIA%20(2022)%20(CASTELLANO)/TEMP1/Holy.Family.S01E06.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/9EMO5RrXikfMCHgqddZrvXrhAxo.jpg" group-title="Sagrada familia",Cap. 07
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/SAGRADA%20FAMILIA%20(2022)%20(CASTELLANO)/TEMP1/Holy.Family.S01E07.720p.WEBRip.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/9EMO5RrXikfMCHgqddZrvXrhAxo.jpg" group-title="Sagrada familia",Cap. 08
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/SAGRADA%20FAMILIA%20(2022)%20(CASTELLANO)/TEMP1/Holy.Family.S01E08.720p.WEBRip.mkv
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg" group-title="Sangre sexo y realeza",Cap. 01
 https://archive.org/download/03_20221126/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/11/w1280/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg" group-title="Sangre sexo y realeza",Cap. 02
@@ -8311,23 +8055,6 @@ http://vods.tuxchannel.tv/series/we_are_the_wave/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/05/08/34/2501726.jpg" group-title="Somos una ola",Cap. 06
 http://vods.tuxchannel.tv/series/we_are_the_wave/s_01_e_06.mkv
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/02/17/37/3285381.jpg" group-title="S.O.Z. Soldados o Zombies",Cap. 01
-http://54.39.52.63/SERIE/s.o.z/S.O.Z.%20Soldados%20o%20Zombies%201%c3%971%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/02/17/37/3285381.jpg" group-title="S.O.Z. Soldados o Zombies",Cap. 02
-http://54.39.52.63/SERIE/s.o.z/S.O.Z.%20Soldados%20o%20Zombies%201%c3%972%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/02/17/37/3285381.jpg" group-title="S.O.Z. Soldados o Zombies",Cap. 03
-http://54.39.52.63/SERIE/s.o.z/S.O.Z.%20Soldados%20o%20Zombies%201%c3%973%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/02/17/37/3285381.jpg" group-title="S.O.Z. Soldados o Zombies",Cap. 04
-http://54.39.52.63/SERIE/s.o.z/S.O.Z.%20Soldados%20o%20Zombies%201%c3%974%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/02/17/37/3285381.jpg" group-title="S.O.Z. Soldados o Zombies",Cap. 05
-http://54.39.52.63/SERIE/s.o.z/S.O.Z.%20Soldados%20o%20Zombies%201%c3%975%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/02/17/37/3285381.jpg" group-title="S.O.Z. Soldados o Zombies",Cap. 06
-http://54.39.52.63/SERIE/s.o.z/S.O.Z.%20Soldados%20o%20Zombies%201%c3%976%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/02/17/37/3285381.jpg" group-title="S.O.Z. Soldados o Zombies",Cap. 07
-http://54.39.52.63/SERIE/s.o.z/S.O.Z.%20Soldados%20o%20Zombies%201%c3%977%20%e2%80%93%20ARESHD.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/02/17/37/3285381.jpg" group-title="S.O.Z. Soldados o Zombies",Cap. 08
-http://54.39.52.63/SERIE/s.o.z/S.O.Z.%20Soldados%20o%20Zombies%201%c3%978%20%e2%80%93%20ARESHD.mp4
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/18/14/19/1457230.jpg" group-title="Space Force T1",Cap. 01
 http://vods.tuxchannel.tv/series/space_force/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/18/14/19/1457230.jpg" group-title="Space Force T1",Cap. 02
@@ -8561,27 +8288,6 @@ http://vods.tuxchannel.tv/series/sweet_home/s_01_e_08.mkv
 http://vods.tuxchannel.tv/series/sweet_home/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/01/20/49/0619993.jpg" group-title="Sweet Home",Cap. 10
 http://vods.tuxchannel.tv/series/sweet_home/s_01_e_10.mkv
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 01
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x1.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 02
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x2.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 03
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 04
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 05
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x5.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 06
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x6.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 07
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x7.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 08
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x8.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 09
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x9.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/17/46/2491871.jpg" group-title="Terapia alternativa",Cap. 10
-http://54.39.52.63/SERIE/Terapia%20alternativa/1x10.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/03/05/09/31/3039972.jpg" group-title="The Act",Cap. 01
 http://vods.tuxchannel.tv/series/the_act/s_01_e_01.mkv
@@ -9520,23 +9226,6 @@ http://vods.tuxchannel.tv/series/tulsa_king/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/eQvQkyhAM7aQzJHbRLRvQv2DOIc.jpg" group-title="Tulsa king",Cap. 09
 http://vods.tuxchannel.tv/series/tulsa_king/s_01_e_09.mkv
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/zNZDQleyplrYjkUVoXgeZazK6BW.jpg" group-title="Ultimo primer día",Cap. 01
-http://54.39.52.63/SERIE/Ultimo%20primer%20d%c3%ada/7098.Ultimo.primer.dia.S01E01.1080p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/zNZDQleyplrYjkUVoXgeZazK6BW.jpg" group-title="Ultimo primer día",Cap. 02
-http://54.39.52.63/SERIE/Ultimo%20primer%20d%c3%ada/3408.Ultimo.primer.dia.S01E02.1080p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/zNZDQleyplrYjkUVoXgeZazK6BW.jpg" group-title="Ultimo primer día",Cap. 03
-http://54.39.52.63/SERIE/Ultimo%20primer%20d%c3%ada/14657.Ultimo.primer.dia.S01E03.1080p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/zNZDQleyplrYjkUVoXgeZazK6BW.jpg" group-title="Ultimo primer día",Cap. 04
-http://54.39.52.63/SERIE/Ultimo%20primer%20d%c3%ada/16067.Ultimo.primer.dia.S01E04.1080p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/zNZDQleyplrYjkUVoXgeZazK6BW.jpg" group-title="Ultimo primer día",Cap. 05
-http://54.39.52.63/SERIE/Ultimo%20primer%20d%c3%ada/6665.Ultimo.primer.dia.S01E05.1080p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/zNZDQleyplrYjkUVoXgeZazK6BW.jpg" group-title="Ultimo primer día",Cap. 06
-http://54.39.52.63/SERIE/Ultimo%20primer%20d%c3%ada/9346.Ultimo.primer.dia.S01E06.1080p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/zNZDQleyplrYjkUVoXgeZazK6BW.jpg" group-title="Ultimo primer día",Cap. 07
-http://54.39.52.63/SERIE/Ultimo%20primer%20d%c3%ada/16407.Ultimo.primer.dia.S01E07.1080p.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/zNZDQleyplrYjkUVoXgeZazK6BW.jpg" group-title="Ultimo primer día",Cap. 08
-http://54.39.52.63/SERIE/Ultimo%20primer%20d%c3%ada/4300.Ultimo.primer.dia.S01E08.1080p.WEB-DL.mkv
-
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/22/07/22/08/28/4479528.jpg" group-title="Una familia ejemplar",Cap. 01
 http://vods.tuxchannel.tv/series/a_model_family/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/pictures/22/07/22/08/28/4479528.jpg" group-title="Una familia ejemplar",Cap. 02
@@ -9701,21 +9390,6 @@ https://archive.org/download/05_20220205_20220205_2351/06.mp4
 https://archive.org/download/05_20220205_20220205_2351/07.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/11/01/23/3138013.jpg" group-title="Venir del frio",Cap. 08
 https://archive.org/download/05_20220205_20220205_2351/08.mp4
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 01
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 02
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 03
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 04
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 05
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 06
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/26/18/15/5663886.jpg" group-title="Vigilante",Cap. 07
-http://54.39.52.63/ZEUS/SERIES/SERIES%20OCTUBRE/The.Watcher.2022.S01/S01E07.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/15/17/02/1946442.jpg" group-title="Vikings: Valhalla",Cap. 01
 https://archive.org/download/05_20220415_20220415_1852/01.mp4
