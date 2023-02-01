@@ -6453,6 +6453,27 @@ http://vods.tuxchannel.tv/series/manifest/s_03_e_12.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/19/10/37/2512632.jpg" group-title="Manifest T3 (SUB)",Cap. 13
 http://vods.tuxchannel.tv/series/manifest/s_03_e_13.mkv
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 01
+http://144.217.180.205/Series/manifest/11636.Manifest.S04E01.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 02
+http://144.217.180.205/Series/manifest/14420.Manifest.S04E02.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 03
+http://144.217.180.205/Series/manifest/13281.Manifest.S04E03.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 04
+http://144.217.180.205/Series/manifest/15796.Manifest.S04E04.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 05
+http://144.217.180.205/Series/manifest/2156.Manifest.S04E05.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 06
+http://144.217.180.205/Series/manifest/5019.Manifest.S04E06.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 07
+http://144.217.180.205/Series/manifest/7791.Manifest.S04E07.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 08
+http://144.217.180.205/Series/manifest/18996.Manifest.S04E08.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 09
+http://144.217.180.205/Series/manifest/2210.Manifest.S04E09.720p.WEBRip.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2022/09/Manifest-Season-4-Poster..jpg" group-title="Manifest T4 (SUB)",Cap. 10
+http://144.217.180.205/Series/manifest/13781.Manifest.S04E10.720p.WEBRip.mkv
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 01
 http://51.81.208.167/series2022/Mar.de.la.Tranquilidad/S01/S01E01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/rxnfJEOwWlPaUdALv5YowGTD3Hd.jpg" group-title="Mar de la tranquilidad",Cap. 02
