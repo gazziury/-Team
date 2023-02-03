@@ -7,9 +7,9 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://vods.tuxchannel.tv/series/perdona_nuestros_pecados/s_01_e_02.mkv
+http://vods.tuxchannel.tv/series/perdona_nuestros_pecados/s_01_e_03.mkv
 
-http://vods.tuxchannel.tv/series/el%20senor%20de%20los%20cielos/s_08_e_11.mkv
+http://vods.tuxchannel.tv/series/el%20senor%20de%20los%20cielos/s_08_e_12.mkv
 
 http://vods.tuxchannel.tv/series/cabo/s_01_e_72.mkv ...seran 77 capitulos
 
@@ -6406,6 +6406,8 @@ http://vods.tuxchannel.tv/series/parientes_a_la_fuerza/s_01_e_97.mkv
 http://vods.tuxchannel.tv/series/perdona_nuestros_pecados/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg/250px-Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg" group-title="Perdona nuestros pecados",Cap. 02
 http://vods.tuxchannel.tv/series/perdona_nuestros_pecados/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg/250px-Perdona_nuestros_pecados_Mexican_TV_series_poster.jpg" group-title="Perdona nuestros pecados",Cap. 03
+http://vods.tuxchannel.tv/series/perdona_nuestros_pecados/s_01_e_03.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/03/12/27/3860013.jpg" group-title="Preso No. 1",Cap. 01
 http://vods.tuxchannel.tv/series/preso_no_1/s_01_e_01.mkv
