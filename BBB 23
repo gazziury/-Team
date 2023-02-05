@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 10" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Mosaico
+http://5stak.xyz:80/1768750641/5896821178/589582
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Acompanhe a casa
+http://5stak.xyz:80/1768750641/5896821178/589573
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 02" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Academia/Cozinha
+http://5stak.xyz:80/1768750641/5896821178/589574
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 03" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 03
+http://5stak.xyz:80/1768750641/5896821178/589575
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 04" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 04
+http://5stak.xyz:80/1768750641/5896821178/589576
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 05" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Cozinha
+http://5stak.xyz:80/1768750641/5896821178/589577
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 06" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Sala
+http://5stak.xyz:80/1768750641/5896821178/589578
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 07" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 07
+http://5stak.xyz:80/1768750641/5896821178/589579
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 08" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 08
+http://5stak.xyz:80/1768750641/5896821178/589580
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 09" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 09
+http://5stak.xyz:80/1768750641/5896821178/589581
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 11" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Varanda/Banheiro
+http://5stak.xyz:80/1768750641/5896821178/589583
+
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="MOSAICO" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 1 BBB",MOSAICO
 http://tntmais.com:80/wrsscnv/tvTest777/10083110
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="PRINCIPAL 1" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 1 BBB",PRINCIPAL 1
@@ -101,29 +124,6 @@ http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083098
 http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083097
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 12" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 12
 http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083096
-
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 10" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Mosaico
-http://5stak.xyz:80/1768750641/5896821178/589582
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Acompanhe a casa
-http://5stak.xyz:80/1768750641/5896821178/589573
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 02" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Academia/Cozinha
-http://5stak.xyz:80/1768750641/5896821178/589574
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 03" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 03
-http://5stak.xyz:80/1768750641/5896821178/589575
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 04" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 04
-http://5stak.xyz:80/1768750641/5896821178/589576
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 05" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Cozinha
-http://5stak.xyz:80/1768750641/5896821178/589577
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 06" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Sala
-http://5stak.xyz:80/1768750641/5896821178/589578
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 07" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 07
-http://5stak.xyz:80/1768750641/5896821178/589579
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 08" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 08
-http://5stak.xyz:80/1768750641/5896821178/589580
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 09" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",CAM 09
-http://5stak.xyz:80/1768750641/5896821178/589581
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 11" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB",Varanda/Banheiro
-http://5stak.xyz:80/1768750641/5896821178/589583
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Principal
 http://axr.life:80/394390/837023/1207093
