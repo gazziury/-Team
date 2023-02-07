@@ -6455,7 +6455,7 @@ http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 http://vod.tuxchannel.mx/peliculas/720/red%20tails.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2000/10/w1280/2B5brHMhaHN1d9KmdeZI6RlU3aE.jpg" group-title="Peliculas Viejas",Requiem por un sueño (2000)
 http://vod.tuxchannel.mx/peliculas/720/requiem%20for%20a%20dream.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/9/w1280/bgvO8KrCmHVtcpyB7mbSz0iCePt.jpg" group-title="Peliculas Viejas",Rescate al alba (2006)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/9/w1280/bgvO8KrCmHVtcpyB7mbSz0iCePt.jpg" group-title="Peliculas Viejas",Rescate al amanecer (2006)
 http://vod.tuxchannel.mx/peliculas/720/rescue%20dawn.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1981/5/w1280/xuaGAc03ajytR8SKaWHNBdh84cC.jpg" group-title="Peliculas Viejas",Rescate en Nueva York (1981)
 http://vod.tuxchannel.mx/peliculas/720/escape%20from%20new%20york.mkv
@@ -6643,6 +6643,8 @@ http://vod.tuxchannel.mx/peliculas/720/star%20wars%20episode%20I%20the%20phantom
 http://vod.tuxchannel.mx/peliculas/720/star%20wars%20episode%20II%20attack%20of%20the%20clones.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2005/5/w1280/fen971QdTOagZEv4rAU3sjSlpj1.jpg" group-title="Peliculas Viejas",Star Wars: La venganza de los Sith (2005)
 http://vod.tuxchannel.mx/peliculas/720/star%20wars%20episode%20III%20revenge%20of%20the%20sith.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2005/7/w1280/wr6u0MOh7949W0OTo53x2jp4GFX.jpg" group-title="Peliculas Viejas",Stealth: La amenaza invisible (2005)
+http://vod.tuxchannel.mx/peliculas/720/stealth.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/8/w1280/qNvlbeaAmX2kZJSVKORN5bq2dqU.jpg" group-title="Peliculas Viejas",Step up: Bailando (2006)
 http://vod.tuxchannel.mx/peliculas/720/step%20up.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1994/12/w1280/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg" group-title="Peliculas Viejas",Street fighter: La última batalla (1994)
@@ -6729,6 +6731,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20princess%20and%20the%20frog.mkv
 http://vod.tuxchannel.mx/peliculas/720/glory.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1994/9/w300/p10kfm1F734TaMoAMsmIXmR1Wpk.jpg" group-title="Peliculas Viejas",Timecop: Policía del tiempo (1994)
 https://archive.org/download/policia-del-tiempo/policia%20del%20tiempo.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/11/w1280/tbXvsBTsi7NmjCVnzgrEZSsPSj3.jpg" group-title="Peliculas Viejas",Timeline: Rescate en el tiempo (2003)
+http://vod.tuxchannel.mx/peliculas/720/timeline%202003.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/3/w1280/rc786mz9sxtExXsSFTGOgyqHRWW.jpg" group-title="Peliculas Viejas",Tirador (2007)
 http://vod.tuxchannel.mx/peliculas/720/shooter.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1997/11/w1280/rVBIfNJZcTITcVbvgmtyPOF8CzD.jpg" group-title="Peliculas Viejas",Titanic (1997)
