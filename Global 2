@@ -1,1420 +1,918 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_2085.png" group-title="CLARO COLOMBIA (FHD)", CARACOL_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159795
-
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/small/286-2863259_claro-sports-claro-sports.png" group-title="CLARO COLOMBIA (FHD)", CLARO_SPORTS_LATAM_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159818
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" group-title="CLARO COLOMBIA (FHD)", ESPN_3_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159819
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-plus-pan-regional-hd_m.png" group-title="CLARO COLOMBIA (FHD)", HBO_PLUS_HD_MX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159821
-
 #EXTINF:-1 tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2021/07/ESPN_PLUS_FC_POS-copy.jpg" group-title="CLARO COLOMBIA (FHD)", ESPN_PLUS_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159822
-
 #EXTINF:-1 tvg-logo="https://hubdeportivo.com/wp-content/uploads/2021/03/394-3949767_fox-sports-fox-sport-2-logo-png-transparent.png" group-title="CLARO COLOMBIA (FHD)", FOXSP2MXHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159823
-
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2010/08/Noticia9287__838x390.jpg" group-title="CLARO COLOMBIA (FHD)", UNIVERSAL_CHANNEL_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159824
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1813311820_HBOSignature.png.b249d53ce9aea7ba6e6918e62263084f.png" group-title="CLARO COLOMBIA (FHD)", HBO_SIGNATURE_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159825
-
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/fox-hd-logo-png-1.png" group-title="CLARO COLOMBIA (FHD)", FOX_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159826
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CLARO COLOMBIA (FHD)", GOLDEN_PREMIER_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159827
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="CLARO COLOMBIA (FHD)", NICK_2_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159828
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="CLARO COLOMBIA (FHD)", ESPN_2_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159829
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CLARO COLOMBIA (FHD)", HBO_XTREME_HD_MX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159831
-
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/205-2055551_tnt-hd-europe-logo-tnt-hd-logo-png.png" group-title="CLARO COLOMBIA (FHD)", TNT_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159832
-
 #EXTINF:-1 tvg-logo="https://www.elfinanciero.com.mx/resizer/t4vHRoheiNbROq-ojIXjdXjLZIg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg" group-title="CLARO COLOMBIA (FHD)", FOXSPORTS_PREMIUM_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159833
-
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/e/8/7/e87ded4659a59808d596016a323f40cf_icon.jpg" group-title="CLARO COLOMBIA (FHD)", TRU_TV_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159834
-
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png" group-title="CLARO COLOMBIA (FHD)", HISTORY_CHANNEL_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159835
-
 #EXTINF:-1 tvg-logo="https://tigoco.zendesk.com/hc/article_attachments/360056464914/hbo-pop.png" group-title="CLARO COLOMBIA (FHD)", HBO_POP_HD_MX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159836
-
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/153-1531084_logopedia10-hbo-2-hd-logo-hd-png-download.png" group-title="CLARO COLOMBIA (FHD)", HBO_HD_MX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159837
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png" group-title="CLARO COLOMBIA (FHD)", TNT_SERIES_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159838
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" group-title="CLARO COLOMBIA (FHD)", ESPN_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159839
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/905b97_4a933d16efde4cc8a9b911b8bc74e213~mv2.png/v1/fit/w_2500,h_1330,al_c/905b97_4a933d16efde4cc8a9b911b8bc74e213~mv2.png" group-title="CLARO COLOMBIA (FHD)", FOXSP1 MXHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159840
-
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-max.jpg" group-title="CLARO COLOMBIA (FHD)", HBO_MUNDI_HD_MX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159842
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste-hd_m.png" group-title="CLARO COLOMBIA (FHD)", HBO_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159843
-
 #EXTINF:-1 tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2019/10/images-2-1.jpg" group-title="CLARO COLOMBIA (FHD)", DISCOVERY_CIVILIZATION
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159844
-
 #EXTINF:-1 tvg-logo="https://corporate.discovery.com/wp-content/uploads/2014/02/science_channel_redux_logo_detail.jpg" group-title="CLARO COLOMBIA (FHD)", DISCOVERY_SCIENCE
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159845
-
 #EXTINF:-1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="CLARO COLOMBIA (FHD)", tcm
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159846
-
 #EXTINF:-1 tvg-logo="https://assets.puzzlefactory.pl/puzzle/487/672/original.jpg" group-title="CLARO COLOMBIA (FHD)", DISNEY_JR
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159847
-
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/204/EF8E57A7F01BE270F597717B28A84D16/max.png" group-title="CLARO COLOMBIA (FHD)", MAX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159848
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/31AIdoYz1sL.png" group-title="CLARO COLOMBIA (FHD)", ALJAZEERA
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159849
-
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/419-4190775_transparent-boomerang-logo-png-boomerang-logo-transparent-png.png" group-title="CLARO COLOMBIA (FHD)", BOOMERANG_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159851
-
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/5a5b8ead14d8c4188e0b0938.png" group-title="CLARO COLOMBIA (FHD)", TV5
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159852
-
 #EXTINF:-1 tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/cinelatino-min.png" group-title="CLARO COLOMBIA (FHD)", CINELATINO
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159854
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/61a456_b830c605b75d4775b82e4ebd6e64ee32~mv2.jpg/v1/crop/x_0,y_148,w_2251,h_1955/fill/w_296,h_264,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMAGEN%20PERFIL%20REDES%20SOCIALES%20TELECARIBE%2002.jpg" group-title="CLARO COLOMBIA (FHD)", TELECARIBE_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159855
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg" group-title="CLARO COLOMBIA (FHD)", TLNOVELAS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159856
-
 #EXTINF:-1 tvg-logo="http://m1.myradiola.com/img/prestashop-logo-1620737576.jpg" group-title="CLARO COLOMBIA (FHD)", RADIOLA
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159858
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmdbNm4.jpg" group-title="CLARO COLOMBIA (FHD)", CINEMAX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159859
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2e/62/2f/2e622f7df9cccf17e99d8a3456344754.png" group-title="CLARO COLOMBIA (FHD)", TELECAFE_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159860
-
 #EXTINF:-1 tvg-logo="https://telepacifico.com/veo/wp-content/uploads/2016/12/logo.png" group-title="CLARO COLOMBIA (FHD)", TELEPACIFICO_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159861
-
 #EXTINF:-1 tvg-logo="https://teleamiga.tv/wp-content/uploads/2022/03/cropped-teleamiga-web-logo-01-1.png" group-title="CLARO COLOMBIA (FHD)", TELEAMIGA
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159862
-
 #EXTINF:-1 tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/cropped-mp.png" group-title="CLARO COLOMBIA (FHD)", MULTIPREMIER
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159863
-
 #EXTINF:-1 tvg-logo="https://gobernanzasdigital.com/wp-content/uploads/2020/09/CERTV_logo.jpg" group-title="CLARO COLOMBIA (FHD)", CERTV
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159864
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-l9BVoyamVcI/VuHeZ4Su-_I/AAAAAAAAAsY/90amsNQHOKE/s1600/CDN-SportsMix-Logo.jpg" group-title="CLARO COLOMBIA (FHD)", CDNSPORTSMAX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159865
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/73f994_159baf0cc66d446996af17537a83e452~mv2.png/v1/fill/w_265,h_265,al_c/Logook%20(6).png" group-title="CLARO COLOMBIA (FHD)", BARKER
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159867
-
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/678-6789763_canal-tro-hd.png" group-title="CLARO COLOMBIA (FHD)", TRO_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159868
-
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/CDN-PNG-Clipart.png" group-title="CLARO COLOMBIA (FHD)", CDNHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159869
-
 #EXTINF:-1 tvg-logo="https://www.fenixvalor.com/wp-content/uploads/2013/06/ET-DEL-TIEMPO.png" group-title="CLARO COLOMBIA (FHD)", TIEMPO_TV
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159870
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_i-sat_m.png" group-title="CLARO COLOMBIA (FHD)", ISAT
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159871
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png" group-title="CLARO COLOMBIA (FHD)", PASIONES_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159872
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="CLARO COLOMBIA (FHD)", FOX_SPORTS3_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159873
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="CLARO COLOMBIA (FHD)", FOX_SPORTS2_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159874
-
 #EXTINF:-1 tvg-logo="https://skybr.com.br/img/channels/lg-277-canal-max-up-hd.png" group-title="CLARO COLOMBIA (FHD)", MAX_UP_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159875
-
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/287-2873736_cinemax-logo-hd-png-download.png" group-title="CLARO COLOMBIA (FHD)", CINEMAX_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159876
-
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/221-2214199_prime-video-logo-png-max-prime-transparent-png.png" group-title="CLARO COLOMBIA (FHD)", MAX_PRIME_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159877
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="CLARO COLOMBIA (FHD)", FOX_SPORTS_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159878
-
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/721-7210998_paramount-channel-france.png" group-title="CLARO COLOMBIA (FHD)", PARAMOUNT_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159879
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="CLARO COLOMBIA (FHD)", NICKELODEON_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159880
-
 #EXTINF:-1 tvg-logo="https://eslanota.com/wp-content/uploads/2020/04/co_mas-chic_m.png" group-title="CLARO COLOMBIA (FHD)", MASCHIC_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159881
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1201_7_9711.png" group-title="CLARO COLOMBIA (FHD)", STUDIO_UNIVERSAL_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159882
-
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/274-2748692_sony-hd-sony-pictures-network-logo.png" group-title="CLARO COLOMBIA (FHD)", SONY_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159883
-
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/19-194908_nick-jr-hd-png-download.png" group-title="CLARO COLOMBIA (FHD)", NICK_JR_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159884
-
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="CLARO COLOMBIA (FHD)", UNIVERSAL_REALITY_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159885
-
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="CLARO COLOMBIA (FHD)", UNIVERSAL_COMEDY_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159886
-
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/177-1779538_h2more2history-h2-hd.png" group-title="CLARO COLOMBIA (FHD)", H2_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159887
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-hd-logo-0CFFA28044-seeklogo.com.png" group-title="CLARO COLOMBIA (FHD)", MTV_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159888
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="CLARO COLOMBIA (FHD)", UNIVERSAL_PREMIER_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159889
-
 #EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg" group-title="CLARO COLOMBIA (FHD)", RCN_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159890
-
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.604426719_UniversalPremiere.png.12f05e2df4549f210ad2f2219770e237.png" group-title="CLARO COLOMBIA (FHD)", UNIVERSAL_PREMIER_HD_MX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159891
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.139088045_UniversalCrime-Oscuro.png.b98d5401ede096af7197e12256a6ec37.png" group-title="CLARO COLOMBIA (FHD)", UNIVERSAL_CRIME_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159892
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png" group-title="CLARO COLOMBIA (FHD)", GOLDEN_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159893
-
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png" group-title="CLARO COLOMBIA (FHD)", MTV_LIVE_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159894
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CLARO COLOMBIA (FHD)", SPACE_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159895
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png" group-title="CLARO COLOMBIA (FHD)", UNIVERSAL_CRIME_HD_MX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159896
-
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/272-2722033_vh1-hd.png" group-title="CLARO COLOMBIA (FHD)", VH1_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159897
-
 #EXTINF:-1 tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/572.png" group-title="CLARO COLOMBIA (FHD)", UNIVERSAL_CINEMA_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159898
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="CLARO COLOMBIA (FHD)", WARNER_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159899
-
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png" group-title="CLARO COLOMBIA (FHD)", TLC_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159900
-
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/177-1779538_h2more2history-h2-hd.png" group-title="CLARO COLOMBIA (FHD)", H2_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159901
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="CLARO COLOMBIA (FHD)", TOONCAST
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159902
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/meme.png.5b9ce8a51c04ecadd910c55234f0c52b.png" group-title="CLARO COLOMBIA (FHD)", RCN_TELENOVELAS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159903
-
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/296-2960817_vh1-classic-tv-logo-hd-png-download.png" group-title="CLARO COLOMBIA (FHD)", VH1_CLASSIC
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159905
-
 #EXTINF:-1 tvg-logo="https://imagenesntn24.canalrcn.com/ImgNtn24/asset/990X557.png" group-title="CLARO COLOMBIA (FHD)", NTN24
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159906
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg" group-title="CLARO COLOMBIA (FHD)", TCM
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159907
-
 #EXTINF:-1 tvg-logo="https://www.glitztvla.com/images/logo.png" group-title="CLARO COLOMBIA (FHD)", GLITZ
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159908
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Nicktoons-on-Nickelodeon-Animation-Studio-logo.png" group-title="CLARO COLOMBIA (FHD)", NICKTOONS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159909
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv-hits_m.png" group-title="CLARO COLOMBIA (FHD)", MTV_HITS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159910
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/640px-Canal_RCN_logo_%282%29.svg.png" group-title="CLARO COLOMBIA (FHD)", NUESTRA_TELE
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159911
-
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/177-1773667_tbs-logo.png" group-title="CLARO COLOMBIA (FHD)", TBS_HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159912
-
 #EXTINF:-1 tvg-logo="http://144.217.80.14/cine/hbo.jpeg" group-title="High quality (LAT)", HQ | HBO
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170737
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a7f9c898c812805f26c4ea1e490201da.jpeg" group-title="High quality (LAT)", HQ | HBO 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170738
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg" group-title="High quality (LAT)", HQ | HBO Mundi
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170739
-
 #EXTINF:-1 tvg-logo="http://144.217.80.14/cine/hboplus.jpeg" group-title="High quality (LAT)", HQ | HBO PLUS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170740
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ad7c604a311bc79f9110eaa409f12719.jpeg" group-title="High quality (LAT)", HQ | HBO POP
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170741
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/3d85a8c42a57d5fc2496061270e2352d.jpg" group-title="High quality (LAT)", HQ |HBO Xtreme
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170742
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/16e197121c1752d4f42e8999863104ce.jpg" group-title="High quality (LAT)", HQ | History
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170743
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/33561003f44d374c719506bef4faeba4.jpg" group-title="High quality (LAT)", HQ | Sony
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170744
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ff2364a0be3d20e46cc69efb36afe9a5.jpg" group-title="High quality (LAT)", HQ | Space
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170745
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/bcb016feb3b993ee892455bbc8c3d22d.jpg" group-title="High quality (LAT)", HQ | Discovery H&H
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170746
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a8754f6507cc84e3122cf46c87aee217.jpg" group-title="High quality (LAT)", HQ | Studio Universal
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170747
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/05fce68836347ec77b6ce7f4c3367a36.jpg" group-title="High quality (LAT)", HQ | TNT
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170748
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/c72dc58420bf5bb9bfd5792b75564396.jpg" group-title="High quality (LAT)", HQ | Universal
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170749
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/b6bb43df4525b928a105fb5741bddbea.jpg" group-title="High quality (LAT)", HQ |A&E
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170750
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/697247b79586fe36269e1133aa0646cc.jpg" group-title="High quality (LAT)", HQ | Distrito Comedia
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/170751
-
 #EXTINF:-1 tvg-logo="https://dimayor.com.co/wp-content/uploads/2020/01/Logo-Liga-Home.png" group-title="FUTBOL COLOMBIANO", LIGA BETPLAY PARTIDOS DEL DIA
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/171876
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/8fcdad15bb44fd8be6762a605960dd48.png" group-title="CLARO TV (FHD)", Space
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/158702
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/3c2020133ca908d149298b20723d3f77.png" group-title="CLARO TV (FHD)", Cinecanal
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/158708
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/f75fbac761079100a1dfe820b333d12b.png" group-title="CLARO TV (FHD)", Paramount Network
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/158710
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/ELGARAGE/EXPORTACION_WEB/SS/ELGARAGE_t-290x163.png" group-title="CLARO TV (FHD)", El Garage
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159156
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISCOVERYTURBO/EXPORTACION_WEB/SS/DISCOVERYTURBO_t-290x163.png" group-title="CLARO TV (FHD)", Discovery Turbo
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159157
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png" group-title="CLARO TV (FHD)", Discovery Kids Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159161
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISNEYCHANNEL/EXPORTACION_WEB/SS/DISNEYCHANNEL_t-290x163.png" group-title="CLARO TV (FHD)", Disney Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159162
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIOR_t-290x163.png" group-title="CLARO TV (FHD)", Disney Junior
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159163
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TEENNICK/EXPORTACION_WEB/SS/TEENNICK_t-290x163.png" group-title="CLARO TV (FHD)", Teennick
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159164
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CARTOONNETWORKHD/EXPORTACION_WEB/SS/CARTOONNETWORKHD_t-290x163.png" group-title="CLARO TV (FHD)", Cartoon Network HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159167
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png" group-title="CLARO TV (FHD)", Cartoonito
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159169
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISCOVERYIDHD/EXPORTACION_WEB/SS/DISCOVERYIDHD_t-290x163.png" group-title="CLARO TV (FHD)", Discoveryidhd
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159173
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="CLARO TV (FHD)", Star Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159174
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TCM/EXPORTACION_WEB/SS/TCM_t-290x163.png" group-title="CLARO TV (FHD)", Tcm
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159177
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TNTHD/EXPORTACION_WEB/SS/TNTHD_t-290x163.png" group-title="CLARO TV (FHD)", Tnt HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159178
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/TNTSERIESHD/EXPORTACION_WEB/SS/TNTSERIESHD_t-290x163.png" group-title="CLARO TV (FHD)", Tnt Series HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159179
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/SPACEHD/EXPORTACION_WEB/SS/SPACEHD_t-290x163.png" group-title="CLARO TV (FHD)", Space HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159180
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/AXNHD/EXPORTACION_WEB/SS/AXNHD_t-290x163.png" group-title="CLARO TV (FHD)", Axn HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159182
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/UNIVERSALHD/EXPORTACION_WEB/SS/UNIVERSALHD_t-290x163.png" group-title="CLARO TV (FHD)", Universal HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159186
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="CLARO TV (FHD)", Tve
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159190
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/STARTVEHD/EXPORTACION_WEB/SS/STARTVEHD_t-290x163.png" group-title="CLARO TV (FHD)", Star Tve HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159191
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/A3SERIES/EXPORTACION_WEB/SS/A3SERIES_t-290x163.png" group-title="CLARO TV (FHD)", A3series
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159192
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/AMCHD/EXPORTACION_WEB/SS/AMCHD_t-290x163.png" group-title="CLARO TV (FHD)", Amc HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159193
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/EUROPAEUROPAHD/EXPORTACION_WEB/SS/EUROPAEUROPAHD_t-290x163.png" group-title="CLARO TV (FHD)", Europa Europa HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159194
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/COMEDYCENTRALHD/EXPORTACION_WEB/SS/COMEDYCENTRALHD_t-290x163.png" group-title="CLARO TV (FHD)", Comedy Central HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159196
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CINEAR/EXPORTACION_WEB/SS/CINEAR_t-290x163.png" group-title="CLARO TV (FHD)", Cinear
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159197
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/RCNTELENOVELAS/EXPORTACION_WEB/SS/RCNTELENOVELAS_t-290x163.png" group-title="CLARO TV (FHD)", Rcn Telenovelas
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159198
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PASIONESHD/EXPORTACION_WEB/SS/PASIONESHD_t-290x163.png" group-title="CLARO TV (FHD)", Pasiones HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159199
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ELGOURMETHD/EXPORTACION_WEB/SS/ELGOURMETHD_t-290x163.png" group-title="CLARO TV (FHD)", El Gourmet HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159204
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/EENTERTAINMENTHD/EXPORTACION_WEB/SS/EENTERTAINMENTHD_t-290x163.png" group-title="CLARO TV (FHD)", E Entertainment HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159206
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/LIFETIMENEW/EXPORTACION_WEB/SS/LIFETIMENEW_t-290x163.png" group-title="CLARO TV (FHD)", Lifetime New
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159207
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/FOODNETWORKHD/EXPORTACION_WEB/SS/FOODNETWORKHD_t-290x163.png" group-title="CLARO TV (FHD)", Foodnetwork HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159208
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ANIMALPLANETHD/EXPORTACION_WEB/SS/ANIMALPLANETHD_t-290x163.png" group-title="CLARO TV (FHD)", Animal Planet HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159209
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DISCOVERYCHANNELNEWHD/EXPORTACION_WEB/SS/DISCOVERYCHANNELNEWHD_t-290x163.png" group-title="CLARO TV (FHD)", Discovery Channel New HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159210
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DISCOVERYSCIENCE/EXPORTACION_WEB/SS/DISCOVERYSCIENCE_t-290x163.png" group-title="CLARO TV (FHD)", Discovery Science
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159212
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/DISCOVERYWORLDHD/EXPORTACION_WEB/SS/DISCOVERYWORLDHD_t-290x163.png" group-title="CLARO TV (FHD)", Discovery World HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159213
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/DISCOVERYTHEATERHD/EXPORTACION_WEB/SS/DISCOVERYTHEATERHD_t-290x163.png" group-title="CLARO TV (FHD)", Discovery Theater HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159214
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/HISTORY2/EXPORTACION_WEB/SS/HISTORY2_t-290x163.png" group-title="CLARO TV (FHD)", History 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159216
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/HISTORYCHANNELHD/EXPORTACION_WEB/SS/HISTORYCHANNELHD_t-290x163.png" group-title="CLARO TV (FHD)", History Channel HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159217
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CNNENESPAOL/EXPORTACION_WEB/SS/CNNENESPAOL_t-290x163.png" group-title="CLARO TV (FHD)", Cnn En EspaÑol
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159219
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/MTVHITS/EXPORTACION_WEB/SS/MTVHITS_t-290x163.png" group-title="CLARO TV (FHD)", Mtv Hits
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159237
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBO2HD/EXPORTACION_WEB/SS/HBO2HD_t-290x163.png" group-title="CLARO TV (FHD)", Hbo 2 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159249
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOPOP/EXPORTACION_WEB/SS/HBOPOP_t-290x163.png" group-title="CLARO TV (FHD)", Hbopop
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159251
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALPREMIEREESTEHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREESTEHD_t-290x163.png" group-title="CLARO TV (FHD)", Universal Premiere Este HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/159252
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CANALDELACIUDAD/EXPORTACION_WEB/SS/CANALDELACIUDAD_t-290x163.png" group-title="CLARO TV (FHD)", Canal De La Ciudad
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160652
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/AMERICATV/EXPORTACION_WEB/SS/AMERICATV_t-290x163.png" group-title="CLARO TV (FHD)", America Tv
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160654
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TELEF/EXPORTACION_WEB/SS/TELEF_t-290x163.png" group-title="CLARO TV (FHD)", TelefÉ
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160655
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CANAL9/EXPORTACION_WEB/SS/CANAL9_t-290x163.png" group-title="CLARO TV (FHD)", Canal 9
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160657
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CRNICATVHD/EXPORTACION_WEB/SS/CRNICATVHD_t-290x163.png" group-title="CLARO TV (FHD)", CrÓnica Tv HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160660
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/LANACIN/EXPORTACION_WEB/SS/LANACIN_t-290x163.png" group-title="CLARO TV (FHD)", La NaciÓn +
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160661
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CANALIP/EXPORTACION_WEB/SS/CANALIP_t-290x163.png" group-title="CLARO TV (FHD)", Canal Ip
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160662
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ENCUENTRO/EXPORTACION_WEB/SS/ENCUENTRO_t-290x163.png" group-title="CLARO TV (FHD)", Encuentro
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160663
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DIPUTADOSTVARG/EXPORTACION_WEB/SS/DIPUTADOSTVARG_t-290x163.png" group-title="CLARO TV (FHD)", Diputados Tv Arg
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160664
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/MULTIVISIONHD/EXPORTACION_WEB/SS/MULTIVISIONHD_t-290x163.png" group-title="CLARO TV (FHD)", Multivision HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160665
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/T5SATELITAL/EXPORTACION_WEB/SS/T5SATELITAL_t-290x163.png" group-title="CLARO TV (FHD)", T5 Satelital
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160666
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="CLARO TV (FHD)", Claro Sports
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160667
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TYCSPORTS/EXPORTACION_WEB/SS/TYCSPORTS_t-290x163.png" group-title="CLARO TV (FHD)", Tyc Sports
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160668
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPNNEW/EXPORTACION_WEB/SS/ESPNNEW_t-290x163.png" group-title="CLARO TV (FHD)", Espn New
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160669
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/ESPN2NEW/EXPORTACION_WEB/SS/ESPN2NEW_t-290x163.png" group-title="CLARO TV (FHD)", Espn 2 New
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160670
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN3/EXPORTACION_WEB/SS/ESPN3_t-290x163.png" group-title="CLARO TV (FHD)", Espn 3
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160671
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/ESPNEXTRA/EXPORTACION_WEB/SS/ESPNEXTRA_t-290x163.png" group-title="CLARO TV (FHD)", Espn Extra
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160672
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/FOXSPORTSARGENTINA/EXPORTACION_WEB/SS/FOXSPORTSARGENTINA_t-290x163.png" group-title="CLARO TV (FHD)", Fox Sports Argentina
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160673
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FOXSPORTS2ARGENTINA/EXPORTACION_WEB/SS/FOXSPORTS2ARGENTINA_t-290x163.png" group-title="CLARO TV (FHD)", Fox Sports 2 Argentina
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160674
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FOXSPORTS3ARGENTINA/EXPORTACION_WEB/SS/FOXSPORTS3ARGENTINA_t-290x163.png" group-title="CLARO TV (FHD)", Fox Sports 3 Argentina
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160675
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DEPORTVHD/EXPORTACION_WEB/SS/DEPORTVHD_t-290x163.png" group-title="CLARO TV (FHD)", Deportv HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160676
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/PXTVHD/EXPORTACION_WEB/SS/PXTVHD_t-290x163.png" group-title="CLARO TV (FHD)", Px Tv HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160679
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/ESPNPREMIUM/EXPORTACION_WEB/SS/ESPNPREMIUM_t-290x163.png" group-title="CLARO TV (FHD)", Espn Premium
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160680
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TNTSPORTSARGENTINA/EXPORTACION_WEB/SS/TNTSPORTSARGENTINA_t-290x163.png" group-title="CLARO TV (FHD)", Tnt Sports Argentina
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160681
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TEENNICK/EXPORTACION_WEB/SS/TEENNICK_t-290x163.png" group-title="CLARO TV (FHD)", Teennick
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160685
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NICKJRHD/EXPORTACION_WEB/SS/NICKJRHD_t-290x163.png" group-title="CLARO TV (FHD)", Nick Jr HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160686
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/NICKHDARG/EXPORTACION_WEB/SS/NICKHDARG_t-290x163.png" group-title="CLARO TV (FHD)", Nick HD Arg
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160687
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TOONCAST/EXPORTACION_WEB/SS/TOONCAST_t-290x163.png" group-title="CLARO TV (FHD)", Tooncast
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160691
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/CLAROCINEMAHD/EXPORTACION_WEB/SS/CLAROCINEMAHD_t-290x163.png" group-title="CLARO TV (FHD)", Claro Cinema HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160693
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/FXHD/EXPORTACION_WEB/SS/FXHD_t-290x163.png" group-title="CLARO TV (FHD)", Fx HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160696
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/AEMUNDOHD/EXPORTACION_WEB/SS/AEMUNDOHD_t-290x163.png" group-title="CLARO TV (FHD)", Ae Mundo HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160702
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CINEMAXHD/EXPORTACION_WEB/SS/CINEMAXHD_t-290x163.png" group-title="CLARO TV (FHD)", Cinemax HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160704
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CANALSONYHD/EXPORTACION_WEB/SS/CANALSONYHD_t-290x163.png" group-title="CLARO TV (FHD)", Canal Sony HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160705
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/SYFYHD/EXPORTACION_WEB/SS/SYFYHD_t-290x163.png" group-title="CLARO TV (FHD)", Syfy HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160708
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/STUDIOUNIVERSAL/EXPORTACION_WEB/SS/STUDIOUNIVERSAL_t-290x163.png" group-title="CLARO TV (FHD)", Studio Universal
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160709
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/TELEMUNDO/EXPORTACION_WEB/SS/TELEMUNDO_t-290x163.png" group-title="CLARO TV (FHD)", Telemundo
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160710
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/FILMANDARTSHD/EXPORTACION_WEB/SS/FILMANDARTSHD_t-290x163.png" group-title="CLARO TV (FHD)", Film And Arts HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160716
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/PARAMOUNTCHANNELHD/EXPORTACION_WEB/SS/PARAMOUNTCHANNELHD_t-290x163.png" group-title="CLARO TV (FHD)", Paramount Channel HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160717
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/RCNTELENOVELAS/EXPORTACION_WEB/SS/RCNTELENOVELAS_t-290x163.png" group-title="CLARO TV (FHD)", Rcn Telenovelas
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160720
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CANALCLAROHD/EXPORTACION_WEB/SS/CANALCLAROHD_t-290x163.png" group-title="CLARO TV (FHD)", Canal Claro HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160722
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DISCOVERYHOMEANDHEALTHCHANNEL/EXPORTACION_WEB/SS/DISCOVERYHOMEANDHEALTHCHANNEL_t-290x163.png" group-title="CLARO TV (FHD)", Discovery Home And Health Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160723
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TLCCHANNEL/EXPORTACION_WEB/SS/TLCCHANNEL_t-290x163.png" group-title="CLARO TV (FHD)", Tlc Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160724
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="CLARO TV (FHD)", Hola Tv
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160725
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/MSCHICHD/EXPORTACION_WEB/SS/MSCHICHD_t-290x163.png" group-title="CLARO TV (FHD)", MÁs Chic HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160727
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/HOMEANDGARDEN/EXPORTACION_WEB/SS/HOMEANDGARDEN_t-290x163.png" group-title="CLARO TV (FHD)", Home And Garden
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160733
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/NATIONALGEOGRAPHICHD/EXPORTACION_WEB/SS/NATIONALGEOGRAPHICHD_t-290x163.png" group-title="CLARO TV (FHD)", National Geographic HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160737
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/CANALRURAL/EXPORTACION_WEB/SS/CANALRURAL_t-290x163.png" group-title="CLARO TV (FHD)", Canal Rural
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160740
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CNNINTERNACIONAL/EXPORTACION_WEB/SS/CNNINTERNACIONAL_t-290x163.png" group-title="CLARO TV (FHD)", Cnn Internacional
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160742
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/DWTV/EXPORTACION_WEB/SS/DWTV_t-290x163.png" group-title="CLARO TV (FHD)", Dw Tv
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160744
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ARGENTINISIMASATELITAL/EXPORTACION_WEB/SS/ARGENTINISIMASATELITAL_t-290x163.png" group-title="CLARO TV (FHD)", Argentinisima Satelital
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160748
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CONCERTCHANNELHD/EXPORTACION_WEB/SS/CONCERTCHANNELHD_t-290x163.png" group-title="CLARO TV (FHD)", Concert Channel HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160756
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/MTVHD/EXPORTACION_WEB/SS/MTVHD_t-290x163.png" group-title="CLARO TV (FHD)", Mtv HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160758
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/MTVCLUB/EXPORTACION_WEB/SS/MTVCLUB_t-290x163.png" group-title="CLARO TV (FHD)", Mtv Club
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160761
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/MTV00S/EXPORTACION_WEB/SS/MTV00S_t-290x163.png" group-title="CLARO TV (FHD)", Mtv 00's
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160762
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/MTV80/EXPORTACION_WEB/SS/MTV80_t-290x163.png" group-title="CLARO TV (FHD)", Mtv 80
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160763
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/NICKMUSIC/EXPORTACION_WEB/SS/NICKMUSIC_t-290x163.png" group-title="CLARO TV (FHD)", Nickmusic
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160764
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/HTV/EXPORTACION_WEB/SS/HTV_t-290x163.png" group-title="CLARO TV (FHD)", Htv
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160765
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/HBO/PELICULAS/HBOFAMILYCHANNEL/EXPORTACION_WEB/SS/HBOFAMILYCHANNEL_t-290x163.png" group-title="CLARO TV (FHD)", Hbo Family Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160766
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/HBO/PELICULAS/HBOHD/EXPORTACION_WEB/SS/HBOHD_t-290x163.png" group-title="CLARO TV (FHD)", Hbo HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160767
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn5.clarovideo.net/HBO/PELICULAS/HBOMUNDI/EXPORTACION_WEB/SS/HBOMUNDI_t-290x163.png" group-title="CLARO TV (FHD)", Hbomundi
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160768
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOPLUSHD/EXPORTACION_WEB/SS/HBOPLUSHD_t-290x163.png" group-title="CLARO TV (FHD)", Hbo Plus HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160769
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn3.clarovideo.net/HBO/PELICULAS/HBOSIGNATUREHDNEW/EXPORTACION_WEB/SS/HBOSIGNATUREHDNEW_t-290x163.png" group-title="CLARO TV (FHD)", Hbo Signature HD New
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160770
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/HBO/PELICULAS/HBOXTREME/EXPORTACION_WEB/SS/HBOXTREME_t-290x163.png" group-title="CLARO TV (FHD)", Hboxtreme
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160772
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="CLARO TV (FHD)", Universal Cinema HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160775
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png" group-title="CLARO TV (FHD)", Universal Comedy HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160776
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn5.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCRIMEESTEHD/EXPORTACION_WEB/SS/UNIVERSALCRIMEESTEHD_t-290x163.png" group-title="CLARO TV (FHD)", Universal Crime Este HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160777
-
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="CLARO TV (FHD)", Universal Reality HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/160778
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="LATINOS FHD/LATIN (FHD)", FHD | Discovery Home and Health
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90233
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif" group-title="LATINOS FHD/LATIN (FHD)", FHD | Cinemax
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90263
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a4c0db3fc3fcab436feba24bbbbe0316.jpg" group-title="LATINOS FHD/LATIN (FHD)", FHD | HBO FAMILY
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90270
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/04292cb72d530a64d029a611a7f5f56e.gif" group-title="ORLANDO (FLORIDA)", Telemundo | Orlando
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/96659
-
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/la-kalle-3023-v1.jpg" group-title="COLOMBIA", LA KALLE COLOMBIA
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/172276
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/967e1375546a25085abedd96e2601bec.jpeg" group-title="DIRECTV USA (HD)", IZMX | Bandamax
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/88317
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/01ec1b1590e682852c06b872cf46c30b.jpeg" group-title="DIRECTV USA (HD)", IZMX | TRU TV
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/88330
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/aa53ca0b650dfd85c4f59fa156f7a2cc.jpeg" group-title="DIRECTV USA (HD)", IZMX | COMEDY CENTRAL
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/88333
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/982aa390a86f8be23076729b7ee71ab8.gif" group-title="DIRECTV USA (HD)", IZMX | TOONCAST
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/88340
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="DIRECTV USA (HD)", IZMX | HBO PLUS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/88347
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/fc63f58f83d1e6477e9d1a39e2675947.gif" group-title="DIRECTV USA (HD)", IZMX | SONY
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/88383
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="COSTA RICA", TiGO SPORTS COSTARICA OPC 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/167379
-
 #EXTINF:-1 tvg-logo="https://www.vippng.com/png/detail/495-4956688_discovery-channel-logo-white-investigation-discovery.png" group-title="LATINO DUAL AUDIO (FHD)", LATINO| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86847
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| AMC CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86848
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ff7e04f714e191ff795392fa777c7f34.gif" group-title="LATINO ENTRETENIMIENTO (HD)", LATINO| AXN CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86849
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| CINECANAL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86850
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/fadab9b1cc9a337d33df62a95799b4ea.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| FX PREMIUN FHD(DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86856
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/df0964125d60482c98cfdb312457d245.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86858
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c625b3229148e396fb831025874dc8ea.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| SONY CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86864
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| TNT CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86866
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| TNT SERIES PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86867
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86868
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| WARNER CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86870
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/3570d6d71c4569d8ba8d52d62854d15e.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| FILM & ARTS CHANNEL FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86871
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| CARTOON NETWORK PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86872
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a4b9d73aa8e92a6026851181611fbe31.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| DISCOVERY KIDS PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86873
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="LATINO DUAL AUDIO (FHD)", LATINO| DISNEY CHANNEL PREMIUN FHD ( DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86874
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/56e3c55755c86152df60d0e448a7bf7f.gif" group-title="LATINO ENTRETENIMIENTO (HD)", LAT| CNN EN ESPANOL FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/86975
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/41f742fe33ed29ce51863f236bd6c73b.png" group-title="MEXICO HD (ENCODER)", TELEHIT HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87009
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/0ed9404d458cfd868328bc7a08eb4e5f.png" group-title="MEXICO HD (ENCODER)", CANAL DE LAS ESTRELLAS HD CDMX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87021
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="MEXICO HD (ENCODER)", HBO HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87022
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="MEXICO HD (ENCODER)", HBO FAMILY HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87024
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="MEXICO HD (ENCODER)", HBO MUNDI HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87025
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="MEXICO HD (ENCODER)", HBO PLUS HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87026
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png" group-title="MEXICO HD (ENCODER)", HBO EXTREME HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87028
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO HD (ENCODER)", MX|*DISTRITO COMEDIA HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87029
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="MEXICO HD (ENCODER)", MX |* DISCOVERY H&H  HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87030
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/e93a997acb6cec9aec51e64a21e77eac.png" group-title="MEXICO HD (ENCODER)", MX |* ADRENALINA FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87032
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png" group-title="MEXICO HD (ENCODER)", MX |* TLC FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87033
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/b830b40478efd1395ffa550bdf276b1c.png" group-title="MEXICO HD (ENCODER)", MX |* TBS FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87035
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/aadf9024bd5c5072014c38c6bef2ae71.gif" group-title="MEXICO HD (ENCODER)", MX |* SPACE HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87036
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif" group-title="MEXICO HD (ENCODER)", MX | * H2 MEXICO FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87038
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/227c5a7767e2742104de1c193474174b.png" group-title="MEXICO HD (ENCODER)", MX |* HBO XTREME HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87041
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/6ea796d2cc6be935f471325a6929784f.png" group-title="MEXICO HD (ENCODER)", MX |* HBO FAMILY HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87042
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="MEXICO HD (ENCODER)", MX |* HBO 2 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87045
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif" group-title="MEXICO HD (ENCODER)", MX |* GOLDEN PREMIER HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87048
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title="MEXICO HD (ENCODER)", MX |* FOX SPORTS 3 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87053
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/bc3c27321719cdceecc603b08cd2f816.png" group-title="MEXICO HD (ENCODER)", MX |* FOX SPORTS 2 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87054
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/500cf40a8e8c37cbcc81a66265dc06d0.png" group-title="MEXICO HD (ENCODER)", MX |* FOX SPORTS  1 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87055
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/e69e82a3266d6feab8cd2d7eebc7ebfe.png" group-title="MEXICO HD (ENCODER)", MX |* FOX HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87062
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/7e9f2faec802eb9cace2303034565400.png" group-title="MEXICO HD (ENCODER)", MX |* ESPN 1 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87067
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/1925294ef4492da4b990901ebab5396e.png" group-title="MEXICO HD (ENCODER)", MX |* E ENTERTAIN,MENT HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87069
-
 #EXTINF:-1 tvg-logo="http://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m790169_Discovery_World_HD.png" group-title="MEXICO HD (ENCODER)", MX |* DISCOVERY WORLD HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87072
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/f5abb98f8a86fefdf93a33eb1324f360.gif" group-title="MEXICO HD (ENCODER)", MX |* DISCOVERY SCIENCE HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87074
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif" group-title="MEXICO HD (ENCODER)", MX |* DISCOVERY THEATHER HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87076
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/923px-Investigation_Discovery_Logo_2018.svg.png" group-title="MEXICO HD (ENCODER)", MX |* DISCOVERY ID HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87077
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="MEXICO HD (ENCODER)", MX |* CINECANAL HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87079
-
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/doblaje/images/b/b8/Logotipo_actual_del_canal_5_(mexico).png" group-title="MEXICO HD (ENCODER)", MX |* CANAL 5 XHGC HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87081
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/1951c890e5c769c28e3f240c84d8a55c.png" group-title="MEXICO HD (ENCODER)", MX |* AZTECA 7 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87083
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png" group-title="MEXICO HD (ENCODER)", MX |* AZTECA UNO HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87084
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/397e3fbccbed46ff43e9e8053fbcb024.png" group-title="MEXICO HD (ENCODER)", MX |* AFIZZIONADOS HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87087
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/17445dd23171f1f523c94c561fd63072.png" group-title="MEXICO HD (ENCODER)", MX |* ADN 40 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87088
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/cf90e92b3b7ca14b0440c5385eeba682.png" group-title="MEXICO HD (ENCODER)", MX |* TVC DEPORTES FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87090
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/41f742fe33ed29ce51863f236bd6c73b.png" group-title="MEXICO HD (ENCODER)", MX |* TELEHIT FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87092
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/44d0daf63320eba61e84bb8fd78ab3c1.png" group-title="MEXICO HD (ENCODER)", MX |* MTV FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87094
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ca800876e017cfb4a37803ba535dba2c.png" group-title="MEXICO HD (ENCODER)", MX |* MAS CHIC FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87095
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif" group-title="MEXICO HD (ENCODER)", MX |* FXM FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87098
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a4b9d73aa8e92a6026851181611fbe31.gif" group-title="MEXICO HD (ENCODER)", MX |* DISCOVERY KIDS FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87101
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="MEXICO HD (ENCODER)", MX |* BITME FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87102
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/bf8c44e7f3ea273cb0dea516674d5989.gif" group-title="MEXICO HD (ENCODER)", MX |* UNICABLE FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87104
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/982aa390a86f8be23076729b7ee71ab8.gif" group-title="MEXICO HD (ENCODER)", MX |* TOONCAST HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87106
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="MEXICO HD (ENCODER)", MX |* TNT SERIES HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87107
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="MEXICO HD (ENCODER)", MX |* TNT HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87108
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif" group-title="MEXICO HD (ENCODER)", MX |* AMC FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87109
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/7d951053ef3ae3ccb9a8efd2f12e1394.png" group-title="MEXICO HD (ENCODER)", MX |* DISCOVERY TLC FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87110
-
 #EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="MEXICO HD (ENCODER)", MX |* TUDN HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87111
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ab5def8d800a923e9816f2c4386b09a3.png" group-title="MEXICO HD (ENCODER)", MX |* OUTDOOR HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87113
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif" group-title="MEXICO HD (ENCODER)", MX |* iSAT HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87117
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="MEXICO HD (ENCODER)", MX |* HBO SIGNATURE HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87119
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/97e21068a9bab4e4cce283960b479925.png" group-title="MEXICO HD (ENCODER)", MX |* HBO POP HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87120
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="MEXICO HD (ENCODER)", MX |* HBO PLUS HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87121
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif" group-title="MEXICO HD (ENCODER)", MX |* ESTUDIO UNIVERSAL HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87123
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="MEXICO HD (ENCODER)", MX |* CARTOON NETWORK HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87124
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="MEXICO HD (ENCODER)", MX |* SYFY FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87126
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/6d236270adafad7c4a3343819e6f279d.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - A&E
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87429
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/29fbecf9d29cf98464c4c6955dc6d979.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Antena 3
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87430
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - AMC
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87431
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/62b33b6bb49428d57349ceee2bb424b5.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Boomerang
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87434
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Cartoon Network
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87435
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Cinecanal
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87436
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Comedy Central
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87438
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a9d7877b938c57016e1b804d14f0c607.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - De Pelicula
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87439
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/9318c2f94f171dd1f99a9308771ebeef.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - DHE
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87440
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Discovery Home & Healt
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87442
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/306bb49a5594573218e8770f24e166c7.png" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Discovery Turbo
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87443
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/df1812f643a003097a536093de37b04f.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Disney Junior
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87444
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7d548d0fa725645601e1396d3865bc49.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Disney XD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87445
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a54fa2287cc6aab5fb0dc354085681f2.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - ESPN
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87446
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5b7d8751bfe99d859c5c315e4b813487.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - ESPN 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87447
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/936f2bce8492686106780789df10f31e.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - ESPN 3
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87448
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/dc53e6bb4b2b012abcbb2e5129b8fc51.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Fox Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87449
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Fox Sports 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87456
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Fox Sports 3
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87457
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ef55c54c735ce4a2999475b46446ddc8.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - FX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87458
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Golden Edge
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87459
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Golden Premier
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87460
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - H2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87461
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/4015d23b84af662c80b672a90d7ea5cb.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - HBO
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87462
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - HBO Plus
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87463
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - HBO Signature
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87464
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - ISAT
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87466
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/d91b680174c4506fefaf31eea90df548.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Las Estrellas
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87467
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Nickelodeon
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87468
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/aadf9024bd5c5072014c38c6bef2ae71.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - Space
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87469
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - SyFy
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87470
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - TNT
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87471
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino  2mb - TNT Series
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87472
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Sony
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87473
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/f1d9c5b6d8027c635781884ee02a71bb.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Universal Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87474
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Warner Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87475
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/e34baca0a3491678de4f79772c46ab32.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Baby First
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87476
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Disney Channel
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87477
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/f1f3d8f737ed0f285c636273d5b52f17.png" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)", Latino 2mb - Food Network
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87478
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/0cd119831354bed3dfa0c1be6e4d188e.png" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| A ESTRENAR FHD **
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87515
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/0b9d9077c1a3b6d82312a7fa6903fbae.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| ACTION MAX FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87516
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| AMC HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87518
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/4d3e9f2a4a2ac3cc8d818028f5240406.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| LIFETIME FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87524
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/9055cd1f7224fb85a4dd9d6ec901acca.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| CINE MEXICANO HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87526
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| CINECANAL HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87527
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/df55ccdc1319681f5c7e25e7e47814d3.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| CINEMA DINAMITA HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87530
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| CINEMAX EAST FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87533
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| CINEMAX FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87534
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ceccd6074cd1bb3c8c1478d556ebf5b0.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| DHE FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87538
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c95b572dc3ef1b0e464273ec25bd7523.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| ESTUDIO UNIVERSAL FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87540
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/bf8bd99b86aa25586bb178b3f8b17dee.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| FILM & ARTS HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87542
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/93176d987c95ac311ec24e2e0b8a471a.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| FILM ZONE HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87543
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/63be4c5351df87536d093c58ba07c0f7.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| FOX  FAMILY PREMIUN HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87544
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/82b116f195510063f709ad2bc4b8898d.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| FOX CHANNEL FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87547
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/68cc08582de9d2b35891104c6e9fa00c.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| FOX LIFE FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87554
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/87c838e045028d2a3a0ceb8cf47fa709.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| FOX SERIES PREMIUN FHD MEXICO
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87562
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/de3e71cad2c796c62b5456f5fce7432f.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| FX HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87565
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| GOLDEN EDGE HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87568
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/09ca3f25c64819f5c8517d2b495e9585.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| GOLDEN HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87569
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/273c8e4ba33a1f6fe1596e9d90bd9815.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| GOLDEN PLUS FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87570
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| GOLDEN PREMIER FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87572
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/640740c48939f2a31562e1ac8df21e5f.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| MAX PRIME FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87595
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| SONY HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87614
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| TNT  FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87639
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| TNT SERIES FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87641
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ba7d6233f2ad692eaa350936a48e3f61.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| UNIVERSAL CHANNEL FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87643
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", CINE| WARNER FHD MEXICO
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/87645
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a9d7877b938c57016e1b804d14f0c607.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", HDMX | DE PELICULA
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90166
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", HDMX | GOLDEN EDGE
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90167
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a9d7877b938c57016e1b804d14f0c607.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | De Pelicula Clasico
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90168
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/092765ab50cf86081c76eef40c3dec50.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | Golden
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90169
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | AMC
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90170
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a9d7877b938c57016e1b804d14f0c607.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | De Pelicula
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90171
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/87ec58be18edd7d92a2564cb41bddcd6.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", Cinelatino
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90172
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | Cinemax
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90175
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/2254342becceafbd04538e0a38696791.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | D Pelicula Plus
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90176
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/675664b597f318f30d66c8d8834ea421.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | HBO 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90189
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/3d85a8c42a57d5fc2496061270e2352d.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | HBO Extreme
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90190
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a4c0db3fc3fcab436feba24bbbbe0316.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | HBO Family
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90191
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/92c7f2a578f371c05f0ac9b85ea00f9f.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | HBO Mundi
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90192
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | HBO Plus
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90193
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ad7c604a311bc79f9110eaa409f12719.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | HBO Pop
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90194
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | HBO Signature
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90195
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | SyFy
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90197
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/20590cac6bdbb1d87c1d1587da998b23.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", HDMX | HBO
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90199
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/675664b597f318f30d66c8d8834ea421.jpg" group-title="CINE LATINO /LATIN CINEMA (HD)", HDMX | HBO 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90200
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", HDMX | Cinecanal
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90203
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", HD | Cinemax
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90204
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/2e6a716c360e4313b24200ed336c9049.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", MX | AZ Cinema
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/90211
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/588dca1fb4f032f6bcf4cde359f4adc5.gif" group-title="LATINO ENCODER USA (HD)", BEIN SPORTS ESPANOL HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/106373
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/e8d0bf852461144fe46ffe1b6eb5062e.gif" group-title="LATINO ENCODER USA (HD)", FOX DEPORTES USA HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/106374
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/4036a3d4386b61a5ef856cb691415e2a.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", IZMX | Universal Premiere
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/118258
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/22aa5cdfae05530237a2f03eb3a2315e.gif" group-title="CANALES DE CRIMEN (FHD)", IZMX | Universal Crime
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/118260
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5bf2870126b6b8b50b709199fe1cf7a4.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", IZMMX | Universal Cinema
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/118261
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/04c9d8091474dc0b3556df33e48f7dcd.gif" group-title="CANAL DE NOVELAS (HD)", LAT| VIX NOVELAS DE ORO HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/118535
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/18288ece07fdf99773371a253489cb7d.gif" group-title="CANAL DE NOVELAS (HD)", LAT| NOVELAS CLUB HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/118536
-
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5a0a105da803bb1549f43b85/1546991442664-7CN5I0HWPBIEJLIPDIWN/Full+Color.png?content-type=image%2Fpng" group-title="Canales de Cocina/Kitchen channels (chef)", ESP| COCINA FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/118537
-
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/canal-cocina-hd-android.png:225" group-title="Canales de Cocina/Kitchen channels (chef)", LAT| DELICIOSO COCINA HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/118538
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/5c33b10c067f7da0af52e5f4bd56fa14.gif" group-title="PUERTO RICO (OPC 2)", PUERTO RICO | MEGA TV
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/120157
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PjLXmCg/Punto-2-HD-Liberty-EEEEE.jpg" group-title="PUERTO RICO (OPC 2)", PUERTO RICO | Punto 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/120158
-
 #EXTINF:-1 tvg-logo="https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1366852482484367364%2F5ag356q1_400x400.jpg" group-title="PUERTO RICO (OPC 2)", PUERTO RICO | TELE 11 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/120159
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/d495754e2438aa3011b12856b6788746.png" group-title="PUERTO RICO (OPC 2)", PUERTO RICO | WAPA
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/120160
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/8705e63c0ba0319c7d005e1293308858.gif" group-title="PUERTO RICO (OPC 2)", PUERTO RICO | WAPA 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/120161
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RNKvdMZ/WIPR-TV1222.jpg" group-title="PUERTO RICO (OPC 2)", PUERTO RICO | WIPR
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/120162
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/f6c483860a587819379b772b06f3b181.gif" group-title="PUERTO RICO (OPC 2)", PUERTO RICO | T3L3MUNDO PR
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/120163
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/d006247564626dbb1a1d60ac3d7fdaf2.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | Imagen
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124057
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/3b26b640fea40171f7195b24f70b22e5.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | Foro TV
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124058
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/1d0998786ed69e30ade3c478d791e071.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | El Gourmet
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124059
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/705ffeeb27dbf6eeff6d26e545614116.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | El Garage
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124060
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/9d18fa0588e6263a30ece4274ad62bed.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | AXN
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124061
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/8f8f897e2221d81485b31abf7998fb6d.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | AXN White
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124062
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/60ea0949fcacd4244ece2528e80769f8.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | ADN40
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124063
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/53e691abd2d94b23e57e927d2d065e27.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | FXM
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124064
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/6e4801c03fc2d8f9332f66c9a0892b7d.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | Glitz
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124066
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/56e3c55755c86152df60d0e448a7bf7f.gif" group-title="LATINO ENTRETENIMIENTO (HD)", Latino | CNN en Espanol
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124067
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_mtv-live-hd_m.png" group-title="DIRECTV USA (HD)", SKY-SSTV: MTV HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124068
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/960915c729fbb309e9c84228e8874ec9.jpg" group-title="DIRECTV USA (HD)", SKY-SSTV: FX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124071
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic90/661cf815053844cb248b5741c0cc20a9.gif" group-title="DIRECTV USA (HD)", SKY-SSTV: DISCOVERY CHANNEL
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124074
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic90/850fd68ec4418fcae874445487ab0567.gif" group-title="DIRECTV USA (HD)", SKY-SSTV: DISCOVERY H&H
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124076
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="DIRECTV USA (HD)", SKY-SSTV: HBO 2
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124083
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic90/3df837764e876a7d37d3bd9ff7f3f3c3.gif" group-title="DIRECTV USA (HD)", SKY-SSTV: HBO PLUS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124084
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="DIRECTV USA (HD)", SKY-SSTV: SHOWTIME
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124086
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/a9d7877b938c57016e1b804d14f0c607.gif" group-title="DIRECTV USA (HD)", SKY-SSTV: DE PELICULA MULTIPLEX
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124087
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/732b7da01801dbb2f1efb3e2be67a700.jpg" group-title="DIRECTV USA (HD)", SKY-SSTV: FX MOVIES
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124088
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/0423c6c4e742cf8e8ef1fc72005f9b02.png" group-title="DIRECTV USA (HD)", SKY-SSTV: TBS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124091
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/97df19b7dd8f5510a493a17b6caa6d86.png" group-title="DIRECTV USA (HD)", SKY-SSTV: TNT SERIES HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124099
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ec81118a6a63ee326e0f8d5760b72430.png" group-title="DIRECTV USA (HD)", SKY-SSTV: TELECAFE
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124102
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic90/2398e297f3aea28774f53b02dafcb8d6.gif" group-title="DIRECTV USA (HD)", SKY-SSTV: TRUTV HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124106
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/87179f68f1bd6b26991a013920a79585.png" group-title="DIRECTV USA (HD)", SKY-SSTV: PARAMOUNT HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124108
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/37407635d617c00957d9dcf1db7ba217.png" group-title="DIRECTV USA (HD)", SKY-SSTV: MTV HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124109
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic90/e004b63da2a4232f8ca395e261df8b1d.gif" group-title="DIRECTV USA (HD)", SKY-SSTV: HBO POP
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124111
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic90/0dae598684386cee0b8b68e4f0f82e1c.gif" group-title="DIRECTV USA (HD)", SKY-SSTV: HOLA TV HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124113
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/b5b557ea3d8862b2b1dad201cb236643.png" group-title="DIRECTV USA (HD)", SKY-SSTV: GOLDEN PLUS
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124114
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic90/cf1b39a702b3549431d92f93283b718e.gif" group-title="DIRECTV USA (HD)", SKY-SSTV: EWTN
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124117
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ea08aad287e0aa9e220607b3868bfa57.png" group-title="DIRECTV USA (HD)", SKY-SSTV: CNN INTERNACIONAL
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124118
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ec3df58d9713825d38136d992263da46.png" group-title="DIRECTV USA (HD)", SKY-SSTV: CARACOL HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124121
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/667a63ba4392c65204e5e490fb22508e.png" group-title="DIRECTV USA (HD)", SKY-SSTV: AMC HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124124
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/dd272cae52a07e92471763b8b6222fb6.png" group-title="DIRECTV USA (HD)", SKY-SSTV: ESPN 3
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124126
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/f01b1b27d7a34845f536d7d3ba1ca7e6.jpg" group-title="DIRECTV USA (HD)", SSTV-SKY: AZTECA CLICK
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124129
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/95aa0f4e03c653764a9cbda00d2be5cb.png" group-title="LATINO DUAL AUDIO (FHD)", LATINO| SPACE CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124422
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/7f074648c94db878c71f60fd2fb910a7.png" group-title="MEXICO HD (ENCODER)", CNN MEXICO
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124467
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO HD (ENCODER)", CANAL NU9VE HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124469
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/ea26c973e3f98b18cb6475aa1aba5fd7.png" group-title="MEXICO HD (ENCODER)", MX |* CLARO SPORTS FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124470
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/35ea90f53b9ab170a70143cd66830ac8.png" group-title="MEXICO HD (ENCODER)", MX |* TCM HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124471
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO HD (ENCODER)", MX |* AYM DEPORTES MEXICO  FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124474
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/422cf866ef0481cd5523e343338d42bd.png" group-title="MEXICO HD (ENCODER)", MX |* GOURMET HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124477
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="MEXICO HD (ENCODER)", MX |* ESPN 3 HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124484
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="MEXICO HD (ENCODER)", MX |* ESPN 2  HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124485
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/da70a8061beae45841b15f7ea17e3662.png" group-title="MEXICO HD (ENCODER)", MX |* D'PELICULA HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124486
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/88b5d056c428fbed31407b606695dfd4.png" group-title="MEXICO HD (ENCODER)", MX |* DISCOVERY CHANNEL HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124488
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a812e3e495a235836a3c84569a6c340c.png" group-title="MEXICO HD (ENCODER)", MX |* CINEMAX FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124489
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/a2d4b314096c4986c95cab9bafbcafc6.png" group-title="MEXICO HD (ENCODER)", MX |* BANDAMAX FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124490
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/896603e831769b26926a1fc5e8c9823b.png" group-title="MEXICO HD (ENCODER)", MX |* WARNER FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124493
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/580af8efe7a11b4eadef44837260a3c6.png" group-title="MEXICO HD (ENCODER)", MX |* TRUTV HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124494
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/3a09d1427a58ffd09192b85a563d91c9.png" group-title="MEXICO HD (ENCODER)", MX |* SONY FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124495
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="MEXICO HD (ENCODER)", MX |* HBO MUNDI HD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124496
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/0a9b25d270cabbe211b365d409ca0b22.png" group-title="MEXICO HD (ENCODER)", MX |* GOLDEN EDGE FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124497
-
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/d0c418b44f402f5c32ac988aa5c1d51b.png" group-title="MEXICO HD (ENCODER)", MX |* A&E FHD
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/124499
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/81024999ccb8e3275846c0ce3ce1add9.gif" group-title="CINE LATINO /LATIN CINEMA (HD)", Ultra Cine
 http://iptvglobal.site:25461/global1/BTcD9FsEPK/128003
 
