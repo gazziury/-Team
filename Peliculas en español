@@ -5339,6 +5339,8 @@ http://vod.tuxchannel.mx/peliculas/720/django%20desencadenado.mkv
 http://vod.tuxchannel.mx/peliculas/720/dr%20dolittle.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/9/w1280/Ty3sdd54GXxhd2SmJdJL1hDRpn.jpg" group-title="Peliculas Viejas",Doble traición (1999)
 http://vod.tuxchannel.mx/peliculas/720/double%20jeopardy.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81j8l7WNXeL._AC_SL1500_.jpg" group-title="Peliculas Viejas",Doom: La puerta del infierno (2005)
+http://vod.tuxchannel.mx/peliculas/720/doom.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1983/2/w1280/kG4BXlUzKpDJAwVu2mkuQ105Qg3.jpg" group-title="Peliculas Viejas",Dos locos con suerte (1983)
 https://archive.org/download/dos-locos-con-suerte_202203/Dos%20locos%20con%20suerte.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1984/10/w1280/iqvu9RmnbmwApzPkzvgJoDeesjJ.jpg" group-title="Peliculas Viejas",Dos puños contra Rio (1984)
@@ -6727,6 +6729,8 @@ http://vod.tuxchannel.mx/peliculas/720/titanic.mkv
 http://vod.tuxchannel.mx/peliculas/720/bruce%20almighty.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2007/6/w1280/jGYbia49LHLpURfYcCdhZVrDS1z.jpg" group-title="Peliculas Viejas",Todopoderoso 2: Sigo como Dios (2007)
 http://vod.tuxchannel.mx/peliculas/720/evan%20almighty.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2009/12/w1280/wIhQ41lBeYGIc3Css86TCetqM0g.jpg" group-title="Peliculas Viejas",Todos están bien (2009)
+http://vod.tuxchannel.mx/peliculas/720/everybodys%20fine.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1993/12/w1280/mSv4y9wl98PZ35f4m3MDI80385X.jpg" group-title="Peliculas Viejas",Tombstone: La leyenda de Wyatt Earp (1993)
 http://vod.tuxchannel.mx/peliculas/720/tombstone.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1982/12/w1280/yoza1QYYc0Ukh5yY1emL6HRdSYm.jpg" group-title="Peliculas Viejas",Tootsie (1982)
