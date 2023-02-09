@@ -199,48 +199,6 @@ http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083097
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="CAM 12" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 2 BBB",CAM 12
 http://tntmais.com:80/DouglasCarvalho2/92130n2jw/10083096
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Principal
-http://axr.life:80/394390/837023/1207093
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 1
-http://axr.life:80/394390/837023/1222327
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 2
-http://axr.life:80/394390/837023/1222328
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 3
-http://axr.life:80/394390/837023/1222329
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 4
-http://axr.life:80/394390/837023/1222330
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 5
-http://axr.life:80/394390/837023/1222331
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 6
-http://axr.life:80/394390/837023/1222332
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 7
-http://axr.life:80/394390/837023/1223476
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 8
-http://axr.life:80/394390/837023/1223477
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 1 BBB",Cam 9
-http://axr.life:80/394390/837023/1223478
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Principal
-http://axr.life:80/edimilsonj/tvsmartnew/1207093
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 1
-http://axr.life:80/edimilsonj/tvsmartnew/1222327
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 2
-http://axr.life:80/edimilsonj/tvsmartnew/1222328
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 3
-http://axr.life:80/edimilsonj/tvsmartnew/1222329
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 4
-http://axr.life:80/edimilsonj/tvsmartnew/1222330
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 5
-http://axr.life:80/edimilsonj/tvsmartnew/1222331
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 6
-http://axr.life:80/edimilsonj/tvsmartnew/1222332
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 7
-http://axr.life:80/edimilsonj/tvsmartnew/1223476
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 8
-http://axr.life:80/edimilsonj/tvsmartnew/1223477
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="AXR 2 BBB",Cam 9
-http://axr.life:80/edimilsonj/tvsmartnew/1223478
-
 #EXTINF:-1 tvg-id="" tvg-name="BBB 2023 AQUECIMENTO" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",Principal
 https://cdn.rtyh.xyz:443/3frbhvqr/s1p0hlbr/224880
 #EXTINF:-1 tvg-id="" tvg-name="BBB 2023 CAM 1" tvg-logo="http://cdn.rtyh.xyz:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="CDN BBB",CAM 1 HD
