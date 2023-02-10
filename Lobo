@@ -197,27 +197,27 @@ http://lobo-tv.live:25461/UzielLCH/123456789/210851
 http://lobo-tv.live:25461/UzielLCH/123456789/210852
 #EXTINF:-1 tvg-id="el13.ar" tvg-name="AR| El Trece HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png" group-title="TV | Argentina",AR| El Trece HQ
 http://lobo-tv.live:25461/UzielLCH/123456789/210853
-#EXTINF:-1 tvg-id="elgarage.ar" tvg-name="AR| Garaje" tvg-logo="http://l3d.us:8080/images/d9417065555d473fb9f04d46e974b229.png" group-title="TV | Argentina",AR| Garaje
+#EXTINF:-1 tvg-id="elgarage.ar" tvg-name="AR| Garaje" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png" group-title="TV | Argentina",AR| Garage tv
 http://lobo-tv.live:25461/UzielLCH/123456789/210854
 #EXTINF:-1 tvg-id="glitz" tvg-name="AR| Glitz" tvg-logo="http://l3d.us:25461/images/672b1e33b157d94153c5cc18401b2f1a.png" group-title="TV | Argentina",AR| Glitz
 http://lobo-tv.live:25461/UzielLCH/123456789/210855
-#EXTINF:-1 tvg-id="" tvg-name="AR| LN+" tvg-logo="http://l3d.us:8080/images/88625dcd2b8ef65b4916803404d089c0.png" group-title="TV | Argentina",AR| LN+
+#EXTINF:-1 tvg-id="" tvg-name="AR| LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV | Argentina",AR| LN+
 http://lobo-tv.live:25461/UzielLCH/123456789/210856
-#EXTINF:-1 tvg-id="canaldelamusica.ar" tvg-name="AR| Music Top" tvg-logo="http://l3d.us:8080/images/3f6da1ab3dad5b05e28cf0031141cbc4.png" group-title="TV | Argentina",AR| Music Top
+#EXTINF:-1 tvg-id="canaldelamusica.ar" tvg-name="AR| Music Top" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/music-top-en-vivo-2313.png" group-title="TV | Argentina",AR| Music Top
 http://lobo-tv.live:25461/UzielLCH/123456789/210858
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="AR| Senado" tvg-logo="http://l3d.us:8080/images/d9bc717171f15fc8721328dc49b7efd1.png" group-title="TV | Argentina",AR| Senado
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="AR| Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_del_Senado_de_Argentina.svg/893px-Logo_del_Senado_de_Argentina.svg.png" group-title="TV | Argentina",AR| Senado
 http://lobo-tv.live:25461/UzielLCH/123456789/210859
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="AR| Telefe" tvg-logo="http://l3d.us:8080/images/d58389a473421bec35846a304cba92ea.png" group-title="TV | Argentina",AR| Telefe
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="AR| Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="TV | Argentina",AR| Telefe
 http://lobo-tv.live:25461/UzielLCH/123456789/210861
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="AR| TN" tvg-logo="http://l3d.us:8080/images/aafb96b2fa8806be307c4496867bad56.png" group-title="TV | Argentina",AR| TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="AR| TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="TV | Argentina",AR| TN
 http://lobo-tv.live:25461/UzielLCH/123456789/210864
-#EXTINF:-1 tvg-id="" tvg-name="AR| TNT Sports HD" tvg-logo="" group-title="TV | Argentina",AR| TNT Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="AR| TNT Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Argentina",AR| TNT Sports HD
 http://lobo-tv.live:25461/UzielLCH/123456789/2140800
-#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="AR| TV Publica" tvg-logo="http://l3d.us:8080/images/b4e07535697baed10942f681fa6619a7.png" group-title="TV | Argentina",AR| TV Publica
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="AR| TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="TV | Argentina",AR| TV Publica
 http://lobo-tv.live:25461/UzielLCH/123456789/210865
-#EXTINF:-1 tvg-id="" tvg-name="AR| TV5 HD" tvg-logo="" group-title="TV | Argentina",AR| TV5 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR| TV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png" group-title="TV | Argentina",AR| TV5 HD
 http://lobo-tv.live:25461/UzielLCH/123456789/2145543
-#EXTINF:-1 tvg-id="" tvg-name="AR| Volver" tvg-logo="http://l3d.us:8080/images/1355df74a25c2afa02592030bdedc24b.png" group-title="TV | Argentina",AR| Volver
+#EXTINF:-1 tvg-id="" tvg-name="AR| Volver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="TV | Argentina",AR| Volver
 http://lobo-tv.live:25461/UzielLCH/123456789/210868
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO | Unitel Santa Cruz HD" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO | Unitel Santa Cruz HD
 http://lobo-tv.live:25461/UzielLCH/123456789/215948
