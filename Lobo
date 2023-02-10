@@ -451,9 +451,9 @@ http://lobo-tv.live:25461/UzielLCH/123456789/25384
 http://lobo-tv.live:25461/UzielLCH/123456789/25346
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red
 http://lobo-tv.live:25461/UzielLCH/123456789/25386
-#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak" tvg-logo="https://www.tvzinos.com/uploads/jpg/edcd5f1829c6c741ccc528a1f0b12dc5.jpg" group-title="TV | Chile",CL | Teletrak
+#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Chile",CL | Teletrak
 http://lobo-tv.live:25461/UzielLCH/123456789/25347
-#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak HD" tvg-logo="https://www.tvzinos.com/uploads/jpg/edcd5f1829c6c741ccc528a1f0b12dc5.jpg" group-title="TV | Chile",CL | Teletrak HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak HD" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Chile",CL | Teletrak HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25373
 #EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Chile",CL | TNT SPORTS
 http://lobo-tv.live:25461/UzielLCH/123456789/25362
@@ -515,9 +515,9 @@ http://lobo-tv.live:25461/UzielLCH/123456789/176595
 http://lobo-tv.live:25461/UzielLCH/123456789/176573
 #EXTINF:-1 tvg-id="eltiempo.co" tvg-name="CO | El Tiempo" tvg-logo="http://l3d.us:25461/images/ff5651c98b9ac4c0d783fc02c82d864b.png" group-title="TV | Colombia",CO | El Tiempo
 http://lobo-tv.live:25461/UzielLCH/123456789/155738
-#EXTINF:-1 tvg-id="" tvg-name="CO | Mundo +" tvg-logo="http://sdmx.com.mx/logos/mundomas2.png" group-title="TV | Colombia",CO | Mundo +
+#EXTINF:-1 tvg-id="mundo.co" tvg-name="CO | Mundo +" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="TV | Colombia",CO | Mundo +
 http://lobo-tv.live:25461/UzielLCH/123456789/2113878
-#EXTINF:-1 tvg-id="NTN24" tvg-name="CO | NTN24" tvg-logo="http://l3d.us:25461/images/715ddbc6d6d5fca3d2d09abbd9963044.png" group-title="TV | Colombia",CO | NTN24
+#EXTINF:-1 tvg-id="ntn24.co" tvg-name="CO | NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="TV | Colombia",CO | NTN24
 http://lobo-tv.live:25461/UzielLCH/123456789/176615
 #EXTINF:-1 tvg-id="pasiones.co" tvg-name="CO | Pasiones " tvg-logo="http://sdmx.com.mx/logos/pasiones.png" group-title="TV | Colombia",CO | Pasiones 
 http://lobo-tv.live:25461/UzielLCH/123456789/176777
@@ -529,11 +529,11 @@ http://lobo-tv.live:25461/UzielLCH/123456789/155680
 http://lobo-tv.live:25461/UzielLCH/123456789/176580
 #EXTINF:-1 tvg-id="rcn.co" tvg-name="CO | RCN FHD" tvg-logo="http://l3d.us:25461/images/d449c38c8d558224de10ff15dc764568.png" group-title="TV | Colombia",CO | RCN FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/155681
-#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="CO | RCN Internacional HD" tvg-logo="http://sdmx.com.mx/logos/rcninternacional.png" group-title="TV | Colombia",CO | RCN Internacional HD
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="CO | RCN Internacional HD" tvg-logo="http://l3d.us:25461/images/d449c38c8d558224de10ff15dc764568.png" group-title="TV | Colombia",CO | RCN Internacional HD
 http://lobo-tv.live:25461/UzielLCH/123456789/199513
-#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO | RCN Novelas" tvg-logo="http://sdmx.com.mx/logos/rcnnovelas.png" group-title="TV | Colombia",CO | RCN Novelas
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="TV | Colombia",CO | RCN Novelas
 http://lobo-tv.live:25461/UzielLCH/123456789/176599
-#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO | RCN Novelas HD" tvg-logo="http://sdmx.com.mx/logos/rcnnovelas.png" group-title="TV | Colombia",CO | RCN Novelas HD
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="CO | RCN Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="TV | Colombia",CO | RCN Novelas HD
 http://lobo-tv.live:25461/UzielLCH/123456789/155682
 #EXTINF:-1 tvg-id="senal.co" tvg-name="CO | Señal Colombia HD" tvg-logo="http://sdmx.com.mx/logos/senalcolombia.png" group-title="TV | Colombia",CO | Señal Colombia HD
 http://lobo-tv.live:25461/UzielLCH/123456789/155736
@@ -555,7 +555,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/202129
 http://lobo-tv.live:25461/UzielLCH/123456789/176606
 #EXTINF:-1 tvg-id="telemedellin.co" tvg-name="CO | Telemedellin HD" tvg-logo="http://sdmx.com.mx/logos/telemedellin.png" group-title="TV | Colombia",CO | Telemedellin HD
 http://lobo-tv.live:25461/UzielLCH/123456789/202130
-#EXTINF:-1 tvg-id="Telepc" tvg-name="CO | Telepacifico" tvg-logo="http://l3d.us:25461/images/e6444483ab831a5de29cad25378a6d38.png" group-title="TV | Colombia",CO | Telepacifico
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO | Telepacifico" tvg-logo="http://l3d.us:25461/images/e6444483ab831a5de29cad25378a6d38.png" group-title="TV | Colombia",CO | Telepacifico
 http://lobo-tv.live:25461/UzielLCH/123456789/176607
 #EXTINF:-1 tvg-id="telepacifico.co" tvg-name="CO | TelePacifico HQ" tvg-logo="http://l3d.us:25461/images/e6444483ab831a5de29cad25378a6d38.png" group-title="TV | Colombia",CO | TelePacifico HQ
 http://lobo-tv.live:25461/UzielLCH/123456789/176620
@@ -589,21 +589,21 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10339
 http://lobo-tv.live:25461/UzielLCH/123456789/224194
 #EXTINF:-1 tvg-id="Canal6.cr" tvg-name="CR | Repretel Canal 6" tvg-logo="http://l3d.us:25461/images/e4158d56f99d95b61a3d1dd2818e355b.png" group-title="TV | Costa Rica",CR | Repretel Canal 6
 http://lobo-tv.live:25461/UzielLCH/123456789/10337
-#EXTINF:-1 tvg-id="" tvg-name="CR | TD+" tvg-logo="http://l3d.us:25461/images/3a41b7e5ac6a9665c0de4c12137a6ff3.png" group-title="TV | Costa Rica",CR | TD+
+#EXTINF:-1 tvg-id="" tvg-name="CR | TD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/1280px-TD_M%C3%A1s_Logo.png" group-title="TV | Costa Rica",CR | TD+
 http://lobo-tv.live:25461/UzielLCH/123456789/184899
-#EXTINF:-1 tvg-id="" tvg-name="CR | TD+ 2" tvg-logo="http://l3d.us:25461/images/411a8a64edca7d443468ac07e72a7957.png" group-title="TV | Costa Rica",CR | TD+ 2
+#EXTINF:-1 tvg-id="" tvg-name="CR | TD+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1200px-TD_M%C3%A1s_2_Logo.svg.png" group-title="TV | Costa Rica",CR | TD+ 2
 http://lobo-tv.live:25461/UzielLCH/123456789/222724
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="CR | Telesur" tvg-logo="http://l3d.us:25461/images/9ff2d6af39181cae0327b409698fe650.png" group-title="TV | Costa Rica",CR | Telesur
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="CR | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="TV | Costa Rica",CR | Telesur
 http://lobo-tv.live:25461/UzielLCH/123456789/10342
 #EXTINF:-1 tvg-id="" tvg-name="CR | Teletica" tvg-logo="http://l3d.us:25461/images/89902dd0c8edc2993b005a3d72480343.png" group-title="TV | Costa Rica",CR | Teletica
 http://lobo-tv.live:25461/UzielLCH/123456789/184898
-#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports HD" tvg-logo="http://l3d.us:25461/images/782b8c2de5156e06a96932025727fc0e.png" group-title="TV | Costa Rica",CR | Tigo Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="TV | Costa Rica",CR | Tigo Sports HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10336
-#EXTINF:-1 tvg-id="" tvg-name="CR | VM LATINO" tvg-logo="http://atlantis-mx.com/logos/vmcr.png" group-title="TV | Costa Rica",CR | VM LATINO
+#EXTINF:-1 tvg-id="" tvg-name="CR | VM LATINO" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="TV | Costa Rica",CR | VM LATINO
 http://lobo-tv.live:25461/UzielLCH/123456789/2089786
 #EXTINF:-1 tvg-id="" tvg-name="CR| Multizonas" tvg-logo="http://l3d.us:25461/images/9b7ac37ac7c321855ff2012c5175d8e2.png" group-title="TV | Costa Rica",CR| Multizonas
 http://lobo-tv.live:25461/UzielLCH/123456789/2120737
-#EXTINF:-1 tvg-id="" tvg-name="CR| Trivison 36" tvg-logo="" group-title="TV | Costa Rica",CR| Trivison 36
+#EXTINF:-1 tvg-id="" tvg-name="CR| Trivison 36" tvg-logo="https://www.trivision36.com/wp-content/uploads/2022/11/LOGO-400X100_Mesa-de-trabajo-1.png" group-title="TV | Costa Rica",CR| Trivison 36
 http://lobo-tv.live:25461/UzielLCH/123456789/2132365
 #EXTINF:-1 tvg-id="" tvg-name="CU | CubaMaxTV" tvg-logo="http://l3d.us:25461/images/dd1ec59eae41f1c126b37c77bc072dc3.png" group-title="TV | Cuba",CU | CubaMaxTV
 http://lobo-tv.live:25461/UzielLCH/123456789/197418
@@ -613,7 +613,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/199509
 http://lobo-tv.live:25461/UzielLCH/123456789/14523
 #EXTINF:-1 tvg-id="" tvg-name="CU | Cubavision Internacional" tvg-logo="http://l3d.us:25461/images/bd97bb88b8bfb28662fbe3e4b2f2aebd.png" group-title="TV | Cuba",CU | Cubavision Internacional
 http://lobo-tv.live:25461/UzielLCH/123456789/14524
-#EXTINF:-1 tvg-id="" tvg-name="CU | TELEMarti" tvg-logo="https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo-print_color.png" group-title="TV | Cuba",CU | TELEMarti
+#EXTINF:-1 tvg-id="" tvg-name="CU | TELEMarti" tvg-logo="https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo-print_color.png" group-title="TV | Cuba",CU | TeleMarti
 http://lobo-tv.live:25461/UzielLCH/123456789/14525
 #EXTINF:-1 tvg-id="" tvg-name="CU | TELEORO CANAL 13" tvg-logo="http://l3d.us:25461/images/6a220deea63dc85ceab40b5a33d977db.png" group-title="TV | Cuba",CU | TELEORO CANAL 13
 http://lobo-tv.live:25461/UzielLCH/123456789/14528
