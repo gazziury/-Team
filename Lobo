@@ -159,43 +159,43 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2123480
 http://lobo-tv.live:25461/UzielLCH/123456789/2092574
 #EXTINF:-1 tvg-id="" tvg-name="2MB | Win Sports" tvg-logo="http://l3d.us:25461/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="TV | 2 Megas",2MB | Win Sports
 http://lobo-tv.live:25461/UzielLCH/123456789/2095416
-#EXTINF:-1 tvg-id="" tvg-name="ARG| IP NOTICIAS" tvg-logo="http://l3d.us:8080/images/8334ab701f3c5cb6f8fb9b8b011a13c1.png" group-title="TV | Argentina",ARG| IP NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="ARG| IP NOTICIAS" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" group-title="TV | Argentina",ARG| IP NOTICIAS
 http://lobo-tv.live:25461/UzielLCH/123456789/216770
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Telesur" tvg-logo="http://l3d.us:8080/images/157b12de6f8e3396866e8b890859ed1a.png" group-title="TV | Argentina",ARG: Telesur
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telesur" tvg-logo="https://mb.cision.com/Public/12265/9749174/af33c8f76638e797_400x400ar.jpg" group-title="TV | Argentina",ARG: Telesur
 http://lobo-tv.live:25461/UzielLCH/123456789/210863
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="AR| A24" tvg-logo="http://l3d.us:8080/images/a43c7f3d9d0f4a718450633e3765b67c.png" group-title="TV | Argentina",AR| A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="AR| A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="TV | Argentina",AR| A24
 http://lobo-tv.live:25461/UzielLCH/123456789/210833
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AR| America TV" tvg-logo="http://l3d.us:25461/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="TV | Argentina",AR| America TV
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AR| America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV | Argentina",AR| America TV
 http://lobo-tv.live:25461/UzielLCH/123456789/210836
-#EXTINF:-1 tvg-id="americatv.ar" tvg-name="AR| America TV HD" tvg-logo="http://l3d.us:25461/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="TV | Argentina",AR| America TV HD
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="AR| America TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV | Argentina",AR| America TV HD
 http://lobo-tv.live:25461/UzielLCH/123456789/210835
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="AR| C5N" tvg-logo="http://l3d.us:8080/images/91884081faa9d3f2c5e473e7a52dc598.png" group-title="TV | Argentina",AR| C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="AR| C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C5N_Logo_2015.PNG/640px-C5N_Logo_2015.PNG" group-title="TV | Argentina",AR| C5N
 http://lobo-tv.live:25461/UzielLCH/123456789/210834
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="AR| Canal 21" tvg-logo="http://l3d.us:8080/images/99f22800ac5efec3f70c30766d5b17f7.png" group-title="TV | Argentina",AR| Canal 21
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="AR| Canal 21" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ar-canal-orbe-21-6498-300x225.jpg" group-title="TV | Argentina",AR| Canal 21 Orbe
 http://lobo-tv.live:25461/UzielLCH/123456789/210839
-#EXTINF:-1 tvg-id="channel26.ar" tvg-name="AR| Canal 26" tvg-logo="http://l3d.us:25461/images/dfe5de137080b6340d68c03ce35e5ae7.png" group-title="TV | Argentina",AR| Canal 26
+#EXTINF:-1 tvg-id="channel26.ar" tvg-name="AR| Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV | Argentina",AR| Canal 26
 http://lobo-tv.live:25461/UzielLCH/123456789/210840
-#EXTINF:-1 tvg-id="channel26.ar" tvg-name="AR| Canal 26 HD" tvg-logo="http://l3d.us:25461/images/dfe5de137080b6340d68c03ce35e5ae7.png" group-title="TV | Argentina",AR| Canal 26 HD
+#EXTINF:-1 tvg-id="channel26.ar" tvg-name="AR| Canal 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV | Argentina",AR| Canal 26 HD
 http://lobo-tv.live:25461/UzielLCH/123456789/210841
-#EXTINF:-1 tvg-id="canaldelaciudad.ar" tvg-name="AR| Canal de la Ciudad" tvg-logo="http://l3d.us:8080/images/e7ea7531f391992a2427fe2917c2d957.png" group-title="TV | Argentina",AR| Canal de la Ciudad
+#EXTINF:-1 tvg-id="canaldelaciudad.ar" tvg-name="AR| Canal de la Ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="TV | Argentina",AR| Canal de la Ciudad
 http://lobo-tv.live:25461/UzielLCH/123456789/210842
-#EXTINF:-1 tvg-id="canaldelamusica.ar" tvg-name="AR| Canal de la Música" tvg-logo="http://l3d.us:8080/images/a2fdc4751738ef8132f539952dc52362.png" group-title="TV | Argentina",AR| Canal de la Música
+#EXTINF:-1 tvg-id="canaldelamusica.ar" tvg-name="AR| Canal de la Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="TV | Argentina",AR| Canal de la Música
 http://lobo-tv.live:25461/UzielLCH/123456789/210843
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="AR| Cine AR HD" tvg-logo="http://l3d.us:8080/images/79184b9a36a6bd5528e64407c87100f9.png" group-title="TV | Argentina",AR| Cine AR HD
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="AR| Cine AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1024px-Cine.Ar_logo.svg.png" group-title="TV | Argentina",AR| Cine AR HD
 http://lobo-tv.live:25461/UzielLCH/123456789/210844
-#EXTINF:-1 tvg-id="magazine.ar" tvg-name="AR| Ciudad Magazine" tvg-logo="http://l3d.us:8080/images/8595000a5a842631d68b584598817060.png" group-title="TV | Argentina",AR| Ciudad Magazine
+#EXTINF:-1 tvg-id="magazine.ar" tvg-name="AR| Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="TV | Argentina",AR| Ciudad Magazine
 http://lobo-tv.live:25461/UzielLCH/123456789/210845
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="AR| Cronica" tvg-logo="http://l3d.us:8080/images/d1f2b02f6618c48a725aa949aefadfcb.png" group-title="TV | Argentina",AR| Cronica
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="AR| Cronica" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7695310.jpg" group-title="TV | Argentina",AR| Cronica
 http://lobo-tv.live:25461/UzielLCH/123456789/210848
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="AR| DEPORTV" tvg-logo="http://l3d.us:8080/images/cc2d8b5521b26272929e8d935fff1fde.png" group-title="TV | Argentina",AR| DEPORTV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="AR| DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="TV | Argentina",AR| Deportv
 http://lobo-tv.live:25461/UzielLCH/123456789/210849
-#EXTINF:-1 tvg-id="canal9.ar" tvg-name="AR| El Nueve" tvg-logo="http://l3d.us:8080/images/db1cb80e83ac8ffb0d1344ece5b47fca.png" group-title="TV | Argentina",AR| El Nueve
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="AR| El Nueve" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="TV | Argentina",AR| El Nueve
 http://lobo-tv.live:25461/UzielLCH/123456789/210850
-#EXTINF:-1 tvg-id="canal9.ar" tvg-name="AR| El Nueve HD" tvg-logo="http://l3d.us:8080/images/db1cb80e83ac8ffb0d1344ece5b47fca.png" group-title="TV | Argentina",AR| El Nueve HD
+#EXTINF:-1 tvg-id="canal9.ar" tvg-name="AR| El Nueve HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="TV | Argentina",AR| El Nueve HD
 http://lobo-tv.live:25461/UzielLCH/123456789/210851
-#EXTINF:-1 tvg-id="el13.ar" tvg-name="AR| El Trece" tvg-logo="http://l3d.us:8080/images/0092da95b29792ea8c622ee45e00b33d.png" group-title="TV | Argentina",AR| El Trece
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="AR| El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png" group-title="TV | Argentina",AR| El Trece
 http://lobo-tv.live:25461/UzielLCH/123456789/210852
-#EXTINF:-1 tvg-id="el13.ar" tvg-name="AR| El Trece HQ" tvg-logo="http://l3d.us:8080/images/0092da95b29792ea8c622ee45e00b33d.png" group-title="TV | Argentina",AR| El Trece HQ
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="AR| El Trece HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png" group-title="TV | Argentina",AR| El Trece HQ
 http://lobo-tv.live:25461/UzielLCH/123456789/210853
 #EXTINF:-1 tvg-id="elgarage.ar" tvg-name="AR| Garaje" tvg-logo="http://l3d.us:8080/images/d9417065555d473fb9f04d46e974b229.png" group-title="TV | Argentina",AR| Garaje
 http://lobo-tv.live:25461/UzielLCH/123456789/210854
