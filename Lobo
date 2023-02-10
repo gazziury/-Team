@@ -455,17 +455,17 @@ http://lobo-tv.live:25461/UzielLCH/123456789/25386
 http://lobo-tv.live:25461/UzielLCH/123456789/25347
 #EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak HD" tvg-logo="https://www.tvzinos.com/uploads/jpg/edcd5f1829c6c741ccc528a1f0b12dc5.jpg" group-title="TV | Chile",CL | Teletrak HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25373
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Chile",CL | TNT SPORTS
 http://lobo-tv.live:25461/UzielLCH/123456789/25362
-#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-name="CL | TNT SPORTS 2" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS 2
+#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-name="CL | TNT SPORTS 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png" group-title="TV | Chile",CL | TNT SPORTS 2
 http://lobo-tv.live:25461/UzielLCH/123456789/25340
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS SD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS SD
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Chile",CL | TNT SPORTS SD
 http://lobo-tv.live:25461/UzielLCH/123456789/25366
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Chile",CL | TNT SPORTS HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25363
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Chile",CL | TNT SPORTS HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25369
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS FHD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Chile",CL | TNT SPORTS FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/25365
 #EXTINF:-1 tvg-id="" tvg-name="CL | TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="TV | Chile",CL | TV +
 http://lobo-tv.live:25461/UzielLCH/123456789/25348
