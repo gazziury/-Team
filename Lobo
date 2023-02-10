@@ -367,9 +367,9 @@ http://lobo-tv.live:25461/UzielLCH/123456789/154074
 http://lobo-tv.live:25461/UzielLCH/123456789/16080
 #EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/800px-History2_logo_%282022%29.svg.png" group-title="TV | Cultura",C | H2 FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/154075
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TV | Cultura",C | HGTV
+#EXTINF:-1 tvg-id="hgtv.mx" tvg-name="C | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TV | Cultura",C | HGTV
 http://lobo-tv.live:25461/UzielLCH/123456789/182836
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TV | Cultura",C | HGTV HD
+#EXTINF:-1 tvg-id="hgtv.mx" tvg-name="C | HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TV | Cultura",C | HGTV HD
 http://lobo-tv.live:25461/UzielLCH/123456789/2145512
 #EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="TV | Cultura",C | History
 http://lobo-tv.live:25461/UzielLCH/123456789/10423
@@ -381,7 +381,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/148711
 http://lobo-tv.live:25461/UzielLCH/123456789/197235
 #EXTINF:-1 tvg-id="historyenespanol.us" tvg-name="C | History en Español FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="TV | Cultura",C | History en Español FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/192976
-#EXTINF:-1 tvg-id="NtGeo Mx" tvg-name="C | Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="TV | Cultura",C | Nat Geo
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="TV | Cultura",C | Nat Geo
 http://lobo-tv.live:25461/UzielLCH/123456789/10413
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="TV | Cultura",C | Nat Geo HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10414
@@ -389,13 +389,13 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10414
 http://lobo-tv.live:25461/UzielLCH/123456789/148712
 #EXTINF:-1 tvg-id="natgeomundo.us" tvg-name="C | Nat Geo Mundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="TV | Cultura",C | Nat Geo Mundo HD
 http://lobo-tv.live:25461/UzielLCH/123456789/197240
-#EXTINF:-1 tvg-id="SundanceTV" tvg-name="C | Sundance TV" tvg-logo="http://l3d.us:25461/images/0e450d1e32291326bded0e1a8b9b4c20.png" group-title="TV | Cultura",C | Sundance TV
+#EXTINF:-1 tvg-id="Sundancetv.mx" tvg-name="C | Sundance TV" tvg-logo="http://l3d.us:25461/images/0e450d1e32291326bded0e1a8b9b4c20.png" group-title="TV | Cultura",C | Sundance TV
 http://lobo-tv.live:25461/UzielLCH/123456789/76314
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="C | TLC" tvg-logo="http://l3d.us:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="TV | Cultura",C | TLC
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="C | TLC" tvg-logo="http://l3d.us:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="TV | Cultura",C | TLC
 http://lobo-tv.live:25461/UzielLCH/123456789/10431
-#EXTINF:-1 tvg-id="tcm.mx" tvg-name="C | TLC HD" tvg-logo="http://l3d.us:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="TV | Cultura",C | TLC HD
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="C | TLC HD" tvg-logo="http://l3d.us:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="TV | Cultura",C | TLC HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10432
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="C | TLC FHD" tvg-logo="http://l3d.us:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="TV | Cultura",C | TLC FHD
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="C | TLC FHD" tvg-logo="http://l3d.us:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="TV | Cultura",C | TLC FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148714
 #EXTINF:-1 tvg-id="teveunam.mx" tvg-name="C | TV Unam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV | Cultura",C | TV Unam
 http://lobo-tv.live:25461/UzielLCH/123456789/201149
