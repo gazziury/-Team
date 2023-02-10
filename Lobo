@@ -221,73 +221,73 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2145543
 http://lobo-tv.live:25461/UzielLCH/123456789/210868
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO | Unitel Santa Cruz HD" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO | Unitel Santa Cruz HD
 http://lobo-tv.live:25461/UzielLCH/123456789/215948
-#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BO || ATB &gt;)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BO || ATB &gt;)
+#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BO || ATB &gt;)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BO || ATB
 http://lobo-tv.live:25461/UzielLCH/123456789/188400
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BO || Bolivia TV" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BO || Bolivia TV
 http://lobo-tv.live:25461/UzielLCH/123456789/188402
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BO || Bolivision &gt;)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BO || Bolivision &gt;)
+#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BO || Bolivision &gt;)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BO || Bolivision
 http://lobo-tv.live:25461/UzielLCH/123456789/188404
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BO || Bolivision HD &gt;)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BO || Bolivision HD &gt;)
+#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BO || Bolivision HD &gt;)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BO || Bolivision HD
 http://lobo-tv.live:25461/UzielLCH/123456789/188403
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BO || Bolivision La Paz" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BO || Bolivision La Paz
 http://lobo-tv.live:25461/UzielLCH/123456789/188405
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BO || Bolivision Santa Cruz &gt;)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BO || Bolivision Santa Cruz &gt;)
+#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BO || Bolivision Santa Cruz &gt;)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BO || Bolivision Santa Cruz
 http://lobo-tv.live:25461/UzielLCH/123456789/188406
-#EXTINF:-1 tvg-id="CadenaA.bo" tvg-name="BO || Cadena A &gt;)" tvg-logo="http://l3d.us:25461/images/87745979a8e11367aa3d0f556cf3ed9e.png" group-title="TV | Bolivia",BO || Cadena A &gt;)
+#EXTINF:-1 tvg-id="CadenaA.bo" tvg-name="BO || Cadena A &gt;)" tvg-logo="http://l3d.us:25461/images/87745979a8e11367aa3d0f556cf3ed9e.png" group-title="TV | Bolivia",BO || Cadena A
 http://lobo-tv.live:25461/UzielLCH/123456789/188407
-#EXTINF:-1 tvg-id="" tvg-name="BO || Gigavision &gt;)" tvg-logo="http://l3d.us:25461/images/77291b5167577d9896975c222ffd7a09.png" group-title="TV | Bolivia",BO || Gigavision &gt;)
+#EXTINF:-1 tvg-id="" tvg-name="BO || Gigavision &gt;)" tvg-logo="http://l3d.us:25461/images/77291b5167577d9896975c222ffd7a09.png" group-title="TV | Bolivia",BO || Gigavision
 http://lobo-tv.live:25461/UzielLCH/123456789/188408
-#EXTINF:-1 tvg-id="PAT.bo" tvg-name="BO || Red Pat La Paz  &gt;)" tvg-logo="http://l3d.us:25461/images/8dcf29abe0a37dc5911fd599ad74d20a.png" group-title="TV | Bolivia",BO || Red Pat La Paz  &gt;)
+#EXTINF:-1 tvg-id="PAT.bo" tvg-name="BO || Red Pat La Paz  &gt;)" tvg-logo="http://l3d.us:25461/images/8dcf29abe0a37dc5911fd599ad74d20a.png" group-title="TV | Bolivia",BO || Red Pat La Paz
 http://lobo-tv.live:25461/UzielLCH/123456789/188412
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BO || Red Uno Santa Cruz &gt;)" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BO || Red Uno Santa Cruz &gt;)
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BO || Red Uno Santa Cruz &gt;)" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BO || Red Uno Santa Cruz
 http://lobo-tv.live:25461/UzielLCH/123456789/188411
-#EXTINF:-1 tvg-id="RTP.bo" tvg-name="BO || RTP &gt;)" tvg-logo="http://l3d.us:25461/images/07e1322df3a2857fc817b8e477ef1eac.png" group-title="TV | Bolivia",BO || RTP &gt;)
+#EXTINF:-1 tvg-id="RTP.bo" tvg-name="BO || RTP &gt;)" tvg-logo="http://l3d.us:25461/images/07e1322df3a2857fc817b8e477ef1eac.png" group-title="TV | Bolivia",BO || RTP
 http://lobo-tv.live:25461/UzielLCH/123456789/188409
-#EXTINF:-1 tvg-id="RTP.bo" tvg-name="BO || RTP* &gt;)" tvg-logo="http://l3d.us:25461/images/07e1322df3a2857fc817b8e477ef1eac.png" group-title="TV | Bolivia",BO || RTP* &gt;)
+#EXTINF:-1 tvg-id="RTP.bo" tvg-name="BO || RTP* &gt;)" tvg-logo="http://l3d.us:25461/images/07e1322df3a2857fc817b8e477ef1eac.png" group-title="TV | Bolivia",BO || RTP
 http://lobo-tv.live:25461/UzielLCH/123456789/188410
-#EXTINF:-1 tvg-id="TVU.bo" tvg-name="BO || TV U &gt;)" tvg-logo="http://l3d.us:25461/images/5476e2fc6cfeeeda25e83909fc06b207.png" group-title="TV | Bolivia",BO || TV U &gt;)
+#EXTINF:-1 tvg-id="TVU.bo" tvg-name="BO || TV U &gt;)" tvg-logo="http://l3d.us:25461/images/5476e2fc6cfeeeda25e83909fc06b207.png" group-title="TV | Bolivia",BO || TV U
 http://lobo-tv.live:25461/UzielLCH/123456789/188416
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO || Unitel" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO || Unitel
 http://lobo-tv.live:25461/UzielLCH/123456789/188424
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO || Unitel La Paz &gt;)" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO || Unitel La Paz &gt;)
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO || Unitel La Paz &gt;)" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO || Unitel La Paz
 http://lobo-tv.live:25461/UzielLCH/123456789/188423
 #EXTINF:-1 tvg-id="" tvg-name="BOL | MEGAVISION" tvg-logo="http://l3d.us:25461/images/164331fa5c0e4ecf19effc814f797882.png" group-title="TV | Bolivia",BOL | MEGAVISION
 http://lobo-tv.live:25461/UzielLCH/123456789/226124
-#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB BOLIVIA LP :)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BOLIVIA || ATB BOLIVIA LP :)
+#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB BOLIVIA LP :)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BOLIVIA || ATB BOLIVIA LP
 http://lobo-tv.live:25461/UzielLCH/123456789/188386
-#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB CBA. :)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BOLIVIA || ATB CBA. :)
+#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB CBA. :)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BOLIVIA || ATB CBA
 http://lobo-tv.live:25461/UzielLCH/123456789/188387
-#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || BOLIVIA  :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || BOLIVIA  :)
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || BOLIVIA  :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || BOLIVIA tv
 http://lobo-tv.live:25461/UzielLCH/123456789/188399
-#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || Bolivia TV SD :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || Bolivia TV SD :)
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || Bolivia TV SD :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || Bolivia TV SD
 http://lobo-tv.live:25461/UzielLCH/123456789/188388
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BOLIVIA || BOLIVISION :)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BOLIVIA || BOLIVISION :)
+#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BOLIVIA || BOLIVISION :)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BOLIVIA || BOLIVISION
 http://lobo-tv.live:25461/UzielLCH/123456789/188392
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BOLIVIA || Bolivision HD :)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BOLIVIA || Bolivision HD :)
+#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BOLIVIA || Bolivision HD :)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BOLIVIA || Bolivision HD
 http://lobo-tv.live:25461/UzielLCH/123456789/188389
-#EXTINF:-1 tvg-id="BoliviaTV72Deportes.bo" tvg-name="BOLIVIA || DEPORTES TV BOLIVIA :)" tvg-logo="http://l3d.us:25461/images/2fa44f3734baf3d7c4a7b621a69a9018.png" group-title="TV | Bolivia",BOLIVIA || DEPORTES TV BOLIVIA :)
+#EXTINF:-1 tvg-id="BoliviaTV72Deportes.bo" tvg-name="BOLIVIA || DEPORTES TV BOLIVIA :)" tvg-logo="http://l3d.us:25461/images/2fa44f3734baf3d7c4a7b621a69a9018.png" group-title="TV | Bolivia",BOLIVIA || DEPORTES TV BOLIVIA
 http://lobo-tv.live:25461/UzielLCH/123456789/188393
 #EXTINF:-1 tvg-id="PAT.bo" tvg-name="BOLIVIA || RED PAT LA PAZ" tvg-logo="http://l3d.us:25461/images/8dcf29abe0a37dc5911fd599ad74d20a.png" group-title="TV | Bolivia",BOLIVIA || RED PAT LA PAZ
 http://lobo-tv.live:25461/UzielLCH/123456789/188430
 #EXTINF:-1 tvg-id="PAT.bo" tvg-name="BOLIVIA || RED PAT SANTA CRUZ" tvg-logo="http://l3d.us:25461/images/8dcf29abe0a37dc5911fd599ad74d20a.png" group-title="TV | Bolivia",BOLIVIA || RED PAT SANTA CRUZ
 http://lobo-tv.live:25461/UzielLCH/123456789/188431
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || RED UNO BOLIVIA :)" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || RED UNO BOLIVIA :)
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || RED UNO BOLIVIA :)" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || RED UNO BOLIVIA
 http://lobo-tv.live:25461/UzielLCH/123456789/188396
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || RED UNO COCHABAMBA - PROGRAMAS" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || RED UNO COCHABAMBA - PROGRAMAS
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || RED UNO COCHABAMBA - PROGRAMAS" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || RED UNO COCHABAMBA
 http://lobo-tv.live:25461/UzielLCH/123456789/188428
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || Red Uno HD" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || Red Uno HD
 http://lobo-tv.live:25461/UzielLCH/123456789/188390
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || RED UNO LA PAZ - PROGRAMAS" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || RED UNO LA PAZ - PROGRAMAS
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || RED UNO LA PAZ - PROGRAMAS" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || RED UNO LA PAZ
 http://lobo-tv.live:25461/UzielLCH/123456789/188427
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || RED UNO SANTA CRUZ - PROGRAMAS" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || RED UNO SANTA CRUZ - PROGRAMAS
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="BOLIVIA || RED UNO SANTA CRUZ - PROGRAMAS" tvg-logo="http://l3d.us:25461/images/6b770233452cd2f324b1bb8cacf3e003.png" group-title="TV | Bolivia",BOLIVIA || RED UNO SANTA CRUZ
 http://lobo-tv.live:25461/UzielLCH/123456789/188429
-#EXTINF:-1 tvg-id="RTP.bo" tvg-name="BOLIVIA || RTP BOLIVIA :)" tvg-logo="http://l3d.us:25461/images/07e1322df3a2857fc817b8e477ef1eac.png" group-title="TV | Bolivia",BOLIVIA || RTP BOLIVIA :)
+#EXTINF:-1 tvg-id="RTP.bo" tvg-name="BOLIVIA || RTP BOLIVIA :)" tvg-logo="http://l3d.us:25461/images/07e1322df3a2857fc817b8e477ef1eac.png" group-title="TV | Bolivia",BOLIVIA || RTP BOLIVIA
 http://lobo-tv.live:25461/UzielLCH/123456789/188397
-#EXTINF:-1 tvg-id="TVU.bo" tvg-name="BOLIVIA || TVU :)" tvg-logo="http://l3d.us:25461/images/5476e2fc6cfeeeda25e83909fc06b207.png" group-title="TV | Bolivia",BOLIVIA || TVU :)
+#EXTINF:-1 tvg-id="TVU.bo" tvg-name="BOLIVIA || TVU :)" tvg-logo="http://l3d.us:25461/images/5476e2fc6cfeeeda25e83909fc06b207.png" group-title="TV | Bolivia",BOLIVIA || TVU
 http://lobo-tv.live:25461/UzielLCH/123456789/188394
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BOLIVIA || UNITEL :)" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BOLIVIA || UNITEL :)
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BOLIVIA || UNITEL :)" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BOLIVIA || UNITEL
 http://lobo-tv.live:25461/UzielLCH/123456789/188398
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BOLIVIA || Unitel SD :)" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BOLIVIA || Unitel SD :)
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BOLIVIA || Unitel SD :)" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BOLIVIA || Unitel SD
 http://lobo-tv.live:25461/UzielLCH/123456789/188391
 #EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C | Animal Planet" tvg-logo="http://l3d.us:25461/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | Cultura",C | Animal Planet
 http://lobo-tv.live:25461/UzielLCH/123456789/10408
