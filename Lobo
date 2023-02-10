@@ -493,13 +493,13 @@ http://lobo-tv.live:25461/UzielLCH/123456789/176612
 http://lobo-tv.live:25461/UzielLCH/123456789/176593
 #EXTINF:-1 tvg-id="canal1.co" tvg-name="CO | Canal Uno HD" tvg-logo="http://sdmx.com.mx/logos/canaluno.png" group-title="TV | Colombia",CO | Canal Uno HD
 http://lobo-tv.live:25461/UzielLCH/123456789/202063
-#EXTINF:-1 tvg-id="Caracol" tvg-name="CO | Caracol" tvg-logo="http://l3d.us:25461/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="TV | Colombia",CO | Caracol
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol" tvg-logo="http://l3d.us:25461/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="TV | Colombia",CO | Caracol
 http://lobo-tv.live:25461/UzielLCH/123456789/176570
-#EXTINF:-1 tvg-id="Caracol" tvg-name="CO | Caracol HD" tvg-logo="http://l3d.us:25461/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="TV | Colombia",CO | Caracol HD
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol HD" tvg-logo="http://l3d.us:25461/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="TV | Colombia",CO | Caracol HD
 http://lobo-tv.live:25461/UzielLCH/123456789/176569
-#EXTINF:-1 tvg-id="Caracol" tvg-name="CO | Caracol HD2" tvg-logo="http://l3d.us:25461/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="TV | Colombia",CO | Caracol HD2
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol HD2" tvg-logo="http://l3d.us:25461/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="TV | Colombia",CO | Caracol HD2
 http://lobo-tv.live:25461/UzielLCH/123456789/202067
-#EXTINF:-1 tvg-id="Caracol" tvg-name="CO | Caracol FHD" tvg-logo="http://l3d.us:8080/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="TV | Colombia",CO | Caracol FHD
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="CO | Caracol FHD" tvg-logo="http://l3d.us:8080/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="TV | Colombia",CO | Caracol FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/176568
 #EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="CO | Caracol Internacional" tvg-logo="http://sdmx.com.mx/logos/caracolinternacional.png" group-title="TV | Colombia",CO | Caracol Internacional
 http://lobo-tv.live:25461/UzielLCH/123456789/176613
