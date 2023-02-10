@@ -221,7 +221,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2145543
 http://lobo-tv.live:25461/UzielLCH/123456789/210868
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO | Unitel Santa Cruz HD" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO | Unitel Santa Cruz HD
 http://lobo-tv.live:25461/UzielLCH/123456789/215948
-#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BO || ATB &gt;)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BO || ATB
+#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BO || ATB &gt;)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="TV | Bolivia",BO || ATB
 http://lobo-tv.live:25461/UzielLCH/123456789/188400
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BO || Bolivia TV" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BO || Bolivia TV
 http://lobo-tv.live:25461/UzielLCH/123456789/188402
@@ -253,11 +253,11 @@ http://lobo-tv.live:25461/UzielLCH/123456789/188424
 http://lobo-tv.live:25461/UzielLCH/123456789/188423
 #EXTINF:-1 tvg-id="" tvg-name="BOL | MEGAVISION" tvg-logo="http://l3d.us:25461/images/164331fa5c0e4ecf19effc814f797882.png" group-title="TV | Bolivia",BOL | MEGAVISION
 http://lobo-tv.live:25461/UzielLCH/123456789/226124
-#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB BOLIVIA LP :)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BOLIVIA || ATB BOLIVIA LP
+#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB BOLIVIA LP :)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="TV | Bolivia",BOLIVIA || ATB BOLIVIA
 http://lobo-tv.live:25461/UzielLCH/123456789/188386
-#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB CBA. :)" tvg-logo="http://l3d.us:25461/images/fceee8e36f95e7c22be2a8c47ce2b93e.png" group-title="TV | Bolivia",BOLIVIA || ATB CBA
+#EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB CBA. :)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="TV | Bolivia",BOLIVIA || ATB CBA
 http://lobo-tv.live:25461/UzielLCH/123456789/188387
-#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || BOLIVIA  :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || BOLIVIA tv
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || BOLIVIA  :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || BOLIVIA TV
 http://lobo-tv.live:25461/UzielLCH/123456789/188399
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || Bolivia TV SD :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || Bolivia TV SD
 http://lobo-tv.live:25461/UzielLCH/123456789/188388
