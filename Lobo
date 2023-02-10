@@ -437,19 +437,19 @@ http://lobo-tv.live:25461/UzielLCH/123456789/25361
 http://lobo-tv.live:25461/UzielLCH/123456789/25378
 #EXTINF:-1 tvg-id="" tvg-name="CL | Etc Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="TV | Chile",CL | Etc Tv
 http://lobo-tv.live:25461/UzielLCH/123456789/25390
-#EXTINF:-1 tvg-id="Red cl" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red
+#EXTINF:-1 tvg-id="red.cl" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red
 http://lobo-tv.live:25461/UzielLCH/123456789/25379
-#EXTINF:-1 tvg-id="Red cl" tvg-name="CL | La Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red HD
+#EXTINF:-1 tvg-id="red.cl" tvg-name="CL | La Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25380
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega
 http://lobo-tv.live:25461/UzielLCH/123456789/25381
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | MEGA HD
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | MEGA HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25345
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega FHD
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/25384
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CL | Mega Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega
 http://lobo-tv.live:25461/UzielLCH/123456789/25346
-#EXTINF:-1 tvg-id="" tvg-name="CL | Rec TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red
 http://lobo-tv.live:25461/UzielLCH/123456789/25386
 #EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak" tvg-logo="https://www.tvzinos.com/uploads/jpg/edcd5f1829c6c741ccc528a1f0b12dc5.jpg" group-title="TV | Chile",CL | Teletrak
 http://lobo-tv.live:25461/UzielLCH/123456789/25347
