@@ -405,57 +405,55 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10433
 http://lobo-tv.live:25461/UzielLCH/123456789/10434
 #EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="C | Wobi FHD" tvg-logo="http://l3d.us:25461/images/e619e2a095631a2c6e9085638ed8eb84.png" group-title="TV | Cultura",C | Wobi FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148715
-#EXTINF:-1 tvg-id="" tvg-name="Cable Onda (PAN)" tvg-logo="" group-title="TV | Panama",Cable Onda (PAN)
+#EXTINF:-1 tvg-id="" tvg-name="Cable Onda (PAN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cable_Onda_Sports_logo.svg/1200px-Cable_Onda_Sports_logo.svg.png" group-title="TV | Panama",Cable Onda Sports (PAN)
 http://lobo-tv.live:25461/UzielLCH/123456789/201868
 #EXTINF:-1 tvg-id="" tvg-name="CAMPUS TV" tvg-logo="http://l3d.us:25461/images/fc2c7c47b918d0c2d792a719dfb602ef.png" group-title="TV | Honduras",CAMPUS TV
 http://lobo-tv.live:25461/UzielLCH/123456789/2100953
 #EXTINF:-1 tvg-id="" tvg-name="Canal 2" tvg-logo="http://l3d.us:25461/images/56583061de0d684bd35ea40fa03b5950.png" group-title="TV | El Salvador",Canal 2
 http://lobo-tv.live:25461/UzielLCH/123456789/2138493
-#EXTINF:-1 tvg-id="" tvg-name="CL | 13C" tvg-logo="http://l3d.us:8080/images/d223800c15ac7d5c447996696a998a99.png" group-title="TV | Chile",CL | 13C
+#EXTINF:-1 tvg-id="" tvg-name="CL | 13C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png" group-title="TV | Chile",CL | 13C
 http://lobo-tv.live:25461/UzielLCH/123456789/25355
-#EXTINF:-1 tvg-id="13c.cl" tvg-name="CL | 13i" tvg-logo="http://l3d.us:8080/images/f1bde9f7f440a7fd4888a9219b78c1dd.png" group-title="TV | Chile",CL | 13i
+#EXTINF:-1 tvg-id="13c.cl" tvg-name="CL | 13i" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="TV | Chile",CL | 13i
 http://lobo-tv.live:25461/UzielLCH/123456789/25356
-#EXTINF:-1 tvg-id="tvn24.cl" tvg-name="CL | 24 Horas" tvg-logo="http://l3d.us:8080/images/7fe6b3717ccbabd801aad8f348f83302.png" group-title="TV | Chile",CL | 24 Horas
+#EXTINF:-1 tvg-id="tvn24.cl" tvg-name="CL | 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblema_de_24_Horas_TVN.svg/1200px-Emblema_de_24_Horas_TVN.svg.png" group-title="TV | Chile",CL | 24 Horas
 http://lobo-tv.live:25461/UzielLCH/123456789/25357
-#EXTINF:-1 tvg-id="" tvg-name="CL | Canal 13" tvg-logo="http://l3d.us:8080/images/f1bde9f7f440a7fd4888a9219b78c1dd.png" group-title="TV | Chile",CL | Canal 13
+#EXTINF:-1 tvg-id="" tvg-name="CL | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="TV | Chile",CL | Canal 13
 http://lobo-tv.live:25461/UzielLCH/123456789/25358
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDO" tvg-logo="http://l3d.us:8080/images/fbe47d1751c7b3f9b2f3a3b8858a7113.png" group-title="TV | Chile",CL | CDO
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="TV | Chile",CL | CDO
 http://lobo-tv.live:25461/UzielLCH/123456789/25372
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Basico" tvg-logo="http://l3d.us:8080/images/fbe47d1751c7b3f9b2f3a3b8858a7113.png" group-title="TV | Chile",CL | CDO Basico
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Basico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="TV | Chile",CL | CDO Basico
 http://lobo-tv.live:25461/UzielLCH/123456789/25354
-#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Premium" tvg-logo="http://l3d.us:8080/images/63364d589992985bef15f299720dc88f.png" group-title="TV | Chile",CL | CDO Premium
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Chile",CL | TNT Sports
 http://lobo-tv.live:25461/UzielLCH/123456789/25371
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | Chilevision" tvg-logo="http://l3d.us:8080/images/1771a97262bfe47ee9bdbccd35308c20.png" group-title="TV | Chile",CL | Chilevision
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="TV | Chile",CL | Chilevision
 http://lobo-tv.live:25461/UzielLCH/123456789/25376
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | Chilevision HD" tvg-logo="http://l3d.us:8080/images/1771a97262bfe47ee9bdbccd35308c20.png" group-title="TV | Chile",CL | Chilevision HD
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | Chilevision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="TV | Chile",CL | Chilevision HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25375
-#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | Chilevision FHD" tvg-logo="http://l3d.us:8080/images/1771a97262bfe47ee9bdbccd35308c20.png" group-title="TV | Chile",CL | Chilevision FHD
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="CL | Chilevision FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="TV | Chile",CL | Chilevision FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/25374
-#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CL | Estadio TNT Sports" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | Estadio TNT Sports
+#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CL | Estadio TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV | Chile",CL | TNT Sports
 http://lobo-tv.live:25461/UzielLCH/123456789/25361
-#EXTINF:-1 tvg-id="" tvg-name="CL | Etc TV" tvg-logo="" group-title="TV | Chile",CL | Etc TV
+#EXTINF:-1 tvg-id="" tvg-name="CL | Etc TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="TV | Chile",CL | Etc TV
 http://lobo-tv.live:25461/UzielLCH/123456789/25378
-#EXTINF:-1 tvg-id="" tvg-name="CL | Etc Tv" tvg-logo="" group-title="TV | Chile",CL | Etc Tv
+#EXTINF:-1 tvg-id="" tvg-name="CL | Etc Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="TV | Chile",CL | Etc Tv
 http://lobo-tv.live:25461/UzielLCH/123456789/25390
-#EXTINF:-1 tvg-id="Red cl" tvg-name="CL | La Red" tvg-logo="http://l3d.us:8080/images/97213c8a21ad945fe67c291ab695fbce.png" group-title="TV | Chile",CL | La Red
+#EXTINF:-1 tvg-id="Red cl" tvg-name="CL | La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red
 http://lobo-tv.live:25461/UzielLCH/123456789/25379
-#EXTINF:-1 tvg-id="Red cl" tvg-name="CL | La Red HD" tvg-logo="http://l3d.us:8080/images/97213c8a21ad945fe67c291ab695fbce.png" group-title="TV | Chile",CL | La Red HD
+#EXTINF:-1 tvg-id="Red cl" tvg-name="CL | La Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25380
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega" tvg-logo="http://l3d.us:8080/images/359e4a944e70a0523c2af12d73b83ef5.png" group-title="TV | Chile",CL | Mega
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega
 http://lobo-tv.live:25461/UzielLCH/123456789/25381
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | MEGA HD" tvg-logo="http://l3d.us:8080/images/359e4a944e70a0523c2af12d73b83ef5.png" group-title="TV | Chile",CL | MEGA HD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | MEGA HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25345
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega FHD" tvg-logo="http://l3d.us:8080/images/359e4a944e70a0523c2af12d73b83ef5.png" group-title="TV | Chile",CL | Mega FHD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/25384
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega Plus" tvg-logo="http://l3d.us:8080/images/52962395db2b3835e75097175c36a376.png" group-title="TV | Chile",CL | Mega Plus
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL | Mega Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="TV | Chile",CL | Mega
 http://lobo-tv.live:25461/UzielLCH/123456789/25346
-#EXTINF:-1 tvg-id="" tvg-name="CL | Rec TV" tvg-logo="http://l3d.us:8080/images/97213c8a21ad945fe67c291ab695fbce.png" group-title="TV | Chile",CL | Rec TV
+#EXTINF:-1 tvg-id="" tvg-name="CL | Rec TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="TV | Chile",CL | La Red
 http://lobo-tv.live:25461/UzielLCH/123456789/25386
-#EXTINF:-1 tvg-id="" tvg-name="CL | Sporting HD" tvg-logo="http://l3d.us:8080/images/1771a97262bfe47ee9bdbccd35308c20.png" group-title="TV | Chile",CL | Sporting HD
-http://lobo-tv.live:25461/UzielLCH/123456789/25392
-#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak" tvg-logo="http://l3d.us:8080/images/7b9875a35184bc4f5fdc859bafd8639b.png" group-title="TV | Chile",CL | Teletrak
+#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak" tvg-logo="https://www.tvzinos.com/uploads/jpg/edcd5f1829c6c741ccc528a1f0b12dc5.jpg" group-title="TV | Chile",CL | Teletrak
 http://lobo-tv.live:25461/UzielLCH/123456789/25347
-#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak HD" tvg-logo="http://l3d.us:8080/images/7b9875a35184bc4f5fdc859bafd8639b.png" group-title="TV | Chile",CL | Teletrak HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | Teletrak HD" tvg-logo="https://www.tvzinos.com/uploads/jpg/edcd5f1829c6c741ccc528a1f0b12dc5.jpg" group-title="TV | Chile",CL | Teletrak HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25373
 #EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS
 http://lobo-tv.live:25461/UzielLCH/123456789/25362
@@ -469,13 +467,13 @@ http://lobo-tv.live:25461/UzielLCH/123456789/25363
 http://lobo-tv.live:25461/UzielLCH/123456789/25369
 #EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS FHD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/25365
-#EXTINF:-1 tvg-id="" tvg-name="CL | TV +" tvg-logo="http://l3d.us:8080/images/a78a01167e19be1c6932891c5d10bb83.png" group-title="TV | Chile",CL | TV +
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="TV | Chile",CL | TV +
 http://lobo-tv.live:25461/UzielLCH/123456789/25348
-#EXTINF:-1 tvg-id="TVN Cl" tvg-name="CL | TVN" tvg-logo="http://l3d.us:8080/images/d47346839a69bbd8c11db8ea3359898a.png" group-title="TV | Chile",CL | TVN
+#EXTINF:-1 tvg-id="TVN Cl" tvg-name="CL | TVN" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.jpg" group-title="TV | Chile",CL | TVN
 http://lobo-tv.live:25461/UzielLCH/123456789/25387
-#EXTINF:-1 tvg-id="TVN Cl" tvg-name="CL | TVN HD" tvg-logo="http://l3d.us:8080/images/d47346839a69bbd8c11db8ea3359898a.png" group-title="TV | Chile",CL | TVN HD
+#EXTINF:-1 tvg-id="TVN Cl" tvg-name="CL | TVN HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.jpg" group-title="TV | Chile",CL | TVN HD
 http://lobo-tv.live:25461/UzielLCH/123456789/25388
-#EXTINF:-1 tvg-id="" tvg-name="Classic Rock" tvg-logo="" group-title="TV | Musica",Classic Rock
+#EXTINF:-1 tvg-id="" tvg-name="Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Classic_Rock_logo.svg/800px-Classic_Rock_logo.svg.png" group-title="TV | Musica",Classic Rock
 http://lobo-tv.live:25461/UzielLCH/123456789/2111766
 #EXTINF:-1 tvg-id="cablenoticias.co" tvg-name="CO | Cable Noticias HD" tvg-logo="http://sdmx.com.mx/logos/cablenoticias.png" group-title="TV | Colombia",CO | Cable Noticias HD
 http://lobo-tv.live:25461/UzielLCH/123456789/176589
