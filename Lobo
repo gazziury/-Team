@@ -747,43 +747,43 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10940
 http://lobo-tv.live:25461/UzielLCH/123456789/155472
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX FHD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | MX FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/10963
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="TV | Deportes",D| FOX Deportes | USA
 http://lobo-tv.live:25461/UzielLCH/123456789/200284
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10928
-#EXTINF:-1 tvg-id="" tvg-name="D| Fox Sports | ARG" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | ARG
+#EXTINF:-1 tvg-id="" tvg-name="D| Fox Sports | ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" group-title="TV | Deportes",D| Fox Sports | ARG
 http://lobo-tv.live:25461/UzielLCH/123456789/2090080
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | ARG HD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | ARG HD
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | ARG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" group-title="TV | Deportes",D| Fox Sports | ARG HD
 http://lobo-tv.live:25461/UzielLCH/123456789/14651
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | ARG FHD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | ARG FHD
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | ARG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" group-title="TV | Deportes",D| Fox Sports | ARG FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/10959
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG
 http://lobo-tv.live:25461/UzielLCH/123456789/183215
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG HD
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10957
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 3 | ARG" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | ARG
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 3 | ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 3 | ARG
 http://lobo-tv.live:25461/UzielLCH/123456789/10958
-#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | CL HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | CL HD
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | CL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 2 | CL HD
 http://lobo-tv.live:25461/UzielLCH/123456789/183332
-#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | CL FHD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | CL FHD
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | CL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 2 | CL FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/183333
-#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | CL" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | CL
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 3 | CL
 http://lobo-tv.live:25461/UzielLCH/123456789/183334
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports | COL" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | COL
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Fox Sports | COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 2 | COL
 http://lobo-tv.live:25461/UzielLCH/123456789/183212
-#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | COL FHD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | COL FHD
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | COL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 2 | COL FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/183213
-#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | COL HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | COL HD
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | COL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 2 | COL HD
 http://lobo-tv.live:25461/UzielLCH/123456789/202097
-#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | COL HD" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | COL HD
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | COL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 3 | COL HD
 http://lobo-tv.live:25461/UzielLCH/123456789/202100
-#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | COL FHD" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | COL FHD
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | COL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="TV | Deportes",D| Fox Sports 3 | COL FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/183214
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | MX
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="TV | Deportes",D| Fox Sports | MX
 http://lobo-tv.live:25461/UzielLCH/123456789/10950
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX HD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | MX HD
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="TV | Deportes",D| Fox Sports | MX HD
 http://lobo-tv.live:25461/UzielLCH/123456789/155648
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX FHD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | MX FHD
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="TV | Deportes",D| Fox Sports | MX FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/10953
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | MX
 http://lobo-tv.live:25461/UzielLCH/123456789/10949
