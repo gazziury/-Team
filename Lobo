@@ -613,7 +613,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/199509
 http://lobo-tv.live:25461/UzielLCH/123456789/14523
 #EXTINF:-1 tvg-id="" tvg-name="CU | Cubavision Internacional" tvg-logo="http://l3d.us:25461/images/bd97bb88b8bfb28662fbe3e4b2f2aebd.png" group-title="TV | Cuba",CU | Cubavision Internacional
 http://lobo-tv.live:25461/UzielLCH/123456789/14524
-#EXTINF:-1 tvg-id="" tvg-name="CU | TELEMarti" tvg-logo="https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo-print_color.png" group-title="TV | Cuba",CU | TeleMarti
+#EXTINF:-1 tvg-id="" tvg-name="CU | TELEMarti" tvg-logo="https://www.martinews.com/Content/responsive/OCB/en-US-MN/img/logo-print_color.png" group-title="TV | Cuba",CU | Tele Marti
 http://lobo-tv.live:25461/UzielLCH/123456789/14525
 #EXTINF:-1 tvg-id="" tvg-name="CU | TELEORO CANAL 13" tvg-logo="http://l3d.us:25461/images/6a220deea63dc85ceab40b5a33d977db.png" group-title="TV | Cuba",CU | TELEORO CANAL 13
 http://lobo-tv.live:25461/UzielLCH/123456789/14528
@@ -625,11 +625,11 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2144818
 http://lobo-tv.live:25461/UzielLCH/123456789/2144843
 #EXTINF:-1 tvg-id="TigoSp.GU" tvg-name="D | TIGO SPORTS GUATEMALA" tvg-logo="http://l3d.us:25461/images/7f6972401eae2892e179aeff22e3f276.png" group-title="TV | Guatemala",D | TIGO SPORTS GUATEMALA
 http://lobo-tv.live:25461/UzielLCH/123456789/219775
-#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Romana TV
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Romana TV" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png" group-title="TV | Liga Dominicana de Beisbol",D | Romana TV
 http://lobo-tv.live:25461/UzielLCH/123456789/2144844
-#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Liga Dominicana de Beisbol",D | Toros del Este - Tvo
+#EXTINF:-1 tvg-id="" tvg-name="D | Toros del Este - Tvo" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg" group-title="TV | Liga Dominicana de Beisbol",D | Tvo
 http://lobo-tv.live:25461/UzielLCH/123456789/2144846
-#EXTINF:-1 tvg-id="" tvg-name="D | Águilas Cibaeñas - CDN Deportes" tvg-logo="http://l3d.us:25461/images/520efd4c91aca48c698954dd9a882db8.png" group-title="TV | Liga Dominicana de Beisbol",D | Águilas Cibaeñas - CDN Deportes
+#EXTINF:-1 tvg-id="" tvg-name="D | Águilas Cibaeñas - CDN Deportes" tvg-logo="http://l3d.us:25461/images/520efd4c91aca48c698954dd9a882db8.png" group-title="TV | Liga Dominicana de Beisbol",D | CDN Deportes
 http://lobo-tv.live:25461/UzielLCH/123456789/2144839
 #EXTINF:-1 tvg-id="AdrSport" tvg-name="D| Adrenalina Sports" tvg-logo="http://l3d.us:25461/images/52b985145ae9fbd61c101003af8a1a81.png" group-title="TV | Deportes",D| Adrenalina Sports
 http://lobo-tv.live:25461/UzielLCH/123456789/10960
@@ -637,11 +637,11 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10960
 http://lobo-tv.live:25461/UzielLCH/123456789/197768
 #EXTINF:-1 tvg-id="AdrSport" tvg-name="D| Adrenalina Sports FHD" tvg-logo="http://l3d.us:25461/images/52b985145ae9fbd61c101003af8a1a81.png" group-title="TV | Deportes",D| Adrenalina Sports FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/155250
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados " tvg-logo="http://l3d.us:25461/images/78f0d7947217659b7951a851af919bc0.png" group-title="TV | Deportes",D| Afizzionados 
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="TV | Deportes",D| Afizzionados 
 http://lobo-tv.live:25461/UzielLCH/123456789/10914
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados HD" tvg-logo="http://l3d.us:25461/images/78f0d7947217659b7951a851af919bc0.png" group-title="TV | Deportes",D| Afizzionados HD
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="TV | Deportes",D| Afizzionados HD
 http://lobo-tv.live:25461/UzielLCH/123456789/202591
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados FHD" tvg-logo="http://l3d.us:25461/images/78f0d7947217659b7951a851af919bc0.png" group-title="TV | Deportes",D| Afizzionados FHD
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="D| Afizzionados FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="TV | Deportes",D| Afizzionados FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/155471
 #EXTINF:-1 tvg-id="aymsports.mx" tvg-name="D| AyM Sports" tvg-logo="http://l3d.us:8080/images/fb4d63cd6ef71c0b404d8df224e872ae.png" group-title="TV | Deportes",D| AyM Sports
 http://lobo-tv.live:25461/UzielLCH/123456789/155249
@@ -669,76 +669,74 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10924
 http://lobo-tv.live:25461/UzielLCH/123456789/202070
 #EXTINF:-1 tvg-id="Claro Sp" tvg-name="D| Claro Sports Latinoamerica FHD" tvg-logo="http://l3d.us:25461/images/f5a1944259815fd00c2f57062e414b8a.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/10923
-#EXTINF:-1 tvg-id="formula1.mx" tvg-name="D| DAZN F1" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN F1
+#EXTINF:-1 tvg-id="formula1.mx" tvg-name="D| DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="TV | Deportes",D| DAZN F1
 http://lobo-tv.live:25461/UzielLCH/123456789/223952
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 SD
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 SD
 http://lobo-tv.live:25461/UzielLCH/123456789/2144851
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 HD
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 HD
 http://lobo-tv.live:25461/UzielLCH/123456789/2144850
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 FHD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/2144849
 #EXTINF:-1 tvg-id="directvsportmix.ar" tvg-name="D| DIRECTV SPORTS" tvg-logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png" group-title="TV | Deportes",D| DIRECTV SPORTS
 http://lobo-tv.live:25461/UzielLCH/123456789/202157
 #EXTINF:-1 tvg-id="directvsportmix.ar" tvg-name="D| DIRECTV SPORTS FHD" tvg-logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png" group-title="TV | Deportes",D| DIRECTV SPORTS FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/203185
-#EXTINF:-1 tvg-id="directtvsportplus.ar" tvg-name="D| DIRECTV SPORTS +" tvg-logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png" group-title="TV | Deportes",D| DIRECTV SPORTS +
+#EXTINF:-1 tvg-id="directtvsportplus.ar" tvg-name="D| DIRECTV SPORTS +" tvg-logo="https://www.pngitem.com/pimgs/m/499-4995021_directv-sports-latin-america-directv-sports-2-logo.png" group-title="TV | Deportes",D| DIRECTV SPORTS +
 http://lobo-tv.live:25461/UzielLCH/123456789/203186
-#EXTINF:-1 tvg-id="directtvsportscheddule.ar" tvg-name="D| DIRECTV SPORTS 2" tvg-logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png" group-title="TV | Deportes",D| DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="directtvsportscheddule.ar" tvg-name="D| DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="TV | Deportes",D| DIRECTV SPORTS 2
 http://lobo-tv.live:25461/UzielLCH/123456789/203187
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | ARG
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV | Deportes",D| Espn 2 | ARG
 http://lobo-tv.live:25461/UzielLCH/123456789/181346
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | ARG HD
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV | Deportes",D| Espn 2 | ARG HD
 http://lobo-tv.live:25461/UzielLCH/123456789/181332
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | COL
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV | Deportes",D| Espn 2 | COL
 http://lobo-tv.live:25461/UzielLCH/123456789/181350
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | COL HD
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL HD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV | Deportes",D| Espn 2 | COL HD
 http://lobo-tv.live:25461/UzielLCH/123456789/202084
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL FHD" tvg-logo="http://l3d.us:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | COL FHD
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL FHD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV | Deportes",D| Espn 2 | COL FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/181351
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | MX
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV | Deportes",D| Espn 2 | MX
 http://lobo-tv.live:25461/UzielLCH/123456789/10939
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | MX HD
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV | Deportes",D| Espn 2 | MX HD
 http://lobo-tv.live:25461/UzielLCH/123456789/155473
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX FHD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | MX FHD
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX FHD" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV | Deportes",D| Espn 2 | MX FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/10962
 #EXTINF:-1 tvg-id="espn3.ar" tvg-name="D| Espn 3 | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | ARG
 http://lobo-tv.live:25461/UzielLCH/123456789/181348
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="D| Espn 3 | ARG FHD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | ARG FHD
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="D| Espn 3 | ARG FHD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | ARG FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/181349
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="TV | Deportes",D| Espn 3 | COL
 http://lobo-tv.live:25461/UzielLCH/123456789/181352
-#EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL HD
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="TV | Deportes",D| Espn 3 | COL HD
 http://lobo-tv.live:25461/UzielLCH/123456789/202088
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | MX" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | MX
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="D| Espn 3 | MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="TV | Deportes",D| Espn 3 | MX
 http://lobo-tv.live:25461/UzielLCH/123456789/10941
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | MX HD
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="TV | Deportes",D| Espn 3 | MX HD
 http://lobo-tv.live:25461/UzielLCH/123456789/155474
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX FHD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | MX FHD
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="TV | Deportes",D| Espn 3 | MX FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/155475
-#EXTINF:-1 tvg-id="" tvg-name="D| ESPN 4 ARG" tvg-logo="http://l3d.us:25461/images/1c055f7375764526d2b1657c275ad4a6.png" group-title="TV | Deportes",D| ESPN 4 ARG
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN 4 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="TV | Deportes",D| ESPN 4 ARG
 http://lobo-tv.live:25461/UzielLCH/123456789/2121660
-#EXTINF:-1 tvg-id="" tvg-name="D| ESPN 4 CL" tvg-logo="http://l3d.us:25461/images/1c055f7375764526d2b1657c275ad4a6.png" group-title="TV | Deportes",D| ESPN 4 CL
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN 4 CL" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-8.png" group-title="TV | Deportes",D| Fox Sports CL
 http://lobo-tv.live:25461/UzielLCH/123456789/2121680
-#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Deportes
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="TV | Deportes",D| Espn Deportes
 http://lobo-tv.live:25461/UzielLCH/123456789/202473
-#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes | HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Deportes | HD
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="TV | Deportes",D| Espn Deportes | HD
 http://lobo-tv.live:25461/UzielLCH/123456789/158472
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn EXTRA
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="TV | Deportes",D| Espn EXTRA
 http://lobo-tv.live:25461/UzielLCH/123456789/181370
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA FHD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn EXTRA FHD
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA FHD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="TV | Deportes",D| Espn EXTRA FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/181378
-#EXTINF:-1 tvg-id="" tvg-name="D| Espn Plus Sur CO" tvg-logo="http://l3d.us:25461/images/c000afc0556ce4a8ae9b89f356848dba.png" group-title="TV | Deportes",D| Espn Plus Sur CO
+#EXTINF:-1 tvg-id="" tvg-name="D| Espn Plus Sur CO" tvg-logo="https://logovectorseek.com/wp-content/uploads/2021/10/outside-tv-logo-vector.png" group-title="TV | Deportes",D| Outside USA
 http://lobo-tv.live:25461/UzielLCH/123456789/2121734
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Plus | MX HD
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX HD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="TV | Deportes",D| Espn Extra | MX HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10942
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX FHD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Plus | MX FHD
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX FHD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="TV | Deportes",D| Espn Extra | MX FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/10964
-#EXTINF:-1 tvg-id="" tvg-name="D| ESPN Premium ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| ESPN Premium ARG
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="TV | Deportes",D| ESPN Premium ARG
 http://lobo-tv.live:25461/UzielLCH/123456789/2121662
 #EXTINF:-1 tvg-id="espn.ar" tvg-name="D| Espn | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | ARG
 http://lobo-tv.live:25461/UzielLCH/123456789/181047
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="D| Espn | ARG FHD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | ARG FHD
-http://lobo-tv.live:25461/UzielLCH/123456789/202064
 #EXTINF:-1 tvg-id="espn.co" tvg-name="D| Espn | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL
 http://lobo-tv.live:25461/UzielLCH/123456789/181016
 #EXTINF:-1 tvg-id="espn.co" tvg-name="D| Espn | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL HD
