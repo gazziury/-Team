@@ -8,6 +8,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/12/14/10/28/1231799.jpg" group-title="2023",Procura-se Gonker (2023)
 https://archive.org/download/procura-se-gonker-2023/Procura-se%20Gonker%202023.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/ew3V5fhAFD1SaKwIvosWOvlz6hi.jpg" group-title="2023",Teen wolf (2023)
+https://archive.org/download/teen.wolf.nextefilmes-001/Teen.wolf.nextefilmes_001.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="2022",13 minutos de tormenta (2022)
 https://archive.org/download/13-minutos-de-tormenta-dub/13%20Minutos%20de%20Tormenta%20DUB.mp4
