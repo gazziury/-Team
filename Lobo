@@ -295,41 +295,41 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10408
 http://lobo-tv.live:25461/UzielLCH/123456789/10407
 #EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C | Animal Planet FHD" tvg-logo="http://l3d.us:25461/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | Cultura",C | Animal Planet FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/147960
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel" tvg-logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Cultura",C | Discovery Channel
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel
 http://lobo-tv.live:25461/UzielLCH/123456789/10409
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel HD" tvg-logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Cultura",C | Discovery Channel HD
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10410
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel FHD" tvg-logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Cultura",C | Discovery Channel FHD
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148703
-#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="C | Discovery Channel CO" tvg-logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Cultura",C | Discovery Channel CO
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="C | Discovery Channel CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel CO
 http://lobo-tv.live:25461/UzielLCH/123456789/183442
-#EXTINF:-1 tvg-id="DiscoveryChannelPanregional.us" tvg-name="C | Discovery Channel CO FHD" tvg-logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Cultura",C | Discovery Channel CO FHD
+#EXTINF:-1 tvg-id="DiscoveryChannelPanregional.us" tvg-name="C | Discovery Channel CO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel CO FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/183443
-#EXTINF:-1 tvg-id="discovery.cl" tvg-name="C | Discovery Channel CL HD" tvg-logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Cultura",C | Discovery Channel CL HD
+#EXTINF:-1 tvg-id="discovery.cl" tvg-name="C | Discovery Channel CL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel CL HD
 http://lobo-tv.live:25461/UzielLCH/123456789/183445
-#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español" tvg-logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Cultura",C | Discovery en Español
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery en Español
 http://lobo-tv.live:25461/UzielLCH/123456789/26760
-#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español HD" tvg-logo="http://l3d.us:25461/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="TV | Cultura",C | Discovery en Español HD
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery en Español HD
 http://lobo-tv.live:25461/UzielLCH/123456789/197236
-#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia" tvg-logo="http://l3d.us:25461/images/2bea29d79ba9d508846f825df45015fc.png" group-title="TV | Cultura",C | Discovery Familia
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/640px-Discovery_Familia_logo_%283%29.svg.png" group-title="TV | Cultura",C | Discovery Familia
 http://lobo-tv.live:25461/UzielLCH/123456789/183441
-#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia HD" tvg-logo="http://l3d.us:25461/images/2bea29d79ba9d508846f825df45015fc.png" group-title="TV | Cultura",C | Discovery Familia HD
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/640px-Discovery_Familia_logo_%283%29.svg.png" group-title="TV | Cultura",C | Discovery Familia HD
 http://lobo-tv.live:25461/UzielLCH/123456789/183440
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H" tvg-logo="http://l3d.us:25461/images/ef3cb160026aa53be9dc13e3f1844e25.png" group-title="TV | Cultura",C | Discovery H&H
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="TV | Cultura",C | Discovery H&H
 http://lobo-tv.live:25461/UzielLCH/123456789/10419
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H HD" tvg-logo="http://l3d.us:25461/images/ef3cb160026aa53be9dc13e3f1844e25.png" group-title="TV | Cultura",C | Discovery H&H HD
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="TV | Cultura",C | Discovery H&H HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10420
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H FHD" tvg-logo="http://l3d.us:25461/images/ef3cb160026aa53be9dc13e3f1844e25.png" group-title="TV | Cultura",C | Discovery H&H FHD
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="TV | Cultura",C | Discovery H&H FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148704
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | Cultura",C | Discovery Investigation
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="TV | Cultura",C | Discovery Investigation
 http://lobo-tv.live:25461/UzielLCH/123456789/10427
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation HD" tvg-logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | Cultura",C | Discovery Investigation HD
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="TV | Cultura",C | Discovery Investigation HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10428
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation FHD" tvg-logo="http://l3d.us:25461/images/5a6898640e865b337ed19248dd0cafde.png" group-title="TV | Cultura",C | Discovery Investigation FHD
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="TV | Cultura",C | Discovery Investigation FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148705
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://l3d.us:25461/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="TV | Cultura",C | Discovery SCI
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="TV | Cultura",C | Discovery Science
 http://lobo-tv.live:25461/UzielLCH/123456789/10412
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI HQ" tvg-logo="http://l3d.us:25461/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="TV | Cultura",C | Discovery SCI HQ
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="TV | Cultura",C | Discovery Science HQ
 http://lobo-tv.live:25461/UzielLCH/123456789/84538
 #EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="C | Discovery Theater" tvg-logo="http://l3d.us:25461/images/c02e20b3a5e776914050a01c27e07146.png" group-title="TV | Cultura",C | Discovery Theater
 http://lobo-tv.live:25461/UzielLCH/123456789/10426
@@ -343,11 +343,11 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10417
 http://lobo-tv.live:25461/UzielLCH/123456789/10418
 #EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="C | Discovery Turbo FHD" tvg-logo="http://l3d.us:25461/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="TV | Cultura",C | Discovery Turbo FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148707
-#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World" tvg-logo="http://l3d.us:25461/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="TV | Cultura",C | Discovery World
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery World
 http://lobo-tv.live:25461/UzielLCH/123456789/10416
-#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World HD" tvg-logo="http://l3d.us:25461/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="TV | Cultura",C | Discovery World HD
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery World HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10415
-#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World FHD" tvg-logo="http://l3d.us:25461/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="TV | Cultura",C | Discovery World FHD
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery World FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148708
 #EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="C | El Gourmet" tvg-logo="http://l3d.us:25461/images/c81b0147c1bafa607d2c3f8e080cbdad.png" group-title="TV | Cultura",C | El Gourmet
 http://lobo-tv.live:25461/UzielLCH/123456789/12255
@@ -361,33 +361,33 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10421
 http://lobo-tv.live:25461/UzielLCH/123456789/10429
 #EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="C | Food Network FHD" tvg-logo="http://l3d.us:25461/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="TV | Cultura",C | Food Network FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148710
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2" tvg-logo="http://l3d.us:25461/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="TV | Cultura",C | H2
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/800px-History2_logo_%282022%29.svg.png" group-title="TV | Cultura",C | H2
 http://lobo-tv.live:25461/UzielLCH/123456789/154074
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2 HD" tvg-logo="http://l3d.us:25461/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="TV | Cultura",C | H2 HD
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/800px-History2_logo_%282022%29.svg.png" group-title="TV | Cultura",C | H2 HD
 http://lobo-tv.live:25461/UzielLCH/123456789/16080
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2 FHD" tvg-logo="http://l3d.us:25461/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="TV | Cultura",C | H2 FHD
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/800px-History2_logo_%282022%29.svg.png" group-title="TV | Cultura",C | H2 FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/154075
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV" tvg-logo="http://l3d.us:25461/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="TV | Cultura",C | HGTV
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TV | Cultura",C | HGTV
 http://lobo-tv.live:25461/UzielLCH/123456789/182836
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV HD" tvg-logo="http://l3d.us:25461/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="TV | Cultura",C | HGTV HD
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="TV | Cultura",C | HGTV HD
 http://lobo-tv.live:25461/UzielLCH/123456789/2145512
-#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History" tvg-logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png" group-title="TV | Cultura",C | History
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="TV | Cultura",C | History
 http://lobo-tv.live:25461/UzielLCH/123456789/10423
-#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History HD" tvg-logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png" group-title="TV | Cultura",C | History HD
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="TV | Cultura",C | History HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10424
-#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History FHD" tvg-logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png" group-title="TV | Cultura",C | History FHD
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="TV | Cultura",C | History FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148711
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="C | History en Español HD" tvg-logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png" group-title="TV | Cultura",C | History en Español HD
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="C | History en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="TV | Cultura",C | History en Español HD
 http://lobo-tv.live:25461/UzielLCH/123456789/197235
-#EXTINF:-1 tvg-id="historyenespanol.us" tvg-name="C | History en Español FHD" tvg-logo="http://l3d.us:25461/images/c8758e00d94541adc2266ee5929ce9c2.png" group-title="TV | Cultura",C | History en Español FHD
+#EXTINF:-1 tvg-id="historyenespanol.us" tvg-name="C | History en Español FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="TV | Cultura",C | History en Español FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/192976
-#EXTINF:-1 tvg-id="NtGeo Mx" tvg-name="C | Nat Geo" tvg-logo="http://l3d.us:25461/images/1e01e63e3d890408725310cd6c01960a.png" group-title="TV | Cultura",C | Nat Geo
+#EXTINF:-1 tvg-id="NtGeo Mx" tvg-name="C | Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="TV | Cultura",C | Nat Geo
 http://lobo-tv.live:25461/UzielLCH/123456789/10413
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo HD" tvg-logo="http://l3d.us:25461/images/1e01e63e3d890408725310cd6c01960a.png" group-title="TV | Cultura",C | Nat Geo HD
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="TV | Cultura",C | Nat Geo HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10414
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo FHD" tvg-logo="http://l3d.us:25461/images/1e01e63e3d890408725310cd6c01960a.png" group-title="TV | Cultura",C | Nat Geo FHD
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="TV | Cultura",C | Nat Geo FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148712
-#EXTINF:-1 tvg-id="natgeomundo.us" tvg-name="C | Nat Geo Mundo HD" tvg-logo="http://l3d.us:25461/images/fb5e93b4cd0cab41d919ae89232565b4.png" group-title="TV | Cultura",C | Nat Geo Mundo HD
+#EXTINF:-1 tvg-id="natgeomundo.us" tvg-name="C | Nat Geo Mundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="TV | Cultura",C | Nat Geo Mundo HD
 http://lobo-tv.live:25461/UzielLCH/123456789/197240
 #EXTINF:-1 tvg-id="SundanceTV" tvg-name="C | Sundance TV" tvg-logo="http://l3d.us:25461/images/0e450d1e32291326bded0e1a8b9b4c20.png" group-title="TV | Cultura",C | Sundance TV
 http://lobo-tv.live:25461/UzielLCH/123456789/76314
@@ -397,7 +397,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10431
 http://lobo-tv.live:25461/UzielLCH/123456789/10432
 #EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="C | TLC FHD" tvg-logo="http://l3d.us:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="TV | Cultura",C | TLC FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148714
-#EXTINF:-1 tvg-id="teveunam.mx" tvg-name="C | TV Unam" tvg-logo="http://l3d.us:25461/images/d959943601e79f3ec4b7ac0d552a3952.png" group-title="TV | Cultura",C | TV Unam
+#EXTINF:-1 tvg-id="teveunam.mx" tvg-name="C | TV Unam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV | Cultura",C | TV Unam
 http://lobo-tv.live:25461/UzielLCH/123456789/201149
 #EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="C | Wobi" tvg-logo="http://l3d.us:25461/images/e619e2a095631a2c6e9085638ed8eb84.png" group-title="TV | Cultura",C | Wobi
 http://lobo-tv.live:25461/UzielLCH/123456789/10433
