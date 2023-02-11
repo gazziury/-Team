@@ -46,32 +46,31 @@ http://5stak.xyz:80/04992099/14850249/589582
 #EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 11" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="STAK BBB 2",CAM 11
 http://5stak.xyz:80/04992099/14850249/589583
 
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",MOSAICO
-http://grtsvk.life:80/600689854/077801957/159496
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",01
-http://grtsvk.life:80/600689854/077801957/62319
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",02
-http://grtsvk.life:80/600689854/077801957/64038
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",03
-http://grtsvk.life:80/600689854/077801957/64068
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",04
-http://grtsvk.life:80/600689854/077801957/66143
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",05
-http://grtsvk.life:80/600689854/077801957/71572
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",06
-http://grtsvk.life:80/600689854/077801957/71571
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",07
-http://grtsvk.life:80/600689854/077801957/70857
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",08
-http://grtsvk.life:80/600689854/077801957/70856
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",09
-http://grtsvk.life:80/600689854/077801957/70855
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",10
-http://grtsvk.life:80/600689854/077801957/66144
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",11
-http://grtsvk.life:80/600689854/077801957/159494
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 23 - 01" tvg-logo="https://i.imgur.com/U66khtH.png" group-title="GRT BBB",12
-http://grtsvk.life:80/600689854/077801957/159495
+
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 01
+http://axr.life:80/096154/686531/1262950
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 02
+http://axr.life:80/096154/686531/1262951
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 03
+http://axr.life:80/096154/686531/1262952
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 04
+http://axr.life:80/096154/686531/1262953
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 05
+http://axr.life:80/096154/686531/1262954
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 06
+http://axr.life:80/096154/686531/1262955
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 07
+http://axr.life:80/096154/686531/1262956
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 08
+http://axr.life:80/096154/686531/1262957
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 09
+http://axr.life:80/096154/686531/1262958
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 10
+http://axr.life:80/096154/686531/1262959
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",CAM 11
+http://axr.life:80/096154/686531/1262960
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB23 - CAM 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/VbOmkh.png" group-title="AXR BBB",Mosaico
+http://axr.life:80/096154/686531/1262961
 
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="MOSAICO" tvg-logo="https://i.imgur.com/qFYMWtZ.png" group-title="TNT 1 BBB",MOSAICO
 http://tntmais.com:80/wrsscnv/tvTest777/10083110
