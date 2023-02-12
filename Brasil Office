@@ -60,7 +60,7 @@ http://axr.life:80/096154/686531/1262989
 http://axr.life:80/096154/686531/1262990
 #EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 FHD
 http://axr.life:80/096154/686531/1262991
-#EXTINF:-1 tvg-id="" tvg-name="ID - Investigation Discovery SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - Investigation Discovery SD
+#EXTINF:-1 tvg-id="id.br" tvg-name="ID - Investigation Discovery SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - Investigation Discovery SD
 http://axr.life:80/096154/686531/1262992
 #EXTINF:-1 tvg-id="" tvg-name="ID - Investigation Discovery HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/UjcFBb.png" group-title="CANAIS | DOCUMENTÁRIOS",ID - Investigation Discovery HD
 http://axr.life:80/096154/686531/1262993
