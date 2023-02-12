@@ -373,7 +373,7 @@ http://axr.life:80/096154/686531/1263157
 http://axr.life:80/096154/686531/1263158
 #EXTINF:-1 tvg-id="" tvg-name="CNT SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/KhVRFe.png" group-title="CANAIS | ABERTOS",CNT SD
 http://axr.life:80/096154/686531/1263159
-#EXTINF:-1 tvg-id="" tvg-name="Globo AC Rede Amazônica Rio Branco SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/jefRif.png" group-title="CANAIS | GLOBO",Globo AC Rede Amazônica Rio Branco SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo AC Rede Amazônica Rio Branco SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/jefRif.png" group-title="CANAIS | GLOBO",Globo AC Rede Amazônica Rio Branco SD
 http://axr.life:80/096154/686531/1263160
 #EXTINF:-1 tvg-id="" tvg-name="Globo AC Rede Amazônica Rio Branco HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/jefRif.png" group-title="CANAIS | GLOBO",Globo AC Rede Amazônica Rio Branco HD
 http://axr.life:80/096154/686531/1263161
@@ -403,7 +403,7 @@ http://axr.life:80/096154/686531/1263172
 http://axr.life:80/096154/686531/1263173
 #EXTINF:-1 tvg-id="" tvg-name="Globo CE TV Verdes Mares FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/ufRuqI.png" group-title="CANAIS | GLOBO",Globo CE TV Verdes Mares FHD
 http://axr.life:80/096154/686531/1263174
-#EXTINF:-1 tvg-id="" tvg-name="Globo DF Brasilia SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/YcxtF8.png" group-title="CANAIS | GLOBO",Globo DF Brasilia SD
+#EXTINF:-1 tvg-id="Globobrasilia.br" tvg-name="Globo DF Brasilia SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/YcxtF8.png" group-title="CANAIS | GLOBO",Globo DF Brasilia SD
 http://axr.life:80/096154/686531/1263175
 #EXTINF:-1 tvg-id="" tvg-name="Globo DF Brasilia HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/YcxtF8.png" group-title="CANAIS | GLOBO",Globo DF Brasilia HD
 http://axr.life:80/096154/686531/1263176
@@ -433,7 +433,7 @@ http://axr.life:80/096154/686531/1263187
 http://axr.life:80/096154/686531/1263188
 #EXTINF:-1 tvg-id="" tvg-name="Globo MG Belo Horizonte FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS | GLOBO",Globo MG Belo Horizonte FHD
 http://axr.life:80/096154/686531/1263189
-#EXTINF:-1 tvg-id="" tvg-name="Globo MG EPTV Sul de Minas SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS | GLOBO",Globo MG EPTV Sul de Minas SD
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo MG EPTV Sul de Minas SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS | GLOBO",Globo MG EPTV Sul de Minas SD
 http://axr.life:80/096154/686531/1263190
 #EXTINF:-1 tvg-id="" tvg-name="Globo MG EPTV Sul de Minas HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS | GLOBO",Globo MG EPTV Sul de Minas HD
 http://axr.life:80/096154/686531/1263191
@@ -517,7 +517,7 @@ http://axr.life:80/096154/686531/1263229
 http://axr.life:80/096154/686531/1263230
 #EXTINF:-1 tvg-id="" tvg-name="Globo PR RPC TV Ponta Grossa FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS | GLOBO",Globo PR RPC TV Ponta Grossa FHD
 http://axr.life:80/096154/686531/1263231
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ Capital SD" tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS | GLOBO",Globo RJ Capital SD
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ Capital SD" tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS | GLOBO",Globo RJ Capital SD
 http://axr.life:80/096154/686531/1263232
 #EXTINF:-1 tvg-id="" tvg-name="Globo RJ Capital HD" tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS | GLOBO",Globo RJ Capital HD
 http://axr.life:80/096154/686531/1263233
@@ -601,7 +601,7 @@ http://axr.life:80/096154/686531/1263271
 http://axr.life:80/096154/686531/1263272
 #EXTINF:-1 tvg-id="" tvg-name="Globo SE Tv Sergipe FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/QBk4PB.png" group-title="CANAIS | GLOBO",Globo SE Tv Sergipe FHD
 http://axr.life:80/096154/686531/1263273
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP Capital SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS | GLOBO",Globo SP Capital SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP Capital SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS | GLOBO",Globo SP Capital SD
 http://axr.life:80/096154/686531/1263274
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP Capital HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS | GLOBO",Globo SP Capital HD
 http://axr.life:80/096154/686531/1263275
