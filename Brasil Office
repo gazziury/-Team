@@ -199,7 +199,7 @@ http://axr.life:80/096154/686531/1263070
 http://axr.life:80/096154/686531/1263071
 #EXTINF:-1 tvg-id="" tvg-name="Megapix FHD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="CANAIS | FILMES & SERIES",Megapix FHD
 http://axr.life:80/096154/686531/1263072
-#EXTINF:-1 tvg-id="" tvg-name="Paramount SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",Paramount SD
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",Paramount SD
 http://axr.life:80/096154/686531/1263073
 #EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",Paramount HD
 http://axr.life:80/096154/686531/1263074
