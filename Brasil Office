@@ -95,7 +95,7 @@ http://axr.life:80/096154/686531/1263018
 http://axr.life:80/096154/686531/1263019
 #EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC FHD
 http://axr.life:80/096154/686531/1263020
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" group-title="CANAIS | FILMES & SERIES",Arte 1 SD
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" group-title="CANAIS | FILMES & SERIES",Arte 1 SD
 http://axr.life:80/096154/686531/1263021
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" group-title="CANAIS | FILMES & SERIES",Arte 1 HD
 http://axr.life:80/096154/686531/1263022
@@ -107,23 +107,23 @@ http://axr.life:80/096154/686531/1263024
 http://axr.life:80/096154/686531/1263025
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="CANAIS | FILMES & SERIES",AXN FHD
 http://axr.life:80/096154/686531/1263026
-#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",Canal Brasil SD
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",Canal Brasil SD
 http://axr.life:80/096154/686531/1263027
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",Canal Brasil HD
 http://axr.life:80/096154/686531/1263028
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",Canal Brasil FHD
 http://axr.life:80/096154/686531/1263029
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sony SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",Canal Sony SD
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",Canal Sony SD
 http://axr.life:80/096154/686531/1263030
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",Canal Sony HD
 http://axr.life:80/096154/686531/1263031
 #EXTINF:-1 tvg-id="" tvg-name="Canal Sony FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",Canal Sony FHD
 http://axr.life:80/096154/686531/1263032
-#EXTINF:-1 tvg-id="" tvg-name="Cine Canal SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png" group-title="CANAIS | FILMES & SERIES",Cine Canal SD
+#EXTINF:-1 tvg-id="cinecanal.br" tvg-name="Cine Canal SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png" group-title="CANAIS | FILMES & SERIES",Cinecanal SD
 http://axr.life:80/096154/686531/1263033
-#EXTINF:-1 tvg-id="" tvg-name="Cine Canal HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png" group-title="CANAIS | FILMES & SERIES",Cine Canal HD
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png" group-title="CANAIS | FILMES & SERIES",Cinecanal HD
 http://axr.life:80/096154/686531/1263034
-#EXTINF:-1 tvg-id="" tvg-name="Cine Canal FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png" group-title="CANAIS | FILMES & SERIES",Cine Canal FHD
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png" group-title="CANAIS | FILMES & SERIES",Cinecanal FHD
 http://axr.life:80/096154/686531/1263035
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS | FILMES & SERIES",Cinemax SD
 http://axr.life:80/096154/686531/1263036
