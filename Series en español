@@ -5062,6 +5062,13 @@ https://archive.org/download/07_20211029_20211029_1954/06.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/10/18/03/12/5421613.jpg" group-title="Insiders",Cap. 07
 https://archive.org/download/07_20211029_20211029_1954/07.mp4
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/3/w1280/ifewkQ4QAEGzxPJsAlEmtsQHBj4.jpg" group-title="Isabel",Cap. 01
+http://144.217.180.205/Series/LAT%20,%20ESP/Isabel_LAT/1/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/3/w1280/ifewkQ4QAEGzxPJsAlEmtsQHBj4.jpg" group-title="Isabel",Cap. 02
+http://144.217.180.205/Series/LAT%20,%20ESP/Isabel_LAT/1/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/3/w1280/ifewkQ4QAEGzxPJsAlEmtsQHBj4.jpg" group-title="Isabel",Cap. 03
+http://144.217.180.205/Series/LAT%20,%20ESP/Isabel_LAT/1/S01E03.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Jaguar",TRAILER
 https://archive.org/download/trailer-j-4-gu-4-r/trailer%20J4GU4R.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/14/17/10/4037092.jpg" group-title="Jaguar",Cap. 01
