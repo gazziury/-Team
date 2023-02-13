@@ -8244,6 +8244,23 @@ http://vods.tuxchannel.tv/series/we_are_the_wave/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/05/08/34/2501726.jpg" group-title="Somos una ola",Cap. 06
 http://vods.tuxchannel.tv/series/we_are_the_wave/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 01
+http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 02
+http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 03
+http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 04
+http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 05
+http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 06
+http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 07
+http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/8/w1280/arYdHX708nDq6oWNOSjw6NczWc5.jpg" group-title="S.O.Z. Soldados o zombies",Cap. 08
+http://144.217.180.205/Series/LAT%20,%20ESP/S.O.Z.Soldiers.or.Zombies_LAT/1/S01E08.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/18/14/19/1457230.jpg" group-title="Space Force T1",Cap. 01
 http://vods.tuxchannel.tv/series/space_force/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/05/18/14/19/1457230.jpg" group-title="Space Force T1",Cap. 02
