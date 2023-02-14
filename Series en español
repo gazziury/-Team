@@ -4197,6 +4197,21 @@ http://vods.tuxchannel.tv/series/the_unlisted/s_01_e_14.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/cf/5e/f5/cf5ef59a947e93b59cc9f26142bc14ed.jpg" group-title="Fuera de radar",Cap. 15
 http://vods.tuxchannel.tv/series/the_unlisted/s_01_e_15.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/11/w1280/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg" group-title="Fuga en Dannemora",Cap. 01
+http://144.217.180.205/Series/DUAL/Escape.At.Dannemora.DUAL/1/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/11/w1280/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg" group-title="Fuga en Dannemora",Cap. 02
+http://144.217.180.205/Series/DUAL/Escape.At.Dannemora.DUAL/1/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/11/w1280/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg" group-title="Fuga en Dannemora",Cap. 03
+http://144.217.180.205/Series/DUAL/Escape.At.Dannemora.DUAL/1/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/11/w1280/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg" group-title="Fuga en Dannemora",Cap. 04
+http://144.217.180.205/Series/DUAL/Escape.At.Dannemora.DUAL/1/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/11/w1280/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg" group-title="Fuga en Dannemora",Cap. 05
+http://144.217.180.205/Series/DUAL/Escape.At.Dannemora.DUAL/1/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/11/w1280/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg" group-title="Fuga en Dannemora",Cap. 06
+http://144.217.180.205/Series/DUAL/Escape.At.Dannemora.DUAL/1/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2018/11/w1280/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg" group-title="Fuga en Dannemora",Cap. 07
+http://144.217.180.205/Series/DUAL/Escape.At.Dannemora.DUAL/1/S01E07.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Furia",TRAILER
 https://archive.org/download/trailer-fur-14/trailer%20Fur14.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/16/15/52/5339188.jpg" group-title="Furia",Cap. 01
