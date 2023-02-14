@@ -5789,6 +5789,11 @@ http://vods.tuxchannel.tv/series/la_jauria/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/24/22/04/1404968.jpg" group-title="La jauría",Cap. 08
 http://vods.tuxchannel.tv/series/la_jauria/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2020/9/w1280/ajTTf5NNRHdXvWlXGYO1fhYE4a9.jpg" group-title="La ley de Comey",Cap. 01
+http://144.217.180.205/Series/DUAL/The.Comey.Rule.DUAL/1/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2020/9/w1280/ajTTf5NNRHdXvWlXGYO1fhYE4a9.jpg" group-title="La ley de Comey",Cap. 02
+http://144.217.180.205/Series/DUAL/The.Comey.Rule.DUAL/1/S01E02.mkv
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/iaeC0Mxyyq8iu5LjBFAa27ENNez.jpg" group-title="La leyenda del tesoro perdido",Cap. 01
 https://archive.org/download/01_20221215_20221215_2313/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/iaeC0Mxyyq8iu5LjBFAa27ENNez.jpg" group-title="La leyenda del tesoro perdido",Cap. 02
