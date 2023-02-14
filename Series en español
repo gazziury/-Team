@@ -1883,6 +1883,23 @@ https://archive.org/download/03_20211111_20211111_1602/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/09/28/12/26/1549776.jpg" group-title="Dolores: La verdad sobre el caso Wanninkhof",Cap. 06
 https://archive.org/download/03_20211111_20211111_1602/06.mp4
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/eRMOLG1nDase28ZK757zeLrozna.jpg" group-title="Dom",Cap. 01
+http://144.217.180.205/Series/DUAL/DOM_DUAL/1/DOM%20T01E01%20AMZN%20WEB-DL%201080p%20Latino%20%5bCNMNHDD%5d.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/eRMOLG1nDase28ZK757zeLrozna.jpg" group-title="Dom",Cap. 02
+http://144.217.180.205/Series/DUAL/DOM_DUAL/1/DOM%20T01E02%20AMZN%20WEB-DL%201080p%20Latino%20%5bCNMNHDD%5d.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/eRMOLG1nDase28ZK757zeLrozna.jpg" group-title="Dom",Cap. 03
+http://144.217.180.205/Series/DUAL/DOM_DUAL/1/DOM%20T01E03%20AMZN%20WEB-DL%201080p%20Latino%20%5bCNMNHDD%5d.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/eRMOLG1nDase28ZK757zeLrozna.jpg" group-title="Dom",Cap. 04
+http://144.217.180.205/Series/DUAL/DOM_DUAL/1/DOM%20T01E04%20AMZN%20WEB-DL%201080p%20Latino%20%5bCNMNHDD%5d.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/eRMOLG1nDase28ZK757zeLrozna.jpg" group-title="Dom",Cap. 05
+http://144.217.180.205/Series/DUAL/DOM_DUAL/1/DOM%20T01E05%20AMZN%20WEB-DL%201080p%20Latino%20%5bCNMNHDD%5d.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/eRMOLG1nDase28ZK757zeLrozna.jpg" group-title="Dom",Cap. 06
+http://144.217.180.205/Series/DUAL/DOM_DUAL/1/DOM%20T01E06%20AMZN%20WEB-DL%201080p%20Latino%20%5bCNMNHDD%5d.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/eRMOLG1nDase28ZK757zeLrozna.jpg" group-title="Dom",Cap. 07
+http://144.217.180.205/Series/DUAL/DOM_DUAL/1/DOM%20T01E07%20AMZN%20WEB-DL%201080p%20Latino%20%5bCNMNHDD%5d.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/eRMOLG1nDase28ZK757zeLrozna.jpg" group-title="Dom",Cap. 08
+http://144.217.180.205/Series/DUAL/DOM_DUAL/1/DOM%20T01E08%20AMZN%20WEB-DL%201080p%20Latino%20%5bCNMNHDD%5d.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Doom Patrol: Patrulla condenada T1",TRAILER
 https://archive.org/download/trailer-d-00m-p-4tr-0l-1/trailer%20D00m%20P4tr0l%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/12/11/56/4356169.jpg" group-title="Doom Patrol: Patrulla condenada T1",Cap. 01
