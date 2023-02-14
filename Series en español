@@ -6510,6 +6510,27 @@ http://vods.tuxchannel.tv/series/the_last_czars/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/30/04/15/3559775.jpg" group-title="Los ultimos Zares",Cap. 06
 http://vods.tuxchannel.tv/series/the_last_czars/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 01
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 02
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 03
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 04
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 05
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 06
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 07
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E07.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 08
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E08.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 09
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E09.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/14/09/35/3530960.jpg" group-title="Love life T1",Cap. 10
+http://144.217.180.205/Series/DUAL/Love.Life.US.DUAL/1/S01E10.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 01
 http://vods.tuxchannel.tv/series/lupin/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 02
