@@ -687,24 +687,41 @@ http://vods.tuxchannel.tv/series/black_bird/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/22/06/08/17/05/1271212.jpg" group-title="Black Bird: Confesiones de un asesino",Cap. 06
 http://vods.tuxchannel.tv/series/black_bird/s_01_e_06.mkv
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Black Summer",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Black Summer T1",TRAILER
 https://archive.org/download/trailer-b-14-ck-5-umm-3-r/trailer%20B14CK%205UMM3R.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer T1",Cap. 01
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer T1",Cap. 02
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer T1",Cap. 03
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer T1",Cap. 04
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer T1",Cap. 05
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer T1",Cap. 06
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer T1",Cap. 07
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_07.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer",Cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/21/09/58/0668101.jpg" group-title="Black Summer T1",Cap. 08
 http://vods.tuxchannel.tv/series/black_summer/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_FMjpg_UX1000_.jpg" group-title="Black Summer T2",Cap. 01
+http://144.217.180.205/Series/DUAL/Black%20Summer_DUAL/2/S02E01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_FMjpg_UX1000_.jpg" group-title="Black Summer T2",Cap. 02
+http://144.217.180.205/Series/DUAL/Black%20Summer_DUAL/2/S02E02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_FMjpg_UX1000_.jpg" group-title="Black Summer T2",Cap. 03
+http://144.217.180.205/Series/DUAL/Black%20Summer_DUAL/2/S02E03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_FMjpg_UX1000_.jpg" group-title="Black Summer T2",Cap. 04
+http://144.217.180.205/Series/DUAL/Black%20Summer_DUAL/2/S02E04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_FMjpg_UX1000_.jpg" group-title="Black Summer T2",Cap. 05
+http://144.217.180.205/Series/DUAL/Black%20Summer_DUAL/2/S02E05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_FMjpg_UX1000_.jpg" group-title="Black Summer T2",Cap. 06
+http://144.217.180.205/Series/DUAL/Black%20Summer_DUAL/2/S02E06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_FMjpg_UX1000_.jpg" group-title="Black Summer T2",Cap. 07
+http://144.217.180.205/Series/DUAL/Black%20Summer_DUAL/2/S02E07.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZhOWM2ODUtNmIxZS00YWZkLWE1MzItNjMxOWExY2QxOGQ4XkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_FMjpg_UX1000_.jpg" group-title="Black Summer T2",Cap. 08
+http://144.217.180.205/Series/DUAL/Black%20Summer_DUAL/2/S02E08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Boo bitch",TRAILER
 https://archive.org/download/trailer-b-00-b-1tch/trailer%20B00%20B1tch.mp4
