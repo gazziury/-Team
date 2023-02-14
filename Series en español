@@ -3561,16 +3561,29 @@ http://vods.tuxchannel.tv/series/lie_to_me/s_03_e_13.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="En la cienaga",TRAILER
 https://archive.org/download/trailer-3n-l-4-c-13n-4g-4/trailer%203n%20l4%20c13n4g4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga T1",Cap. 01
 http://vods.tuxchannel.tv/series/rojst/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga T1",Cap. 02
 http://vods.tuxchannel.tv/series/rojst/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga T1",Cap. 03
 http://vods.tuxchannel.tv/series/rojst/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga T1",Cap. 04
 http://vods.tuxchannel.tv/series/rojst/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/12/36/2596674.jpg" group-title="En la cienaga T1",Cap. 05
 http://vods.tuxchannel.tv/series/rojst/s_01_e_05.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3NWMyODAtZjQ3Yi00NTRhLTgwYjAtNGEyMDFlNWQ4YTNhXkEyXkFqcGdeQXVyMTM0NjE5NjE4._V1_.jpg" group-title="En la cienaga T2",Cap. 01
+http://144.217.180.205/Series/DUAL/The_Mire_(81686)DUAL/2/S02E01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3NWMyODAtZjQ3Yi00NTRhLTgwYjAtNGEyMDFlNWQ4YTNhXkEyXkFqcGdeQXVyMTM0NjE5NjE4._V1_.jpg" group-title="En la cienaga T2",Cap. 02
+http://144.217.180.205/Series/DUAL/The_Mire_(81686)DUAL/2/S02E02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3NWMyODAtZjQ3Yi00NTRhLTgwYjAtNGEyMDFlNWQ4YTNhXkEyXkFqcGdeQXVyMTM0NjE5NjE4._V1_.jpg" group-title="En la cienaga T2",Cap. 03
+http://144.217.180.205/Series/DUAL/The_Mire_(81686)DUAL/2/S02E03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3NWMyODAtZjQ3Yi00NTRhLTgwYjAtNGEyMDFlNWQ4YTNhXkEyXkFqcGdeQXVyMTM0NjE5NjE4._V1_.jpg" group-title="En la cienaga T2",Cap. 04
+http://144.217.180.205/Series/DUAL/The_Mire_(81686)DUAL/2/S02E04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3NWMyODAtZjQ3Yi00NTRhLTgwYjAtNGEyMDFlNWQ4YTNhXkEyXkFqcGdeQXVyMTM0NjE5NjE4._V1_.jpg" group-title="En la cienaga T2",Cap. 05
+http://144.217.180.205/Series/DUAL/The_Mire_(81686)DUAL/2/S02E05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3NWMyODAtZjQ3Yi00NTRhLTgwYjAtNGEyMDFlNWQ4YTNhXkEyXkFqcGdeQXVyMTM0NjE5NjE4._V1_.jpg" group-title="En la cienaga T2",Cap. 06
+http://144.217.180.205/Series/DUAL/The_Mire_(81686)DUAL/2/S02E06.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="En los boxes",TRAILER
 https://archive.org/download/trailer-3n-l-05-b-0x-35/trailer%203n%20l05%20b0x35.mp4
