@@ -48,7 +48,7 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/233954
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LAT - Entretenimiento",History 2 FHD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/15183
 
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2022/09/12/cffd4507-c94e-3d01-981c-3f9d8606c391.png" group-title="LAT - Entretenimiento",Discovery Channel
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-logo="https://eu1-prod-images.disco-api.com/2022/09/12/cffd4507-c94e-3d01-981c-3f9d8606c391.png" group-title="LAT - Entretenimiento",Discovery Channel
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/65790
 
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2022/09/12/cffd4507-c94e-3d01-981c-3f9d8606c391.png" group-title="LAT - Entretenimiento",Discovery Channel HD
