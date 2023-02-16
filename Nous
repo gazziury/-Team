@@ -126,58 +126,58 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3268
 #EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/370.png" group-title="• LATINO DEPORTES •", LD - FOX DEPORTES USA HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3753
 
-#EXTINF:-1 tvg-logo="https://encryptedhttps://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN USA
+#EXTINF:-1 tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN USA
 http://tv.nousiptv.com:8080/diegonandez/801342/3751
 
-#EXTINF:-1 tvg-logo="https://encryptedhttps://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN FHD
+#EXTINF:-1 tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/3962
 
-#EXTINF:-1 tvg-logo="https://encryptedhttps://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN HD
+#EXTINF:-1 tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN HD
 http://tv.nousiptv.com:8080/diegonandez/801342/4117
 
-#EXTINF:-1 tvg-logo="https://encryptedhttps://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN FHD
+#EXTINF:-1 tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="• LATINO DEPORTES •", LD - UNIVISION TUDN FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/3963
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •", LD - TYC SPORTS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="• LATINO DEPORTES •", LD - TYC SPORTS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3759
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="• LATINO DEPORTES •", LD - TYC SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="• LATINO DEPORTES •", LD - TYC SPORTS
 http://tv.nousiptv.com:8080/diegonandez/801342/8247
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="• LATINO DEPORTES •", LD - GOL TV FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="• LATINO DEPORTES •", LD - GOL TV FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/1092639
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="• LATINO DEPORTES •", LD - GOL TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="• LATINO DEPORTES •", LD - GOL TV HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3755
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="• LATINO DEPORTES •", LD - GOL TV SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="• LATINO DEPORTES •", LD - GOL TV SD
 http://tv.nousiptv.com:8080/diegonandez/801342/1092653
 
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="• LATINO DEPORTES •", LD - DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="• LATINO DEPORTES •", LD - DAZN 1
 http://tv.nousiptv.com:8080/diegonandez/801342/53380
 
-#EXTINF:-1 tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" group-title="PARAGUAY", LD - TIGO SPORTS HD (PARAGUAY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY", LD - TIGO SPORTS HD (PARAGUAY)
 http://tv.nousiptv.com:8080/diegonandez/801342/29832
 
-#EXTINF:-1 tvg-logo="https://p-img.movetv.com/cms/images/6fa62e4f1691da2fbf96eb96bfc6dfda5dfc0ba4.jpg" group-title="• LATINO DEPORTES •", LD - UFC LIVE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="• LATINO DEPORTES •", LD - UFC LIVE HD
 http://tv.nousiptv.com:8080/diegonandez/801342/53372
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="• LATINO DEPORTES •", LD - CLARO SPORTS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/4221px-Claro_Sports_logo.svg.png" group-title="• LATINO DEPORTES •", LD - CLARO SPORTS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/12011
 
-#EXTINF:-1 tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2017/03/UFC-LOGO.png" group-title="• LATINO DEPORTES •", LD - UFC  NETWORK FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="• LATINO DEPORTES •", LD - UFC  NETWORK FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4082
 
-#EXTINF:-1 tvg-logo="http://www.acessoriosparaautos.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/l/pl5288_1_5.jpg" group-title="• LATINO DEPORTES •", LD - UFC FIGHT LATINOAMERICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="• LATINO DEPORTES •", LD - UFC FIGHT
 http://tv.nousiptv.com:8080/diegonandez/801342/3421
 
-#EXTINF:-1 tvg-logo="https://images.mediapro.es/imagina_us/custom/block/Golf_Channel_Logo_web2.png" group-title="• LATINO DEPORTES •", LD - GOLF LATIN AMERICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="• LATINO DEPORTES •", LD - GOLF CHANNEL
 http://tv.nousiptv.com:8080/diegonandez/801342/33363
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png" group-title="• LATINO DEPORTES •", LD - TVC DEPORTES
 http://tv.nousiptv.com:8080/diegonandez/801342/4139
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook_400x400.jpg" group-title="• LATINO DEPORTES •", LD - AYM SPORTS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/6/63/AYMSports21logo.png/revision/latest?cb=20210821051314&path-prefix=es" group-title="• LATINO DEPORTES •", LD - AYM SPORTS
 http://tv.nousiptv.com:8080/diegonandez/801342/3089
 
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/6b95/ad52fhlxjxot0rbzg.jpg" group-title="• CINE", CINE - HBO
