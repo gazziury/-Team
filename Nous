@@ -216,7 +216,7 @@ http://tv.nousiptv.com:8080/diegonandez/801342/4136
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="• CINE", CINE - EUROPA EUROPA
 http://tv.nousiptv.com:8080/diegonandez/801342/33359
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/574.png" group-title="• CINE", CINE - UNIVERSAL CRIME OESTE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="• CINE", CINE - UNIVERSAL CRIME OESTE
 http://tv.nousiptv.com:8080/diegonandez/801342/1119200
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="• CINE", CINE - UNIVERSAL PREMIERE OESTE
@@ -225,7 +225,7 @@ http://tv.nousiptv.com:8080/diegonandez/801342/1119201
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="• CINE", CINE - UNIVERSAL COMEDY
 http://tv.nousiptv.com:8080/diegonandez/801342/1119202
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/574.png" group-title="• CINE", CINE - UNIVERSAL CRIME ESTE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="• CINE", CINE - UNIVERSAL CRIME ESTE
 http://tv.nousiptv.com:8080/diegonandez/801342/1119203
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="• CINE", CINE - UNIVERSAL PREMIERE ESTE
@@ -237,34 +237,34 @@ http://tv.nousiptv.com:8080/diegonandez/801342/1119205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="• CINE", CINE - UNIVERSAL CINEMA
 http://tv.nousiptv.com:8080/diegonandez/801342/1119206
 
-#EXTINF:-1 tvg-logo="https://www.informador.mx/__export/1614018559320/sites/elinformador/img/2021/02/22/eu2gejxwyaakn-d_crop1614018325447.jpg_757208179.jpg" group-title="• CINE", CINE - STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="• CINE", CINE - STAR CHANNEL
 http://tv.nousiptv.com:8080/diegonandez/801342/4121
 
-#EXTINF:-1 tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="• CINE", CINE - TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="• CINE", CINE - TNT
 http://tv.nousiptv.com:8080/diegonandez/801342/4010
 
-#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_paramount-channel-hd_m.png" group-title="• CINE", CINE - PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png" group-title="• CINE", CINE - PARAMOUNT CHANNEL
 http://tv.nousiptv.com:8080/diegonandez/801342/2952
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="• CINE", CINE - TNT SERIES
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="• CINE", CINE - STAR CHANNEL
 http://tv.nousiptv.com:8080/diegonandez/801342/3218
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/df46/a57g9naunoz9unazg.jpg" group-title="• CINE", CINE - AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="• CINE", CINE - AXN ESPAÑA
 http://tv.nousiptv.com:8080/diegonandez/801342/3248
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/6706/gz77e06fxqv0ifezg.jpg" group-title="• CINE", CINE - CINECANAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="• CINE", CINE - CINECANAL
 http://tv.nousiptv.com:8080/diegonandez/801342/3250
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/1cb2/e9iq0c5sr2003nezg.jpg" group-title="• CINE", CINE - DE PELICULA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/DPelicula_2021.png/revision/latest?cb=20220130181632&path-prefix=es" group-title="• CINE", CINE - DE PELICULA
 http://tv.nousiptv.com:8080/diegonandez/801342/2997
 
-#EXTINF:-1 tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="• CINE", CINE - DE PELICULA PLUS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="• CINE", CINE - DE PELICULA PLUS
 http://tv.nousiptv.com:8080/diegonandez/801342/3239
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="• CINE", CINE - UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="• CINE", CINE - UNIVERSAL CHANNEL
 http://tv.nousiptv.com:8080/diegonandez/801342/3068
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="• CINE", CINE - STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="• CINE", CINE - STUDIO UNIVERSAL
 http://tv.nousiptv.com:8080/diegonandez/801342/3229
 
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" group-title="• CINE", CINE - I-SAT
