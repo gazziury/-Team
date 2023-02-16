@@ -69,10 +69,10 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7089
 #EXTINF:-1 tvg-id="discoverychannel.cl" tvg-logo="https://eu1-prod-images.disco-api.com/2022/09/12/cffd4507-c94e-3d01-981c-3f9d8606c391.png" group-title="LAT - Entretenimiento",Discovery Channel
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/40836
 
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-logo="https://eu1-prod-images.disco-api.com/2022/09/12/cffd4507-c94e-3d01-981c-3f9d8606c391.png" group-title="LAT - Entretenimiento",Discovery Channel HD
+#EXTINF:-1 tvg-id="discoverychannel.la" tvg-logo="https://eu1-prod-images.disco-api.com/2022/09/12/cffd4507-c94e-3d01-981c-3f9d8606c391.png" group-title="LAT - Entretenimiento",Discovery Channel HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/40835
 
-#EXTINF:-1 tvg-id="discoveryfamily.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="LAT - Entretenimiento",Discovery Familia HD
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="LAT - Entretenimiento",Discovery Familia HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/27243
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento", LAT: Discovery H&H SD (CO)
