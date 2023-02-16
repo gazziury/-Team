@@ -39,13 +39,13 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7369
 #EXTINF:-1 tvg-id="historychannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History FHD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7091
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LAT - Entretenimiento",History 2
+#EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LAT - Entretenimiento",History 2
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/65792
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LAT - Entretenimiento",History 2 SD
+#EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LAT - Entretenimiento",History 2 SD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/233954
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LAT - Entretenimiento",History 2 FHD
+#EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LAT - Entretenimiento",History 2 FHD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/15183
 
 #EXTINF:-1 tvg-id="discoverychannel.co" tvg-logo="https://eu1-prod-images.disco-api.com/2022/09/12/cffd4507-c94e-3d01-981c-3f9d8606c391.png" group-title="LAT - Entretenimiento",Discovery Channel
