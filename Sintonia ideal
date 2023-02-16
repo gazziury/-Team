@@ -213,10 +213,10 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7103
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png" group-title="LAT - Entretenimiento", LAT: TLC FHD (MX)
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7102
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/f9b97b34fcb83374a1401564b6666925.png" group-title="LAT - Entretenimiento", LAT: Tru TV HD (MX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LAT - Entretenimiento", LAT: Tru TV HD (MX)
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/26548
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/f9b97b34fcb83374a1401564b6666925.png" group-title="LAT - Entretenimiento", LAT: Tru TV SD (MX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LAT - Entretenimiento", LAT: Tru TV SD (MX)
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/26549
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/El_Gourmet.png" group-title="LAT - Entretenimiento", LAT: El Gourmet SD (CO)
@@ -240,46 +240,43 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/24629
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" group-title="LAT - Entretenimiento", LAT: Food Network HD (MX)
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/27203
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/HGTV.png" group-title="LAT - Entretenimiento", LAT: HGTV en Español SD
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/HGTV.png" group-title="LAT - Entretenimiento", LAT: HGTV
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115651
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/HGTV.png" group-title="LAT - Entretenimiento", LAT: HGTV en Español HD
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/HGTV.png" group-title="LAT - Entretenimiento", LAT: HGTV
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/115650
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Entretenimiento", LAT: Hola TV FHD
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Entretenimiento", LAT: Hola TV
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/2029
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/9ca0e17facb16eb46bd0f1f2434f6b00.png" group-title="LAT - Entretenimiento", LAT: Kanal D en Español
+#EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="LAT - Entretenimiento", LAT: Kanal D en Español
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/162328
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/f7a1dcf32cb8abe6e9453b29a845c417.png" group-title="LAT - Entretenimiento", LAT: Las Estrellas (MOVIL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="LAT - Entretenimiento", LAT: Las Estrellas
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/65737
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/f7a1dcf32cb8abe6e9453b29a845c417.png" group-title="LAT - Entretenimiento", LAT: Las Estrellas FHD (MX)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="LAT - Entretenimiento", LAT: Las Estrellas
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/16827
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/1a10be3692cec335c74387f33221a6fa.png" group-title="LAT - Entretenimiento", LAT: Lifetime (CO)
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/2025
-
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/1a10be3692cec335c74387f33221a6fa.png" group-title="LAT - Entretenimiento", LAT: Lifetime (MX)
+#EXTINF:-1 tvg-logo="https://assets.historyplay.tv/lifetimelatam/public/images/2021/11/04/lifetime.png" group-title="LAT - Entretenimiento", LAT: Lifetime
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/40850
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/3edcfcea7ecfa6e4a8762f9043fc9f5e.png" group-title="LAT - Entretenimiento", LAT: Love Nature HD
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="LAT - Entretenimiento", LAT: Love Nature
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/11132
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/6bce5df2ba5ef7b397c640ba41b95c2c.png" group-title="LAT - Entretenimiento", LAT: NBC Universo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="LAT - Entretenimiento", LAT: NBC Universo
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/73922
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/6bce5df2ba5ef7b397c640ba41b95c2c.png" group-title="LAT - Entretenimiento", LAT: NBC Universo HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="LAT - Entretenimiento", LAT: NBC Universo
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/31133
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/f6f77d1b3bf9ba4572c6c94c0483f998.png" group-title="LAT - Entretenimiento", LAT: Smithsonian Channel
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-smithsonian-hd_m.png" group-title="LAT - Entretenimiento", LAT: Smithsonian Channel
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/163533
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/3ab6c2d756ebef3963de254991adfe9f.png" group-title="LAT - Entretenimiento", LAT: Tastemade en Español SD
+#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Tastemade-LOGO_BLACK-1.jpg" group-title="LAT - Entretenimiento", LAT: Tastemade en Español
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/228606
 
-#EXTINF:-1 tvg-logo="http://vaktar.vip:8080/images/c370dca571a8e9eeb48104236808fe8d.png" group-title="LAT - Entretenimiento", LAT: TBS (MOVIL)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="LAT - Entretenimiento", LAT: TBS
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/65812
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA", LAT: Telemundo Internacional SD
