@@ -261,49 +261,43 @@ http://tv.nousiptv.com:8080/diegonandez/801342/2997
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="• CINE", CINE - DE PELICULA PLUS
 http://tv.nousiptv.com:8080/diegonandez/801342/3239
 
-#EXTINF:-1 tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="• CINE", CINE - UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="• CINE", CINE - UNIVERSAL CHANNEL
 http://tv.nousiptv.com:8080/diegonandez/801342/3068
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ec41419dee076dce6e_suc.png" group-title="• CINE", CINE - STUDIO UNIVERSAL
 http://tv.nousiptv.com:8080/diegonandez/801342/3229
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" group-title="• CINE", CINE - I-SAT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="• CINE", CINE - I-SAT
 http://tv.nousiptv.com:8080/diegonandez/801342/3074
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest/scale-to-width-down/200?cb=20161218051240" group-title="• CINE", CINE - PANICO TV HD
-http://tv.nousiptv.com:8080/diegonandez/801342/7436
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/DHE2017.png" group-title="• CINE", CINE - DHE
 http://tv.nousiptv.com:8080/diegonandez/801342/24180
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7d/02/1e/7d021e9fa568cccfc0bcf541df7aec66.jpg" group-title="• CINE", CINE - MORBID TV
+#EXTINF:-1 tvg-logo="https://totalplayplanes.mx/s/totalplay-web/assets/img/canales/Cine/canal-morbido.png" group-title="• CINE", CINE - MORBIDO TV
 http://tv.nousiptv.com:8080/diegonandez/801342/33364
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8hOboSohkApnDs3ENIhxP-nzDL-wnGou4kooa8VwqM8sK08Fsm09GMjznGLyzVlqQ-mw&usqp=CAU" group-title="• CINE", CINE - SUNDANCE TV
-http://tv.nousiptv.com:8080/diegonandez/801342/4101
-
-#EXTINF:-1 tvg-logo="http://www.pophorror.com/wp-content/uploads/2016/09/syfy_logo_small.jpg" group-title="• CINE", CINE - SYFY
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo.png" group-title="• CINE", CINE - SYFY
 http://tv.nousiptv.com:8080/diegonandez/801342/3958
 
-#EXTINF:-1 tvg-logo="https://logonoid.com/images/tbs-logo.png" group-title="• CINE", CINE - TBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" group-title="• CINE", CINE - TBS
 http://tv.nousiptv.com:8080/diegonandez/801342/4011
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/0211/lyj9dwgwygu3l6qzg.jpg" group-title="• CINE", CINE - TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="• CINE", CINE - TCM
 http://tv.nousiptv.com:8080/diegonandez/801342/3065
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/aff2/cbeb722so92ybayzg.jpg" group-title="• CINE", CINE - SONY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sony_Channel_2019_black_and_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20200117012233&path-prefix=es" group-title="• CINE", CINE - SONY
 http://tv.nousiptv.com:8080/diegonandez/801342/3069
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/f17c/gavni9iyf1mclumzg.jpg" group-title="• CINE", CINE - FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="• CINE", CINE - FX
 http://tv.nousiptv.com:8080/diegonandez/801342/3201
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/1eb6/gbkuhu73ss24b6kzg.jpg" group-title="• CINE", CINE - WARNER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="• CINE", CINE - WARNER
 http://tv.nousiptv.com:8080/diegonandez/801342/3228
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/75d1/s98p9219fz77880zg.jpg" group-title="• CINE", CINE - GOLDEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/2560px-Canal_Golden_logo.svg.png" group-title="• CINE", CINE - GOLDEN
 http://tv.nousiptv.com:8080/diegonandez/801342/3236
 
-#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" group-title="• CINE", CINE - GOLDEN EDGE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="• CINE", CINE - GOLDEN EDGE
 http://tv.nousiptv.com:8080/diegonandez/801342/3237
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW.jpeg" group-title="• ENTRETENIMIENTO", ENT -GARAGE TV
