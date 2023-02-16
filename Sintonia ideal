@@ -24,19 +24,19 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/40834
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",Investigacion Discovery HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/40833
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/2028
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History HD
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/32258
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History FHD
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History FHD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/4579
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7369
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History FHD
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="LAT - Entretenimiento",History FHD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/7091
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LAT - Entretenimiento",History 2
