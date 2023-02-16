@@ -363,58 +363,22 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3242
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2018/06/NBA-Tv-Logo.png" group-title="• BASQUETBOL DE LA NBA", NBA - NBA TV FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/3964
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47nJH8g/indie-plex.jpg" group-title="•CINEMA PREMIUM•", CINP - INDIE PLEX
-http://tv.nousiptv.com:8080/diegonandez/801342/8142
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k5ZHTL9/starz-encore-western.jpg" group-title="•CINEMA PREMIUM•", CINP - STARZ WESTERN HD
-http://tv.nousiptv.com:8080/diegonandez/801342/8134
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/72fJbm6/more-max-hd.jpg" group-title="•CINEMA PREMIUM•", CINP - MORE MAX HD
-http://tv.nousiptv.com:8080/diegonandez/801342/8143
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pcz3bts/movie-max.jpg" group-title="•CINEMA PREMIUM•", CINP - MOVIE MAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/2560px-MovieMax_Logo.svg.png" group-title="•CINEMA PREMIUM•", CINP - MOVIEMAX
 http://tv.nousiptv.com:8080/diegonandez/801342/8144
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6bkWMhv/movie-plex.jpg" group-title="•CINEMA PREMIUM•", CINP - MOVIEPLEX
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="•CINEMA PREMIUM•", CINP - MOVIEPLEX
 http://tv.nousiptv.com:8080/diegonandez/801342/8145
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/58nBFy4/outer-max-HD.jpg" group-title="•CINEMA PREMIUM•", CINP - OUTERMAX HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/OuterMax_2011.svg/revision/latest/scale-to-width-down/300?cb=20201110163221&path-prefix=es" group-title="•CINEMA PREMIUM•", CINP - OUTERMAX HD
 http://tv.nousiptv.com:8080/diegonandez/801342/8146
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tsjGHNV/retroplex-hd.jpg" group-title="•CINEMA PREMIUM•", CINP - RETROPLEX HD
-http://tv.nousiptv.com:8080/diegonandez/801342/8147
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7YWytV/showtime-west.jpg" group-title="•CINEMA PREMIUM•", CINP - SHOTIME WEST HD
-http://tv.nousiptv.com:8080/diegonandez/801342/8141
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/19tsb4T/showtime.jpg" group-title="•CINEMA PREMIUM•", CINP - SHOW TIME HD
-http://tv.nousiptv.com:8080/diegonandez/801342/8138
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PxNVMS5/showtime-beyond.jpg" group-title="•CINEMA PREMIUM•", CINP - SHOWTIME BEYOND HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/1200px-Showtime_Beyond.svg.png" group-title="•CINEMA PREMIUM•", CINP - SHOWTIME BEYOND HD
 http://tv.nousiptv.com:8080/diegonandez/801342/8139
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JBMWmMW/showtime-east.jpg" group-title="•CINEMA PREMIUM•", CINP - SHOWTIME EAST
-http://tv.nousiptv.com:8080/diegonandez/801342/8140
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/znT33wK/starz-cinema.jpg" group-title="•CINEMA PREMIUM•", CINP - STARZ CINEMA HD
-http://tv.nousiptv.com:8080/diegonandez/801342/8136
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j3JdKrP/starz-comedy.jpg" group-title="•CINEMA PREMIUM•", CINP - STARZ COMEDY HD
-http://tv.nousiptv.com:8080/diegonandez/801342/8135
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDfgh1D/starz-encore-action.jpg" group-title="•CINEMA PREMIUM•", CINP - STARZ ENCORE ACTION HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png" group-title="•CINEMA PREMIUM•", CINP - STARZ ENCORE ACTION HD
 http://tv.nousiptv.com:8080/diegonandez/801342/8128
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tX08nM/starz-encore-black.jpg" group-title="•CINEMA PREMIUM•", CINP - STARZ ENCORE BLACK
-http://tv.nousiptv.com:8080/diegonandez/801342/8127
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44Nw86c/starz-encore.jpg" group-title="•CINEMA PREMIUM•", CINP - STARZ IN BLACK
-http://tv.nousiptv.com:8080/diegonandez/801342/8126
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jtDKMr/starz-in-black.jpg" group-title="•CINEMA PREMIUM•", CINP - STARZ IN BLACK
-http://tv.nousiptv.com:8080/diegonandez/801342/8137
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0F76c50/starz-fam.jpg" group-title="•CINEMA PREMIUM•", CINP - STARZ KIDS & FAMILY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Starz_Kids_%26_Family_2016.svg/1200px-Starz_Kids_%26_Family_2016.svg.png" group-title="•CINEMA PREMIUM•", CINP - STARZ KIDS & FAMILY
 http://tv.nousiptv.com:8080/diegonandez/801342/8133
 
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/7d1d/lpcc5t1n8sp5ynczg.jpg" group-title="• FULL HD (1080 HQ)", FHD - A&E HD
