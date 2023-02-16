@@ -2487,23 +2487,20 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102351
 #EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/GcGDB6nNuCaqpieLewVZYn8QTOVChYYPQpF1V62F.jpeg" group-title="LAT - Uruguay", UY: TVL Pando
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102355
 
-#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_ea2e44965e.png" group-title="LAT - Uruguay Deportes ⚽", SP: UY: Maroñas
+#EXTINF:-1 tvg-logo="https://www.maronas.com.uy/public/web/img/hipodromos/logo-maronas.png" group-title="LAT - Uruguay Deportes ⚽", SP: UY: Maroñas
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/126054
 
 #EXTINF:-1 tvg-logo="https://www.tenfield.com.uy/wp-content/uploads/2018/03/Logo-GOLTV-blanco.jpg" group-title="LAT - Uruguay Deportes ⚽", UY: Gol tv
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/207025
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="LAT - Uruguay Deportes ⚽", SP: UY: VTV SD
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1611
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="LAT - Uruguay Deportes ⚽", SP: UY: VTV HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/24023
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="LAT - Uruguay Deportes ⚽", SP: UY: VTV FHD
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/233887
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="LAT - Uruguay Deportes ⚽", SP: UY: VTV Plus  SD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/23860
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="LAT - Uruguay Deportes ⚽", SP: UY: VTV Plus SD
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1611
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png" group-title="LAT - Venezuela", VE: Canal i
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102395
