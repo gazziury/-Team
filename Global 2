@@ -3450,10 +3450,10 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/142271
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/7ef7e64382407c66368426336ddaaa39.png" group-title="FUTBOL COLOMBIANO", LIGA COLOMBIA: WIN SPORTS + (OPC 1)
 http://playhispano.org:25461/tv5full/ORuTvDJARP/142272
 
-#EXTINF:-1 tvg-logo="http://boxdigital.xyz:8080/images/00fd50cd0931ae4b461588f2a1706517.png" group-title="URUGUAY", UR HD: 1000 X HORA TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/1000xhora.png" group-title="URUGUAY", URUGUAY | 1000 X HORA TV
 http://playhispano.org:25461/tv5full/ORuTvDJARP/142275
 
-#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/08b3487f4241931e98b5e0679ccb98ce.png" group-title="URUGUAY", UR SD: TELESUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="URUGUAY", TELESUR
 http://playhispano.org:25461/tv5full/ORuTvDJARP/142277
 
 #EXTINF:-1 tvg-logo="http://boxdigital.xyz:8080/images/4b9bdeac160d792e5700fcf3acdffae7.png" group-title="ECUADOR", EC: CANAL UNO HD
