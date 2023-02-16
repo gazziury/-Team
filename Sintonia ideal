@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",Investigacion Discovery
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",Investigacion Discovery
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/65793
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",Investigacion Discovery
