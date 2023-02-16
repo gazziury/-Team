@@ -2382,10 +2382,10 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/32349
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/fa/a0/7a/faa07a42-94d6-e8ee-bb27-8755a5e77a42/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="LAT - Paraguay Deportes ⚽", SP: PY: Tigo Sports HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1711
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="LAT - Uruguay", UY: PPV 1
+#EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/bjM4kmUqkrUjeJxvytqIi7cXUfo1w2ebwcecLaSs.jpeg" group-title="LAT - Uruguay", UY: PPV 1
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/126053
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="LAT - Uruguay", UY: PPV 2
+#EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/bjM4kmUqkrUjeJxvytqIi7cXUfo1w2ebwcecLaSs.jpeg" group-title="LAT - Uruguay", UY: PPV 2
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/132134
 
 #EXTINF:-1 tvg-logo="https://www.1000xhoratv.com/images/logos/logo-1000.png" group-title="LAT - Uruguay", UY: 1000 x Hora Tv
@@ -2406,8 +2406,11 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102349
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal4-2.png" group-title="LAT - Uruguay", UY: Canal 4 Juan Lacaze
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102356
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-4-nicaragua-logo.png" group-title="LAT - Uruguay", UY: Canal 4 Salto
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="LAT - Uruguay", UY: Canal 4 Salto
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1591
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/644-6443311_logo-canal-4-uruguay-hd-png-download.png" group-title="LAT - Uruguay", UY: Canal 4
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1600
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/644-6443311_logo-canal-4-uruguay-hd-png-download.png" group-title="LAT - Uruguay", UY: Canal 4
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/25150
@@ -2418,56 +2421,53 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1610
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/644-6443311_logo-canal-4-uruguay-hd-png-download.png" group-title="LAT - Uruguay", UY: Canal 4 FHD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102360
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="LAT - Uruguay", UY: Canal 10  HD
+#EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-Canal-10-en-VIVO-online-gratis-780x470.png" group-title="LAT - Uruguay", UY: Canal 10  HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102361
 
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/618-6181877_canal-10-hd-png-download.png" group-title="LAT - Uruguay", UY: Canal 10 FHD
+#EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-Canal-10-en-VIVO-online-gratis-780x470.png" group-title="LAT - Uruguay", UY: Canal 10 FHD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/24670
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="LAT - Uruguay", UY: Canal 12
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="LAT - Uruguay", UY: Canal 12
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/27279
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="LAT - Uruguay", UY: Canal 12 HD
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="LAT - Uruguay", UY: Canal 12 HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102362
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="LAT - Uruguay", UY: Canal 12 HD
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="LAT - Uruguay", UY: Canal 12 HD
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1609
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="LAT - Uruguay", UY: Canal 12 Melo
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="LAT - Uruguay", UY: Canal 12
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1586
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/1024x1024.png" group-title="LAT - Uruguay", UY: Canal 5 TNU SD
+#EXTINF:-1 tvg-logo="https://www.tenfield.com.uy/wp-content/uploads/2018/03/Logo-GOLTV-blanco.jpg" group-title="LAT - Uruguay", UY: Gol tv
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/207025
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal6uruguay.png" group-title="LAT - Uruguay", UY: Canal 6 Durazno
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal6uruguay.png" group-title="LAT - Uruguay", UY: Canal 6 Durazno
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1592
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-7-punta-del-este-1543.png" group-title="LAT - Uruguay", UY: Canal 7 Punta HD
+#EXTINF:-1 tvg-logo="http://canal7punta.tv/images/logo.png" group-title="LAT - Uruguay", UY: Canal 7 Punta del Este
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/32987
 
-#EXTINF:-1 tvg-logo="https://cable8.com.uy/wp-content/uploads/2021/02/cropped-8digital.png" group-title="LAT - Uruguay", UY: Canal 8 Rocha
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102350
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/ochotv.png" group-title="LAT - Uruguay", UY: Canal 8 Durazno
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Canal-8-Durazno-Uruguay-en-vivo-Online.png" group-title="LAT - Uruguay", UY: Canal 8 Durazno
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102354
 
-#EXTINF:-1 tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-cropped-LOGO-9-HD-carta.png" group-title="LAT - Uruguay", UY: Canal 9 TeleRocha
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image93013194018.jpg" group-title="LAT - Uruguay", UY: Canal 9 Rocha
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102350
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image93013194018.jpg" group-title="LAT - Uruguay", UY: Canal 9 Rocha
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102346
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal11.png" group-title="LAT - Uruguay", UY: Canal 11 Las Piedras
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Las-Piedras-Uruguay-en-vivo-Online.png" group-title="LAT - Uruguay", UY: Canal 11 Las Piedras
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102357
 
 #EXTINF:-1 tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="LAT - Uruguay", UY: Canal-M
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1595
 
-#EXTINF:-1 tvg-logo="https://images.fanart.tv/fanart/cardinal-5c4efe14298aa.png" group-title="LAT - Uruguay", UY: Cardinal TV
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_05/small.1893419310_81sinttulo_20200519014853.png.d352f345fdc38d98f27c65e867eb98ef.png" group-title="LAT - Uruguay", UY: Cardinal TV
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1596
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/ftc.png" group-title="LAT - Uruguay", UY: Florida television color
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/ftc.png" group-title="LAT - Uruguay", UY: Florida television color
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1599
-
-#EXTINF:-1 tvg-logo="https://www.latinafm.com.uy/site/wp-content/uploads/2020/06/logolatina.png" group-title="LAT - Uruguay", UY: Latina Tv Paysandu
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1600
 
 #EXTINF:-1 tvg-logo="https://www.inisa.gub.uy/images/logo_presidencia2.png" group-title="LAT - Uruguay", UY: Presidencia Uruguay
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1603
