@@ -420,67 +420,64 @@ http://tv.nousiptv.com:8080/diegonandez/801342/4068
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png" group-title="• FULL HD (1080 HQ)", FHD - COMEDY CENTRAL
 http://tv.nousiptv.com:8080/diegonandez/801342/4039
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/926Jv-sjz54/maxresdefault.jpg" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY CHANNEL
 http://tv.nousiptv.com:8080/diegonandez/801342/4069
 
-#EXTINF:-1 tvg-logo="http://www.teleaire.com/wp-content/uploads/2013/01/HomeandHelth01.jpg" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY HOME & HEALTH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY HOME & HEALTH
 http://tv.nousiptv.com:8080/diegonandez/801342/4070
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY KIDS
 http://tv.nousiptv.com:8080/diegonandez/801342/4072
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY THEATER
 http://tv.nousiptv.com:8080/diegonandez/801342/4073
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY TURBO
 http://tv.nousiptv.com:8080/diegonandez/801342/4075
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYl00Q85p0nswFcytwSwKBhLZqJTjMQJk9S6JD31OmTNHnmLLbbA" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="• FULL HD (1080 HQ)", FHD - DISCOVERY WORLD
 http://tv.nousiptv.com:8080/diegonandez/801342/4076
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="• FULL HD (1080 HQ)", FHD - DISNEY JR
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest?cb=20200322141724&path-prefix=es" group-title="• FULL HD (1080 HQ)", FHD - DISNEY JR
 http://tv.nousiptv.com:8080/diegonandez/801342/4111
 
-#EXTINF:-1 tvg-logo="http://i.televisa.com/2017/04/distrito_comedia.jpg" group-title="• FULL HD (1080 HQ)", FHD - DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="• FULL HD (1080 HQ)", FHD - DISTRITO COMEDIA
 http://tv.nousiptv.com:8080/diegonandez/801342/4040
 
-#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png" group-title="• FULL HD (1080 HQ)", FHD - E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.E-Entertainment-Logo.png.48ac164a4fda8a995b93d1917bb2fed2.png" group-title="• FULL HD (1080 HQ)", FHD - E! ENTERTAINMENT
 http://tv.nousiptv.com:8080/diegonandez/801342/4041
 
-#EXTINF:-1 tvg-logo="http://food.fnr.sndimg.com/content/dam/images/food/unsized/2013/1/4/0/fnd_FN-New-Logo_s4x3_lead.jpg" group-title="• FULL HD (1080 HQ)", FHD - FOOD NETWORK
-http://tv.nousiptv.com:8080/diegonandez/801342/4057
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_el-gourmet_m.png" group-title="• FULL HD (1080 HQ)", FHD - EL GOURMET
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="• FULL HD (1080 HQ)", FHD - EL GOURMET
 http://tv.nousiptv.com:8080/diegonandez/801342/4042
 
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="• FULL HD (1080 HQ)", FHD - STAR CHANNEL HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="• FULL HD (1080 HQ)", FHD - STAR CHANNEL HD
 http://tv.nousiptv.com:8080/diegonandez/801342/4022
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_fx_m.png" group-title="• FULL HD (1080 HQ)", FHD - FX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="• FULL HD (1080 HQ)", FHD - FX HD
 http://tv.nousiptv.com:8080/diegonandez/801342/4044
 
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_146.png?itok=VIMM7ikd" group-title="• FULL HD (1080 HQ)", FHD - GLITZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="• FULL HD (1080 HQ)", FHD - GLITZ
 http://tv.nousiptv.com:8080/diegonandez/801342/4045
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_golden-premier-hd_m.png" group-title="• FULL HD (1080 HQ)", FHD - GOLDEN PREMIERE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es" group-title="• FULL HD (1080 HQ)", FHD - GOLDEN PREMIER
 http://tv.nousiptv.com:8080/diegonandez/801342/4091
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_hbo-2_m.png" group-title="• FULL HD (1080 HQ)", FHD - HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="• FULL HD (1080 HQ)", FHD - HBO 2
 http://tv.nousiptv.com:8080/diegonandez/801342/4095
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png" group-title="• FULL HD (1080 HQ)", FHD - HBO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="• FULL HD (1080 HQ)", FHD - HBO HD
 http://tv.nousiptv.com:8080/diegonandez/801342/4112
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDId5KHRju9pGYhiqt-GLlmysSKsbEbcRcGqgfWSoeT2L1sXU6kmp2bD9AKc1lvdyHMAg&usqp=CAU" group-title="• FULL HD (1080 HQ)", FHD - HISTORY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="• FULL HD (1080 HQ)", FHD - HISTORY
 http://tv.nousiptv.com:8080/diegonandez/801342/4093
 
-#EXTINF:-1 tvg-logo="http://www.palmkids.es/wp-content/uploads/HOLA.jpg" group-title="• FULL HD (1080 HQ)", FHD - HOLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="• FULL HD (1080 HQ)", FHD - HOLA TV
 http://tv.nousiptv.com:8080/diegonandez/801342/4046
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="• FULL HD (1080 HQ)", FHD - I - SAT
 http://tv.nousiptv.com:8080/diegonandez/801342/4098
 
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/07/LOGO-MASCHIC-TXT-VIOLETA-copia.png" group-title="• FULL HD (1080 HQ)", FHD - MAS CHIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="• FULL HD (1080 HQ)", FHD - MAS CHIC
 http://tv.nousiptv.com:8080/diegonandez/801342/4047
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="• FULL HD (1080 HQ)", FHD - HBO XTREME
