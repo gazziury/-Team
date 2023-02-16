@@ -2472,41 +2472,23 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1599
 #EXTINF:-1 tvg-logo="https://www.inisa.gub.uy/images/logo_presidencia2.png" group-title="LAT - Uruguay", UY: Presidencia Uruguay
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1603
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_Tev%C3%A9_Ciudad.png" group-title="LAT - Uruguay", UY: TV Ciudad
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_teveciudad_m.png" group-title="LAT - Uruguay", UY: TV Ciudad
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1605
 
-#EXTINF:-1 tvg-logo="https://www.citycop.org/img/logos/LaRedLogo.png" group-title="LAT - Uruguay", UY: La RED
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/La-Red-Tv-Uruguay-en-vivo-Online.png" group-title="LAT - Uruguay", UY: La RED
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/32985
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/anpi-logo.png" group-title="LAT - Uruguay", UY: ANPI TV San Ramon
+#EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/uzzZF4DCcFCMAQtcDB1DaMUnuYwc36Ggi0hwjEKp.png" group-title="LAT - Uruguay", UY: ANPI TV San Ramon
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102342
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/uruguay-logo-png-transparent.png" group-title="LAT - Uruguay", UY: Cámara de Representantes
+#EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/YYlbzTZaV7g9E9Wza1dFwPvC68Y2qpoJ9G8RjyjY.jpeg" group-title="LAT - Uruguay", UY: Cámara de Representantes
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102344
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/el-canal-de-la-region.png" group-title="LAT - Uruguay", UY: El Canal de la Región - Noreste
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/el-canal-de-la-region.png" group-title="LAT - Uruguay", UY: Región tv
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102351
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OJhsZyidy4E/YTo_TRnKrfI/AAAAAAAAQi8/Pi7Ql7u74BcjV0I5X6wHrpaYW4a08BQMACLcBGAsYHQ/w350-h350-p-k-no-nu/cv10-en-vivo_optimized.png" group-title="LAT - Uruguay", UY: San Jose Ahora
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102353
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/tvl.png" group-title="LAT - Uruguay", UY: TVL Pando
+#EXTINF:-1 tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/GcGDB6nNuCaqpieLewVZYn8QTOVChYYPQpF1V62F.jpeg" group-title="LAT - Uruguay", UY: TVL Pando
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102355
-
-#EXTINF:-1 tvg-logo="https://noticiasrptv.com/wp-content/uploads/2021/10/noticias-rptv-logo-png.png" group-title="LAT - Uruguay", UY: RPTV
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/107153
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="LAT - Uruguay", UY: Global TV Uruguay
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/114180
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rio-uruguay-logo-1EE023A7EF-seeklogo.com.png" group-title="LAT - Uruguay", UY: Rio Uruguay TV
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/102358
-
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yawuhu9eruw5.png" group-title="LAT - Uruguay", UY: Radio Miami Color Television
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/107154
-
-#EXTINF:-1 tvg-logo="http://www.periodicodigitalgratis.com/gratis/imagen/2123_20170202100252.png" group-title="LAT - Uruguay Deportes ⚽", •●★-- Deportes Uruguay --★●•
-http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/32347
 
 #EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_ea2e44965e.png" group-title="LAT - Uruguay Deportes ⚽", SP: UY: Maroñas
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/126054
