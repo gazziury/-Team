@@ -2862,31 +2862,31 @@ http://playhispano.org:25461/tv5full/ORuTvDJARP/88262
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL MEXICO (HD)", IZMX | A+
 http://playhispano.org:25461/tv5full/ORuTvDJARP/88266
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | VTV PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="URUGUAY", URUGUAY | VTV
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90601
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | CANAL 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", URUGUAY | CANAL 4
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90602
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | CANAL 12
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="URUGUAY", URUGUAY | CANAL 12
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90603
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | CANAL 10 SAETA
+#EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-Canal-10-en-VIVO-online-gratis-780x470.png" group-title="URUGUAY", URUGUAY | CANAL 10 SAETA
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90605
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | CANAL 10
+#EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-Canal-10-en-VIVO-online-gratis-780x470.png" group-title="URUGUAY", URUGUAY | CANAL 10
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90607
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | LA TELE
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="URUGUAY", URUGUAY | LA TELE
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90609
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | LATINA Y PAYSANDU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", URUGUAY | CANAL 4
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90611
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | CANAL 4 SALTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", URUGUAY | CANAL 4
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90612
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="URUGUAY", URUGUAY | CANAL 4 PAYSANDU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", URUGUAY | CANAL 4
 http://playhispano.org:25461/tv5full/ORuTvDJARP/90613
 
 #EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/1a3bd42994a3f671c28c7069ef2456bf.png" group-title="PARAGUAY", PARAGUAY| UNICANAL HD (265)
