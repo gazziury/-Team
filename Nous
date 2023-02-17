@@ -771,35 +771,26 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3749
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="CHILE", CHILE - MEGA
 http://tv.nousiptv.com:8080/diegonandez/801342/3343
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xtrim.tv%2Fmodal-ecdf.html&psig=AOvVaw2dAapzwiMqex0KiV8GuWrI&ust=1617141587478000&source=images&cd=vfe&ved=2ahUKEwi60aCAwNbvAhUZB7kGHbGmAQ4QjRx6BAgAEAc" group-title="ECUADOR", EC - EL CANAL DEL FÚTBOL FHD
+#EXTINF:-1 tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR", EC - EL CANAL DEL FÚTBOL FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/1092640
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xtrim.tv%2Fmodal-ecdf.html&psig=AOvVaw2dAapzwiMqex0KiV8GuWrI&ust=1617141587478000&source=images&cd=vfe&ved=2ahUKEwi60aCAwNbvAhUZB7kGHbGmAQ4QjRx6BAgAEAc" group-title="ECUADOR", EC - EL CANAL DEL FÚTBOL HD
+#EXTINF:-1 tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR", EC - EL CANAL DEL FÚTBOL HD
 http://tv.nousiptv.com:8080/diegonandez/801342/1086208
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.uy/content/dam/public-sites/directvgo/logos/DGO-LOGO.png" group-title="ECUADOR", ECU - DIRECTV PRESENTACIÓN HD
+http://tv.nousiptv.com:8080/diegonandez/801342/53489
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR", ECU - DIRECTV SPORTS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/23239
 
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/e50c2093.png" group-title="ECUADOR", ECU - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:8080/diegonandez/801342/53489
-
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/e50c2093.png" group-title="ECUADOR", ECU - DIRECTV SPORTS + FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR", ECU - DIRECTV SPORTS FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/53490
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ECUADOR", EC - PPV ECUADOR
-http://tv.nousiptv.com:8080/diegonandez/801342/1118922
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR", ECU - CNT SPORTS / GOL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="ECUADOR", ECU - CNT SPORTS / GOL TV
 http://tv.nousiptv.com:8080/diegonandez/801342/7471
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR", ECU - GOL TV FHD
-http://tv.nousiptv.com:8080/diegonandez/801342/53381
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR", ECU - GOL TV HD
 http://tv.nousiptv.com:8080/diegonandez/801342/53491
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR", ECU - GOL TV SD
-http://tv.nousiptv.com:8080/diegonandez/801342/25753
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/220px-Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR", ECU - CANAL UNO FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/8083
@@ -810,16 +801,16 @@ http://tv.nousiptv.com:8080/diegonandez/801342/53452
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", ECU - ECUADOR TV HD
 http://tv.nousiptv.com:8080/diegonandez/801342/53453
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR", ECU - ECUAVISA FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECU - ECUAVISA FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/53455
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR", ECU - ECUAVISA SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECU - ECUAVISA SD
 http://tv.nousiptv.com:8080/diegonandez/801342/8084
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Gama_tv.png" group-title="ECUADOR", ECU - GAMAVISIÓN FHD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png" group-title="ECUADOR", ECU - GAMAVISIÓN FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/53456
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Gama_tv.png" group-title="ECUADOR", ECU - GAMAVISIÓN HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png" group-title="ECUADOR", ECU - GAMAVISIÓN HD
 http://tv.nousiptv.com:8080/diegonandez/801342/8085
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1127978058504339461/lbChzuL4_400x400.png" group-title="ECUADOR", ECU - RTS
