@@ -1452,70 +1452,70 @@ http://tv.nousiptv.com:8080/diegonandez/801342/47695
 #EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="ESPAÑA", ES - FOX HD
 http://tv.nousiptv.com:8080/diegonandez/801342/47696
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/8d4d/twlo5vu09ejwgsbzg.jpg" group-title="ESPAÑA DEPORTES", ES - LA LIGA TV BAR FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - MOVISTAR LA LIGA FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/51343
 
-#EXTINF:-1 tvg-logo="https://deporticket.blob.core.windows.net/awebs/movistar-medio-maraton-de-madrid/vamos-positivo-8-png.png" group-title="ESPAÑA DEPORTES", ES - MOVISTAR  #VAMOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - MOVISTAR  #VAMOS
 http://tv.nousiptv.com:8080/diegonandez/801342/51453
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuXrezoumuu_6Gy_koEWPA0MRdTVxDPy18h0qOPoiDUWMPS92-51574KzAggEqMGrI80&usqp=CAU" group-title="ESPAÑA DEPORTES", ES - Eurosport  2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="ESPAÑA DEPORTES", ES - Eurosport  2
 http://tv.nousiptv.com:8080/diegonandez/801342/51352
 
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/movistar+formula+1-01.png/9492b402-dda4-b2b5-469f-bd831294680f?t=1567683528553" group-title="ESPAÑA DEPORTES", ES - MOVISTAR F1 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - DAZN F1 FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/53028
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo.jpg" group-title="ESPAÑA", ES - LA 1 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg" group-title="ESPAÑA", ES - LA 1 FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/53894
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/600px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPAÑA", ES - TV GALICIA
 http://tv.nousiptv.com:8080/diegonandez/801342/54155
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="ESPAÑA", ESP - BE MAD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bemad.png" group-title="ESPAÑA", ESP - BE MAD
 http://tv.nousiptv.com:8080/diegonandez/801342/32619
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="ESPAÑA", ESP - TVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="ESPAÑA", ESP - WARNER TV
 http://tv.nousiptv.com:8080/diegonandez/801342/32620
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="ESPAÑA", ESP-24 HORAS
 http://tv.nousiptv.com:8080/diegonandez/801342/1074082
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/195/738/png-transparent-telemadrid-community-of-madrid-logo-laotra-television-people-walking-television-text-logo-thumbnail.png" group-title="ESPAÑA", ESP-TELEMADRID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png" group-title="ESPAÑA", ESP- TELEMADRID
 http://tv.nousiptv.com:8080/diegonandez/801342/1074083
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/4911/8n263eogqzb12q9zg.jpg" group-title="ESPAÑA DEPORTES", ES - TELEDEPORTE FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="ESPAÑA DEPORTES", ES - TELEDEPORTE FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/3173
 
-#EXTINF:-1 tvg-logo="http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="ESPAÑA DEPORTES", ES - REAL MADRID TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20170103061913" group-title="ESPAÑA DEPORTES", ES - REAL MADRID TV
 http://tv.nousiptv.com:8080/diegonandez/801342/3689
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1264px-Movistar_Golf.svg.png" group-title="ESPAÑA DEPORTES", ES - MOVISTAR GOLF
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/1200px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - MOVISTAR GOLF
 http://tv.nousiptv.com:8080/diegonandez/801342/3709
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/9b54/1eex752vt7684yjzg.jpg" group-title="ESPAÑA", ESP - TOROS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="ESPAÑA", ESP - TOROS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/2061
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="ESPAÑA", ES - BABY TV
 http://tv.nousiptv.com:8080/diegonandez/801342/3090
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/8da6/i83zz5se83jy99nzg.jpg" group-title="ESPAÑA DEPORTES", ES - MOVISTAR F1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - DAZN F1 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3093
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/ec34/bgc4e3iamc44z6hzg.jpg" group-title="ESPAÑA DEPORTES", ES - MOVISTAR FORMULA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - DAZN F1
 http://tv.nousiptv.com:8080/diegonandez/801342/3094
 
-#EXTINF:-1 tvg-logo="https://tv.redaven.com/canales/taquilla.png" group-title="ESPAÑA", ES - TAQUILLA 1
+#EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/640x300/4/1/e/taquilla.jpg" group-title="ESPAÑA", ES - TAQUILLA 1
 http://tv.nousiptv.com:8080/diegonandez/801342/3097
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png" group-title="ESPAÑA", ES - COMEDY CENTRAL HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3103
 
-#EXTINF:-1 tvg-logo="http://assets.cdn.iinet.net.au/assets/Posters/live-barcatv.jpg" group-title="ESPAÑA DEPORTES", ES - BARÇA TV
+#EXTINF:-1 tvg-logo="https://www.fcbarcelona.es/resources/v2.69.0-5349/i/elements/fcb-meta-logo.png" group-title="ESPAÑA DEPORTES", ES - BARÇA TV
 http://tv.nousiptv.com:8080/diegonandez/801342/3104
 
-#EXTINF:-1 tvg-logo="https://tv.redaven.com/canales/taquilla.png" group-title="ESPAÑA", ES - TAQUILLA 3
+#EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/640x300/4/1/e/taquilla.jpg" group-title="ESPAÑA", ES - TAQUILLA 3
 http://tv.nousiptv.com:8080/diegonandez/801342/3106
 
-#EXTINF:-1 tvg-logo="https://tv.redaven.com/canales/taquilla.png" group-title="ESPAÑA", ES - TAQUILLA 2
+#EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/640x300/4/1/e/taquilla.jpg" group-title="ESPAÑA", ES - TAQUILLA 2
 http://tv.nousiptv.com:8080/diegonandez/801342/3107
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/nova-en-directo-online.png" group-title="ESPAÑA", ES - NOVA
