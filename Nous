@@ -1185,13 +1185,13 @@ http://tv.nousiptv.com:8080/diegonandez/801342/23224
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="PARAGUAY", PAR - NOTICIAS PY
 http://tv.nousiptv.com:8080/diegonandez/801342/7428
 
-#EXTINF:-1 tvg-logo="nocookie.net/logopedia/images/7/71/Paraguay_TV_2020.png/revision/latest/scale-to-width-down/200?cb=20210512141427&path-prefix=es" group-title="PARAGUAY", PAR - PARAGUAY TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Paraguay_TV_2020.png/revision/latest/scale-to-width-down/200?cb=20210512141427&path-prefix=es" group-title="PARAGUAY", PAR - PARAGUAY TV
 http://tv.nousiptv.com:8080/diegonandez/801342/7423
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png" group-title="PARAGUAY", PAR - SNT
 http://tv.nousiptv.com:8080/diegonandez/801342/7425
 
-#EXTINF:-1 tvg-logo="nocookie.net/logopedia/images/7/71/Paraguay_TV_2020.png/revision/latest/scale-to-width-down/200?cb=20210512141427&path-prefix=es" group-title="PARAGUAY", PAR - PARAGUAY TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Paraguay_TV_2020.png/revision/latest/scale-to-width-down/200?cb=20210512141427&path-prefix=es" group-title="PARAGUAY", PAR - PARAGUAY TV
 http://tv.nousiptv.com:8080/diegonandez/801342/7429
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/01/Canal-Trece-Paraguay-en-vivo-Online-1.png?resize=696%2C392&ssl=1" group-title="PARAGUAY", PAR - TRECE
