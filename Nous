@@ -627,7 +627,7 @@ http://tv.nousiptv.com:8080/diegonandez/801342/1105665
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MEXICO", MEX - TUDN HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3397
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png" group-title="MEXICO", MEX - AZ MUNDO FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png/revision/latest/scale-to-width-down/134?cb=20220217171211&path-prefix=es" group-title="MEXICO", MEX - AZ MUNDO FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4055
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TV_Azteca_Cinema_logo_2021.png/revision/latest/scale-to-width-down/300?cb=20220316003349&path-prefix=es" group-title="MEXICO", MEX - AZ CINEMA FHD
@@ -645,10 +645,10 @@ http://tv.nousiptv.com:8080/diegonandez/801342/4149
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ingenio_tv_logo.png" group-title="MEXICO", MEX - INGENIO TV
 http://tv.nousiptv.com:8080/diegonandez/801342/33358
 
-#EXTINF:-1 tvg-logo="https://noticias.nmas.com.mx/wp-content/themes/tvsa_noticias_ampnoamp/images/nmedia_logo_sqw.png" group-title="MEXICO", MEX - N+ MONTERREY
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pQD88QdLdNscydAUL5T3fpah-H-OnJjCzdj82kCGZ0c8yAW6uog2JfK0w3-kDlc4VQ" group-title="MEXICO", MEX - TELEVISA MONTERREY
 http://tv.nousiptv.com:8080/diegonandez/801342/4125
 
-#EXTINF:-1 tvg-logo="https://noticias.nmas.com.mx/wp-content/themes/tvsa_noticias_ampnoamp/images/nmedia_logo_sqw.png" group-title="MEXICO", MEX - N+ MONTERREY
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pQD88QdLdNscydAUL5T3fpah-H-OnJjCzdj82kCGZ0c8yAW6uog2JfK0w3-kDlc4VQ" group-title="MEXICO", MEX - TELEVISA MONTERREY
 http://tv.nousiptv.com:8080/diegonandez/801342/4034
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", MEX - MULTIMEDIOS MONTERREY FHD
@@ -663,34 +663,31 @@ http://tv.nousiptv.com:8080/diegonandez/801342/4129
 #EXTINF:-1 tvg-logo="https://www.autolesion.com/wp-content/uploads/2011/08/teleformula.png" group-title="MEXICO", MEX - TELEFORMULA FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4036
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TLnovelas2019.png/1200px-TLnovelas2019.png" group-title="MEXICO", MEX - TL TELENOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TLnovelas2019.png/1200px-TLnovelas2019.png" group-title="MEXICO", MEX - TLNOVELAS
 http://tv.nousiptv.com:8080/diegonandez/801342/4130
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pQD88QdLdNscydAUL5T3fpah-H-OnJjCzdj82kCGZ0c8yAW6uog2JfK0w3-kDlc4VQ" group-title="MEXICO", MEX - TELEVISA MTY
 http://tv.nousiptv.com:8080/diegonandez/801342/4066
 
-#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", MEX - TV4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="MEXICO", MEX - FORO TV
 http://tv.nousiptv.com:8080/diegonandez/801342/33367
 
-#EXTINF:-1 tvg-logo="http://www.pctvcanales.mx/Portals/_default/Skins/Incredible/css/tvc/logotipo-tvc-networks.png" group-title="MEXICO", MEX - TVC
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_09/large.meganoticastvc.png.c5768ce8914212beaeaf49f69eb19a6c.png" group-title="MEXICO", MEX - MN
 http://tv.nousiptv.com:8080/diegonandez/801342/4105
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png" group-title="MEXICO", MEX - TV MAS
+#EXTINF:-1 tvg-logo="https://efacico.files.wordpress.com/2018/01/tvmas.png" group-title="MEXICO", MEX - TV MAS
 http://tv.nousiptv.com:8080/diegonandez/801342/33365
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="MEXICO", MEX - UNO MVS TV
-http://tv.nousiptv.com:8080/diegonandez/801342/6022
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO", MEX - ONCE TV NIÑOS Y NIÑAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="MEXICO", MEX - ONCE TV
 http://tv.nousiptv.com:8080/diegonandez/801342/47697
 
-#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2017/01/azteca13.png" group-title="MEXICO", MEX - AZ CINEMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TV_Azteca_Cinema_logo_2021.png/revision/latest/scale-to-width-down/300?cb=20220316003349&path-prefix=es" group-title="MEXICO", MEX - AZ CINEMA
 http://tv.nousiptv.com:8080/diegonandez/801342/2954
 
-#EXTINF:-1 tvg-logo="http://diseccionmoon.com/wp-content/uploads/2015/01/SDXF.jpg" group-title="MEXICO", MEX - MEXIQUENSE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MEXICO", MEX - MEXIQUENSE
 http://tv.nousiptv.com:8080/diegonandez/801342/3182
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/002a/n26087q8vanhd6kzg.jpg" group-title="MEXICO", MEX - AZ MUNDO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png/revision/latest/scale-to-width-down/134?cb=20220217171211&path-prefix=es" group-title="MEXICO", MEX - AZ MUNDO
 http://tv.nousiptv.com:8080/diegonandez/801342/3087
 
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/6413/otx2tvxlay51l4vzg.jpg" group-title="MEXICO", MEX - PROYECTO 40 FHD
