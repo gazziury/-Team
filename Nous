@@ -1596,28 +1596,25 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3163
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/HWD_logo.svg" group-title="ESPAÑA", ES - HOLLYWOOD HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3164
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/TVE1-La1-Logo.jpg" group-title="ESPAÑA", ES - LA 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg" group-title="ESPAÑA", ES - LA 1 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3165
 
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/efcc6e05c16879f7b1903cec874f640e.jpeg" group-title="ESPAÑA", ES - MEGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/350px-MEGA.svg.png" group-title="ESPAÑA", ES - MEGA
 http://tv.nousiptv.com:8080/diegonandez/801342/3167
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA", ES - FDF
 http://tv.nousiptv.com:8080/diegonandez/801342/3169
 
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg" group-title="ESPAÑA", ES - LA SEXTA FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", ES - LA SEXTA FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/3166
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/1dd4/fqy0w2zq9p5trw9zg.jpg" group-title="ESPAÑA", ES - TCM HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal_TCM_ES.png/revision/latest?cb=20191011223821" group-title="ESPAÑA", ES - TCM HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3171
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/33ee/mg2d1x5z7g4g80hzg.jpg" group-title="ESPAÑA", ES - TELECINCO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/800px-Telecinco.svg.png" group-title="ESPAÑA", ES - TELECINCO HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3172
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/d985/ggeg5zddhemvvwrzg.jpg" group-title="ESPAÑA", ESP - VIAJAR HD
-http://tv.nousiptv.com:8080/diegonandez/801342/3174
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar_Deportes_2.svg" group-title="ESPAÑA DEPORTES", ES - MOVISTAR DEPORTES 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - MOVISTAR DEPORTES HD
 http://tv.nousiptv.com:8080/diegonandez/801342/1090600
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png" group-title="MUSICALES", MUS - CONCERT CHANNEL
