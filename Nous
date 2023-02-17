@@ -906,7 +906,7 @@ http://tv.nousiptv.com:8080/diegonandez/801342/8183
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/800px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", ARG - TV PUBLICA
 http://tv.nousiptv.com:8080/diegonandez/801342/3417
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", ARG - EL TRECE JD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", ARG - EL TRECE HD
 http://tv.nousiptv.com:8080/diegonandez/801342/51070
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", ARG - EL TRECE
@@ -1011,43 +1011,43 @@ http://tv.nousiptv.com:8080/diegonandez/801342/2128
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="COLOMBIA", COL - CITY TV
 http://tv.nousiptv.com:8080/diegonandez/801342/1987
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA.jpg" group-title="LATINOS [USA]", LAT - ByN  Ñ.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BeIN_Sports_logo_2017_%28black%29.svg/2560px-BeIN_Sports_logo_2017_%28black%29.svg.png" group-title="LATINOS [USA]", LAT - BEIN SPORTS
 http://tv.nousiptv.com:8080/diegonandez/801342/3601
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/23Shy6c/univision-LAS-VEGAS.png" group-title="LATINOS [USA]", LAT - UNIVISION LAS VEGAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION LAS VEGAS
 http://tv.nousiptv.com:8080/diegonandez/801342/18563
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xHXkM2N/univision.png" group-title="LATINOS [USA]", LAT - UNIVISION HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3796
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dB07LWP/univision-NOTICIAS.png" group-title="LATINOS [USA]", LAT - UNIVISION NOTICIAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION NOTICIAS
 http://tv.nousiptv.com:8080/diegonandez/801342/18568
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vqVWyLj/univision-DENVER.png" group-title="LATINOS [USA]", LAT - UNIVISION DENVER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION DENVER
 http://tv.nousiptv.com:8080/diegonandez/801342/18565
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XpM0Vws/univision-DALLAS.png" group-title="LATINOS [USA]", LAT - UNIVISION DALLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION DALLAS
 http://tv.nousiptv.com:8080/diegonandez/801342/18559
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3B0Y3P3/univision-LOS-ANGELES.png" group-title="LATINOS [USA]", LAT - UNIVISION LOS ANGELES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION LOS ANGELES
 http://tv.nousiptv.com:8080/diegonandez/801342/18564
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b21fM6d/univision-SAN-FRANCISCO.png" group-title="LATINOS [USA]", LAT - UNIVISION SAN FRANCISCO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION SAN FRANCISCO
 http://tv.nousiptv.com:8080/diegonandez/801342/18560
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/200px-Logo_Univision_2019.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION TELENOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/5169px-Univision_tlnovelas_%282019%29.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION TELENOVELAS
 http://tv.nousiptv.com:8080/diegonandez/801342/1090591
 
-#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/atlanta/univision-34.png" group-title="LATINOS [USA]", LAT- UNIVISION ATLANTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT- UNIVISION ATLANTA
 http://tv.nousiptv.com:8080/diegonandez/801342/56303
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0w624J/univision-MIAMI.png" group-title="LATINOS [USA]", LAT - UNIVISION MIAMI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION MIAMI
 http://tv.nousiptv.com:8080/diegonandez/801342/3177
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G71xjvt/univision-NEW-YORK.png" group-title="LATINOS [USA]", LAT - UNIVISION NEW YORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION NEW YORK
 http://tv.nousiptv.com:8080/diegonandez/801342/2021
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4JX124W/univision-CHICAGO.png" group-title="LATINOS [USA]", LAT - UNIVISION CHICAGO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/1200px-Logo_Univision.svg.png" group-title="LATINOS [USA]", LAT - UNIVISION CHICAGO
 http://tv.nousiptv.com:8080/diegonandez/801342/47679
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g64gY4z/Telemundo-INTERNACIONAL.png" group-title="LATINOS [USA]", LAT - TELEMUNDO INTERNACIONAL
