@@ -1686,13 +1686,13 @@ http://tv.nousiptv.com:8080/diegonandez/801342/46490
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1657px-TBBT_logo.svg.png" group-title="CANALES 24/7", 24/7 - LA TEORÍA DEL BIG BANG
 http://tv.nousiptv.com:8080/diegonandez/801342/46491
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EUROPA", PORT -MTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="EUROPA", PORT -MTV
 http://tv.nousiptv.com:8080/diegonandez/801342/56299
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fAQshbdsRDs/T3jJm7t2mnI/AAAAAAAAEvo/QcH-ssSP0-E/s1600/RTP+Internacional+logo+2004.png" group-title="EUROPA", PORT - Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="EUROPA", PORT -MTV
 http://tv.nousiptv.com:8080/diegonandez/801342/56300
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="EUROPA", PORT-SPORT TV 1
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="EUROPA", PORT-SPORT TV 1
 http://tv.nousiptv.com:8080/diegonandez/801342/1072130
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" group-title="EUROPA", PORT-TVI
