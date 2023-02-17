@@ -1140,22 +1140,22 @@ http://tv.nousiptv.com:8080/diegonandez/801342/5476
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="PANAMÁ", PAN - +23 SD
 http://tv.nousiptv.com:8080/diegonandez/801342/16718
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2112622974/Logo_Teleantillas-01_400x400.jpg" group-title="REPÚBLICA DOMINICANA", RD - TELEANTILLAS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest/scale-to-width-down/250?cb=20210516223628&path-prefix=es" group-title="REPÚBLICA DOMINICANA", RD - TELEANTILLAS
 http://tv.nousiptv.com:8080/diegonandez/801342/8241
 
-#EXTINF:-1 tvg-logo="http://canal27.com.do/wp-content/uploads/2017/11/logo-1.png" group-title="REPÚBLICA DOMINICANA", RD - RNN
+#EXTINF:-1 tvg-logo="https://i0.wp.com/rnn.com.do/wp-content/uploads/2021/11/LOGO-CUBOS-RNN-test-3.png?fit=4832%2C1523&ssl=1" group-title="REPÚBLICA DOMINICANA", RD - RNN
 http://tv.nousiptv.com:8080/diegonandez/801342/8239
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763373982624149504/_qhysU4N.jpg" group-title="REPÚBLICA DOMINICANA", RD - TELEMICRO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="REPÚBLICA DOMINICANA", RD - TELEMICRO
 http://tv.nousiptv.com:8080/diegonandez/801342/8245
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820501347/TRAdigital-2010_400x400.png" group-title="REPÚBLICA DOMINICANA", RD - TELERADIO AMERICA
+#EXTINF:-1 tvg-logo="https://teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="REPÚBLICA DOMINICANA", RD - TELERADIO AMERICA
 http://tv.nousiptv.com:8080/diegonandez/801342/5472
 
-#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2013/07/telesistema.png" group-title="REPÚBLICA DOMINICANA", RD - TELESISTEMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telesistemadominicano-2007.png/revision/latest/scale-to-width-down/275?cb=20210516233228&path-prefix=es" group-title="REPÚBLICA DOMINICANA", RD - TELESISTEMA
 http://tv.nousiptv.com:8080/diegonandez/801342/8240
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Color_Vision.png" group-title="REPÚBLICA DOMINICANA", RD - Television Dominicana
+#EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1" group-title="REPÚBLICA DOMINICANA", RD - Television del Este
 http://tv.nousiptv.com:8080/diegonandez/801342/41291
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/225px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="• ENTRETENIMIENTO", ENT - EWTN
