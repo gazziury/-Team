@@ -1434,7 +1434,7 @@ http://tv.nousiptv.com:8080/diegonandez/801342/16717
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="ESPAÑA DEPORTES", ES - DAZN 1
 http://tv.nousiptv.com:8080/diegonandez/801342/4178
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmxAqe99u_boexKToFSO5uzHbgLL1gnnO4A&usqp=CAU" group-title="ESPAÑA", ES - MOVISTAR CINE Ñ
+#EXTINF:-1 tvg-logo="https://vod.roams.es/images/logos/providers/es_ES_vod/movistar-espanol/logo/movistar-espanol_principal.svg" group-title="ESPAÑA", ES - MOVISTAR CINE Ñ
 http://tv.nousiptv.com:8080/diegonandez/801342/6026
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - MOVISTAR LA LIGA
@@ -1521,7 +1521,7 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3107
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Nova-TV-en-directo-Online.png" group-title="ESPAÑA", ES - NOVA
 http://tv.nousiptv.com:8080/diegonandez/801342/3108
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GwkgJueE67cqok29MQ5USk8RDHaV54-GEw&usqp=CAU" group-title="ESPAÑA", ES - ENERGY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/120px-Energy.svg.png" group-title="ESPAÑA", ES - ENERGY
 http://tv.nousiptv.com:8080/diegonandez/801342/3109
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA DEPORTES", ES - MOVISTAR LA LIGA
