@@ -852,106 +852,103 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3433
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR", ECU - ECUADOR TV SD
 http://tv.nousiptv.com:8080/diegonandez/801342/3434
 
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="ARGENTINA", ARG - ESPN PREMIUM ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="ARGENTINA", ARG - ESPN PREMIUM HD
 http://tv.nousiptv.com:8080/diegonandez/801342/8330
 
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="ARGENTINA", ARG - ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="ARGENTINA", ARG - ESPN
 http://tv.nousiptv.com:8080/diegonandez/801342/4193
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", ARG - TNT SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png" group-title="ARGENTINA", ARG - TNT SPORTS
 http://tv.nousiptv.com:8080/diegonandez/801342/33457
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HvUsQP3Ay6yf9aAf8wmouTgSHQ4QtuMOf8aFWQ8IXmDSAUzxjDAFFeBsA-xwgWKsyfE&usqp=CAU" group-title="ARGENTINA", ARG - TNT SPORTS ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png" group-title="ARGENTINA", ARG - TNT SPORTS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/2957
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="ARGENTINA", ARG - ESPN 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="ARGENTINA", ARG - ESPN 1 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/1090736
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="ARGENTINA", ARG - ESPN 1
 http://tv.nousiptv.com:8080/diegonandez/801342/1090737
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="ARGENTINA", ARG - ESPN 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ARGENTINA", ARG - ESPN 2 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/1089695
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="ARGENTINA", ARG - ESPN 2
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ARGENTINA", ARG - ESPN 2
 http://tv.nousiptv.com:8080/diegonandez/801342/1089694
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130311223301/logopedia/images/f/fe/Foxdeportes2012.png" group-title="ARGENTINA", ARG - FOX SPORTS 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/120px-Fox_Sports_Argentina_2023.svg.png" group-title="ARGENTINA", ARG - FOX SPORTS 1 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/1090738
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130311223301/logopedia/images/f/fe/Foxdeportes2012.png" group-title="ARGENTINA", ARG - FOX SPORTS 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/120px-Fox_Sports_Argentina_2023.svg.png" group-title="ARGENTINA", ARG - FOX SPORTS 1
 http://tv.nousiptv.com:8080/diegonandez/801342/1090739
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130311223301/logopedia/images/f/fe/Foxdeportes2012.png" group-title="ARGENTINA", ARG - FOX SPORTS 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/640px-2015_Fox_sports_logo.svg.png" group-title="ARGENTINA", ARG - FOX SPORTS 2 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/1090740
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130311223301/logopedia/images/f/fe/Foxdeportes2012.png" group-title="ARGENTINA", ARG - FOX SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/800px-Fox_Sports_2_Argentina_2023.svg.png" group-title="ARGENTINA", ARG - FOX SPORTS 2 FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/1090741
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png" group-title="ARGENTINA", ARG - TYC SPORTS ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ARGENTINA", ARG - TYC SPORTS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/2961
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png" group-title="ARGENTINA", ARG - TYC SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="ARGENTINA", ARG - TYC SPORTS
 http://tv.nousiptv.com:8080/diegonandez/801342/43633
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1280px-Logo_AM-sports-2019.svg.png" group-title="ARGENTINA", ARG - AMERICA SPORTS
 http://tv.nousiptv.com:8080/diegonandez/801342/49525
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3b/65/f4/3b65f4c49117820e49c86f466987eeeb.png" group-title="ARGENTINA", ARG - DEPORTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="ARGENTINA", ARG - DEPORTV
 http://tv.nousiptv.com:8080/diegonandez/801342/29348
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/150px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png" group-title="ARGENTINA", ARG - TV PUBLICA ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/800px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", ARG - TV PUBLICA HD
 http://tv.nousiptv.com:8080/diegonandez/801342/8183
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/150px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png" group-title="ARGENTINA", ARG - TV PUBLICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/800px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", ARG - TV PUBLICA
 http://tv.nousiptv.com:8080/diegonandez/801342/3417
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", ARG - EL TRECE ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", ARG - EL TRECE JD
 http://tv.nousiptv.com:8080/diegonandez/801342/51070
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", ARG - EL TRECE
 http://tv.nousiptv.com:8080/diegonandez/801342/7431
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", ARG - TELEFE ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", ARG - TELEFE HD
 http://tv.nousiptv.com:8080/diegonandez/801342/51071
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", ARG - TELEFE
 http://tv.nousiptv.com:8080/diegonandez/801342/3439
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="ARGENTINA", ARG - EL NUEVE ᴴᴰ
-http://tv.nousiptv.com:8080/diegonandez/801342/51072
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="ARGENTINA", ARG - EL NUEVE
 http://tv.nousiptv.com:8080/diegonandez/801342/3438
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA", ARG - NET TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA", ARG - NET TV HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3356
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="ARGENTINA", ARG - NET TV
 http://tv.nousiptv.com:8080/diegonandez/801342/23229
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA", ARG - AMERICA TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA", ARG - AMERICA TV HD
 http://tv.nousiptv.com:8080/diegonandez/801342/27
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/1200px-Americatvlogo2015.svg.png" group-title="ARGENTINA", ARG - AMERICA TV
 http://tv.nousiptv.com:8080/diegonandez/801342/2040
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/A24-logonuevo.svg/1200px-A24-logonuevo.svg.png" group-title="ARGENTINA", ARG - A24 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA", ARG - A24 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/51073
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/A24-logonuevo.svg/1200px-A24-logonuevo.svg.png" group-title="ARGENTINA", ARG - A24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA", ARG - A24
 http://tv.nousiptv.com:8080/diegonandez/801342/3359
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA", ARG - C5N ᴴᴰ
+#EXTINF:-1 tvg-logo="https://www.c5n.com/css-custom/326/images/mtg_logo-326.png" group-title="ARGENTINA", ARG - C5N HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3441
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA", ARG - C5N
+#EXTINF:-1 tvg-logo="https://www.c5n.com/css-custom/326/images/mtg_logo-326.png" group-title="ARGENTINA", ARG - C5N
 http://tv.nousiptv.com:8080/diegonandez/801342/17901
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="ARGENTINA", ARG - TN
 http://tv.nousiptv.com:8080/diegonandez/801342/18766
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmj__vhdGUzr_t7kRxt0ph0fkYEq_CMBCI08WmRVzzKpN6dlA3-l3vKzEW3-IrGPeg04&usqp=CAU" group-title="ARGENTINA", ARG - CRONICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA", ARG - CRONICA
 http://tv.nousiptv.com:8080/diegonandez/801342/4188
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="ARGENTINA", ARG - CANAL 26
@@ -960,22 +957,22 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3442
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA", ARG - LN+
 http://tv.nousiptv.com:8080/diegonandez/801342/7976
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png" group-title="ARGENTINA", ARG - EL GARAGE TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" group-title="ARGENTINA", ARG - EL GARAGE TV
 http://tv.nousiptv.com:8080/diegonandez/801342/7975
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-lXcj7zSBSpbYamtukUztGivhLAvnIOd717vggarAh9qQ_eAL4tKACY34cIvRHHYF6o&usqp=CAU" group-title="ARGENTINA", ARG - CIUDAD MAGAZINE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="ARGENTINA", ARG - CIUDAD MAGAZINE
 http://tv.nousiptv.com:8080/diegonandez/801342/3787
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4W0CS0V0J0BlbG7CVsafTQrD8efADZoM9pQ1T7mvOBSP2NIDXYpEZPPB-QuAeLbYgpAs&usqp=CAU" group-title="ARGENTINA", ARG - VOLVER
+#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ARGENTINA", ARG - VOLVER
 http://tv.nousiptv.com:8080/diegonandez/801342/7978
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CINEARLogo.png/200px-CINEARLogo.png" group-title="ARGENTINA", ARG - CINE AR
 http://tv.nousiptv.com:8080/diegonandez/801342/7981
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_canal_encuentro_2016.png" group-title="ARGENTINA", ARG - ENCUENTRO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png" group-title="ARGENTINA", ARG - ENCUENTRO
 http://tv.nousiptv.com:8080/diegonandez/801342/7974
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA", COL - CARACOL FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="COLOMBIA", COL - CARACOL FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/3416
 
 #EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/all/themes/canalrcn/images/ico180x180.png" group-title="COLOMBIA", COL - RCN FHD
