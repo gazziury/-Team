@@ -1377,25 +1377,25 @@ http://tv.nousiptv.com:8080/diegonandez/801342/51411
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/200px-Televen_logo.PNG" group-title="CENTROAMERICA Y EL CARIBE", VEN - TELEVEN
 http://tv.nousiptv.com:8080/diegonandez/801342/51413
 
-#EXTINF:-1 tvg-logo="https://www.analitica.com/wp-content/uploads/2016/12/TLT.jpg" group-title="CENTROAMERICA Y EL CARIBE", VEN - TLT
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TLT-Azul.png/revision/latest/scale-to-width-down/250?cb=20220120183438&path-prefix=es" group-title="CENTROAMERICA Y EL CARIBE", VEN - TLT
 http://tv.nousiptv.com:8080/diegonandez/801342/51414
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/952681801570574336/i_3ac1Cb_400x400.jpg" group-title="CENTROAMERICA Y EL CARIBE", VEN - PROMAR SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="CENTROAMERICA Y EL CARIBE", VEN - PROMAR SD
 http://tv.nousiptv.com:8080/diegonandez/801342/18599
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="CENTROAMERICA Y EL CARIBE", VEN - TELESUR TV
 http://tv.nousiptv.com:8080/diegonandez/801342/2043
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FfbOGUxArbM/TkwBSm0JwWI/AAAAAAAAARE/IGPnSxxMM6Y/s1600/Globovision%2B%25281994-Actual%2529.jpg" group-title="CENTROAMERICA Y EL CARIBE", VEN - GLOBOVISION SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="CENTROAMERICA Y EL CARIBE", VEN - GLOBOVISION SD
 http://tv.nousiptv.com:8080/diegonandez/801342/18600
 
-#EXTINF:-1 tvg-logo="http://w2.noticierovenevision.net.s3.amazonaws.com/public/images/images_noticias/logo-venevision-0-2.jpg" group-title="CENTROAMERICA Y EL CARIBE", VEN - VENEVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1200px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="CENTROAMERICA Y EL CARIBE", VEN - VENEVISION
 http://tv.nousiptv.com:8080/diegonandez/801342/18595
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_03/large.58c77134632be_VePlusHD.png.ffa8a001d2c96254a2dbcce9ba51a9cf.png" group-title="CENTROAMERICA Y EL CARIBE", VEN - VENEVISION PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="CENTROAMERICA Y EL CARIBE", VEN - VENEVISION PLUS
 http://tv.nousiptv.com:8080/diegonandez/801342/18593
 
-#EXTINF:-1 tvg-logo="http://www.venelogia.com/uploads/VENEZOLANATV.jpg" group-title="CENTROAMERICA Y EL CARIBE", VEN - VENEZOLANA DE TELEVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="CENTROAMERICA Y EL CARIBE", VEN - VENEZOLANA DE TELEVISION
 http://tv.nousiptv.com:8080/diegonandez/801342/18596
 
 #EXTINF:-1 tvg-logo="http://www.culturaencadena.com/images/stories/penultimo2015/a3series.jpg" group-title="ESPAÑA", ES - A3 SERIES INT.
