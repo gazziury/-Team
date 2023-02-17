@@ -639,34 +639,34 @@ http://tv.nousiptv.com:8080/diegonandez/801342/4026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/350px-Nueve_%282018_logo%29.png" group-title="MEXICO", MEX - NU9VE
 http://tv.nousiptv.com:8080/diegonandez/801342/4031
 
-#EXTINF:-1 tvg-logo="http://urbanopuebla.com.mx/media/k2/items/cache/d433202dd708ff711a72952d0a2b333a_XL.jpg" group-title="MEXICO", MEX - IMAGEN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MEXICO", MEX - IMAGEN TV
 http://tv.nousiptv.com:8080/diegonandez/801342/4149
 
-#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="MEXICO", MEX - INGENIO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ingenio_tv_logo.png" group-title="MEXICO", MEX - INGENIO TV
 http://tv.nousiptv.com:8080/diegonandez/801342/33358
 
-#EXTINF:-1 tvg-logo="https://image.laguna.multimedios.com/sites/default/files/img_default_fb.png" group-title="MEXICO", MEX - MULTIMEDIOS MONTERREY
+#EXTINF:-1 tvg-logo="https://noticias.nmas.com.mx/wp-content/themes/tvsa_noticias_ampnoamp/images/nmedia_logo_sqw.png" group-title="MEXICO", MEX - N+ MONTERREY
 http://tv.nousiptv.com:8080/diegonandez/801342/4125
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/bcanales/img/canal1495.png" group-title="MEXICO", MEX - MULTIMEDIOS MONTERREY PLUS
+#EXTINF:-1 tvg-logo="https://noticias.nmas.com.mx/wp-content/themes/tvsa_noticias_ampnoamp/images/nmedia_logo_sqw.png" group-title="MEXICO", MEX - N+ MONTERREY
 http://tv.nousiptv.com:8080/diegonandez/801342/4034
 
-#EXTINF:-1 tvg-logo="https://image.laguna.multimedios.com/sites/default/files/img_default_fb.png" group-title="MEXICO", MEX - MULTIMEDIOS MONTERREY FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO", MEX - MULTIMEDIOS MONTERREY FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4033
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/8cd3f6/logooncetv/original.jpg" group-title="MEXICO", MEX - ONCE TV FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="MEXICO", MEX - ONCE TV FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4035
 
-#EXTINF:-1 tvg-logo="http://airecable.com/wp-content/uploads/2013/09/TELEFORMULA.png" group-title="MEXICO", MEX - TELEFORMULA
+#EXTINF:-1 tvg-logo="https://www.autolesion.com/wp-content/uploads/2011/08/teleformula.png" group-title="MEXICO", MEX - TELEFORMULA
 http://tv.nousiptv.com:8080/diegonandez/801342/4129
 
-#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/TeleFormula.jpg" group-title="MEXICO", MEX - TELEFORMULA FHD
+#EXTINF:-1 tvg-logo="https://www.autolesion.com/wp-content/uploads/2011/08/teleformula.png" group-title="MEXICO", MEX - TELEFORMULA FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4036
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="MEXICO", MEX - TL TELENOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TLnovelas2019.png/1200px-TLnovelas2019.png" group-title="MEXICO", MEX - TL TELENOVELAS
 http://tv.nousiptv.com:8080/diegonandez/801342/4130
 
-#EXTINF:-1 tvg-logo="http://empresasmonterrey.com/wp-content/uploads/2015/06/TELEVISA-MONTERREY.jpg" group-title="MEXICO", MEX - TELEVISA MTY
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pQD88QdLdNscydAUL5T3fpah-H-OnJjCzdj82kCGZ0c8yAW6uog2JfK0w3-kDlc4VQ" group-title="MEXICO", MEX - TELEVISA MTY
 http://tv.nousiptv.com:8080/diegonandez/801342/4066
 
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO", MEX - TV4
