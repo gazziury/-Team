@@ -975,20 +975,14 @@ http://tv.nousiptv.com:8080/diegonandez/801342/7974
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="COLOMBIA", COL - CARACOL FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/3416
 
-#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/all/themes/canalrcn/images/ico180x180.png" group-title="COLOMBIA", COL - RCN FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA", COL - RCN FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/3415
 
-#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/all/themes/canalrcn/images/ico180x180.png" group-title="COLOMBIA", COL- RCN SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/1200px-Canal_RCN_logo_%282%29.svg.png" group-title="COLOMBIA", COL- RCN SD
 http://tv.nousiptv.com:8080/diegonandez/801342/1087192
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1251178979190542336/PJUkYSoS_400x400.png" group-title="COLOMBIA", COL - ESPN COLOMBIA HD
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="COLOMBIA", COL - ESPN 2 COLOMBIA HD
 http://tv.nousiptv.com:8080/diegonandez/801342/1119288
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="COLOMBIA", COL - WIN SPORTS + FHD
-http://tv.nousiptv.com:8080/diegonandez/801342/16724
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA", COL - WIN SPORTS HD
-http://tv.nousiptv.com:8080/diegonandez/801342/3057
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA", COL - CANAL UNO FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/1066863
@@ -1002,19 +996,19 @@ http://tv.nousiptv.com:8080/diegonandez/801342/43625
 #EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2016/12/logo.png" group-title="COLOMBIA", COL - TELEPACIFICO
 http://tv.nousiptv.com:8080/diegonandez/801342/47693
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/858d/xi3c6kq1qkc4xhezg.jpg" group-title="COLOMBIA", COL - TELEANTIOQUIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA", COL - TELEANTIOQUIA
 http://tv.nousiptv.com:8080/diegonandez/801342/2118
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA", COL - CABLE NOTICIAS
 http://tv.nousiptv.com:8080/diegonandez/801342/2119
 
-#EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="COLOMBIA", COL - RCN NOVELAS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1200px-RCN_Novelas_logo_2019.png" group-title="COLOMBIA", COL - RCN NOVELAS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/2125
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" group-title="COLOMBIA", COL - TELECAFE
 http://tv.nousiptv.com:8080/diegonandez/801342/2128
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA", COL - CITYTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/1200px-Citytv_logo.svg.png" group-title="COLOMBIA", COL - CITY TV
 http://tv.nousiptv.com:8080/diegonandez/801342/1987
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA.jpg" group-title="LATINOS [USA]", LAT - ByN  Ñ.
