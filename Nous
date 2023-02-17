@@ -1215,13 +1215,13 @@ http://tv.nousiptv.com:8080/diegonandez/801342/7450
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="PARAGUAY", PAR - UNICANAL
 http://tv.nousiptv.com:8080/diegonandez/801342/7434
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ywKoAleusPU/V_XKf1rX6cI/AAAAAAAADCk/6cD28vv-izYrKEY2AhrxHNUejKNH2Sv5wCLcB/s300/americatv-peru.png" group-title="PERU", PERU- AMERICA TV FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="PERU", PERU- AMERICA TV FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/1087194
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ywKoAleusPU/V_XKf1rX6cI/AAAAAAAADCk/6cD28vv-izYrKEY2AhrxHNUejKNH2Sv5wCLcB/s300/americatv-peru.png" group-title="PERU", PERU - AMERICA TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="PERU", PERU - AMERICA TV HD
 http://tv.nousiptv.com:8080/diegonandez/801342/2174
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ywKoAleusPU/V_XKf1rX6cI/AAAAAAAADCk/6cD28vv-izYrKEY2AhrxHNUejKNH2Sv5wCLcB/s300/americatv-peru.png" group-title="PERU", PERU - AMERICA TV SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="PERU", PERU - AMERICA TV SD
 http://tv.nousiptv.com:8080/diegonandez/801342/1068850
 
 #EXTINF:-1 tvg-logo="https://www.brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="PERU", PERU- LATINA FHD
