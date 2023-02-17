@@ -735,10 +735,10 @@ http://tv.nousiptv.com:8080/diegonandez/801342/1068349
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.CDO-premium.png.0210ba6bcdc800549fbfde389c7d1eef.png" group-title="CHILE", CHILE - CDO PREMIUM HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3608
 
-#EXTINF:-1 tvg-logo="https://monkeypro.cl/wp-content/uploads/2017/06/logo-cdo.png" group-title="CHILE", CHILE - CDO BASICO
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.CDO-premium.png.0210ba6bcdc800549fbfde389c7d1eef.png" group-title="CHILE", CHILE - CDO PREMIUM
 http://tv.nousiptv.com:8080/diegonandez/801342/3607
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CHILE", CHILE - ESTADIO TNT
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png" group-title="CHILE", CHILE - TNT SPORTS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/6979
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE", CHILE - TV+ HD
@@ -765,7 +765,7 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3591
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="CHILE", CHILE - MEGA HD
 http://tv.nousiptv.com:8080/diegonandez/801342/2148
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1024px-CNN_Chile_logo_2017.svg.png" group-title="CHILE", CHILE - CNN CHILE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/CNN_Chile_boxless.svg/revision/latest?cb=20210716152615" group-title="CHILE", CHILE - CNN CHILE
 http://tv.nousiptv.com:8080/diegonandez/801342/3749
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logotipo_de_Mega_%282015-2020%29.png" group-title="CHILE", CHILE - MEGA
