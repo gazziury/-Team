@@ -1224,25 +1224,22 @@ http://tv.nousiptv.com:8080/diegonandez/801342/2174
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="PERU", PERU - AMERICA TV SD
 http://tv.nousiptv.com:8080/diegonandez/801342/1068850
 
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="PERU", PERU- LATINA FHD
+#EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/typo3temp/_processed_/3/4/csm_2037-205_import_d405f6af86.png" group-title="PERU", PERU- LATINA FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/1087195
 
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg" group-title="PERU", PERU - LATINA HD
+#EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/typo3temp/_processed_/3/4/csm_2037-205_import_d405f6af86.png" group-title="PERU", PERU - LATINA HD
 http://tv.nousiptv.com:8080/diegonandez/801342/56273
 
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="PERU", PE - LIGA 1 MAX
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="PERU", PERU - LIGA 1 MAX
 http://tv.nousiptv.com:8080/diegonandez/801342/1151341
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvzrWCzJvaSy35QNayOtu6QV5-j_S7gOA2g&usqp=CAU" group-title="PERU", PR - LIGA1
-http://tv.nousiptv.com:8080/diegonandez/801342/1151342
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="PERU", PERU - GOL PERU FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="PERU", PERU - GOL PERU FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/1123136
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="PERU", PERU - GOL PERU SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="PERU", PERU - GOL PERU SD
 http://tv.nousiptv.com:8080/diegonandez/801342/8329
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="PERU", PERU - GOL TV PERU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="PERU", PERU - GOL TV PERU
 http://tv.nousiptv.com:8080/diegonandez/801342/3605
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="PERU", PERU - MOVISTAR DEPORTES FHD
@@ -1260,28 +1257,28 @@ http://tv.nousiptv.com:8080/diegonandez/801342/1105664
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="PERU", PERU - ATV
 http://tv.nousiptv.com:8080/diegonandez/801342/8333
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png/400px-Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU", PERU - MOVISTAR PLUS
+#EXTINF:-1 tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="PERU", PERU - MOVISTAR DEPORTES
 http://tv.nousiptv.com:8080/diegonandez/801342/3398
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/TV_Puls_logo.jpg/1200px-TV_Puls_logo.jpg" group-title="PERU", PERU - TV PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png/1200px-ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU", PERU - ATV PLUS
 http://tv.nousiptv.com:8080/diegonandez/801342/54853
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png/1200px-ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU", PERU - ATV PLUS
 http://tv.nousiptv.com:8080/diegonandez/801342/7449
 
-#EXTINF:-1 tvg-logo="http://www.popup.tv/imagenes/clientes/400x183/canal_n.png" group-title="PERU", PERU - CANAL N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="PERU", PERU - CANAL N
 http://tv.nousiptv.com:8080/diegonandez/801342/7825
 
-#EXTINF:-1 tvg-logo="http://faciltv.net/wp-content/uploads/2017/12/09.jpg" group-title="PERU", PERU - PERU MAGICO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Peru_Magico_2016_%281%29.png/revision/latest?cb=20210405190247&path-prefix=es" group-title="PERU", PERU - PERU MAGICO
 http://tv.nousiptv.com:8080/diegonandez/801342/8323
 
-#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/logo_latina_brandlab.jpg" group-title="PERU", PERU - LATINA SD
+#EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/typo3temp/_processed_/3/4/csm_2037-205_import_d405f6af86.png" group-title="PERU", PERU - LATINA SD
 http://tv.nousiptv.com:8080/diegonandez/801342/2165
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png" group-title="PERU", PERU - TV PERU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU", PERU - TV PERU
 http://tv.nousiptv.com:8080/diegonandez/801342/2169
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-u1zoIlzuPzo/WY1_7zUOYRI/AAAAAAAAVXw/ip9y2e7gWaUmCToykC_verCASEPVU5ElQCLcBGAs/s1600/panamericanatelevision.png" group-title="PERU", PERU - PANAMERICANA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU", PERU - PANAMERICANA
 http://tv.nousiptv.com:8080/diegonandez/801342/2171
 
 #EXTINF:-1 tvg-logo="https://media.metrolatam.com/2019/05/09/losandinos-da58f048c4efe362c227bb8d157bb068-1200x600.jpg" group-title="PUERTO RICO", PR-WAPA
