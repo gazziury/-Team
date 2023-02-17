@@ -597,46 +597,46 @@ http://tv.nousiptv.com:8080/diegonandez/801342/51359
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/ppv-pay-per-view-type-260nw-2224850529.jpg" group-title="URUGUAY", URU - PPV URUGUAY
 http://tv.nousiptv.com:8080/diegonandez/801342/43600
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_01/medium.5885442634ba9_LasEstrellas2017.png.8afa54dc20f835382e86984dfa3c1434.png" group-title="MEXICO", MEX - EL CANAL DE LAS ESTRELLAS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO", MEX - EL CANAL DE LAS ESTRELLAS HD
 http://tv.nousiptv.com:8080/diegonandez/801342/4030
 
-#EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/azteca-7-hd.jpg" group-title="MEXICO", MEX - AZTECA 7 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png" group-title="MEXICO", MEX - AZTECA 7 FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4027
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/30ff/y533x36z9mjee5ezg.jpg" group-title="MEXICO", MEX - AZTECA UNO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="MEXICO", MEX - AZTECA UNO HD
 http://tv.nousiptv.com:8080/diegonandez/801342/4087
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="MEXICO", MEX - CANAL 5 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO", MEX - CANAL 5 FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4028
 
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/08/23/884902/foro-tv-280x370.jpg" group-title="MEXICO", MEX - FORO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="MEXICO", MEX - FORO TV
 http://tv.nousiptv.com:8080/diegonandez/801342/4029
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OVdU_S0pcvI/WFgWJLHiVxI/AAAAAAAAAbI/NpVTN_iHpQUE1zv3zVCoLBh8v4vW4teTwCLcB/s1600/unicable-en-vivo.jpg" group-title="MEXICO", MEX - UNICABLE FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/200px-Unicable_logo.svg.png" group-title="MEXICO", MEX - UNICABLE FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4052
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large.58c547d552942_XHTVM-ADN40.png.bc83280d75016331f3449af51be5ecba.png" group-title="MEXICO", MEX - ADN 40
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="MEXICO", MEX - ADN 40
 http://tv.nousiptv.com:8080/diegonandez/801342/4025
 
-#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/19be/9cqzv9cqu8avt7vzg.jpg" group-title="MEXICO", MEX - AFIZZIONADOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="MEXICO", MEX - AFIZZIONADOS
 http://tv.nousiptv.com:8080/diegonandez/801342/8248
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TUDN.png/revision/latest?cb=20190827032433&path-prefix=es" group-title="MEXICO", MX - TUDN MX FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MEXICO", MX - TUDN MX FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/1105665
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_tdn-hd_m.png" group-title="MEXICO", MEX - TUDN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MEXICO", MEX - TUDN HD
 http://tv.nousiptv.com:8080/diegonandez/801342/3397
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="MEXICO", MEX - AZ MUNDO FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png" group-title="MEXICO", MEX - AZ MUNDO FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4055
 
-#EXTINF:-1 tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-cinema-300x225.jpg" group-title="MEXICO", MEX - AZ CINEMA FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/TV_Azteca_Cinema_logo_2021.png/revision/latest/scale-to-width-down/300?cb=20220316003349&path-prefix=es" group-title="MEXICO", MEX - AZ CINEMA FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/4086
 
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="MEXICO", MEX - AZ CORAZON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="MEXICO", MEX - AZ CORAZON
 http://tv.nousiptv.com:8080/diegonandez/801342/4026
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dc/Gala_TV_logo_2013.png" group-title="MEXICO", MEX - GALA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/350px-Nueve_%282018_logo%29.png" group-title="MEXICO", MEX - NU9VE
 http://tv.nousiptv.com:8080/diegonandez/801342/4031
 
 #EXTINF:-1 tvg-logo="http://urbanopuebla.com.mx/media/k2/items/cache/d433202dd708ff711a72952d0a2b333a_XL.jpg" group-title="MEXICO", MEX - IMAGEN TV
