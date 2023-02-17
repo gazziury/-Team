@@ -1113,44 +1113,32 @@ http://tv.nousiptv.com:8080/diegonandez/801342/3757
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="LATINOS [USA]", LAT - PASIONES
 http://tv.nousiptv.com:8080/diegonandez/801342/49168
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="LATINOS [USA]", LAT-USA-PASIONES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="LATINOS [USA]", LAT - PASIONES
 http://tv.nousiptv.com:8080/diegonandez/801342/1085156
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/865617444131426305/2eSWfmt4.jpg" group-title="PANAMÁ", PAN - TELEMETRO CANAL 13 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="PANAMÁ", PAN - TELEMETRO CANAL 13 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/7685
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/865617444131426305/2eSWfmt4.jpg" group-title="PANAMÁ", PAN - TELEMETRO CANAL 13 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" group-title="PANAMÁ", PAN - TELEMETRO CANAL 13 SD
 http://tv.nousiptv.com:8080/diegonandez/801342/53495
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png" group-title="PANAMÁ", PAN - TVN FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TVN_Panam%C3%A1_%282006-2013%29.png/revision/latest?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", PAN - TVN FHD
 http://tv.nousiptv.com:8080/diegonandez/801342/53494
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png" group-title="PANAMÁ", PAN - TVN HD
-http://tv.nousiptv.com:8080/diegonandez/801342/53493
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/TVN-Panama.png" group-title="PANAMÁ", PAN - TVN SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TVN_Panam%C3%A1_%282006-2013%29.png/revision/latest?cb=20200108123758&path-prefix=es" group-title="PANAMÁ", PAN - TVN SD
 http://tv.nousiptv.com:8080/diegonandez/801342/7446
 
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_01/RPC_(2012).png.dae9aab80e7d1b9bd13ba0c7b6007f74.png" group-title="PANAMÁ", PAN - RPC SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/RPC_Televisi%C3%B3n_2021.svg/revision/latest/scale-to-width-down/220?cb=20211128092857" group-title="PANAMÁ", PAN - RPC SD
 http://tv.nousiptv.com:8080/diegonandez/801342/6024
 
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_01/RPC_(2012).png.dae9aab80e7d1b9bd13ba0c7b6007f74.png" group-title="PANAMÁ", PAN - RPC HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/RPC_Televisi%C3%B3n_2021.svg/revision/latest/scale-to-width-down/220?cb=20211128092857" group-title="PANAMÁ", PAN - RPC HD
 http://tv.nousiptv.com:8080/diegonandez/801342/1117145
 
-#EXTINF:-1 tvg-logo="https://www.ecotvpanama.com/site/templates/images/logo_eco.png" group-title="PANAMÁ", PAN - ECO TV
-http://tv.nousiptv.com:8080/diegonandez/801342/16719
-
-#EXTINF:-1 tvg-logo="http://userscontent2.emaze.com/images/44097fec-bf00-470d-8a3d-305eb132803d/148563d2-e08a-47ed-b3ab-1fcb04debdd5.png" group-title="PANAMÁ", PAN - NEXT TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="PANAMÁ", PAN - NEXT TV
 http://tv.nousiptv.com:8080/diegonandez/801342/5476
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mas23tv.jpg/600px-Mas23tv.jpg" group-title="PANAMÁ", PAN - MAS TV 23 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="PANAMÁ", PAN - +23 SD
 http://tv.nousiptv.com:8080/diegonandez/801342/16718
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/cos.png" group-title="PANAMÁ", PAN- CABLE ONDA SPORTS
-http://tv.nousiptv.com:8080/diegonandez/801342/1078662
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png" group-title="PANAMÁ", PAN- CABLE ONDA SPORTS  FC
-http://tv.nousiptv.com:8080/diegonandez/801342/1078663
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2112622974/Logo_Teleantillas-01_400x400.jpg" group-title="REPÚBLICA DOMINICANA", RD - TELEANTILLAS
 http://tv.nousiptv.com:8080/diegonandez/801342/8241
