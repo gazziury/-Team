@@ -261,10 +261,10 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/65737
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="LAT - Entretenimiento", LAT: Las Estrellas
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/16827
 
-#EXTINF:-1 tvg-logo="https://assets.historyplay.tv/lifetimelatam/public/images/2021/11/04/lifetime.png" group-title="LAT - Entretenimiento", LAT: Lifetime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="LAT - Entretenimiento", LAT: Lifetime
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/40850
 
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="LAT - Entretenimiento", LAT: Love Nature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LAT - Entretenimiento", LAT: Love Nature
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/11132
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="LAT - Entretenimiento", LAT: NBC Universo
@@ -276,7 +276,7 @@ http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/31133
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-smithsonian-hd_m.png" group-title="LAT - Entretenimiento", LAT: Smithsonian Channel
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/163533
 
-#EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/Tastemade-LOGO_BLACK-1.jpg" group-title="LAT - Entretenimiento", LAT: Tastemade en Español
+#EXTINF:-1 tvg-logo="https://beacon.playback.api.brightcove.com/tastemade1/uploads/settings/2_1596804342_images_logo.png" group-title="LAT - Entretenimiento", LAT: Tastemade en Español
 http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/228606
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="LAT - Entretenimiento", LAT: TBS
