@@ -1158,7 +1158,7 @@ http://tv.nousiptv.com:8080/diegonandez/801342/8240
 #EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1" group-title="REPÚBLICA DOMINICANA", RD - TELEVISION DEL ESTE
 http://tv.nousiptv.com:8080/diegonandez/801342/41291
 
-#EXTINF:-1 tvg-logo="https://https://masmediatv.es/images/2021/colombia/canales-ewtn.png" group-title="• ENTRETENIMIENTO", ENT - EWTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/05/EWTN_logo.svg/2560px-EWTN_logo.svg.png" group-title="• ENTRETENIMIENTO", ENT - EWTN
 http://tv.nousiptv.com:8080/diegonandez/801342/34609
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/1200px-Teletica_Logo.png" group-title="COSTA RICA", CR - TELETICA 7
