@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="2 MB |  Ecuavisa LQ" tvg-logo="http://l3d.us:25461/images/3b351a3a6a4ae338fe5aba9eb4929074.png" group-title="TV | 2 Megas",2 MB |  Ecuavisa LQ
+#EXTINF:-1 tvg-id="" tvg-name="2 MB |  Ecuavisa LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="TV | 2 Megas",2 MB |  Ecuavisa LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2095407
 #EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="2 MB | COMEDY CENTRAL LQ" tvg-logo="http://l3d.us:25461/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="TV | 2 Megas",2 MB | COMEDY CENTRAL LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092594
