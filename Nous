@@ -546,10 +546,10 @@ http://tv.nousiptv.com:8080/diegonandez/801342/19352
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", URU - TV CIUDAD SD
 http://tv.nousiptv.com:8080/diegonandez/801342/16136
 
-#EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-Canal-10-en-VIVO-online-gratis-780x470.png" group-title="URUGUAY", URU - CANAL 10 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Canal_10_OFICIAL_LOGO.png/revision/latest/scale-to-width-down/200?cb=20220128212314&path-prefix=es" group-title="URUGUAY", URU - CANAL 10 HD
 http://tv.nousiptv.com:8080/diegonandez/801342/18567
 
-#EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-Canal-10-en-VIVO-online-gratis-780x470.png" group-title="URUGUAY", URU - CANAL 10 SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Canal_10_OFICIAL_LOGO.png/revision/latest/scale-to-width-down/200?cb=20220128212314&path-prefix=es" group-title="URUGUAY", URU - CANAL 10 SD
 http://tv.nousiptv.com:8080/diegonandez/801342/3344
 
 #EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png" group-title="URUGUAY", URU - CANAL 12 FHD
