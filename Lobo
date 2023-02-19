@@ -87,7 +87,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2092588
 http://lobo-tv.live:25461/UzielLCH/123456789/2092561
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="2MB | Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="TV | 2 Megas",2MB | Golden Edge
 http://lobo-tv.live:25461/UzielLCH/123456789/2092586
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="TV | 2 Megas",2MB | HBO Plus LQ
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="TV | 2 Megas",2MB | HBO Plus LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092585
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/small.1079557692_HBOSUB.png.994df90604decc2917e19f476700820f.png" group-title="TV | 2 Megas",2MB | HBO 2
 http://lobo-tv.live:25461/UzielLCH/123456789/2092625
@@ -95,14 +95,12 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2092625
 http://lobo-tv.live:25461/UzielLCH/123456789/2092584
 #EXTINF:-1 tvg-id="historychannel.mx" tvg-name="2MB | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="TV | 2 Megas",2MB | History
 http://lobo-tv.live:25461/UzielLCH/123456789/2092566
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="2MB | IMAGEN TV LQ" tvg-logo="http://l3d.us:25461/images/8c373fd1a64c1a3083fff348caf4b4ab.png" group-title="TV | 2 Megas",2MB | IMAGEN TV LQ
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="2MB | IMAGEN TV LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/MilenioTV2020.png/revision/latest/scale-to-width-down/150?cb=20210424194616&path-prefix=es" group-title="TV | 2 Megas",2MB | Milenio LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092583
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="2MB | Las Esrellas" tvg-logo="http://l3d.us:25461/images/701de93ed49e82d893619e2740c0856c.png" group-title="TV | 2 Megas",2MB | Las Esrellas
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="2MB | Las Esrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV | 2 Megas",2MB | Las Esrellas
 http://lobo-tv.live:25461/UzielLCH/123456789/2092556
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="2MB | MILENIO TV LQ" tvg-logo="http://l3d.us:25461/images/be40d3f040bcfbf2ef6a8f7e88652d5c.png" group-title="TV | 2 Megas",2MB | MILENIO TV LQ
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="2MB | MILENIO TV LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/MilenioTV2020.png/revision/latest/scale-to-width-down/150?cb=20210424194616&path-prefix=es" group-title="TV | 2 Megas",2MB | MILENIO TV LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092582
-#EXTINF:-1 tvg-id="mtv.mx" tvg-name="2MB | MTV LQ" tvg-logo="http://l3d.us:25461/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="TV | 2 Megas",2MB | MTV LQ
-http://lobo-tv.live:25461/UzielLCH/123456789/2092581
 #EXTINF:-1 tvg-id="natgeo.mx" tvg-name="2MB | Nat Geo" tvg-logo="http://l3d.us:25461/images/1e01e63e3d890408725310cd6c01960a.png" group-title="TV | 2 Megas",2MB | Nat Geo
 http://lobo-tv.live:25461/UzielLCH/123456789/2092567
 #EXTINF:-1 tvg-id="nickjr.mx" tvg-name="2MB | NICK JR. LQ" tvg-logo="http://l3d.us:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="TV | 2 Megas",2MB | NICK JR. LQ
