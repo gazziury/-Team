@@ -101,27 +101,25 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2092583
 http://lobo-tv.live:25461/UzielLCH/123456789/2092556
 #EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="2MB | MILENIO TV LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/MilenioTV2020.png/revision/latest/scale-to-width-down/150?cb=20210424194616&path-prefix=es" group-title="TV | 2 Megas",2MB | MILENIO TV LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092582
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="2MB | Nat Geo" tvg-logo="http://l3d.us:25461/images/1e01e63e3d890408725310cd6c01960a.png" group-title="TV | 2 Megas",2MB | Nat Geo
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="2MB | Nat Geo" tvg-logo="https://www.seekpng.com/png/detail/284-2842549_national-geographic-channel-logo-white-nat-geo-logo.png" group-title="TV | 2 Megas",2MB | Nat Geo
 http://lobo-tv.live:25461/UzielLCH/123456789/2092567
 #EXTINF:-1 tvg-id="nickjr.mx" tvg-name="2MB | NICK JR. LQ" tvg-logo="http://l3d.us:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="TV | 2 Megas",2MB | NICK JR. LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092580
-#EXTINF:-1 tvg-id="Sky.Mx" tvg-name="2MB | SKY SPORTS LQ" tvg-logo="http://l3d.us:25461/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="TV | 2 Megas",2MB | SKY SPORTS LQ
+#EXTINF:-1 tvg-id="Sky.Mx" tvg-name="2MB | SKY SPORTS LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="TV | 2 Megas",2MB | SKY SPORTS F1 LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092605
-#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="2MB | Sony" tvg-logo="http://l3d.us:25461/images/33561003f44d374c719506bef4faeba4.png" group-title="TV | 2 Megas",2MB | Sony
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="2MB | Sony" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.72622580071579.png.48667f6cb9c09e18c10161d1651d7c5b.png" group-title="TV | 2 Megas",2MB | Sony
 http://lobo-tv.live:25461/UzielLCH/123456789/2092579
-#EXTINF:-1 tvg-id="space.mx" tvg-name="2MB | Space" tvg-logo="http://l3d.us:25461/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="TV | 2 Megas",2MB | Space
+#EXTINF:-1 tvg-id="space.mx" tvg-name="2MB | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" group-title="TV | 2 Megas",2MB | Space
 http://lobo-tv.live:25461/UzielLCH/123456789/2092578
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="http://l3d.us:25461/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="TV | 2 Megas",2MB | STAR CHANNEL LQ
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="TV | 2 Megas",2MB | STAR CHANNEL LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092589
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="2MB | TELEMUNDO INTERNACIONAL LQ" tvg-logo="http://l3d.us:25461/images/e2ae2e14e89086178e6bf15e076cbc68.png" group-title="TV | 2 Megas",2MB | TELEMUNDO INTERNACIONAL LQ
-http://lobo-tv.live:25461/UzielLCH/123456789/2094330
-#EXTINF:-1 tvg-id="" tvg-name="2MB | TLC" tvg-logo="http://l3d.us:25461/images/8e49763ced45dcda7c61d16c0e8d31de.png" group-title="TV | 2 Megas",2MB | TLC
+#EXTINF:-1 tvg-id="" tvg-name="2MB | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="TV | 2 Megas",2MB | TLC
 http://lobo-tv.live:25461/UzielLCH/123456789/2095400
-#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="2MB | TL Novelas" tvg-logo="http://l3d.us:25461/images/173f6557c6a62af1f4e3715369c89120.png" group-title="TV | 2 Megas",2MB | TL Novelas
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="2MB | TL Novelas" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/logo-interior-tlnovelas.png" group-title="TV | 2 Megas",2MB | TLNovelas
 http://lobo-tv.live:25461/UzielLCH/123456789/2092576
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://l3d.us:25461/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="TV | 2 Megas",2MB | TNT LQ
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="TV | 2 Megas",2MB | TNT LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092603
-#EXTINF:-1 tvg-id="" tvg-name="2MB | TNT Series" tvg-logo="http://l3d.us:25461/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="TV | 2 Megas",2MB | TNT Series
+#EXTINF:-1 tvg-id="" tvg-name="2MB | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png" group-title="TV | 2 Megas",2MB | TNT Series
 http://lobo-tv.live:25461/UzielLCH/123456789/2095396
 #EXTINF:-1 tvg-id="tooncast.mx" tvg-name="2MB | TOONCAST LQ" tvg-logo="http://l3d.us:25461/images/a3c65c2974270fd093ee8a9bf8ae7d0b.png" group-title="TV | 2 Megas",2MB | TOONCAST LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2095395
@@ -129,8 +127,6 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2095395
 http://lobo-tv.live:25461/UzielLCH/123456789/2092577
 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN USA" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN USA
 http://lobo-tv.live:25461/UzielLCH/123456789/2092604
-#EXTINF:-1 tvg-id="" tvg-name="2MB | UFC Fight Pass" tvg-logo="http://l3d.us:25461/images/c1fa1fd1a5ebc393e3a42ac31b7f7a04.png" group-title="TV | 2 Megas",2MB | UFC Fight Pass
-http://lobo-tv.live:25461/UzielLCH/123456789/2095413
 #EXTINF:-1 tvg-id="" tvg-name="2MB | Venevision LQ" tvg-logo="http://l3d.us:25461/images/d78fa49d294ced1809d30fb3eb05fc7f.png" group-title="TV | 2 Megas",2MB | Venevision LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2095411
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Directv Sports" tvg-logo="http://l3d.us:25461/images/5e56db18ff5269bd636438936869d6cf.png" group-title="TV | 2 Megas",2MB| Directv Sports
@@ -139,7 +135,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2123473
 http://lobo-tv.live:25461/UzielLCH/123456789/2123474
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Disney Channel" tvg-logo="http://l3d.us:25461/images/3d1769f694810e0791d31ce69cfc1568.png" group-title="TV | 2 Megas",2MB| Disney Channel
 http://lobo-tv.live:25461/UzielLCH/123456789/2123481
-#EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB| Espn Deportes
+#EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/bba8fb76-57ff-3c63-998b-90fef8f4f8b6.png" group-title="TV | 2 Megas",2MB| Espn Deportes
 http://lobo-tv.live:25461/UzielLCH/123456789/2123475
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Extra" tvg-logo="http://l3d.us:25461/images/9cc63a8679ee23143479f122eb416e96.png" group-title="TV | 2 Megas",2MB| Espn Extra
 http://lobo-tv.live:25461/UzielLCH/123456789/2123476
