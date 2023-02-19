@@ -268,21 +268,21 @@ http://lobo-tv.live:25461/UzielLCH/123456789/10408
 http://lobo-tv.live:25461/UzielLCH/123456789/10407
 #EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C | Animal Planet FHD" tvg-logo="http://l3d.us:25461/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="TV | Cultura",C | Animal Planet FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/147960
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="TV | Cultura",C | Discovery Channel
 http://lobo-tv.live:25461/UzielLCH/123456789/10409
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel HD
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel HD" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="TV | Cultura",C | Discovery Channel HD
 http://lobo-tv.live:25461/UzielLCH/123456789/10410
-#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel FHD
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel FHD" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="TV | Cultura",C | Discovery Channel FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/148703
-#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="C | Discovery Channel CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel CO
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="C | Discovery Channel CO" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="TV | Cultura",C | Discovery Channel CO
 http://lobo-tv.live:25461/UzielLCH/123456789/183442
-#EXTINF:-1 tvg-id="DiscoveryChannelPanregional.us" tvg-name="C | Discovery Channel CO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel CO FHD
+#EXTINF:-1 tvg-id="DiscoveryChannelPanregional.us" tvg-name="C | Discovery Channel CO FHD" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="TV | Cultura",C | Discovery Channel CO FHD
 http://lobo-tv.live:25461/UzielLCH/123456789/183443
-#EXTINF:-1 tvg-id="discovery.cl" tvg-name="C | Discovery Channel CL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery Channel CL HD
+#EXTINF:-1 tvg-id="discovery.cl" tvg-name="C | Discovery Channel CL HD" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="TV | Cultura",C | Discovery Channel CL HD
 http://lobo-tv.live:25461/UzielLCH/123456789/183445
-#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery en Español
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="TV | Cultura",C | Discovery en Español
 http://lobo-tv.live:25461/UzielLCH/123456789/26760
-#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV | Cultura",C | Discovery en Español HD
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español HD" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360" group-title="TV | Cultura",C | Discovery en Español HD
 http://lobo-tv.live:25461/UzielLCH/123456789/197236
 #EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/640px-Discovery_Familia_logo_%283%29.svg.png" group-title="TV | Cultura",C | Discovery Familia
 http://lobo-tv.live:25461/UzielLCH/123456789/183441
