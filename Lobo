@@ -101,7 +101,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2092583
 http://lobo-tv.live:25461/UzielLCH/123456789/2092556
 #EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="2MB | MILENIO TV LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/MilenioTV2020.png/revision/latest/scale-to-width-down/150?cb=20210424194616&path-prefix=es" group-title="TV | 2 Megas",2MB | MILENIO TV LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092582
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="2MB | Nat Geo" tvg-logo="https://www.seekpng.com/png/detail/284-2842549_national-geographic-channel-logo-white-nat-geo-logo.png" group-title="TV | 2 Megas",2MB | Nat Geo
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="2MB | Nat Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="TV | 2 Megas",2MB | Nat Geo
 http://lobo-tv.live:25461/UzielLCH/123456789/2092567
 #EXTINF:-1 tvg-id="nickjr.mx" tvg-name="2MB | NICK JR. LQ" tvg-logo="http://l3d.us:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="TV | 2 Megas",2MB | NICK JR. LQ
 http://lobo-tv.live:25461/UzielLCH/123456789/2092580
@@ -135,9 +135,9 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2123473
 http://lobo-tv.live:25461/UzielLCH/123456789/2123474
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Disney Channel" tvg-logo="http://l3d.us:25461/images/3d1769f694810e0791d31ce69cfc1568.png" group-title="TV | 2 Megas",2MB| Disney Channel
 http://lobo-tv.live:25461/UzielLCH/123456789/2123481
-#EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/bba8fb76-57ff-3c63-998b-90fef8f4f8b6.png" group-title="TV | 2 Megas",2MB| Espn Deportes
+#EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/ESPN-Deportes-White.png" group-title="TV | 2 Megas",2MB| Espn Deportes
 http://lobo-tv.live:25461/UzielLCH/123456789/2123475
-#EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Extra" tvg-logo="http://l3d.us:25461/images/9cc63a8679ee23143479f122eb416e96.png" group-title="TV | 2 Megas",2MB| Espn Extra
+#EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Extra" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbf7addc05b52_espn-extra.png" group-title="TV | 2 Megas",2MB| Espn Extra
 http://lobo-tv.live:25461/UzielLCH/123456789/2123476
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Food Network" tvg-logo="http://l3d.us:25461/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="TV | 2 Megas",2MB| Food Network
 http://lobo-tv.live:25461/UzielLCH/123456789/2123484
