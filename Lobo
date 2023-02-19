@@ -148,9 +148,9 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2092574
 #EXTINF:-1 tvg-id="" tvg-name="2MB | Win Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/350?cb=20230109125452&path-prefix=es" group-title="TV | 2 Megas",2MB | Win Sports Plus
 http://lobo-tv.live:25461/UzielLCH/123456789/2095416
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG| IP NOTICIAS" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" group-title="TV | Argentina",ARG| IP NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-name="ARG| IP NOTICIAS" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" group-title="TV | Argentina",ARG| IP Noticias
 http://lobo-tv.live:25461/UzielLCH/123456789/216770
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Telesur" tvg-logo="https://mb.cision.com/Public/12265/9749174/af33c8f76638e797_400x400ar.jpg" group-title="TV | Argentina",ARG: Telesur
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="TV | Argentina",ARG: Telesur
 http://lobo-tv.live:25461/UzielLCH/123456789/210863
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="AR| A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="TV | Argentina",AR| A24
 http://lobo-tv.live:25461/UzielLCH/123456789/210833
@@ -158,9 +158,9 @@ http://lobo-tv.live:25461/UzielLCH/123456789/210833
 http://lobo-tv.live:25461/UzielLCH/123456789/210836
 #EXTINF:-1 tvg-id="americatv.ar" tvg-name="AR| America TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV | Argentina",AR| America TV HD
 http://lobo-tv.live:25461/UzielLCH/123456789/210835
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="AR| C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C5N_Logo_2015.PNG/640px-C5N_Logo_2015.PNG" group-title="TV | Argentina",AR| C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="AR| C5N" tvg-logo="https://www.c5n.com/css-custom/326/images/mtg_logo-326.png" group-title="TV | Argentina",AR| C5N
 http://lobo-tv.live:25461/UzielLCH/123456789/210834
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="AR| Canal 21" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ar-canal-orbe-21-6498-300x225.jpg" group-title="TV | Argentina",AR| Canal 21 Orbe
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="AR| Canal 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="TV | Argentina",AR| Canal 21 Orbe
 http://lobo-tv.live:25461/UzielLCH/123456789/210839
 #EXTINF:-1 tvg-id="channel26.ar" tvg-name="AR| Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV | Argentina",AR| Canal 26
 http://lobo-tv.live:25461/UzielLCH/123456789/210840
@@ -174,7 +174,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/210843
 http://lobo-tv.live:25461/UzielLCH/123456789/210844
 #EXTINF:-1 tvg-id="magazine.ar" tvg-name="AR| Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="TV | Argentina",AR| Ciudad Magazine
 http://lobo-tv.live:25461/UzielLCH/123456789/210845
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="AR| Cronica" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/7695310.jpg" group-title="TV | Argentina",AR| Cronica
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="AR| Cronica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="TV | Argentina",AR| Cronica
 http://lobo-tv.live:25461/UzielLCH/123456789/210848
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="AR| DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="TV | Argentina",AR| Deportv
 http://lobo-tv.live:25461/UzielLCH/123456789/210849
@@ -192,7 +192,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/210854
 http://lobo-tv.live:25461/UzielLCH/123456789/210855
 #EXTINF:-1 tvg-id="" tvg-name="AR| LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV | Argentina",AR| LN+
 http://lobo-tv.live:25461/UzielLCH/123456789/210856
-#EXTINF:-1 tvg-id="canaldelamusica.ar" tvg-name="AR| Music Top" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/music-top-en-vivo-2313.png" group-title="TV | Argentina",AR| Music Top
+#EXTINF:-1 tvg-id="canaldelamusica.ar" tvg-name="AR| Music Top" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.MusicTopLogo.png.58a8c29eaa20aa0e5c15952328901ff9.png" group-title="TV | Argentina",AR| Music Top
 http://lobo-tv.live:25461/UzielLCH/123456789/210858
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="AR| Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_del_Senado_de_Argentina.svg/893px-Logo_del_Senado_de_Argentina.svg.png" group-title="TV | Argentina",AR| Senado
 http://lobo-tv.live:25461/UzielLCH/123456789/210859
@@ -206,7 +206,7 @@ http://lobo-tv.live:25461/UzielLCH/123456789/2140800
 http://lobo-tv.live:25461/UzielLCH/123456789/210865
 #EXTINF:-1 tvg-id="" tvg-name="AR| TV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png" group-title="TV | Argentina",AR| TV5 HD
 http://lobo-tv.live:25461/UzielLCH/123456789/2145543
-#EXTINF:-1 tvg-id="" tvg-name="AR| Volver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="TV | Argentina",AR| Volver
+#EXTINF:-1 tvg-id="" tvg-name="AR| Volver" tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="TV | Argentina",AR| Volver
 http://lobo-tv.live:25461/UzielLCH/123456789/210868
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO | Unitel Santa Cruz HD" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO | Unitel Santa Cruz HD
 http://lobo-tv.live:25461/UzielLCH/123456789/215948
