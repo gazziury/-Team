@@ -223,21 +223,19 @@ http://lobo-tv.live:25461/UzielLCH/123456789/188411
 http://lobo-tv.live:25461/UzielLCH/123456789/188409
 #EXTINF:-1 tvg-id="RTP.bo" tvg-name="BO || RTP* &gt;)" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-blanco-300x155.png" group-title="TV | Bolivia",BO || RTP
 http://lobo-tv.live:25461/UzielLCH/123456789/188410
-#EXTINF:-1 tvg-id="TVU.bo" tvg-name="BO || TV U &gt;)" tvg-logo="http://l3d.us:25461/images/5476e2fc6cfeeeda25e83909fc06b207.png" group-title="TV | Bolivia",BO || TV U
+#EXTINF:-1 tvg-id="TVU.bo" tvg-name="BO || TV U &gt;)" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/TVU-Universidad-Mayor-de-San-Andr%C3%A9s-en-directo-Online.png?resize=696%2C392&ssl=1" group-title="TV | Bolivia",BO || TV U
 http://lobo-tv.live:25461/UzielLCH/123456789/188416
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO || Unitel" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO || Unitel
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO || Unitel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Unitel_%28Bolivia%29_-_Logo_%282011-presente%29.png/revision/latest/scale-to-width-down/400?cb=20200721024309&path-prefix=es" group-title="TV | Bolivia",BO || Unitel
 http://lobo-tv.live:25461/UzielLCH/123456789/188424
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO || Unitel La Paz &gt;)" tvg-logo="http://l3d.us:25461/images/319d43158bbfd92ca18d73e9a9e1fc08.png" group-title="TV | Bolivia",BO || Unitel La Paz
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="BO || Unitel La Paz &gt;)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Unitel_%28Bolivia%29_-_Logo_%282011-presente%29.png/revision/latest/scale-to-width-down/400?cb=20200721024309&path-prefix=es" group-title="TV | Bolivia",BO || Unitel La Paz
 http://lobo-tv.live:25461/UzielLCH/123456789/188423
-#EXTINF:-1 tvg-id="" tvg-name="BOL | MEGAVISION" tvg-logo="http://l3d.us:25461/images/164331fa5c0e4ecf19effc814f797882.png" group-title="TV | Bolivia",BOL | MEGAVISION
-http://lobo-tv.live:25461/UzielLCH/123456789/226124
 #EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB BOLIVIA LP :)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="TV | Bolivia",BOLIVIA || ATB BOLIVIA
 http://lobo-tv.live:25461/UzielLCH/123456789/188386
 #EXTINF:-1 tvg-id="ATB.bo" tvg-name="BOLIVIA || ATB CBA. :)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/RedATB2022.png" group-title="TV | Bolivia",BOLIVIA || ATB CBA
 http://lobo-tv.live:25461/UzielLCH/123456789/188387
-#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || BOLIVIA  :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || BOLIVIA TV
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || BOLIVIA  :)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Bolivia_TV_2020_blanco.png/revision/latest?cb=20220126121619&path-prefix=es" group-title="TV | Bolivia",BOLIVIA || Bolivia TV
 http://lobo-tv.live:25461/UzielLCH/123456789/188399
-#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || Bolivia TV SD :)" tvg-logo="http://l3d.us:25461/images/500b15907d15230109a5606cb456ee71.png" group-title="TV | Bolivia",BOLIVIA || Bolivia TV SD
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="BOLIVIA || Bolivia TV SD :)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Bolivia_TV_2020_blanco.png/revision/latest?cb=20220126121619&path-prefix=es" group-title="TV | Bolivia",BOLIVIA || Bolivia TV SD
 http://lobo-tv.live:25461/UzielLCH/123456789/188388
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="BOLIVIA || BOLIVISION :)" tvg-logo="http://l3d.us:25461/images/482c8e4c4518f241e52c1dc7e52c698e.png" group-title="TV | Bolivia",BOLIVIA || BOLIVISION
 http://lobo-tv.live:25461/UzielLCH/123456789/188392
