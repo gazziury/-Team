@@ -1,0 +1,29 @@
+#EXTM3U
+ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
+######################################################################################################################################
+######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d9/68/4e/d9684e9e7c5455e167e570bf14105c97.jpg" group-title="CONCIERTOS",CONCIERTOS
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkyOTM2NTA2NV5BMl5BanBnXkFtZTcwMDg1OTc3MQ@@._V1_FMjpg_UX1000_.jpg" group-title="LIVE",3 Doors Down- Houston (2004)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/3%20Doors%20Down%20-%20Away%20From%20The%20Sun%20Live%20in%20Houston%20(2004).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1NjAxODA1OF5BMl5BanBnXkFtZTYwOTM0OTg4._V1_.jpg" group-title="LIVE",38 Special- Sturgis (1999)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/38%20Special%20-%20Live%20at%20Sturgis%20%281999%29.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/AC-DC_-_Live_At_Donington.jpg" group-title="LIVE",ACDC- Donington (1991)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/Acdc%20-%20Live%20At%20Donington%20%281991%29.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/AC_DC_Live_at_River_Plate-152111993-large.jpg" group-title="LIVE",ACDC- River Plate (2011)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/ACDC%20Live%20at%20River%20Plate%20%282011%29.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Adele_Live_At_The_Royal_Albert_Hall_Cover.jpg" group-title="LIVE",Adele- Royal Albert Hall (2011)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/Adele%20Live%20at%20the%20Royal%20Albert%20Hall%20(2011).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjczMzMyNjcyMF5BMl5BanBnXkFtZTgwMTU1MTA2OTE@._V1_.jpg" group-title="LIVE",Aerosmith- Donington (2014)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/Aerosmith%20-%20Rocks%20Donington%202014.mkv
+#EXTINF:-1 tvg-logo="https://d1k9c1xvvzuzs4.cloudfront.net/wa-data/public/shop/products/66/41/114166/images/83064/50F2EB.970.jpg" group-title="LIVE",Alejandro Sanz- Paraiso (2010)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/Alejandro%20Sanz%20-%20Canciones%20Para%20Un%20Paraiso%20En%20Vivo%20(2010)%20.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Amy_Winehouse_-_I_Told_You_I_Was_Trouble_Live_in_London.png" group-title="LIVE",Amy Winehouse- Londres (2007)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/Amy%20Winehouse%20-%20I%20Told%20You%20I%20Was%20Trouble.%20Live%20in%20London%20(2007).mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2EzYTk2YjktZWMxMC00NGIwLWEzMTMtNTc2NWVjOTQ4ZTY2XkEyXkFqcGdeQXVyNTcyNTg3Nzc@._V1_QL75_UY281_CR46,0,190,281_.jpg" group-title="LIVE",Amy Winehouse- Glastonbury (2007)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/Amy%20Winehouse%20%20Live%20At%20Glastonbury%20Festival%20%282007%29.mkv
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71QkIBfByvL._AC_UF894,1000_QL80_.jpg" group-title="UNPLUGGED",Alice in chains- New York (1996)
+http://74.208.251.230/Contenidoplus/8%5d%20Extras%20Plus/Conciertos%20/Alice%20In%20Chains%20-%20MTV%20Unplugged%20in%20New%20York%20(1996).mkv
