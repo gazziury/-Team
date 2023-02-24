@@ -5744,6 +5744,19 @@ https://archive.org/download/01_20220701_20220701_1602/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/05/04/11/24/3543271.jpg" group-title="La casa de papel: Corea",Cap. 06
 https://archive.org/download/01_20220701_20220701_1602/06.mp4
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/utAGuquSCqZbJau4ZNP1DMjrUSe.jpg" group-title="La chica de nieve",Cap. 01
+http://vods.tuxchannel.tv/series/la_chica_de_nieve/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/utAGuquSCqZbJau4ZNP1DMjrUSe.jpg" group-title="La chica de nieve",Cap. 02
+http://vods.tuxchannel.tv/series/la_chica_de_nieve/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/utAGuquSCqZbJau4ZNP1DMjrUSe.jpg" group-title="La chica de nieve",Cap. 03
+http://vods.tuxchannel.tv/series/la_chica_de_nieve/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/utAGuquSCqZbJau4ZNP1DMjrUSe.jpg" group-title="La chica de nieve",Cap. 04
+http://vods.tuxchannel.tv/series/la_chica_de_nieve/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/utAGuquSCqZbJau4ZNP1DMjrUSe.jpg" group-title="La chica de nieve",Cap. 05
+http://vods.tuxchannel.tv/series/la_chica_de_nieve/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/utAGuquSCqZbJau4ZNP1DMjrUSe.jpg" group-title="La chica de nieve",Cap. 06
+http://vods.tuxchannel.tv/series/la_chica_de_nieve/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La chica de Plainville",TRAILER
 https://archive.org/download/trailer-l-4-ch-1c-4-d-3-pl-41nv-1ll-3/trailer%20L4%20ch1c4%20d3%20Pl41nv1ll3.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/24/12/07/2336237.jpg" group-title="La chica de Plainville",Cap. 01
