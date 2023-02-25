@@ -430,6 +430,8 @@ http://vods.tuxchannel.tv/series/another_life/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/10/09/27/0676766.jpg" group-title="Another Life: Otra vida T1",Cap. 10
 http://vods.tuxchannel.tv/series/another_life/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Arcane",TRAILER
+https://archive.org/download/4rc-4n-3/4rc4n3.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="Arcane",Cap. 01
 http://51.81.208.167/series2022/Arcane/Arcane.101.lati.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg" group-title="Arcane",Cap. 02
