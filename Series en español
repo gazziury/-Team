@@ -258,6 +258,8 @@ http://vods.tuxchannel.tv/series/alta_mar/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/30/09/35/2360521.jpg" group-title="Alta mar T2",Cap. 08
 http://vods.tuxchannel.tv/series/alta_mar/s_02_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="American rust",TRAILER
+https://archive.org/download/4m-3r-1c-4n-ru-5t/4m3r1c4n%20ru5t.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlmZjY5NTYtMjlmNS00MDEyLWJjMzUtOTg1NDgwZTk4NTg5XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg" group-title="American rust",Cap. 01
 http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9701.lati.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlmZjY5NTYtMjlmNS00MDEyLWJjMzUtOTg1NDgwZTk4NTg5XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg" group-title="American rust",Cap. 02
