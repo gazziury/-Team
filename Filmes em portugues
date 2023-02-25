@@ -6,6 +6,8 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="https://cartelerasdecine.info/wp-content/uploads/2017/11/Estrenos-Noviembre-Carteleras-de-Cine.jpg" group-title="FILMES GRATIS",FILMES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/23/01/10/16/05/4289829.jpg" group-title="2023",Homem-Formiga: Quantumania (2023) XBET
+https://archive.org/download/homem.-formiga.quantumania/Homem.Formiga.quantumania.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/22/12/14/10/28/1231799.jpg" group-title="2023",Procura-se Gonker (2023)
 https://archive.org/download/procura-se-gonker-2023/Procura-se%20Gonker%202023.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w1280/ew3V5fhAFD1SaKwIvosWOvlz6hi.jpg" group-title="2023",Teen wolf (2023)
