@@ -121,6 +121,23 @@ http://vods.tuxchannel.tv/series/acapulco/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/23/16/31/5996140.jpg" group-title="Acapulco T1",Cap. 05
 http://vods.tuxchannel.tv/series/acapulco/s_01_e_05.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" group-title="Agencia Lockwood",Cap. 01
+http://vods.tuxchannel.tv/series/lockwood_and_co/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" group-title="Agencia Lockwood",Cap. 02
+http://vods.tuxchannel.tv/series/lockwood_and_co/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" group-title="Agencia Lockwood",Cap. 03
+http://vods.tuxchannel.tv/series/lockwood_and_co/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" group-title="Agencia Lockwood",Cap. 04
+http://vods.tuxchannel.tv/series/lockwood_and_co/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" group-title="Agencia Lockwood",Cap. 05
+http://vods.tuxchannel.tv/series/lockwood_and_co/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" group-title="Agencia Lockwood",Cap. 06
+http://vods.tuxchannel.tv/series/lockwood_and_co/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" group-title="Agencia Lockwood",Cap. 07
+http://vods.tuxchannel.tv/series/lockwood_and_co/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/7hjTTn3tvOswHvWBQjpuJBENrvB.jpg" group-title="Agencia Lockwood",Cap. 08
+http://vods.tuxchannel.tv/series/lockwood_and_co/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/3/w1280/y3DKeKOhv7a2N7BzfxHPApTvzmr.jpg" group-title="Alba",Cap. 01
 http://144.217.180.205/Series/LAT%20,%20ESP/Alba.CAST/1/S01E01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/3/w1280/y3DKeKOhv7a2N7BzfxHPApTvzmr.jpg" group-title="Alba",Cap. 02
