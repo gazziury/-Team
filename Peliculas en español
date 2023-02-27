@@ -3742,8 +3742,6 @@ http://vod.tuxchannel.mx/peliculas/720/life%20of%20the%20party.mkv
 http://vod.tuxchannel.mx/peliculas/720/air%20strike%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/sYGJUqRQeqOzw2n4MGcswXWNJC4.jpg" group-title="2018",El cavernicola (2018)
 http://vod.tuxchannel.mx/peliculas/720/early%20man.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/kuZOnvzplxPVh71t827F19zY5Ab.jpg" group-title="2018",El corredor del laberinto: La cura mortal (2018)
-http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/8/w1280/wvn4DZwwXmz5O468mB3UMWCROxj.jpg" group-title="2018",El cuervo blanco: El bailarín (2018)
 http://vod.tuxchannel.mx/peliculas/720/the%20white%20crow%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/11/w1280/4Z6P7INtb80r22cqPJEVmGZnmQ5.jpg" group-title="2018",El favorito (2018)
@@ -3866,6 +3864,8 @@ http://vod.tuxchannel.mx/peliculas/720/mortal%20engines%202018.mkv
 http://vod.tuxchannel.mx/peliculas/720/mary%20queen%20of%20scots%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/8/w1280/kBl4wXkKVZep4AVVxju67uh6uVV.jpg" group-title="2018",Megalodon (2018)
 http://vod.tuxchannel.mx/peliculas/720/megalodon.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/kuZOnvzplxPVh71t827F19zY5Ab.jpg" group-title="2018",Maze Runner: La cura mortal (2018)
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/8/w1280/butXolfzlkbVL07HuIZeBmjuTyn.jpg" group-title="2018",Milla 22: El escape (2018)
 http://vod.tuxchannel.mx/peliculas/720/mile%2022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/12/w1280/ufBxs5lpq5XuTazs83A4GMNotc1.jpg" group-title="2018",Mi pequeño gran hombre (2018)
@@ -6342,6 +6342,8 @@ http://vod.tuxchannel.mx/peliculas/720/speed.mkv
 http://vod.tuxchannel.mx/peliculas/720/maximum%20risk.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/10/w1280/cgDax5pquVhriFNoCskS12stjbQ.jpg" group-title="Peliculas Viejas",Max Payne (2008)
 http://vod.tuxchannel.mx/peliculas/720/max%20payne.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_.jpg" group-title="Peliculas Viejas",Maze Runner: Correr o morir (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20maze%20runner.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1983/4/w1280/bHXPDgkBUrT8FKs0VktfNjUo7vY.jpg" group-title="Peliculas Viejas",McQuade: El lobo solitario (1983)
 http://vod.tuxchannel.mx/peliculas/720/lone%20wolf%20mcquade.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1987/2/w1280/jkizahsN5NUsjoRd2enHm8awhyz.jpg" group-title="Peliculas Viejas",Me enamoré de un maniquí (1987)
