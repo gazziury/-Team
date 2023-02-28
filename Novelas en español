@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://vods.tuxchannel.tv/series/perdona_nuestros_pecados/s_01_e_19.mkv
 
-http://vods.tuxchannel.tv/series/el%20senor%20de%20los%20cielos/s_08_e_27.mkv
+http://vods.tuxchannel.tv/series/el%20senor%20de%20los%20cielos/s_08_e_28.mkv
 
 http://vods.tuxchannel.tv/series/la_madrastra/s_01_e_33.mkv ...seran 50 capitulos
 
@@ -2864,6 +2864,8 @@ http://vods.tuxchannel.tv/series/el%20senor%20de%20los%20cielos/s_08_e_25.mkv
 http://vods.tuxchannel.tv/series/el%20senor%20de%20los%20cielos/s_08_e_26.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/El_Se%C3%B1or_de_los_Cielos_season_8_poster.jpg/220px-El_Se%C3%B1or_de_los_Cielos_season_8_poster.jpg" group-title="El señor de los cielos T8",Cap. 27
 http://vods.tuxchannel.tv/series/el%20senor%20de%20los%20cielos/s_08_e_27.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/El_Se%C3%B1or_de_los_Cielos_season_8_poster.jpg/220px-El_Se%C3%B1or_de_los_Cielos_season_8_poster.jpg" group-title="El señor de los cielos T8",Cap. 28
+http://vods.tuxchannel.tv/series/el%20senor%20de%20los%20cielos/s_08_e_28.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/03/11/12/1800318.jpg" group-title="Falsa identidad",Cap. 01
 http://vods.tuxchannel.tv/series/falsa_identidad/s_01_e_01.mkv
