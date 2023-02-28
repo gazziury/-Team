@@ -9888,6 +9888,23 @@ http://vods.tuxchannel.tv/series/treadstone/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 10
 http://vods.tuxchannel.tv/series/treadstone/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 01
+https://archive.org/download/01_20230227_20230227_1937/01.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 02
+https://archive.org/download/02_20230227_20230227_1941/02.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 03
+https://archive.org/download/03_20230227/03.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 04
+https://archive.org/download/04_20230227_20230227_1950/04.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 05
+https://archive.org/download/05_20230227_20230227_1953/05.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 06
+https://archive.org/download/06_20230227_202302/06.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 07
+https://archive.org/download/07_20230227_20230227_2002/07.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 08
+https://archive.org/download/08_20230227/08.mp4
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/25/09/13/5815126.jpg" group-title="Tribunal de menores",Cap. 01
 https://archive.org/download/01.3gp_202203/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/25/09/13/5815126.jpg" group-title="Tribunal de menores",Cap. 02
