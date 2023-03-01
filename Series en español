@@ -4596,6 +4596,8 @@ http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1",Cap. 09
 http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_09.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="G.E.O.: Mas allá del límite",TRAILER
+https://archive.org/download/g-30_20230301/G30.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 01
 http://51.81.208.167/series2022/G.E.O/S01/S01E01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 02
