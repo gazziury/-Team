@@ -6069,11 +6069,6 @@ http://144.217.180.205/Series/DUAL/The.Comey.Rule.DUAL/1/S01E01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2020/9/w1280/ajTTf5NNRHdXvWlXGYO1fhYE4a9.jpg" group-title="La ley de Comey",Cap. 02
 http://144.217.180.205/Series/DUAL/The.Comey.Rule.DUAL/1/S01E02.mkv
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/iaeC0Mxyyq8iu5LjBFAa27ENNez.jpg" group-title="La leyenda del tesoro perdido",Cap. 01
-https://archive.org/download/01_20221215_20221215_2313/01.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/12/w1280/iaeC0Mxyyq8iu5LjBFAa27ENNez.jpg" group-title="La leyenda del tesoro perdido",Cap. 02
-https://archive.org/download/02_20221216/02.mp4
-
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La lista final",TRAILER
 https://archive.org/download/trailer-th-3-t-3-rm-1-n-4-l-l-15-t/trailer%20TH3%20T3RM1N4L%20L15T.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg" group-title="La lista final",Cap. 01
@@ -6167,6 +6162,8 @@ http://vods.tuxchannel.tv/series/the_mysterious_benedict_society/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/21/09/10/1625980.jpg" group-title="La misteriosa Sociedad Benedict",Cap. 08
 http://vods.tuxchannel.tv/series/the_mysterious_benedict_society/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La muchacha que limpia T1",TRAILER
+https://archive.org/download/14-much-4ch-4-qu-3-1imp-14/14%20much4ch4%20qu3%201imp14.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/dqA2I1n8ENsnRaorTWD3VbXksEI.jpg" group-title="La muchacha que limpia T1",Cap. 01
 http://144.217.180.205/Series/LAT%20,%20ESP/La%20Muchacha%20que%20limpia.LAT/1/S01E01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/dqA2I1n8ENsnRaorTWD3VbXksEI.jpg" group-title="La muchacha que limpia T1",Cap. 02
