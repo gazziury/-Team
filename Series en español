@@ -6588,6 +6588,8 @@ http://vods.tuxchannel.tv/series/legion/s_03_e_06.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/06/11/10/15/5871981.jpg" group-title="Legion T3",Cap. 07
 http://vods.tuxchannel.tv/series/legion/s_03_e_07.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Lejos",TRAILER
+https://archive.org/download/13j-05/13j05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/21/13/30/0440016.jpg" group-title="Lejos",Cap. 01
 http://vods.tuxchannel.tv/series/away/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/21/13/30/0440016.jpg" group-title="Lejos",Cap. 02
