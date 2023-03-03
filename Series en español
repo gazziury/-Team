@@ -7177,6 +7177,23 @@ http://vods.tuxchannel.tv/series/wednesday/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://m.vanguardia.com/binrepository/1350x2000/0c0/0d0/none/12204/GEMY/merlina-2_7701485_20221124173250.jpg" group-title="Merlina",Cap. 08
 http://vods.tuxchannel.tv/series/wednesday/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 01
+http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E01.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 02
+http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E02.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 03
+http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E03.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 04
+http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E04.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 05
+http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E05.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 06
+http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E06.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 07
+http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E07.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 08
+http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E08.2023.720P-Dual-Lat.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/07/11/10/3321011.jpg" group-title="Mil colmillos",Cap. 01
 https://archive.org/download/03_20211111_20211111/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/07/11/10/3321011.jpg" group-title="Mil colmillos",Cap. 02
