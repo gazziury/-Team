@@ -803,6 +803,31 @@ http://vods.tuxchannel.tv/series/braqueurs/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg" group-title="Braqueurs: Atracadores",Cap. 06
 http://vods.tuxchannel.tv/series/braqueurs/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/23/11/26/1237965.jpg" group-title="Breaking bad T1",Cap. 01
+http://45.179.164.59:8181/Series/BREAKING%20BAD/Temporada%201/Breaking%20Bad%20S1E01%20Pilot.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/23/11/26/1237965.jpg" group-title="Breaking bad T1",Cap. 02
+http://45.179.164.59:8181/Series/BREAKING%20BAD/Temporada%201/Breaking%20Bad%20S1E02%20The%20Cat's%20in%20the%20Bag.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/23/11/26/1237965.jpg" group-title="Breaking bad T1",Cap. 03
+http://45.179.164.59:8181/Series/BREAKING%20BAD/Temporada%201/Breaking%20Bad%20S1E03%20...And%20the%20Bag's%20in%20the%20River.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/23/11/26/1237965.jpg" group-title="Breaking bad T1",Cap. 04
+http://45.179.164.59:8181/Series/BREAKING%20BAD/Temporada%201/Breaking%20Bad%20S1E04%20Cancer%20Man.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/23/11/26/1237965.jpg" group-title="Breaking bad T1",Cap. 05
+http://45.179.164.59:8181/Series/BREAKING%20BAD/Temporada%201/Breaking%20Bad%20S1E05%20Grey%20Matter.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/23/11/26/1237965.jpg" group-title="Breaking bad T1",Cap. 06
+http://45.179.164.59:8181/Series/BREAKING%20BAD/Temporada%201/Breaking%20Bad%20S1E06%20Crazy%20Handful%20of%20Nothin'.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/07/23/11/26/1237965.jpg" group-title="Breaking bad T1",Cap. 07
+http://45.179.164.59:8181/Series/BREAKING%20BAD/Temporada%201/Breaking%20Bad%20S1E07%20A%20No-Rough%20Stuff%20Type%20Deal.mkv
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Bridgerton T1",TRAILER
 https://archive.org/download/trailer-br-1dg-3rt-0n-1/trailer%20Br1dg3rt0n%201.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/04/12/03/4756219.jpg" group-title="Bridgerton T1",Cap. 01
