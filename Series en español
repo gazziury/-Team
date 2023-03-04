@@ -5894,6 +5894,8 @@ http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/24/12/07/2336237.jpg" group-title="La chica de Plainville",Cap. 08
 http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La chica y el cosmonauta",TRAILER
+https://archive.org/download/14-ch-1c-4-y-31-c-05m-0n-4ut-4/14-ch1c4-y-31-c05m0n4ut4.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xim2ANQ0Ofi7aVnAVA1pOVXw7XD.jpg" group-title="La chica y el cosmonauta",Cap. 01
 http://45.179.164.59:8181/Series/La%20chica%20y%20el%20cosmonauta/la.chica.y.el.cosmonauta.S01E01.2023.720P-Dual-Lat.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xim2ANQ0Ofi7aVnAVA1pOVXw7XD.jpg" group-title="La chica y el cosmonauta",Cap. 02
