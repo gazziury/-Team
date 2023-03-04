@@ -5894,6 +5894,19 @@ http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/24/12/07/2336237.jpg" group-title="La chica de Plainville",Cap. 08
 http://vods.tuxchannel.tv/series/the_girl_from_plainville/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xim2ANQ0Ofi7aVnAVA1pOVXw7XD.jpg" group-title="La chica y el cosmonauta",Cap. 01
+http://45.179.164.59:8181/Series/La%20chica%20y%20el%20cosmonauta/la.chica.y.el.cosmonauta.S01E01.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xim2ANQ0Ofi7aVnAVA1pOVXw7XD.jpg" group-title="La chica y el cosmonauta",Cap. 02
+http://45.179.164.59:8181/Series/La%20chica%20y%20el%20cosmonauta/la.chica.y.el.cosmonauta.S01E02.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xim2ANQ0Ofi7aVnAVA1pOVXw7XD.jpg" group-title="La chica y el cosmonauta",Cap. 03
+http://45.179.164.59:8181/Series/La%20chica%20y%20el%20cosmonauta/la.chica.y.el.cosmonauta.S01E03.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xim2ANQ0Ofi7aVnAVA1pOVXw7XD.jpg" group-title="La chica y el cosmonauta",Cap. 04
+http://45.179.164.59:8181/Series/La%20chica%20y%20el%20cosmonauta/la.chica.y.el.cosmonauta.S01E04.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xim2ANQ0Ofi7aVnAVA1pOVXw7XD.jpg" group-title="La chica y el cosmonauta",Cap. 05
+http://45.179.164.59:8181/Series/La%20chica%20y%20el%20cosmonauta/la.chica.y.el.cosmonauta.S01E05.2023.720P-Dual-Lat.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xim2ANQ0Ofi7aVnAVA1pOVXw7XD.jpg" group-title="La chica y el cosmonauta",Cap. 06
+http://45.179.164.59:8181/Series/La%20chica%20y%20el%20cosmonauta/la.chica.y.el.cosmonauta.S01E06.2023.720P-Dual-Lat.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La cocinera de Castamar",TRAILER
 https://archive.org/download/14-c-0c-1n-3r-4-d-3-c-45t-4m-4r/14%20c0c1n3r4%20d3%20c45t4m4r.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/2/w1280/pf7u8l0NQnECwG06dC94s0ZJLpC.jpg" group-title="La cocinera de Castamar",Cap. 01
