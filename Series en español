@@ -10818,6 +10818,27 @@ https://archive.org/download/01_20220818_20220818_1753/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/07/29/15/46/3512027.jpg" group-title="Yo soy Groot",Cap. 05
 https://archive.org/download/01_20220818_20220818_1758/01.mp4
 
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 01
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E1.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 02
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E2.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 03
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E3.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 04
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E4.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 05
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E5.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 06
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E6.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 07
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E7.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 08
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E8.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 09
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E9.mp4
+#EXTINF:-1 tvg-logo="http://45.179.164.59:8181/Series/you/season01-poster.jpg" group-title="You T1",Cap. 10
+http://45.179.164.59:8181/Series/you/You%20-%20Temporada%201/You%20-%20S1E10.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/You_Season_2.jpg" group-title="You T2",Cap. 01
 http://vods.tuxchannel.tv/series/you/s_02_e_01.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/You_Season_2.jpg" group-title="You T2",Cap. 02
