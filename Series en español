@@ -10741,6 +10741,8 @@ http://vods.tuxchannel.tv/series/warrior_nun/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/06/17/16/22/3443676.jpg" group-title="Warrior Nun: La monja guerrera",Cap. 10
 http://vods.tuxchannel.tv/series/warrior_nun/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Westworld T1",TRAILER
+https://archive.org/download/w-35tw-0r-1d/W35tw0r1d.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 01
 http://45.179.164.59:8181/Series/Westworld%20(2016)/Season%201/Westworld%20S01E01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/09/01/14/52/298580.jpg" group-title="Westworld T1",Cap. 02
