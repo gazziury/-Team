@@ -7211,6 +7211,8 @@ http://vods.tuxchannel.tv/series/wednesday/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://m.vanguardia.com/binrepository/1350x2000/0c0/0d0/none/12204/GEMY/merlina-2_7701485_20221124173250.jpg" group-title="Merlina",Cap. 08
 http://vods.tuxchannel.tv/series/wednesday/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Mila en el multiverso",TRAILER
+https://archive.org/download/mi-14-3n-3l-mu-1t-1v-3r-50/Mi14%203n%203l%20mu1t1v3r50.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 01
 http://45.179.164.59:8181/Series/Mila%20en%20el%20multiuniverso/mila.en.el.multiverso.S01E01.2023.720P-Dual-Lat.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/1/w1280/hovRwwkIMFlWRJoIxTSgGYH7ro2.jpg" group-title="Mila en el multiverso",Cap. 02
