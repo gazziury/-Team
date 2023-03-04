@@ -10078,6 +10078,8 @@ http://vods.tuxchannel.tv/series/truth_seekers/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/09/24/11/54/2673946.png" group-title="Truth Seekers: Investigadores de la verdad",Cap. 08
 http://vods.tuxchannel.tv/series/truth_seekers/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Tu honor",TRAILER
+https://archive.org/download/y-0ur-h-0n-0r/Y0ur%20h0n0r.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/23/11/10/4450336.jpg" group-title="Tu honor",Cap. 01
 http://vods.tuxchannel.tv/series/your_honor/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/10/23/11/10/4450336.jpg" group-title="Tu honor",Cap. 02
