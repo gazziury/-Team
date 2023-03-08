@@ -9,8 +9,6 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 incompletas
 
 1923
-la leyenda del tesoro perdido 
-la brea t2
 Poker face
 The last of us
 
@@ -649,6 +647,23 @@ https://archive.org/download/08_20220605_202206/06.mp4
 https://archive.org/download/08_20220605_202206/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a Edén",Cap. 08
 https://archive.org/download/08_20220605_202206/08.mp4
+
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 01
+http://vods.tuxchannel.tv/series/billy_the_kid/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 02
+http://vods.tuxchannel.tv/series/billy_the_kid/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 03
+http://vods.tuxchannel.tv/series/billy_the_kid/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 04
+http://vods.tuxchannel.tv/series/billy_the_kid/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 05
+http://vods.tuxchannel.tv/series/billy_the_kid/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 06
+http://vods.tuxchannel.tv/series/billy_the_kid/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 07
+http://vods.tuxchannel.tv/series/billy_the_kid/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/4/w1280/3JyuHbdVIhBoArxEtifLrzodUEM.jpg" group-title="Billy the kid",Cap. 08
+http://vods.tuxchannel.tv/series/billy_the_kid/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Biohackers T1",TRAILER
 https://archive.org/download/trailer-b-10h-4ck-3r-5-1/trailer%20B10h4ck3r5%201.mp4
