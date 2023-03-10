@@ -9713,8 +9713,26 @@ http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20T
 #EXTINF:-1 tvg-logo="https://m.supergeek.cl/noticias/site/artic/20220225/imag/foto_0000000220220225162322/TGD_S5_4x5-960x1200pxl.jpg" group-title="The good doctor T5",Cap. 18
 http://45.179.164.59:8181/Series/The%20Good%20Doctor/The%20Good%20Doctor%20-%20Temporada%205/The.Good.Doctor.5x18.HD720p-lat.mkv
 
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 01
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.1sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 02
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.2sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 03
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.3sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 04
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.4sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 05
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.5sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 06
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.6sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 07
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.7sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 08
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.8sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 09
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.9sub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg" group-title="The good doctor T6",Cap. 10
+http://45.179.164.59:8181/Series/The%20Good%20Doctor/g4t0ntgd6.10sub.mkv
 
 
 
