@@ -107,12 +107,17 @@ http://45.238.20.129:8000/play/a020
 http://45.238.20.129:8000/play/a012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png",Isat
 http://45.238.20.129:8000/play/a016
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg",La Red
+http://45.238.20.129:8000/play/a01x
 
 
 
 
 
 
+
+#EXTINF:-1,TruTV
+http://45.238.20.129:8000/play/a02p
 #EXTINF:-1,MTV
 http://45.238.20.129:8000/play/a01n
 #EXTINF:-1,NTV
@@ -151,8 +156,6 @@ http://45.238.20.129:8000/play/a01e
 http://45.238.20.129:8000/play/a01d
 #EXTINF:-1,TNT Series
 http://45.238.20.129:8000/play/a01b
-#EXTINF:-1,Lifetime
-http://45.238.20.129:8000/play/a02p
 #EXTINF:-1,MTV
 http://45.238.20.129:8000/play/a01m
 #EXTINF:-1,RT
@@ -165,8 +168,6 @@ http://45.238.20.129:8000/play/a01l
 http://45.238.20.129:8000/play/a01q
 #EXTINF:-1,TNT Sports
 http://45.238.20.129:8000/play/a01z
-#EXTINF:-1,La Red
-http://45.238.20.129:8000/play/a01x
 #EXTINF:-1,NTV
 http://45.238.20.129:8000/play/a01s
 #EXTINF:-1,Paramount
