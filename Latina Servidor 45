@@ -25,7 +25,7 @@ http://45.238.20.129:8000/play/a003
 http://45.238.20.129:8000/play/a00v
 #EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/5/0/507_para_fondo_negro_2_1.png",Cinecanal
 http://45.238.20.129:8000/play/a01c
-#EXTINF:-1,Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",Cinemax
 http://45.238.20.129:8000/play/a00e
 #EXTINF:-1,CNN Chile
 http://45.238.20.129:8000/play/a01v
