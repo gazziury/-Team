@@ -5,9 +5,9 @@ http://45.238.20.129:8000/play/a01w
 http://45.238.20.129:8000/play/a01g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",AMC
 http://45.238.20.129:8000/play/a011
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://45.238.20.129:8000/play/a02r
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
 http://45.238.20.129:8000/play/a00b
 #EXTINF:-1,Bethel Tv
 http://45.238.20.129:8000/play/a02b
