@@ -23,7 +23,7 @@ http://45.238.20.129:8000/play/a00q
 http://45.238.20.129:8000/play/a003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png",Chilevision
 http://45.238.20.129:8000/play/a00v
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/5/0/507_para_fondo_negro_2_1.png",Cinecanal
 http://45.238.20.129:8000/play/a01c
 #EXTINF:-1,Cinemax
 http://45.238.20.129:8000/play/a00e
