@@ -155,10 +155,10 @@ http://45.238.20.129:8000/play/a025
 http://45.238.20.129:8000/play/a01u
 #EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png",Teletrak
 http://45.238.20.129:8000/play/a00l
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png",TLC
 http://45.238.20.129:8000/play/a01l
-#EXTINF:-1,TL Novelas
-http://45.238.20.129:8000/play/a031
+
+
 
 #EXTINF:-1,TNT
 http://45.238.20.129:8000/play/a01d
@@ -176,6 +176,8 @@ http://45.238.20.129:8000/play/a030
 http://45.238.20.129:8000/play/a02y
 #EXTINF:-1,TruTV
 http://45.238.20.129:8000/play/a02p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
+http://45.238.20.129:8000/play/a031
 #EXTINF:-1,TVE
 http://45.238.20.129:8000/play/a00k
 #EXTINF:-1,TVN
