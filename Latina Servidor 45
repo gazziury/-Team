@@ -67,18 +67,17 @@ http://45.238.20.129:8000/play/a02w
 http://45.238.20.129:8000/play/a032
 #EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png",EWTN
 http://45.238.20.129:8000/play/a02a
-
-#EXTINF:-1,Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",Food Network
 http://45.238.20.129:8000/play/a02v
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png",Fox Sports 1
 http://45.238.20.129:8000/play/a02z
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",Fox Sports 2
 http://45.238.20.129:8000/play/a009
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",Fox Sports 3
 http://45.238.20.129:8000/play/a00a
-#EXTINF:-1,Funbox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/1200px-FunBox_TV_logo.svg.png",Funbox
 http://45.238.20.129:8000/play/a01t
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdM6CkAfJDajpuJVZm5uol-OK8_G5ijN5MbQMvU7sk1pi2FbO8sy1hPGFa2fUb06meQra8xhWIzKzVdSfQDS2ba_uirNpHZUFXDNkyBk8t-BPzsa36P6y6UWmfutELQGFyCSSi8-lDw0Gu6aonXjb7J8RrtZhTz_ANegBQqWaiIumrqn6AySaulMB/s1200/fx-log.png",FX
 http://45.238.20.129:8000/play/a00y
 
 
