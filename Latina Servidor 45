@@ -109,6 +109,8 @@ http://45.238.20.129:8000/play/a020
 http://45.238.20.129:8000/play/a012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png",Isat
 http://45.238.20.129:8000/play/a016
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png",Kanal D
+http://45.238.20.129:8000/play/a00z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg",La Red
 http://45.238.20.129:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png",Mega
@@ -133,16 +135,13 @@ http://45.238.20.129:8000/play/a024
 http://45.238.20.129:8000/play/a02t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT
 http://45.238.20.129:8000/play/a02k
-
-#EXTINF:-1,Sony
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.72622580071579.png.48667f6cb9c09e18c10161d1651d7c5b.png",Sony
 http://45.238.20.129:8000/play/a01h
-#EXTINF:-1,Space
-http://45.238.20.129:8000/play/a00z
-#EXTINF:-1,Star Channel
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png",Star Channel
 http://45.238.20.129:8000/play/a00x
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/281e2a_0a7b2fe650614c3ea939ee79f40c4e18.png/v1/fit/w_640%2Ch_191%2Cal_c/file.png",Studio Universal
 http://45.238.20.129:8000/play/a015
-#EXTINF:-1,Sun Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp",Sun Channel
 http://45.238.20.129:8000/play/a01e
 
 
