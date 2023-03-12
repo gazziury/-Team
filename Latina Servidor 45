@@ -157,13 +157,13 @@ http://45.238.20.129:8000/play/a01u
 http://45.238.20.129:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png",TLC
 http://45.238.20.129:8000/play/a01l
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/167-1675066_nba-on-tnt-logo-clipart-png-download-tnt.png",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
 http://45.238.20.129:8000/play/a01d
-#EXTINF:-1,TNT Series
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/a/ae/TNT_Series_2016.png/revision/latest/scale-to-width-down/150?cb=20161130195706&path-prefix=es",TNT Series
 http://45.238.20.129:8000/play/a01b
-#EXTINF:-1,TNT Sports
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png",TNT Sports
 http://45.238.20.129:8000/play/a01z
-#EXTINF:-1,TNT Sport 3
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",TNT Sports 3
 http://45.238.20.129:8000/play/a01q
 #EXTINF:-1,Tooncast
 http://45.238.20.129:8000/play/a00r
