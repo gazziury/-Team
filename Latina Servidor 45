@@ -79,12 +79,11 @@ http://45.238.20.129:8000/play/a00a
 http://45.238.20.129:8000/play/a01t
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdM6CkAfJDajpuJVZm5uol-OK8_G5ijN5MbQMvU7sk1pi2FbO8sy1hPGFa2fUb06meQra8xhWIzKzVdSfQDS2ba_uirNpHZUFXDNkyBk8t-BPzsa36P6y6UWmfutELQGFyCSSi8-lDw0Gu6aonXjb7J8RrtZhTz_ANegBQqWaiIumrqn6AySaulMB/s1200/fx-log.png",FX
 http://45.238.20.129:8000/play/a00y
-
-#EXTINF:-1,Golden Plus
+#EXTINF:-1 tvg-logo="https://ia802309.us.archive.org/27/items/logo.brootv_golden/GOLDEN_PLUS.png",Golden Plus
 http://45.238.20.129:8000/play/a02s
-#EXTINF:-1,Golden Plus
+#EXTINF:-1 tvg-logo="https://ia802309.us.archive.org/27/items/logo.brootv_golden/GOLDEN_PLUS.png",Golden Plus HD
 http://45.238.20.129:8000/play/a02u
-#EXTINF:-1,GolTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1200px-GolTV_logo.svg.png",GolTV
 http://45.238.20.129:8000/play/a00m
 
 
