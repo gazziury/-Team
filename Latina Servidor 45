@@ -109,7 +109,7 @@ http://45.238.20.129:8000/play/a020
 http://45.238.20.129:8000/play/a012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png",Isat
 http://45.238.20.129:8000/play/a016
-#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png",Kanal D
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Kanal_D_Rumania_2007.svg/revision/latest?cb=20220707124215&path-prefix=es",Kanal D
 http://45.238.20.129:8000/play/a00z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg",La Red
 http://45.238.20.129:8000/play/a01x
