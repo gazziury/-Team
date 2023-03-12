@@ -39,9 +39,9 @@ http://45.238.20.129:8000/play/a023
 http://45.238.20.129:8000/play/a01i
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360",Discovery Channel
 http://45.238.20.129:8000/play/a02m
-#EXTINF:-1,Discovery H&H
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png",Discovery H&H
 http://45.238.20.129:8000/play/a00d
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_04/large.311665712_DiscoveryKids.png.50d93547a036358fd39cf5f8d4d703af.png",Discovery Kids
 http://45.238.20.129:8000/play/a00p
 #EXTINF:-1,Discovery Science
 http://45.238.20.129:8000/play/a02n
