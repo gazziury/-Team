@@ -115,16 +115,15 @@ http://45.238.20.129:8000/play/a00u
 http://45.238.20.129:8000/play/a01n
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png",MTV HD
 http://45.238.20.129:8000/play/a01m
-
-#EXTINF:-1,National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NG_Yellow_Frame.svg/1200px-NG_Yellow_Frame.svg.png",Nat Geo
 http://45.238.20.129:8000/play/a010
-#EXTINF:-1,Nick
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png",Nick
 http://45.238.20.129:8000/play/a006
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png",Nick Jr
 http://45.238.20.129:8000/play/a00o
-#EXTINF:-1,NTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logotipo_de_NTV.svg/1200px-Logotipo_de_NTV.svg.png",NTV
 http://45.238.20.129:8000/play/a02b
-#EXTINF:-1,NTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logotipo_de_NTV.svg/1200px-Logotipo_de_NTV.svg.png",NTV HD
 http://45.238.20.129:8000/play/a01s
 
 
