@@ -33,7 +33,7 @@ http://45.238.20.129:8000/play/a01v
 http://45.238.20.129:8000/play/a018
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20210624193131&path-prefix=es",CNN Internacional
 http://45.238.20.129:8000/play/a00s
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=1024",Comedy Central
 http://45.238.20.129:8000/play/a023
 
 
