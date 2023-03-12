@@ -7,7 +7,7 @@ http://45.238.20.129:8000/play/a01g
 http://45.238.20.129:8000/play/a011
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://45.238.20.129:8000/play/a02r
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
+#EXTINF:-1 tvg-logo="https://r-scale-b2.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266415.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200",AXN
 http://45.238.20.129:8000/play/a00b
 #EXTINF:-1,Bethel Tv
 http://45.238.20.129:8000/play/a02b
