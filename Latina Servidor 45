@@ -157,10 +157,7 @@ http://45.238.20.129:8000/play/a01u
 http://45.238.20.129:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png",TLC
 http://45.238.20.129:8000/play/a01l
-
-
-
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/167-1675066_nba-on-tnt-logo-clipart-png-download-tnt.png",TNT
 http://45.238.20.129:8000/play/a01d
 #EXTINF:-1,TNT Series
 http://45.238.20.129:8000/play/a01b
