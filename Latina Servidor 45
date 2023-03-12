@@ -80,6 +80,12 @@ http://45.238.20.129:8000/play/a01t
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdM6CkAfJDajpuJVZm5uol-OK8_G5ijN5MbQMvU7sk1pi2FbO8sy1hPGFa2fUb06meQra8xhWIzKzVdSfQDS2ba_uirNpHZUFXDNkyBk8t-BPzsa36P6y6UWmfutELQGFyCSSi8-lDw0Gu6aonXjb7J8RrtZhTz_ANegBQqWaiIumrqn6AySaulMB/s1200/fx-log.png",FX
 http://45.238.20.129:8000/play/a00y
 
+#EXTINF:-1,Golden Plus
+http://45.238.20.129:8000/play/a02s
+#EXTINF:-1,Golden Plus
+http://45.238.20.129:8000/play/a02u
+#EXTINF:-1,GolTV
+http://45.238.20.129:8000/play/a00m
 
 
 
@@ -87,12 +93,8 @@ http://45.238.20.129:8000/play/a00y
 
 #EXTINF:-1,NTV
 http://45.238.20.129:8000/play/a02b
-#EXTINF:-1,Golden Plus
-http://45.238.20.129:8000/play/a02s
 #EXTINF:-1,Warner TV
 http://45.238.20.129:8000/play/a02h
-#EXTINF:-1,Golden Plus
-http://45.238.20.129:8000/play/a02u
 #EXTINF:-1,Pasiones
 http://45.238.20.129:8000/play/a02t
 #EXTINF:-1,Mega
@@ -169,8 +171,6 @@ http://45.238.20.129:8000/play/a027
 http://45.238.20.129:8000/play/a025
 #EXTINF:-1,Telesur
 http://45.238.20.129:8000/play/a01u
-#EXTINF:-1,GolTV
-http://45.238.20.129:8000/play/a00m
 #EXTINF:-1,HBO Family
 http://45.238.20.129:8000/play/a00h
 #EXTINF:-1,HBO Plus
