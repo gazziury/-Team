@@ -173,16 +173,13 @@ http://45.238.20.129:8000/play/a02y
 http://45.238.20.129:8000/play/a02p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
 http://45.238.20.129:8000/play/a031
-#EXTINF:-1,TVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2399px-Logo_TVE-Internacional.svg.png",TVE
 http://45.238.20.129:8000/play/a00k
-#EXTINF:-1,TVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/1200px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",TVN
 http://45.238.20.129:8000/play/a00t
-#EXTINF:-1,TYC Sports
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tyc_sports_m.png",TyC Sports
 http://45.238.20.129:8000/play/a008
-
-#EXTINF:-1,Universal TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",Universal TV
 http://45.238.20.129:8000/play/a013
-#EXTINF:-1,Warner TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner TV
 http://45.238.20.129:8000/play/a02h
-
-
