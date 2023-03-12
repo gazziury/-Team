@@ -147,14 +147,13 @@ http://45.238.20.129:8000/play/a015
 http://45.238.20.129:8000/play/a01e
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be74b3f4-088f-4981-a2fa-c8b64335dc92/dex6tf3-5a117284-ed8c-4805-ad10-800fa6ba0bf6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlNzRiM2Y0LTA4OGYtNDk4MS1hMmZhLWM4YjY0MzM1ZGM5MlwvZGV4NnRmMy01YTExNzI4NC1lZDhjLTQ4MDUtYWQxMC04MDBmYTZiYTBiZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rZ2P0ohL4xu1T2WwHfWy091tfIc5NLcDMzq_LkOAsk4",TBS
 http://45.238.20.129:8000/play/a02o
-
-#EXTINF:-1,Telefe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://45.238.20.129:8000/play/a027
-#EXTINF:-1,Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo Internacional
 http://45.238.20.129:8000/play/a025
-#EXTINF:-1,Telesur
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png",Telesur
 http://45.238.20.129:8000/play/a01u
-#EXTINF:-1,Teletrak
+#EXTINF:-1 tvg-logo="https://teletrak.cl/imagenes/logo.png",Teletrak
 http://45.238.20.129:8000/play/a00l
 #EXTINF:-1,TLC
 http://45.238.20.129:8000/play/a01l
