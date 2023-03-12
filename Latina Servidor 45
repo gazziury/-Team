@@ -103,7 +103,10 @@ http://45.238.20.129:8000/play/a01o
 http://45.238.20.129:8000/play/a01p
 #EXTINF:-1 tvg-logo="https://www.hola.tv/wp-content/uploads/2020/09/logoholatv.jpg",Hola TV
 http://45.238.20.129:8000/play/a020
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigacion Discovery
+http://45.238.20.129:8000/play/a012
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png",Isat
+http://45.238.20.129:8000/play/a016
 
 
 
@@ -128,10 +131,6 @@ http://45.238.20.129:8000/play/a00x
 http://45.238.20.129:8000/play/a00z
 #EXTINF:-1,TVN
 http://45.238.20.129:8000/play/a00t
-#EXTINF:-1,Investigacion Discovery
-http://45.238.20.129:8000/play/a012
-#EXTINF:-1,Isat
-http://45.238.20.129:8000/play/a016
 #EXTINF:-1,Nick Jr
 http://45.238.20.129:8000/play/a00o
 #EXTINF:-1,Studio Universal
