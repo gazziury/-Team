@@ -3,7 +3,7 @@
 http://45.238.20.129:8000/play/a01w
 #EXTINF:-1 tvg-logo="http://xx.tigeruhd.fun:80/images/968326125b38dbe4c7878adc4fafd088.png",A&E
 http://45.238.20.129:8000/play/a01g
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",AMC
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png",AMC
 http://45.238.20.129:8000/play/a011
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://45.238.20.129:8000/play/a02r
