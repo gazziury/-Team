@@ -37,7 +37,7 @@ http://45.238.20.129:8000/play/a00s
 http://45.238.20.129:8000/play/a023
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/DPelicula_2021.png/revision/latest?cb=20220130181632&path-prefix=es",De Película
 http://45.238.20.129:8000/play/a01i
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360",Discovery Channel
 http://45.238.20.129:8000/play/a02m
 #EXTINF:-1,Discovery H&H
 http://45.238.20.129:8000/play/a00d
