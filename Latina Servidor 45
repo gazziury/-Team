@@ -53,6 +53,8 @@ http://45.238.20.129:8000/play/a005
 http://45.238.20.129:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png",El Gourmet
 http://45.238.20.129:8000/play/a00j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png",El Trece
+http://45.238.20.129:8000/play/a02q
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN
 http://45.238.20.129:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN 2
@@ -129,7 +131,19 @@ http://45.238.20.129:8000/play/a01s
 http://45.238.20.129:8000/play/a024
 #EXTINF:-1 tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png",Pasiones
 http://45.238.20.129:8000/play/a02t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT
+http://45.238.20.129:8000/play/a02k
 
+#EXTINF:-1,Sony
+http://45.238.20.129:8000/play/a01h
+#EXTINF:-1,Space
+http://45.238.20.129:8000/play/a00z
+#EXTINF:-1,Star Channel
+http://45.238.20.129:8000/play/a00x
+#EXTINF:-1,Studio Universal
+http://45.238.20.129:8000/play/a015
+#EXTINF:-1,Sun Channel
+http://45.238.20.129:8000/play/a01e
 
 
 
@@ -140,14 +154,8 @@ http://45.238.20.129:8000/play/a02t
 http://45.238.20.129:8000/play/a02p
 #EXTINF:-1,Warner TV
 http://45.238.20.129:8000/play/a02h
-#EXTINF:-1,Star Channel
-http://45.238.20.129:8000/play/a00x
-#EXTINF:-1,Space
-http://45.238.20.129:8000/play/a00z
 #EXTINF:-1,TVN
 http://45.238.20.129:8000/play/a00t
-#EXTINF:-1,Studio Universal
-http://45.238.20.129:8000/play/a015
 #EXTINF:-1,TBS
 http://45.238.20.129:8000/play/a02o
 #EXTINF:-1,TCM
@@ -158,24 +166,16 @@ http://45.238.20.129:8000/play/a00r
 http://45.238.20.129:8000/play/a02y
 #EXTINF:-1,Universal TV
 http://45.238.20.129:8000/play/a013
-#EXTINF:-1,Sun Channel
-http://45.238.20.129:8000/play/a01e
 #EXTINF:-1,TNT
 http://45.238.20.129:8000/play/a01d
 #EXTINF:-1,TNT Series
 http://45.238.20.129:8000/play/a01b
-#EXTINF:-1,RT
-http://45.238.20.129:8000/play/a02k
-#EXTINF:-1,Sony
-http://45.238.20.129:8000/play/a01h
 #EXTINF:-1,TLC
 http://45.238.20.129:8000/play/a01l
 #EXTINF:-1,TNT Sport 3
 http://45.238.20.129:8000/play/a01q
 #EXTINF:-1,TNT Sports
 http://45.238.20.129:8000/play/a01z
-#EXTINF:-1,RCN
-http://45.238.20.129:8000/play/a02q
 #EXTINF:-1,Telefe
 http://45.238.20.129:8000/play/a027
 #EXTINF:-1,Telemundo Internacional
