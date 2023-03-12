@@ -143,7 +143,7 @@ http://45.238.20.129:8000/play/a00x
 http://45.238.20.129:8000/play/a015
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp",Sun Channel
 http://45.238.20.129:8000/play/a01e
-#EXTINF:-1,TBS
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be74b3f4-088f-4981-a2fa-c8b64335dc92/dex6tf3-5a117284-ed8c-4805-ad10-800fa6ba0bf6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JlNzRiM2Y0LTA4OGYtNDk4MS1hMmZhLWM4YjY0MzM1ZGM5MlwvZGV4NnRmMy01YTExNzI4NC1lZDhjLTQ4MDUtYWQxMC04MDBmYTZiYTBiZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rZ2P0ohL4xu1T2WwHfWy091tfIc5NLcDMzq_LkOAsk4",TBS
 http://45.238.20.129:8000/play/a02o
 #EXTINF:-1,TCM
 http://45.238.20.129:8000/play/a017
