@@ -143,51 +143,49 @@ http://45.238.20.129:8000/play/a00x
 http://45.238.20.129:8000/play/a015
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp",Sun Channel
 http://45.238.20.129:8000/play/a01e
-
-
-
-
-
-
-#EXTINF:-1,TruTV
-http://45.238.20.129:8000/play/a02p
-#EXTINF:-1,Warner TV
-http://45.238.20.129:8000/play/a02h
-#EXTINF:-1,TVN
-http://45.238.20.129:8000/play/a00t
 #EXTINF:-1,TBS
 http://45.238.20.129:8000/play/a02o
 #EXTINF:-1,TCM
 http://45.238.20.129:8000/play/a017
-#EXTINF:-1,Tooncast
-http://45.238.20.129:8000/play/a00r
-#EXTINF:-1,TruTV
-http://45.238.20.129:8000/play/a02y
-#EXTINF:-1,Universal TV
-http://45.238.20.129:8000/play/a013
-#EXTINF:-1,TNT
-http://45.238.20.129:8000/play/a01d
-#EXTINF:-1,TNT Series
-http://45.238.20.129:8000/play/a01b
-#EXTINF:-1,TLC
-http://45.238.20.129:8000/play/a01l
-#EXTINF:-1,TNT Sport 3
-http://45.238.20.129:8000/play/a01q
-#EXTINF:-1,TNT Sports
-http://45.238.20.129:8000/play/a01z
 #EXTINF:-1,Telefe
 http://45.238.20.129:8000/play/a027
 #EXTINF:-1,Telemundo Internacional
 http://45.238.20.129:8000/play/a025
 #EXTINF:-1,Telesur
 http://45.238.20.129:8000/play/a01u
-#EXTINF:-1,TYC Sports
-http://45.238.20.129:8000/play/a008
-#EXTINF:-1,TVE
-http://45.238.20.129:8000/play/a00k
 #EXTINF:-1,Teletrak
 http://45.238.20.129:8000/play/a00l
+#EXTINF:-1,TLC
+http://45.238.20.129:8000/play/a01l
 #EXTINF:-1,TL Novelas
 http://45.238.20.129:8000/play/a031
+
+#EXTINF:-1,TNT
+http://45.238.20.129:8000/play/a01d
+#EXTINF:-1,TNT Series
+http://45.238.20.129:8000/play/a01b
+#EXTINF:-1,TNT Sports
+http://45.238.20.129:8000/play/a01z
+#EXTINF:-1,TNT Sport 3
+http://45.238.20.129:8000/play/a01q
+#EXTINF:-1,Tooncast
+http://45.238.20.129:8000/play/a00r
 #EXTINF:-1,TruTV
 http://45.238.20.129:8000/play/a030
+#EXTINF:-1,TruTV
+http://45.238.20.129:8000/play/a02y
+#EXTINF:-1,TruTV
+http://45.238.20.129:8000/play/a02p
+#EXTINF:-1,TVE
+http://45.238.20.129:8000/play/a00k
+#EXTINF:-1,TVN
+http://45.238.20.129:8000/play/a00t
+#EXTINF:-1,TYC Sports
+http://45.238.20.129:8000/play/a008
+
+#EXTINF:-1,Universal TV
+http://45.238.20.129:8000/play/a013
+#EXTINF:-1,Warner TV
+http://45.238.20.129:8000/play/a02h
+
+
