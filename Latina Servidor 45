@@ -35,7 +35,7 @@ http://45.238.20.129:8000/play/a018
 http://45.238.20.129:8000/play/a00s
 #EXTINF:-1 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=1024",Comedy Central
 http://45.238.20.129:8000/play/a023
-#EXTINF:-1,De Pelicula
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/25/DPelicula_2021.png/revision/latest?cb=20220130181632&path-prefix=es",De Película
 http://45.238.20.129:8000/play/a01i
 #EXTINF:-1,Discovery Channel
 http://45.238.20.129:8000/play/a02m
