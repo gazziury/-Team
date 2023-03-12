@@ -165,13 +165,11 @@ http://45.238.20.129:8000/play/a01b
 http://45.238.20.129:8000/play/a01z
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png",TNT Sports 3
 http://45.238.20.129:8000/play/a01q
-#EXTINF:-1,Tooncast
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png",Tooncast
 http://45.238.20.129:8000/play/a00r
-#EXTINF:-1,TruTV
-http://45.238.20.129:8000/play/a030
-#EXTINF:-1,TruTV
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680f90a5-35e4-4f31-b1b6-ee9b3e8fda12/dd6ubpc-d9adc51b-61b8-498e-8734-61768505bec5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MGY5MGE1LTM1ZTQtNGYzMS1iMWI2LWVlOWIzZThmZGExMlwvZGQ2dWJwYy1kOWFkYzUxYi02MWI4LTQ5OGUtODczNC02MTc2ODUwNWJlYzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.59JUkQZ8cg4SFfRQ6TS8Qku8XeWDKQ_J1_ROwAVQ0L0",TruTV
 http://45.238.20.129:8000/play/a02y
-#EXTINF:-1,TruTV
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680f90a5-35e4-4f31-b1b6-ee9b3e8fda12/dd6ubpc-d9adc51b-61b8-498e-8734-61768505bec5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MGY5MGE1LTM1ZTQtNGYzMS1iMWI2LWVlOWIzZThmZGExMlwvZGQ2dWJwYy1kOWFkYzUxYi02MWI4LTQ5OGUtODczNC02MTc2ODUwNWJlYzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.59JUkQZ8cg4SFfRQ6TS8Qku8XeWDKQ_J1_ROwAVQ0L0",TruTV HD
 http://45.238.20.129:8000/play/a02p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",TV+
 http://45.238.20.129:8000/play/a031
