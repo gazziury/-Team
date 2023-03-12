@@ -109,13 +109,11 @@ http://45.238.20.129:8000/play/a012
 http://45.238.20.129:8000/play/a016
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg",La Red
 http://45.238.20.129:8000/play/a01x
-
-
-#EXTINF:-1,Mega
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png",Mega
 http://45.238.20.129:8000/play/a00u
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png",MTV
 http://45.238.20.129:8000/play/a01n
-#EXTINF:-1,MTV HD
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png",MTV HD
 http://45.238.20.129:8000/play/a01m
 
 
