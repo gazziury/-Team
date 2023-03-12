@@ -43,9 +43,9 @@ http://45.238.20.129:8000/play/a02m
 http://45.238.20.129:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_04/large.311665712_DiscoveryKids.png.50d93547a036358fd39cf5f8d4d703af.png",Discovery Kids
 http://45.238.20.129:8000/play/a00p
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png",Discovery Science
 http://45.238.20.129:8000/play/a02n
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 http://45.238.20.129:8000/play/a01r
 #EXTINF:-1,Disney Jr
 http://45.238.20.129:8000/play/a005
