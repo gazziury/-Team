@@ -49,22 +49,21 @@ http://45.238.20.129:8000/play/a02n
 http://45.238.20.129:8000/play/a01r
 #EXTINF:-1 tvg-logo="https://img4.hulu.com/user/v3/artwork/00d5cae8-81e5-4809-93f8-e4d2c8cfeb92?base_image_bucket_name=image_manager&base_image=9b14a3ad-cc0b-4b34-bef1-e700e41dfa38&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D",Disney Jr
 http://45.238.20.129:8000/play/a005
-
-#EXTINF:-1,E!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png",E!
 http://45.238.20.129:8000/play/a01k
-#EXTINF:-1,ESPN
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN
 http://45.238.20.129:8000/play/a01a
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN 2
 http://45.238.20.129:8000/play/a02i
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png",ESPN 3
 http://45.238.20.129:8000/play/a01y
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
 http://45.238.20.129:8000/play/a028
-#EXTINF:-1,ESPN Extra
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6ca7eacbf7addc05b52_espn-extra.png",ESPN Extra
 http://45.238.20.129:8000/play/a02w
-#EXTINF:-1,ETC Chile
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png",ETC
 http://45.238.20.129:8000/play/a032
-#EXTINF:-1,EWTN
+#EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png",EWTN
 http://45.238.20.129:8000/play/a02a
 
 
