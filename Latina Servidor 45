@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,24 Horas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblema_de_24_Horas_TVN.svg/1200px-Emblema_de_24_Horas_TVN.svg.png",24 Horas
 http://45.238.20.129:8000/play/a01w
-#EXTINF:-1,A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png",A&E
 http://45.238.20.129:8000/play/a01g
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",AMC
 http://45.238.20.129:8000/play/a011
 #EXTINF:-1,Animal Planet
 http://45.238.20.129:8000/play/a02r
