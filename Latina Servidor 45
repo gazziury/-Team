@@ -47,7 +47,7 @@ http://45.238.20.129:8000/play/a00p
 http://45.238.20.129:8000/play/a02n
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 http://45.238.20.129:8000/play/a01r
-#EXTINF:-1,Disney Jr
+#EXTINF:-1 tvg-logo="https://img4.hulu.com/user/v3/artwork/00d5cae8-81e5-4809-93f8-e4d2c8cfeb92?base_image_bucket_name=image_manager&base_image=9b14a3ad-cc0b-4b34-bef1-e700e41dfa38&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D",Disney Jr
 http://45.238.20.129:8000/play/a005
 
 
