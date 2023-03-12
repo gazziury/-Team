@@ -51,6 +51,8 @@ http://45.238.20.129:8000/play/a01r
 http://45.238.20.129:8000/play/a005
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png",E!
 http://45.238.20.129:8000/play/a01k
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png",El Gourmet
+http://45.238.20.129:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN
 http://45.238.20.129:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN 2
@@ -66,6 +68,18 @@ http://45.238.20.129:8000/play/a032
 #EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png",EWTN
 http://45.238.20.129:8000/play/a02a
 
+#EXTINF:-1,Food Network
+http://45.238.20.129:8000/play/a02v
+#EXTINF:-1,Fox Sports 1
+http://45.238.20.129:8000/play/a02z
+#EXTINF:-1,Fox Sports 2
+http://45.238.20.129:8000/play/a009
+#EXTINF:-1,Fox Sports 3
+http://45.238.20.129:8000/play/a00a
+#EXTINF:-1,Funbox
+http://45.238.20.129:8000/play/a01t
+#EXTINF:-1,FX
+http://45.238.20.129:8000/play/a00y
 
 
 
@@ -78,16 +92,10 @@ http://45.238.20.129:8000/play/a02b
 http://45.238.20.129:8000/play/a02s
 #EXTINF:-1,Warner TV
 http://45.238.20.129:8000/play/a02h
-#EXTINF:-1,Food Network
-http://45.238.20.129:8000/play/a02v
 #EXTINF:-1,Golden Plus
 http://45.238.20.129:8000/play/a02u
 #EXTINF:-1,Pasiones
 http://45.238.20.129:8000/play/a02t
-#EXTINF:-1,Fox Sports 1
-http://45.238.20.129:8000/play/a02z
-#EXTINF:-1,FX
-http://45.238.20.129:8000/play/a00y
 #EXTINF:-1,Mega
 http://45.238.20.129:8000/play/a00u
 #EXTINF:-1,National Geographic
@@ -144,8 +152,6 @@ http://45.238.20.129:8000/play/a01h
 http://45.238.20.129:8000/play/a01l
 #EXTINF:-1,TNT Sport 3
 http://45.238.20.129:8000/play/a01q
-#EXTINF:-1,Funbox
-http://45.238.20.129:8000/play/a01t
 #EXTINF:-1,Hola TV
 http://45.238.20.129:8000/play/a020
 #EXTINF:-1,TNT Sports
@@ -164,8 +170,6 @@ http://45.238.20.129:8000/play/a027
 http://45.238.20.129:8000/play/a025
 #EXTINF:-1,Telesur
 http://45.238.20.129:8000/play/a01u
-#EXTINF:-1,El Gourmet
-http://45.238.20.129:8000/play/a00j
 #EXTINF:-1,GolTV
 http://45.238.20.129:8000/play/a00m
 #EXTINF:-1,HBO Family
@@ -174,10 +178,6 @@ http://45.238.20.129:8000/play/a00h
 http://45.238.20.129:8000/play/a00i
 #EXTINF:-1,HBO 2
 http://45.238.20.129:8000/play/a00g
-#EXTINF:-1,Fox Sport 2
-http://45.238.20.129:8000/play/a009
-#EXTINF:-1,Fox Sport 3
-http://45.238.20.129:8000/play/a00a
 #EXTINF:-1,HBO
 http://45.238.20.129:8000/play/a00f
 #EXTINF:-1,Nick
