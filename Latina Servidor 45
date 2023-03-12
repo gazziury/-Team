@@ -116,6 +116,20 @@ http://45.238.20.129:8000/play/a01n
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png",MTV HD
 http://45.238.20.129:8000/play/a01m
 
+#EXTINF:-1,National Geographic
+http://45.238.20.129:8000/play/a010
+#EXTINF:-1,Nick
+http://45.238.20.129:8000/play/a006
+#EXTINF:-1,Nick Jr
+http://45.238.20.129:8000/play/a00o
+#EXTINF:-1,NTV
+http://45.238.20.129:8000/play/a02b
+#EXTINF:-1,NTV
+http://45.238.20.129:8000/play/a01s
+
+
+
+
 
 
 
@@ -123,22 +137,16 @@ http://45.238.20.129:8000/play/a01m
 
 #EXTINF:-1,TruTV
 http://45.238.20.129:8000/play/a02p
-#EXTINF:-1,NTV
-http://45.238.20.129:8000/play/a02b
 #EXTINF:-1,Warner TV
 http://45.238.20.129:8000/play/a02h
 #EXTINF:-1,Pasiones
 http://45.238.20.129:8000/play/a02t
-#EXTINF:-1,National Geographic
-http://45.238.20.129:8000/play/a010
 #EXTINF:-1,Star Channel
 http://45.238.20.129:8000/play/a00x
 #EXTINF:-1,Space
 http://45.238.20.129:8000/play/a00z
 #EXTINF:-1,TVN
 http://45.238.20.129:8000/play/a00t
-#EXTINF:-1,Nick Jr
-http://45.238.20.129:8000/play/a00o
 #EXTINF:-1,Studio Universal
 http://45.238.20.129:8000/play/a015
 #EXTINF:-1,TBS
@@ -167,8 +175,6 @@ http://45.238.20.129:8000/play/a01l
 http://45.238.20.129:8000/play/a01q
 #EXTINF:-1,TNT Sports
 http://45.238.20.129:8000/play/a01z
-#EXTINF:-1,NTV
-http://45.238.20.129:8000/play/a01s
 #EXTINF:-1,Paramount
 http://45.238.20.129:8000/play/a024
 #EXTINF:-1,RCN
@@ -179,8 +185,6 @@ http://45.238.20.129:8000/play/a027
 http://45.238.20.129:8000/play/a025
 #EXTINF:-1,Telesur
 http://45.238.20.129:8000/play/a01u
-#EXTINF:-1,Nick
-http://45.238.20.129:8000/play/a006
 #EXTINF:-1,TYC Sports
 http://45.238.20.129:8000/play/a008
 #EXTINF:-1,TVE
