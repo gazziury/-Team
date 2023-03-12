@@ -9,14 +9,13 @@ http://45.238.20.129:8000/play/a011
 http://45.238.20.129:8000/play/a02r
 #EXTINF:-1 tvg-logo="https://r-scale-b2.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266415.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200",AXN
 http://45.238.20.129:8000/play/a00b
-#EXTINF:-1,Bethel Tv
-http://45.238.20.129:8000/play/a02b
-#EXTINF:-1,Bolivia TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Bolivia_TV_2020_Variante_corta.png/revision/latest/scale-to-width-down/250?cb=20201219023218&path-prefix=es",Bolivia TV
 http://45.238.20.129:8000/play/a029
 
 
 
-
+#EXTINF:-1,NTV
+http://45.238.20.129:8000/play/a02b
 #EXTINF:-1,Canal de las Estrellas
 http://45.238.20.129:8000/play/a02d
 #EXTINF:-1,ESPN 2
