@@ -27,11 +27,11 @@ http://45.238.20.129:8000/play/a00v
 http://45.238.20.129:8000/play/a01c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",Cinemax
 http://45.238.20.129:8000/play/a00e
-#EXTINF:-1,CNN Chile
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/CNN_Chile_boxless.svg/revision/latest?cb=20210716152615",CNN Chile
 http://45.238.20.129:8000/play/a01v
-#EXTINF:-1,CNN en Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/640px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN en Español
 http://45.238.20.129:8000/play/a018
-#EXTINF:-1,CNN Internacional
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/CNN_International_old.svg/revision/latest/scale-to-width-down/250?cb=20210624193131&path-prefix=es",CNN Internacional
 http://45.238.20.129:8000/play/a00s
 #EXTINF:-1,Comedy Central
 http://45.238.20.129:8000/play/a023
