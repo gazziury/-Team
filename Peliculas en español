@@ -1518,6 +1518,8 @@ http://vod.tuxchannel.mx/peliculas/720/darlings%202022.mkv
 https://archive.org/download/01_20220605_20220605_1910/01.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/vDbS7qYuH8C9QB6JJKvsdlnPpX7.jpg" group-title="2022",Quien mató a Santa? (2022) SUB
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/e7tzASghUkQ78RYWttD6mYW4NHJ.jpg" group-title="2022",Quiero bailar con alguien (2022)
+http://vod.tuxchannel.mx/peliculas/720/i%20wanna%20dance%20with%20somebody%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/jIVYu8GlxughoV9PBWjxf1MVSrH.jpg" group-title="2022",Quiero que vuelvas (2022)
 http://vod.tuxchannel.mx/peliculas/720/i%20want%20you%20back%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/mRsRonH875t4CU7wFpDCqCPQ9Qz.jpg" group-title="2022",Racionais MCs: De las calles de Sao Pablo para el mundo (2022) SUB
@@ -1914,8 +1916,6 @@ http://vod.tuxchannel.mx/peliculas/720/windfall%202022.mkv
 http://144.217.180.205/Peliculas/Accion/Ver%20Wolf%20Hound%20(2022)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/b1OSwHDIflDSbirMr6k3Ivqf2yu.jpg" group-title="2022",Wyrmwood: Apocalipsis (2022) SUB
 http://144.217.180.205/Peliculas/Accion/Ver%20Wyrmwood%20Apocalipsis%20(2022)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/e7tzASghUkQ78RYWttD6mYW4NHJ.jpg" group-title="2022",Whitney Houston: Quiero bailar con alguien (2022) SUB
-http://144.217.180.205/Peliculas/Drama/4355.Whitney.Houston.I.Wanna.Dance.with.Somebody.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/3/w1280/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg" group-title="2022",X (2022)
 http://vod.tuxchannel.mx/peliculas/720/x%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/rw3udP9SMIpQaVzpuDedyeebiDy.jpg" group-title="2022",Yaksha: Operaciones despiadadas (2022)
