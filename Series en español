@@ -312,6 +312,27 @@ https://archive.org/download/06_20220421/05.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/18/10/30/3223899.jpg" group-title="Anatomia de un escándalo",Cap. 06
 https://archive.org/download/06_20220421/06.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 01
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 02
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 03
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 04
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 05
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 06
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 07
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 08
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 09
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFmOGUzMGYtMGYyMS00MzQyLTg2MGEtNzJjMjFlNDkyZGYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="And just like that T1",Cap. 10
+http://vods.tuxchannel.tv/series/and_just_like_that/s_01_e_10.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Andor",TRAILER
 https://archive.org/download/trailer-4nd-0r/trailer%204nd0r.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/21/10/06/4973830.jpg" group-title="Andor",Cap. 01
