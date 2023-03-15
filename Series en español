@@ -47,6 +47,19 @@ http://vods.tuxchannel.tv/series/1923/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/a4atePFSisyQrEIYuPRrVgJbVd8.jpg" group-title="1923",Cap. 06
 http://vods.tuxchannel.tv/series/1923/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 01
+http://vods.tuxchannel.tv/series/28_days_haunted/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 02
+http://vods.tuxchannel.tv/series/28_days_haunted/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 03
+http://vods.tuxchannel.tv/series/28_days_haunted/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 04
+http://vods.tuxchannel.tv/series/28_days_haunted/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 05
+http://vods.tuxchannel.tv/series/28_days_haunted/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/10/w1280/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 06
+http://vods.tuxchannel.tv/series/28_days_haunted/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="30 Monedas",TRAILER
 https://archive.org/download/30-monedas-trailer-oficial/30%20Monedas%20Trailer%20oficial.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/17/12/27/0826197.jpg" group-title="30 Monedas",Cap. 01
