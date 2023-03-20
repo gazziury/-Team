@@ -272,8 +272,26 @@ http://vods.tuxchannel.tv/series/alta_mar/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/30/09/35/2360521.jpg" group-title="Alta mar T2",Cap. 08
 http://vods.tuxchannel.tv/series/alta_mar/s_02_e_08.mkv
 
-"American rust"
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="American rust",TRAILER
 https://archive.org/download/4m-3r-1c-4n-ru-5t/4m3r1c4n%20ru5t.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 01
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9701.lati.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 02
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9702.lati.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 03
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9703.lati.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 04
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9704.lati.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 05
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9705.lati.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 06
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9706.lati.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 07
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9707.lati.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 08
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9708.lati.avi
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/9/w1280/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg" group-title="American rust",Cap. 09
+http://51.81.208.167/series2022/American.Rust/American.Rust.1%c3%9709.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Amsterdam",TRAILER
 https://archive.org/download/trailer-4mst-3rd-4m-1/trailer%204mst3rd4m%201.mp4
