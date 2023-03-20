@@ -4765,8 +4765,24 @@ http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/01/17/02/0432191.jpg" group-title="Gangs of London T1",Cap. 09
 http://vods.tuxchannel.tv/series/gangs_of_london/s_01_e_09.mkv
 
-"G.E.O.: Mas allá del límite",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="G.E.O.: Mas allá del límite",TRAILER
 https://archive.org/download/g-30_20230301/G30.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 01
+http://51.81.208.167/series2022/G.E.O/S01/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 02
+http://51.81.208.167/series2022/G.E.O/S01/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 03
+http://51.81.208.167/series2022/G.E.O/S01/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 04
+http://51.81.208.167/series2022/G.E.O/S01/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 05
+http://51.81.208.167/series2022/G.E.O/S01/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 06
+http://51.81.208.167/series2022/G.E.O/S01/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 07
+http://51.81.208.167/series2022/G.E.O/S01/S01E07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/10/w1280/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg" group-title="G.E.O.: Mas allá del límite",Cap. 08
+http://51.81.208.167/series2022/G.E.O/S01/S01E08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Ginny y Georgia",TRAILER
 https://archive.org/download/trailer-g-1-nny-y-g-30-rg-14/trailer%20G1NNY%20Y%20G30RG14.mp4
