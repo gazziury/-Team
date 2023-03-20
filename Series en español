@@ -985,8 +985,24 @@ https://archive.org/download/08_20220408_20220408_2056/07.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/12/40/4798734.jpg" group-title="Bridgerton T2",Cap. 08
 https://archive.org/download/08_20220408_20220408_2056/08.mp4
 
-"Bunker",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Bunker",TRAILER
 https://archive.org/download/bunk-3r/Bunk3r.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 01
+http://51.81.208.167/series2022/BUNKER/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 02
+http://51.81.208.167/series2022/BUNKER/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 03
+http://51.81.208.167/series2022/BUNKER/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 04
+http://51.81.208.167/series2022/BUNKER/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 05
+http://51.81.208.167/series2022/BUNKER/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 06
+http://51.81.208.167/series2022/BUNKER/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 07
+http://51.81.208.167/series2022/BUNKER/S01E07.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/12/w1280/9BBCnlWri0fthxEZdRpLaRWfLEl.jpg" group-title="Bunker",Cap. 08
+http://51.81.208.167/series2022/BUNKER/S01E08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Buscando a Alaska",TRAILER
 https://archive.org/download/trailer-busc-4nd-0-4-4l-45k-4/trailer%20Busc4nd0%204%204l45k4.mp4
