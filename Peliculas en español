@@ -769,8 +769,6 @@ http://144.217.180.205/Peliculas/Terror/El%20%c3%baltimo%20ritual%20(2022)%20108
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/d27yNLvnSESdJSqOnlYNJKMFXvL.jpg" group-title="2022",El valet: Aparcacoches (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20valet%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/j3DMPRKEOznPvWcnXX4MlaeY5p7.jpg" group-title="2022",El vestido de la novia (2022)
-
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/yJHwqLB5U3joO6sqVajDevGsRnz.jpg" group-title="2022",El viaje de Joy (2022) SUB
 http://144.217.180.205/Peliculas/Drama/11181.Joyride.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/aE2agcR5vLmGwcXPv5vbPvdinvp.jpg" group-title="2022",Elvis (2022)
@@ -3190,6 +3188,8 @@ http://vod.tuxchannel.mx/peliculas/720/we%20go%20in%20at%20dawn%202020.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20one%20and%20only%20ivan%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/12/w1280/oxbnkrC2GWEVbkUPzwFi1QX1qbP.jpg" group-title="2020",El verano que vivimos (2020)
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ5NzI4NjgtMTIzZS00YTA3LWIzZTgtZWQ1NDM5NGM5ZDdmXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="2020",El vestido de la novia (2020)
+http://vod.tuxchannel.mx/peliculas/720/el%20vestido%20de%20la%20novia%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/10/w1280/sbDvrkRsZb4Ik8fg2bJfWZQsXw1.jpg" group-title="2020",El vínculo (2020)
 http://vod.tuxchannel.mx/peliculas/720/Il%20legame%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/2/w1280/hd5YQjsIPuLmZuvWfdv36apz8tE.jpg" group-title="2020",Emma (2020)
