@@ -3416,6 +3416,8 @@ http://vod.tuxchannel.mx/peliculas/720/possessor%202020.mkv
 http://vod.tuxchannel.mx/peliculas/720/post%20mortem%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/4/w1280/ekInXmHSXcGSS7akxA0b9sVipcQ.jpg" group-title="2020",Presencias inexplicables (2020)
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/8/w1280/i26Z84b8VOLQnSXPIV7tPVDU0us.jpg" group-title="2020",Prisionero espacial (2020)
+http://vod.tuxchannel.mx/peliculas/720/solitary%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/8/w1280/goz3AVYFjLNKuC787HowcxWM6cZ.jpg" group-title="2020",Proyecto power (2020)
 http://vod.tuxchannel.mx/peliculas/720/project%20power%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/5/w1280/v9bPKQUQtdNh1ZlAfNFaGVg8C1C.jpg" group-title="2020",Rapido y feroz: Carrera mortal (2020)
