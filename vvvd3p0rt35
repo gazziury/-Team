@@ -287,3 +287,16 @@ http://tv.nousiptv.com:8080/user1/1232/1173327
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •", LD - BEIN SPORTS XTRA
 http://tv.nousiptv.com:8080/user1/1232/1178336
+
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + FHD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL - WIN SPORTS + FHD
+http://tv.nousiptv.com:8080/user1/1232/16724
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + HD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL - WIN SPORTS + HD
+http://tv.nousiptv.com:8080/user1/1232/54738
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL - WIN SPORTS + SD
+http://tv.nousiptv.com:8080/user1/1232/16723
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL - WIN SPORTS HD
+http://tv.nousiptv.com:8080/user1/1232/1155795
+#EXTINF:-1 tvg-id="" tvg-name="COL - ESPN COLOMBIA HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="COLOMBIA",COL - ESPN COLOMBIA HD
+http://tv.nousiptv.com:8080/user1/1232/1119288
+
+
