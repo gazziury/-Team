@@ -9,6 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/minas_de_pasion/s_01_e_67.mkv ... serán 107
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_72.mkv
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_31.mkv
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/24/17/07/4704719.jpg" group-title="100 días para enamorarnos T1",Cap. 01
@@ -8683,4 +8684,71 @@ http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_53.mkv
 http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_54.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 55
 http://series.tuxchannel.mx/series/vencer_la_culpa/s_01_e_55.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1MzQ2OWMtODk0My00YzkwLWFmNzUtNjNlNTBmODM1MDllXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Vencer la culpa",Cap. 56
+
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 01
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 02
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 03
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 04
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 05
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 06
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 07
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 08
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 09
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 10
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 11
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_11.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 12
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 13
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 14
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 15
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_15.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 16
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_16.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 17
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_17.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 18
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_18.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 19
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_19.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 20
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_20.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 21
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_21.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 22
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_22.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 23
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 24
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 25
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 26
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 27
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 28
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_28.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 29
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_29.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 30
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_30.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 31
+http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_31.mkv
+
+
+
+
