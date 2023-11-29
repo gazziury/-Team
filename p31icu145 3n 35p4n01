@@ -8205,6 +8205,18 @@ http://vod.tuxchannel.mx/peliculas/720/practical%20magic.mkv
 http://vod.tuxchannel.mx/peliculas/720/hellboy.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fGQAO4RgUzspO7L4u5KXirIn34s.jpg" group-title="Peliculas Viejas",Hellboy 2 (2008)
 http://vod.tuxchannel.mx/peliculas/720/hellboy%20II%20the%20golden%20army.mkv
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas Viejas",Hellraiser 1 (1987)
+http://45.179.164.59:8181/Peliculas/2023/Hellraiser.Puerta.al.infierno.1987.720p-dual-lat/Hellraiser.Puerta.al.infierno.1987.720p-dual-lat.mkv
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas Viejas",Hellraiser 2 (1988)
+http://45.179.164.59:8181/Peliculas/2023/Hellraiser.II.1988.720p-dual-lat/Hellraiser.II.1988.720p-dual-lat.mkv
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas Viejas",Hellraiser 4 (1996)
+http://45.179.164.59:8181/Peliculas/2023/Hellraiser.IV.1996.720p-dual-lat/Hellraiser.IV.1996.720p-dual-lat.mkv
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas Viejas",Hellraiser 5 (2000)
+http://45.179.164.59:8181/Peliculas/2023/Hellraiser.V.Infierno.2000.720p-dual-lat/Hellraiser.V.Infierno.2000.720p-dual-lat.mkv
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas Viejas",Hellraiser 6 (2002)
+http://45.179.164.59:8181/Peliculas/2023/Hellraiser.VI.Hellseeker.2002.720p-dual-lat/Hellraiser.VI.Hellseeker.2002.720p-dual-lat.mkv
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas Viejas",Hellraiser 8 (2005)
+http://45.179.164.59:8181/Peliculas/2023/Hellraiser.VIII.Hellworld.2005.720p-dual-lat/Hellraiser.VIII.Hellworld.2005.720p-dual-lat.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7lTfTZ8CDfXw09eAv3OOvsbCVgs.jpg" group-title="Peliculas Viejas",Herbie: A toda marcha (2005)
 http://vod.tuxchannel.mx/peliculas/720/herbie%20fully%20loaded.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kII56bP4ySFFjkK0mSFGxmJi6iI.jpg" group-title="Peliculas Viejas",Hércules (1997)
