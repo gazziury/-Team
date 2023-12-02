@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/minas_de_pasion/s_01_e_74.mkv ... serán 107
-http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_72.mkv
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_79.mkv
 http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_31.mkv
 
 
@@ -5760,6 +5760,20 @@ http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_70.mkv
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_71.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 72
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_72.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 73
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_73.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 74
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_74.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 75
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_75.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 76
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_76.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 77
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_77.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 78
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_78.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 79
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_79.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/21/17/15/5358418.jpg" group-title="No te puedes esconder T1",Cap. 01
 http://series.tuxchannel.mx/series/no_te_puedes_esconder/s_01_e_01.mkv
