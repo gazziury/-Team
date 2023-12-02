@@ -8528,6 +8528,23 @@ http://series.tuxchannel.mx/series/outlander/s_06_e_07.mkv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/outlander/images/5/51/Season-Six-Key-Art2.jpg" group-title="Outlander: Forastero T6",Cap. 08
 http://series.tuxchannel.mx/series/outlander/s_06_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tWpBtCx7p9M8RqEn0KVXnwUvYLB.jpg" group-title="Pacto de silencio",Cap. 01
+http://series.tuxchannel.mx/series/pacto_de_silencio/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tWpBtCx7p9M8RqEn0KVXnwUvYLB.jpg" group-title="Pacto de silencio",Cap. 02
+http://series.tuxchannel.mx/series/pacto_de_silencio/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tWpBtCx7p9M8RqEn0KVXnwUvYLB.jpg" group-title="Pacto de silencio",Cap. 03
+http://series.tuxchannel.mx/series/pacto_de_silencio/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tWpBtCx7p9M8RqEn0KVXnwUvYLB.jpg" group-title="Pacto de silencio",Cap. 04
+http://series.tuxchannel.mx/series/pacto_de_silencio/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tWpBtCx7p9M8RqEn0KVXnwUvYLB.jpg" group-title="Pacto de silencio",Cap. 05
+http://series.tuxchannel.mx/series/pacto_de_silencio/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tWpBtCx7p9M8RqEn0KVXnwUvYLB.jpg" group-title="Pacto de silencio",Cap. 06
+http://series.tuxchannel.mx/series/pacto_de_silencio/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tWpBtCx7p9M8RqEn0KVXnwUvYLB.jpg" group-title="Pacto de silencio",Cap. 07
+http://series.tuxchannel.mx/series/pacto_de_silencio/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tWpBtCx7p9M8RqEn0KVXnwUvYLB.jpg" group-title="Pacto de silencio",Cap. 08
+http://series.tuxchannel.mx/series/pacto_de_silencio/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/23/23/35/5703315.jpg" group-title="Palpito T1",Cap. 01
 https://archive.org/download/03_20220422/01.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/23/23/35/5703315.jpg" group-title="Palpito T1",Cap. 02
