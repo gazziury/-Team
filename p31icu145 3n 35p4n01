@@ -7289,6 +7289,8 @@ http://vod.tuxchannel.mx/peliculas/720/cars%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/letters%20from%20iwo%20jima.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6zEZY1htzRos2w0W3T7o7W1WJhp.jpg" group-title="Peliculas Viejas",Casino (1995)
 http://vod.tuxchannel.mx/peliculas/720/casino.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fjf8GNaBijurCd7oGtoi6QBt3e6L.jpg" group-title="Peliculas Viejas",Caso 39 (2009)
+http://vod.tuxchannel.mx/peliculas/720/caso%2039.mkv
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/78bb8adb299a5496b67dc91d8cacd856/images/gracenote/assets/p11239876_v_v8_ab.jpg" group-title="Peliculas Viejas",Catástrofe helada (2014)
 http://vod.tuxchannel.mx/peliculas/720/christmas%20icetastrophe%202014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AhD3qVfVmxz5CXDxctXwK5nmrOp.jpg" group-title="Peliculas Viejas",Celular (2004)
@@ -8085,8 +8087,6 @@ http://vod.tuxchannel.mx/peliculas/720/excalibur.mkv
 http://vod.tuxchannel.mx/peliculas/720/ex%20machina.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bZeD7NFvxZhmo2xkBLXG5vv5QDa.jpg" group-title="Peliculas Viejas",Exodus: Dioses y reyes (2014)
 http://vod.tuxchannel.mx/peliculas/720/exodus%20dioses%20y%20reyes.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2M0ODE1MzAtNTM3Ni00MzliLTk3NDAtNTc1MDhmY2RkNDNiXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg" group-title="Peliculas Viejas",Expediente 39 (2009)
-http://vod.tuxchannel.mx/peliculas/720/caso%2039.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bTwkpeOMChZtxDUPtbaQg1AbE5B.jpg" group-title="Peliculas Viejas",Expiación: Deseo y pecado (2007)
 http://vod.tuxchannel.mx/peliculas/720/atonement.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sQckQRt17VaWbo39GIu0TMOiszq.jpg" group-title="Peliculas Viejas",Exterminio (2002)
