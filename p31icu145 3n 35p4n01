@@ -6835,6 +6835,8 @@ http://vod.tuxchannel.mx/peliculas/720/miss%20you%20already.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3J7jwx3Cre1neDIs7YyAXy4ICc4.jpg" group-title="2015",Yo ví al diablo (2015)
 http://vod.tuxchannel.mx/peliculas/720/visions.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4kdqe3zTU8oOXFrH75SZq98xPdG.jpg" group-title="Peliculas Viejas",007: Operación trueno (1965)
+http://vod.tuxchannel.mx/peliculas/720/thunderball.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tXlAyD3gduY9SJVIFnLAVCrXuAP.jpg" group-title="Peliculas Viejas",007: Al servicio secreto de su majestad (1969)
 http://vod.tuxchannel.mx/peliculas/720/on%20her%20majestys%20secret%20service.mkv
 #EXTINF:-1 tvg-logo="https://www.film.nl/img.php?width=800&image=/content/bindinc/f7/f7ad6c7a2073d2a339e421d778d80c60.jpg" group-title="Peliculas Viejas",007: Los diamantes son eternos (1971)
