@@ -903,25 +903,6 @@ http://series.tuxchannel.mx/series/bridgerton/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/04/12/03/4756219.jpg" group-title="Bridgerton T1",Cap. 08
 http://series.tuxchannel.mx/series/bridgerton/s_01_e_08.mkv
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Buscando a Alaska",TRAILER
-https://archive.org/download/trailer-busc-4nd-0-4-4l-45k-4/trailer%20Busc4nd0%204%204l45k4.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/01/19/4091995.jpg" group-title="Buscando a Alaska",Cap. 01
-https://archive.org/download/04_20211020_202110/01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/01/19/4091995.jpg" group-title="Buscando a Alaska",Cap. 02
-https://archive.org/download/04_20211020_202110/02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/01/19/4091995.jpg" group-title="Buscando a Alaska",Cap. 03
-https://archive.org/download/04_20211020_202110/03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/01/19/4091995.jpg" group-title="Buscando a Alaska",Cap. 04
-https://archive.org/download/04_20211020_202110/04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/01/19/4091995.jpg" group-title="Buscando a Alaska",Cap. 05
-https://archive.org/download/07_20211020_20211020_2043/05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/01/19/4091995.jpg" group-title="Buscando a Alaska",Cap. 06
-https://archive.org/download/07_20211020_20211020_2043/06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/01/19/4091995.jpg" group-title="Buscando a Alaska",Cap. 07
-https://archive.org/download/07_20211020_20211020_2043/07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/10/28/01/19/4091995.jpg" group-title="Buscando a Alaska",Cap. 08
-https://archive.org/download/07_20211020_20211020_2043/08.mp4
-
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Capitani",TRAILER
 https://archive.org/download/trailer-c-4p-1t-4n-1/trailer%20C4p1t4n1.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/07/05/11/32/1611911.jpg" group-title="Capitani",Cap. 01
@@ -1334,11 +1315,11 @@ http://series.tuxchannel.mx/series/chicago_med/s_05_e_20.mkv
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Chucky T1",TRAILER
 https://archive.org/download/trailer-chucky/trailer%20Chucky.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 01
-https://archive.org/download/01_20231102_20231102_1606/01.mp4
+http://series.tuxchannel.mx/series/chucky/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 02
-https://archive.org/download/02_20231102_20231102/02.mp4
+http://series.tuxchannel.mx/series/chucky/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 03
-https://archive.org/download/03_20231102_202311/03.mp4
+http://series.tuxchannel.mx/series/chucky/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 04
 http://series.tuxchannel.mx/series/chucky/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="Chucky T1",Cap. 05
@@ -1366,11 +1347,6 @@ https://archive.org/download/06_20231102_20231102_1914/06.mp4
 https://archive.org/download/07_20231102_20231102_1920/07.mp4
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 08
 https://archive.org/download/08_20231102_20231102_1937/08.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg" group-title="Chucky T3",Cap. 01
-https://archive.org/download/01_20231102_20231102_2021/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg" group-title="Chucky T3",Cap. 02
-https://archive.org/download/02_20231102_20231102_2026/02.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 01
 http://series.tuxchannel.mx/series/chueco/s_01_e_01.mkv
