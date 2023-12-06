@@ -1339,14 +1339,6 @@ http://series.tuxchannel.mx/series/chucky/s_02_e_02.mkv
 http://series.tuxchannel.mx/series/chucky/s_02_e_03.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 04
 http://series.tuxchannel.mx/series/chucky/s_02_e_04.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 05
-https://archive.org/download/05_20231102_20231102_1907/05.mp4
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 06
-https://archive.org/download/06_20231102_20231102_1914/06.mp4
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 07
-https://archive.org/download/07_20231102_20231102_1920/07.mp4
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg" group-title="Chucky T2",Cap. 08
-https://archive.org/download/08_20231102_20231102_1937/08.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/7/w1280/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg" group-title="C.H.U.E.C.O",Cap. 01
 http://series.tuxchannel.mx/series/chueco/s_01_e_01.mkv
@@ -1406,31 +1398,6 @@ http://series.tuxchannel.mx/series/trying/s_02_e_05.mkv
 http://series.tuxchannel.mx/series/trying/s_02_e_06.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZlZWM0MTEtMWFkZC00MDU4LTgwZTgtNDM1YjQwZWZjYzdhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="Ciclos T2",Cap. 07
 http://series.tuxchannel.mx/series/trying/s_02_e_07.mkv
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Cielo grande",TRAILER
-https://archive.org/download/trailer-c-13l-0-gr-4nd-3_202209/trailer%20C13l0%20Gr4nd3.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 01
-https://archive.org/download/05_20220219_20220219/01.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 02
-https://archive.org/download/05_20220219_20220219/02.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 03
-https://archive.org/download/05_20220219_20220219/03.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 04
-https://archive.org/download/05_20220219_20220219/04.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 05
-https://archive.org/download/05_20220219_20220219/05.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 06
-https://archive.org/download/05_20220219_20220219/06.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 07
-https://archive.org/download/05_20220219_20220219/07.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 08
-https://archive.org/download/05_20220219_20220219/08.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 09
-https://archive.org/download/05_20220219_20220219/09.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 10
-https://archive.org/download/05_20220219_20220219/10.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/14/14/4466718.jpg" group-title="Cielo grande",Cap. 11
-https://archive.org/download/05_20220219_20220219/11.mp4
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/4/w1280/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel",Cap. 01
 https://archive.org/download/01_20230502_20230502_0249/01.mp4
