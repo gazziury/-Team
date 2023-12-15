@@ -705,6 +705,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20darkness%20within%20la%20luz%20del%
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhIlpA1dWjYwqq8zk7nxntGl5Ur7.jpg" group-title="2023",La paradoja de Antares (2023)
 
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsAqMJ7UrctVPqP9vKq92qwByc8P.jpg" group-title="2023",La pecera (2023)
+http://vod.tuxchannel.mx/peliculas/720/la%20pecera%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2axXVpi3dKfESWzgncbakLB7o7f.jpg" group-title="2023",La princesa cisne (2023)
 http://vod.tuxchannel.mx/peliculas/720/the%20swan%20princess%20a%20fairytale%20is%20born%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zTTgI92GGVtYIGunown2oWOUDES.jpg" group-title="2023",La probabilidad estadística del amor a primera vista  (2023)
