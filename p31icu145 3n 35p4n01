@@ -8675,6 +8675,8 @@ http://vod.tuxchannel.mx/peliculas/720/wild%20things.mkv
 http://vod.tuxchannel.mx/peliculas/720/lock%20stock%20and%20two%20smoking%20barrels.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wLx65gtGVnUFCxceHWGszcruCZj.jpg" group-title="Peliculas Viejas",Juez Dredd (2012)
 http://vod.tuxchannel.mx/peliculas/720/dredd.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ripTQsmWQJyccK6zB1dajSY3olv.jpg" group-title="Peliculas Viejas",Jugar duro (2001)
+http://vod.tuxchannel.mx/peliculas/720/mean%20machine.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg" group-title="Peliculas Viejas",Jumanji (1995)
 http://vod.tuxchannel.mx/peliculas/720/jumanji.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg" group-title="Peliculas Viejas",Jumper (2008)
