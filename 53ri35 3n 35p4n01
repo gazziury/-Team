@@ -2852,6 +2852,17 @@ http://series.tuxchannel.mx/series/o_escolhido/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/06/13/15/50/2243615.jpg" group-title="El elegido",Cap. 06
 http://series.tuxchannel.mx/series/o_escolhido/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f0mpXahJgv0FPj2gnZL62dabBf6.jpg" group-title="El elegido 2023",Cap. 01
+http://series.tuxchannel.mx/series/el_elegido/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f0mpXahJgv0FPj2gnZL62dabBf6.jpg" group-title="El elegido 2023",Cap. 02
+http://series.tuxchannel.mx/series/el_elegido/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f0mpXahJgv0FPj2gnZL62dabBf6.jpg" group-title="El elegido 2023",Cap. 03
+http://series.tuxchannel.mx/series/el_elegido/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f0mpXahJgv0FPj2gnZL62dabBf6.jpg" group-title="El elegido 2023",Cap. 04
+http://series.tuxchannel.mx/series/el_elegido/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f0mpXahJgv0FPj2gnZL62dabBf6.jpg" group-title="El elegido 2023",Cap. 05
+http://series.tuxchannel.mx/series/el_elegido/s_01_e_05.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Embarcadero",TRAILER
 https://archive.org/download/trailer-3l-3mb-4rc-4d-3r-0/trailer%203l%203mb4rc4d3r0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/12/05/12/17/0603267.jpg" group-title="El Embarcadero",Cap. 01
