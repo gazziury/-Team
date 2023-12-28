@@ -7129,6 +7129,8 @@ http://vod.tuxchannel.mx/peliculas/720/seabiscuit%202003.mkv
 http://archive.org/download/videoplayback_20200903_2207/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/60AAso6I2TzQCy2SjqtzPni8csA.jpg" group-title="Peliculas Viejas",Al rojo vivo (1998)
 http://vod.tuxchannel.mx/peliculas/720/mercury%20rising.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zjpejvqEqszIKDpLEZscalyiV2f.jpg" group-title="Peliculas Viejas",Amelie (2001)
+http://vod.tuxchannel.mx/peliculas/720/amelie.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ttquyxStEEctzghtA2f4PUGprDr.jpg" group-title="Peliculas Viejas",Amanecer de los muertos (2004)
 http://vod.tuxchannel.mx/peliculas/720/dawn of the dead.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Feyhd9wLlyDTGOKl4jmzWy5sa90o.jpg" group-title="Peliculas Viejas",Amar te duele (2002)
