@@ -6977,6 +6977,8 @@ http://vod.tuxchannel.mx/peliculas/720/miss%20you%20already.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3J7jwx3Cre1neDIs7YyAXy4ICc4.jpg" group-title="2015",Yo ví al diablo (2015)
 http://vod.tuxchannel.mx/peliculas/720/visions.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f9HsemSsBEHN5eoMble1bj6fDxs.jpg" group-title="Peliculas Viejas",007: El satánico Dr. No (1962)
+http://vod.tuxchannel.mx/peliculas/720/dr%20no.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2jUOA4mUm2W7jP61DFeZ77kH0sA.jpg" group-title="Peliculas Viejas",007: Desde Rusia con amor (1963)
 http://vod.tuxchannel.mx/peliculas/720/from%20russia%20with%20love.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4kdqe3zTU8oOXFrH75SZq98xPdG.jpg" group-title="Peliculas Viejas",007: Operación trueno (1965)
