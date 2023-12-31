@@ -6507,6 +6507,8 @@ http://vod.tuxchannel.mx/peliculas/720/fallen.mkv
 http://vod.tuxchannel.mx/peliculas/720/pandemic.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FelTrkTm5GjynK3H26cpOZsWDYjy.jpg" group-title="2016",Pandora (2016)
 http://vod.tuxchannel.mx/peliculas/720/pandora.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jK9S6HANSf2no64v1x1HxfcpmcA.jpg" group-title="2016",Pasajeros (2016)
+http://vod.tuxchannel.mx/peliculas/720/passengers.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pgpMzdML9FUj3GpDU3LFi7AWbHQ.jpg" group-title="2016",Pastoral americana (2016)
 http://vod.tuxchannel.mx/peliculas/720/american%20pastoral.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mmRizqT81KfcY91hndIt0TReqtB.jpg" group-title="2016",Persecusión al límite (2016)
