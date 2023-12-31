@@ -7,8 +7,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/minas_de_pasion/s_01_e_91.mkv ... serán 107
-http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_96.mkv
+http://series.tuxchannel.mx/series/minas_de_pasion/s_01_e_94.mkv ... serán 107
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_99.mkv
 http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_54.mkv
 
 
@@ -5840,6 +5840,12 @@ http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_93.mkv
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_95.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 93
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_96.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 94
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_97.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 95
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_98.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 96
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_99.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/21/17/15/5358418.jpg" group-title="No te puedes esconder T1",Cap. 01
 http://series.tuxchannel.mx/series/no_te_puedes_esconder/s_01_e_01.mkv
