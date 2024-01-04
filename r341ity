@@ -7,61 +7,9 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/XKACrmy.jpeg" group-title="BBB COMEÇA 08/01",BBB 24 COMEÇA 08/01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="BBB COMEÇA 08/01",BBB 24 COMEÇA 08/01
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",CAM 01
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",CAM 02
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 03" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",CAM 03
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 04" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="CONEXAO - A FAZENDA 2023",CAM 04
-
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="JOAO - A FAZENDA 2023",CAM 01
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="JOAO - A FAZENDA 2023",CAM 02
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 03" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="JOAO - A FAZENDA 2023",CAM 03
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 04" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="JOAO - A FAZENDA 2023",CAM 04
-
-
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",CAM 01
-
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",CAM 02
-
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",CAM 03
-
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",CAM 04
-
-#EXTINF:-1 tvg-logo="http://45.230.96.42:8080/icones/afazenda.png" group-title="APPCLIENTE - A FAZENDA 2023",CAM 05
-
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15 PRINCIPAL" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",CAM PRINCIPAL
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",CAM 01
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",CAM 02
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 03" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",CAM 03
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 04" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",CAM 04
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 05" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",CAM 05
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 06" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="METV - A FAZENDA 2023",CAM 06
-
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15 PRINCIPAL" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",CAM PRINCIPAL
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 01" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",CAM 01
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 02" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",CAM 02
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 03" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",CAM 03
-
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A FAZENDA 15  CAM 04" tvg-logo="http://storage.newbp.xyz/lives/REALITY/A%20FAZENDA.png" group-title="STAK - A FAZENDA 2023",CAM 04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="APPCLIENTE - BBB 24",CAM 01
 
