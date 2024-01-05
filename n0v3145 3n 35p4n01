@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/minas_de_pasion/s_01_e_98.mkv ... serán 107
-http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_101.mkv
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_103.mkv
 http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_58.mkv
 
 
@@ -5856,6 +5856,8 @@ http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_99.mkv
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_100.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 098
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_101.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8VNtVYD21VeHG8Fmwn06zHHWmj.jpg" group-title="Nadie como tú",Cap. 099
+http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_103.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/21/17/15/5358418.jpg" group-title="No te puedes esconder T1",Cap. 01
 http://series.tuxchannel.mx/series/no_te_puedes_esconder/s_01_e_01.mkv
