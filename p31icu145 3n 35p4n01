@@ -5148,7 +5148,7 @@ http://vod.tuxchannel.mx/peliculas/720/i%20am%20mother%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/red%20shoes%20and%20the%20seven%20dwarfs%202019.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZmYmRjYTctM2Q5OS00MjdlLWI5NTEtYzQ1M2M5MzdhMTcwXkEyXkFqcGdeQXVyMjExMzI0OTg@._V1_FMjpg_UX1000_.jpg" group-title="2019",Zeroville (2019)
 http://vod.tuxchannel.mx/peliculas/720/zeroville%202019.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/10/w1280/mIUGQ89isLNj4IRujDsXrZFIZCQ.jpg" group-title="2019",Zombieland 2: Mata y remata (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg" group-title="2019",Zombieland 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/zombieland%20double%20tap%202019.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/3/w1280/tUsWgu9ZZBg9JXY1a05VznouoVY.jpg" group-title="2018",7 dias en Entebbe (2018)
@@ -10611,7 +10611,7 @@ http://vod.tuxchannel.mx/peliculas/720/yo%20robot.mkv
 http://vod.tuxchannel.mx/peliculas/720/i%20am%20sam.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k6CYisrf2J2FXzvSXVJSscHc7Kj.jpg" group-title="Peliculas Viejas",Zapatero a tus zapatos (2014)
 http://vod.tuxchannel.mx/peliculas/720/zapatero%20a%20tus%20zapatos.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg" group-title="Peliculas Viejas",Zombieland (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg" group-title="Peliculas Viejas",Zombieland 1 (2009)
 http://vod.tuxchannel.mx/peliculas/720/zombieland.mkv
 #EXTINF:-1 tvg-logo="https://metadata-static.plex.tv/e/gracenote/e9f5db0be55bf23ece420bea98b7b65a.jpg" group-title="Peliculas Viejas",Zona de miedo (2008)
 http://vod.tuxchannel.mx/peliculas/720/zona%20de%20miedo.mkv
