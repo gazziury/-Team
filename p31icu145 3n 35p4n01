@@ -10143,6 +10143,8 @@ http://vod.tuxchannel.mx/peliculas/720/serenity.mkv
 http://vod.tuxchannel.mx/peliculas/720/seven.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5ncvnNPaN73cOqD4muE413sSOyY.jpg" group-title="Peliculas Viejas",Shaft 1 (2000)
 http://vod.tuxchannel.mx/peliculas/720/shaft.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ydrpcCRfLww4AE1qAlu9x878nQX.jpg" group-title="Peliculas Viejas",Shanghai (2010)
+http://vod.tuxchannel.mx/peliculas/720/shanghai.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg" group-title="Peliculas Viejas",Shanghai Kid del este al oeste (2000)
 http://vod.tuxchannel.mx/peliculas/720/shanghai%20noon.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvVNQStMlZS9mn2AKBEpadRunHgt.jpg" group-title="Peliculas Viejas",Shanghai Kid en Londres (2003)
