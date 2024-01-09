@@ -7,10 +7,6 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="BBB COMEÇA 08/01",BBB 24 COMEÇA 08/01
-http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="CONEXAO - BBB 24",Canal Aquecimento
 http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/94364
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="CONEXAO - BBB 24",CAM 01
