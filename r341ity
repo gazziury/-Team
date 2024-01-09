@@ -6,6 +6,9 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XKACrmy.jpeg" group-title="REALITY GRATIS",REALITY GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="TOUROBOX - BBB 24",CAM PRINCIPAL
+http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/1249
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="CONEXAO - BBB 24",Canal Aquecimento
 http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/94364
@@ -13,19 +16,15 @@ http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/94364
 http://joao-1-us.mainbkonline.shop:80/8623690767/8623695554/94553
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="TOUROBOX - BBB 24",CAM PRINCIPAL
-http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/1249
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 2 - BBB 24",Canal Aquecimento
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 1 - BBB 24",Canal Aquecimento
 http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/94364
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 2 - BBB 24",CAM 01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 1 - BBB 24",CAM 01
 http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/94553
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 3 - BBB 24",Canal Aquecimento
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 2 - BBB 24",Canal Aquecimento
 http://joao-1-us.mainbkonline.shop:80/q6774m70/w2q985fo/94364
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 3 - BBB 24",CAM 01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 2 - BBB 24",CAM 01
 http://joao-1-us.mainbkonline.shop:80/q6774m70/w2q985fo/94553
 
 
