@@ -6,6 +6,32 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XKACrmy.jpeg" group-title="REALITY GRATIS",REALITY GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",ACOMPANHE A CASA
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1194
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",BANHEIRO PANTENE
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1193
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",COZINHA
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1189
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",COZINHA DELICIA
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1192
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",JARDIM
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1191
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",MOSAICO
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1184
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",PISCINA
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1190
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",QUARTO FADA
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1186
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",QUARTO GNOMO
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1187
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",QUARTO MAGIA
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1185
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="XPLUS - BBB 24",SALA
+http://212.95.48.53:2095/Xplus-1-49L0xVJmAu/Rv0LjLtaLx/1188
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="TOUROBOX 1 - BBB 24",CAM PRINCIPAL
 http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/1249
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="TOUROBOX 1 - BBB 24",MOSAICO
@@ -84,9 +110,6 @@ http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/94560
 http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/94561
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 1 - BBB 24",CAM 10
 http://joao-1-us.mainbkonline.shop:80/6390124708pw/5486476126/94562
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 2 - BBB 24",MOSAICO
