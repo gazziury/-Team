@@ -7,6 +7,35 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",ACOMPANHE A CASA
+http://axr.life:80/687677/915588/2639994
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",MOSAICO
+http://axr.life:80/687677/915588/2649133
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 01
+http://axr.life:80/687677/915588/2649121
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 02
+http://axr.life:80/687677/915588/2649122
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 03
+http://axr.life:80/687677/915588/2649123
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 04
+http://axr.life:80/687677/915588/2649124
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 05
+http://axr.life:80/687677/915588/2649125
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 06
+http://axr.life:80/687677/915588/2649126
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 07
+http://axr.life:80/687677/915588/2649127
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 08
+http://axr.life:80/687677/915588/2649128
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 09
+http://axr.life:80/687677/915588/2649129
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 10
+http://axr.life:80/687677/915588/2649130
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 11
+http://axr.life:80/687677/915588/2649131
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",CAM 12
+http://axr.life:80/687677/915588/2649132
+
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="SELTZ - BBB 24",ACOMPANHE A CASA 1
 http://seltz.site:80/tc55j09y/b5tmqfvl/200120
