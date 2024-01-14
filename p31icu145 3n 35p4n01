@@ -9523,8 +9523,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20cowboys.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20avengers.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tazLyiF4q2w07jXjg4z4CQZgvY.jpg" group-title="Peliculas Viejas",Los viajes de Gulliver (2010)
 http://vod.tuxchannel.mx/peliculas/720/los%20viajes%20de%20gulliver.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7h7jnVwtvefnyvUDLVj05XuS45l.jpg" group-title="Peliculas Viejas",Luces rojas (2012)
-http://vod.tuxchannel.mx/peliculas/720/red%20lights.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg" group-title="Peliculas Viejas",Lucy (2014)
 http://vod.tuxchannel.mx/peliculas/720/lucy%202014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o2YrH9jS7CAfWjETHFeL0tth79E.jpg" group-title="Peliculas Viejas",Luna de miel en familia (2014)
@@ -9933,6 +9931,8 @@ http://vod.tuxchannel.mx/peliculas/720/peloton.mkv
 http://vod.tuxchannel.mx/peliculas/720/pocahontas.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xX9gmwtnTi0Y8WcTF7Jsg9Hdp6W.jpg" group-title="Peliculas Viejas",Poder absoluto (1997)
 http://vod.tuxchannel.mx/peliculas/720/absolute%20power.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7h7jnVwtvefnyvUDLVj05XuS45l.jpg" group-title="Peliculas Viejas",Poderes ocultos (2012)
+http://vod.tuxchannel.mx/peliculas/720/red%20lights.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8hj0RK53QQ4pvJA7FguG3VrjzT7.jpg" group-title="Peliculas Viejas",Poder sin límites (2012)
 http://vod.tuxchannel.mx/peliculas/720/chronicle.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2009/11/w1280/b5RM5P2AwYWOy2ec9MShUmTBYN9.jpg" group-title="Peliculas Viejas",Poema de salvación (2009)
