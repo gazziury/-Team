@@ -9869,6 +9869,8 @@ http://vod.tuxchannel.mx/peliculas/720/chinese%20zodiac.mkv
 http://archive.org/download/orca-la-ballena-asesina_202011/orca%20la%20ballena%20asesina.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg" group-title="Peliculas Viejas",Orgullo y prejuicio (2005)
 http://vod.tuxchannel.mx/peliculas/720/orgullo%20y%20prejuicio.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2P31jhd1dWUAPD8dmnSrwkQ8CNN.jpg" group-title="Peliculas Viejas",Orígenes (2014)
+http://vod.tuxchannel.mx/peliculas/720/origenes.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nTJNWBDhqucCYA3I0eeSyaZoag8.jpg" group-title="Peliculas Viejas",Orlando (1992)
 http://vod.tuxchannel.mx/peliculas/720/orlando%201992.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qvGJK3lFzpifAdyIupMNdWNX0qr.jpg" group-title="Peliculas Viejas",Otro planeta (2011)
@@ -10114,7 +10116,7 @@ http://vod.tuxchannel.mx/peliculas/720/the%20social%20network.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jiORLnBsGcVcqIibkGBE213zAyh.jpg" group-title="Peliculas Viejas",Red Tails: Escuadrón rojo (2012)
 http://vod.tuxchannel.mx/peliculas/720/red%20tails.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fq0RjelNIn0zEi9nhSqQgDTbmXux.jpg" group-title="Peliculas Viejas",Regresando a casa (2009)
-https://archive.org/download/regresando-a-casa-lat-id-25405/Regresando%20a%20Casa%20LAT%20id_25405.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg" group-title="Peliculas Viejas",Relatos salvajes (2014)
 http://vod.tuxchannel.mx/peliculas/720/relatos%20salvajes.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnOd6vjEmzCT0k4VYqsA2hwyi87C.jpg" group-title="Peliculas Viejas",Requiem por un sueño (2000)
