@@ -8051,6 +8051,8 @@ https://archive.org/download/button_202208/button.mp4
 http://vod.tuxchannel.mx/peliculas/720/el%20defensor.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg" group-title="Peliculas Viejas",El demoledor (1993)
 http://vod.tuxchannel.mx/peliculas/720/demolition%20man.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/olQInYvVCW2wycMSU1ogo9Jshml.jpg" group-title="Peliculas Viejas",El depósito (2014)
+http://vod.tuxchannel.mx/peliculas/720/the%20drop.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ym191nwtnc6pEkvLI254nteBlD.jpg" group-title="Peliculas Viejas",El desafío de los 7 magníficos (1972)
 http://vod.tuxchannel.mx/peliculas/720/the%20magnificent%20seven%20ride.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6fbqG49Q7IWBWdyJ7asNTcNbnG6.jpg" group-title="Peliculas Viejas",El descanso (2006)
@@ -9095,8 +9097,6 @@ http://vod.tuxchannel.mx/peliculas/720/ladrona%20de%20identidades.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20train%20robbers.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FonEHQY4M22CluNfocJRGsVg0dK6.jpg" group-title="Peliculas Viejas",La emboscada (1999)
 http://vod.tuxchannel.mx/peliculas/720/entrapment.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ehFOkPH0tRdbyghxGDR418Mgn9V.jpg" group-title="Peliculas Viejas",La entrega (2014)
-http://vod.tuxchannel.mx/peliculas/720/the%20drop.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3yTzCbjdfdpHpQ4mYPKD1lpJ6jz.jpg" group-title="Peliculas Viejas",La entrega inmediata (2012)
 http://vod.tuxchannel.mx/peliculas/720/la%20entrega%20inmediata.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg" group-title="Peliculas Viejas",La era del hielo 1 (2002)
