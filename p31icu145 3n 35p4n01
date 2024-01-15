@@ -9989,6 +9989,8 @@ http://vod.tuxchannel.mx/peliculas/720/dave%201993.mkv
 http://vod.tuxchannel.mx/peliculas/720/nightcrawler.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9X8bOLMeK6Lg6b0PNScZxUZSIes.jpg" group-title="Peliculas Viejas",Prisionera del espacio (2012)
 http://vod.tuxchannel.mx/peliculas/720/prisionera%20del%20espacio.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k1LDxbfSu7mCVhWf6byLAfFk1Pm.jpg" group-title="Peliculas Viejas",Prisioneros (2013)
+http://vod.tuxchannel.mx/peliculas/720/prisoners.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/m7nZCtHJyDLncBUarfM5h5mrppx.jpg" group-title="Peliculas Viejas",Prometheus (2012)
 http://vod.tuxchannel.mx/peliculas/720/prometheus.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F7SYBPjv5ywF6cI4BSFFtlDyChT2.jpg" group-title="Peliculas Viejas",Protegiendo al enemigo (2012)
