@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 incompletas
 
 http://series.tuxchannel.mx/series/echo/s_01_e_05.mkv
-http://series.tuxchannel.mx/series/reacher/s_02_e_03.mkv... 4 5 y 6 de INNOV
+http://series.tuxchannel.mx/series/reacher/s_02_e_07.mkv
 http://series.tuxchannel.mx/series/squid_game_the_challenge/s_01_e_09.mkv
 http://series.tuxchannel.mx/series/monarch_legacy_of_monsters/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/percy_jackson_and_the_olympians/s_01_e_04.mkv
@@ -8232,12 +8232,14 @@ http://series.tuxchannel.mx/series/reacher/s_02_e_01.mkv
 http://series.tuxchannel.mx/series/reacher/s_02_e_02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="Reacher T2",Cap. 03
 http://series.tuxchannel.mx/series/reacher/s_02_e_03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="Reacher T2",Cap. 04 INNOV
-https://tvinnov.online/SEIRES%202023/Reacher/2/18019.Reacher.S02E04.720p.WEBRip.Dual.Latino.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="Reacher T2",Cap. 05 INNOV
-https://tvinnov.online/SEIRES%202023/Reacher/2/17003.Reacher.S02E05.720p.WEBRip.Dual.Latino.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="Reacher T2",Cap. 06 INNOV
-https://tvinnov.online/SEIRES%202023/Reacher/2/2425.Reacher.S02E06.720p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="Reacher T2",Cap. 04
+http://series.tuxchannel.mx/series/reacher/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="Reacher T2",Cap. 05
+http://series.tuxchannel.mx/series/reacher/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="Reacher T2",Cap. 06
+http://series.tuxchannel.mx/series/reacher/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFuH0md41x5mB4qj5344mSmtHrO.jpg" group-title="Reacher T2",Cap. 07
+http://series.tuxchannel.mx/series/reacher/s_02_e_07.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8f/d1/78/8fd178d87947a9a6c5fe79c144c9b099.jpg" group-title="Retame",Cap. 01
 http://series.tuxchannel.mx/series/dare_me/s_01_e_01.mkv
