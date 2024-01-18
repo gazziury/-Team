@@ -6920,6 +6920,8 @@ http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/inside%20out.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/RTt4lgyTDI8JHMGbZGDDbcZmkM.jpg" group-title="2015",Ip Man 3 (2015)
 http://vod.tuxchannel.mx/peliculas/720/ip%20man%203.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lef7Fnj3gOoFKNYpuZ8qq1FBj55.jpg" group-title="2015",Jane tomó las armas (2015)
+http://vod.tuxchannel.mx/peliculas/720/jane%20got%20a%20gun.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q9sDzrrXhE39DQsg2bbP2YfaZjk.jpg" group-title="2015",Joy (2015)
 http://vod.tuxchannel.mx/peliculas/720/joy.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FzN80Tlly8oMpKbVJv2TfRIj8dHG.jpg" group-title="2015",Jugada salvaje (2015)
@@ -6972,8 +6974,6 @@ http://vod.tuxchannel.mx/peliculas/720/operator.mkv
 http://vod.tuxchannel.mx/peliculas/720/queen%20of%20the%20desert.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nnwEPTjrPZSDOegGAm8Ta6vJI1l.jpg" group-title="2015",La última chica (2015)
 http://vod.tuxchannel.mx/peliculas/720/the%20final%20girls.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lef7Fnj3gOoFKNYpuZ8qq1FBj55.jpg" group-title="2015",La venganza de Jane (2015)
-http://vod.tuxchannel.mx/peliculas/720/jane%20got%20a%20gun.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uuRFr7Jhsq7bITDyyvxZrQMAr9e.jpg" group-title="2015",La verdad oculta (2015)
 http://vod.tuxchannel.mx/peliculas/720/la%20verdad%20duele.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hDrToKMpKYTdwdpOhshL8ko6WVp.jpg" group-title="2015",La visita (2015)
