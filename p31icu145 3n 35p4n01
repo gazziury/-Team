@@ -6856,6 +6856,8 @@ http://vod.tuxchannel.mx/peliculas/720/el%20regalo.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20revenant.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bZL5HIV1nSOYgbXrSoahcfz2GBE.jpg" group-title="2015",El secreto de Adaline (2015)
 http://vod.tuxchannel.mx/peliculas/720/el%20secreto%20de%20adaline.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gJl4iTxQlazkPCplGmSLGBUwqg9.jpg" group-title="2015",El secreto de sus ojos (2015)
+http://vod.tuxchannel.mx/peliculas/720/secret%20in%20their%20eyes.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F7FlegRMzzGUKHpEuXGGF5jOiA6G.jpg" group-title="2015",El transportador: El legado (2015)
 http://vod.tuxchannel.mx/peliculas/720/the%20transporter%20refueled.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qXvOpA2nhK5HQ6I95sN3nnMtfjH.jpg" group-title="2015",El último cazador de brujas (2015)
@@ -7072,8 +7074,6 @@ http://vod.tuxchannel.mx/peliculas/720/results.mkv
 http://vod.tuxchannel.mx/peliculas/720/southpaw.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3sssz04D3lstpdPZXczEs8sOEvT.jpg" group-title="2015",Ricki and the Flash (2015)
 http://vod.tuxchannel.mx/peliculas/720/ricki%20and%20the%20flash.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gJl4iTxQlazkPCplGmSLGBUwqg9.jpg" group-title="2015",Secretos de una obsesión (2015)
-http://vod.tuxchannel.mx/peliculas/720/secret%20in%20their%20eyes.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg" group-title="2015",Sicario (2015)
 http://vod.tuxchannel.mx/peliculas/720/sicario.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h7tiNyuUlvgZ2W5BR3ryWdOg3K8.jpg" group-title="2015",Sincronicidad (2015)
