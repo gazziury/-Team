@@ -7044,6 +7044,8 @@ http://vod.tuxchannel.mx/peliculas/720/pan.mkv
 http://vod.tuxchannel.mx/peliculas/720/goosebumps.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9UoAC9tu8kIyRy8AcJnGhnH0gOH.jpg" group-title="2015",Pasante de moda (2015)
 http://vod.tuxchannel.mx/peliculas/720/the%20intern%202015.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnpyCpfYyYknFoY2iJPyfqp70FVX.jpg" group-title="2015",Persiguiendo a Abbot (2015)
+http://vod.tuxchannel.mx/peliculas/720/survivor.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rV5DzghQv6z6Yagak6ysKE77nuf.jpg" group-title="2015",Pixeles (2015)
 http://vod.tuxchannel.mx/peliculas/720/pixeles.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q94is4wMyWzDIMbdOzAAhk3oWqE.jpg" group-title="2015",Point Break: Sin límites (2015)
@@ -7086,8 +7088,6 @@ http://vod.tuxchannel.mx/peliculas/720/una%20espia%20despistada.mkv
 http://vod.tuxchannel.mx/peliculas/720/steve%20jobs.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/trUX7tdhDr3mzPFOvOE7pJpTa4D.jpg" group-title="2015",Sufragistas (2015)
 http://vod.tuxchannel.mx/peliculas/720/sufragistas.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnpyCpfYyYknFoY2iJPyfqp70FVX.jpg" group-title="2015",Survivor: Persiguiendo a Abbot (2015)
-http://vod.tuxchannel.mx/peliculas/720/survivor.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qMOt0uy1x49OBW0jzodgRM9waW0.jpg" group-title="2015",Ted 2 (2015)
 http://vod.tuxchannel.mx/peliculas/720/ted%202.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vvlNR34aejOLZkz7fXkkbKyBj5p.jpg" group-title="2015",Terminator 5 (2015)
