@@ -6521,6 +6521,8 @@ http://vod.tuxchannel.mx/peliculas/720/florence%20foster%20jenkins.mkv
 http://vod.tuxchannel.mx/peliculas/720/split.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fItgZrUw7iUAgQb4CGdSkfT3vlT.jpg" group-title="2016",Frank y Lola (2016)
 http://vod.tuxchannel.mx/peliculas/720/frank%20and%20lola.mkv
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/91b53fe5ff3b546a8e35c6d7c28194ee/images/gracenote/assets/p13266831_v_v12_ab.jpg" group-title="2016",Frantz (2016)
+http://vod.tuxchannel.mx/peliculas/720/frantz.mkv
 #EXTINF:-1 tvg-logo="https://metadata-static.plex.tv/f/gracenote/f1dcdd2e805694c3ee94c457507e49a1.jpg" group-title="2016",Fuego cruzado (2016)
 http://vod.tuxchannel.mx/peliculas/720/free%20fire.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg" group-title="2016",Gold: La gran estafa (2016)
