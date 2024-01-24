@@ -6176,8 +6176,6 @@ http://vod.tuxchannel.mx/peliculas/720/little%20evil.mkv
 http://vod.tuxchannel.mx/peliculas/720/pilgrimage.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qwoGfcg6YUS55nUweKGujHE54Wy.jpg" group-title="2017",Piratas del Caribe 5 (2017)
 http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwNTEzODUwMV5BMl5BanBnXkFtZTgwNjE5NjA5MjI@._V1_.jpg" group-title="2017",Plan de chicas (2017)
-http://vod.tuxchannel.mx/peliculas/720/girls%20trip.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc1YzExMzYtNzVkZC00ODc3LTkxNzktMDI5YWZmMDQ2NTQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_FMjpg_UX1000_.jpg" group-title="2017",Por eso lo llaman amor (2017)
 http://vod.tuxchannel.mx/peliculas/720/the%20big%20sick.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/3/w1280/dgsnZW7zyChQfAzCtmLlPp5twpl.jpg" group-title="2017",Power Rangers (2017)
@@ -6302,6 +6300,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20layover.mkv
 http://vod.tuxchannel.mx/peliculas/720/valerian%20and%20the%20city%20of%20a%20thousand%20planets.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fwB5C8c8HDLZwDl7PNvds1SbRbn.jpg" group-title="2017",Venganza del más allá (2017)
 http://vod.tuxchannel.mx/peliculas/720/revenge.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfM1h8CwtdileV3zlemXx7UWJjOP.jpg" group-title="2017",Viaje de chicas (2017)
+http://vod.tuxchannel.mx/peliculas/720/girls%20trip.mkv
 #EXTINF:-1 tvg-logo="https://vanguardia.com.mx/binrepository/691x1024/0c0/0d0/down-right/11604/LCMU/comes_at_night_VG3303426_MG2652938.jpg" group-title="2017",Viene de noche (2017)
 http://vod.tuxchannel.mx/peliculas/720/it%20comes%20at%20night.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/3/w1280/tXvvwqenhg8g0TfedoxMEd6W7cP.jpg" group-title="2017",Vigilante nocturno: Seguridad (2017)
