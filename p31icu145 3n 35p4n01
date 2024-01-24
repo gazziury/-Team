@@ -5972,6 +5972,8 @@ http://vod.tuxchannel.mx/peliculas/720/wonder.mkv
 http://vod.tuxchannel.mx/peliculas/720/fe%20de%20etarras.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg" group-title="2017",Feliz día de tu muerte (2017)
 http://vod.tuxchannel.mx/peliculas/720/happy%20death%20day.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5I7pWpVc9P2DLixuZKCsJXbbuvd.jpg" group-title="2017",Fuego cruzado (2017)
+http://vod.tuxchannel.mx/peliculas/720/free%20fire.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg" group-title="2017",Geotormenta (2017)
 http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg" group-title="2017",Godzilla: Planeta de monstruos (2017)
@@ -6547,8 +6549,6 @@ http://vod.tuxchannel.mx/peliculas/720/split.mkv
 http://vod.tuxchannel.mx/peliculas/720/frank%20and%20lola.mkv
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/global/id/91b53fe5ff3b546a8e35c6d7c28194ee/images/gracenote/assets/p13266831_v_v12_ab.jpg" group-title="2016",Frantz (2016)
 http://vod.tuxchannel.mx/peliculas/720/frantz.mkv
-#EXTINF:-1 tvg-logo="https://metadata-static.plex.tv/f/gracenote/f1dcdd2e805694c3ee94c457507e49a1.jpg" group-title="2016",Fuego cruzado (2016)
-http://vod.tuxchannel.mx/peliculas/720/free%20fire.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg" group-title="2016",Gold: La gran estafa (2016)
 http://vod.tuxchannel.mx/peliculas/720/gold.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F7FXWOKxJmVRUO5oP7qXQXaJmvHg.jpg" group-title="2016",Guardián y verdugo (2016)
