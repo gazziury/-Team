@@ -6280,6 +6280,8 @@ http://vod.tuxchannel.mx/peliculas/720/solo%20se%20vive%20una%20vez.mkv
 http://vod.tuxchannel.mx/peliculas/720/spider%20man%20homecoming.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/12/w1280/rjBwhsOzHKUw2NIOrE7aMqjfe6s.jpg" group-title="2017",Star Wars: El último Jedi (2017)
 http://vod.tuxchannel.mx/peliculas/720/star%20wars%20the%20last%20jedi.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmibBHS9mVV2z5rdeFdOkH94Sw1c.jpg" group-title="2017",Stratton: Fuerzas especiales (2017)
+http://vod.tuxchannel.mx/peliculas/720/stratton.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/dL1GOIX3gs3GzZLDs4mg3fjjUOV.jpg" group-title="2017",Suburbicon: Bienvenidos al paraiso (2017)
 http://vod.tuxchannel.mx/peliculas/720/suburbicon.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgzNDQ5NTE0OV5BMl5BanBnXkFtZTgwOTk0ODM5NjE@._V1_.jpg" group-title="2017",Sueño en otro idioma (2017)
@@ -6883,8 +6885,6 @@ http://vod.tuxchannel.mx/peliculas/720/before%20i%20wake.mkv
 http://vod.tuxchannel.mx/peliculas/720/star%20trek%20beyond.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fvlw625tmRD1qFIy4JiOZzQKc98P.jpg" group-title="2016",Strange weather: Clima extraño (2016)
 http://vod.tuxchannel.mx/peliculas/720/strange%20weather.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmibBHS9mVV2z5rdeFdOkH94Sw1c.jpg" group-title="2016",Stratton: Fuerzas especiales (2016)
-http://vod.tuxchannel.mx/peliculas/720/stratton.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r09ivJ1GGh5WArqRViRYDQLrTVG.jpg" group-title="2016",Sully: Hazaña en el Hudson (2016)
 http://vod.tuxchannel.mx/peliculas/720/sully.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tFHifAC1Z1geJqYh1LuBe3HhWcp.jpg" group-title="2016",Su mejor historia (2016)
