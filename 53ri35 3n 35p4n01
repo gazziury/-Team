@@ -3774,6 +3774,19 @@ http://series.tuxchannel.mx/series/the_bear/s_02_e_09.mkv
 #EXTINF:-1 tvg-logo="https://images.ecestaticos.com/qK5n1O7rz64p3-fxln7OTasdcmA=/4x14:816x1097/1440x1920/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faa1%2F8b1%2Fb11%2Faa18b1b1105f13c2538989c18ba62c16.jpg" group-title="El Oso T2",Cap. 10
 http://series.tuxchannel.mx/series/the_bear/s_02_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41zWSuiKPe3GkIzzWjXMW9u1DOL.jpg" group-title="El otro lado",Cap. 01
+http://series.tuxchannel.mx/series/el_otro_lado/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41zWSuiKPe3GkIzzWjXMW9u1DOL.jpg" group-title="El otro lado",Cap. 02
+http://series.tuxchannel.mx/series/el_otro_lado/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41zWSuiKPe3GkIzzWjXMW9u1DOL.jpg" group-title="El otro lado",Cap. 03
+http://series.tuxchannel.mx/series/el_otro_lado/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41zWSuiKPe3GkIzzWjXMW9u1DOL.jpg" group-title="El otro lado",Cap. 04
+http://series.tuxchannel.mx/series/el_otro_lado/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41zWSuiKPe3GkIzzWjXMW9u1DOL.jpg" group-title="El otro lado",Cap. 05
+http://series.tuxchannel.mx/series/el_otro_lado/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41zWSuiKPe3GkIzzWjXMW9u1DOL.jpg" group-title="El otro lado",Cap. 06
+http://series.tuxchannel.mx/series/el_otro_lado/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Presidente",TRAILER
 https://archive.org/download/trailer-3l-pr-3s-1d-3nt-3/trailer%203l%20Pr3s1d3nt3.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/13/17/09/5151015.jpg" group-title="El Presidente",Cap. 01
