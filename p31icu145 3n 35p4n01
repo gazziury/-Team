@@ -4696,8 +4696,6 @@ http://vod.tuxchannel.mx/peliculas/720/captain%20marvel%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/castle%20in%20the%20ground%202021.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaCNch5FmzT2WaUcY44925owIZXY.jpg" group-title="2019",Cats (2019)
 http://vod.tuxchannel.mx/peliculas/720/cats%202019.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/8/w1280/r88kb8Sq3NY8YhnG2gAx7ExtVkk.jpg" group-title="2019",Cegado por la luz (2019)
-http://vod.tuxchannel.mx/peliculas/720/blinded%20by%20the%20light%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/4/w1280/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg" group-title="2019",Cementerio de animales (2019)
 http://vod.tuxchannel.mx/peliculas/720/pet%20sematary%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/8/w1280/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg" group-title="2019",Chicos buenos (2019)
@@ -4986,6 +4984,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20courier%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/la%20misma%20sangre%202019.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA2NjRkNTktMDg3YS00OTVhLTlmOGMtYWZkMGQyYjVhZjJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="2019",La música del terremoto (2019)
 http://vod.tuxchannel.mx/peliculas/720/earthquake%20bird%202019.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vdWzIFpiUcV2uNGUrmgbtyNK2I0.jpg" group-title="2019",La música de mi vida (2019)
+http://vod.tuxchannel.mx/peliculas/720/blinded%20by%20the%20light%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/5/w1280/gOTCGleMERuAUhNAq2MIYybrgnC.jpg" group-title="2019",La noche de las nerds (2019)
 http://vod.tuxchannel.mx/peliculas/720/booksmart%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/8/w1280/8rVakDWkFn1G0z6e1tRRY5IZ3aa.jpg" group-title="2019",La odisea de los giles (2019)
