@@ -4854,6 +4854,8 @@ http://vod.tuxchannel.mx/peliculas/720/wine%20country%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/once%20upon%20a%20time%20in%20hollywood%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/1/w1280/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg" group-title="2019",Escape room 1: Sin salida (2019)
 http://vod.tuxchannel.mx/peliculas/720/escape%20room%202019.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F05d50d524c6495e4fedf6ee9a819fcfe.jpg" group-title="2019",Escolta (2019)
+http://vod.tuxchannel.mx/peliculas/720/close.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/12/w1280/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" group-title="2019",Escuadrón 6 en la sombra (2019)
 http://vod.tuxchannel.mx/peliculas/720/6%20underground%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/10/w1280/u5WXXG7rlQtEguIFVnrTBldRjXM.jpg" group-title="2019",Escuadrón de la muerte (2019)
@@ -4954,8 +4956,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20dustwalker%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/lady%20and%20the%20tramp%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/9/w1280/cakv43jU7HVGumL0iQ56ejEl3gL.jpg" group-title="2019",La decisión (2019)
 http://vod.tuxchannel.mx/peliculas/720/blackbird%202019.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/1/w1280/rdah0UpjZmy8OAsSuYWVz1aMH7L.jpg" group-title="2019",La escolta (2019)
-http://vod.tuxchannel.mx/peliculas/720/close.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/10/w1280/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg" group-title="2019",La familia Addams (2019)
 http://vod.tuxchannel.mx/peliculas/720/the%20addams%20family%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/11/w1280/2Klf04VFYCl0TKwulXVlGsSRN78.jpg" group-title="2019",La gran mentira (2019)
