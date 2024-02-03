@@ -4674,6 +4674,8 @@ http://vod.tuxchannel.mx/peliculas/720/anna%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/point%20blank%202019.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA1ZTU4ZTYtYzNjMS00NGY2LTk1NTEtZGY3MzY1ZTY0OWJlXkEyXkFqcGdeQXVyMTA1Njg0NjI2._V1_FMjpg_UX1000_.jpg" group-title="2019",Araña (2019)
 http://vod.tuxchannel.mx/peliculas/720/arana%202019.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uGMIxhhMvQEE0mNlATXpEAG4mgl.jpg" group-title="2019",A sangre fría (2019)
+http://vod.tuxchannel.mx/peliculas/720/cold%20blood%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/11/w1280/ofpee59pHR3316IPC2ncHX2qDFE.jpg" group-title="2019",Badland: Tierra de bravos (2019)
 http://vod.tuxchannel.mx/peliculas/720/badland%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/7/w1280/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg" group-title="2019",Batman: Hush (2019)
@@ -4708,8 +4710,6 @@ http://vod.tuxchannel.mx/peliculas/720/clemency%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/yummy%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/12/w1280/izGX7npHEopDQvngYcxMJEfcFbj.jpg" group-title="2019",Codigo 8 (2019)
 http://vod.tuxchannel.mx/peliculas/720/code%208%202019.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/5/w1280/8UElHPbyw7c7lcqR5bqhlemiQMr.jpg" group-title="2019",Cold blood: A sangre fría (2019)
-http://vod.tuxchannel.mx/peliculas/720/cold%20blood%202019.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzcxODYyNzQtZjM2Ny00ODcxLTljZGEtN2E1Nzk1ODUzODUwXkEyXkFqcGdeQXVyMTAzMTY0MTQ2._V1_.jpg" group-title="2019",Conoces a Tomás? (2019)
 http://vod.tuxchannel.mx/peliculas/720/conoces%20a%20tomas%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/1/w1280/LxLwlh4cP3HNj8dnHqlf5BUCpZ.jpg" group-title="2019",Con todos los honores (2019)
