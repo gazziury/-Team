@@ -5204,6 +5204,8 @@ http://vod.tuxchannel.mx/peliculas/720/synchronic%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/paw%20patrol%20ready%20race%20rescue%202019.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81PnZVIBbJL._SL1500_.jpg" group-title="2019",Pequeña otra vez (2019)
 http://vod.tuxchannel.mx/peliculas/720/little%202019.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/btTzRshPDb5j9xXlxnJvFEm2KuV.jpg" group-title="2019",Perdida (2019)
+http://vod.tuxchannel.mx/peliculas/720/perdida.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJlNzA4OGQtYjJjNS00ZDljLTgwOGEtYzU4ODhiMDFhYTllXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg" group-title="2019",Persiguiendo un sueño (2019)
 http://vod.tuxchannel.mx/peliculas/720/ride%20like%20a%20girl%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/1/w1280/gWvRsfRh51vvpii5fh9a6rhS7Ib.jpg" group-title="2019",Pesadilla al amanecer (2019)
@@ -5851,8 +5853,6 @@ http://vod.tuxchannel.mx/peliculas/720/patient%20zero.mkv
 http://vod.tuxchannel.mx/peliculas/720/pajaros%20de%20verano%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/2/w1280/qjarBufG0iUqr1IvJUK8AJnpTIR.jpg" group-title="2018",Pantera Negra (2018)
 http://vod.tuxchannel.mx/peliculas/720/black%20panther.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRlYzQ1Y2ItNDY4YS00NzA5LTgxYTEtMTc2M2E2MmVlNjFjXkEyXkFqcGdeQXVyMTAyMDQ2ODcz._V1_.jpg" group-title="2018",Perdida (2018)
-http://vod.tuxchannel.mx/peliculas/720/perdida.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwMmI4YzUtZGI2Mi00M2MwLWIyMmMtZWYzMWZmNzAyNmYwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="2018",Perdón por molestarte (2018)
 http://vod.tuxchannel.mx/peliculas/720/sorry%20to%20bother%20you%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/3/w1280/4xkIdNQvfmhorUl7TlJXdjARpi2.jpg" group-title="2018",Persecución explosiva (2018)
