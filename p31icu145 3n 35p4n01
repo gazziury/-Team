@@ -4700,6 +4700,8 @@ http://vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/someone%20great%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/1/w1280/quWP5VIzTUf0Hr8AJZLloM6js8I.jpg" group-title="2019",Alita: Angel de combate (2019)
 http://vod.tuxchannel.mx/peliculas/720/alita%20battle%20angel%202019.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dkUxVISgn7eSX19JWoe5d35HW7u.jpg" group-title="2019",Alma guerrera (2019)
+http://vod.tuxchannel.mx/peliculas/720/viking%20blood%202019.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQxZTRmNWMtOGU4NC00YTI5LWJkYWYtMzBiMmIwMWEzZDIwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_FMjpg_UX1000_.jpg" group-title="2019",Alucinaciones del pasado 2 (2019)
 http://vod.tuxchannel.mx/peliculas/720/jacobs%20ladder%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/11/w1280/1ZUNyvVGTPkeBVXXTMnhIRoXlfo.jpg" group-title="2019",Al volante (2019)
@@ -5350,8 +5352,6 @@ http://vod.tuxchannel.mx/peliculas/720/overcomer%202019.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/2/w1280/tfZClfVlLJI6RWjKlMBiuvosYEy.jpg" group-title="2019",Venganza bajo cero (2019)
 http://vod.tuxchannel.mx/peliculas/720/cold%20pursuit%202019.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dkUxVISgn7eSX19JWoe5d35HW7u.jpg" group-title="2019",Viking blood (2019)
-http://vod.tuxchannel.mx/peliculas/720/viking%20blood%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/9/w1280/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg" group-title="2019",Vivero (2019)
 http://vod.tuxchannel.mx/peliculas/720/vivarium%202019.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/9/w1280/5ACJu8n3KaJSzM5nmGaA5q6VkH3.jpg" group-title="2019",Vivir dos veces (2019)
