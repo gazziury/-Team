@@ -6837,6 +6837,8 @@ http://vod.tuxchannel.mx/peliculas/720/en%20nombre%20del%20amor.mkv
 http://vod.tuxchannel.mx/peliculas/720/suicide%20squad.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r2luFFC9ZkJFmS11E8d07RsHm3r.jpg" group-title="2016",Espía por error (2016)
 http://vod.tuxchannel.mx/peliculas/720/grimsby.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg" group-title="2016",Estación zombie 1: Tren a Busan (2016)
+http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg" group-title="2016",Este es tu momento (2016)
 http://vod.tuxchannel.mx/peliculas/720/sing%20street.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sQPkqwW4qh5fKbSI8V12wc8ZMlJ.jpg" group-title="2016",Enviados muy especiales (2016)
@@ -7159,8 +7161,6 @@ http://vod.tuxchannel.mx/peliculas/720/all%20the%20way.mkv
 http://vod.tuxchannel.mx/peliculas/720/teenage%20mutant%20ninja%20turtles%20out%20of%20the%20shadows.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmUEX2vXWGnevzBD8NZQ3pBHfbio.jpg" group-title="2016",Traded: Rescate en el oeste (2016)
 http://vod.tuxchannel.mx/peliculas/720/traded%202016.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg" group-title="2016",Tren a Busan (2016)
-http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhMW4p1CBF8Q94PqQk8b2EyT4IJk.jpg" group-title="2016",Triple 9 (2016)
 http://vod.tuxchannel.mx/peliculas/720/triple%209.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg" group-title="2016",Trolls 1 (2016)
