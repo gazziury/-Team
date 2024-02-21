@@ -7,6 +7,30 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",MOSAICO
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 01
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94553
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 02
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94554
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 03
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94555
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 04
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94556
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 05
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94557
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 06
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94558
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 07
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94554
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 08
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94555
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 09
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94556
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="STAK - BBB 24",CAM 10
+http://blacktv.syscdn.xyz:80/3I65P2KKpj4/20EXXQeI3HO/94557
+
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",ACOMPANHE A CASA
 http://axr.life:80/687677/915588/2639994
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/6sWvorO.jpeg" group-title="AXR - BBB 24",MOSAICO
@@ -151,28 +175,4 @@ http://joao-1-us.mainbkonline.shop:80/q6774m70/w2q985fo/94560
 http://joao-1-us.mainbkonline.shop:80/q6774m70/w2q985fo/94561
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="JOAO 2 - BBB 24",CAM 10
 http://joao-1-us.mainbkonline.shop:80/q6774m70/w2q985fo/94562
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",MOSAICO
-http://dns.panela.online:80/amandafr/amdfr0064/358715
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 01
-http://dns.panela.online:80/amandafr/amdfr0064/358716
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 02
-http://dns.panela.online:80/amandafr/amdfr0064/358717
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 03
-http://dns.panela.online:80/amandafr/amdfr0064/358718
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 04
-http://dns.panela.online:80/amandafr/amdfr0064/358719
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 05
-http://dns.panela.online:80/amandafr/amdfr0064/358720
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 06
-http://dns.panela.online:80/amandafr/amdfr0064/358721
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 07
-http://dns.panela.online:80/amandafr/amdfr0064/358722
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 08
-http://dns.panela.online:80/amandafr/amdfr0064/358723
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 09
-http://dns.panela.online:80/amandafr/amdfr0064/358724
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png" group-title="PANELA - BBB 24",CAM 10
-http://dns.panela.online:80/amandafr/amdfr0064/358725
 
