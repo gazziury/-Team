@@ -2749,8 +2749,6 @@ http://vod.tuxchannel.mx/peliculas/720/south%20of%20heaven%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/a%20world%20without%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/6/w1280/AnRGjlewyTZj9lfZv3WM9ZTIXRD.jpg" group-title="2021",Amenaza explosiva (2021)
 http://vod.tuxchannel.mx/peliculas/720/balsinjehan%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjJhMjdlNDktNTAyZC00MDRmLTk0NmEtYmFhNTU3NDlhMDc5XkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_FMjpg_UX1000_.jpg" group-title="2021",American Badger: El asesino americano (2021)
-http://vod.tuxchannel.mx/peliculas/720/american%20badger%202021.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE4ODBjNDItYTE1MC00ODg1LTg5MzUtZDRkY2ZiZjQyYTgzXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" group-title="2021",American Underdog: La historia de Kurt Warner (2021)
 http://vod.tuxchannel.mx/peliculas/720/american%20underdog%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/4/w1280/mgMZXZM6KMAMzfDygA0P0qztN1v.jpg" group-title="2021",Amigas para siempre (2021)
@@ -2993,6 +2991,8 @@ http://vod.tuxchannel.mx/peliculas/720/levenement%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/el%20amarre%202020.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/1/w1280/rexHPVJLZxTMTSRIsEjelkhk0Td.jpg" group-title="2021",El ascensor (2021)
 http://vod.tuxchannel.mx/peliculas/720/el%20ascensor%202021.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xoNWf2GnEF87a8SbpB1NvhX2zr0.jpg" group-title="2021",El asesino americano (2021)
+http://vod.tuxchannel.mx/peliculas/720/american%20badger%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/lmIibRnjWDg56Rsx0KY1Y1U0wok.jpg" group-title="2021",El arma del engaño (2021)
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/3/w1280/3F4rrXcrS0XN5vQ5PRMvxg0yLou.jpg" group-title="2021",El atrapa sueños (2021)
