@@ -8,6 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 incompletas
 
+http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/masters_of_the_air/s_01_e_03.mkv
 http://series.tuxchannel.mx/series/reacher/s_02_e_07.mkv
 http://series.tuxchannel.mx/series/squid_game_the_challenge/s_01_e_09.mkv
@@ -6274,6 +6275,19 @@ http://series.tuxchannel.mx/series/la_muchacha_que_limpia/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/la_muchacha_que_limpia/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/6/w1280/dqA2I1n8ENsnRaorTWD3VbXksEI.jpg" group-title="La muchacha que limpia T1",Cap. 08
 http://series.tuxchannel.mx/series/la_muchacha_que_limpia/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2DEa0Bz3j9ZhPRdBmNyco38OR6p.jpg" group-title="La muerte y otros detalles",Cap. 01 (SUB)
+http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2DEa0Bz3j9ZhPRdBmNyco38OR6p.jpg" group-title="La muerte y otros detalles",Cap. 02 (SUB)
+http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2DEa0Bz3j9ZhPRdBmNyco38OR6p.jpg" group-title="La muerte y otros detalles",Cap. 03 (SUB)
+http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2DEa0Bz3j9ZhPRdBmNyco38OR6p.jpg" group-title="La muerte y otros detalles",Cap. 04 (SUB)
+http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2DEa0Bz3j9ZhPRdBmNyco38OR6p.jpg" group-title="La muerte y otros detalles",Cap. 05 (SUB)
+http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2DEa0Bz3j9ZhPRdBmNyco38OR6p.jpg" group-title="La muerte y otros detalles",Cap. 06 (SUB)
+http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La mujer del Diablo T1",TRAILER
 https://archive.org/download/trailer-l-4-muj-3r-d-3l-d-14bl-0/Trailer%20L4%20Muj3r%20d3l%20D14bl0.mp4
