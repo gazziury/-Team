@@ -3103,8 +3103,6 @@ http://vod.tuxchannel.mx/peliculas/720/emesis%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/encanto%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/1/w1280/a1QClTDR4Sc8Aa10mSPEUSJzUCi.jpg" group-title="2021",Encarcelado (2021)
 http://vod.tuxchannel.mx/peliculas/720/caged%202021.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDlhNWZiMjQtMmY0OC00YTViLWI5NjktYjA5YzE4NThiZDNlXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg" group-title="2021",Encounter: La invasión (2021)
-http://vod.tuxchannel.mx/peliculas/720/encounter%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/2/w1280/83l5qPth1XnfYjWRF2OUxTqEX7Q.jpg" group-title="2021",Endgame: Robo de identidad (2021)
 http://vod.tuxchannel.mx/peliculas/720/ren%20chao%20xiong%20yong%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/10/w1280/sWbdm6z0RjH8Aeb0gRaqJPjXr6b.jpg" group-title="2021",En el mejor momento (2021)
@@ -3331,6 +3329,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20lost%20daughter%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/american%20underdog%202021.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2p9ATFUEiXT75LmMsSCBicnpX8e.jpg" group-title="2021",La huésped maldita (2021)
 http://vod.tuxchannel.mx/peliculas/720/martyrs%20lane%202021.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tUkY0WxffPZ9PoyC62PIyyUMGnt.jpg" group-title="2021",La invasión (2021)
+http://vod.tuxchannel.mx/peliculas/720/encounter%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/8/w1280/lthWL35rQlNbb9UAv44KEhKNEOX.jpg" group-title="2021",La isla negra (2021)
 http://vod.tuxchannel.mx/peliculas/720/schwarze%20insel%202021.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ1YmVlOTMtMmFhNi00M2ZmLTliODktYjI3MTAyZWJlODM3XkEyXkFqcGdeQXVyMTA3Mzk2MTc1._V1_FMjpg_UX1000_.jpg" group-title="2021",La leyenda de Lantern’s Lane (2021)
