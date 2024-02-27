@@ -2310,8 +2310,6 @@ http://vod.tuxchannel.mx/peliculas/720/objetos%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/watcher%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3yltwPNHAoi69AUCl4bSEfUrbh5.jpg" group-title="2022",Obsesión desconocida (2022)
 http://vod.tuxchannel.mx/peliculas/720/significant%20other%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/11/w1280/mm7vCE7CNyjQpRu8SLGjRl5FMMF.jpg" group-title="2022",One shot: Misión de rescate (2022)
-http://vod.tuxchannel.mx/peliculas/720/one%20shot%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/n3Ca0yus9pFVzADeZDRtAXm69xY.jpg" group-title="2022",Ovni (2022)
 http://vod.tuxchannel.mx/peliculas/720/ufo%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/k2v9xSPtiyxCNxaRGtj7COwdgG3.jpg" group-title="2022",Padre no hay más que uno 3 (2022)
@@ -3819,7 +3817,9 @@ http://vod.tuxchannel.mx/peliculas/720/trolls%20holiday%20in%20harmony%202021.mk
 http://vod.tuxchannel.mx/peliculas/720/tu%20eres%20mi%20problema%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/1/w1280/7sXthW46RwmPBdacGHnhOzLv40d.jpg" group-title="2021",Twist (2021)
 http://vod.tuxchannel.mx/peliculas/720/twist%202021.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/1/w1280/2GQ3k3KmG0LI8Z4uCcGAsGQn6Ky.jpg" group-title="2021",Ultimas noticias en Yuba County (2021)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/11/w1280/mm7vCE7CNyjQpRu8SLGjRl5FMMF.jpg" group-title="2021",Última bala (2021)
+http://vod.tuxchannel.mx/peliculas/720/one%20shot%202021.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/1/w1280/2GQ3k3KmG0LI8Z4uCcGAsGQn6Ky.jpg" group-title="2021",Últimas noticias en Yuba County (2021)
 http://vod.tuxchannel.mx/peliculas/720/breaking%20news%20in%20yuba%20county%202021.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg" group-title="2021",Último tren a Navidad (2021)
 http://vod.tuxchannel.mx/peliculas/720/last%20train%20to%20christmas%202021.mkv
