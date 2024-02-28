@@ -1794,6 +1794,8 @@ http://vod.tuxchannel.mx/peliculas/720/el%20monte%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/ta%20igara%20an%20adventure%20in%20the%20himalayas%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/5Y9h7BNjm3PgR0mk6XjGszaRoWa.jpg" group-title="2022",El norte sobre el vacío (2022)
 http://vod.tuxchannel.mx/peliculas/720/el%20norte%20sobre%20el%20vacio%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg" group-title="2022",El observador (2022)
+http://vod.tuxchannel.mx/peliculas/720/watcher%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/9uTx9dGdLtT4N6CumP32YSc1LqN.jpg" group-title="2022",El paciente (2022)
 http://vod.tuxchannel.mx/peliculas/720/le%20patient%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/wuhRy3B36plwnAxAUKD0AgzZC7a.jpg" group-title="2022",El padre de la novia (2022)
@@ -2312,8 +2314,6 @@ http://vod.tuxchannel.mx/peliculas/720/dont%20worry%20darling%202022.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/ejijnP0sOr4Fgxo5CYWT6rz3ZdG.jpg" group-title="2022",Objetos (2022)
 http://vod.tuxchannel.mx/peliculas/720/objetos%202022.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE2ZWNiM2MtMTlhZC00Njg1LThiYjItNGQ2MmRhMjZkMjMyXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="2022",Observada (2022)
-http://vod.tuxchannel.mx/peliculas/720/watcher%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3yltwPNHAoi69AUCl4bSEfUrbh5.jpg" group-title="2022",Obsesión desconocida (2022)
 http://vod.tuxchannel.mx/peliculas/720/significant%20other%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/n3Ca0yus9pFVzADeZDRtAXm69xY.jpg" group-title="2022",Ovni (2022)
