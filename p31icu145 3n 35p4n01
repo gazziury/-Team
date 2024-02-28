@@ -1770,6 +1770,8 @@ http://vod.tuxchannel.mx/peliculas/720/empire%20of%20light%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20bunker%20game%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/gxPJZuIBeesHi5gkxtvvXboJ420.jpg" group-title="2022",Ella lo hará (2022)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5bWvnZiFEJMkt71HnqVWYn9L6jM.jpg" group-title="2022",Ellas hablan (2022)
+http://vod.tuxchannel.mx/peliculas/720/women%20talking%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/wmV65p9u3aET87uZL2eq4hzcUtv.jpg" group-title="2022",El libro del amor (2022)
 http://vod.tuxchannel.mx/peliculas/720/book%20of%20love%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/scgxYi3icXpwNDEQBEojkkCqxrW.jpg" group-title="2022",El matador: Misión rescate (2022)
