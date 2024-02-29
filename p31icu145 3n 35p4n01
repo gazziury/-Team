@@ -1516,8 +1516,6 @@ http://vod.tuxchannel.mx/peliculas/720/babylon%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/cha%20cha%20real%20smooth%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/oASbLpyFkZ0L3cQkSvEnNjkYurG.jpg" group-title="2022",Bajo el sol amalfitano (2022)
 http://vod.tuxchannel.mx/peliculas/720/sotto%20il%20sole%20di%20amalfi%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/5goN1qeWkD2Oq8XA6cw7VgeKXmy.jpg" group-title="2022",Bandido: El atracador perfecto (2022)
-http://vod.tuxchannel.mx/peliculas/720/bandit%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/1YyGqOsEkWjdkBMeUrxhtiLRvlD.jpg" group-title="2022",Bárbaro (2022)
 http://vod.tuxchannel.mx/peliculas/720/barbarian%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/aDujpqDAUkpDSeJoCXaFwMyLsmL.jpg" group-title="2022",Barbie: Poder de sirena (2022)
@@ -1704,6 +1702,8 @@ http://vod.tuxchannel.mx/peliculas/720/senior%20year%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/rise%20of%20the%20teenage%20mutant%20ninja%20turtles%20the%20movie%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg" group-title="2022",El asedio de Silverton (2022)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg" group-title="2022",El bandido perfecto (2022)
+http://vod.tuxchannel.mx/peliculas/720/bandit%202022.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU2ODY2M2YtZWM3ZS00NzJiLTg2YzEtY2M1ODNhMGJmZDdjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="2022",El bar de las grandes esperanzas (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20tender%20bar%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/w1Pg71Z60BweXmJui2H8o49MohO.jpg" group-title="2022",El buen vecino (2022)
