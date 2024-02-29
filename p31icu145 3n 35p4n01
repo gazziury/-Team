@@ -2092,8 +2092,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20woman%20king%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/la%20nave%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/8tc8eMFAX2SDC1TRu987qFQy8Cl.jpg" group-title="2022",La octava cláusula (2022)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZhY2FkNjktMDQ5NS00ZDdlLWE0NTAtNTIzZGZlYzQ0NjNjXkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_.jpg" group-title="2022",La ofrenda al demonio (2022)
-http://vod.tuxchannel.mx/peliculas/720/the%20offering%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/5Ta0JtomLNL3qQsBmrog6ZB5DDk.jpg" group-title="2022",La osa polar (2022)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg2YmRjMjQtOTU3ZC00YjNiLWI1MmEtNTc4M2Y1NWFmZWFlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg" group-title="2022",La pajarera (2022)
@@ -2320,6 +2318,8 @@ http://vod.tuxchannel.mx/peliculas/720/dont%20worry%20darling%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/objetos%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3yltwPNHAoi69AUCl4bSEfUrbh5.jpg" group-title="2022",Obsesión desconocida (2022)
 http://vod.tuxchannel.mx/peliculas/720/significant%20other%202022.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F0baf652c3b1c7f917a14f35f17188d8e.jpg" group-title="2022",Ofrenda al demonio (2022)
+http://vod.tuxchannel.mx/peliculas/720/the%20offering%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tDe5eLxAbeK7sYckUn5aH3ngWnn.jpg" group-title="2022",Operación Hunt (2022)
 http://vod.tuxchannel.mx/peliculas/720/hunt%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/n3Ca0yus9pFVzADeZDRtAXm69xY.jpg" group-title="2022",Ovni (2022)
