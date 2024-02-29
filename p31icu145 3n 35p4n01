@@ -1564,8 +1564,6 @@ http://vod.tuxchannel.mx/peliculas/720/on%20the%20other%20foot%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/family%20camp%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mcIYHZYwUbvhvUt8Lb5nENJ7AlX.jpg" group-title="2022",Cangrejo negro (2022)
 http://vod.tuxchannel.mx/peliculas/720/black%20crab%202022.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/prINReSbCkoktcRbrIgmbY4f0tp.jpg" group-title="2022",Capitán Nova (2022)
-http://vod.tuxchannel.mx/peliculas/720/captain%20nova%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg" group-title="2022",Carretera del paraiso (2022)
 http://vod.tuxchannel.mx/peliculas/720/paradise%20highway%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/7EOVeD2fCn4KS4pi7pjwOZCewl4.jpg" group-title="2022",Carter (2022)
@@ -2879,6 +2877,8 @@ http://vod.tuxchannel.mx/peliculas/720/candyman%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/sing%202%202021.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a0R1Ybj3m4M4ZeztizD7F6fmPCE.jpg" group-title="2021",Caos: El inicio (2021)
 http://vod.tuxchannel.mx/peliculas/720/chaos%20walking%202021.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/prINReSbCkoktcRbrIgmbY4f0tp.jpg" group-title="2021",Capitán Nova (2021)
+http://vod.tuxchannel.mx/peliculas/720/captain%20nova%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/12/w1280/bLZhgPtOLHr2dmr2mHS0DbHYvv2.jpg" group-title="2021",Cariño cuanto te odio (2021)
 http://vod.tuxchannel.mx/peliculas/720/the%20hating%20game%202021.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/4/w1280/tb1nMuUr2YzpRJ79sU0Rk7BYtnx.jpg" group-title="2021",Casi separados (2021)
