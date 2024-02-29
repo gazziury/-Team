@@ -1834,8 +1834,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20system%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/el%20sistema%20keops%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/oZWJ20tGWZ5xO9CrTCVavmDRy7J.jpg" group-title="2022",El sobreviviente (2022)
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/3/w1280/1HKmjUItpo5HRdtQtmWx4RwoRCh.jpg" group-title="2022",El sótano: Escalera al infierno (2022)
-http://vod.tuxchannel.mx/peliculas/720/the%20cellar%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fmetadata-static.plex.tv%2Ff%2Fgracenote%2Ffba6d5284751366b4216a672c0214994.jpg" group-title="2022",El suplente (2022)
 http://vod.tuxchannel.mx/peliculas/720/el%20suplente%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/aERrzPJyUYAhmbies50dMz21W4u.jpg" group-title="2022",El teléfono del señor Harrigan (2022)
@@ -1880,6 +1878,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20in%20between%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/three%20thousand%20years%20of%20longing%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/rMp04rYhy4yfOfjZq5F9R3wkeqo.jpg" group-title="2022",Erax (2022)
 http://vod.tuxchannel.mx/peliculas/720/erax%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg" group-title="2022",Escalera al infierno (2022)
+http://vod.tuxchannel.mx/peliculas/720/the%20cellar%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/iyYibVfi8q0zwsX1evl7mxTZJp1.jpg" group-title="2022",Eso es amor (2022)
 http://vod.tuxchannel.mx/peliculas/720/thats%20amor%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3FUfdBpl7VjC0ZWAbhLMcave9Ar.jpg" group-title="2022",Espejo, espejo (2022)
