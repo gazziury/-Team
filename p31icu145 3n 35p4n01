@@ -1700,6 +1700,8 @@ http://vod.tuxchannel.mx/peliculas/720/senior%20year%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/rise%20of%20the%20teenage%20mutant%20ninja%20turtles%20the%20movie%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg" group-title="2022",El asedio de Silverton (2022)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pXC8JJbfnRWtbD8i2yKFqqWEO4X.jpg" group-title="2022",El asesino perfecto (2022)
+http://vod.tuxchannel.mx/peliculas/720/the%20enforcer%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg" group-title="2022",El bandido perfecto (2022)
 http://vod.tuxchannel.mx/peliculas/720/bandit%202022.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU2ODY2M2YtZWM3ZS00NzJiLTg2YzEtY2M1ODNhMGJmZDdjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="2022",El bar de las grandes esperanzas (2022)
@@ -1726,8 +1728,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20fourth%20musketeer%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20noel%20diary%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/vSpDSpgo2VADOWSykemgYAYezQP.jpg" group-title="2022",El dragón de papá (2022)
 http://vod.tuxchannel.mx/peliculas/720/my%20fathers%20dragon%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/pXC8JJbfnRWtbD8i2yKFqqWEO4X.jpg" group-title="2022",El ejecutor: El asesino perfecto (2022)
-http://vod.tuxchannel.mx/peliculas/720/the%20enforcer%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/3/w1280/qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg" group-title="2022",El entresuelo (2022)
 http://vod.tuxchannel.mx/peliculas/720/crawlspace%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/e9nRmgoxc0gQkTmKbtIJL9imvq1.jpg" group-title="2022",El estafador de Tinder (2022)
