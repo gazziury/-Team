@@ -2322,6 +2322,8 @@ http://vod.tuxchannel.mx/peliculas/720/objetos%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/significant%20other%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fmetadata-static.plex.tv%2F0%2Fgracenote%2F0baf652c3b1c7f917a14f35f17188d8e.jpg" group-title="2022",Ofrenda al demonio (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20offering%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg" group-title="2022",Operación cerveza (2022)
+http://vod.tuxchannel.mx/peliculas/720/the%20greatest%20beer%20run%20ever%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tDe5eLxAbeK7sYckUn5aH3ngWnn.jpg" group-title="2022",Operación Hunt (2022)
 http://vod.tuxchannel.mx/peliculas/720/hunt%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/n3Ca0yus9pFVzADeZDRtAXm69xY.jpg" group-title="2022",Ovni (2022)
@@ -2714,8 +2716,6 @@ http://vod.tuxchannel.mx/peliculas/720/y%20como%20es%20el%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/i%20used%20to%20be%20famous%202022.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhjOWRmMGMtZjExNy00M2IxLWFmODQtM2I1MzBmZTcwOTgwXkEyXkFqcGdeQXVyNTg1MDQzMDU@._V1_FMjpg_UX1000_.jpg" group-title="2022",Yo estuve aquí (2022)
 http://vod.tuxchannel.mx/peliculas/720/i%20came%20by%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/ebZLD9PD1YGU15QoY1PfVOj2x1n.jpg" group-title="2022",Yo me encargo de la cerveza (2022)
-http://vod.tuxchannel.mx/peliculas/720/the%20greatest%20beer%20run%20ever%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/r3E3NaEN2uT4zQfWJ0BJpGehQwC.jpg" group-title="2022",Yo soy Vanessa Guillen (2022)
 http://vod.tuxchannel.mx/peliculas/720/i%20am%20vanessa%20guillen%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/umUBV45gHK2SHMO82YwzSLBOQtI.jpg" group-title="2022",Yo traidor (2022)
