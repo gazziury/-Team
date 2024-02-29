@@ -1434,8 +1434,6 @@ http://vod.tuxchannel.mx/peliculas/720/30%20noches%20con%20mi%20ex%202022.mkv
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg" group-title="2022",365 días más (2022)
 http://vod.tuxchannel.mx/peliculas/720/kolejne%20365%20dni%202022.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg" group-title="2022",Abandonada (2022)
-http://vod.tuxchannel.mx/peliculas/720/abandoned%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg" group-title="2022",Abracadabra 2 (2022)
 http://vod.tuxchannel.mx/peliculas/720/hocus%20pocus%202%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fabZkaVHYJ67KbZx7oFoitauX34.jpg" group-title="2022",Acerca del destino (2022)
@@ -1640,6 +1638,8 @@ http://vod.tuxchannel.mx/peliculas/720/clerks%20III%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/prey%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/4h0EYAeSslKXXiVTqcehXjGf3PA.jpg" group-title="2022",Desaparecido a medianoche: Abandonada (2022)
 http://vod.tuxchannel.mx/peliculas/720/gone%20in%20the%20night%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg" group-title="2022",Desamparados (2022)
+http://vod.tuxchannel.mx/peliculas/720/abandoned%202022.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQyMmU5YzktZjM5ZC00ZWMyLTk1YzAtODQ2ZTRmMTkwODBlXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="2022",Desaparecidos (2022)
 http://vod.tuxchannel.mx/peliculas/720/vanishing%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/bOiOTvrQOIS0vDWwrkF0t9D2itM.jpg" group-title="2022",Desconectados (2022)
