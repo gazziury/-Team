@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_22.mkv
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_32.mkv
-http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_08.mkv
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_11.mkv
 
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_121.mkv
 
@@ -2393,6 +2393,10 @@ http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_06.mkv
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 08
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 09
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 10
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_11.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/03/11/12/1800318.jpg" group-title="Falsa identidad",Cap. 01
 http://series.tuxchannel.mx/series/falsa_identidad/s_01_e_01.mkv
