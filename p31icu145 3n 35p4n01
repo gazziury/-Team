@@ -1756,6 +1756,8 @@ http://vod.tuxchannel.mx/peliculas/720/el%20gerente%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/big%20gold%20brick%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/8RlfiAecJqeO6bbsSRoYAqL4cZo.jpg" group-title="2022",El gran pase de magia (2022)
 http://vod.tuxchannel.mx/peliculas/720/jaadugar%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x2HLrgmwMqZi5ez7aXlSYGzXLy9.jpg" group-title="2022",El Grinch: Un siniestro cuento de Navidad (2022)
+http://vod.tuxchannel.mx/peliculas/720/the%20mean%20one%202022.mkv
 #EXTINF:-1 tvg-logo="https://hiramnoriega.com/wp-content/uploads/2022/11/Poster-de-El-Guau-683x1024.jpg" group-title="2022",El Guau (2022)
 http://vod.tuxchannel.mx/peliculas/720/el%20guau%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/3/w1280/etaZNjnQQfV1hd3CqidUmQ3rUhW.jpg" group-title="2022",El hilo invisible (2022)
@@ -2584,8 +2586,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20batman%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20independent%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fp1hH2FXEUHuY5kzm9bEBxEmdD8D.jpg" group-title="2022",The inhabitant: Linaje oscuro (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20inhabitant%202022.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x2HLrgmwMqZi5ez7aXlSYGzXLy9.jpg" group-title="2022",The mean one: Un siniestro cuento de Navidad (2022)
-http://vod.tuxchannel.mx/peliculas/720/the%20mean%20one%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg" group-title="2022",Thor: Amor y trueno (2022)
 http://vod.tuxchannel.mx/peliculas/720/thor%20love%20and%20thunder%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/wGE4ImqYjJZQi3xFu4I2OLm8m0w.jpg" group-title="2022",Tiburón toro (2022)
