@@ -1844,7 +1844,7 @@ http://vod.tuxchannel.mx/peliculas/720/el%20sistema%20keops%202022.mkv
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fmetadata-static.plex.tv%2Ff%2Fgracenote%2Ffba6d5284751366b4216a672c0214994.jpg" group-title="2022",El suplente (2022)
 http://vod.tuxchannel.mx/peliculas/720/el%20suplente%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/aERrzPJyUYAhmbies50dMz21W4u.jpg" group-title="2022",El teléfono del señor Harrigan (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gPn9e8eP7TeKQU4IeWAMzOajR40.jpg" group-title="2022",El teléfono del señor Harrigan (2022)
 http://vod.tuxchannel.mx/peliculas/720/mr%20harrigans%20phone%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lr11mCT85T1JanlgjMuhs9nMht4.jpg" group-title="2022",El teléfono negro (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20black%20phone%202021.mkv
