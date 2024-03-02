@@ -2124,8 +2124,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20other%20me%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20swimmers%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.naijarhythm.com.ng/wp-content/uploads/2022/04/images-8-e1649856439992.jpg" group-title="2022",Las niñas de cristal (2022)
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/kQZKw9jetOInPPdSZgbKFxJALHc.jpg" group-title="2022",Las personas que odiamos en la boda (2022)
-http://vod.tuxchannel.mx/peliculas/720/the%20people%20we%20hate%20at%20the%20wedding%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lQAcuO9mw5cMpqCHeS1LAZkpDC.jpg" group-title="2022",La Sra Harris va a París (2022)
 http://vod.tuxchannel.mx/peliculas/720/mrs%20harris%20goes%20to%20paris%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/zTPL2U9glusiPwOBFoO3IeBiKDK.jpg" group-title="2022",Las vocales (2022)
@@ -2180,6 +2178,8 @@ http://vod.tuxchannel.mx/peliculas/720/los%20ladrones%20la%20verdadera%20histori
 http://vod.tuxchannel.mx/peliculas/720/minions%20and%20more%201%202022.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI5OWUwY2YtMmU5My00NTc2LTk1NzYtZDMyOTc4M2E5NWYwXkEyXkFqcGdeQXVyMTQ4NTcxNTI0._V1_FMjpg_UX1000_.jpg" group-title="2022",Los Minions y sus amigos Vol 2  (2022)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kQZKw9jetOInPPdSZgbKFxJALHc.jpg" group-title="2022",Los odiosos invitados a la boda (2022)
+http://vod.tuxchannel.mx/peliculas/720/the%20people%20we%20hate%20at%20the%20wedding%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/rM1znjW9dle5T435hC8Pa84CUoo.jpg" group-title="2022",Los pacientes recurrentes (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iHjlEYpCoPPw71fvzp3YpYmDde.jpg" group-title="2022",Los pequeños magos (2022)
