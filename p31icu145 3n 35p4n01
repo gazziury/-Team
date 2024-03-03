@@ -1650,6 +1650,8 @@ http://vod.tuxchannel.mx/peliculas/720/contando%20ovejas%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/corazonada%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nmD0vZk8jQg1Suhs0iv9cj0xdtZ.jpg" group-title="2022",Corazón de fuego (2022)
 http://vod.tuxchannel.mx/peliculas/720/fireheart%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w8dSAuMHUgx0lYSB6wAAURStcGM.jpg" group-title="2022",Corazones desgarrados (2022)
+http://vod.tuxchannel.mx/peliculas/720/torn%20hearts%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg" group-title="2022",Corazones malheridos (2022)
 http://vod.tuxchannel.mx/peliculas/720/purple%20hearts%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hgep5jT30HJwqfJVNCoPuRzlF.jpg" group-title="2022",Corre cariño corre (2022)
@@ -2616,8 +2618,6 @@ http://vod.tuxchannel.mx/peliculas/720/hollywood%20stargirl%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/stromboli%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/thqgzBPEDYQX0taszVus5nYMtTZ.jpg" group-title="2022",Sueños de Marte (2022)
 http://vod.tuxchannel.mx/peliculas/720/moonshot%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/ur1BzhdjLLyMe9YiVpZ3XM4kUPj.jpg" group-title="2022",Sueños peligrosos (2022)
-http://vod.tuxchannel.mx/peliculas/720/torn%20hearts%202022.mkv
 #EXTINF:-1 tvg-logo="https://cps-static.rovicorp.com/2/Open/Decal/Program/47625484/_derived_jpg_q90_310x470_m0/Summering_VR_6_1659964215287_2.jpg" group-title="2022",Summering: Días de verano (2022)
 http://vod.tuxchannel.mx/peliculas/720/summering%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oNbCAM3UVJamxRFd5hUt686aqb2.jpg" group-title="2022",Suzume (2022)
