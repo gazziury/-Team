@@ -1492,8 +1492,6 @@ http://vod.tuxchannel.mx/peliculas/720/deep%20water%202022.mkv
 https://archive.org/download/9-balas-lat/9%20balas%20lat.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/wUvV0gcglEKjTl47olQd9aVLJQj.jpg" group-title="2022",A la mierda el amor... otra vez (2022)
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/770tuDli5fyV3tfjdRnKOVdP6gf.jpg" group-title="2022",Al descubierto (2022)
-http://vod.tuxchannel.mx/peliculas/720/she%20said%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9DcNwh03WHYVnnA4GmI2pkWXh4I.jpg" group-title="2022",Alerta! Temporada de tiburones (2022)
 http://vod.tuxchannel.mx/peliculas/720/lannee%20du%20requin%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/S99eCSnRFfeZJmDaIGIZF58H7w.jpg" group-title="2022",Al filo del abismo (2022)
@@ -1816,6 +1814,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20man%20from%20toronto%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/empire%20of%20light%202022.mkv
 #EXTINF:-1 tvg-logo="https://yestorrent.org/wp-content/uploads/2023/02/1FGenj5LnApAsJVLbd5Ehmn16XV-2.jpg" group-title="2022",El juego del bunker (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20bunker%20game%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg" group-title="2022",Ella dijo (2022)
+http://vod.tuxchannel.mx/peliculas/720/she%20said%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/gxPJZuIBeesHi5gkxtvvXboJ420.jpg" group-title="2022",Ella lo hará (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5bWvnZiFEJMkt71HnqVWYn9L6jM.jpg" group-title="2022",Ellas hablan (2022)
