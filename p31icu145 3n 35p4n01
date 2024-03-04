@@ -1692,8 +1692,6 @@ http://vod.tuxchannel.mx/peliculas/720/disenchanted%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/out%20of%20the%20blue%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/zziKunjkD9kUzv0FYqr2Wlty1eJ.jpg" group-title="2022",Desfile de corazones (2022)
 http://vod.tuxchannel.mx/peliculas/720/parada%20serc%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/10/w1280/fkOHhO1KQyLGOblM7e5bkfnu0Ln.jpg" group-title="2022",Después del universo (2022)
-http://vod.tuxchannel.mx/peliculas/720/depois%20do%20universo%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rbKd0BEp76AUOSKpcrKSwEAwdCS.jpg" group-title="2022",Detective Knight 1: Sin piedad (2022)
 http://vod.tuxchannel.mx/peliculas/720/detective%20knight%20rogue%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/acCIjyszhmit8k5eWVGNTustYRK.jpg" group-title="2022",Detective Knight 2: Redención (2022)
@@ -2256,6 +2254,8 @@ http://vod.tuxchannel.mx/peliculas/720/malvada%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/mañana%20es%20hoy%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg" group-title="2022",Margaux (2022)
 http://vod.tuxchannel.mx/peliculas/720/margaux%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkOHhO1KQyLGOblM7e5bkfnu0Ln.jpg" group-title="2022",Más allá del universo (2022)
+http://vod.tuxchannel.mx/peliculas/720/depois%20do%20universo%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lX0eR6WgxEvD5tIeyVgIimY0TKE.jpg" group-title="2022",Mas barato por docena (2022)
 http://vod.tuxchannel.mx/peliculas/720/cheaper%20by%20the%20dozen%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/zmfiG4vAPdII9XDY1smay5QuI1f.jpg" group-title="2022",Mas respeto que soy tu madre (2022)
