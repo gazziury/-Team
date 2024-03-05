@@ -613,8 +613,6 @@ http://vod.tuxchannel.mx/peliculas/720/le%20roi%20des%20ombres%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20monkey%20king%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8bdvhFJS9TXEhRirPIzYMlqnPZC.jpg" group-title="2023",El sabor de la Navidad (2023)
 http://vod.tuxchannel.mx/peliculas/720/el%20sabor%20de%20la%20navidad%202023.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FyQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="2023",El sacramento del Diablo (2023)
-http://vod.tuxchannel.mx/peliculas/720/consecration%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsbbX5UOHxw03U3IJAePxUYU9IGU.jpg" group-title="2023",El sexto bus (2023)
 http://vod.tuxchannel.mx/peliculas/720/sixth%20bus%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxEAXVe0BzW4K9Ky6eTo4CJwzJ8P.jpg" group-title="2023",El Sr Carrito y los caballeros templarios (2023)
@@ -821,6 +819,8 @@ http://vod.tuxchannel.mx/peliculas/720/keys%20to%20the%20heart%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20perfect%20find%202023.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM5OTc1OGEtNWYzZS00MzAzLTkxM2EtNzE3OGFjNTQwYzU1XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_QL75_UY281_CR6,0,190,281_.jpg" group-title="2023",La conferencia (2023)
 http://vod.tuxchannel.mx/peliculas/720/the%20conference%202023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="2023",La consagración (2023)
+http://vod.tuxchannel.mx/peliculas/720/consecration%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bUGM73hCppyy37G5LshWpetP0PW.jpg" group-title="2023",La conspiración del Diablo (2023)
 http://vod.tuxchannel.mx/peliculas/720/the%20devil%20conspiracy%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/7/w1280/wB6ez9v9HzSLplIy6m00SPIkuH7.jpg" group-title="2023",La dama del silencio (2023)
