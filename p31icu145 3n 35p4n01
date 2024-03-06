@@ -253,8 +253,6 @@ http://vod.tuxchannel.mx/peliculas/720/aka%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/fingernails%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pCV7eNGdVTYKOmc9zll7Hl9GEgX.jpg" group-title="2023",Amar es madurar (2023)
 http://vod.tuxchannel.mx/peliculas/720/amar%20es%20madurar%202023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg" group-title="2023",Ambush: La emboscada (2023)
-http://vod.tuxchannel.mx/peliculas/720/ambush%202023.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODgwMGVmYzktZTk2ZS00NTdhLTliMDQtZWQzNTU0ZjIwMzgzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg" group-title="2023",A medianoche (2023)
 http://vod.tuxchannel.mx/peliculas/720/at%20midnight%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkMI3tgxLAZbzGOVlorUBva0kriS.jpg" group-title="2023",A millones de kilómetros (2023)
@@ -635,6 +633,8 @@ http://vod.tuxchannel.mx/peliculas/720/el%20ultimo%20vagon%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/chor%20nikal%20ke%20bhaga%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9LjJZ3jL04uEl7itSxxUfxHQ6V3.jpg" group-title="2023",El Yuppie y El Guiso (2023) INNOV
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg" group-title="2023",Emboscada (2023)
+http://vod.tuxchannel.mx/peliculas/720/ambush%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2F7%2Fgracenote%2F772428b7410b478c3372382b3e54fee8.jpg" group-title="2023",Empieza el baile (2023)
 http://vod.tuxchannel.mx/peliculas/720/empieza%20el%20baile%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FblQaj6biyBMLo34cuFKKwbgjIBz.jpg" group-title="2023",Encierro (2023)
