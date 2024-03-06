@@ -697,8 +697,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20flash%202023.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pq2p8ovf8PZps2HafvJaLrZK8gS.jpg" group-title="2023",Flora e hijo (2023)
 http://vod.tuxchannel.mx/peliculas/720/flora%20and%20son%202023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wxTzaXQudAnSTZgct3dPi2K8tt0.jpg" group-title="2023",Flow callejero 2 (2023)
-http://vod.tuxchannel.mx/peliculas/720/street%20flow%202%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9PDq26mLyn0zDOumemFwUom6lmM.jpg" group-title="2023",Fragmentada (2023)
 http://vod.tuxchannel.mx/peliculas/720/fragmentada%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5P6lFTNTjxLVKQJP7x0W3U4yusr.jpg" group-title="2023",Freelance: Heroe por encargo (2023)
@@ -1337,6 +1335,8 @@ http://vod.tuxchannel.mx/peliculas/720/spider%20man%20across%20the%20spider%20ve
 http://vod.tuxchannel.mx/peliculas/720/spider-man%20lotus%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wdNdrqVJgkNNuYbI11TiiYkuP7Q.jpg" group-title="2023",Squealer: Soplón (2023)
 http://vod.tuxchannel.mx/peliculas/720/squealer%202023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wxTzaXQudAnSTZgct3dPi2K8tt0.jpg" group-title="2023",Suburbanos 2 (2023)
+http://vod.tuxchannel.mx/peliculas/720/street%20flow%202%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sibgkm1eH1JGvHegn096G4qAAmy.jpg" group-title="2023",Super Mario Bros (2023)
 http://vod.tuxchannel.mx/peliculas/720/the%20super%20mario%20bros%20movie%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hQx2CeM1AZXRg4rIyMl7DPYFhz1.jpg" group-title="2023",Sustitutos (2023)
