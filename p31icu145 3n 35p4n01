@@ -561,8 +561,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20popes%20exorcist%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/little%20bone%20lodge%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfdVd6thTstt0MQ4dUC1IXiOXpxv.jpg" group-title="2023",El gran George Foreman (2023)
 http://vod.tuxchannel.mx/peliculas/720/big%20george%20foreman%202023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8xzteTMfG3nfJ5HYxXcfdp7SdBi.jpg" group-title="2023",El hijo (2023)
-http://vod.tuxchannel.mx/peliculas/720/the%20son%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8oliqiL2kBi1qFAyBjZFlyhx6lb.jpg" group-title="2023",El hotel de los líos: García y García (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg" group-title="2023",El Hotel Real (2023)
@@ -1820,6 +1818,8 @@ http://vod.tuxchannel.mx/peliculas/720/jaadugar%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20mean%20one%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k3ZbQQh7TlerTTWrH6Ua2l8J08p.jpg" group-title="2022",El Guau (2022)
 http://vod.tuxchannel.mx/peliculas/720/el%20guau%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hYR2doH3arnX0Y6WULuBPbtaLjN.jpg" group-title="2022",El hijo (2022)
+http://vod.tuxchannel.mx/peliculas/720/the%20son%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fd%2Fgracenote%2Fdf603e3eeec862b594bdd4d5b3fb8f89.jpg" group-title="2022",El hilo invisible (2022)
 http://vod.tuxchannel.mx/peliculas/720/il%20filo%20invisibile%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/icx3Cu6ktIXgr5o2WOeekEFRCdM.jpg" group-title="2022",El hombre de dios (2022)
