@@ -205,6 +205,8 @@ http://vod.tuxchannel.mx/peliculas/720/my%20name%20is%20loh%20kiwan%202024.mkv
 http://vod.tuxchannel.mx/peliculas/720/monsters%20103%20mercies%20dragon%20damnation%202024.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k6iHs4daxm0RQqFQsE8oE5wWJjj.jpg" group-title="2024",Orión y la oscuridad (2024)
 http://vod.tuxchannel.mx/peliculas/720/orion%20and%20the%20dark%202024.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/boDGz0xEE27xfkjOWATE72CyRQF.jpg" group-title="2024",Pobres criaturas (2024)
+http://vod.tuxchannel.mx/peliculas/720/poor%20things%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fmetadata-static.plex.tv%2F2%2Fgracenote%2F21cef5dda5b4ddd617ec786b3f20465e.jpg" group-title="2024",Ricky Stanicky, el impostor (2024)
 http://vod.tuxchannel.mx/peliculas/720/ricky%20stanicky%202024.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cY3TJxjBhFcvKLA6QnDUi0zSbqc.jpg" group-title="2024",Secretos familiares (2024)
@@ -1177,8 +1179,6 @@ http://vod.tuxchannel.mx/peliculas/720/paint%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/deep%20sea%20python%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a6syn9qcU4a54Lmi3JoIr1XvhFU.jpg" group-title="2023",Plan familiar (2023)
 http://vod.tuxchannel.mx/peliculas/720/the%20family%20plan%202023.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/boDGz0xEE27xfkjOWATE72CyRQF.jpg" group-title="2023",Pobres criaturas (2023)
-http://vod.tuxchannel.mx/peliculas/720/poor%20things%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg" group-title="2023",Pollitos en fuga: El origen de los nuggets (2023)
 http://vod.tuxchannel.mx/peliculas/720/chicken%20run%20dawn%20of%20the%20nugget%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbBCQXZwOJx5DBpD0UghypK61pCQ.jpg" group-title="2023",Polly Pocket: Aventura en Bahía Mágica (2023)
