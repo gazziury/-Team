@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_28.mkv
-http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_38.mkv
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_39.mkv
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_17.mkv
 
 http://series.tuxchannel.mx/series/nadie_como_tu/s_01_e_121.mkv
@@ -8481,6 +8481,8 @@ http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_36.mkv
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_37.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 38
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_38.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 39
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_39.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2a/d3/99/2ad39910445a91dea9cd3a5be636f45a.jpg" group-title="Vencer el desamor",Cap. 01
 http://series.tuxchannel.mx/series/vencer_el_desamor/s_01_e_01.mkv
