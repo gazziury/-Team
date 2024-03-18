@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TW2ZNVJ.jpeg" group-title="Peliculas 4K",Alien Covenant (4K)
 http://vod.tuxchannel.mx/peliculas4k/alien%20covenant.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnhiShTvoga8fyGX8468hLj6pCtW.jpg" group-title="Peliculas 4K",Assassins Creed (4K)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/SuIe9gM.jpeg" group-title="Peliculas 4K",Assassins Creed (4K)
 http://vod.tuxchannel.mx/peliculas4k/assassins%20creed.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kyeqWdyUXW608qlYkRqosgbbJyK.jpg" group-title="Peliculas 4K",Avatar (4K)
 http://vod.tuxchannel.mx/peliculas4k/avatar.mkv
