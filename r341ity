@@ -6,11 +6,11 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XKACrmy.jpeg" group-title="REALITY GRATIS",REALITY GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="TVLATINO - CASA DE LOS FAMOSOS MEXICO",PRINCIPAL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1750051665439268864/NBYQzCrN_400x400.jpg" group-title="TVLATINO - CASA DE LOS FAMOSOS MEXICO",PRINCIPAL
 http://tvlatino.club:2082/tvperu26sleperu/tvperu26sleperu/346039
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="TVLATINO - CASA DE LOS FAMOSOS MEXICO",CAM 1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1750051665439268864/NBYQzCrN_400x400.jpg" group-title="TVLATINO - CASA DE LOS FAMOSOS MEXICO",CAM 1
 http://tvlatino.club:2082/tvperu26sleperu/tvperu26sleperu/346040
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/UPJHB4OTDVGYROMRJ4RPJFAYPY.jpg" group-title="TVLATINO - CASA DE LOS FAMOSOS MEXICO",CAM 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1750051665439268864/NBYQzCrN_400x400.jpg" group-title="TVLATINO - CASA DE LOS FAMOSOS MEXICO",CAM 2
 http://tvlatino.club:2082/tvperu26sleperu/tvperu26sleperu/345844
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYVB0Zr-zNpwN8Chr9rY8i8hdhhStU0vz0A&usqp=CAU" group-title="RASA 1 - GRAN HERMANO ARGENTINA",CAM 24Hs
