@@ -18,10 +18,15 @@ http://tvlatino.club:2082/tvperu26sleperu/tvperu26sleperu/347898
 #EXTINF:-1 tvg-logo="https://cdn.clarosports.com/clarosports/2024/01/house-193520-1024x576.jpg" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",CAM 2
 http://tvlatino.club:2082/tvperu26sleperu/tvperu26sleperu/347899
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYVB0Zr-zNpwN8Chr9rY8i8hdhhStU0vz0A&usqp=CAU" group-title="MAGMA - GRAN HERMANO (ARGENTINA)",CAM 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYVB0Zr-zNpwN8Chr9rY8i8hdhhStU0vz0A&usqp=CAU" group-title="MAGMA 1 - GRAN HERMANO (ARGENTINA)",CAM 1
 http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/207290
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYVB0Zr-zNpwN8Chr9rY8i8hdhhStU0vz0A&usqp=CAU" group-title="MAGMA - GRAN HERMANO (ARGENTINA)",CAM 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYVB0Zr-zNpwN8Chr9rY8i8hdhhStU0vz0A&usqp=CAU" group-title="MAGMA 2 - GRAN HERMANO (ARGENTINA)",CAM 2
 http://magmas5.com:8000/LocalRestreamIntercambio/GX3FMT14FH/207291
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYVB0Zr-zNpwN8Chr9rY8i8hdhhStU0vz0A&usqp=CAU" group-title="MAGMA 2 - GRAN HERMANO (ARGENTINA)",CAM 1
+http://magmas5.com:8000/LIRestream/C18FXWEJBF/207290
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYVB0Zr-zNpwN8Chr9rY8i8hdhhStU0vz0A&usqp=CAU" group-title="MAGMA 2 - GRAN HERMANO (ARGENTINA)",CAM 2
+http://magmas5.com:8000/LIRestream/C18FXWEJBF/207291
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYVB0Zr-zNpwN8Chr9rY8i8hdhhStU0vz0A&usqp=CAU" group-title="RASA 1 - GRAN HERMANO (ARGENTINA)",CAM 24Hs
 http://rasaiptv.com:8080/Diego230826/PTCWkcHz5AMT/339638
