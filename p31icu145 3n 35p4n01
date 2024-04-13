@@ -7149,6 +7149,8 @@ http://vod.tuxchannel.mx/peliculas/720/cuando%20se%20rompe%20la%20rama.mkv
 http://vod.tuxchannel.mx/peliculas/720/all%20i%20see%20is%20you.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg" group-title="2016",Deadpool (2016)
 http://vod.tuxchannel.mx/peliculas/720/deadpool.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f56cB64d5tuRa07hnHbMvON35H5.jpg" group-title="2016",Día de la independencia 2: Contraataque (2016)
+http://vod.tuxchannel.mx/peliculas/720/independence%20day%20-%20resurgence.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mIDxsJTrOC7NhgOo3GziiHyKfsQ.jpg" group-title="2016",Día de patriotas (2016)
 http://vod.tuxchannel.mx/peliculas/720/patriots%20day.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfKqTwTE8c7inpQz0Jflr0RMSMb6.jpg" group-title="2016",Diario de un exorcista: Zero (2016)
@@ -8857,7 +8859,7 @@ http://vod.tuxchannel.mx/peliculas/720/blood%20work.mkv
 http://vod.tuxchannel.mx/peliculas/720/jennifers%20body.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bUeiwBQdupBLQthMCHKV7zv56uv.jpg" group-title="Peliculas Viejas",Día de entrenamiento (2001)
 http://vod.tuxchannel.mx/peliculas/720/training%20day.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg" group-title="Peliculas Viejas",Día de la independencia (1996)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg" group-title="Peliculas Viejas",Día de la independencia 1 (1996)
 http://vod.tuxchannel.mx/peliculas/720/independence%20day.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tnLxPpajkbVdbQl5B9CuD7sSpz9.jpg" group-title="Peliculas Viejas",Diamante de sangre (2006)
 http://vod.tuxchannel.mx/peliculas/720/diamante%20de%20sangre.mkv
