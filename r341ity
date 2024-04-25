@@ -6,10 +6,20 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XKACrmy.jpeg" group-title="TEAM VIP",REALITY GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD - A GRANDE CONQUISTA (BRASIL)",CAM 1
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 1 - A GRANDE CONQUISTA (BRASIL)",CAM 1
 http://meumd.com:80/05183314248/fe5nasUk/276898
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD - A GRANDE CONQUISTA (BRASIL)",CAM 2
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 1 - A GRANDE CONQUISTA (BRASIL)",CAM 2
 http://meumd.com:80/05183314248/fe5nasUk/277634
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 2 - A GRANDE CONQUISTA (BRASIL)",CAM 1
+http://meumd.com:80/minhacasa23/Soeusei10/276898
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 2 - A GRANDE CONQUISTA (BRASIL)",CAM 2
+http://meumd.com:80/minhacasa23/Soeusei10/277634
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 2 - A GRANDE CONQUISTA (BRASIL)",CAM 3
+http://meumd.com:80/minhacasa23/Soeusei10/277635
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 2 - A GRANDE CONQUISTA (BRASIL)",CAM 4
+http://meumd.com:80/minhacasa23/Soeusei10/277636
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1750051665439268864/NBYQzCrN_400x400.jpg" group-title="LA CASA DE LOS FAMOSOS (MEXICO)",PRINCIPAL
