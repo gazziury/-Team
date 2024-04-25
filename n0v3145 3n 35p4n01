@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_62.mkv
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_72.mkv
-http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_47.mkv
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_50.mkv
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_44.mkv
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_34.mkv
 
@@ -2556,9 +2556,15 @@ http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_44.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 44
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_45.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 45
-http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_47.mkv
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_46.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 46
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_47.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 47
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_48.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 48
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_49.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 49
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_50.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/03/11/12/1800318.jpg" group-title="Falsa identidad",Cap. 01
 http://series.tuxchannel.mx/series/falsa_identidad/s_01_e_01.mkv
