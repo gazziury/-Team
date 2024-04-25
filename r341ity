@@ -10,6 +10,10 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://meumd.com:80/05183314248/fe5nasUk/276898
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 1 - A GRANDE CONQUISTA (BRASIL)",CAM 2
 http://meumd.com:80/05183314248/fe5nasUk/277634
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 1 - A GRANDE CONQUISTA (BRASIL)",CAM 3
+http://meumd.com:80/05183314248/fe5nasUk/277634
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 1 - A GRANDE CONQUISTA (BRASIL)",CAM 4
+http://meumd.com:80/05183314248/fe5nasUk/277634
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 2 - A GRANDE CONQUISTA (BRASIL)",CAM 1
 http://meumd.com:80/minhacasa23/Soeusei10/276898
