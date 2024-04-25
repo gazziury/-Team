@@ -24,6 +24,10 @@ http://meumd.com:80/minhacasa23/Soeusei10/277635
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 2 - A GRANDE CONQUISTA (BRASIL)",CAM 4
 http://meumd.com:80/minhacasa23/Soeusei10/277636
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="SERV 51 - A GRANDE CONQUISTA (BRASIL)",CAM 1
+http://51.79.39.236:80/rhgpgegf/yCL5kq58v1/608551
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="SERV 51 - A GRANDE CONQUISTA (BRASIL)",CAM 2
+http://51.79.39.236:80/rhgpgegf/yCL5kq58v1/608551
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1750051665439268864/NBYQzCrN_400x400.jpg" group-title="LA CASA DE LOS FAMOSOS (MEXICO)",PRINCIPAL
