@@ -6,6 +6,11 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XKACrmy.jpeg" group-title="TEAM VIP",REALITY GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="APPCLIENTE - A GRANDE CONQUISTA (BRASIL)",CAM 1
+http://joao-1-us.mainbkonline.shop:80/80982396859pw/987348532498pw/432378
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="APPCLIENTE - A GRANDE CONQUISTA (BRASIL)",CAM 2
+http://joao-1-us.mainbkonline.shop:80/80982396859pw/987348532498pw/432379
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 1 - A GRANDE CONQUISTA (BRASIL)",CAM 1
 http://meumd.com:80/05183314248/fe5nasUk/276898
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="MEUMD 1 - A GRANDE CONQUISTA (BRASIL)",CAM 2
