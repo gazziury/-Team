@@ -40,6 +40,23 @@ http://178.162.225.182:2082/Tourobox2-yDr9YeLYci/UgMsRdt2Mk/1253
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 2 - A GRANDE CONQUISTA (BRASIL)",CAM 8
 http://178.162.225.182:2082/Tourobox2-yDr9YeLYci/UgMsRdt2Mk/1255
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 3 - A GRANDE CONQUISTA (BRASIL)",CAM 1
+http://178.162.225.182:2082/Tourobox1-iXy7ZzXCoM/LShtYMRcPu/1250
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 3 - A GRANDE CONQUISTA (BRASIL)",CAM 2
+http://178.162.225.182:2082/Tourobox1-iXy7ZzXCoM/LShtYMRcPu/1249
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 3 - A GRANDE CONQUISTA (BRASIL)",CAM 3
+http://178.162.225.182:2082/Tourobox1-iXy7ZzXCoM/LShtYMRcPu/1256
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 3 - A GRANDE CONQUISTA (BRASIL)",CAM 4
+http://178.162.225.182:2082/Tourobox1-iXy7ZzXCoM/LShtYMRcPu/1252
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 3 - A GRANDE CONQUISTA (BRASIL)",CAM 5
+http://178.162.225.182:2082/Tourobox1-iXy7ZzXCoM/LShtYMRcPu/1251
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 3 - A GRANDE CONQUISTA (BRASIL)",CAM 6
+http://178.162.225.182:2082/Tourobox1-iXy7ZzXCoM/LShtYMRcPu/1257
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 3 - A GRANDE CONQUISTA (BRASIL)",CAM 7
+http://178.162.225.182:2082/Tourobox1-iXy7ZzXCoM/LShtYMRcPu/1253
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="TOUROBOX 3 - A GRANDE CONQUISTA (BRASIL)",CAM 8
+http://178.162.225.182:2082/Tourobox1-iXy7ZzXCoM/LShtYMRcPu/1255
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="SERV 51 - A GRANDE CONQUISTA (BRASIL)",CAM 1
 http://51.79.39.236:80/rhgpgegf/yCL5kq58v1/608551
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/sHTrcDd.jpeg" group-title="SERV 51 - A GRANDE CONQUISTA (BRASIL)",CAM 2
