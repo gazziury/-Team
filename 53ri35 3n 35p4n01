@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 NETTV
 El problema de los 3 cuerpos
-
+Fallout
 
 
 
@@ -4543,6 +4543,23 @@ http://series.tuxchannel.mx/series/the_falcon_and_the_winter_soldier/s_01_e_04.m
 http://series.tuxchannel.mx/series/the_falcon_and_the_winter_soldier/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/09/11/10/5307676.jpg" group-title="Falcon y el Soldado de Invierno",Cap. 06
 http://series.tuxchannel.mx/series/the_falcon_and_the_winter_soldier/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sEy5GjW.jpeg" group-title="Fallout",Cap. 01
+https://tvnettv.space/contenido/series/Fallout/LAT/1%20(1).mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sEy5GjW.jpeg" group-title="Fallout",Cap. 02
+https://tvnettv.space/contenido/series/Fallout/LAT/1%20(2).mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sEy5GjW.jpeg" group-title="Fallout",Cap. 03
+https://tvnettv.space/contenido/series/Fallout/LAT/1%20(3).mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sEy5GjW.jpeg" group-title="Fallout",Cap. 04
+https://tvnettv.space/contenido/series/Fallout/LAT/1%20(4).mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sEy5GjW.jpeg" group-title="Fallout",Cap. 05
+https://tvnettv.space/contenido/series/Fallout/LAT/1%20(5).mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sEy5GjW.jpeg" group-title="Fallout",Cap. 06
+https://tvnettv.space/contenido/series/Fallout/LAT/1%20(6).mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sEy5GjW.jpeg" group-title="Fallout",Cap. 07
+https://tvnettv.space/contenido/series/Fallout/LAT/1%20(7).mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sEy5GjW.jpeg" group-title="Fallout",Cap. 08
+https://tvnettv.space/contenido/series/Fallout/LAT/1%20(8).mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Fleabag T1",TRAILER
 https://archive.org/download/trailer-fl-34b-4g-1/trailer%20Fl34b4g%201.mp4
