@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_76.mkv
-http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_57.mkv
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_63.mkv
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_54.mkv
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_44.mkv
 
@@ -2595,6 +2595,18 @@ http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_55.mkv
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_56.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 56
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_57.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 57
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_58.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 58
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_59.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 59
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_60.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 60
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_61.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 61
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_62.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zZpUXhuHQDgfSTd5NU11CnHKC60.jpg" group-title="El señor de los cielos T9",Cap. 62
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_63.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/03/11/12/1800318.jpg" group-title="Falsa identidad",Cap. 01
 http://series.tuxchannel.mx/series/falsa_identidad/s_01_e_01.mkv
