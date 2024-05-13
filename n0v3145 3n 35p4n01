@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_75.mkv
-http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_76.mkv
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_85.mkv
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_63.mkv
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_54.mkv
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_44.mkv
@@ -8844,6 +8844,24 @@ http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_74.mkv
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_75.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 76
 http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_76.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 77
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_77.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 78
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_78.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 79
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_79.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 80
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_80.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 81
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_81.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 82
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_82.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 83
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_83.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 84
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_84.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k58tPG0q3h2umXDQWQ5m4kw03eR.jpg" group-title="Tu vida es mi vida",Cap. 85
+http://series.tuxchannel.mx/series/tu_vida_es_mi_vida/s_01_e_85.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2a/d3/99/2ad39910445a91dea9cd3a5be636f45a.jpg" group-title="Vencer el desamor",Cap. 01
 http://series.tuxchannel.mx/series/vencer_el_desamor/s_01_e_01.mkv
