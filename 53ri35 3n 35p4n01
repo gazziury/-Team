@@ -14,8 +14,6 @@ Fallout
 
 incompletas
 
-
-http://series.tuxchannel.mx/series/constellation/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/expats/s_01_e_05.mkv
 http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/masters_of_the_air/s_01_e_07.mkv
@@ -1705,6 +1703,14 @@ http://series.tuxchannel.mx/series/constellation/s_01_e_02.mkv
 http://series.tuxchannel.mx/series/constellation/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21ICs3fxlxGslbzS4moCHk9HNo6.jpg" group-title="Constelación",Cap. 04
 http://series.tuxchannel.mx/series/constellation/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21ICs3fxlxGslbzS4moCHk9HNo6.jpg" group-title="Constelación",Cap. 05
+http://series.tuxchannel.mx/series/constellation/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21ICs3fxlxGslbzS4moCHk9HNo6.jpg" group-title="Constelación",Cap. 06
+http://series.tuxchannel.mx/series/constellation/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21ICs3fxlxGslbzS4moCHk9HNo6.jpg" group-title="Constelación",Cap. 07
+http://series.tuxchannel.mx/series/constellation/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/21ICs3fxlxGslbzS4moCHk9HNo6.jpg" group-title="Constelación",Cap. 08
+http://series.tuxchannel.mx/series/constellation/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Control Z T1",TRAILER
 https://archive.org/download/trailer-c-0ntr-0l-z-1/trailer%20C0ntr0l%20Z%20%20%201.mp4
