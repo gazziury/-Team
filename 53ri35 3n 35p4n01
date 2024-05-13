@@ -15,7 +15,6 @@ Fallout
 incompletas
 
 
-http://series.tuxchannel.mx/series/criminal_record/s_01_e_07.mkv ... Historial criminal 8 total
 http://series.tuxchannel.mx/series/constellation/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/expats/s_01_e_05.mkv
 http://series.tuxchannel.mx/series/death_and_other_details/s_01_e_06.mkv
@@ -5577,6 +5576,8 @@ http://series.tuxchannel.mx/series/criminal_record/s_01_e_05.mkv
 http://series.tuxchannel.mx/series/criminal_record/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wjwvJwoEGyPGTJ0QQF6UH7Sqt9j.jpg" group-title="Historial criminal (SUB)",Cap. 07
 http://series.tuxchannel.mx/series/criminal_record/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wjwvJwoEGyPGTJ0QQF6UH7Sqt9j.jpg" group-title="Historial criminal (SUB)",Cap. 08
+http://series.tuxchannel.mx/series/criminal_record/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Hit and Run: Tira y corre",TRAILER
 https://archive.org/download/trailer-h-1t-4nd-run/trailer%20H1t%204nd%20Run.mp4
