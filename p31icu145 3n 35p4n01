@@ -1063,6 +1063,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20kiss%20list%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20mother%202023.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/2j9ydbU.jpeg" group-title="2023",La magia de navidad (2023)
 http://vod.tuxchannel.mx/peliculas/720/dashing%20through%20the%20snow%202023.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QsxyRef.jpeg" group-title="2023",La maldición de David (2023)
+http://vod.tuxchannel.mx/peliculas/720/dear%20david%202023.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hqQwJOY.jpeg" group-title="2023",La maldición del Queen Mary (2023)
 http://vod.tuxchannel.mx/peliculas/720/haunting%20of%20the%20queen%20mary%202023.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/co6yAXC.jpeg" group-title="2023",La máquina (2023)
@@ -1379,8 +1381,6 @@ http://vod.tuxchannel.mx/peliculas/720/quasi%202023.mkv
 http://vod.tuxchannel.mx/peliculas/720/que%20nadie%20duerma%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrqAhYRbOjgPSVzxKYXV9t6gm5fi.jpg" group-title="2023",Querida Zoe (2023)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/29RHwUmSYrX3OtiLmH5YTiACUyn.jpg" group-title="2023",Querido David (2023)
-http://vod.tuxchannel.mx/peliculas/720/dear%20david%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ieyUpr5ES9QEz1cn4clCnBf9XJl.jpg" group-title="2023",Que viva México (2023)
 http://vod.tuxchannel.mx/peliculas/720/que%20viva%20mexico%202023.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6cZbQppNSELFdsV7gvrOflL6DWK.jpg" group-title="2023",Quieres ser mi hijo ? (2023)
