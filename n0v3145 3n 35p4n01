@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_83.mkv
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_90.mkv
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_70.mkv
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_68.mkv
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_65.mkv
@@ -9589,6 +9589,20 @@ http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_81.mkv
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_82.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 83
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_83.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 84
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_84.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 85
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_85.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 86
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_86.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 87
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_87.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 88
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_88.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 89
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_89.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 90
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_90.mkv
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 01
 http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_01.mkv
