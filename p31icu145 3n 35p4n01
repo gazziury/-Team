@@ -9245,8 +9245,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20butterfly%20effect%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20right%20stuff.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2013/1/w1280/jeYOMwcWeZTvmepmSYmxLjJfIyh.jpg" group-title="Peliculas Viejas",El ejecutor (2012)
 http://vod.tuxchannel.mx/peliculas/720/bullet%20to%20the%20head.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg" group-title="Peliculas Viejas",El ejército de las tinieblas (1992)
-http://vod.tuxchannel.mx/peliculas/720/el%20ejercito%20de%20las%20tinieblas.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Z4dAOxjAHTUZO6DJ2WVAsxzwe3.jpg" group-title="Peliculas Viejas",Elektra (2005)
 http://vod.tuxchannel.mx/peliculas/720/elektra.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg" group-title="Peliculas Viejas",El embajador del miedo (2004)
@@ -11247,7 +11245,9 @@ http://vod.tuxchannel.mx/peliculas/720/per%20qualche%20dollaro%20in%20piu.mkv
 http://144.217.70.79/VODS-M/1080P/Evil%20Dead%201981.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/PDGvSi7.jpeg" group-title="Peliculas Viejas",Posesión infernal 2 (1987)
 http://144.217.70.79/VODS-M/1080P/Evil%20Dead%202%201987.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg" group-title="Peliculas Viejas",Posesión infernal (2013)
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg" group-title="Peliculas Viejas",Posesión infernal 3: El ejército de las tinieblas (1992)
+http://vod.tuxchannel.mx/peliculas/720/el%20ejercito%20de%20las%20tinieblas.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg" group-title="Peliculas Viejas",Posesión infernal 4 (2013)
 http://vod.tuxchannel.mx/peliculas/720/evil%20dead.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1ma5b9XLCziCHzQP0Zy1Y1PqNyM.jpg" group-title="Peliculas Viejas",Poseidón (2006)
 http://vod.tuxchannel.mx/peliculas/720/poseidon.mkv
