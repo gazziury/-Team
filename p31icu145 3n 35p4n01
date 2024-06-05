@@ -7994,6 +7994,8 @@ http://vod.tuxchannel.mx/peliculas/720/man%20down.mkv
 http://vod.tuxchannel.mx/peliculas/720/home.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg" group-title="2015",Hotel Transilvania 2 (2015)
 http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%202.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sOJu1Tj.jpeg" group-title="2015",Hot tub 2: Solteros en el tiempo (2015)
+http://144.217.70.79/VODS-M/1080P/Hot%20Tub%20Time%20Machine%202%202015.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg" group-title="2015",Intensa-Mente (2015)
 http://vod.tuxchannel.mx/peliculas/720/inside%20out.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/RTt4lgyTDI8JHMGbZGDDbcZmkM.jpg" group-title="2015",Ip Man 3 (2015)
@@ -10101,6 +10103,8 @@ http://vod.tuxchannel.mx/peliculas/720/hostal%20parte%203.mkv
 http://vod.tuxchannel.mx/peliculas/720/hotel%20rwanda.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg" group-title="Peliculas Viejas",Hotel Transilvania 1 (2012)
 http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwjzbVXAes1acbh6k4OO5xVfy5.jpg" group-title="Peliculas Viejas",Hot tub 1: Un loco viaje al pasado (2010)
+http://vod.tuxchannel.mx/peliculas/720/hot%20tub%20time%20machine.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeOzbt7KsqTC8gcjJMxcQnr89cxJ.jpg" group-title="Peliculas Viejas",Huracán Carter (1999)
 http://vod.tuxchannel.mx/peliculas/720/the%20hurricane.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbnidwEvWNAVJ3Uco9wWtuzWAfrx.jpg" group-title="Peliculas Viejas",Identidad (2003)
@@ -12051,8 +12055,6 @@ http://144.217.70.79/VODS-M/1080P/Undercover%20Brother%202002.mkv
 http://vod.tuxchannel.mx/peliculas/720/a%20man%20called%20horse.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rbxvGXcD7fixrAsbiAYl9R76uDs.jpg" group-title="Peliculas Viejas",Un horizonte muy lejano (1992)
 http://vod.tuxchannel.mx/peliculas/720/far%20and%20away.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FwjzbVXAes1acbh6k4OO5xVfy5.jpg" group-title="Peliculas Viejas",Un loco viaje al pasado (2010)
-http://vod.tuxchannel.mx/peliculas/720/hot%20tub%20time%20machine.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1jnB5Ezgg217lIedwN0ivh8S8Ya.jpg" group-title="Peliculas Viejas",Un lugar llamado Notting Hill (1999)
 http://vod.tuxchannel.mx/peliculas/720/notting%20hill%201999.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F2CbJ3HTb6SFbMeguYH52UQSHOwY.jpg" group-title="Peliculas Viejas",Un lugar secreto (2013)
