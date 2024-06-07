@@ -9713,8 +9713,6 @@ http://vod.tuxchannel.mx/peliculas/720/witness.mkv
 http://vod.tuxchannel.mx/peliculas/720/shooter.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jovXaCasPvShaQbN8VgS9QkAmo3.jpg" group-title="Peliculas Viejas",El títere (2007)
 http://vod.tuxchannel.mx/peliculas/720/dead%20silence.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lL8Qu7hyS3HmpIVprVhL7uL1puP.jpg" group-title="Peliculas Viejas",El torneo (2009)
-http://vod.tuxchannel.mx/peliculas/720/the%20tournament.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg" group-title="Peliculas Viejas",El transportador 1 (2002)
 http://vod.tuxchannel.mx/peliculas/720/the%20transporter.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg" group-title="Peliculas Viejas",El transportador 2 (2005)
@@ -10415,6 +10413,8 @@ http://vod.tuxchannel.mx/peliculas/720/green%20zone.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20collection.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4M5fkXYzhjLZdY28ob2iVlh8FgW.jpg" group-title="Peliculas Viejas",La colonia (1997)
 http://vod.tuxchannel.mx/peliculas/720/la%20colonia.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zTPJd8o.jpeg" group-title="Peliculas Viejas",La competencia (2009)
+http://vod.tuxchannel.mx/peliculas/720/the%20tournament.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg" group-title="Peliculas Viejas",La conquista del honor (2006)
 http://vod.tuxchannel.mx/peliculas/720/flags%20of%20our%20fathers.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lsMGKCB7wb2n0poAGW85YpwzFP5.jpg" group-title="Peliculas Viejas",La conversación (1974)
