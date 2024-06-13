@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_97.mkv
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_09_e_84.mkv
-http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_75.mkv
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_81.mkv
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_65.mkv
 
 
@@ -2072,6 +2072,18 @@ http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_73.mkv
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_74.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 72
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_75.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 73
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_76.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 74
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_77.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 75
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_78.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 76
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_79.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 77
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_80.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 78
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_81.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg" group-title="El cartel de los sapos: El origen",Cap. 01
 http://series.tuxchannel.mx/series/el_cartel_de_los_sapos_el_origen/s_01_e_01.mkv
