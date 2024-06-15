@@ -11451,7 +11451,9 @@ http://vod.tuxchannel.mx/peliculas/720/ned%20kelly.mkv
 http://vod.tuxchannel.mx/peliculas/720/next.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nMHCJiVFjUmQWC116Ze96u5IhfX.jpg" group-title="Peliculas Viejas",Ningún sistema es seguro (2014)
 http://vod.tuxchannel.mx/peliculas/720/who%20am%20i.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6SG4B2EF44YUht4SqdKFfwFt0FT.jpg" group-title="Peliculas Viejas",Ninja 2: La sombra de la muerte (2013)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QfcD8ui.jpeg" group-title="Peliculas Viejas",Ninja 1 (2009)
+http://144.217.70.79/VODS-M/1080P/Ninja%202009.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6SG4B2EF44YUht4SqdKFfwFt0FT.jpg" group-title="Peliculas Viejas",Ninja 2 (2013)
 http://vod.tuxchannel.mx/peliculas/720/ninja%20II%20shadow%20of%20a%20tear.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/HcxdxBwim2pektuSqeak9byx8E.jpg" group-title="Peliculas Viejas",Ninja americano 1 (1985)
 http://vod.tuxchannel.mx/peliculas/720/american%20ninja.mkv
