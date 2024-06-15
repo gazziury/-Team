@@ -11653,6 +11653,10 @@ http://vod.tuxchannel.mx/peliculas/720/poltergeist%20III.mkv
 http://vod.tuxchannel.mx/peliculas/720/always.mkv
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b6/66/85/b66685f9a8ff34c44e8f2c963be01ca3.jpg" group-title="Peliculas Viejas",Por unos dólares más (1965)
 http://vod.tuxchannel.mx/peliculas/720/per%20qualche%20dollaro%20in%20piu.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1ma5b9XLCziCHzQP0Zy1Y1PqNyM.jpg" group-title="Peliculas Viejas",Poseidón (2006)
+http://vod.tuxchannel.mx/peliculas/720/poseidon.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6PAcOBxEZi9LgJzjhw5Sb14yqO3.jpg" group-title="Peliculas Viejas",Poseídos (1998)
+http://vod.tuxchannel.mx/peliculas/720/fallen.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/mTbruLK.jpeg" group-title="Peliculas Viejas",Posesión infernal 1 (1981)
 http://144.217.70.79/VODS-M/1080P/Evil%20Dead%201981.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/PDGvSi7.jpeg" group-title="Peliculas Viejas",Posesión infernal 2 (1987)
@@ -11661,10 +11665,8 @@ http://144.217.70.79/VODS-M/1080P/Evil%20Dead%202%201987.mkv
 http://vod.tuxchannel.mx/peliculas/720/el%20ejercito%20de%20las%20tinieblas.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg" group-title="Peliculas Viejas",Posesión infernal 4 (2013)
 http://vod.tuxchannel.mx/peliculas/720/evil%20dead.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1ma5b9XLCziCHzQP0Zy1Y1PqNyM.jpg" group-title="Peliculas Viejas",Poseidón (2006)
-http://vod.tuxchannel.mx/peliculas/720/poseidon.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6PAcOBxEZi9LgJzjhw5Sb14yqO3.jpg" group-title="Peliculas Viejas",Poseídos (1998)
-http://vod.tuxchannel.mx/peliculas/720/fallen.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/K21NvUt.jpeg" group-title="Peliculas Viejas",Posesión satánica (2012)
+http://144.217.70.79/VODS-M/1080P/The%20Possession%202012.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kImKATjY4EsK5MDgrmpJdGbQEbq.jpg" group-title="Peliculas Viejas",Powder: Pura energía (1995)
 http://vod.tuxchannel.mx/peliculas/720/pura%20energia.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mOTIPLQgpivZy9mvPKAanAwlaN.jpg" group-title="Peliculas Viejas",Predestinación (2014)
