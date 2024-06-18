@@ -4412,6 +4412,19 @@ http://series.tuxchannel.mx/series/equinox/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/11/23/09/17/3207462.jpg" group-title="Equinox",Cap. 06
 http://series.tuxchannel.mx/series/equinox/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ig9fh18.jpeg" group-title="Eric",Cap. 01
+http://series.tuxchannel.mx/series/eric/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ig9fh18.jpeg" group-title="Eric",Cap. 02
+http://series.tuxchannel.mx/series/eric/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ig9fh18.jpeg" group-title="Eric",Cap. 03
+http://series.tuxchannel.mx/series/eric/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ig9fh18.jpeg" group-title="Eric",Cap. 04
+http://series.tuxchannel.mx/series/eric/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ig9fh18.jpeg" group-title="Eric",Cap. 05
+http://series.tuxchannel.mx/series/eric/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ig9fh18.jpeg" group-title="Eric",Cap. 06
+http://series.tuxchannel.mx/series/eric/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Escuela para señoritas de Al Rawabi",TRAILER
 https://archive.org/download/trailer-4l-r-4w-4bi/trailer%204l%20r4w4bi.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/21/05/11/13/40/0212404.jpg" group-title="Escuela para señoritas de Al Rawabi",Cap. 01
