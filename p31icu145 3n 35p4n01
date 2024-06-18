@@ -8683,6 +8683,8 @@ http://144.217.70.79/VODS-M/1080P/Murder%20on%20the%20Orient%20Express%201974.mk
 http://vod.tuxchannel.mx/peliculas/720/murder%20in%20the%20first.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x21s3p5wPww534nYj1cWakTcqz4.jpg" group-title="Peliculas Viejas",Asesino a sueldo (2006)
 http://vod.tuxchannel.mx/peliculas/720/lucky%20number%20slevin.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Kjkqr4O.jpeg" group-title="Peliculas Viejas",Asesino Kung Fu (2014)
+http://vod.tuxchannel.mx/peliculas/720/yi%20ge%20ren%20de%20wu%20lin.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5twFaR5A1Y9C3KAt6uy6iq332m0.jpg" group-title="Peliculas Viejas",Asesino ninja (2009)
 http://vod.tuxchannel.mx/peliculas/720/ninja%20assassin.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkgqS4jn60E8UIExfceMUExB3ZKK.jpg" group-title="Peliculas Viejas",Asesinos (1995)
@@ -10629,8 +10631,6 @@ http://vod.tuxchannel.mx/peliculas/720/king%20kong%201976.mkv
 http://vod.tuxchannel.mx/peliculas/720/king%20kong.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zxhnpZEF7LcbvZ0lD8Fm3Rh6i2D.jpg" group-title="Peliculas Viejas",Krull (1983)
 http://vod.tuxchannel.mx/peliculas/720/krull.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/Kjkqr4O.jpeg" group-title="Peliculas Viejas",Kung Fu Jungle (2014)
-http://vod.tuxchannel.mx/peliculas/720/yi%20ge%20ren%20de%20wu%20lin.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg" group-title="Peliculas Viejas",Kung Fu Panda 1 (2008)
 http://vod.tuxchannel.mx/peliculas/720/kung%20fu%20panda.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg" group-title="Peliculas Viejas",Kung Fu Panda 2 (2011)
