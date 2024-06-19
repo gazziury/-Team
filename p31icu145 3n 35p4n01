@@ -8697,6 +8697,8 @@ http://vod.tuxchannel.mz/peliculas/720/assassins.mkv
 http://vod.tuxchannel.mx/peliculas/720/screamers.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7O2U0WPFPSvNSUYZlhbnV081lBF.jpg" group-title="Peliculas Viejas",Asesinos de elite (2011)
 http://vod.tuxchannel.mx/peliculas/720/killer%20elite.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/aqjlzMc.jpeg" group-title="Peliculas Viejas",Asesino solitario (2007)
+http://vod.tuxchannel.mx/peliculas/720/war.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2fd7UrKcFp9xShEmDBGKHZeuWfe.jpg" group-title="Peliculas Viejas",Asesinos por naturaleza (1994)
 http://vod.tuxchannel.mx/peliculas/720/natural%20born%20killers.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5emgnXYrXjqyiup2JsvtuENseiV.jpg" group-title="Peliculas Viejas",Asesino virtual (1995)
@@ -9411,8 +9413,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20ring%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20art%20of%20war.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg" group-title="Peliculas Viejas",El asesinato de Jesse James (2007)
 http://vod.tuxchannel.mx/peliculas/720/the%20assassination%20of%20jesse%20james.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/scFc8RD4sFxB2x0eIOaymphMnYh.jpg" group-title="Peliculas Viejas",El asesino (2007)
-http://vod.tuxchannel.mx/peliculas/720/war.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg" group-title="Peliculas Viejas",El ataque a la Casa Blanca (2013)
 http://vod.tuxchannel.mx/peliculas/720/la%20caida%20de%20la%20casa%20blanca.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q1fXWEoZXogYjAUy32pUc6NL2IH.jpg" group-title="Peliculas Viejas",El Avispón Verde (2011)
