@@ -10677,6 +10677,8 @@ http://vod.tuxchannel.mx/peliculas/720/nick%20of%20time.mkv
 http://144.217.70.79/VODS-M/1080P/Vantage%20Point%202008.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/21mBNUe0X4WYywe6w5DyihltmAn.jpg" group-title="Peliculas Viejas",K-9 (1989)
 http://vod.tuxchannel.mx/peliculas/720/k-9.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Cli5wLH.jpeg" group-title="Peliculas Viejas",K-19 (2002)
+http://144.217.70.79/VODS-M/1080P/K-19%20The%20Widowmaker%202002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4E39RrmgXspAqGro2poDEdjvAnh.jpg" group-title="Peliculas Viejas",Kalifornia (1993)
 http://vod.tuxchannel.mx/peliculas/720/kalifornia%201993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg" group-title="Peliculas Viejas",Karate Kid (1984)
