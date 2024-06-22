@@ -10995,6 +10995,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20adventures%20of%20sharkboy%20and%20
 http://vod.tuxchannel.mx/peliculas/720/las%20aventuras%20de%20tadeo%20jones.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/iIVu7wk.jpeg" group-title="Peliculas Viejas",Las aventuras de Winnie Pooh (1977)
 http://144.217.70.79/VODS-M/1080P/The%20Many%20Adventures%20of%20Winnie%20the%20Pooh%201977.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/OwsbKRU.jpeg" group-title="Peliculas Viejas",Las brujas de Eastwick (1987)
+http://144.217.70.79/VODS-M/1080P/The%20Witches%20of%20Eastwick%201987.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/clfyMMg00OiowO5uupKpVKjRwmV.jpg" group-title="Peliculas Viejas",Las crónicas de Narnia 1 (2005)
 https://archive.org/download/l4s-cr0n1c45-de-n4rn14/L4S%20CR0N1C45%20DE%20N4RN14-2005.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg" group-title="Peliculas Viejas",Las crónicas de Narnia 2 (2008)
@@ -11003,16 +11005,16 @@ https://archive.org/download/l4s-cr0n1c45-de-n4rn14/L4S%20CR0N1C45%20DE%20N4RN14
 https://archive.org/download/l4s-cr0n1c45-de-n4rn14/L4S%20CR0N1C45%20DE%20N4RN14-2010.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg" group-title="Peliculas Viejas",Las crónicas de Spiderwick (2008)
 http://vod.tuxchannel.mx/peliculas/720/the%20spiderwick%20chronicles.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/O6LpJN4.jpeg" group-title="Peliculas Viejas",Las locuras de Dick y Jane (2005)
-http://144.217.70.79/VODS-M/1080P/Fun%20with%20Dick%20and%20Jane%202005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVS1WuthGRR7rV8JxwwQkSFLmT5.jpg" group-title="Peliculas Viejas",La secta (2011)
 http://vod.tuxchannel.mx/peliculas/720/red%20state%202011.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/opZNdMgVBl3kKpKlW58PXnLZKFV.jpg" group-title="Peliculas Viejas",La señal (2014)
 http://vod.tuxchannel.mx/peliculas/720/the%20signal.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/plcZXvI310FkbwIptvd6rqk63LP.jpg" group-title="Peliculas Viejas",La sirenita (1989)
-http://vod.tuxchannel.mx/peliculas/720/the%20little%20mermaid.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Cnej1gu.jpeg" group-title="Peliculas Viejas",La serpiente a la sombra del águila (1978)
 http://144.217.70.79/VODS-M/1080P/Snake%20in%20the%20Eagles%20Shadow%201978.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/plcZXvI310FkbwIptvd6rqk63LP.jpg" group-title="Peliculas Viejas",La sirenita (1989)
+http://vod.tuxchannel.mx/peliculas/720/the%20little%20mermaid.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/O6LpJN4.jpeg" group-title="Peliculas Viejas",Las locuras de Dick y Jane (2005)
+http://144.217.70.79/VODS-M/1080P/Fun%20with%20Dick%20and%20Jane%202005.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/B3GsVnZ.jpeg" group-title="Peliculas Viejas",Las manos del diablo (2001)
 http://144.217.70.79/VODS-M/1080P/Frailty%202001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eoAZQ3pMZSH0WuJQ76vSEIVYrLf.jpg" group-title="Peliculas Viejas",Las novias de mis amigos (2014)
