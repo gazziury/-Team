@@ -10189,6 +10189,8 @@ http://vod.tuxchannel.mx/peliculas/720/tangled.mkv
 http://144.217.70.79/VODS-M/1080P/Office%20Space%201999.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cho221S7gbEWScX3Wo5PNumV8lP.jpg" group-title="Peliculas Viejas",En tercera persona (2013)
 http://vod.tuxchannel.mx/peliculas/720/third%20person.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/mb7f60n.jpeg" group-title="Peliculas Viejas",En territorio enemigo (2006)
+http://144.217.70.79/VODS-M/1080P/Second%20in%20Command%202006.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/RBkUpK0.jpeg" group-title="Peliculas Viejas",En trance (2013)
 http://144.217.70.79/VODS-M/1080P/Trance%202013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fcLFvIqCUrhY96mkSmr3okxaMEw.jpg" group-title="Peliculas Viejas",Entrenando a papá (2007)
