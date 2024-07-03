@@ -8547,6 +8547,8 @@ http://vod.tuxchannel.mx/peliculas/720/paranormal%20activity%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/paranormal%20activity%204.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/FI9iql4.jpeg" group-title="Peliculas Viejas",Admitido (2006)
 http://144.217.70.79/VODS-M/1080P/Accepted%202006.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/BmAEonC.jpeg" group-title="Peliculas Viejas",Adrenalina 1: Muerte anunciada (2006)
+http://vod.tuxchannel.mx/peliculas/720/crank.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg" group-title="Peliculas Viejas",Adventureland: Un verano memorable (2009)
 http://vod.tuxchannel.mx/peliculas/720/adventureland.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fruc33YnCrmCL8PHdPQVzfa4shWX.jpg" group-title="Peliculas Viejas",A él no le gustas tanto (2009)
@@ -9239,8 +9241,6 @@ http://vod.tuxchannel.mx/peliculas/720/coriolanus.mkv
 http://vod.tuxchannel.mx/peliculas/720/cosmopolis.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/oXz0DLc.jpeg" group-title="Peliculas Viejas",Cotton club (1984)
 http://144.217.70.79/VODS-M/1080P/The%20Cotton%20Club%201984.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtoaY9CoMAy37QNv8HbbUqWS4X1Q.jpg" group-title="Peliculas Viejas",Crank 1: Muerte anunciada (2006)
-http://vod.tuxchannel.mx/peliculas/720/crank.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3aOOJQEoU9iL9hYNTbEuFNDaDnn.jpg" group-title="Peliculas Viejas",Crash: Alto impacto (2004)
 http://vod.tuxchannel.mx/peliculas/720/crash%202004.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7D4ZS7LUnc89ptIt0yW7L4SYPOG.jpg" group-title="Peliculas Viejas",Criaturas rastreras (2006)
