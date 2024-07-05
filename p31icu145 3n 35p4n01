@@ -8647,6 +8647,8 @@ http://144.217.70.79/VODS-M/1080P/Thirteen%202003.mkv
 http://vod.tuxchannel.mx/peliculas/720/mercury%20rising.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/4d2vEqM.jpeg" group-title="Peliculas Viejas",Alucinaciones del pasado 1 (1990)
 http://144.217.70.79/VODS-M/1080P/Jacobs%20Ladder%201990.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xzJ5FaB.jpeg" group-title="Peliculas Viejas",Ámame o muérete (2010)
+http://144.217.70.79/VODS-M/1080P/Killers%202010.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zjpejvqEqszIKDpLEZscalyiV2f.jpg" group-title="Peliculas Viejas",Amelie (2001)
 http://vod.tuxchannel.mx/peliculas/720/amelie.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ttquyxStEEctzghtA2f4PUGprDr.jpg" group-title="Peliculas Viejas",Amanecer de los muertos (2004)
