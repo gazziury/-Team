@@ -12357,6 +12357,8 @@ http://vod.tuxchannel.mx/peliculas/720/cliffhanger.mkv
 http://vod.tuxchannel.mx/peliculas/720/rio.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg" group-title="Peliculas Viejas",Río 2 (2014)
 http://vod.tuxchannel.mx/peliculas/720/rio%202.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KWcupYn.jpeg" group-title="Peliculas Viejas",Río Bravo (1959)
+http://144.217.70.79/VODS-M/1080P/Rio%20Bravo%201959.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/U7h31Sz.jpeg" group-title="Peliculas Viejas",Río místico (2003)
 http://144.217.70.79/VODS-M/1080P/Mystic%20River%202003.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/RyIXe7v.jpeg" group-title="Peliculas Viejas",Río salvaje (1994)
