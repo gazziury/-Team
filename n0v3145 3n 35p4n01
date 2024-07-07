@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_115.mkv
-
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_25.mkv
 
 
 
@@ -3939,6 +3939,57 @@ http://series.tuxchannel.mx/series/la_herencia/s_01_e_78.mkv
 http://series.tuxchannel.mx/series/la_herencia/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU4M2YzMDEtOTIyNi00MzkzLTk0ZjMtYzg4MGM2OGQ3YjkzXkEyXkFqcGdeQXVyMjY3NjE4Mw@@._V1_FMjpg_UX1000_.jpg" group-title="La herencia",Cap. 80
 http://series.tuxchannel.mx/series/la_herencia/s_01_e_80.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 01
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 02
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 03
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 04
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 05
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 06
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 07
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 08
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 09
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 10
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 11
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_11.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 12
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 13
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 14
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 15
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_15.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 16
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_16.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 17
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_17.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 18
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_18.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 19
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_19.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 20
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_20.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 21
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_21.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 22
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_22.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 23
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 24
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 25
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_25.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 01
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_01.mkv
