@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_115.mkv
-http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_91.mkv
+
 
 
 
@@ -2102,6 +2102,14 @@ http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_89.mkv
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_90.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 88
 http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_91.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 89
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_92.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 90
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_93.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 91
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_94.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDRy8B1KdapuvBsgkCkEETY4MNr.jpg" group-title="El amor no tiene receta",Cap. 92
+http://series.tuxchannel.mx/series/el_amor_no_tiene_receta/s_01_e_95.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg" group-title="El cartel de los sapos: El origen",Cap. 01
 http://series.tuxchannel.mx/series/el_cartel_de_los_sapos_el_origen/s_01_e_01.mkv
