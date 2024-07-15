@@ -1927,8 +1927,6 @@ http://vod.tuxchannel.mx/peliculas/720/on%20the%20other%20foot%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/family%20camp%202022.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8T6Qz12.jpeg" group-title="2022",Cangrejo negro (2022)
 http://vod.tuxchannel.mx/peliculas/720/black%20crab%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg" group-title="2022",Carretera del paraíso (2022)
-http://vod.tuxchannel.mx/peliculas/720/paradise%20highway%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uzAh3Ub2YttCz13cnyB9PvhpmIL.jpg" group-title="2022",Carter (2022)
 http://vod.tuxchannel.mx/peliculas/720/carter%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2uXFpjL4VPMiJAFQn2E9ty6e2bd.jpg" group-title="2022",Cásate conmigo (2022)
@@ -2757,6 +2755,8 @@ http://vod.tuxchannel.mx/peliculas/720/the%20requin%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/black%20panther%20wakanda%20forever%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9hH23K3Nv8ekBiUvHFWoRbDjcOc.jpg" group-title="2022",Papá al rescate (2022)
 http://vod.tuxchannel.mx/peliculas/720/papa%20al%20rescate%202022.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ZUgkCiu.jpeg" group-title="2022",Paraíso: El camino del crimen (2022)
+http://vod.tuxchannel.mx/peliculas/720/paradise%20highway%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1tzERH50P5c2mFWtLbgixzLZS1L.jpg" group-title="2022",Pasaje al paraíso (2022)
 http://vod.tuxchannel.mx/peliculas/720/ticket%20to%20paradise.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Faqn3bSUJRFJkW5eIj8vg9TFTzfe.jpg" group-title="2022",Pasajero 666 (2022)
