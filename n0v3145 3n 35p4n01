@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_122.mkv
-http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_25.mkv
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_32.mkv
 
 
 
@@ -3990,6 +3990,20 @@ http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_23.mkv
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_24.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 25
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 26
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 27
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 28
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_28.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 29
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_29.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 30
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_30.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 31
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_31.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 32
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_32.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 01
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_01.mkv
