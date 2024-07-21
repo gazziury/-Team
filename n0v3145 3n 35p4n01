@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_34.mkv
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_05.mkv
-http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_122.mkv
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_125.mkv
 
 
 
@@ -9848,6 +9848,12 @@ http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_120.mkv
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_121.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 122
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_122.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 123
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_123.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 124
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_124.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5I0koi3lvHtGDhYvfAkLssQKEGO.jpg" group-title="Vivir de amor",Cap. 125
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_125.mkv
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsGgYl7voI8T34azn5biA0MRpG3c.jpg" group-title="Vuelve a mí",Cap. 01
 http://series.tuxchannel.mx/series/vuelve_a_mi/s_01_e_01.mkv
