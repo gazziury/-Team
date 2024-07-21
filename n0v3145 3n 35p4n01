@@ -6,9 +6,9 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_122.mkv
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_05.mkv
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_34.mkv
-
+http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_122.mkv
 
 
 
@@ -5764,6 +5764,17 @@ http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_63.mkv
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_64.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4vBK8NbuBeraUDoiFnK0B2P4V9P.jpg" group-title="Marea de pasiones",Cap. 65
 http://series.tuxchannel.mx/series/marea_de_pasiones/s_01_e_65.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 001
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 002
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 003
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 004
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 005
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_05.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4P1Ps8u2M9XMxQnFIJVBbgL9b40.jpg" group-title="Mi fortuna es amarte",Cap. 01
 http://series.tuxchannel.mx/series/mi_fortuna_es_amarte/s_01_e_01.mkv
