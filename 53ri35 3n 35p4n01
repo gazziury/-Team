@@ -7,6 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 NETTV
+https://tvnettv.space/contenido/series/Lady%20in%20the%20Lake/lat/La%20mujer%20en%20el%20lago%20S01E02%20WEB-DL1080p%20Latino%20.mp4
 La casa del dragón T2... https://tvnettv.space/contenido/series/House%20of%20the%20Dragon/LAT/La%20Casa%20del%20Drag%c3%b3n%20S02E06%20WEB-DL%201080p%20Latino.mp4
 https://tvnettv.space/contenido/series/Presumed%20Innocent/LAT/Se%20presume%20inocente%20S01E07%201080p%20WEB-DL%20Latino.mp4... son 8
 http://series.tuxchannel.mx/series/el_encargado/s_03_e_02.mkv
@@ -6547,6 +6548,11 @@ http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_08.mkv
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 10
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_10.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ZhiLnBY.jpeg" group-title="La mujer en el lago",Cap. 01
+https://tvnettv.space/contenido/series/Lady%20in%20the%20Lake/lat/La%20mujer%20en%20el%20lago%20S01E01%20WEB-DL1080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ZhiLnBY.jpeg" group-title="La mujer en el lago",Cap. 02
+https://tvnettv.space/contenido/series/Lady%20in%20the%20Lake/lat/La%20mujer%20en%20el%20lago%20S01E02%20WEB-DL1080p%20Latino%20.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La Negociadora",TRAILER
 https://archive.org/download/trailer-l-4-n-3g-0c-14d-0r-4/trailer%20L4%20N3g0c14d0r4.mp4
