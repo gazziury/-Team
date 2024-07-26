@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_38.mkv
-http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_05.mkv
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_08.mkv
 http://series.tuxchannel.mx/series/vivir_de_amor/s_01_e_125.mkv
 
 
@@ -5782,6 +5782,12 @@ http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_03.mkv
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 005
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 006
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 007
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 008
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4P1Ps8u2M9XMxQnFIJVBbgL9b40.jpg" group-title="Mi fortuna es amarte",Cap. 01
 http://series.tuxchannel.mx/series/mi_fortuna_es_amarte/s_01_e_01.mkv
