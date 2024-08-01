@@ -7,6 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 NETTV
+https://tvnettv.space/contenido/series/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E04%20WEB-DL1080p%20Latino.mp4
 https://tvnettv.space/contenido/series/Hotel%20Cocaine/Hotel.Cocaine.S01E05.720p.WEBRip.mp4
 https://tvnettv.space/contenido/series/Lady%20in%20the%20Lake/lat/La%20mujer%20en%20el%20lago%20S01E03%20WEB-DL1080p%20Latino.mp4
 La casa del dragón T2... https://tvnettv.space/contenido/series/House%20of%20the%20Dragon/LAT/House.of.the.Dragon.S02E07.1080p.WEBRip.Dual.Latino%20%281%29.mp4
@@ -661,6 +662,15 @@ https://archive.org/download/bajosospechatemporada1episodio1/Bajo%20sospecha%20T
 https://archive.org/download/bajosospechatemporada1episodio1/Bajo%20sospecha%20Temporada%201%20Episodio%207.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/15/05/27/13/32/384328.jpg" group-title="Bajo sospecha T1",Cap. 08
 https://archive.org/download/bajosospechatemporada1episodio1/Bajo%20sospecha%20Temporada%201%20Episodio%208.mp4
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Bandidos del tiempo",Cap. 01
+https://tvnettv.space/contenido/series/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E01%20WEB-DL1080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Bandidos del tiempo",Cap. 02
+https://tvnettv.space/contenido/series/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E02%20WEB-DL1080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Bandidos del tiempo",Cap. 03
+https://tvnettv.space/contenido/series/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E03%20WEB-DL1080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Bandidos del tiempo",Cap. 04
+https://tvnettv.space/contenido/series/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E04%20WEB-DL1080p%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Barbaros T1",TRAILER
 https://archive.org/download/trailer-b-4rb-4r-05/trailer%20B4rb4r05.mp4
