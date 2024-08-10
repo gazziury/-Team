@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_44.mkv
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_49.mkv
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_14.mkv
 
 
@@ -4027,6 +4027,16 @@ http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_42.mkv
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_43.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 43
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_44.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 44
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_45.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 45
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_46.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 46
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_47.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 47
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_48.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/C8wQP3e.jpeg" group-title="La historia de Juana",Cap. 48
+http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_49.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 01
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_01.mkv
