@@ -10,7 +10,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_65.mkv
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_35.mkv
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_42.mkv
-http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_19.mkv
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_25.mkv
 
 
 
@@ -2149,6 +2149,18 @@ http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_17.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_18.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 018
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_19.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 019
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_20.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 020
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_21.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 021
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_22.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 022
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 023
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 024
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_25.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg" group-title="El cartel de los sapos: El origen",Cap. 01
 http://series.tuxchannel.mx/series/el_cartel_de_los_sapos_el_origen/s_01_e_01.mkv
