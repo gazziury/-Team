@@ -5193,8 +5193,6 @@ http://vod.tuxchannel.mx/peliculas/720/santana%202020.mkv
 http://vod.tuxchannel.mx/peliculas/720/scooby%202020.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/AqkWMPr.jpeg" group-title="2020",Se busca papá (2020)
 http://vod.tuxchannel.mx/peliculas/720/se%20busca%20papa%202020.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eUF88sfb9P26DJPxqqF28AOVWmp.jpg" group-title="2020",Secretos del pasado (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20dry%202020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xCBq7j42ewyYGTqS31Srnfb6Mm3.jpg" group-title="2020",Secretos en la nieve (2020)
 http://vod.tuxchannel.mx/peliculas/720/secrets%20in%20the%20snow%202020.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlM2FjMzYtMWEwNC00NTRlLTlhZWEtNDVkN2QzOTJjYjJkXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="2020",Siberia (2020)
@@ -5271,6 +5269,8 @@ http://vod.tuxchannel.mx/peliculas/720/hooking%20up%202020.mkv
 http://vod.tuxchannel.mx/peliculas/720/tesla%202020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oz8hvZHg7tIdGwh0ErPRhobJKPR.jpg" group-title="2020",The call: La llamada del Diablo (2020)
 http://vod.tuxchannel.mx/peliculas/720/the%20call%202020.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2YDZmhL.jpeg" group-title="2020",The dry 1: Secretos del pasado (2020)
+http://vod.tuxchannel.mx/peliculas/720/the%20dry%202020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jYnedFgdnN62QXE8HAPVtQKNFFm.jpg" group-title="2020",The old ways (2020)
 http://vod.tuxchannel.mx/peliculas/720/the%20old%20ways%202020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d4DExMLilGswe2XHEeUNSn57TgI.jpg" group-title="2020",Tierras altas (2020)
