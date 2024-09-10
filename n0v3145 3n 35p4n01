@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/la_historia_de_juana/s_01_e_65.mkv
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_41.mkv
-http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_42.mkv
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_45.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_25.mkv
 
 
@@ -2363,6 +2363,12 @@ http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_40.mkv
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_41.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 040
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_42.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 041
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_43.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 042
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_44.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 043
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_45.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rtFng4mHDtE7vEwiDJZikyODloc.jpg" group-title="El señor de los cielos T7",Cap. 01
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_07_e_01.mkv
