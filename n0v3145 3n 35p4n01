@@ -10,7 +10,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_45.mkv
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_49.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_35.mkv
-
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_10.mkv
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/24/17/07/4704719.jpg" group-title="100 días para enamorarnos T1",Cap. 01
@@ -2396,6 +2396,27 @@ http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_47.mkv
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_48.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 047
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_49.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 001
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 002
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 003
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 004
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 005
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 006
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 007
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 008
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 009
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 010
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rtFng4mHDtE7vEwiDJZikyODloc.jpg" group-title="El señor de los cielos T7",Cap. 01
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_07_e_01.mkv
