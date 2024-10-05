@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_54.mkv
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_59.mkv
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_58.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_44.mkv
 http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_19.mkv
@@ -6171,6 +6171,16 @@ http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_52.mkv
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_53.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 053
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_54.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 054
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_55.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 055
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_56.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 056
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_57.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 057
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_58.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 058
+http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_59.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4P1Ps8u2M9XMxQnFIJVBbgL9b40.jpg" group-title="Mi fortuna es amarte",Cap. 01
 http://series.tuxchannel.mx/series/mi_fortuna_es_amarte/s_01_e_01.mkv
