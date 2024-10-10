@@ -6,9 +6,6 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-NETTV
-Los héroes del tiempo   https://tvnettv.space/contenido/series/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E04%20WEB-DL1080p%20Latino.mp4
-                        https://tvnettv.space/contenido/series/Time%20Bandits/sub/Time.Bandits.S01e06.1080P.Sub.mp4
 
 El señor de los anillos  https://innovatv.store/contenido/SERIES/Lord%20of%20the%20Rings%20The%20Rings%20of%20Power/LAT/El%20se%c3%b1or%20de%20los%20anillos%20Los%20anillos%20de%20poder%20S02E08%20WEB-DL%201080p%20Latino.mp4
                          http://series.tuxchannel.mx/series/lord_of_the_rings_the_rings_of_power/s_02_e_07.mkv
@@ -7351,9 +7348,17 @@ https://tvnettv.space/contenido/series/Time%20Bandits/lat/Bandidos%20en%20el%20t
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Los héroes del tiempo",Cap. 04
 https://tvnettv.space/contenido/series/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E04%20WEB-DL1080p%20Latino.mp4
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Los héroes del tiempo",Cap. 05
-https://tvnettv.space/contenido/series/Time%20Bandits/sub/Time.Bandits.S01e05.1080pSub.mp4
+https://innovatv.store/contenido/SERIES/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E05%20WEB-DL%201080p%20Latino.mp4
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Los héroes del tiempo",Cap. 06
-https://tvnettv.space/contenido/series/Time%20Bandits/sub/Time.Bandits.S01e06.1080P.Sub.mp4
+https://innovatv.store/contenido/SERIES/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E06%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Los héroes del tiempo",Cap. 07
+https://innovatv.store/contenido/SERIES/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E07%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Los héroes del tiempo",Cap. 08
+https://innovatv.store/contenido/SERIES/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E08%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Los héroes del tiempo",Cap. 09
+https://innovatv.store/contenido/SERIES/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E09%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2SZi9z3.jpeg" group-title="Los héroes del tiempo",Cap. 10
+https://innovatv.store/contenido/SERIES/Time%20Bandits/lat/Bandidos%20en%20el%20tiempo%20S01E10%20WEB-DL%201080p%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/11/12/2601071.jpg" group-title="Los hijos de Sam: Un descenso a los infiernos",Cap. 01
 http://series.tuxchannel.mx/series/the_sons_of_sam_a_descent_into_darkness/s_01_e_01.mkv
