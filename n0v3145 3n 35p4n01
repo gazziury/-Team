@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_65.mkv
-http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_63.mkv
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_54.mkv
 http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_24.mkv
 
@@ -2462,6 +2462,18 @@ http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_61.mkv
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_62.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 061
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_63.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 062
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_64.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 063
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_65.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 064
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_66.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 065
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_67.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 066
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_68.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/DRrOvT2.jpeg" group-title="El conde: Amor y honor",Cap. 067
+http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_69.mkv
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 001
 http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_01.mkv
