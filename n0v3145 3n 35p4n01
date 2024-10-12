@@ -10,7 +10,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_65.mkv
 http://series.tuxchannel.mx/series/el_conde_amor_y_honor/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_54.mkv
-http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_24.mkv
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_30.mkv
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/24/17/07/4704719.jpg" group-title="100 días para enamorarnos T1",Cap. 01
@@ -2523,6 +2523,18 @@ http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_22.mkv
 http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_23.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 024
 http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 025
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 026
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 027
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 028
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_28.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 029
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_29.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EQlsG5M.jpeg" group-title="El precio de amarte",Cap. 030
+http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_30.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rtFng4mHDtE7vEwiDJZikyODloc.jpg" group-title="El señor de los cielos T7",Cap. 01
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_07_e_01.mkv
