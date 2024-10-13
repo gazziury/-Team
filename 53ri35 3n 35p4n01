@@ -18,6 +18,7 @@ Las Azules   https://innovatv.store/contenido/SERIES/Las%20azules/Las%20Azules%2
              http://series.tuxchannel.mx/series/las_azules/s_01_e_07.mkv
 
 TUX
+http://series.tuxchannel.mx/series/from/s_03_e_03.mkv ...TOTAL 10
 http://series.tuxchannel.mx/series/el_encargado/s_03_e_02.mkv
 
 
@@ -5139,6 +5140,13 @@ http://series.tuxchannel.mx/series/from/s_02_e_08.mkv
 http://series.tuxchannel.mx/series/from/s_02_e_09.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="From T2",Cap. 10
 http://series.tuxchannel.mx/series/from/s_02_e_10.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/WgpPvHs.jpeg" group-title="From T3",Cap. 01
+http://series.tuxchannel.mx/series/from/s_03_e_01.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/WgpPvHs.jpeg" group-title="From T3",Cap. 02
+http://series.tuxchannel.mx/series/from/s_03_e_02.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/WgpPvHs.jpeg" group-title="From T3",Cap. 03
+http://series.tuxchannel.mx/series/from/s_03_e_03.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Fuera de radar",TRAILER
 https://archive.org/download/trailer-th-3-unl-15t-3d/trailer%20th3%20unl15t3d.mp4
