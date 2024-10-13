@@ -7,56 +7,48 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 1 - A ESTRELA DA CASA (BRASIL)",CAM Principal 
-http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1249
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 1 - A ESTRELA DA CASA (BRASIL)",CAM 1
-http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1250
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 1 - A ESTRELA DA CASA (BRASIL)",CAM 2
-http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1251
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 1 - A ESTRELA DA CASA (BRASIL)",CAM 3
-http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1252
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 1 - A ESTRELA DA CASA (BRASIL)",CAM 4
-http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1253
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 1 - A ESTRELA DA CASA (BRASIL)",CAM 5
-http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1255
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 1 - A ESTRELA DA CASA (BRASIL)",CAM 6
-http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1256
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 1 - A ESTRELA DA CASA (BRASIL)",CAM 7
-http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1257
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM Principal 
-http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1249
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 1
-http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1250
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 2
-http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1251
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 3
-http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1252
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 4
-http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1253
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 5
-http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1255
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 6
-http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1256
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 7
-http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1257
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 1 - A FAZENDA 16 (BRASIL)",CAM 1
+http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1277
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 1 - A FAZENDA 16 (BRASIL)",CAM 2
+http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1278
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 1 - A FAZENDA 16 (BRASIL)",CAM 3
+http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1279
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 1 - A FAZENDA 16 (BRASIL)",CAM 4
+http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1280
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 1 - A FAZENDA 16 (BRASIL)",CAM 5
+http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1281
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 1 - A FAZENDA 16 (BRASIL)",CAM 6
+http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1282
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM Principal 
-http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1249
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 1
-http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1250
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 2
-http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1251
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 3
-http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1252
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 4
-http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1253
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 5
-http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1255
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 6
-http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1256
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/gdJp7jl.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 7
-http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1257
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 1
+http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1277
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 2
+http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1278
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 3
+http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1279
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 4
+http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1280
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 5
+http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1281
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 2 - A ESTRELA DA CASA (BRASIL)",CAM 6
+http://78.159.119.122:2082/xplus-2-Lan0kuige2/DvweuwX427/1282
+
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 1
+http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1277
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 2
+http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1278
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 3
+http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1279
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 4
+http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1280
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 5
+http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1281
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="XPLUS 3 - A ESTRELA DA CASA (BRASIL)",CAM 6
+http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1282
+
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="OFFICE - A FAZENDA 16 (BRASIL)",CAM Principal
 http://dns.maxptv.net:2052/md821a/abc125ad/171074
