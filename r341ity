@@ -69,20 +69,24 @@ http://dns.maxptv.net:2052/md821a/abc125ad/171081
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="OFFICE - A FAZENDA 16 (BRASIL)",CAM 08
 http://dns.maxptv.net:2052/md821a/abc125ad/171082
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="CSGS - A FAZENDA 16 (BRASIL)",CAM 01
-http://cdn.lvbxtv.com:80/play/09aPChpomhwlbdVF19oJTyUIwv6H2Gm4IvsFb0HWgLo
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="CSGS - A FAZENDA 16 (BRASIL)",CAM 02
-http://cdn.lvbxtv.com:80/play/09aPChpomhwlbdVF19oJT5eE-cpaoQlM96Oy3KrCZp0
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="CSGS - A FAZENDA 16 (BRASIL)",CAM 03
-http://cdn.lvbxtv.com:80/play/09aPChpomhwlbdVF19oJT-tauMVri9Y3wodbRxjrwSk
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="CSGS - A FAZENDA 16 (BRASIL)",CAM 04
-http://cdn.lvbxtv.com:80/play/09aPChpomhwlbdVF19oJTwLxikX2N-W1NGUumt7nXCY
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="CSGS - A FAZENDA 16 (BRASIL)",CAM 05
-http://cdn.lvbxtv.com:80/play/09aPChpomhwlbdVF19oJTyD48Bw-sLR6x5-GfFZ3Pnw
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="CSGS - A FAZENDA 16 (BRASIL)",CAM 06
-http://cdn.lvbxtv.com:80/play/09aPChpomhwlbdVF19oJT1F2PC9_C53h94zGxi0Zf70
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="CSGS - A FAZENDA 16 (BRASIL)",CAM 07
-http://cdn.lvbxtv.com:80/play/09aPChpomhwlbdVF19oJTw7gtaHKr-Pn0ZVEq1WWyMM
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM Principal 
+http://dns.maxptv.net:2052/123123123/85904697/171074
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM 01
+http://dns.maxptv.net:2052/123123123/85904697/171075
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM 02
+http://dns.maxptv.net:2052/123123123/85904697/171076
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM 03
+http://dns.maxptv.net:2052/123123123/85904697/171077
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM 04
+http://dns.maxptv.net:2052/123123123/85904697/171078
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM 05
+http://dns.maxptv.net:2052/123123123/85904697/171079
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM 06
+http://dns.maxptv.net:2052/123123123/85904697/171080
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM 07
+http://dns.maxptv.net:2052/123123123/85904697/171081
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/yTg6MVj.jpeg" group-title="MAXPTV - A FAZENDA 16 (BRASIL)",CAM 08
+http://dns.maxptv.net:2052/123123123/85904697/171082
 
 
 
