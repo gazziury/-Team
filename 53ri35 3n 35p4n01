@@ -6,6 +6,9 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+https://innovatv.store/contenido/SERIES/From/Fromsub4.mp4
+http://series.tuxchannel.mx/series/from/s_03_e_04.mkv
+
 https://innovatv.store/contenido/SERIES/Desprecio/lat/Desprecio%20S01E02%20WEB-DL%201080p%20Latino.mp4
 http://series.tuxchannel.mx/series/disclaimer/s_01_e_02.mkv
 
@@ -5160,6 +5163,8 @@ http://series.tuxchannel.mx/series/from/s_03_e_01.mkv
 http://series.tuxchannel.mx/series/from/s_03_e_02.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/WgpPvHs.jpeg" group-title="From T3",Cap. 03
 http://series.tuxchannel.mx/series/from/s_03_e_03.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/WgpPvHs.jpeg" group-title="From T3",Cap. 04
+http://series.tuxchannel.mx/series/from/s_03_e_04.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Fuera de radar",TRAILER
 https://archive.org/download/trailer-th-3-unl-15t-3d/trailer%20th3%20unl15t3d.mp4
