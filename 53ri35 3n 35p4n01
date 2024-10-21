@@ -5,6 +5,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/UHOI3ua.jpeg" group-title="TEAM VIP",SERIES GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
+https://innovatv.store/contenido/SERIES/Sweetpea/Sweetpeasub2.mp4
 
 https://innovatv.store/contenido/SERIES/From/Fromsub4.mp4
 http://series.tuxchannel.mx/series/from/s_03_e_04.mkv
@@ -9832,6 +9833,11 @@ http://series.tuxchannel.mx/series/sweet_home/s_01_e_08.mkv
 http://series.tuxchannel.mx/series/sweet_home/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/01/20/49/0619993.jpg" group-title="Sweet Home",Cap. 10
 http://series.tuxchannel.mx/series/sweet_home/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/galHDsB.jpeg" group-title="Sweetpea (SUB)",Cap. 01
+https://innovatv.store/contenido/SERIES/Sweetpea/SweetpeaSUB1.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/galHDsB.jpeg" group-title="Sweetpea (SUB)",Cap. 02
+https://innovatv.store/contenido/SERIES/Sweetpea/Sweetpeasub2.mp4
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/6wQ8XBO.jpeg" group-title="Teacup",Cap. 01
 http://series.tuxchannel.mx/series/teacup/s_01_e_01.mkv
