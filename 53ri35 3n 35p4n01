@@ -6681,20 +6681,31 @@ http://series.tuxchannel.mx/series/liseys_story/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/27/10/48/2634959.jpg" group-title="La Historia de Lisey",Cap. 05
 http://series.tuxchannel.mx/series/liseys_story/s_01_e_05.mkv
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La hora del diablo",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La hora del diablo T1",TRAILER
 https://archive.org/download/14-h-0r-4-d-31-d-14b-10/14%20h0r4%20d31%20d14b10.mp4
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo",Cap. 01
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo T1",Cap. 01
 http://series.tuxchannel.mx/series/the_devils_hour/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo",Cap. 02
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo T1",Cap. 02
 http://series.tuxchannel.mx/series/the_devils_hour/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo",Cap. 03
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo T1",Cap. 03
 http://series.tuxchannel.mx/series/the_devils_hour/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo",Cap. 04
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo T1",Cap. 04
 http://series.tuxchannel.mx/series/the_devils_hour/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo",Cap. 05
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo T1",Cap. 05
 http://series.tuxchannel.mx/series/the_devils_hour/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo",Cap. 06
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/05/20/15/02/4791720.jpg" group-title="La hora del diablo T1",Cap. 06
 http://series.tuxchannel.mx/series/the_devils_hour/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HyFAV3e.jpeg" group-title="La hora del diablo T2",Cap. 01
+https://innovatv.store/contenido/SERIES/La%20hora%20del%20diablo/lat/La%20hora%20del%20diablo%20S02E01%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HyFAV3e.jpeg" group-title="La hora del diablo T2",Cap. 02
+https://innovatv.store/contenido/SERIES/La%20hora%20del%20diablo/lat/La%20hora%20del%20diablo%20S02E02%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HyFAV3e.jpeg" group-title="La hora del diablo T2",Cap. 03
+https://innovatv.store/contenido/SERIES/La%20hora%20del%20diablo/lat/La%20hora%20del%20diablo%20S02E03%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HyFAV3e.jpeg" group-title="La hora del diablo T2",Cap. 04
+https://innovatv.store/contenido/SERIES/La%20hora%20del%20diablo/lat/La%20hora%20del%20diablo%20S02E04%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HyFAV3e.jpeg" group-title="La hora del diablo T2",Cap. 05
+https://innovatv.store/contenido/SERIES/La%20hora%20del%20diablo/lat/La%20hora%20del%20diablo%20S02E05%20WEB-DL%201080p%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La jauría",TRAILER
 https://archive.org/download/trailer-l-4-j-4-ur-14/trailer%20L4%20J4UR14.mp4
