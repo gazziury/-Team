@@ -7503,8 +7503,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20discovery.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20post.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/R5sxeNL.jpeg" group-title="2017",Thor: Ragnarok (2017)
 http://vod.tuxchannel.mx/peliculas/720/thor%20ragnarok.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/GiK4dUm.jpeg" group-title="2017",Time trap: Trampa del tiempo (2017)
-http://vod.tuxchannel.mx/peliculas/720/time%20trap%202017.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/5pWmQsU.jpeg" group-title="2017",Toc toc (2017)
 http://vod.tuxchannel.mx/peliculas/720/knock%20knock.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KJ6xYUP.jpeg" group-title="2017",Todo el dinero del mundo (2017)
@@ -7519,7 +7517,7 @@ http://vod.tuxchannel.mx/peliculas/720/todos%20queremos%20a%20alguien.mkv
 http://vod.tuxchannel.mx/peliculas/720/tokyo%20ghoul%202017.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3UgRc3vpOiW9HOAD7oBa16xQ21E.jpg" group-title="2017",Tragedy girls (2017)
 http://vod.tuxchannel.mx/peliculas/720/tragedy%20girls.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8w0hBC9kLy56F7rjwGIe8JtIrHS.jpg" group-title="2017",Trampa del tiempo (2017)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/GiK4dUm.jpeg" group-title="2017",Trampa del tiempo (2017)
 http://vod.tuxchannel.mx/peliculas/720/time%20trap%202017.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/12/w1280/7vg4GHN5YZ4eKCtaZIoFYRb1lR2.jpg" group-title="2017",Trampa mortal (2017)
 http://vod.tuxchannel.mx/peliculas/720/bullet%20head.mkv
