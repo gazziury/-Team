@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://innovatv.store/contenido/SERIES/Sweetpea/Swee%20S01E03%201080p%20Vose.mp4
 
 https://innovatv.store/contenido/SERIES/From/Fromsub4.mp4
-http://series.tuxchannel.mx/series/from/s_03_e_05.mkv
+http://series.tuxchannel.mx/series/from/s_03_e_06.mkv
 
 https://innovatv.store/contenido/SERIES/Disclaimer/Disclaimersub4.mp4
 http://series.tuxchannel.mx/series/disclaimer/s_01_e_05.mkv
@@ -5200,6 +5200,8 @@ http://series.tuxchannel.mx/series/from/s_03_e_03.mkv
 http://series.tuxchannel.mx/series/from/s_03_e_04.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/WgpPvHs.jpeg" group-title="From T3",Cap. 05
 http://series.tuxchannel.mx/series/from/s_03_e_05.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/WgpPvHs.jpeg" group-title="From T3",Cap. 06
+http://series.tuxchannel.mx/series/from/s_03_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Fuera de radar",TRAILER
 https://archive.org/download/trailer-th-3-unl-15t-3d/trailer%20th3%20unl15t3d.mp4
