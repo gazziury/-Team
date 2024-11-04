@@ -13500,8 +13500,10 @@ http://vod.tuxchannel.mx/peliculas/720/votos%20de%20amor.mkv
 http://vod.tuxchannel.mx/peliculas/720/vuelo%2093.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/47NRyV8VoJAyiLUdyNS6uZTOwwl.jpg" group-title="Peliculas Viejas",Vuelo nocturno (2005)
 http://vod.tuxchannel.mx/peliculas/720/red%20eye.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg" group-title="Peliculas Viejas",Wall street (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg" group-title="Peliculas Viejas",Wall street 1 (1987)
 http://vod.tuxchannel.mx/peliculas/720/wall%20street.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/XBTdP4R.jpeg" group-title="Peliculas Viejas",Wall street 2 (2010)
+http://144.217.70.79/VODS-M/1080P/Wall%20Street%20Money%20Never%20Sleeps%202010.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/6IyAd0O.jpeg" group-title="Peliculas Viejas",Warlock 1 (1989)
 http://144.217.70.79/VODS-M/1080P/Warlock%201989.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Lepwnzt.jpeg" group-title="Peliculas Viejas",Warlock 2 (1993)
