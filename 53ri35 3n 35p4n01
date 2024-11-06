@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 https://innovatv.store/contenido/SERIES/Like%20Water%20for%20Chocolate/Like.Water.for.Chocolate.S01E01%5b2024%5d%5bWEB-DL%5d%5bMAX%5d%5b1080p%5d%5bLatino%5d-TA_FI.mp4
 
-https://innovatv.store/contenido/SERIES/Sweetpea/Swee%20S01E03%201080p%20Vose.mp4
+https://innovatv.store/contenido/SERIES/Sweetpea/Sweetpeasub4.mp4
 
 https://innovatv.store/contenido/SERIES/From/Fromsub4.mp4
 http://series.tuxchannel.mx/series/from/s_03_e_06.mkv
@@ -9898,6 +9898,8 @@ https://innovatv.store/contenido/SERIES/Sweetpea/SweetpeaSUB1.mp4
 https://innovatv.store/contenido/SERIES/Sweetpea/Sweetpeasub2.mp4
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/galHDsB.jpeg" group-title="Sweetpea (SUB)",Cap. 03
 https://innovatv.store/contenido/SERIES/Sweetpea/Swee%20S01E03%201080p%20Vose.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/galHDsB.jpeg" group-title="Sweetpea (SUB)",Cap. 04
+https://innovatv.store/contenido/SERIES/Sweetpea/Sweetpeasub4.mp4
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/6wQ8XBO.jpeg" group-title="Teacup",Cap. 01
 http://series.tuxchannel.mx/series/teacup/s_01_e_01.mkv
