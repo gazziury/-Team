@@ -9,7 +9,10 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/el_precio_de_amarte/s_01_e_45.mkv
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_80.mkv
+
 https://innovatv.store/contenido/SERIES/Sed%20de%20venganza/Sed%20de%20venganza%20Telemundo%20Cap%c3%adtulo%2015.mp4
+https://innovatv.store/contenido/SERIES/Amor%20amargo/Amor%20amargo%20%201080p%20Capitulo%2002.mp4
+
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/24/17/07/4704719.jpg" group-title="100 días para enamorarnos T1",Cap. 01
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_01_e_01.mkv
@@ -196,6 +199,11 @@ http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_33.mkv
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_34.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/16/55/0631026.jpg" group-title="100 días para enamorarnos T2",Cap. 35
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_35.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 001
+https://innovatv.store/contenido/SERIES/Amor%20amargo/Amor%20amargo%20S01E01%20-%20Cap%c3%adtulo%2001.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 002
+https://innovatv.store/contenido/SERIES/Amor%20amargo/Amor%20amargo%20%201080p%20Capitulo%2002.mp4
 
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/3XGDUJPRCJCZNG5L7DFR7Q3SJA.jpg" group-title="Amor dividido",Cap. 001
 http://series.tuxchannel.mx/series/amor_dividido/s_01_e_01.mkv
