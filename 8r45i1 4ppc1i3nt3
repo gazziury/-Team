@@ -1,787 +1,1076 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ",A&E FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20253
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ",A&E HD
-http://srv.maxptvddns.org:2052/mai107/032021/236
-#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E SD" tvg-logo="http://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES ",A&E SD
-http://srv.maxptvddns.org:2052/mai107/032021/235
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS ",AgroMais HD
-http://srv.maxptvddns.org:2052/mai107/032021/48331
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS ",AgroMais SD
-http://srv.maxptvddns.org:2052/mai107/032021/48332
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES",AMC HD
-http://srv.maxptvddns.org:2052/mai107/032021/512
-#EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES",AMC SD
-http://srv.maxptvddns.org:2052/mai107/032021/233
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20257
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet HD
-http://srv.maxptvddns.org:2052/mai107/032021/232
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet SD
-http://srv.maxptvddns.org:2052/mai107/032021/231
-#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 HD
-http://srv.maxptvddns.org:2052/mai107/032021/136903
-#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 SD" tvg-logo="http://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 SD
-http://srv.maxptvddns.org:2052/mai107/032021/136904
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20234
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN HD
-http://srv.maxptvddns.org:2052/mai107/032021/535
-#EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN SD
-http://srv.maxptvddns.org:2052/mai107/032021/227
-#EXTINF:-1 tvg-id="Baby TV HD" tvg-name="BabyTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/babytv.png" group-title="Canais :: INFANTIL",BabyTV HD
-http://srv.maxptvddns.org:2052/mai107/032021/226
-#EXTINF:-1 tvg-id="Baby TV SD" tvg-name="BabyTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/babytv.png" group-title="Canais :: INFANTIL",BabyTV SD
-http://srv.maxptvddns.org:2052/mai107/032021/225
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas HD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band Campinas HD
-http://srv.maxptvddns.org:2052/mai107/032021/242
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas SD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band Campinas SD
-http://srv.maxptvddns.org:2052/mai107/032021/241
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ",Band News HD
-http://srv.maxptvddns.org:2052/mai107/032021/224
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ",Band News SD
-http://srv.maxptvddns.org:2052/mai107/032021/223
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP HD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band SP HD
-http://srv.maxptvddns.org:2052/mai107/032021/130
-#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP SD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band SP SD
-http://srv.maxptvddns.org:2052/mai107/032021/129
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="http://srv.maxptvddns.org:2052/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="Canais :: ESPORTES",Band Sports HD
-http://srv.maxptvddns.org:2052/mai107/032021/221
-#EXTINF:-1 tvg-id="Band Sports SD" tvg-name="Band Sports SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/bandsports.png" group-title="Canais :: ESPORTES",Band Sports SD
-http://srv.maxptvddns.org:2052/mai107/032021/220
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS",Bis HD
-http://srv.maxptvddns.org:2052/mai107/032021/219
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIs SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS",BIs SD
-http://srv.maxptvddns.org:2052/mai107/032021/218
-#EXTINF:-1 tvg-id="Boa Vontade SD" tvg-name="Boa Vontade TV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/boavontade.png" group-title="Canais :: CORTESIA",Boa Vontade TV HD
-http://srv.maxptvddns.org:2052/mai107/032021/49115
-#EXTINF:-1 tvg-id="Boa Vontade SD" tvg-name="Boa Vontade TV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/boavontade.png" group-title="Canais :: CORTESIA",Boa Vontade TV SD
-http://srv.maxptvddns.org:2052/mai107/032021/49116
-#EXTINF:-1 tvg-id="Boomerang HD [Alter]" tvg-name="Boomerang HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/boomerang.png" group-title="Canais :: INFANTIL",Boomerang HD
-http://srv.maxptvddns.org:2052/mai107/032021/217
-#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20227
-#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil HD
-http://srv.maxptvddns.org:2052/mai107/032021/111747
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil SD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil SD
-http://srv.maxptvddns.org:2052/mai107/032021/111748
-#EXTINF:-1 tvg-id="Canal do Boi HD" tvg-name="Canal do Boi HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA",Canal do Boi HD
-http://srv.maxptvddns.org:2052/mai107/032021/20467
-#EXTINF:-1 tvg-id="Canal do Boi SD" tvg-name="Canal do Boi SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA",Canal do Boi SD
-http://srv.maxptvddns.org:2052/mai107/032021/49046
-#EXTINF:-1 tvg-id="Canal Rural SD" tvg-name="Canal Rural HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canalrural.png" group-title="Canais :: CORTESIA",Canal Rural HD
-http://srv.maxptvddns.org:2052/mai107/032021/49121
-#EXTINF:-1 tvg-id="Canal Rural SD" tvg-name="Canal Rural SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canalrural.png" group-title="Canais :: CORTESIA",Canal Rural SD
-http://srv.maxptvddns.org:2052/mai107/032021/49122
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO",Canção Nova HD
-http://srv.maxptvddns.org:2052/mai107/032021/47755
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova SD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO",Canção Nova SD
-http://srv.maxptvddns.org:2052/mai107/032021/47756
-#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="Cartoon Network FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20267
-#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network HD
-http://srv.maxptvddns.org:2052/mai107/032021/524
-#EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="Cartoon Network SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network SD
-http://srv.maxptvddns.org:2052/mai107/032021/204
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito HD
-http://srv.maxptvddns.org:2052/mai107/032021/49052
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito SD
-http://srv.maxptvddns.org:2052/mai107/032021/49053
-#EXTINF:-1 tvg-id="CINCHD" tvg-name="Cinecanal FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20245
-#EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal HD
-http://srv.maxptvddns.org:2052/mai107/032021/156
-#EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal SD
-http://srv.maxptvddns.org:2052/mai107/032021/155
-#EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="Cinemax FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax FHD
-http://srv.maxptvddns.org:2052/mai107/032021/36589
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax HD
-http://srv.maxptvddns.org:2052/mai107/032021/203
-#EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax SD
-http://srv.maxptvddns.org:2052/mai107/032021/202
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS ",Cnn Brasil HD
-http://srv.maxptvddns.org:2052/mai107/032021/8890
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS ",Cnn Brasil SD
-http://srv.maxptvddns.org:2052/mai107/032021/8891
-#EXTINF:-1 tvg-id="CNN Internacional SD" tvg-name="CNN International HD" tvg-logo="http://painelsbo.painel.life/logosiptv/mundo/cnninternacional.png" group-title="Canais :: MUNDO INTERNACIONAL",CNN International HD
-http://srv.maxptvddns.org:2052/mai107/032021/49125
-#EXTINF:-1 tvg-id="CNN Internacional SD" tvg-name="CNN International SD" tvg-logo="http://painelsbo.painel.life/logosiptv/mundo/cnninternacional.png" group-title="Canais :: MUNDO INTERNACIONAL",CNN International SD
-http://srv.maxptvddns.org:2052/mai107/032021/49126
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate FHD
-http://srv.maxptvddns.org:2052/mai107/032021/19526
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate HD
-http://srv.maxptvddns.org:2052/mai107/032021/201
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate SD
-http://srv.maxptvddns.org:2052/mai107/032021/200
-#EXTINF:-1 tvg-id="Comedy Central FHD" tvg-name="Comedy Central FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20263
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central HD
-http://srv.maxptvddns.org:2052/mai107/032021/199
-#EXTINF:-1 tvg-id="Comedy Central SD" tvg-name="Comedy Central SD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central SD
-http://srv.maxptvddns.org:2052/mai107/032021/198
-#EXTINF:-1 tvg-id="Conmebol" tvg-name="CONMEBOL PARAMOUNT+ 1 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 HD
-http://srv.maxptvddns.org:2052/mai107/032021/18835
-#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/115481
-#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 SD
-http://srv.maxptvddns.org:2052/mai107/032021/19039
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 HD
-http://srv.maxptvddns.org:2052/mai107/032021/18836
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/115482
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 SD
-http://srv.maxptvddns.org:2052/mai107/032021/19040
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 HD
-http://srv.maxptvddns.org:2052/mai107/032021/18837
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/115483
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 SD
-http://srv.maxptvddns.org:2052/mai107/032021/19041
-#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 HD
-http://srv.maxptvddns.org:2052/mai107/032021/18838
-#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/115484
-#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 SD
-http://srv.maxptvddns.org:2052/mai107/032021/19042
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura HD" tvg-logo="http://srv.maxptvddns.org:2052/images/e6da8e51b4510f9c253957d20dfd3090.png" group-title="Canais :: ABERTOS",Cultura HD
-http://srv.maxptvddns.org:2052/mai107/032021/197
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura SD" tvg-logo="http://painelsbo.painel.life/logo/canais/cultura.png" group-title="Canais :: ABERTOS",Cultura SD
-http://srv.maxptvddns.org:2052/mai107/032021/196
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/curta.png" group-title="Canais :: VARIEDADES",Curta! HD
-http://srv.maxptvddns.org:2052/mai107/032021/213
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/curta.png" group-title="Canais :: VARIEDADES",Curta! SD
-http://srv.maxptvddns.org:2052/mai107/032021/212
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20225
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel HD
-http://srv.maxptvddns.org:2052/mai107/032021/195
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel SD
-http://srv.maxptvddns.org:2052/mai107/032021/194
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20265
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health HD
-http://srv.maxptvddns.org:2052/mai107/032021/191
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health SD
-http://srv.maxptvddns.org:2052/mai107/032021/190
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids HD
-http://srv.maxptvddns.org:2052/mai107/032021/189
-#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-name="Discovery Kids SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids SD
-http://srv.maxptvddns.org:2052/mai107/032021/188
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20258
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science HD
-http://srv.maxptvddns.org:2052/mai107/032021/187
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science SD
-http://srv.maxptvddns.org:2052/mai107/032021/186
-#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/theather.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Theater HD
-http://srv.maxptvddns.org:2052/mai107/032021/185
-#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/theather.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Theater SD
-http://srv.maxptvddns.org:2052/mai107/032021/184
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryturbo.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Turbo FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20266
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://srv.maxptvddns.org:2052/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Turbo HD
-http://srv.maxptvddns.org:2052/mai107/032021/183
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryturbo.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Turbo SD
-http://srv.maxptvddns.org:2052/mai107/032021/182
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World FHD" tvg-logo="http://srv.maxptvddns.org:2052/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery World FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20259
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryworld.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery World HD
-http://srv.maxptvddns.org:2052/mai107/032021/181
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/discoveryworld.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery World SD
-http://srv.maxptvddns.org:2052/mai107/032021/180
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel  HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL",Disney Channel  HD
-http://srv.maxptvddns.org:2052/mai107/032021/179
-#EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL",Disney Channel FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20226
-#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="Disney Channel SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/disneychannel.png" group-title="Canais :: INFANTIL",Disney Channel SD
-http://srv.maxptvddns.org:2052/mai107/032021/178
-#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD" tvg-logo="http://painelsbo.painel.life/logo/canais/e!.png" group-title="Canais :: FILMES E SÉRIES ",E! HD
-http://srv.maxptvddns.org:2052/mai107/032021/516
-#EXTINF:-1 tvg-id="E! Entertainment Television SD" tvg-name="E! SD" tvg-logo="http://painelsbo.painel.life/logo/canais/e!.png" group-title="Canais :: FILMES E SÉRIES ",E! SD
-http://srv.maxptvddns.org:2052/mai107/032021/172
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas FHD" tvg-logo="http://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS",EPTV Campinas FHD
-http://srv.maxptvddns.org:2052/mai107/032021/34094
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas HD" tvg-logo="http://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS",EPTV Campinas HD
-http://srv.maxptvddns.org:2052/mai107/032021/238
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas HD²" tvg-logo="http://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS",EPTV Campinas HD²
-http://srv.maxptvddns.org:2052/mai107/032021/246
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas SD" tvg-logo="http://painelsbo.painel.life/logo/eptvcampinas.png" group-title="Canais :: ABERTOS",EPTV Campinas SD
-http://srv.maxptvddns.org:2052/mai107/032021/237
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://srv.maxptvddns.org:2052/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Canais :: ESPORTES",ESPN HD
-http://srv.maxptvddns.org:2052/mai107/032021/27272
-#EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/espn.png" group-title="Canais :: ESPORTES",ESPN SD
-http://srv.maxptvddns.org:2052/mai107/032021/27273
-#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN  2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/espn2.png" group-title="Canais :: ESPORTES",ESPN  2 HD
-http://srv.maxptvddns.org:2052/mai107/032021/167
-#EXTINF:-1 tvg-id="ESPN 2 SD" tvg-name="ESPN  2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/espn2.png" group-title="Canais :: ESPORTES",ESPN  2 SD
-http://srv.maxptvddns.org:2052/mai107/032021/166
-#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN  3 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn3.png" group-title="Canais :: ESPORTES",ESPN  3 HD
-http://srv.maxptvddns.org:2052/mai107/032021/171
-#EXTINF:-1 tvg-id="ESPN 3 SD" tvg-name="ESPN  3 SD " tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn3.png" group-title="Canais :: ESPORTES",ESPN  3 SD 
-http://srv.maxptvddns.org:2052/mai107/032021/170
-#EXTINF:-1 tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20310
-#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 HD
-http://srv.maxptvddns.org:2052/mai107/032021/147
-#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 SD
-http://srv.maxptvddns.org:2052/mai107/032021/146
-#EXTINF:-1 tvg-id="FOX SporTV 2 FHD" tvg-name="ESPN 5  FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5  FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20311
-#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="ESPN 5  HD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5  HD
-http://srv.maxptvddns.org:2052/mai107/032021/529
-#EXTINF:-1 tvg-id="Fox Sports 2 SD" tvg-name="ESPN 5  SD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5  SD
-http://srv.maxptvddns.org:2052/mai107/032021/148
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="ESPN 5 FHD*" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5 FHD*
-http://srv.maxptvddns.org:2052/mai107/032021/27284
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN 6 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn6.png" group-title="Canais :: ESPORTES",ESPN 6 HD
-http://srv.maxptvddns.org:2052/mai107/032021/165
-#EXTINF:-1 tvg-id="ESPN Extra SD" tvg-name="ESPN 6  SD" tvg-logo="http://painelsbo.painel.life/logosiptv/novosespn/espn6.png" group-title="Canais :: ESPORTES",ESPN 6  SD
-http://srv.maxptvddns.org:2052/mai107/032021/164
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film&Arts HD" tvg-logo="http://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES",Film&Arts HD
-http://srv.maxptvddns.org:2052/mai107/032021/163
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film&Arts SD" tvg-logo="http://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES",Film&Arts SD
-http://srv.maxptvddns.org:2052/mai107/032021/162
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ",Fish TV FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20256
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ",Fish TV HD
-http://srv.maxptvddns.org:2052/mai107/032021/525
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS ",Fish TV SD
-http://srv.maxptvddns.org:2052/mai107/032021/161
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/foodnetwork.png" group-title="Canais :: VARIEDADES",Food Network SD
-http://srv.maxptvddns.org:2052/mai107/032021/159
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/futura.png" group-title="Canais :: DOCUMENTÁRIOS ",Futura HD
-http://srv.maxptvddns.org:2052/mai107/032021/211
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/futura.png" group-title="Canais :: DOCUMENTÁRIOS ",Futura SD
-http://srv.maxptvddns.org:2052/mai107/032021/210
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ",FX FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20275
-#EXTINF:-1 tvg-id="FX.br" tvg-name="FX HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ",FX HD
-http://srv.maxptvddns.org:2052/mai107/032021/145
-#EXTINF:-1 tvg-id="FX.br" tvg-name="FX SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/37.png" group-title="Canais :: FILMES E SÉRIES ",FX SD
-http://srv.maxptvddns.org:2052/mai107/032021/144
-#EXTINF:-1 tvg-id="Globo Inter TV Cabugi HD" tvg-name="Globo - INTER TV CABUGI" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",Globo - INTER TV CABUGI
-http://srv.maxptvddns.org:2052/mai107/032021/51601
-#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO BRASILIA HD*
-http://srv.maxptvddns.org:2052/mai107/032021/50312
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO EPTV CAMPINAS HD
-http://srv.maxptvddns.org:2052/mai107/032021/50272
-#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO EPTV SUL MINAS HD
-http://srv.maxptvddns.org:2052/mai107/032021/50258
-#EXTINF:-1 tvg-id="Globo Inter TV Grande Minas HD" tvg-name="GLOBO GRANDE MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO GRANDE MINAS HD
-http://srv.maxptvddns.org:2052/mai107/032021/50259
-#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO MINAS HD
-http://srv.maxptvddns.org:2052/mai107/032021/50261
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO NORDESTE HD
-http://srv.maxptvddns.org:2052/mai107/032021/50263
-#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis HD" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS HD
-http://srv.maxptvddns.org:2052/mai107/032021/50264
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
-http://srv.maxptvddns.org:2052/mai107/032021/50282
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
-http://srv.maxptvddns.org:2052/mai107/032021/50265
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD*
-http://srv.maxptvddns.org:2052/mai107/032021/50338
-#EXTINF:-1 tvg-id="RedeAmazonica.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO REDE AMAZONICA RONDONIA HD
-http://srv.maxptvddns.org:2052/mai107/032021/50286
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RJ HD
-http://srv.maxptvddns.org:2052/mai107/032021/50266
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba HD" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO RPC CURITIBA HD
-http://srv.maxptvddns.org:2052/mai107/032021/50287
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO SP HD
-http://srv.maxptvddns.org:2052/mai107/032021/50267
-#EXTINF:-1 tvg-id="Globo TV Anhanguera HD" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV ANHANGUERA HD
-http://srv.maxptvddns.org:2052/mai107/032021/50292
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV BAHIA HD
-http://srv.maxptvddns.org:2052/mai107/032021/50293
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO TV BAHIA HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV BAHIA HD*
-http://srv.maxptvddns.org:2052/mai107/032021/50349
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV VANG. S.J. CAMPOS HD
-http://srv.maxptvddns.org:2052/mai107/032021/50307
-#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="GLOBO TV VITORIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV VITORIA HD
-http://srv.maxptvddns.org:2052/mai107/032021/50309
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ",GloboNews HD
-http://srv.maxptvddns.org:2052/mai107/032021/143
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS ",GloboNews SD
-http://srv.maxptvddns.org:2052/mai107/032021/142
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL",Gloob HD
-http://srv.maxptvddns.org:2052/mai107/032021/530
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL",Gloob SD
-http://srv.maxptvddns.org:2052/mai107/032021/140
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES",GNT HD
-http://srv.maxptvddns.org:2052/mai107/032021/139
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES",GNT SD
-http://srv.maxptvddns.org:2052/mai107/032021/138
-#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ",H2 FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20260
-#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ",H2 HD
-http://srv.maxptvddns.org:2052/mai107/032021/137
-#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/h2.png" group-title="Canais :: DOCUMENTÁRIOS ",H2 SD
-http://srv.maxptvddns.org:2052/mai107/032021/523
-#EXTINF:-1 tvg-id="HBO 2 FHD" tvg-name="HBO 2 FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO",HBO 2 FHD
-http://srv.maxptvddns.org:2052/mai107/032021/19528
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO",HBO 2 HD
-http://srv.maxptvddns.org:2052/mai107/032021/135
-#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO",HBO 2 SD
-http://srv.maxptvddns.org:2052/mai107/032021/134
-#EXTINF:-1 tvg-id="HBO Family FHD" tvg-name="HBO Family FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family FHD
-http://srv.maxptvddns.org:2052/mai107/032021/19530
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family HD
-http://srv.maxptvddns.org:2052/mai107/032021/133
-#EXTINF:-1 tvg-id="HBO Family SD" tvg-name="HBO Family SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family SD
-http://srv.maxptvddns.org:2052/mai107/032021/132
-#EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO",HBO FHD
-http://srv.maxptvddns.org:2052/mai107/032021/19527
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO",HBO HD
-http://srv.maxptvddns.org:2052/mai107/032021/131
-#EXTINF:-1 tvg-id="HBO Mundi FHD" tvg-name="HBO Mundi FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20316
-#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO Mundi HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi HD
-http://srv.maxptvddns.org:2052/mai107/032021/521
-#EXTINF:-1 tvg-id="HBO Mundi SD" tvg-name="HBO Mundi SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi SD
-http://srv.maxptvddns.org:2052/mai107/032021/112
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus FHD
-http://srv.maxptvddns.org:2052/mai107/032021/19529
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus HD
-http://srv.maxptvddns.org:2052/mai107/032021/128
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus SD
-http://srv.maxptvddns.org:2052/mai107/032021/127
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO Pop FHD
-http://srv.maxptvddns.org:2052/mai107/032021/19532
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO Pop HD
-http://srv.maxptvddns.org:2052/mai107/032021/111
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO Pop SD
-http://srv.maxptvddns.org:2052/mai107/032021/110
-#EXTINF:-1 tvg-id="HBO SD" tvg-name="HBO SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo.png" group-title="Canais :: HBO",HBO SD
-http://srv.maxptvddns.org:2052/mai107/032021/126
-#EXTINF:-1 tvg-id="HBO Signature FHD" tvg-name="HBO Signature FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature FHD
-http://srv.maxptvddns.org:2052/mai107/032021/19531
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature HD
-http://srv.maxptvddns.org:2052/mai107/032021/531
-#EXTINF:-1 tvg-id="HBO Signature SD" tvg-name="HBO Signature SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature SD
-http://srv.maxptvddns.org:2052/mai107/032021/124
-#EXTINF:-1 tvg-id="HBO Xtreme FHD" tvg-name="HBO Xtreme FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20317
-#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme HD
-http://srv.maxptvddns.org:2052/mai107/032021/520
-#EXTINF:-1 tvg-id="HBO Xtreme SD" tvg-name="HBO Xtreme SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme SD
-http://srv.maxptvddns.org:2052/mai107/032021/113
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS ",HGTV HD
-http://srv.maxptvddns.org:2052/mai107/032021/193
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS ",HGTV SD
-http://srv.maxptvddns.org:2052/mai107/032021/192
-#EXTINF:-1 tvg-id="History.br" tvg-name="History Channel FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ",History Channel FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20231
-#EXTINF:-1 tvg-id="History.br" tvg-name="History Channel HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ",History Channel HD
-http://srv.maxptvddns.org:2052/mai107/032021/532
-#EXTINF:-1 tvg-id="History.br" tvg-name="History Channel SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/history.png" group-title="Canais :: DOCUMENTÁRIOS ",History Channel SD
-http://srv.maxptvddns.org:2052/mai107/032021/122
-#EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="ID FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ",ID FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20254
-#EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="ID HD" tvg-logo="http://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ",ID HD
-http://srv.maxptvddns.org:2052/mai107/032021/121
-#EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="ID SD" tvg-logo="http://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: FILMES E SÉRIES ",ID SD
-http://srv.maxptvddns.org:2052/mai107/032021/120
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan FM Piracicaba" tvg-logo="http://painelsbo.painel.life/logosiptv/radios/jppiracicaba.png" group-title="RÁDIOS :: FM",Jovem Pan FM Piracicaba
-http://srv.maxptvddns.org:2052/mai107/032021/23662
-#EXTINF:-1 tvg-id="jpnews.br" tvg-name="Jovem Pan News HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/jovempannews.png" group-title="Canais :: NOTÍCIAS ",Jovem Pan News HD
-http://srv.maxptvddns.org:2052/mai107/032021/47532
-#EXTINF:-1 tvg-id="jpnews.br" tvg-name="Jovem Pan News SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/jovempannews.png" group-title="Canais :: NOTÍCIAS ",Jovem Pan News SD
-http://srv.maxptvddns.org:2052/mai107/032021/47533
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ",Lifetime FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20252
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ",Lifetime HD
-http://srv.maxptvddns.org:2052/mai107/032021/522
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://painelsbo.painel.life/logo/canais/lifetime.png" group-title="Canais :: FILMES E SÉRIES ",Lifetime SD
-http://srv.maxptvddns.org:2052/mai107/032021/118
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/loading.png" group-title="Canais :: VARIEDADES",LOADING HD
-http://srv.maxptvddns.org:2052/mai107/032021/48350
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/loading.png" group-title="Canais :: VARIEDADES",LOADING SD
-http://srv.maxptvddns.org:2052/mai107/032021/48351
-#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="MAIS NA TELA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/maisnatela.png" group-title="Canais :: VARIEDADES",MAIS NA TELA HD
-http://srv.maxptvddns.org:2052/mai107/032021/48377
-#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="MAIS NA TELA SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/maisnatela.png" group-title="Canais :: VARIEDADES",MAIS NA TELA SD
-http://srv.maxptvddns.org:2052/mai107/032021/48378
-#EXTINF:-1 tvg-id="Markket HD" tvg-name="Markket HD" tvg-logo="http://vcfaz.tv/wp-content/uploads/2022/05/markkettv-324x160.png" group-title="Canais :: CORTESIA",Markket HD
-http://srv.maxptvddns.org:2052/mai107/032021/52363
-#EXTINF:-1 tvg-id="Markket HD" tvg-name="Markket SD" tvg-logo="http://vcfaz.tv/wp-content/uploads/2022/05/markkettv-324x160.png" group-title="Canais :: CORTESIA",Markket SD
-http://srv.maxptvddns.org:2052/mai107/032021/52365
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES",Megapix HD
-http://srv.maxptvddns.org:2052/mai107/032021/109
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES",Megapix SD
-http://srv.maxptvddns.org:2052/mai107/032021/108
-#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="Modo Viagem HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/maisglobosat.png" group-title="Canais :: VARIEDADES",Modo Viagem HD
-http://srv.maxptvddns.org:2052/mai107/032021/117
-#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="Modo Viagem SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/maisglobosat.png" group-title="Canais :: VARIEDADES",Modo Viagem SD
-http://srv.maxptvddns.org:2052/mai107/032021/116
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV 00s FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS",MTV 00s FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20262
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV 00s HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS",MTV 00s HD
-http://srv.maxptvddns.org:2052/mai107/032021/8
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="MTV 00s SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAIS",MTV 00s SD
-http://srv.maxptvddns.org:2052/mai107/032021/7
-#EXTINF:-1 tvg-id="" tvg-name="MTV ARCUSTICO NACIONAL" tvg-logo="http://dns.maxptv.net:2052/images/e8e5b768138689aeeaa8627776b5f172.png" group-title="Canais :: CLIPES 24H",MTV ARCUSTICO NACIONAL
-http://srv.maxptvddns.org:2052/mai107/032021/157240
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS",MTV FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20261
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS",MTV HD
-http://srv.maxptvddns.org:2052/mai107/032021/519
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtvlive.png" group-title="Canais :: MUSICAIS",MTV Live HD
-http://srv.maxptvddns.org:2052/mai107/032021/20465
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV LIVE SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtvlive.png" group-title="Canais :: MUSICAIS",MTV LIVE SD
-http://srv.maxptvddns.org:2052/mai107/032021/48337
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/mtv.png" group-title="Canais :: MUSICAIS",MTV SD
-http://srv.maxptvddns.org:2052/mai107/032021/106
-#EXTINF:-1 tvg-id="Multishow SD" tvg-name="Multishow HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/multshow.png" group-title="Canais :: MUSICAIS",Multishow HD
-http://srv.maxptvddns.org:2052/mai107/032021/105
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/multshow.png" group-title="Canais :: MUSICAIS",Multishow SD
-http://srv.maxptvddns.org:2052/mai107/032021/104
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/musicboxbrasil.png" group-title="Canais :: MUSICAIS",Music Box Brazil HD
-http://srv.maxptvddns.org:2052/mai107/032021/48342
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/musicboxbrasil.png" group-title="Canais :: MUSICAIS",Music Box Brazil SD
-http://srv.maxptvddns.org:2052/mai107/032021/48343
-#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ",National Geographic FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20272
-#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ",National Geographic HD
-http://srv.maxptvddns.org:2052/mai107/032021/99
-#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/nationalgeografic.png" group-title="Canais :: DOCUMENTÁRIOS ",National Geographic SD
-http://srv.maxptvddns.org:2052/mai107/032021/98
-#EXTINF:-1 tvg-id="Nick Jr FHD" tvg-name="Nick Jr. FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nickjr.png" group-title="Canais :: INFANTIL",Nick Jr. FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20314
-#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr. HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nickjr.png" group-title="Canais :: INFANTIL",Nick Jr. HD
-http://srv.maxptvddns.org:2052/mai107/032021/95
-#EXTINF:-1 tvg-id="Nick Jr SD" tvg-name="Nick Jr. SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nickjr.png" group-title="Canais :: INFANTIL",Nick Jr. SD
-http://srv.maxptvddns.org:2052/mai107/032021/94
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL",Nickelodeon FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20313
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL",Nickelodeon HD
-http://srv.maxptvddns.org:2052/mai107/032021/93
-#EXTINF:-1 tvg-id="Nickelodeon SD" tvg-name="Nickelodeon SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL",Nickelodeon SD
-http://srv.maxptvddns.org:2052/mai107/032021/92
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/canaloff.png" group-title="Canais :: VARIEDADES",OFF HD
-http://srv.maxptvddns.org:2052/mai107/032021/209
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/canaloff.png" group-title="Canais :: VARIEDADES",OFF SD
-http://srv.maxptvddns.org:2052/mai107/032021/208
-#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="Pai Eterno HD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/paieterno.png" group-title="Canais :: RELIGIÃO",Pai Eterno HD
-http://srv.maxptvddns.org:2052/mai107/032021/23850
-#EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES",Paramount Channel FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20264
-#EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES",Paramount Channel HD
-http://srv.maxptvddns.org:2052/mai107/032021/91
-#EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Channel SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/53.png" group-title="Canais :: FILMES",Paramount Channel SD
-http://srv.maxptvddns.org:2052/mai107/032021/90
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD
-http://srv.maxptvddns.org:2052/mai107/032021/86
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/247
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD³" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD³
-http://srv.maxptvddns.org:2052/mai107/032021/46681
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 SD
-http://srv.maxptvddns.org:2052/mai107/032021/85
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 HD
-http://srv.maxptvddns.org:2052/mai107/032021/13216
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/1462
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 SD
-http://srv.maxptvddns.org:2052/mai107/032021/83
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 HD
-http://srv.maxptvddns.org:2052/mai107/032021/82
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/1463
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 SD
-http://srv.maxptvddns.org:2052/mai107/032021/81
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD
-http://srv.maxptvddns.org:2052/mai107/032021/80
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/1464
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 SD
-http://srv.maxptvddns.org:2052/mai107/032021/79
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD
-http://srv.maxptvddns.org:2052/mai107/032021/78
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/1465
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 SD
-http://srv.maxptvddns.org:2052/mai107/032021/77
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE",Premiere 6 HD
-http://srv.maxptvddns.org:2052/mai107/032021/76
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE",Premiere 6 SD
-http://srv.maxptvddns.org:2052/mai107/032021/75
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE",Premiere 7 HD²
-http://srv.maxptvddns.org:2052/mai107/032021/1467
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE",Premiere 7 SD
-http://srv.maxptvddns.org:2052/mai107/032021/74
-#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="Prime Box Brazil HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/primeboxbrasil.png" group-title="Canais :: FILMES",Prime Box Brazil HD
-http://srv.maxptvddns.org:2052/mai107/032021/48344
-#EXTINF:-1 tvg-id="Prime Box Brazil SD" tvg-name="Prime Box Brazil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/primeboxbrasil.png" group-title="Canais :: FILMES",Prime Box Brazil SD
-http://srv.maxptvddns.org:2052/mai107/032021/48345
-#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-name="RECORD BAHIA HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ",RECORD BAHIA HD
-http://srv.maxptvddns.org:2052/mai107/032021/50368
-#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record BH HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ",Record BH HD
-http://srv.maxptvddns.org:2052/mai107/032021/50369
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Campinas  HD" tvg-logo="http://srv.maxptvddns.org:2052/images/c7639816c065d36a221bd7401fdf0ac9.png" group-title="Canais :: ABERTOS",Record Campinas  HD
-http://srv.maxptvddns.org:2052/mai107/032021/240
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Campinas  HD²" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record Campinas  HD²
-http://srv.maxptvddns.org:2052/mai107/032021/68
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Campinas  SD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record Campinas  SD
-http://srv.maxptvddns.org:2052/mai107/032021/239
-#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-name="RECORD DF HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ",RECORD DF HD
-http://srv.maxptvddns.org:2052/mai107/032021/50370
-#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="RECORD MG HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ",RECORD MG HD
-http://srv.maxptvddns.org:2052/mai107/032021/50372
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS ",Record News HD
-http://srv.maxptvddns.org:2052/mai107/032021/67
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS ",Record News SD
-http://srv.maxptvddns.org:2052/mai107/032021/66
-#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="RECORD RJ HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ",RECORD RJ HD
-http://srv.maxptvddns.org:2052/mai107/032021/50374
-#EXTINF:-1 tvg-id="RecordRS.br" tvg-name="RECORD RS HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ",RECORD RS HD
-http://srv.maxptvddns.org:2052/mai107/032021/50375
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record SP HD
-http://srv.maxptvddns.org:2052/mai107/032021/65
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="RECORD SP HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ",RECORD SP HD
-http://srv.maxptvddns.org:2052/mai107/032021/50376
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record SP SD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: ABERTOS",Record SP SD
-http://srv.maxptvddns.org:2052/mai107/032021/64
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil de Comunicação" tvg-logo="http://painelsbo.painel.life/logosiptv/24horas/2/redebrasilcomunica.png" group-title="Canais :: RELIGIÃO",Rede Brasil de Comunicação
-http://srv.maxptvddns.org:2052/mai107/032021/83869
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil TV" tvg-logo="http://imagem.natelinha.uol.com.br/original/rede-brasil-net-claro_5596.jpeg" group-title="Canais :: CORTESIA",Rede Brasil TV
-http://srv.maxptvddns.org:2052/mai107/032021/139908
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Rede Clone Tv" tvg-logo="http://painelsbo.painel.life/logosiptv/classicosseries/redeclone.png" group-title="24H ::: CLÁSSICOS SÉRIES ",Rede Clone Tv
-http://srv.maxptvddns.org:2052/mai107/032021/71751
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família SD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/redefamilia.png" group-title="Canais :: RELIGIÃO",Rede Família SD
-http://srv.maxptvddns.org:2052/mai107/032021/48346
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família SHD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/redefamilia.png" group-title="Canais :: RELIGIÃO",Rede Família SHD
-http://srv.maxptvddns.org:2052/mai107/032021/31823
-#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="http://painelsbo.painel.life/logosiptv/24horas/2/redegospel.png" group-title="Canais :: RELIGIÃO",Rede Gospel
-http://srv.maxptvddns.org:2052/mai107/032021/83868
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida HD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/redevida.png" group-title="Canais :: RELIGIÃO",Rede Vida HD
-http://srv.maxptvddns.org:2052/mai107/032021/62
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida SD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/redevida.png" group-title="Canais :: RELIGIÃO",Rede Vida SD
-http://srv.maxptvddns.org:2052/mai107/032021/63
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV HD" tvg-logo="http://painelsbo.painel.life/logo/redetv.png" group-title="Canais :: ABERTOS",RedeTV HD
-http://srv.maxptvddns.org:2052/mai107/032021/61
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV SD" tvg-logo="http://painelsbo.painel.life/logo/redetv.png" group-title="Canais :: ABERTOS",RedeTV SD
-http://srv.maxptvddns.org:2052/mai107/032021/60
-#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="Rá -Tim Bum- HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/ratimbum.png" group-title="Canais :: INFANTIL",Rá -Tim Bum- HD
-http://srv.maxptvddns.org:2052/mai107/032021/70
-#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="Rá- Tim- Bum SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/ratimbum.png" group-title="Canais :: INFANTIL",Rá- Tim- Bum SD
-http://srv.maxptvddns.org:2052/mai107/032021/69
-#EXTINF:-1 tvg-id="Sabor e Arte HD" tvg-name="Sabor & Arte HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/saborearte.png" group-title="Canais :: VARIEDADES",Sabor & Arte HD
-http://srv.maxptvddns.org:2052/mai107/032021/48329
-#EXTINF:-1 tvg-id="Sabor e Arte SD" tvg-name="Sabor & Arte SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/saborearte.png" group-title="Canais :: VARIEDADES",Sabor & Arte SD
-http://srv.maxptvddns.org:2052/mai107/032021/48330
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT  HD²" tvg-logo="http://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS",SBT  HD²
-http://srv.maxptvddns.org:2052/mai107/032021/73185
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT HD" tvg-logo="http://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS",SBT HD
-http://srv.maxptvddns.org:2052/mai107/032021/59
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SD" tvg-logo="http://painelsbo.painel.life/logo/sbt.png" group-title="Canais :: ABERTOS",SBT SD
-http://srv.maxptvddns.org:2052/mai107/032021/58
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20233
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel HD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel HD
-http://srv.maxptvddns.org:2052/mai107/032021/53
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel SD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalsony.png" group-title="Canais :: FILMES E SÉRIES ",Sony Channel SD
-http://srv.maxptvddns.org:2052/mai107/032021/52
-#EXTINF:-1 tvg-id="Space FHD" tvg-name="Space FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES",Space FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20271
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES",Space HD
-http://srv.maxptvddns.org:2052/mai107/032021/51
-#EXTINF:-1 tvg-id="Space SD" tvg-name="Space SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/55.png" group-title="Canais :: FILMES",Space SD
-http://srv.maxptvddns.org:2052/mai107/032021/50
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv.png" group-title="Canais :: ESPORTES",SporTV HD
-http://srv.maxptvddns.org:2052/mai107/032021/49
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv.png" group-title="Canais :: ESPORTES",SporTV SD
-http://srv.maxptvddns.org:2052/mai107/032021/48
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv2.png" group-title="Canais :: ESPORTES",SporTV 2 HD
-http://srv.maxptvddns.org:2052/mai107/032021/47
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv2.png" group-title="Canais :: ESPORTES",SporTV 2 SD
-http://srv.maxptvddns.org:2052/mai107/032021/46
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv3.png" group-title="Canais :: ESPORTES",SporTV 3 HD
-http://srv.maxptvddns.org:2052/mai107/032021/45
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/sportv3.png" group-title="Canais :: ESPORTES",SporTV 3 SD
-http://srv.maxptvddns.org:2052/mai107/032021/44
-#EXTINF:-1 tvg-id="Star Channel FHD" tvg-name="Star Channel FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ",Star Channel FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20274
-#EXTINF:-1 tvg-id="Star Channel HD" tvg-name="Star Channel HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ",Star Channel HD
-http://srv.maxptvddns.org:2052/mai107/032021/157
-#EXTINF:-1 tvg-id="Star Channel SD" tvg-name="Star Channel SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/57.png" group-title="Canais :: FILMES E SÉRIES ",Star Channel SD
-http://srv.maxptvddns.org:2052/mai107/032021/150
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES",Studio Universal HD
-http://srv.maxptvddns.org:2052/mai107/032021/43
-#EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal SD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES",Studio Universal SD
-http://srv.maxptvddns.org:2052/mai107/032021/42
-#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM HD" tvg-logo="http://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES",TCM HD
-http://srv.maxptvddns.org:2052/mai107/032021/37
-#EXTINF:-1 tvg-id="TCM SD" tvg-name="TCM SD" tvg-logo="http://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES",TCM SD
-http://srv.maxptvddns.org:2052/mai107/032021/36
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE",Telecine Action FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20247
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE",Telecine Action HD
-http://srv.maxptvddns.org:2052/mai107/032021/35
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecineaction.png" group-title="Canais :: TELECINE",Telecine Action SD
-http://srv.maxptvddns.org:2052/mai107/032021/34
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE",Telecine Cult FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20246
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE",Telecine Cult HD
-http://srv.maxptvddns.org:2052/mai107/032021/33
-#EXTINF:-1 tvg-id="Telecine Cult SD" tvg-name="Telecine Cult SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinecult.png" group-title="Canais :: TELECINE",Telecine Cult SD
-http://srv.maxptvddns.org:2052/mai107/032021/32
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20248
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun HD
-http://srv.maxptvddns.org:2052/mai107/032021/31
-#EXTINF:-1 tvg-id="Telecine Fun SD" tvg-name="Telecine Fun SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun SD
-http://srv.maxptvddns.org:2052/mai107/032021/30
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20230
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca HD
-http://srv.maxptvddns.org:2052/mai107/032021/29
-#EXTINF:-1 tvg-id="Telecine Pipoca SD" tvg-name="Telecine Pipoca SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca SD
-http://srv.maxptvddns.org:2052/mai107/032021/28
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE",Telecine Premium FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20228
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE",Telecine Premium HD
-http://srv.maxptvddns.org:2052/mai107/032021/27
-#EXTINF:-1 tvg-id="Telecine Premium SD" tvg-name="Telecine Premium SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinepremiun.png" group-title="Canais :: TELECINE",Telecine Premium SD
-http://srv.maxptvddns.org:2052/mai107/032021/26
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE",Telecine Touch FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20229
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE",Telecine Touch HD
-http://srv.maxptvddns.org:2052/mai107/032021/25
-#EXTINF:-1 tvg-id="Telecine Touch SD" tvg-name="Telecine Touch SD" tvg-logo="http://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE",Telecine Touch SD
-http://srv.maxptvddns.org:2052/mai107/032021/24
-#EXTINF:-1 tvg-id="Terra Viva SD" tvg-name="Terra Viva HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/terraviva.png" group-title="Canais :: CORTESIA",Terra Viva HD
-http://srv.maxptvddns.org:2052/mai107/032021/49048
-#EXTINF:-1 tvg-id="Terra Viva SD" tvg-name="Terra Viva SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/terraviva.png" group-title="Canais :: CORTESIA",Terra Viva SD
-http://srv.maxptvddns.org:2052/mai107/032021/49049
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC HD" tvg-logo="http://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES",TLC HD
-http://srv.maxptvddns.org:2052/mai107/032021/23
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC SD" tvg-logo="http://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES",TLC SD
-http://srv.maxptvddns.org:2052/mai107/032021/22
-#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES",TNT FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20270
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES",TNT HD
-http://srv.maxptvddns.org:2052/mai107/032021/21
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD²" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES",TNT HD²
-http://srv.maxptvddns.org:2052/mai107/032021/13873
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES ",TNT Novelas HD
-http://srv.maxptvddns.org:2052/mai107/032021/122056
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES ",TNT Novelas SD
-http://srv.maxptvddns.org:2052/mai107/032021/122057
-#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/65.png" group-title="Canais :: FILMES",TNT SD
-http://srv.maxptvddns.org:2052/mai107/032021/20
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Tnt Sports HD" tvg-logo="http://painelsbo.painel.life/logosnovos/Logos/Esportes/125.png" group-title="Stream :: ESPORTES",Tnt Sports HD
-http://srv.maxptvddns.org:2052/mai107/032021/138673
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ",TNT Séries FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20269
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries HD" tvg-logo="http://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ",TNT Séries HD
-http://srv.maxptvddns.org:2052/mai107/032021/517
-#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Séries SD" tvg-logo="http://painelsbo.painel.life/logo/canais/tntseries.png" group-title="Canais :: FILMES E SÉRIES ",TNT Séries SD
-http://srv.maxptvddns.org:2052/mai107/032021/18
-EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/tooncast.png" group-title="Canais :: INFANTIL",Tooncast HD
-http://srv.maxptvddns.org:2052/mai107/032021/17
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/tooncast.png" group-title="Canais :: INFANTIL",Tooncast SD
-http://srv.maxptvddns.org:2052/mai107/032021/16
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/tracebrazucas.png" group-title="Canais :: MUSICAIS",Trace Brazuca HD
-http://srv.maxptvddns.org:2052/mai107/032021/20468
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/tracebrazucas.png" group-title="Canais :: MUSICAIS",Trace Brazuca SD
-http://srv.maxptvddns.org:2052/mai107/032021/20469
-#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/travelbosbrasil.png" group-title="Canais :: CORTESIA",Travel Box Brazil HD
-http://srv.maxptvddns.org:2052/mai107/032021/48335
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/travelbosbrasil.png" group-title="Canais :: CORTESIA",Travel Box Brazil SD
-http://srv.maxptvddns.org:2052/mai107/032021/48336
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/tvaparecida.png" group-title="Canais :: RELIGIÃO",TV Aparecida HD
-http://srv.maxptvddns.org:2052/mai107/032021/15
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/tvaparecida.png" group-title="Canais :: RELIGIÃO",TV Aparecida SD
-http://srv.maxptvddns.org:2052/mai107/032021/14
-#EXTINF:-1 tvg-id="TV Brasil HD" tvg-name="TV Brasil  HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/tvbrasil.png" group-title="Canais :: CORTESIA",TV Brasil  HD
-http://srv.maxptvddns.org:2052/mai107/032021/47534
-#EXTINF:-1 tvg-id="TV Brasil HD [Alter]" tvg-name="TV Brasil 2 HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/tvbrasil2.png" group-title="Canais :: CORTESIA",TV Brasil 2 HD
-http://srv.maxptvddns.org:2052/mai107/032021/49111
-#EXTINF:-1 tvg-id="TV Brasil SD [Alter]" tvg-name="TV Brasil 2 SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/tvbrasil2.png" group-title="Canais :: CORTESIA",TV Brasil 2 SD
-http://srv.maxptvddns.org:2052/mai107/032021/49112
-#EXTINF:-1 tvg-id="TV Brasil HD" tvg-name="TV Brasil FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/tvbrasil.png" group-title="Canais :: CORTESIA",TV Brasil FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20308
-#EXTINF:-1 tvg-id="TV Brasil SD" tvg-name="TV Brasil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/tvbrasil.png" group-title="Canais :: CORTESIA",TV Brasil SD
-http://srv.maxptvddns.org:2052/mai107/032021/47535
-#EXTINF:-1 tvg-id="Globo Centro America Cuiaba SD" tvg-name="TV Centro América Cuiabá (ST)*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",TV Centro América Cuiabá (ST)*
-http://srv.maxptvddns.org:2052/mai107/032021/51596
-#EXTINF:-1 tvg-id="TV Evangelizar SD" tvg-name="TV Evangelizar" tvg-logo="http://painelsbo.painel.life/logosiptv/24horas/2/tvevangelizar.png" group-title="Canais :: RELIGIÃO",TV Evangelizar
-http://srv.maxptvddns.org:2052/mai107/032021/83867
-#EXTINF:-1 tvg-id="TV Gazeta SP FHD" tvg-name="TV Gazeta FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/gazeta.png" group-title="Canais :: CORTESIA",TV Gazeta FHD
-http://srv.maxptvddns.org:2052/mai107/032021/49239
-#EXTINF:-1 tvg-id="TV Gazeta SP HD" tvg-name="TV Gazeta HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/gazeta.png" group-title="Canais :: CORTESIA",TV Gazeta HD
-http://srv.maxptvddns.org:2052/mai107/032021/27160
-#EXTINF:-1 tvg-id="TV Gazeta SP SD" tvg-name="Tv Gazeta SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/gazeta.png" group-title="Canais :: CORTESIA",Tv Gazeta SD
-http://srv.maxptvddns.org:2052/mai107/032021/22948
-#EXTINF:-1 tvg-id="TV Gloobinho HD" tvg-name="Tv Globinho  HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL",Tv Globinho  HD
-http://srv.maxptvddns.org:2052/mai107/032021/215
-#EXTINF:-1 tvg-id="TV Gloobinho SD" tvg-name="Tv Globinho SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL",Tv Globinho SD
-http://srv.maxptvddns.org:2052/mai107/032021/214
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="Tv Justiça" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/tvjustica.png" group-title="Canais :: NOTÍCIAS ",Tv Justiça
-http://srv.maxptvddns.org:2052/mai107/032021/23531
-#EXTINF:-1 tvg-id="TV Justiça SD" tvg-name="Tv Justiça" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/tvjustica.png" group-title="Canais :: NOTÍCIAS ",Tv Justiça
-http://srv.maxptvddns.org:2052/mai107/032021/27436
-#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV Novo Tempo HD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/novotempo.png" group-title="Canais :: RELIGIÃO",TV Novo Tempo HD
-http://srv.maxptvddns.org:2052/mai107/032021/20464
-#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/novotempo.png" group-title="Canais :: RELIGIÃO",TV NOVO TEMPO HD
-http://srv.maxptvddns.org:2052/mai107/032021/48339
-#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/novotempo.png" group-title="Canais :: RELIGIÃO",TV NOVO TEMPO SD
-http://srv.maxptvddns.org:2052/mai107/032021/48338
-#EXTINF:-1 tvg-id="" tvg-name="TV Padre Cicero" tvg-logo="http://painelsbo.painel.life/logosiptv/24horas/2/padrecicero.png" group-title="Canais :: RELIGIÃO",TV Padre Cicero
-http://srv.maxptvddns.org:2052/mai107/032021/83872
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="Tv Senado" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/tvsenado.png" group-title="Canais :: NOTÍCIAS ",Tv Senado
-http://srv.maxptvddns.org:2052/mai107/032021/23532
-#EXTINF:-1 tvg-id="TV Senado SD" tvg-name="Tv Senado" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/tvsenado.png" group-title="Canais :: NOTÍCIAS ",Tv Senado
-http://srv.maxptvddns.org:2052/mai107/032021/27437
-#EXTINF:-1 tvg-id="Globo Bauru HD" tvg-name="TV Tem Bauru (ST)" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",TV Tem Bauru (ST)
-http://srv.maxptvddns.org:2052/mai107/032021/141430
-#EXTINF:-1 tvg-id="Globo TV Tem Itapetininga HD" tvg-name="TV Tem Itapetininga (ST)" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",TV Tem Itapetininga (ST)
-http://srv.maxptvddns.org:2052/mai107/032021/141428
-#EXTINF:-1 tvg-id="TVWA" tvg-name="TV WA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/tvwa.png" group-title="Canais :: CORTESIA",TV WA HD
-http://srv.maxptvddns.org:2052/mai107/032021/49120
-#EXTINF:-1 tvg-id="TVWA" tvg-name="TV WA SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/tvwa.png" group-title="Canais :: CORTESIA",TV WA SD
-http://srv.maxptvddns.org:2052/mai107/032021/49119
-#EXTINF:-1 tvg-id="Universal Channel FHD" tvg-name="Universal Channel FHD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ",Universal Channel FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20249
-#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel HD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ",Universal Channel HD
-http://srv.maxptvddns.org:2052/mai107/032021/13215
-#EXTINF:-1 tvg-id="Universal Channel SD" tvg-name="Universal Channel SD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES ",Universal Channel SD
-http://srv.maxptvddns.org:2052/mai107/032021/11
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network FHD" tvg-logo="http://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20255
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network HD" tvg-logo="http://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network HD
-http://srv.maxptvddns.org:2052/mai107/032021/41
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="USA Network SD" tvg-logo="http://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES ",USA Network SD
-http://srv.maxptvddns.org:2052/mai107/032021/40
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/viva.png" group-title="Canais :: VARIEDADES",Viva HD
-http://srv.maxptvddns.org:2052/mai107/032021/6
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/viva.png" group-title="Canais :: VARIEDADES",Viva SD
-http://srv.maxptvddns.org:2052/mai107/032021/5
-#EXTINF:-1 tvg-id="Warner Channel FHD" tvg-name="Warner Channel FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES ",Warner Channel FHD
-http://srv.maxptvddns.org:2052/mai107/032021/20232
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="http://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES ",Warner Channel HD
-http://srv.maxptvddns.org:2052/mai107/032021/4
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES",Woohoo HD
-http://srv.maxptvddns.org:2052/mai107/032021/207
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES",Woohoo SD
-http://srv.maxptvddns.org:2052/mai107/032021/206
 
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES", A&E 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/225
 
+#EXTINF:-1 tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="NOTICIAS", AGRO+ 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/852
 
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTES ONLINE", AMAZON ESPORTES 1
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1067
 
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTES ONLINE", AMAZON ESPORTES 2
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1010
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", AMC 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/228
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", AMC HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/229
 
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS", ANIMAL PLANET 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/61
 
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES", ARTE 1 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/231
 
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES", ARTE 1 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/232
 
+#EXTINF:-1 tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="FILMES & SERIES", AXN 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/233
 
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS", BABY TV 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/767
 
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS", BABY TV HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/342
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", BAND MINAS UHD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/481
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", BAND NEWS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/482
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", BAND NEWS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/432
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", BAND NORDESTE UHD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/483
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", BAND SP 4k
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/484
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", BAND SP HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/485
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", BAND SPORTS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/120
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", BAND SPORTS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/121
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS", BEIN SPORTS 1
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/901
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS", BEIN SPORTS 2
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/902
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS", BEIN SPORTS 4
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/904
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS", BEIN SPORTS 5
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/905
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS", BEIN SPORTS 6
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/906
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS", BEIN SPORTS 7
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/907
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA", BIS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/419
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA", BIS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/420
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="TV ABERTA", CANAL BOI HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/486
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", CANAL BRASIL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/236
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", CANAL BRASIL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/237
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", CANCAO NOVA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/96
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", CANCAO NOVA UHD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/97
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS", CARTOON NETWORK 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/346
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS", CARTOON NETWORK HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/347
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS", CARTOONITO 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/344
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS", CARTOONITO HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/345
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", CAZE TV
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1145
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES", CINEMAX 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/239
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES", CINEMAX HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/240
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", CNN BRASIL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/433
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", CNN ESPANHOL
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/436
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", CNN INTERNACIONAL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", COMBATE 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", COMBATE HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", COMEDY CENTRAL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/99
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", COMEDY CENTRAL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/98
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", CURTA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/100
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE", DAZN 1
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/206
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE", DAZN 1 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/821
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE", DAZN 2
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/205
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE", DAZN 2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/822
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE", DAZN 3 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/823
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE", DAZN 4 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/824
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/65
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS", DISCOVERY H&H 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/67
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS", DISCOVERY H&H HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/68
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="DOCUMENTARIOS", DISCOVERY ID 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/69
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="DOCUMENTARIOS", DISCOVERY ID HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/70
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS", DISCOVERY KIDS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/348
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS", DISCOVERY KIDS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/349
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS", DISCOVERY SCIENCE 4k
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/71
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS", DISCOVERY SCIENCE HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/72
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS", DISCOVERY THEATER 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/73
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS", DISCOVERY THEATER HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/74
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/75
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS", DISCOVERY WORLD 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/77
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS", DISCOVERY WORLD HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/78
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS", DISNEY CHANNEL  4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/351
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS", DISNEY CHANNEL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/352
+
+#EXTINF:-1 tvg-logo="http://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="ENTRETENIMENTO", DOG TV HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/879
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO", E! 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/102
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO", E! HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", EPTV RIBEIRAO PRETO
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1011
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN  4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN  HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/131
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="ESPORTES", ESPN 2 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/129
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="ESPORTES", ESPN 2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/135
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES", ESPN 3 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/127
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES", ESPN 3 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/126
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES", ESPN 4 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/142
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES", ESPN 4 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/143
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES", ESPN 4 HDR
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/899
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN 6 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN 6 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/134
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO", FASHION TV HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/878
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 01
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1168
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 02
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1169
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 03
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1170
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 04
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1171
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 05
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1172
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 06
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1173
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 07
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1174
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 08
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1175
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 09
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1176
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 10
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 11
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1178
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 12
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1179
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 13
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 14
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 15
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 16
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1183
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 17
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1184
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 18
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 19
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FEC 24 HRS", FEC 20
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1187
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAADLCAMAAAB04a46AAAAwFBMVEX////hGzIjHyDgDSrhEy3pbHflS1j98fP97vDfAB3rcXzhGDAfGhsgHB0bFhg2MzTQz9D3vMNaWFhMSUr29vYAAADqZ3RCQEB9e3wWEBH53N6WlJSlpKT+9vf61NnfABjgACHf39++vb0vKywMAANwbW7qeILnXWniJTvwoKfPzs7kMEbeAAD4z9Pzr7XfABFdW1vvi5bkPE7uhpL3wcjnUmL75efwmqLyqbHm5eVpZWeNi4uAfn+2tbXlP1PxnKWd2YmGAAAHQklEQVR4nO2Z/Veyvh+Hwc0HBB/QJKHQVUoUtxaiZHXf9v//V59tgIDV+Xa0zPM9r+uHDowNudj23nukKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4EepR7RdYLH/bW2k0GT0+Y/O3vbk4UXfQ9d2Sb0c7OXGdacRX+Z+flf8G8evhY6/3eKko0x7npasoQ3Hw2N1HXGcknDUajXgWEW1v9S80PFj8/nxgt9vtyVBR+vzAPr9XlJ44uLnfQ5z6T/mFdUD3Nf958W7HrghsIW5UKoYUb1cqrc4ePa6XY+1ssY85CdfrdfgubnyzeE96G/bgW8TpunzJZHuIjx3ecjT+WfHngezu8+nLhaJ0BpybA8TpZvfaPoP9KOKXE+7dHp6VS/cVZ/OkJI6iODkK9+jyo4hfiJFuXO6U7is+TnQbt5rmufLQ1D54Zv2TZT4t/0j8fZPvEK98Qfz5/vr+Kju5Kp4UxB/qsmC0ocRK3sFsV1wnGvMDn4wZ3ZZwuBYR5eLsjxT/w0vzJmqgauXM4BDx6XAo4lml0hsOh9eK8soLhq9XufjZJS+ZXpwpV397553z/lSucN1h/7zT6U//vROXfaUorsdYmFybl4c617JMJ45jZ/a20aS6vvCiyAsoWy3j2Az8MPLEO4tFqaigM99bOk7sOGaTke8RH7TbLbmWGW3b5sHtfLuOZ+JDXmXSO7u07bZhtAy7dSkGiW20Wi1e9eV5R5yli3hjlY50xSondXqznv/8UkY+YjW45kqV4WG2KIbHBpOJgZsXWPmIP0i8kmNcfLCcnQ35TDAeLyatrFbl+mKQnVQmLzvidJE+ZBraFKfU4br6Vvp9Z0O34sk6OFssyuK6XvYLt0ndQeKDQZq98KNPxVudCu/riS192/1WpWVPJnKGVAb3ZXGVls3caqnDSSTfi2PO50vZ83M9E0/X/9EiiJ2RqOWOHGdJ1GTKuMv53JQvs7EdQoeId7tXf6X561W3+/yZeKXF1/mLy9dKO+lzu/P676Iv29nTHXG2cIreT6WkWw9monRd81U1sEbiFaxoIl7nrvGbFzV9tVYLxD2coFbb8IEtjuNqoKr+SprOff1wcWUnqn8iXrFfxdWrc9nNRk/E8+epeA1G/6wortPbuHDvekT4k+ezkliiK01CRSGrCl/eUoqLcp8Swoc+pQ8yqj/wPTefO+KGIRNNSCDeVbw4nrjRL9Y1kr3LfaclKj8XxEsbFF7ss/LaSy3HcWZpZbJyRPjfii/H2xyvsI7TjRA3qVzIiBV5XnTEHp+k69Y/0eOtTnJyllS+ysVpMC/durFg1blkkzrxddr3k7FBZIZTEN/kuW1BPBnqynrFd7u6StIV/1jigzRXub7hndzuKXnlVkn8aefeMz95NjcbnSL/4uOZjTV/dSd0c/FZIRoUMzd2J28Rj9bVQGPFDOYYPV4Sf0lbyjoFcVp7d/M4TeS22adO9OA2Wjt1N1n2cvGnwmamKK6TbbR0Y97x9FvW8X3Ek0D+gbiWDfRGsxTiFGW7pum+tX1at9zjEflYXKXqvHC3WdU/4lD/mvg4zcnqlkY8t/ATThbX9SwJi0dLMwxLc9z7TJz3+epumXf7doU8GXGSls/5TCZh4Se2TrQpvOtrb7UJ9LH3RXHejvmrZmgmq567oicmruXi/FHzp1pnXaSr4rNUw6KE8plKviaebN14SKR+UJVjfs1OTDzdiyuuRZiaz/I8rdN9cW4+JO+BRMoXxOnK87xmIJrwnMcXs8kZn5h4uvDw07uneWGOO7V0bOqBOM0+yZC7r4gnN82i48PoFMXp6pOfGKVLUNrjcheua1Y5qpfERUrv/qE6T+TlNnZJ5LsjtKHk33RORlxXP3sSc6wn4jI2zwPGND9MxkQ4pu/Fk4XxbRHwTYov54zJkxfGVnKPk3X/yYjzDGb0yY/cJQsaTWN9Y9TIrriOx96Jy+kvrzKVVJPD+shJP+IdM1f/mrhKbmfFWzfW2Ytwo0S89N+GZRL/Iu2duB6kKYH4AqO9FXMCZZlFjIPFB+223c7EbcNoJ/9C4gedey4+MQwjz9X5SS4u63QL4irZ3G2/LLmmpVlZz7pV+bh085SVjCI/6ddQq7o74nxmJ2+wzkQw9/LX5YTBtt6B4v8eXzjXycljh9PjLlNx0Oc9/nrDD24y8XNx8jdt+SLrFHtc5Je1yHTchmNGK5/vKGq3Kek2heq1cD2bmeHtgscrazla3m1oICoEpR0sDVbNyGveyjjIT8L5bMRbWQuap/Qn9m9iSrTxw8NYIzKUU5Ki59eZNk62WXxryo+oKjZsu/9SlmUkWwcp07TxuLw5OzXx4wFxiB9fvMrI8Xn4ffH6k1U9Ptbsfz/ZT+PWf4PftgYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgP9L/gPfz+DRyt26hQAAAABJRU5ErkJggg==" group-title="FILMES & SERIES", FILM & ARTS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/242
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS", FISH TV 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/79
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS", FISH TV HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/80
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", FOOD NETWORK 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", FOOD NETWORK HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN 5 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/139
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", ESPN 5 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/140
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1320433252608466947/ekNFdF28.jpg" group-title="ESPORTES ONLINE", FURACÃO LIVE 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/818
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", FUTURA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/243
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", FX HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/244
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA", GLOBO BAHIA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/488
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA", GLOBO BRASILIA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/490
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO EPTV CAMPINAS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/780
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO EPTV CAMPINAS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/491
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/67/20210422110721%21EPTV.png" group-title="TV ABERTA", GLOBO EPTV SUL DE MINAS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1012
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="TV ABERTA", GLOBO INTEGRAÇÃO JUIZ DE FORA
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/494
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO INTER TV CABUGI 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/514
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO INTER TV CABUGI HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/495
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TV ABERTA", GLOBO MINAS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/497
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TV ABERTA", GLOBO MINAS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/772
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", GLOBO NEWS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/498
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", GLOBO NEWS DF
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/445
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO NORDESTE 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1248
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TV ABERTA", GLOBO NSC BLUMENAU 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/515
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO RBS PORTO ALEGRE 4k
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/501
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO REDE AMAZONICA MANAUS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/530
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA", GLOBO RJ 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/504
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO RPC CURITIBA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/505
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV ABERTA", GLOBO RPC FOZ DO IGUAÇU 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO RPC MARINGA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/507
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO RPC MARINGA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/817
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO SERGIPE 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1160
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA", GLOBO SP 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/511
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="TV ABERTA", GLOBO TV ANHANGUERA GOIAS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/849
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO TV CENTRO AMERICA CUIABA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO TV LIBERAL BELEM 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/554
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO TV LIBERAL BELEM HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/773
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="TV ABERTA", GLOBO TV TEM BAURU HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", GLOBO TV TEM SOROCABA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/563
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", GLOBOSAT + UHD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/106
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS", GLOOB 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/357
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS", GLOOB HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/358
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS", GLOOBINHO 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/359
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS", GLOOBINHO HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/360
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="ENTRETENIMENTO", GNT 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", H2 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/815
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTARIOS", H2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/81
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", HBO + 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/246
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", HBO + HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/245
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", HBO 2 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/247
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", HBO 2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/248
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES", HBO 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/251
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", HBO FAMILY 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/252
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", HBO FAMILY HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/253
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES", HBO HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/255
+
+#EXTINF:-1 tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE", HBO MAX 1 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/832
+
+#EXTINF:-1 tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE", HBO MAX 2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/833
+
+#EXTINF:-1 tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE", HBO MAX 4 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/835
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES", HBO MUNDI 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/256
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES", HBO MUNDI HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/257
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", HBO PLUS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/258
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", HBO PLUS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/259
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES", HBO POP 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/260
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES", HBO POP HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/261
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES", HBO SIGNATURE 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/264
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES", HBO SIGNATURE HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/262
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES", HBO XTREME 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/266
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES", HBO XTREME HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/267
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS", HGTV 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/816
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS", HGTV HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/552
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS", HISTORY CHANNEL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/83
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS", HISTORY CHANNEL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/82
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS", JOVEM PAN NEWS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/847
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS", JOVEM PAN NEWS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/846
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", LIFETIME HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/269
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES", MEGAPIX 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/270
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES", MEGAPIX HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/271
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="DOCUMENTARIOS", MODO VIAGEM 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/85
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA", MTV 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/112
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA", MTV HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/422
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/827d9f9eb3b8d9d013252aed02714d93.png" group-title="MUSICA", MTV LIVE 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/831
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="MUSICA", MULTISHOW HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/423
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/music box.png" group-title="MUSICA", MUSIC BOX  4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/424
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS", NATIONAL GEOGRAPHIC 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/87
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS", NATIONAL GEOGRAPHIC HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/88
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS", NICK JR 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/363
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS", NICK JR HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/364
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS", NICKELODEON 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/365
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS", NICKELODEON HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/768
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", NOSSO FUTEBOL 1
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", NOSSO FUTEBOL 2
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", NOSSO FUTEBOL 3
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", NOSSO FUTEBOL 4
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1134
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", NOVO TEMPO HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/556
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", NSPORTS 1 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1068
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", NSPORTS 2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1069
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", OFF 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/273
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", OFF HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/274
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSO", PAI ETERNO
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/939
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", PARAMOUNT CHANNEL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", PARAMOUNT HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", PARAMOUNT+ 1 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", PARAMOUNT+ 2 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", PARAMOUNT+ 3 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", PARAMOUNT+ 4 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1154
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/play tv.png" group-title="MUSICA", PLAY TV
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/426
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 1 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/148
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 2 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/149
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 3 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 3 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 4 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 4 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/154
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 5 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/157
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 5 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 6 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/159
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 6 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/158
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 7 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/161
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 7 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/160
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE 9 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/163
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE CLUBES 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", PREMIERE CLUBES HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", PRIME BOX BRASIL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RBI 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/517
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RBS TV PORTO ALEGRE
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/519
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD BAHIA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/520
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD BRASILIA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/521
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD DF HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/522
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/523
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD MANAUS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD MINAS UHD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/525
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", RECORD NEWS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/452
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", RECORD NEWS U4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/451
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD PARANA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/526
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD RJ 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD RJ HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/527
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD SP HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/529
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", RECORD SP INTERIOR HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/528
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", REDE BRASIL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/531
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/6c3e8a9085b35db0146aa1dd57d26b3b.png" group-title="RELIGIOSO", REDE GOSPEL
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1052
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/fa919d1786ed52f86581665859726dbd.png" group-title="RELIGIOSO", REDE SUPER
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1054
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", REDE TV HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/532
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", REDE VIDA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/113
+
+#EXTINF:-1 tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="ENTRETENIMENTO", SABOR & ARTE HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/877
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", SBT 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/534
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", SBT HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", SBT RJ UHD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", SBT SERRA DOURADA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/538
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", SONY CHANNEL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/238
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", SPACE 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/278
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES", SPORTV 1 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/183
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES", SPORTV 1 HDR
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/178
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/ee67489938d900ebacc1bddfd70c1622.png" group-title="ESPORTES", SPORTV 2 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/172
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="ESPORTES", SPORTV 3 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/175
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES", STAR CHANNEL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/281
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES", STAR CHANNEL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/282
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE", STAR+ 1 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/829
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE", STAR+ 2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/826
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE", STAR+ 3 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/827
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", STAR+ 5 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", STAR+ 6 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1148
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", STAR+ 7 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1149
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", STAR+ 8 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", STUDIO UNIVERSAL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/289
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", TBS 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/290
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", TBS HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/291
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", TCM HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", TCM UHD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/293
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES", TELECINE ACTION 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/294
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES", TELECINE ACTION HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/295
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES", TELECINE CULT 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/297
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES", TELECINE CULT HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/298
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES", TELECINE FUN 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/300
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES", TELECINE FUN HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/301
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES", TELECINE PIPOCA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/303
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES", TELECINE PIPOCA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/304
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES", TELECINE PREMIUM 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/306
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES", TELECINE PREMIUM HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/307
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES", TELECINE TOUCH 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/309
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES", TELECINE TOUCH HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/310
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS", TLC 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/91
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS", TLC HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/92
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES", TNT 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/312
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES", TNT HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/313
+
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/05/tnt-novelas.png" group-title="FILMES & SERIES", TNT NOVELA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1167
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES & SERIES", TNT SERIES 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/314
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png" group-title="MUSICA", TRACE BRAZUCA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/969
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS", TRAVEL BOX BRASIL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/848
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", TRU TV HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/541
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", TV APARECIDA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/542
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA", TV BRASIL 2 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1101
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA", TV BRASIL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV CAMARA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV CULTURA UHD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV DIARIO HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/548
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", TV EVANGELIZAR HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1051
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="TV ABERTA", TV GAZETA  4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/551
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/5CThNRXf4qrqwQzv6" group-title="TV ABERTA", TV Gazeta Vitoria ES 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV JUSTICA
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/553
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV MORENA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1099
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/cdc70908008a205cf43dd0c1ed95ad4e.png" group-title="RELIGIOSO", TV NOVO TEMPO
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1053
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS", TV RA TIM BUM 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/369
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS", TV RA TIM BUM HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/557
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logotipo_TV_Santa_Cruz.png" group-title="TV ABERTA", TV SANTA CRUZ 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1055
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV SENADO HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1164
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="TV ABERTA", TV TEM SAO JOSE DO RIO PRETO
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/983
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV TEM SOROCABA HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/562
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV TRIBUNA SANTOS
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/564
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV VANGUARDA S. J. DOS CAMPOS
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/565
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA", TV VERDES MARES FORTALEZA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/566
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", TVE HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", UFC PPV
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1122
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES", UNIVERSAL CHANNEL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/319
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", VH1 HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", VIVA 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", WARNER CHANNEL 4K
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/783
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES", WARNER CHANNEL HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/320
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMENTO", WOOHOO HD
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/117
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="CANAIS HDR+", SPORTV 1 HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/993
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="CANAIS HDR+", ANIMAL PLANET HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/994
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="CANAIS HDR+", TELECINE PIPOCA HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/996
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="CANAIS HDR+", TELECINE PREMIUM HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/997
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="CANAIS HDR+", MEGAPIX HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/998
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS HDR+", RECORD SP HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/999
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="CANAIS HDR+", HBO HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS HDR+", COMBATE HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1001
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS HDR+", CARTOON NETWORK HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS HDR+", PREMIERE CLUB HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1003
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="CANAIS HDR+", ESPN 3 HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/995
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="CANAIS HDR+", TNT HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS HDR+", ESPN 6 HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1005
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="CANAIS HDR+", HGTV HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1006
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="CANAIS HDR+", ESPN 4 HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1007
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS HDR+", ESPN 5 HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1008
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="CANAIS HDR+", SPORTV 2 HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS HDR+", CNN BRASIL HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1018
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="CANAIS HDR+", TELECINE ACTION HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1019
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS HDR+", AMC HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1020
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="CANAIS HDR+", DISCOVERY H&H HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1021
+
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="CANAIS HDR+", DISCOVERY TURBO HDR+
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", DISNEY+ 08
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", DISNEY+ 07
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", DISNEY+ 06
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1271
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", DISNEY+ 03
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1274
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", DISNEY+ 02
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1275
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES ONLINE", DISNEY+ 01
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA 2024", A FAZENDA 01
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA 2024", A FAZENDA 02
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1278
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA 2024", A FAZENDA 03
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1279
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA 2024", A FAZENDA 04
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA 2024", A FAZENDA 05
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1281
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="A FAZENDA 2024", A FAZENDA 06
+http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1282
 
