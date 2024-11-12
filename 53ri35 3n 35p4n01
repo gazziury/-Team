@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+https://innovatv.store/contenido/SERIES/Yellowstone/5/Yellowstonesub9.mp4
+
 http://series.tuxchannel.mx/series/familia_de_medianoche/s_01_e_06.mkv
 
 https://innovatv.store/contenido/SERIES/Like%20Water%20for%20Chocolate/Like.Water.for.Chocolate.S01E01%5b2024%5d%5bWEB-DL%5d%5bMAX%5d%5b1080p%5d%5bLatino%5d-TA_FI.mp4
@@ -11696,6 +11698,9 @@ http://series.tuxchannel.mx/series/yellowstone/s_05_e_06.mkv
 http://series.tuxchannel.mx/series/yellowstone/s_05_e_07.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51i6XVyXczL._AC_UF894,1000_QL80_.jpg" group-title="Yellowstone T5 (parte 1)",Cap. 08
 http://series.tuxchannel.mx/series/yellowstone/s_05_e_08.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QJZykMD.jpeg" group-title="Yellowstone T5 (parte 2) SUB",Cap. 09
+https://innovatv.store/contenido/SERIES/Yellowstone/5/Yellowstonesub9.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/You_Season_2.jpg" group-title="You T2",Cap. 01
 http://series.tuxchannel.mx/series/you/s_02_e_01.mkv
