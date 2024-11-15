@@ -18,9 +18,6 @@ https://innovatv.store/contenido/SERIES/Sweetpea/Sweetpeasub4.mp4
 https://innovatv.store/contenido/SERIES/From/Fromsub8.mp4
 http://series.tuxchannel.mx/series/from/s_03_e_06.mkv
 
-https://innovatv.store/contenido/SERIES/Desprecio/lat/Desprecio%20S01E06%20WEB-DL%201080p%20Latino.mp4
-http://series.tuxchannel.mx/series/disclaimer/s_01_e_06.mkv
-
 https://innovatv.store/contenido/SERIES/The%20Penguin/LAT/El%20Pinguinolat8.mp4
 http://series.tuxchannel.mx/series/the_penguin/s_01_e_07.mkv
 
@@ -2287,6 +2284,8 @@ http://series.tuxchannel.mx/series/disclaimer/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/disclaimer/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/QPXoSNM.jpeg" group-title="Desprecio",Cap. 06
 http://series.tuxchannel.mx/series/disclaimer/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/QPXoSNM.jpeg" group-title="Desprecio",Cap. 07
+http://series.tuxchannel.mx/series/disclaimer/s_01_e_07.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Destino: La saga Winx T1",TRAILER
 https://archive.org/download/trailer-d-35t-1n-0-l-4-54g-4-w-1nx-1/trailer%20D35t1n0%20L4%2054g4%20W1nx%201.mp4
