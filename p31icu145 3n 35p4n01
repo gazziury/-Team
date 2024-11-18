@@ -7790,6 +7790,8 @@ http://vod.tuxchannel.mx/peliculas/720/storks.mkv
 http://vod.tuxchannel.mx/peliculas/720/colossal.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Vb2UQZv.jpeg" group-title="2016",Comando Kill (2016)
 http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fsM4ALU.jpeg" group-title="2016",Como ser soltera (2016)
+http://vod.tuxchannel.mx/peliculas/720/how%20to%20be%20single.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/AQDUg8p.jpeg" group-title="2016",Conexión mortal (2016)
 http://vod.tuxchannel.mx/peliculas/720/cell.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Yrj9fMA.jpeg" group-title="2016",Confirmación (2016)
@@ -8066,8 +8068,6 @@ http://vod.tuxchannel.mx/peliculas/720/max%20steel.mkv
 http://vod.tuxchannel.mx/peliculas/720/mclaren.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/h2naeuI.jpeg" group-title="2016",Me casé con un boludo (2016)
 http://vod.tuxchannel.mx/peliculas/720/me%20case%20con%20un%20boludo.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a4Ce3qHqIyHM3QfGsiVTAu3YADJ.jpg" group-title="2016",Mejor... solteras (2016)
-http://vod.tuxchannel.mx/peliculas/720/how%20to%20be%20single.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vdCD8z55a4RNmHQDPIpuMFqoY2B.jpg" group-title="2016",Melanie: Apocalipsis zombi (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20girl%20with%20all%20the%20gifts.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkEwI53HNDO0ajSUWh4HSsGrlF6l.jpg" group-title="2016",Mente en llamas (2016)
