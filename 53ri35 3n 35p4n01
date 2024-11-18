@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+https://innovatv.store/contenido/SERIES/Duna%20La%20profecia/lat/Duna%20La%20profec%c3%ada%20S01E01%20WEB-DL%201080lat.mp4
+
 http://series.tuxchannel.mx/series/yellowstone/s_05_e_09.mkv
 https://innovatv.store/contenido/SERIES/Yellowstone/5/Yellowstonesub9.mp4
 
@@ -2713,6 +2715,9 @@ http://series.tuxchannel.mx/series/sweet_tooth/s_01_e_06.mkv
 http://series.tuxchannel.mx/series/sweet_tooth/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/05/17/17/26/5007043.jpg" group-title="Dulcero: El niño ciervo",Cap. 08
 http://series.tuxchannel.mx/series/sweet_tooth/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MtWjLoi.jpeg" group-title="Duna: La profecía",Cap. 01
+https://innovatv.store/contenido/SERIES/Duna%20La%20profecia/lat/Duna%20La%20profec%c3%ada%20S01E01%20WEB-DL%201080lat.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2nlpccm7tmgNdu3eqFDI8segw5S.jpg" group-title="Echo",Cap. 01
 http://series.tuxchannel.mx/series/echo/s_01_e_01.mkv
