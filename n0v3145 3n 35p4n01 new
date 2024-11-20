@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_10.mkv
-http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_79.mkv
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_81.mkv
 
 
 
@@ -2291,6 +2291,10 @@ http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_77.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_78.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 078
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_79.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 079
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_80.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/AjsHduI.jpeg" group-title="El angel de Aurora",Cap. 080
+http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_81.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/A17Rt6BLHno0puR1QXbsSKhBfA4.jpg" group-title="El cartel de los sapos: El origen",Cap. 01
 http://series.tuxchannel.mx/series/el_cartel_de_los_sapos_el_origen/s_01_e_01.mkv
