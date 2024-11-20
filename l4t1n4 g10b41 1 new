@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC- DISCOVERY EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="• MUNDO Y CULTURA",MyC- DISCOVERY EN ESPAÑOL
 http://tv.nousiptv.com:8080/gabriel958/748885@$/56304
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC - DISCOVERY CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY CHANNEL FHD
