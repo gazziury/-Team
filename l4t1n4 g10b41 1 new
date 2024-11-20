@@ -1474,7 +1474,6 @@ http://tv.nousiptv.com:8080/gabriel958/748885@$/1156052
 http://tv.nousiptv.com:8080/gabriel958/748885@$/3791
 #EXTINF:-1 tvg-id="" tvg-name="US.SP - NBC GOLF CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-NBC-GOLF-CHANNEL.png" group-title="USA SPORTS",US.SP - NBC GOLF CHANNEL
 http://tv.nousiptv.com:8080/gabriel958/748885@$/17602
-
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MUS - MTV FHD" tvg-logo="http://descargas.podzone.net/logos/-MTV.png" group-title="MUSICALES",MUS - MTV FHD
 http://tv.nousiptv.com:8080/gabriel958/748885@$/4083
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MUS - MTV LIVE FHD" tvg-logo="http://descargas.podzone.net/logos/-MTV-LIVE.png" group-title="MUSICALES",MUS - MTV LIVE FHD
@@ -1511,7 +1510,6 @@ http://tv.nousiptv.com:8080/gabriel958/748885@$/7823
 http://tv.nousiptv.com:8080/gabriel958/748885@$/1116297
 #EXTINF:-1 tvg-id="" tvg-name="MUS - 24/7 ZAPPING MUSIC" tvg-logo="http://descargas.podzone.net/logos/-247-ZAPPING-MUSIC.png" group-title="MUSICALES",MUS - 24/7 ZAPPING MUSIC
 http://tv.nousiptv.com:8080/gabriel958/748885@$/1116298
-
 #EXTINF:-1 tvg-id="" tvg-name="PORT-SIC NOTICIAS" tvg-logo="http://descargas.podzone.net/logos/-SIC-NOTICIAS.png" group-title="EUROPA ",PORT-SIC NOTICIAS
 http://tv.nousiptv.com:8080/gabriel958/748885@$/1072124
 #EXTINF:-1 tvg-id="" tvg-name="PORT -MTV" tvg-logo="http://descargas.podzone.net/logos/-MTV.png" group-title="EUROPA ",PORT -MTV
