@@ -8174,7 +8174,7 @@ http://vod.tuxchannel.mx/peliculas/720/pandora.mkv
 http://vod.tuxchannel.mx/peliculas/720/passengers.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hQJoSMr.jpeg" group-title="2016",Pastoral americana (2016)
 http://vod.tuxchannel.mx/peliculas/720/american%20pastoral.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mmRizqT81KfcY91hndIt0TReqtB.jpg" group-title="2016",Persecución al límite (2016)
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/4hQIZ3q.jpeg" group-title="2016",Persecución al límite (2016)
 http://vod.tuxchannel.mx/peliculas/720/collide.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/6/w1280/5prTX4nyG1f9QdzKYHmBLr6K0om.jpg" group-title="2016",Plan B (2016)
 http://vod.tuxchannel.mx/peliculas/720/plan%20b.mkv
@@ -8198,8 +8198,6 @@ http://vod.tuxchannel.mx/peliculas/720/radin.mkv
 http://vod.tuxchannel.mx/peliculas/720/whiskey%20tango%20foxtrot.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3sx69bH2n2tgvknvq2VROJ6lEXS.jpg" group-title="2016",Rescate en Osiris (2016)
 http://vod.tuxchannel.mx/peliculas/720/science%20fiction%20volume%20one%20the%20osiris%20child.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zq4QUvbPS2bf6mesCPW04awrBoJ.jpg" group-title="2016",Rescate suicida (2016)
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg" group-title="2016",Resident evil 6 (2016)
 http://vod.tuxchannel.mx/peliculas/720/resident%20evil%20the%20final%20chapter.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bJfls3xZqEyPyXWONQLcMX6KxIC.jpg" group-title="2016",Resucitado (2016)
