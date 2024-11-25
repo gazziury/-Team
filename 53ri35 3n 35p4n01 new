@@ -6,6 +6,9 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/the_day_of_the_jackal/s_01_e_05.mkv
+https://innovatv.store/contenido/SERIES/El%20chacal/lat/1%20(5).mp4
+
 http://series.tuxchannel.mx/series/tulsa_king/s_02_e_02.mkv
 
 https://innovatv.store/contenido/SERIES/Duna%20La%20profecia/lat/Duna%20La%20profec%c3%ada%20S01E01%20WEB-DL%201080lat.mp4
@@ -2975,6 +2978,17 @@ http://series.tuxchannel.mx/series/el_candidato/s_01_e_08.mkv
 http://series.tuxchannel.mx/series/el_candidato/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/18/01/42/1819219.jpg" group-title="El candidato",Cap. 10
 http://series.tuxchannel.mx/series/el_candidato/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wp4vn2M.jpeg" group-title="El Chacal",Cap. 01
+http://series.tuxchannel.mx/series/the_day_of_the_jackal/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wp4vn2M.jpeg" group-title="El Chacal",Cap. 02
+http://series.tuxchannel.mx/series/the_day_of_the_jackal/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wp4vn2M.jpeg" group-title="El Chacal",Cap. 03
+http://series.tuxchannel.mx/series/the_day_of_the_jackal/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wp4vn2M.jpeg" group-title="El Chacal",Cap. 04
+http://series.tuxchannel.mx/series/the_day_of_the_jackal/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/wp4vn2M.jpeg" group-title="El Chacal",Cap. 05
+http://series.tuxchannel.mx/series/the_day_of_the_jackal/s_01_e_05.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Cid",TRAILER
 https://archive.org/download/trailer-3l-c-1d/trailer%203l%20C1d.mp4
