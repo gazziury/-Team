@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_33.mkv
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_38.mkv
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_18.mkv
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_23.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_92.mkv
@@ -7551,6 +7551,16 @@ http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_31.mkv
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_32.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 033
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_33.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 034
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_34.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 035
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_35.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 036
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_36.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 037
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_37.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 038
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_38.mkv
 
 #EXTINF:-1 tvg-logo="https://www.gannett-cdn.com/presto/2021/10/18/PPHXS/6d09cef1-88ee-4ec2-8ee1-7419d56fc587-parientes2.png" group-title="Parientes a la fuerza",Cap. 01
 http://series.tuxchannel.mx/series/parientes_a_la_fuerza/s_01_e_01.mkv
