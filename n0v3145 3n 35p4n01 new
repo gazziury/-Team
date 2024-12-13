@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_38.mkv
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_23.mkv
-http://series.tuxchannel.mx/series/amor_amargo/s_01_e_23.mkv
+http://series.tuxchannel.mx/series/amor_amargo/s_01_e_28.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_92.mkv
 
 http://series.tuxchannel.mx/series/regreso_a_las_sabinas/s_01_e_10.mkv
@@ -251,6 +251,16 @@ http://series.tuxchannel.mx/series/amor_amargo/s_01_e_21.mkv
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_22.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 023
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 024
+http://series.tuxchannel.mx/series/amor_amargo/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 025
+http://series.tuxchannel.mx/series/amor_amargo/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 026
+http://series.tuxchannel.mx/series/amor_amargo/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 027
+http://series.tuxchannel.mx/series/amor_amargo/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 028
+http://series.tuxchannel.mx/series/amor_amargo/s_01_e_28.mkv
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/8jk2mlz.jpeg" group-title="Amor dividido",Cap. 001
 http://series.tuxchannel.mx/series/amor_dividido/s_01_e_01.mkv
