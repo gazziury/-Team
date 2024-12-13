@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_38.mkv
-http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_18.mkv
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_23.mkv
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_23.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_92.mkv
 
@@ -5441,6 +5441,16 @@ http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_16.mkv
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_17.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 018
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_18.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 019
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_19.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 020
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_20.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 021
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_21.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 022
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_22.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 023
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_23.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6cDKolSuoesSRF1cd63Tv8p85kH.jpg" group-title="La suerte de Loli",Cap. 001
 http://series.tuxchannel.mx/series/la_suerte_de_loli/s_01_e_01.mkv
