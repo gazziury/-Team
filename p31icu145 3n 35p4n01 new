@@ -631,7 +631,7 @@ https://innovatv.store/contenido/PELICULAS/Guerra%20a%20La%20Trata/Guerra%20a%20
 http://vod.tuxchannel.mx/peliculas/720/civil%20war%202024.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Lny6bQP.jpeg" group-title="2024",Gundam seed freedom (2024) SUB 1080p
 https://tvnettv.space/contenido/peliculas/Gundam%20Seed%20Freedom%20la%20pel%c3%adcula/Gundam%20Seed%20Freedom%20la%20pel%c3%adcula.VOSE.mp4
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/zXcPFor.jpeg" group-title="2024",Hachiko 2 (2024) 1080p
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zXcPFor.jpeg" group-title="2024",Hachiko 2: Siempre a tu lado (2024) 1080p
 https://innovatv.store/contenido/PELICULAS/Hachiko%202%20Siempre%20a%20tu%20lado/Hachiko%202%20Siempre%20a%20tu%20lado%20%282024%29%20WEB-DL%201080p%20Latino.mp4
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Mxu73kO.jpeg" group-title="2024",Haikyu: La batalla del basurero (2024)
 http://vod.tuxchannel.mx/peliculas/720/haikyu%20the%20dumpster%20battle%202024.mkv
@@ -11028,6 +11028,8 @@ http://vod.tuxchannel.mx/peliculas/720/guardians%20of%20the%20galaxy.mkv
 http://vod.tuxchannel.mx/peliculas/720/bride%20wars%202009.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg" group-title="Peliculas Viejas",Guerra mundial Z (2013)
 http://vod.tuxchannel.mx/peliculas/720/world%20war%20z%202013.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg" group-title="Peliculas Viejas",Hachiko 1: Siempre a tu lado (2009)
+http://vod.tuxchannel.mx/peliculas/720/hachiko%20a%20dogs%20story.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nGoFIX5WmthZZ3eLBd0QwDSkWNy.jpg" group-title="Peliculas Viejas",Hacia el este (2013)
 http://vod.tuxchannel.mx/peliculas/720/the%20east.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yo87I8MxzRf9ZsN6Awc2kM8vGwq.jpg" group-title="Peliculas Viejas",Halcón (1987)
@@ -13142,8 +13144,6 @@ http://vod.tuxchannel.mx/peliculas/720/shrek%20the%20third%202007.mkv
 http://vod.tuxchannel.mx/peliculas/720/shrek%20the%20halls%202007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/78tmnPwcOhvic4DDehRId6WCCTU.jpg" group-title="Peliculas Viejas",Shrek: Felices para siempre (2010)
 http://vod.tuxchannel.mx/peliculas/720/shrek%20forever%20after.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg" group-title="Peliculas Viejas",Siempre a tu lado (2009)
-http://vod.tuxchannel.mx/peliculas/720/hachiko%20a%20dogs%20story.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z10y9ysYQlONINLu8W2Hgoybqva.jpg" group-title="Peliculas Viejas",Siempre hay tiempo para reír (2009)
 http://vod.tuxchannel.mx/peliculas/720/funny%20people.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pCVpsCEYtvtlg1I9h3rtglKgThu.jpg" group-title="Peliculas Viejas",Siete almas (2008)
