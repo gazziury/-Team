@@ -4008,25 +4008,25 @@ http://series.tuxchannel.mx/series/el_juego_de_las_llaves/s_03_e_05.mkv
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/01/1_ElJuegoDeLasLlaves_VIX_Portrait_1200x1800-1.jpg" group-title="El juego de las llaves T3",Cap. 06
 http://series.tuxchannel.mx/series/el_juego_de_las_llaves/s_03_e_06.mkv
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El juego del calamar",TRAILER
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El juego del calamar T1",TRAILER
 https://archive.org/download/trailer-3l-ju-3g-0-d-3l-c-4l-4m-4r/trailer%203l%20ju3g0%20d3l%20c4l4m4r.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 01
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 01
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 02
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 02
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 03
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 03
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 04
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 04
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 05
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 05
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 06
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 06
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 07
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 07
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_07.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 08
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 08
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_08.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar",Cap. 09
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="El juego del calamar T1",Cap. 09
 http://series.tuxchannel.mx/series/el_juego_del_calamar/s_01_e_09.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg" group-title="El juego del calamar: El desafío",Cap. 01
@@ -4047,6 +4047,21 @@ http://series.tuxchannel.mx/series/squid_game_the_challenge/s_01_e_07.mkv
 http://series.tuxchannel.mx/series/squid_game_the_challenge/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg" group-title="El juego del calamar: El desafío",Cap. 09
 http://series.tuxchannel.mx/series/squid_game_the_challenge/s_01_e_09.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rb32wzs.jpeg" group-title="El juego del calamar T2",Cap. 01
+https://innovatv.store/contenido/SERIES/El%20juego%20del%20calamar/2/LAT/El%20juego%20del%20calamar%20S02E01%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rb32wzs.jpeg" group-title="El juego del calamar T2",Cap. 02
+https://innovatv.store/contenido/SERIES/El%20juego%20del%20calamar/2/LAT/El%20juego%20del%20calamar%20S02E02%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rb32wzs.jpeg" group-title="El juego del calamar T2",Cap. 03
+https://innovatv.store/contenido/SERIES/El%20juego%20del%20calamar/2/LAT/El%20juego%20del%20calamar%20S02E03%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rb32wzs.jpeg" group-title="El juego del calamar T2",Cap. 04
+https://innovatv.store/contenido/SERIES/El%20juego%20del%20calamar/2/LAT/El%20juego%20del%20calamar%20S02E04%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rb32wzs.jpeg" group-title="El juego del calamar T2",Cap. 05
+https://innovatv.store/contenido/SERIES/El%20juego%20del%20calamar/2/LAT/El%20juego%20del%20calamar%20S02E05%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rb32wzs.jpeg" group-title="El juego del calamar T2",Cap. 06
+https://innovatv.store/contenido/SERIES/El%20juego%20del%20calamar/2/LAT/El%20juego%20del%20calamar%20S02E06%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rb32wzs.jpeg" group-title="El juego del calamar T2",Cap. 07
+https://innovatv.store/contenido/SERIES/El%20juego%20del%20calamar/2/LAT/El%20juego%20del%20calamar%20S02E07%20WEB-DL%201080p%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El juicio",TRAILER
 https://archive.org/download/trailer-3l-ju-1c-10/trailer%203l%20ju1c10.mp4
