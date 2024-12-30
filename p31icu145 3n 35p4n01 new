@@ -8952,6 +8952,8 @@ http://vod.tuxchannel.mx/peliculas/720/splash.mkv
 http://144.217.70.79/VODS-M/1080P/3%20Days%20to%20Kill%202014.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/xLEcFoA.jpeg" group-title="Peliculas Viejas",3 metros sobre el cielo (2010)
 http://vod.tuxchannel.mx/peliculas/720/tres%20metros%20sobre%20el%20cielo.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg" group-title="Peliculas Viejas",3:10 Misión peligrosa (2007)
+http://vod.tuxchannel.mx/peliculas/720/3:10%20to%20yuma.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/w1hnayW.jpeg" group-title="Peliculas Viejas",4:44 El último día en la Tierra (2011)
 http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/q9Ku3RB.jpeg" group-title="Peliculas Viejas",6 Balas (2012)
@@ -10698,8 +10700,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20transporter%202.mkv
 http://vod.tuxchannel.mx/peliculas/720/transporter%203.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/q6istPd.jpeg" group-title="Peliculas Viejas",El tren de la muerte (2002)
 http://144.217.70.79/VODS-M/1080P/Derailed%202002.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg" group-title="Peliculas Viejas",El tren de las 3:10 (2007)
-http://vod.tuxchannel.mx/peliculas/720/3:10%20to%20yuma.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/huGiQ3V.jpeg" group-title="Peliculas Viejas",El turista (2010)
 http://144.217.70.79/VODS-M/1080P/The%20Tourist%202010.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/SODt160.jpeg" group-title="Peliculas Viejas",El último Boy Scout (1991)
