@@ -5845,8 +5845,6 @@ http://vod.tuxchannel.mx/peliculas/720/1917%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/rzhev%202019.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/dH4Nf7x.jpeg" group-title="2019",7500: Avión secuestrado (2019)
 http://vod.tuxchannel.mx/peliculas/720/7500%202019.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/WTKQpgk.jpeg" group-title="2019",A 47 metros 2: El segundo ataque (2019)
-http://vod.tuxchannel.mx/peliculas/720/47%20meters%20down%20uncaged%202019.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/AYeDs6I.jpeg" group-title="2019",Abigail: Ciudad fantástica (2019)
 http://vod.tuxchannel.mx/peliculas/720/abigail%202019.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CwfSZtp.jpeg" group-title="2019",Aceleración máxima (2019)
@@ -6485,6 +6483,8 @@ http://144.217.70.79/VODS-M/1080P/Spider%20in%20the%20Web%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/terminator%20dark%20fate%202019.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0zRLWXh.jpeg" group-title="2019",Terra Willy: Planeta desconocido (2019)
 http://vod.tuxchannel.mx/peliculas/720/terra%20willy%20planete%20inconnue%202019.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/WTKQpgk.jpeg" group-title="2019",Terror a 47 metros 2 (2019)
+http://vod.tuxchannel.mx/peliculas/720/47%20meters%20down%20uncaged%202019.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/y9EFmpR.jpeg" group-title="2019",Terror en altamar (2019)
 http://vod.tuxchannel.mx/peliculas/720/sea%20fever%202019.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/Lt5CWBq.jpeg" group-title="2019",Testigo protegido (2019)
@@ -7233,8 +7233,6 @@ http://vod.tuxchannel.mx/peliculas/720/24%20hours%20to%20live.mkv
 http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20darker.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/THJmFI4.jpeg" group-title="2017",1922 (2017)
 http://vod.tuxchannel.mx/peliculas/720/1922.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/iW4ZgUN.jpeg" group-title="2017",A 47 metros (2017)
-http://vod.tuxchannel.mx/peliculas/720/47%20meters%20down.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/hs8xMOz.jpeg" group-title="2017",Abracadabra (2017)
 http://vod.tuxchannel.mx/peliculas/720/abracadabra.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CFNA9ia.jpeg" group-title="2017",Actos de venganza (2017)
@@ -7771,6 +7769,8 @@ http://vod.tuxchannel.mx/peliculas/720/t2%20trainspotting.mkv
 http://vod.tuxchannel.mx/peliculas/720/tadeo%20jones%202%20el%20secreto%20del%20rey%20midas.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/x8WZTXH.jpeg" group-title="2017",Temporada de caza (2017)
 http://vod.tuxchannel.mx/peliculas/720/temporada%20de%20caza.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/iW4ZgUN.jpeg" group-title="2017",Terror a 47 metros 1 (2017)
+http://vod.tuxchannel.mx/peliculas/720/47%20meters%20down.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/RLP7if3.jpeg" group-title="2017",The discovery (2017)
 http://vod.tuxchannel.mx/peliculas/720/the%20discovery.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/yCKa5db.jpeg" group-title="2017",The post: Los oscuros secretos del Pentágono (2017)
