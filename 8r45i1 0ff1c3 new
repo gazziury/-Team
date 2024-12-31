@@ -1,162 +1,164 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet FHD
-http://dns.maxptv.net:2052/123123123/85904697/20257
+http://dns.maxptv.net:2052/fw481/12345678/20257
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet HD
-http://dns.maxptv.net:2052/123123123/85904697/232
+http://dns.maxptv.net:2052/fw481/12345678/232
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/animalplanet.png" group-title="Canais :: DOCUMENTÁRIOS ",Animal Planet SD
-http://dns.maxptv.net:2052/123123123/85904697/231
+http://dns.maxptv.net:2052/fw481/12345678/231
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="http://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 HD
-http://dns.maxptv.net:2052/123123123/85904697/136903
+http://dns.maxptv.net:2052/fw481/12345678/136903
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 SD" tvg-logo="http://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 SD
-http://dns.maxptv.net:2052/123123123/85904697/136904
+http://dns.maxptv.net:2052/fw481/12345678/136904
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN FHD
-http://dns.maxptv.net:2052/123123123/85904697/20234
+http://dns.maxptv.net:2052/fw481/12345678/20234
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN HD
-http://dns.maxptv.net:2052/123123123/85904697/535
+http://dns.maxptv.net:2052/fw481/12345678/535
 #EXTINF:-1 tvg-id="AXN SD" tvg-name="AXN SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES ",AXN SD
-http://dns.maxptv.net:2052/123123123/85904697/227
+http://dns.maxptv.net:2052/fw481/12345678/227
 #EXTINF:-1 tvg-id="Baby TV HD" tvg-name="BabyTV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/babytv.png" group-title="Canais :: INFANTIL",BabyTV HD
-http://dns.maxptv.net:2052/123123123/85904697/226
+http://dns.maxptv.net:2052/fw481/12345678/226
 #EXTINF:-1 tvg-id="Baby TV SD" tvg-name="BabyTV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/babytv.png" group-title="Canais :: INFANTIL",BabyTV SD
-http://dns.maxptv.net:2052/123123123/85904697/225
+http://dns.maxptv.net:2052/fw481/12345678/225
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas HD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band Campinas HD
-http://dns.maxptv.net:2052/123123123/85904697/242
+http://dns.maxptv.net:2052/fw481/12345678/242
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas SD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band Campinas SD
-http://dns.maxptv.net:2052/123123123/85904697/241
+http://dns.maxptv.net:2052/fw481/12345678/241
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ",Band News HD
-http://dns.maxptv.net:2052/123123123/85904697/224
+http://dns.maxptv.net:2052/fw481/12345678/224
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ",Band News SD
-http://dns.maxptv.net:2052/123123123/85904697/223
+http://dns.maxptv.net:2052/fw481/12345678/223
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP HD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band SP HD
-http://dns.maxptv.net:2052/123123123/85904697/130
+http://dns.maxptv.net:2052/fw481/12345678/130
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP SD" tvg-logo="http://painelsbo.painel.life/logo/bandcampinas.png" group-title="Canais :: ABERTOS",Band SP SD
-http://dns.maxptv.net:2052/123123123/85904697/129
+http://dns.maxptv.net:2052/fw481/12345678/129
 #EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/bandsports.png" group-title="Canais :: ESPORTES",Band Sports HD
-http://dns.maxptv.net:2052/123123123/85904697/221
+http://dns.maxptv.net:2052/fw481/12345678/221
 #EXTINF:-1 tvg-id="Band Sports SD" tvg-name="Band Sports SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/bandsports.png" group-title="Canais :: ESPORTES",Band Sports SD
-http://dns.maxptv.net:2052/123123123/85904697/220
+http://dns.maxptv.net:2052/fw481/12345678/220
 #EXTINF:-1 tvg-id="bis.br" tvg-name="Bis HD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS",Bis HD
-http://dns.maxptv.net:2052/123123123/85904697/219
+http://dns.maxptv.net:2052/fw481/12345678/219
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIs SD" tvg-logo="http://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAIS",BIs SD
-http://dns.maxptv.net:2052/123123123/85904697/218
+http://dns.maxptv.net:2052/fw481/12345678/218
 #EXTINF:-1 tvg-id="Boa Vontade SD" tvg-name="Boa Vontade TV HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/boavontade.png" group-title="Canais :: CORTESIA",Boa Vontade TV HD
-http://dns.maxptv.net:2052/123123123/85904697/49115
+http://dns.maxptv.net:2052/fw481/12345678/49115
 #EXTINF:-1 tvg-id="Boa Vontade SD" tvg-name="Boa Vontade TV SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/boavontade.png" group-title="Canais :: CORTESIA",Boa Vontade TV SD
-http://dns.maxptv.net:2052/123123123/85904697/49116
+http://dns.maxptv.net:2052/fw481/12345678/49116
 #EXTINF:-1 tvg-id="Boomerang HD [Alter]" tvg-name="Boomerang HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/boomerang.png" group-title="Canais :: INFANTIL",Boomerang HD
-http://dns.maxptv.net:2052/123123123/85904697/217
+http://dns.maxptv.net:2052/fw481/12345678/217
 #EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil FHD
-http://dns.maxptv.net:2052/123123123/85904697/20227
+http://dns.maxptv.net:2052/fw481/12345678/20227
 #EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil HD
-http://dns.maxptv.net:2052/123123123/85904697/111747
+http://dns.maxptv.net:2052/fw481/12345678/111747
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="Canal Brasil SD" tvg-logo="http://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: FILMES E SÉRIES ",Canal Brasil SD
-http://dns.maxptv.net:2052/123123123/85904697/111748
+http://dns.maxptv.net:2052/fw481/12345678/111748
 #EXTINF:-1 tvg-id="Canal do Boi HD" tvg-name="Canal do Boi HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA",Canal do Boi HD
-http://dns.maxptv.net:2052/123123123/85904697/20467
+http://dns.maxptv.net:2052/fw481/12345678/20467
 #EXTINF:-1 tvg-id="Canal do Boi SD" tvg-name="Canal do Boi SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA",Canal do Boi SD
-http://dns.maxptv.net:2052/123123123/85904697/49046
+http://dns.maxptv.net:2052/fw481/12345678/49046
 #EXTINF:-1 tvg-id="Canal Rural SD" tvg-name="Canal Rural HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canalrural.png" group-title="Canais :: CORTESIA",Canal Rural HD
-http://dns.maxptv.net:2052/123123123/85904697/49121
+http://dns.maxptv.net:2052/fw481/12345678/49121
 #EXTINF:-1 tvg-id="Canal Rural SD" tvg-name="Canal Rural SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cortesia/canalrural.png" group-title="Canais :: CORTESIA",Canal Rural SD
-http://dns.maxptv.net:2052/123123123/85904697/49122
+http://dns.maxptv.net:2052/fw481/12345678/49122
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO",Canção Nova HD
-http://dns.maxptv.net:2052/123123123/85904697/47755
+http://dns.maxptv.net:2052/fw481/12345678/47755
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova SD" tvg-logo="http://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO",Canção Nova SD
-http://dns.maxptv.net:2052/123123123/85904697/47756
+http://dns.maxptv.net:2052/fw481/12345678/47756
 #EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="Cartoon Network FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network FHD
-http://dns.maxptv.net:2052/123123123/85904697/20267
+http://dns.maxptv.net:2052/fw481/12345678/20267
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network HD
-http://dns.maxptv.net:2052/123123123/85904697/524
+http://dns.maxptv.net:2052/fw481/12345678/524
 #EXTINF:-1 tvg-id="Cartoon Network SD" tvg-name="Cartoon Network SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network SD
-http://dns.maxptv.net:2052/123123123/85904697/204
+http://dns.maxptv.net:2052/fw481/12345678/204
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito HD
-http://dns.maxptv.net:2052/123123123/85904697/49052
+http://dns.maxptv.net:2052/fw481/12345678/49052
 #EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito SD
-http://dns.maxptv.net:2052/123123123/85904697/49053
+http://dns.maxptv.net:2052/fw481/12345678/49053
 #EXTINF:-1 tvg-id="CINCHD" tvg-name="Cinecanal FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal FHD
-http://dns.maxptv.net:2052/123123123/85904697/20245
+http://dns.maxptv.net:2052/fw481/12345678/20245
 #EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal HD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal HD
-http://dns.maxptv.net:2052/123123123/85904697/156
+http://dns.maxptv.net:2052/fw481/12345678/156
 #EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal SD" tvg-logo="http://painelsbo.painel.life/logosiptv/cinecanal/cinecanal.png" group-title="Canais :: FILMES E SÉRIES ",Cinecanal SD
-http://dns.maxptv.net:2052/123123123/85904697/155
+http://dns.maxptv.net:2052/fw481/12345678/155
 #EXTINF:-1 tvg-id="Cinemax FHD" tvg-name="Cinemax FHD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax FHD
-http://dns.maxptv.net:2052/123123123/85904697/36589
+http://dns.maxptv.net:2052/fw481/12345678/36589
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax HD
-http://dns.maxptv.net:2052/123123123/85904697/203
+http://dns.maxptv.net:2052/fw481/12345678/203
 #EXTINF:-1 tvg-id="Cinemax SD" tvg-name="Cinemax SD" tvg-logo="http://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES",Cinemax SD
-http://dns.maxptv.net:2052/123123123/85904697/202
+http://dns.maxptv.net:2052/fw481/12345678/202
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS ",Cnn Brasil HD
-http://dns.maxptv.net:2052/123123123/85904697/8890
+http://dns.maxptv.net:2052/fw481/12345678/8890
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS ",Cnn Brasil SD
-http://dns.maxptv.net:2052/123123123/85904697/8891
+http://dns.maxptv.net:2052/fw481/12345678/8891
 #EXTINF:-1 tvg-id="CNN Internacional SD" tvg-name="CNN International HD" tvg-logo="http://painelsbo.painel.life/logosiptv/mundo/cnninternacional.png" group-title="Canais :: MUNDO INTERNACIONAL",CNN International HD
-http://dns.maxptv.net:2052/123123123/85904697/49125
+http://dns.maxptv.net:2052/fw481/12345678/49125
 #EXTINF:-1 tvg-id="CNN Internacional SD" tvg-name="CNN International SD" tvg-logo="http://painelsbo.painel.life/logosiptv/mundo/cnninternacional.png" group-title="Canais :: MUNDO INTERNACIONAL",CNN International SD
-http://dns.maxptv.net:2052/123123123/85904697/49126
+http://dns.maxptv.net:2052/fw481/12345678/49126
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate FHD
-http://dns.maxptv.net:2052/123123123/85904697/19526
+http://dns.maxptv.net:2052/fw481/12345678/19526
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate HD
-http://dns.maxptv.net:2052/123123123/85904697/201
+http://dns.maxptv.net:2052/fw481/12345678/201
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="http://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="Canais :: PREMIERE",Combate SD
-http://dns.maxptv.net:2052/123123123/85904697/200
+http://dns.maxptv.net:2052/fw481/12345678/200
 #EXTINF:-1 tvg-id="Comedy Central FHD" tvg-name="Comedy Central FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central FHD
-http://dns.maxptv.net:2052/123123123/85904697/20263
+http://dns.maxptv.net:2052/fw481/12345678/20263
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central HD
-http://dns.maxptv.net:2052/123123123/85904697/199
+http://dns.maxptv.net:2052/fw481/12345678/199
 #EXTINF:-1 tvg-id="Comedy Central SD" tvg-name="Comedy Central SD" tvg-logo="http://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES ",Comedy Central SD
-http://dns.maxptv.net:2052/123123123/85904697/198
+http://dns.maxptv.net:2052/fw481/12345678/198
 #EXTINF:-1 tvg-id="Conmebol" tvg-name="CONMEBOL PARAMOUNT+ 1 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 HD
-http://dns.maxptv.net:2052/123123123/85904697/18835
+http://dns.maxptv.net:2052/fw481/12345678/18835
 #EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 HD²
-http://dns.maxptv.net:2052/123123123/85904697/115481
+http://dns.maxptv.net:2052/fw481/12345678/115481
 #EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="CONMEBOL PARAMOUNT+ 1 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 1 SD
-http://dns.maxptv.net:2052/123123123/85904697/19039
+http://dns.maxptv.net:2052/fw481/12345678/19039
 #EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 HD
-http://dns.maxptv.net:2052/123123123/85904697/18836
+http://dns.maxptv.net:2052/fw481/12345678/18836
 #EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 HD²
-http://dns.maxptv.net:2052/123123123/85904697/115482
+http://dns.maxptv.net:2052/fw481/12345678/115482
 #EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="CONMEBOL PARAMOUNT+ 2 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 2 SD
-http://dns.maxptv.net:2052/123123123/85904697/19040
+http://dns.maxptv.net:2052/fw481/12345678/19040
 #EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 HD
-http://dns.maxptv.net:2052/123123123/85904697/18837
+http://dns.maxptv.net:2052/fw481/12345678/18837
 #EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 HD²
-http://dns.maxptv.net:2052/123123123/85904697/115483
+http://dns.maxptv.net:2052/fw481/12345678/115483
 #EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="CONMEBOL PARAMOUNT+ 3 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 3 SD
-http://dns.maxptv.net:2052/123123123/85904697/19041
+http://dns.maxptv.net:2052/fw481/12345678/19041
 #EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 HD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 HD
-http://dns.maxptv.net:2052/123123123/85904697/18838
+http://dns.maxptv.net:2052/fw481/12345678/18838
 #EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 HD²" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 HD²
-http://dns.maxptv.net:2052/123123123/85904697/115484
+http://dns.maxptv.net:2052/fw481/12345678/115484
 #EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="CONMEBOL PARAMOUNT+ 4 SD" tvg-logo="http://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais :: CONMEBOL PARAMOUNT+",CONMEBOL PARAMOUNT+ 4 SD
-http://dns.maxptv.net:2052/123123123/85904697/19042
+http://dns.maxptv.net:2052/fw481/12345678/19042
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura HD" tvg-logo="http://painelsbo.painel.life/logo/canais/cultura.png" group-title="Canais :: ABERTOS",Cultura HD
-http://dns.maxptv.net:2052/123123123/85904697/197
+http://dns.maxptv.net:2052/fw481/12345678/197
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura SD" tvg-logo="http://painelsbo.painel.life/logo/canais/cultura.png" group-title="Canais :: ABERTOS",Cultura SD
-http://dns.maxptv.net:2052/123123123/85904697/196
+http://dns.maxptv.net:2052/fw481/12345678/196
 #EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/curta.png" group-title="Canais :: VARIEDADES",Curta! HD
-http://dns.maxptv.net:2052/123123123/85904697/213
+http://dns.maxptv.net:2052/fw481/12345678/213
 #EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/curta.png" group-title="Canais :: VARIEDADES",Curta! SD
-http://dns.maxptv.net:2052/123123123/85904697/212
+http://dns.maxptv.net:2052/fw481/12345678/212
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel FHD
-http://dns.maxptv.net:2052/123123123/85904697/20225
+http://dns.maxptv.net:2052/fw481/12345678/20225
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel HD
-http://dns.maxptv.net:2052/123123123/85904697/195
+http://dns.maxptv.net:2052/fw481/12345678/195
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoverychannel.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Channel SD
-http://dns.maxptv.net:2052/123123123/85904697/194
+http://dns.maxptv.net:2052/fw481/12345678/194
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health FHD
-http://dns.maxptv.net:2052/123123123/85904697/20265
+http://dns.maxptv.net:2052/fw481/12345678/20265
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health HD
-http://dns.maxptv.net:2052/123123123/85904697/191
+http://dns.maxptv.net:2052/fw481/12345678/191
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="http://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health SD
-http://dns.maxptv.net:2052/123123123/85904697/190
+http://dns.maxptv.net:2052/fw481/12345678/190
 #EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids HD
-http://dns.maxptv.net:2052/123123123/85904697/189
+http://dns.maxptv.net:2052/fw481/12345678/189
 #EXTINF:-1 tvg-id="Discovery Kids SD" tvg-name="Discovery Kids SD" tvg-logo="http://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids SD
-http://dns.maxptv.net:2052/123123123/85904697/188
+http://dns.maxptv.net:2052/fw481/12345678/188
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science FHD
-http://dns.maxptv.net:2052/123123123/85904697/20258
+http://dns.maxptv.net:2052/fw481/12345678/20258
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science HD
-http://dns.maxptv.net:2052/123123123/85904697/187
+http://dns.maxptv.net:2052/fw481/12345678/187
+
+
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/duscoveryscience.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Science SD
 http://dns.maxptv.net:2052/123123123/85904697/186
 #EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://painelsbo.painel.life/logosiptv/documentarios/theather.png" group-title="Canais :: DOCUMENTÁRIOS ",Discovery Theater HD
