@@ -47,6 +47,281 @@ http://dns.maxptv.net:2052/movie/fw481/12345678/180309.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/fJ7jIBP.jpeg" group-title="Filmes | Lancamentos",Gladiador 2 (CINEMA)
 http://dns.maxptv.net:2052/movie/fw481/12345678/180344.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/YCns0I4.jpeg" group-title="Filmes | Lancamentos",Guerreiros do basquete
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/nHo9Em7.jpeg" group-title="Filmes | Lancamentos",Nascida para cantar 
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/EoOdwfN.jpeg" group-title="Filmes | Lancamentos",Latency (L)
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/MO12Cca.jpeg" group-title="Filmes | Lancamentos",Caminhos de sangue
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/QqfWIO1.jpeg" group-title="Filmes | Lancamentos",Prenda a respiraçao
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/J821ETg.jpeg" group-title="Filmes | Lancamentos",A casa mórbida
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/yL7NtP1.jpeg" group-title="Filmes | Lancamentos",A hora do vampiro (L)
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/mH8tkQx.jpeg" group-title="Filmes | Lancamentos",Identidades em jogo
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/Nqki5Bj.jpeg" group-title="Filmes | Lancamentos",O diário
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/sr8LDmE.jpeg" group-title="Filmes | Lancamentos",O poço 2
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/wr6UgtG.jpeg" group-title="Filmes | Lancamentos",Não fale o mal (L)
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/EKlBOxQ.jpeg" group-title="Filmes | Lancamentos",Alerta Âmbar
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/173642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/KkLnw0u.jpeg" group-title="Filmes | Lancamentos",VHS beyond (L)
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/174050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/Vocd8GJ.jpeg" group-title="Filmes | Lancamentos",A forja
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/174065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/ljVeu5i.jpeg" group-title="Filmes | Lancamentos",Os fantasmas ainda se divertem
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/174067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/9HgrSs8.jpeg" group-title="Filmes | Lancamentos",Os horrores de Caddo Lake
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/174071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/cQXRaGs.jpeg" group-title="Filmes | Lancamentos",Guerra e revolta
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/174076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/feAK8gs.jpeg" group-title="Filmes | Lancamentos",Amores solitários
+http://srv.maxptvddns.org:2052/movie/fw481/12345678/174078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Reinado (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZHpESzJUTVhzeHJvbEdWZFp3TkdjT2xacXJGLmpwZw==.jpg" group-title="Filmes | Lancamentos",Planeta dos Macacos: O Reinado (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/154530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool e Wolverine (CINEMA)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWtoWlJxQ1dxSjM3NnNCekQ0TWVBTzJ3NHd2LmpwZw==.jpg" group-title="Filmes | Lancamentos",Deadpool e Wolverine (CINEMA)
+http://dns.maxptv.net:2052/movie/fw481/12345678/164188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Reinado" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZHpESzJUTVhzeHJvbEdWZFp3TkdjT2xacXJGLmpwZw==.jpg" group-title="Filmes | Lancamentos",Planeta dos Macacos: O Reinado
+http://dns.maxptv.net:2052/movie/fw481/12345678/165038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MaXXXine (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcFJLMGk1QTZ0RkZXTmx5ZTI3TGRQMmYyNkVwLmpwZw==.jpg" group-title="Filmes | Lancamentos",MaXXXine (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Provocadores (L)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg" group-title="Filmes | Lancamentos",Os Provocadores (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Provocadores" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aOrQX4j8NuxbDAEbaSdYnKV5oHz.jpg" group-title="Filmes | Lancamentos",Os Provocadores
+http://dns.maxptv.net:2052/movie/fw481/12345678/165526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Cruzada (L)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aJee3ZpITDSS1EB0HfLM5SSHWr7.jpg" group-title="Filmes | Lancamentos",Missão Cruzada (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Cruzada" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aJee3ZpITDSS1EB0HfLM5SSHWr7.jpg" group-title="Filmes | Lancamentos",Missão Cruzada
+http://dns.maxptv.net:2052/movie/fw481/12345678/165531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Avassaladora 2" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51EYuxGoyv1VqxMz4gxWh2OhweR.jpg" group-title="Filmes | Lancamentos",Beleza Avassaladora 2
+http://dns.maxptv.net:2052/movie/fw481/12345678/165532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daddio (L)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dyrCsHUhOfpuci51lHcdAnO3db0.jpg" group-title="Filmes | Lancamentos",Daddio (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Twisters (L)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="Filmes | Lancamentos",Twisters (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Vender a Lua (L)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xsBUOECP0a2D5BtlfUAkDKB9Fc5.jpg" group-title="Filmes | Lancamentos",Como Vender a Lua (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Vender a Lua" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xsBUOECP0a2D5BtlfUAkDKB9Fc5.jpg" group-title="Filmes | Lancamentos",Como Vender a Lua
+http://dns.maxptv.net:2052/movie/fw481/12345678/165537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Twisters" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg" group-title="Filmes | Lancamentos",Twisters
+http://dns.maxptv.net:2052/movie/fw481/12345678/165678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackpot: Loteria Mortal! (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKzdW6hzCTHlkRAxK2hMEZL0SmF.jpg" group-title="Filmes | Lancamentos",Jackpot: Loteria Mortal! (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackpot: Loteria Mortal!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKzdW6hzCTHlkRAxK2hMEZL0SmF.jpg" group-title="Filmes | Lancamentos",Jackpot: Loteria Mortal!
+http://dns.maxptv.net:2052/movie/fw481/12345678/165709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retrato (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yd6tCEOa7KYlIVTPhGybrbK0uU.jpg" group-title="Filmes | Lancamentos",O Retrato (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retrato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yd6tCEOa7KYlIVTPhGybrbK0uU.jpg" group-title="Filmes | Lancamentos",O Retrato
+http://dns.maxptv.net:2052/movie/fw481/12345678/165717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera Interior (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfvQPZBRmpwAPm0ZcJ1EKsmS1vz.jpg" group-title="Filmes | Lancamentos",A Fera Interior (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epzHc7RNjgpj9e2IVH88g7cr7DG.jpg" group-title="Filmes | Lancamentos",A Liga (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Liga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epzHc7RNjgpj9e2IVH88g7cr7DG.jpg" group-title="Filmes | Lancamentos",A Liga
+http://dns.maxptv.net:2052/movie/fw481/12345678/165722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Posso Viver Sem Você" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GwVxZRiKS2TPCnfp0RoA1iXr9P.jpg" group-title="Filmes | Lancamentos",Não Posso Viver Sem Você
+http://dns.maxptv.net:2052/movie/fw481/12345678/165757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pequenas Cartas Obscenas (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxplNecJQ0aKQEYLaZsz6ucbwko.jpg" group-title="Filmes | Lancamentos",Pequenas Cartas Obscenas (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pequenas Cartas Obscenas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxplNecJQ0aKQEYLaZsz6ucbwko.jpg" group-title="Filmes | Lancamentos",Pequenas Cartas Obscenas
+http://dns.maxptv.net:2052/movie/fw481/12345678/165759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina do Mar (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk5Nogq4AprCwVPyyfKxmWyZV7y.jpg" group-title="Filmes | Lancamentos",A Menina do Mar (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina do Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk5Nogq4AprCwVPyyfKxmWyZV7y.jpg" group-title="Filmes | Lancamentos",A Menina do Mar
+http://dns.maxptv.net:2052/movie/fw481/12345678/165866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divertida Mente 2 (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg" group-title="Filmes | Lancamentos",Divertida Mente 2 (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/165867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nice Girls" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdoqqR2OtQ0b1gnFQkGIsY5rDuF.jpg" group-title="Filmes | Lancamentos",Nice Girls
+http://dns.maxptv.net:2052/movie/fw481/12345678/166437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oddity (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uln9Efc2vzDOl0Fue2BPs8l1WO7.jpg" group-title="Filmes | Lancamentos",Oddity (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito 4 (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWYTtmxSuWVXP22hxAeXdQZLZrh.jpg" group-title="Filmes | Lancamentos",Meu Malvado Favorito 4 (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWYTtmxSuWVXP22hxAeXdQZLZrh.jpg" group-title="Filmes | Lancamentos",Meu Malvado Favorito 4
+http://dns.maxptv.net:2052/movie/fw481/12345678/166440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belo Desastre: O Casamento (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HscUDvASN1uNu7dpLI5vkAgkl5.jpg" group-title="Filmes | Lancamentos",Belo Desastre: O Casamento (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belo Desastre: O Casamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HscUDvASN1uNu7dpLI5vkAgkl5.jpg" group-title="Filmes | Lancamentos",Belo Desastre: O Casamento
+http://dns.maxptv.net:2052/movie/fw481/12345678/166635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Consumed (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMKc8AOyb7KWSzlKblstqjCXhvn.jpg" group-title="Filmes | Lancamentos",Consumed (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista com o Demonio (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGyCpd8m1XITpw69gh9GgjhES6o.jpg" group-title="Filmes | Lancamentos",Entrevista com o Demonio (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista com o Demônio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGyCpd8m1XITpw69gh9GgjhES6o.jpg" group-title="Filmes | Lancamentos",Entrevista com o Demônio
+http://dns.maxptv.net:2052/movie/fw481/12345678/166644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Amigas: Todos os Domingos (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLevBMWKQC1DPf3wONDSOTdo7GX.jpg" group-title="Filmes | Lancamentos",Tres Amigas: Todos os Domingos (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Novatos (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMLoToKANoJdDOLKrqoDLsCvcNY.jpg" group-title="Filmes | Lancamentos",Os Novatos (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Novatos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMLoToKANoJdDOLKrqoDLsCvcNY.jpg" group-title="Filmes | Lancamentos",Os Novatos
+http://dns.maxptv.net:2052/movie/fw481/12345678/166652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longlegs: Vinculo Mortal (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xomHNTC7AWNI3lxrxoDUgF75Alg.jpg" group-title="Filmes | Lancamentos",Longlegs: Vinculo Mortal (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tokunbo (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raVajUcKeGkYX0Jc32OdR5UDmkr.jpg" group-title="Filmes | Lancamentos",Tokunbo (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tokunbo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raVajUcKeGkYX0Jc32OdR5UDmkr.jpg" group-title="Filmes | Lancamentos",Tokunbo
+http://dns.maxptv.net:2052/movie/fw481/12345678/166655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Killer (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="Filmes | Lancamentos",The Killer (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/166661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Killer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" group-title="Filmes | Lancamentos",The Killer
+http://dns.maxptv.net:2052/movie/fw481/12345678/166662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snerting (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GKvryDPR8LudxL2p6PqZrJwIwf.jpg" group-title="Filmes | Lancamentos",Snerting (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/167369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watchmen: Capítulo 1 (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TwXt0AvAl4SdaGL1X2DzoLBN68.jpg" group-title="Filmes | Lancamentos",Watchmen: Capítulo 1 (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/167510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Pub (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icMUYWVAPVZEizY2Sbqp8tynGm2.jpg" group-title="Filmes | Lancamentos",O Ultimo Pub (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/167511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Filho Nosso Mundo (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zmq8CsXMD1QTHtxcXo6YvMYfoZ.jpg" group-title="Filmes | Lancamentos",Meu Filho Nosso Mundo (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/167512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outra Chance para o Amor (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2BbDq9s86WkCo6QuiuEyprbiGl.jpg" group-title="Filmes | Lancamentos",Outra Chance para o Amor (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/167513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outra Chance para o Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2BbDq9s86WkCo6QuiuEyprbiGl.jpg" group-title="Filmes | Lancamentos",Outra Chance para o Amor
+http://dns.maxptv.net:2052/movie/fw481/12345678/167514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exhuma (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0i3kkmOTjDjGFZTLHKhoeXVvA.jpg" group-title="Filmes | Lancamentos",Exhuma (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/167973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas e Gi em: Dinossauros" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2//7NZAwKv6jGVLyMAkX7bhE5fPobE.jpg" group-title="Filmes | Lancamentos",Luccas e Gi em: Dinossauros
+http://dns.maxptv.net:2052/movie/fw481/12345678/167974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Junebug (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDvimZHKqHTFQpQ7b1Xr801bHQi.jpg" group-title="Filmes | Lancamentos",Junebug (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/167976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Principes Perigosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohqfqjCg6j8IOyKsRZ7bQCV7sMY.jpg" group-title="Filmes | Lancamentos",Principes Perigosos
+http://dns.maxptv.net:2052/movie/fw481/12345678/167977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armadilha (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCBrDVxkMxLq4uPVjeJ5bZMAucy.jpg" group-title="Filmes | Lancamentos",Armadilha (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/168092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armadilha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCBrDVxkMxLq4uPVjeJ5bZMAucy.jpg" group-title="Filmes | Lancamentos",Armadilha
+http://dns.maxptv.net:2052/movie/fw481/12345678/168093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Libertação (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TdwOqwIPdG0BMuCDZdmQz92zjT.jpg" group-title="Filmes | Lancamentos",A Libertação (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/168115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Libertação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TdwOqwIPdG0BMuCDZdmQz92zjT.jpg" group-title="Filmes | Lancamentos",A Libertação
+http://dns.maxptv.net:2052/movie/fw481/12345678/168116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tipos de Gentileza (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WcXSrWVdqdHTQM25xzffUYipcS.jpg" group-title="Filmes | Lancamentos",Tipos de Gentileza (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/168117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmas de Sorte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QdtOFFyDpZ8WO6l0SOPF7OSiMG.jpg" group-title="Filmes | Lancamentos",Irmas de Sorte
+http://dns.maxptv.net:2052/movie/fw481/12345678/168122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quiosque (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZExVc4fuAFSdh2VsHI1pN4Izqp.jpg" group-title="Filmes | Lancamentos",O Quiosque (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/168146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quiosque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZExVc4fuAFSdh2VsHI1pN4Izqp.jpg" group-title="Filmes | Lancamentos",O Quiosque
+http://dns.maxptv.net:2052/movie/fw481/12345678/168147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mallandro: O Errado que Deu Certo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qBCCfx3LkyB0181MyPaLRZNVRq.jpg" group-title="Filmes | Lancamentos",Mallandro: O Errado que Deu Certo
+http://dns.maxptv.net:2052/movie/fw481/12345678/168152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firebrand (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXAc1LaxL64udWr9SOAHQwOBEG0.jpg" group-title="Filmes | Lancamentos",Firebrand (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/169869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Borderlands: O Destino do Universo Está em Jogo (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDNoeFVGTjRUV0ZLTXpabGRHdFZhV1kwVm1kblFWZzVkRXgxTUM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Borderlands: O Destino do Universo Está em Jogo (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/169880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5J8KnkntdwdiqUNJWGaJrNc8sO9.jpg" group-title="Filmes | Lancamentos",Doce Família
+http://dns.maxptv.net:2052/movie/fw481/12345678/170135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Melhor Viuva Do Que Mal Acompanhada" tvg-logo="http://dns.maxptv.net:2052/images/L2N1aGZ1clZoNXpmSHNTNlJaRDFSTHZQVHN0Ty5qcGc=.jpg" group-title="Filmes | Lancamentos",Melhor Viuva Do Que Mal Acompanhada
+http://dns.maxptv.net:2052/movie/fw481/12345678/170152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disco, Ibiza, Locomía (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDJKbFRHSmFSWGhQV2pZMFRIcGljVXBpWW1KcWFHeHhZbVY2YVM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Disco, Ibiza, Locomía (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My First Film (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDNwU1dqWXlRMVJGZUdObWQwTjBRbmRUU21KMlZESk9RWGw2TXk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",My First Film (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avassaladoras 2.0" tvg-logo="http://dns.maxptv.net:2052/images/L3dOd1dFTzBkdUx3cU82RWt3bmZlVVpaMUFXNi5qcGc=.jpg" group-title="Filmes | Lancamentos",Avassaladoras 2.0
+http://dns.maxptv.net:2052/movie/fw481/12345678/170155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Ridge (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDNoRmRESkhVM281ZWpWeVUxWndTVWhOYVVka2RHWXdZM3A1Wmk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Rebel Ridge (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Ridge" tvg-logo="http://dns.maxptv.net:2052/images/L3hFdDJHU3o5ejVyU1ZwSUhNaUdkdGYwY3p5Zi5qcGc=.jpg" group-title="Filmes | Lancamentos",Rebel Ridge
+http://dns.maxptv.net:2052/movie/fw481/12345678/170161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Audi vs Lancia: Corrida pela Glória (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDJKV1JYQmhRbXhCVTBSNFIyWkRaWGxCTkUxU2NuSkdZVEU0YkM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Audi vs Lancia: Corrida pela Glória (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Audi vs Lancia: Corrida pela Glória" tvg-logo="http://dns.maxptv.net:2052/images/L2JWRXBhQmxBU0R4R2ZDZXlBNE1ScnJGYTE4bC5qcGc=.jpg" group-title="Filmes | Lancamentos",Audi vs Lancia: Corrida pela Glória
+http://dns.maxptv.net:2052/movie/fw481/12345678/170368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Demon Disorder (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDA5eGJHMXZNV0pvUkZGWFYwSlFjazE0VFdGMWRVaE1OM2szTG1wd1p3PT0=.jpg" group-title="Filmes | Lancamentos",The Demon Disorder (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harold e o Lápis Mágico (L)" tvg-logo="http://dns.maxptv.net:2052/images/THpoTVZqZEdTbTF0ZFVaWVFUWTBOamg1VkVKSlZVUnpjM3BDWXk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Harold e o Lápis Mágico (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harold e o Lápis Mágico" tvg-logo="http://dns.maxptv.net:2052/images/LzhMVjdGSm1tdUZYQTY0Njh5VEJJVURzc3pCYy5qcGc=.jpg" group-title="Filmes | Lancamentos",Harold e o Lápis Mágico
+http://dns.maxptv.net:2052/movie/fw481/12345678/170484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Caçada (L)" tvg-logo="http://dns.maxptv.net:2052/images/THpWS1VYWXlTbkYwVGpaa1VuTTJOekI1Ulc0NU9VWnFUbkpMWmk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",A Ultima Caçada (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Caçada" tvg-logo="http://dns.maxptv.net:2052/images/LzVKUXYySnF0TjZkUnM2NzB5RW45OUZqTnJLZi5qcGc=.jpg" group-title="Filmes | Lancamentos",A Ultima Caçada
+http://dns.maxptv.net:2052/movie/fw481/12345678/170491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bandida: A Número Um (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDNneGJqTmFSa0pTTjNsMVYzSnRkSE0zUjFKYVNXTlZkRlJXYnk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Bandida: A Número Um (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bandida: A Número Um" tvg-logo="http://dns.maxptv.net:2052/images/L3gxbjNaRkJSN3l1V3JtdHM3R1JaSWNVdFRWby5qcGc=.jpg" group-title="Filmes | Lancamentos",Bandida: A Número Um
+http://dns.maxptv.net:2052/movie/fw481/12345678/170493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Technoboys" tvg-logo="http://dns.maxptv.net:2052/images/L3BFVjB5NFNlTEJsWjNMcEY2bDlJbHFrYjIxcC5qcGc=.jpg" group-title="Filmes | Lancamentos",Technoboys
+http://dns.maxptv.net:2052/movie/fw481/12345678/170494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boxer" tvg-logo="http://dns.maxptv.net:2052/images/LzJMdElGT3RwOXlqVmQycE90VlJjMDkxVHB4UC5qcGc=.jpg" group-title="Filmes | Lancamentos",Boxer
+http://dns.maxptv.net:2052/movie/fw481/12345678/170495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MaXXXine" tvg-logo="http://dns.maxptv.net:2052/images/L2RtaTI3N3VTZENhdmtTTFRWTkJVTWx5RFl5MC5qcGc=.jpg" group-title="Filmes | Lancamentos",MaXXXine
+http://dns.maxptv.net:2052/movie/fw481/12345678/170496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feios (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDI1aFp6ZGFNMWh4VnpOM1NuWTBVVEI0WjBOUlRFNUZPRzUxYWk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Feios (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feios" tvg-logo="http://dns.maxptv.net:2052/images/L25hZzdaM1hxVzN3SnY0UTB4Z0NRTE5FOG51ai5qcGc=.jpg" group-title="Filmes | Lancamentos",Feios
+http://dns.maxptv.net:2052/movie/fw481/12345678/170692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Agente Faixa-Preta" tvg-logo="http://dns.maxptv.net:2052/images/L3N2ekowbTVKRmo2M0VudzFCSENVcEpXTFBwMC5qcGc=.jpg" group-title="Filmes | Lancamentos",O Agente Faixa-Preta
+http://dns.maxptv.net:2052/movie/fw481/12345678/170694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Som da Esperança: A História de Possum Trot" tvg-logo="http://dns.maxptv.net:2052/images/L2dKRDNOQjFydFhLSVBUeHpTbXlnVDBJcFZoLmpwZw==.jpg" group-title="Filmes | Lancamentos",Som da Esperança: A História de Possum Trot
+http://dns.maxptv.net:2052/movie/fw481/12345678/170695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Corvo (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDJjM1drNVBOWGwyY0hJNWFrcHhVVUpqVkhaalRrbERRemw1Umk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",O Corvo (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/170696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mind Body Spirit (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDJOeWEwMUVObmh6VFZkTmVrdEdTeko0VDBVNGRITnNVak5CUXk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Mind Body Spirit (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/171045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Subservience (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDJkQ1pXNTRVakF4Vlhrd1JYWTVVbFJKZHpaa1ZrSlFiM2xSVlM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Subservience (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/171049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Borderlands: O Destino do Universo Está em Jogo" tvg-logo="http://dns.maxptv.net:2052/images/L3hxUFN4TWFKMzZldGtVaWY0VmdnQVg5dEx1MC5qcGc=.jpg" group-title="Filmes | Lancamentos",Borderlands: O Destino do Universo Está em Jogo
+http://dns.maxptv.net:2052/movie/fw481/12345678/171089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pisque Duas Vezes (L)" tvg-logo="http://dns.maxptv.net:2052/images/THpGQ1Exb3hjazlKTkRGalIydGhaVFpTV21kTVZsWnRXV042UlM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Pisque Duas Vezes (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/171098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Duelo (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDJ4dllsTllkR2hMU25SWlREWmtaWHBoVVdFNFNqbE1PR3N3TWk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",O Duelo (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/171102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Duelo" tvg-logo="http://dns.maxptv.net:2052/images/L2xvYlNYdGhLSnRZTDZkZXphUWE4SjlMOGswMi5qcGc=.jpg" group-title="Filmes | Lancamentos",O Duelo
+http://dns.maxptv.net:2052/movie/fw481/12345678/171103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuckoo (L)" tvg-logo="http://dns.maxptv.net:2052/images/THpSaVIxQTFZMjVUV21KbVFrcG1TV2xrV2s1VFJVbExibUYyTnk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Cuckoo (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tuesday: O Último Abraço (L)" tvg-logo="http://dns.maxptv.net:2052/images/THpkS2NISmlZbU5RTWpoelEySXdabGgzT1hOaVQzTTNObTFrY0M1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Tuesday: O Último Abraço (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tuesday: O Último Abraço" tvg-logo="http://dns.maxptv.net:2052/images/LzdKcHJiYmNQMjhzQ2IwZlh3OXNiT3M3Nm1kcC5qcGc=.jpg" group-title="Filmes | Lancamentos",Tuesday: O Último Abraço
+http://dns.maxptv.net:2052/movie/fw481/12345678/172208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tres Filhas (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDJaNVUyeExaMmhtZEV0VmIwWmljVkZsUmxGSmJrNVJTek5uYVM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",As Tres Filhas (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Tres Filhas" tvg-logo="http://dns.maxptv.net:2052/images/L2Z5U2xLZ2hmdEtVb0ZicVFlRlFJbk5RSzNnaS5qcGc=.jpg" group-title="Filmes | Lancamentos",As Tres Filhas
+http://dns.maxptv.net:2052/movie/fw481/12345678/172279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcismo" tvg-logo="http://dns.maxptv.net:2052/images/L2lSWFlrMjlKelpRSHI0RlBUYlIwTUtoa3Z6Uy5qcGc=.jpg" group-title="Filmes | Lancamentos",O Exorcismo
+http://dns.maxptv.net:2052/movie/fw481/12345678/172348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Touch" tvg-logo="http://dns.maxptv.net:2052/images/LzVHS3ZyeURQUjhMdWR4TDJwNlBxWnJKd0l3Zi5qcGc=.jpg" group-title="Filmes | Lancamentos",Touch
+http://dns.maxptv.net:2052/movie/fw481/12345678/172361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fique Acordado" tvg-logo="http://dns.maxptv.net:2052/images/L2l6UFZabFMzRmNmVmppUTRralFLcHBJd2phMC5qcGc=.jpg" group-title="Filmes | Lancamentos",Fique Acordado
+http://dns.maxptv.net:2052/movie/fw481/12345678/172362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Assim Que Acaba (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDNKbVIxRlliRWt4YlRKcWRrNDVZVEEzUzI5cWJ6bGxNbVJsUWk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",É Assim Que Acaba (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Assim Que Acaba" tvg-logo="http://dns.maxptv.net:2052/images/L3JmR1FYbEkxbTJqdk45YTA3S29qbzllMmRlQi5qcGc=.jpg" group-title="Filmes | Lancamentos",É Assim Que Acaba
+http://dns.maxptv.net:2052/movie/fw481/12345678/172654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo pelo Divórcio" tvg-logo="http://dns.maxptv.net:2052/images/L2hHbzhMbUxHd0JZMkR1Y1U0RGdVVHEwNnBFVy5qcGc=.jpg" group-title="Filmes | Lancamentos",Tudo pelo Divórcio
+http://dns.maxptv.net:2052/movie/fw481/12345678/172689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divertida Mente 2" tvg-logo="http://dns.maxptv.net:2052/images/LzloMktnR1hTbVdpZ05UbjNrUWRFRkZuZ2o5aS5qcGc=.jpg" group-title="Filmes | Lancamentos",Divertida Mente 2
+http://dns.maxptv.net:2052/movie/fw481/12345678/172690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afraid (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDI5U1QwUlRUVkV5VERJMVRUQllhblowTVdjNGNIZGtPSGxsWVM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Afraid (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afraid" tvg-logo="http://dns.maxptv.net:2052/images/L29ST0RTTVEyTDI1TTBYanZ0MWc4cHdkOHllYS5qcGc=.jpg" group-title="Filmes | Lancamentos",Afraid
+http://dns.maxptv.net:2052/movie/fw481/12345678/172692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bangkok no Limite: Entre o Inferno e o Paraíso (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDJSd1kxZEVabmwyWVd3MlZtWlBWV0ZqVWtKR1V6Qm5Ua1JXVHk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Bangkok no Limite: Entre o Inferno e o Paraíso (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bangkok no Limite: Entre o Inferno e o Paraíso" tvg-logo="http://dns.maxptv.net:2052/images/L2RwY1dEZnl2YWw2VmZPVWFjUkJGUzBnTkRWTy5qcGc=.jpg" group-title="Filmes | Lancamentos",Bangkok no Limite: Entre o Inferno e o Paraíso
+http://dns.maxptv.net:2052/movie/fw481/12345678/172720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vítima Invisível: O Caso Eliza Samudio" tvg-logo="http://dns.maxptv.net:2052/images/L2ZUMVJZTnFBU0dSNFFFaTVtSk5iRno3NTRkMy5qcGc=.jpg" group-title="Filmes | Lancamentos",A Vítima Invisível: O Caso Eliza Samudio
+http://dns.maxptv.net:2052/movie/fw481/12345678/172721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calor Mortifero (L)" tvg-logo="http://dns.maxptv.net:2052/images/THpKeVQzQlhhRkZ4VEhKWFNXNWtTRzVpY21JMlZsVjRVVzlXTlM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Calor Mortifero (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calor Mortifero" tvg-logo="http://dns.maxptv.net:2052/images/LzJyT3BXaFFxTHJXSW5kSG5icmI2VlV4UW9WNS5qcGc=.jpg" group-title="Filmes | Lancamentos",Calor Mortifero
+http://dns.maxptv.net:2052/movie/fw481/12345678/172723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Verdadeiro Cavalheiro" tvg-logo="http://dns.maxptv.net:2052/images/L3E3U2x0U3ZUTEFZOGpyS2hlNHVXUnhvSWZCRy5qcGc=.jpg" group-title="Filmes | Lancamentos",Um Verdadeiro Cavalheiro
+http://dns.maxptv.net:2052/movie/fw481/12345678/172730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lobos (L)" tvg-logo="http://dns.maxptv.net:2052/images/THpWTWRtVm1XbHB6WVhCSmMwOUpZMnRNV2toaVdXeDNRMEZyYlM1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Lobos (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lobos" tvg-logo="http://dns.maxptv.net:2052/images/LzVMdmVmWlpzYXBJc09JY2tMWkhiWWx3Q0FrbS5qcGc=.jpg" group-title="Filmes | Lancamentos",Lobos
+http://dns.maxptv.net:2052/movie/fw481/12345678/172732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apartamento 7A (L)" tvg-logo="http://dns.maxptv.net:2052/images/TDI5NWFrVlFibTg0YjIxbFJGbFdUbkZWV2xNeVVtbEZjSFZTUXk1cWNHYz0=.jpg" group-title="Filmes | Lancamentos",Apartamento 7A (L)
+http://dns.maxptv.net:2052/movie/fw481/12345678/172733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apartamento 7A" tvg-logo="http://dns.maxptv.net:2052/images/L295akVQbm84b21lRFlWTnFVWlMyUmlFcHVSQy5qcGc=.jpg" group-title="Filmes | Lancamentos",Apartamento 7A
+http://dns.maxptv.net:2052/movie/fw481/12345678/172734.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name=" Star Wars: Episodio V – O Imperio Contra-Ataca (1980)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZExHVDhiNFV0MTB6NDR1WUxhaXA0UWl3S3RhLmpwZw==.jpg" group-title="Filmes | Fantasia", Star Wars: Episodio V – O Imperio Contra-Ataca (1980)
 http://dns.maxptv.net:2052/movie/fw481/12345678/3943.mp4
 
