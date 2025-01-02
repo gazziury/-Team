@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/HQzn40a.jpeg" group-title="Filmes | Lancamentos",Batalhão 6888
+http://dns.maxptv.net:2052/movie/fw481/12345678/180658.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/sLygVrQ.jpeg" group-title="Filmes | Lancamentos",A hora do silencio
 http://dns.maxptv.net:2052/movie/fw481/12345678/180994.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/Yy3cgeo.jpeg" group-title="Filmes | Lancamentos",Canina (L)
