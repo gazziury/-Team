@@ -1,7 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/87vkl4n.jpeg" group-title="Filmes | Lancamentos",Estômago 2
+http://dns.maxptv.net:2052/movie/gdanielly/gdanielly2396/175054.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/BN2qUcb.jpeg" group-title="Filmes | Lancamentos",O clube do tesouro
-http://dns.maxptv.net:2052/movie/fw633/12345678/173626.mp4
+http://dns.maxptv.net:2052/movie/gdanielly/gdanielly2396/173626.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/rjtLdVZ.jpeg" group-title="Filmes | Lancamentos",Mufasa: O rei leão
 http://dns.maxptv.net:2052/movie/gdanielly/gdanielly2396/180674.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/7aFBuHp.jpeg" group-title="Filmes | Lancamentos",Virgem María
