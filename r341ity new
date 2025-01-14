@@ -122,11 +122,11 @@ http://gerenciadorr.xyz:80/48215892/68171366/1350353
 
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 01
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",QUARTO
 http://dns.maxptv.net:2052/md821a/abc125ad/182665
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 02
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",QUARTO
 http://dns.maxptv.net:2052/md821a/abc125ad/182666
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 03
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",QUARTO
 http://dns.maxptv.net:2052/md821a/abc125ad/182667
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",SALA
 http://dns.maxptv.net:2052/md821a/abc125ad/182668
@@ -134,18 +134,18 @@ http://dns.maxptv.net:2052/md821a/abc125ad/182668
 http://dns.maxptv.net:2052/md821a/abc125ad/182669
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",BANHEIRO
 http://dns.maxptv.net:2052/md821a/abc125ad/182670
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 07
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",ACADEMIA
 http://dns.maxptv.net:2052/md821a/abc125ad/182671
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",PISCINA
 http://dns.maxptv.net:2052/md821a/abc125ad/182672
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",ACADEMIA
 http://dns.maxptv.net:2052/md821a/abc125ad/182673
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 01
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",QUARTO
 http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182665
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 02
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",QUARTO
 http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182666
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 03
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",QUARTO
 http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182667
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",SALA
 http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182668
@@ -153,7 +153,7 @@ http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182668
 http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182669
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",BANHEIRO
 http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182670
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 07
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",ACADEMIA
 http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182671
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",PISCINA
 http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182672
