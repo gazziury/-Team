@@ -17,22 +17,81 @@ http://tvvip.us:8880/play/sYC60BjCE2quqSTA6AFijeja8zh3BTKfg_S9NtpJjmWVVf5HXHN731
 http://tvvip.us:8880/play/sYC60BjCE2quqSTA6AFijeja8zh3BTKfg_S9NtpJjmWA5-8sySQhppHNHbxiKmEF
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 01
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 01
 http://gerenciadorr.xyz:80/86834379/62978844/1350346
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 02
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 02
 http://gerenciadorr.xyz:80/86834379/62978844/1350347
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 03
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 03
 http://gerenciadorr.xyz:80/86834379/62978844/1350348
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 04
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 04
 http://gerenciadorr.xyz:80/86834379/62978844/1350349
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 05
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 05
 http://gerenciadorr.xyz:80/86834379/62978844/1350350
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 06
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 06
 http://gerenciadorr.xyz:80/86834379/62978844/1350351
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 07
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 07
 http://gerenciadorr.xyz:80/86834379/62978844/1350352
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 08
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 08
 http://gerenciadorr.xyz:80/86834379/62978844/1350353
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 2 - BBB 25 (BRASIL)",CAM 01
+http://gerenciadorr.xyz:80/48215892/68171366/1350346
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 2 - BBB 25 (BRASIL)",CAM 02
+http://gerenciadorr.xyz:80/48215892/68171366/1350347
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 2 - BBB 25 (BRASIL)",CAM 03
+http://gerenciadorr.xyz:80/48215892/68171366/1350348
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 2 - BBB 25 (BRASIL)",CAM 04
+http://gerenciadorr.xyz:80/48215892/68171366/1350349
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 2 - BBB 25 (BRASIL)",CAM 05
+http://gerenciadorr.xyz:80/48215892/68171366/1350350
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 2 - BBB 25 (BRASIL)",CAM 06
+http://gerenciadorr.xyz:80/48215892/68171366/1350351
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 2 - BBB 25 (BRASIL)",CAM 07
+http://gerenciadorr.xyz:80/48215892/68171366/1350352
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR 2 - BBB 25 (BRASIL)",CAM 08
+http://gerenciadorr.xyz:80/48215892/68171366/1350353
+
+
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 01
+http://dns.maxptv.net:2052/md821a/abc125ad/182665
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 02
+http://dns.maxptv.net:2052/md821a/abc125ad/182666
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 03
+http://dns.maxptv.net:2052/md821a/abc125ad/182667
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 04
+http://dns.maxptv.net:2052/md821a/abc125ad/182668
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 05
+http://dns.maxptv.net:2052/md821a/abc125ad/182669
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 06
+http://dns.maxptv.net:2052/md821a/abc125ad/182670
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 07
+http://dns.maxptv.net:2052/md821a/abc125ad/182671
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 08
+http://dns.maxptv.net:2052/md821a/abc125ad/182672
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 09
+http://dns.maxptv.net:2052/md821a/abc125ad/182673
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 01
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182665
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 02
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182666
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 03
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182667
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 04
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182668
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 05
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182669
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 06
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182670
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 07
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182671
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 08
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182672
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 09
+http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182673
+
 
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",CAM 01
@@ -113,43 +172,6 @@ http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1289
 http://78.159.119.122:2082/xplus-2-LL76QoE6bg/8jLDlTzTXD/1290
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 01
-http://dns.maxptv.net:2052/md821a/abc125ad/182665
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 02
-http://dns.maxptv.net:2052/md821a/abc125ad/182666
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 03
-http://dns.maxptv.net:2052/md821a/abc125ad/182667
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 04
-http://dns.maxptv.net:2052/md821a/abc125ad/182668
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 05
-http://dns.maxptv.net:2052/md821a/abc125ad/182669
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 06
-http://dns.maxptv.net:2052/md821a/abc125ad/182670
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 07
-http://dns.maxptv.net:2052/md821a/abc125ad/182671
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 08
-http://dns.maxptv.net:2052/md821a/abc125ad/182672
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="MAXPTV - BBB 25 (BRASIL)",CAM 09
-http://dns.maxptv.net:2052/md821a/abc125ad/182673
-
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 01
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182665
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 02
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182666
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 03
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182667
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 04
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182668
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 05
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182669
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 06
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182670
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 07
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182671
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 08
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182672
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="OFFICE  - BBB 25 (BRASIL)",CAM 09
-http://dns.maxptv.net:2052/gdanielly/gdanielly2396/182673
 
 
 
