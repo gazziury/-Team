@@ -7,6 +7,16 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 1
+http://tv.nousiptv.com:8080/UY2888/6547765/1226119
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 2
+http://tv.nousiptv.com:8080/UY2888/6547765/1226120
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 3
+http://tv.nousiptv.com:8080/UY2888/6547765/1226121
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 4
+http://tv.nousiptv.com:8080/UY2888/6547765/1226122
+
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="TV VIP - GRAN HERMANO (ARGENTINA)",CAM 1
 http://tvvip.us:8880/play/sYC60BjCE2quqSTA6AFijeja8zh3BTKfg_S9NtpJjmVZivtgh3ZKi84atixDLFFm
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="TV VIP - GRAN HERMANO (ARGENTINA)",CAM 2
