@@ -7,25 +7,6 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="Gerenciador - BBB 25 (BRASIL)",CAM 01
-http://gerenciadorr.xyz:80/86834379/62978844/1350346
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="Gerenciador - BBB 25 (BRASIL)",CAM 02
-http://gerenciadorr.xyz:80/86834379/62978844/1350347
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="Gerenciador - BBB 25 (BRASIL)",CAM 03
-http://gerenciadorr.xyz:80/86834379/62978844/1350348
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="Gerenciador - BBB 25 (BRASIL)",CAM 04
-http://gerenciadorr.xyz:80/86834379/62978844/1350349
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="Gerenciador - BBB 25 (BRASIL)",CAM 05
-http://gerenciadorr.xyz:80/86834379/62978844/1350350
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="Gerenciador - BBB 25 (BRASIL)",CAM 06
-http://gerenciadorr.xyz:80/86834379/62978844/1350351
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="Gerenciador - BBB 25 (BRASIL)",CAM 07
-http://gerenciadorr.xyz:80/86834379/62978844/1350352
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="Gerenciador - BBB 25 (BRASIL)",CAM 08
-http://gerenciadorr.xyz:80/86834379/62978844/1350353
-
-
-
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/VvFJYzg.jpeg" group-title="TV VIP - GRAN HERMANO (ARGENTINA)",CAM 1
 http://tvvip.us:8880/play/sYC60BjCE2quqSTA6AFijeja8zh3BTKfg_S9NtpJjmVZivtgh3ZKi84atixDLFFm
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/VvFJYzg.jpeg" group-title="TV VIP - GRAN HERMANO (ARGENTINA)",CAM 2
@@ -36,6 +17,22 @@ http://tvvip.us:8880/play/sYC60BjCE2quqSTA6AFijeja8zh3BTKfg_S9NtpJjmWVVf5HXHN731
 http://tvvip.us:8880/play/sYC60BjCE2quqSTA6AFijeja8zh3BTKfg_S9NtpJjmWA5-8sySQhppHNHbxiKmEF
 
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 01
+http://gerenciadorr.xyz:80/86834379/62978844/1350346
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 02
+http://gerenciadorr.xyz:80/86834379/62978844/1350347
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 03
+http://gerenciadorr.xyz:80/86834379/62978844/1350348
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 04
+http://gerenciadorr.xyz:80/86834379/62978844/1350349
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 05
+http://gerenciadorr.xyz:80/86834379/62978844/1350350
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 06
+http://gerenciadorr.xyz:80/86834379/62978844/1350351
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 07
+http://gerenciadorr.xyz:80/86834379/62978844/1350352
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="GERENCIADOR - BBB 25 (BRASIL)",CAM 08
+http://gerenciadorr.xyz:80/86834379/62978844/1350353
 
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KbVWwdA.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",CAM 01
