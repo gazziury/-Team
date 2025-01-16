@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/G0zEo3r.jpeg" group-title="Filmes | Lancamentos",10 días de um homem curioso
+http://dns.maxptv.net:2052/movie/gdanielly/gdanielly2396/176736.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/HUJ1kEp.jpeg" group-title="Filmes | Lancamentos",Abraço de mãe
 http://dns.maxptv.net:2052/movie/gdanielly/gdanielly2396/176431.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgfz.com/i/TOPHAcS.jpeg" group-title="Filmes | Lancamentos",A casa mórbida
