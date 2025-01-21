@@ -53,16 +53,20 @@ http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1289
 http://srv.hostinggon11.xyz:2082/Tourobox1-Q1mSxi1io6/P17FtrbrdX/1290
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",PRINCIPAL
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",ACOMPANHE A CASA 1
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1277
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",ACOMPANHE A CASA 2
+http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1278
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",SALA
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1279
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO NORDESTE
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1280
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO FANTÁSTICO
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1281
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO ANOS 50
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1282
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO FANTÁSTICO / ACADEMIA
+http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1285
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",PISCINA
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1286
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",MOSAICO
@@ -71,7 +75,7 @@ http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1287
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1288
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",COZINHA VIP
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1289
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="XPLUS 1 - BBB 25 (BRASIL)",QUARTO ANOS 50 / BANHEIRO
 http://78.159.119.122:2082/xplus-2-gg1Q5dg211/KOBAJssfmQ/1290
 
 
