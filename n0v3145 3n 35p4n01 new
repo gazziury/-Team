@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_73.mkv
-http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_54.mkv
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_60.mkv
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_59.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_128.mkv
 
@@ -5643,6 +5643,18 @@ http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_52.mkv
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_53.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 051
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_54.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 052
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_55.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 053
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_56.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 054
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_57.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 055
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_58.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 056
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_59.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 057
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_60.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6cDKolSuoesSRF1cd63Tv8p85kH.jpg" group-title="La suerte de Loli",Cap. 001
 http://series.tuxchannel.mx/series/la_suerte_de_loli/s_01_e_01.mkv
