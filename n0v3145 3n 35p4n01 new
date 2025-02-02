@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_67.mkv
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_73.mkv
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_54.mkv
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_59.mkv
 http://series.tuxchannel.mx/series/el_angel_de_aurora/s_01_e_128.mkv
@@ -7815,6 +7815,18 @@ http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_65.mkv
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_66.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 064
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_67.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 065
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_68.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 066
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_69.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 067
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_70.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 068
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_71.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 069
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_72.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 070
+http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_73.mkv
 
 #EXTINF:-1 tvg-logo="https://www.gannett-cdn.com/presto/2021/10/18/PPHXS/6d09cef1-88ee-4ec2-8ee1-7419d56fc587-parientes2.png" group-title="Parientes a la fuerza",Cap. 01
 http://series.tuxchannel.mx/series/parientes_a_la_fuerza/s_01_e_01.mkv
