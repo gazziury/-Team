@@ -47,6 +47,35 @@ http://dns.maxptv.net:2052/mx662/2005/182672
 http://dns.maxptv.net:2052/mx662/2005/182673
 
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",ACOMPANHE A CASA 1
+http://dns.maxptv.net:2052/ex07/resenha5/182665
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",ACOMPANHE A CASA 2
+http://dns.maxptv.net:2052/ex07/resenha5/182666
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",QUARTO
+http://dns.maxptv.net:2052/ex07/resenha5/182667
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",SALA
+http://dns.maxptv.net:2052/ex07/resenha5/182668
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",COZINHA
+http://dns.maxptv.net:2052/ex07/resenha5/182669
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",BANHEIRO
+http://dns.maxptv.net:2052/ex07/resenha5/182670
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",ACADEMIA
+http://dns.maxptv.net:2052/ex07/resenha5/182671
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",PISCINA
+http://dns.maxptv.net:2052/ex07/resenha5/182672
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="CONEXAO  - BBB 25 (BRASIL)",ACADEMIA
+http://dns.maxptv.net:2052/ex07/resenha5/182673
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 1
 http://dns.maxptv.net:2052/mxw13/011022/182665
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="GERENCIADOR 1 - BBB 25 (BRASIL)",CAM 2
