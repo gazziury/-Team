@@ -16,6 +16,29 @@ http://tv.nousiptv.com:8080/UY2888/6547765/1226121
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 4
 http://tv.nousiptv.com:8080/UY2888/6547765/1226122
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",01
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298258
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",02
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298261
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",03
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298264
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",04
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298273
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",05
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298270
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",06
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298276
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",07
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298279
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",08
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298282
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",09
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298287
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="ROTVAPP  - BBB 25 (BRASIL)",10
+http://rotvapp.servegame.com:80/105367227/f513W6250E/298288
+
+
+
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",MOSAICO 
 http://servertr4.top:80/000000/000000/1704025
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",ACOMPANHE A CASA 1
