@@ -16,6 +16,33 @@ http://tv.nousiptv.com:8080/UY2888/6547765/1226121
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 4
 http://tv.nousiptv.com:8080/UY2888/6547765/1226122
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",MOSAICO 
+http://servertr4.top:80/000000/000000/1704025
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",ACOMPANHE A CASA 1
+http://servertr4.top:80/000000/000000/1521284
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",ACOMPANHE A CASA 2
+http://servertr4.top:80/000000/000000/1521285
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",SALA
+http://servertr4.top:80/000000/000000/1521286
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",COZINHA VIP 
+http://servertr4.top:80/000000/000000/1521287
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",COZINHA XEPA 
+http://servertr4.top:80/000000/000000/1521288
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",CAMERA PANTENE
+http://servertr4.top:80/000000/000000/1523864
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",PISCINA 
+http://servertr4.top:80/000000/000000/1523865
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",ACADEMIA 
+http://servertr4.top:80/000000/000000/1523866
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",QUARTO ANOS 50
+http://servertr4.top:80/000000/000000/1523867
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",QUARTO FANTÁSTICO 
+http://servertr4.top:80/000000/000000/1523868
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",QUARTO NORDESTE 
+http://servertr4.top:80/000000/000000/1523869
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="SERVER TR4  - BBB 25 (BRASIL)",SEGUE O LIDER
+http://servertr4.top:80/000000/000000/1523870
+
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",MOSAICO
 http://dns.carnes.ink:80/Lenny23/7617748766/358718
