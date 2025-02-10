@@ -17,6 +17,32 @@ http://tv.nousiptv.com:8080/UY2888/6547765/1226121
 http://tv.nousiptv.com:8080/UY2888/6547765/1226122
 
 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",MOSAICO
+http://dns.carnes.ink:80/Lenny23/7617748766/358718
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 01
+http://dns.carnes.ink:80/Lenny23/7617748766/358715
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 02
+http://dns.carnes.ink:80/Lenny23/7617748766/358716
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 03
+http://dns.carnes.ink:80/Lenny23/7617748766/358717
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 04
+http://dns.carnes.ink:80/Lenny23/7617748766/358719
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 05
+http://dns.carnes.ink:80/Lenny23/7617748766/358720
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 06
+http://dns.carnes.ink:80/Lenny23/7617748766/358721
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 07
+http://dns.carnes.ink:80/Lenny23/7617748766/358722
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 08
+http://dns.carnes.ink:80/Lenny23/7617748766/358723
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 09
+http://dns.carnes.ink:80/Lenny23/7617748766/398866
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 10
+http://dns.carnes.ink:80/Lenny23/7617748766/398867
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="INK  - BBB 25 (BRASIL)",CAM 11
+http://dns.carnes.ink:80/Lenny23/7617748766/398868
+
+
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MFk3PlL.jpeg" group-title="APPCLIENTE  - BBB 25 (BRASIL)",ACOMPANHE A CASA 1
 http://dns.maxptv.net:2052/mx662/2005/182665
