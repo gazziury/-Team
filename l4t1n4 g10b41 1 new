@@ -83,11 +83,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7346
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7152
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/usa-network9869.jpg" group-title="LATINA",USA FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7227
-#EXTINF:-1,0121.STUDIO UNIVERSAL 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="LATINA",STUDIO UNIVERSAL 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7343
-#EXTINF:-1,0121.STUDIO UNIVERSAL  HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="LATINA",STUDIO UNIVERSAL HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7217
-#EXTINF:-1,0121.STUDIO UNIVERSAL HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="LATINA",STUDIO UNIVERSAL FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7243
 #EXTINF:-1,0004.HBO ZONE USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7472
