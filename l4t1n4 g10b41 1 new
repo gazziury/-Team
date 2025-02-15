@@ -99,9 +99,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7371
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7158
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="LATINA",TNT FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7235
-#EXTINF:-1,1543.TBS
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7153
-#EXTINF:-1,0123.TCM
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="LATINA",TCM
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7154
 #EXTINF:-1,0200.ANIMAL PLANET 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7368
