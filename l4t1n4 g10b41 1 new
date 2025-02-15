@@ -59,11 +59,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7124
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7224
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony-movies.png" group-title="LATINA",SONY MOVIES
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7359
-#EXTINF:-1,0115.PARAMOUNT CHANNEL 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="LATINA",PARAMOUNT CHANNEL 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7360
-#EXTINF:-1,0115.PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="LATINA",PARAMOUNT CHANNEL HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7180
-#EXTINF:-1,0115.PARAMOUNT CHANNEL HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="LATINA",PARAMOUNT CHANNEL FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7238
 #EXTINF:-1,3386.MOVISTAR DEPORTES PERU
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7397
