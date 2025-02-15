@@ -23,8 +23,6 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7091
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7220
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA",POP
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7356
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="LATINA",SONY CHANNEL HD
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7474
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="LATINA",DE PELICULA HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7194
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="LATINA",DE PELICULA FHD
@@ -67,9 +65,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7180
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7238
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/348/152/png-clipart-panico-television-channel-mexico-panic-starry-internet-television-text-thumbnail.png" group-title="LATINA",PANICO 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7478
-#EXTINF:-1,0117.SONY CHANNEL HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="LATINA",SONY CHANNEL
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7474
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="LATINA",SONY CHANNEL HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7377
-#EXTINF:-1,0117.SONY CHANNEL HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="LATINA",SONY CHANNEL FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7240
 #EXTINF:-1,0119.SPACE 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7336
