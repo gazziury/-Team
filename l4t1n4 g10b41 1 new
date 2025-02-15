@@ -77,11 +77,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7336
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7151
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-space.png" group-title="LATINA",SPACE FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7226
-#EXTINF:-1,0120.USA 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/usa-network9869.jpg" group-title="LATINA",USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7346
-#EXTINF:-1,0120.USA HD
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/usa-network9869.jpg" group-title="LATINA",USA HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7152
-#EXTINF:-1,0120.USA HD (1080p)
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/usa-network9869.jpg" group-title="LATINA",USA FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7227
 #EXTINF:-1,0121.STUDIO UNIVERSAL 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7343
