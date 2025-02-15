@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC 
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7187
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7029
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC FHD
@@ -56,9 +57,6 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8464
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7124
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="LATINA",GOLDEN PLUS FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7224
-#EXTINF:-1,0100.AMC 
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7187
-
 #EXTINF:-1,0118.SONY MOVIE 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7359
 #EXTINF:-1,0115.PARAMOUNT CHANNEL 
