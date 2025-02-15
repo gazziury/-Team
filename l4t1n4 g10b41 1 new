@@ -101,9 +101,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7158
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7235
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="LATINA",TCM
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7154
-#EXTINF:-1,0200.ANIMAL PLANET 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="LATINA",ANIMAL PLANET 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7368
-#EXTINF:-1,0200.ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="LATINA",ANIMAL PLANET HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7030
 #EXTINF:-1,0213.DW
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7615
