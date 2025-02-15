@@ -1,1 +1,1277 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="TV || ENTRETENIMIENTO",ENTRE | ESTRELLA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/23729
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="TV || ENTRETENIMIENTO",ENTRE | NBC UNIVERSO
+http://fivetv.org:25461/joelsm0728/jsm284j/23730
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY CHANNEL (COL)
+http://fivetv.org:25461/joelsm0728/jsm284j/23756
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL (MEX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY CHANNEL (MEX)
+http://fivetv.org:25461/joelsm0728/jsm284j/23757
+#EXTINF:-1 tvg-id="UnivReal" tvg-name="PREMIUM | UNIVERSAL REALITY" tvg-logo="http://miarea.vip:8080/images/208d5accbbbb691c2c9d3ee4102fe457.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL REALITY
+http://fivetv.org:25461/joelsm0728/jsm284j/23850
+
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="TV || INFANTIL",BOING KIDS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/23857
+#EXTINF:-1 tvg-id="" tvg-name="NICKMUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="TV || INFANTIL",NICKMUSIC
+http://fivetv.org:25461/joelsm0728/jsm284j/23878
+
+#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="TV || CINE Y SERIES",DE PELICULA
+http://fivetv.org:25461/joelsm0728/jsm284j/24040
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | IGLESIA APOSTOLES Y PROFETAS GETSEMANI" tvg-logo="https://canal26.org/wp-content/uploads/2021/08/logo_hd.fw_.png" group-title="TV || EL SALVADOR",EL SALVADOR | IGLESIA APOSTOLES Y PROFETAS GETSEMANI
+http://fivetv.org:25461/joelsm0728/jsm284j/24192
+#EXTINF:-1 tvg-id="hbo.Mx" tvg-name="PREMIUM | HBO HD (MX)" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD (MX)
+http://fivetv.org:25461/joelsm0728/jsm284j/24300
+#EXTINF:-1 tvg-id="golde.Lat" tvg-name="PREMIUM | GOLDEN " tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN 
+http://fivetv.org:25461/joelsm0728/jsm284j/24301
+#EXTINF:-1 tvg-id="I501.10240.zap2it.com" tvg-name="PREMIUM | HBO HD (LATINO)" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD (LATINO)
+http://fivetv.org:25461/joelsm0728/jsm284j/24302
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 11" tvg-logo="http://miarea.vip:8080/images/c9a4c6a93c929d40ca5da28d43d7be19.png" group-title="TV || COSTA RICA",C. Rica - Repretel 11
+http://fivetv.org:25461/joelsm0728/jsm284j/24387
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="TV || COSTA RICA",C. Rica - Repretel 4
+http://fivetv.org:25461/joelsm0728/jsm284j/24388
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Repretel 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Repretel_Canal_6_2008-2010.png" group-title="TV || COSTA RICA",C. Rica - Repretel 6
+http://fivetv.org:25461/joelsm0728/jsm284j/24389
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Tele Uno" tvg-logo="https://static.wixstatic.com/media/04c6ac_24ea33fa6d5e4bb8ae4d9b2808e9eac5~mv2_d_1662_1536_s_2.png/v1/fill/w_546,h_504,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20canal%20nuevo.png" group-title="TV || COSTA RICA",C. Rica - Tele Uno
+http://fivetv.org:25461/joelsm0728/jsm284j/24390
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Teletica 7 HD" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png" group-title="TV || COSTA RICA",C. Rica - Teletica 7 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/24391
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="TV || COSTA RICA",C. Rica - FUTV
+http://fivetv.org:25461/joelsm0728/jsm284j/24392
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Tigo Sport" tvg-logo="" group-title="TV || COSTA RICA",C. Rica - Tigo Sport
+http://fivetv.org:25461/joelsm0728/jsm284j/24393
+
+#EXTINF:-1 tvg-id="" tvg-name="VEN | CANAL i" tvg-logo="http://canal-i.com/wordpress/wp-content/uploads/2023/02/Logo-Canal-I-para-la-Web-151-x-99-1.png" group-title="TV || VENEZUELA",VEN | CANAL i
+http://fivetv.org:25461/joelsm0728/jsm284j/24583
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELEVEN" tvg-logo="http://miarea.vip:8080/images/c172e27e81a0633908064de128594689.PNG" group-title="TV || VENEZUELA",VEN | TELEVEN
+http://fivetv.org:25461/joelsm0728/jsm284j/24591
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png" group-title="TV || COLOMBIA",COL | CANAL TRECE
+http://fivetv.org:25461/joelsm0728/jsm284j/24598
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC FHD" tvg-logo="https://image.roku.com/developer_channels/prod/f538048ddc2288d553346adbc073d3be6f22dffefe87fe71e1289af32654cc5c.png" group-title="TV || DEPORTES PPV (solo eventos)",UFC FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/25184
+
+#EXTINF:-1 tvg-id="I239.16108.zap2it.com" tvg-name="SUNDANCE" tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="TV || CINE Y SERIES",SUNDANCE
+http://fivetv.org:25461/joelsm0728/jsm284j/25196
+#EXTINF:-1 tvg-id="I294.67749.zap2it.com" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://i.ibb.co/KxKcG07/Discovery-Familia.png" group-title="TV || DOCUMENTALES",DISCOVERY FAMILIA
+http://fivetv.org:25461/joelsm0728/jsm284j/25197
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| UNIVERSAL KIDS HD" tvg-logo="http://miarea.vip:8080/images/49f955c3658a4d6a0b5f128e3f0bf0d0.png" group-title=" TV || KIDS (USA)",KIDS| UNIVERSAL KIDS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25201
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| PBS KIDS HD" tvg-logo="http://miarea.vip:8080/images/4a9adc3ecdbc4a60e0cc33a7ec4dfc1a.png" group-title=" TV || KIDS (USA)",KIDS| PBS KIDS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25202
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1200px-Nickelodeon_Logo.svg.png" group-title=" TV || KIDS (USA)",KIDS| NICKELODEON HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25203
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY JR HD" tvg-logo="http://miarea.vip:8080/images/c2e7619c4ebba77f9f05524042bccd5e.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY JR HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25204
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| NICK JR HD" tvg-logo="http://miarea.vip:8080/images/dbe20313e007928ef4e9990347a2e424.png" group-title=" TV || KIDS (USA)",KIDS| NICK JR HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25205
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| TEEN NICK HD" tvg-logo="https://static.epg.best/us/TeenNick.us.png" group-title=" TV || KIDS (USA)",KIDS| TEEN NICK HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25206
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| BOOMERANG HD" tvg-logo="http://miarea.vip:8080/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title=" TV || KIDS (USA)",KIDS| BOOMERANG HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25207
+#EXTINF:-1 tvg-id="I292.18279.zap2it.com" tvg-name="KIDS| DISNEY XD PACIFICO HD" tvg-logo="http://miarea.vip:8080/images/88d38d7e606f3407449091e3f3349861.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY XD PACIFICO HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25208
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| DISNEY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/9ebce74f862ad2d97a1979fd87df37d5.png" group-title=" TV || KIDS (USA)",KIDS| DISNEY CHANNEL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25210
+#EXTINF:-1 tvg-id="" tvg-name="KIDS| CARTOON NETWORK HD" tvg-logo="https://i.ibb.co/0rZ8WWg/pngegg-2.png" group-title=" TV || KIDS (USA)",KIDS| CARTOON NETWORK HD
+http://fivetv.org:25461/joelsm0728/jsm284j/25211
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | RT Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | RT Noticias
+http://fivetv.org:25461/joelsm0728/jsm284j/25513
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CGTN (esp)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | CGTN (esp)
+http://fivetv.org:25461/joelsm0728/jsm284j/25514
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="PREMIUM | UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL TV
+http://fivetv.org:25461/joelsm0728/jsm284j/25795
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | ALJAZEERA ENGLISH HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Al-Jazeera-Logo.jpg" group-title=" TV || NOTICIAS",NOTICIAS | ALJAZEERA ENGLISH HD
+http://fivetv.org:25461/joelsm0728/jsm284j/26240
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Tigo Sports 1 HD" tvg-logo="" group-title="TV || BOLIVIA",BOL | Tigo Sports 1 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/26452
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Tigo Sports 2 HD" tvg-logo="" group-title="TV || BOLIVIA",BOL | Tigo Sports 2 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/26453
+#EXTINF:-1 tvg-id="" tvg-name="VEN | NUBEH TV" tvg-logo="https://www.nubeh.tv/nubehtv.png" group-title="TV || VENEZUELA",VEN | NUBEH TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26621
+#EXTINF:-1 tvg-id="" tvg-name="VEN | OXIGENO NETWORK" tvg-logo="https://oxigenonetwork.com.ve/img/logooxca.png" group-title="TV || VENEZUELA",VEN | OXIGENO NETWORK
+http://fivetv.org:25461/joelsm0728/jsm284j/26622
+#EXTINF:-1 tvg-id="" tvg-name="VEN | PANAVISION" tvg-logo="http://www.panavision.tv/panavisiontv.png" group-title="TV || VENEZUELA",VEN | PANAVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/26623
+#EXTINF:-1 tvg-id="" tvg-name="VEN | PROMAR TV" tvg-logo="https://promar.tv/wp-content/uploads/2016/09/promar-logo.png" group-title="TV || VENEZUELA",VEN | PROMAR TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26625
+#EXTINF:-1 tvg-id="" tvg-name="VEN | VENEVISION" tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/seo/logo-venevision_600x600.png" group-title="TV || VENEZUELA",VEN | VENEVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/26628
+#EXTINF:-1 tvg-id="" tvg-name="URU| LATINO KIDS TV" tvg-logo="https://i.ibb.co/64NHFHw/Latino.png" group-title="TV || URUGUAY",URU| LATINO KIDS TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26633
+#EXTINF:-1 tvg-id="" tvg-name="URU| UCL TELEVISION LATAM " tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/Logo-UCL-TV-LATAM-horizontal-2048x1229.png" group-title="TV || URUGUAY",URU| UCL TELEVISION LATAM 
+http://fivetv.org:25461/joelsm0728/jsm284j/26634
+#EXTINF:-1 tvg-id="" tvg-name="URU| LA RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/100px-LogoLaRed2018.png" group-title="TV || URUGUAY",URU| LA RED
+http://fivetv.org:25461/joelsm0728/jsm284j/26637
+#EXTINF:-1 tvg-id="" tvg-name="URU| TV FLORIDA HD" tvg-logo="https://i.ibb.co/WyjR6xF/FLOREIDA.png" group-title="TV || URUGUAY",URU| TV FLORIDA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/26638
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Bolivia TV 7.2 " tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="TV || BOLIVIA",BOL | Bolivia TV 7.2 
+http://fivetv.org:25461/joelsm0728/jsm284j/26639
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Bolivision " tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2023/07/logo-1-150x56.png" group-title="TV || BOLIVIA",BOL | Bolivision 
+http://fivetv.org:25461/joelsm0728/jsm284j/26640
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Mega Tv" tvg-logo="https://i0.wp.com/megatvbolivia.com/wp-content/uploads/2023/07/Mega.png" group-title="TV || BOLIVIA",BOL | Mega Tv
+http://fivetv.org:25461/joelsm0728/jsm284j/26641
+#EXTINF:-1 tvg-id="" tvg-name="BOL | PAT " tvg-logo="https://cdn.mitvstatic.com/channels/pe_pat_m.png" group-title="TV || BOLIVIA",BOL | PAT 
+http://fivetv.org:25461/joelsm0728/jsm284j/26642
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Red Uno Cochabamba " tvg-logo="https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png" group-title="TV || BOLIVIA",BOL | Red Uno Cochabamba 
+http://fivetv.org:25461/joelsm0728/jsm284j/26643
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Red Uno La Paz " tvg-logo="https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png" group-title="TV || BOLIVIA",BOL | Red Uno La Paz 
+http://fivetv.org:25461/joelsm0728/jsm284j/26644
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Red Uno Santa Cruz " tvg-logo="https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png" group-title="TV || BOLIVIA",BOL | Red Uno Santa Cruz 
+http://fivetv.org:25461/joelsm0728/jsm284j/26645
+#EXTINF:-1 tvg-id="" tvg-name="BOL | RTP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="TV || BOLIVIA",BOL | RTP 
+http://fivetv.org:25461/joelsm0728/jsm284j/26646
+#EXTINF:-1 tvg-id="" tvg-name="BOL | XTO TV" tvg-logo="https://www.sccbolivia.com/wp-content/uploads/2020/09/xtotv-tx-inicio.png" group-title="TV || BOLIVIA",BOL | XTO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26647
+#EXTINF:-1 tvg-id="" tvg-name="PY | ABC TV" tvg-logo="https://i.ibb.co/Hn6M4Sv/abc.png" group-title="TV || PARAGUAY",PY | ABC TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26648
+#EXTINF:-1 tvg-id="" tvg-name="PY | COSTANERA TV" tvg-logo="http://fivetv.org:25461/images/292727d6cf001ccadd0ab8574395c6dd.png" group-title="TV || PARAGUAY",PY | COSTANERA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26649
+#EXTINF:-1 tvg-id="" tvg-name="PY | DISMAR TV" tvg-logo="https://i.ibb.co/vmP8LbN/DISMAR.png" group-title="TV || PARAGUAY",PY | DISMAR TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26650
+#EXTINF:-1 tvg-id="" tvg-name="PY | ESTACION CRISTAL" tvg-logo="https://i.ibb.co/wgCmpqC/ESTACION-CRISTAL.png" group-title="TV || PARAGUAY",PY | ESTACION CRISTAL
+http://fivetv.org:25461/joelsm0728/jsm284j/26651
+#EXTINF:-1 tvg-id="" tvg-name="PY | FRUTILLAR TV" tvg-logo="https://olzamultimedios.com.py/wp-content/uploads/2023/07/ftv.png" group-title="TV || PARAGUAY",PY | FRUTILLAR TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26652
+#EXTINF:-1 tvg-id="" tvg-name="PY | Mi TV " tvg-logo="https://i.ibb.co/R4rRYpX/MITV.png" group-title="TV || PARAGUAY",PY | Mi TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/26653
+#EXTINF:-1 tvg-id="" tvg-name="PY | RCC TV" tvg-logo="https://cdn.rcc.com.py/2017/12/logo-mobile-rcc.png" group-title="TV || PARAGUAY",PY | RCC TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26654
+#EXTINF:-1 tvg-id="" tvg-name="PY | SOMOS DEL ESTE TV" tvg-logo="https://i.ibb.co/L87rTqj/SOMOS.png" group-title="TV || PARAGUAY",PY | SOMOS DEL ESTE TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26655
+#EXTINF:-1 tvg-id="" tvg-name="PY | SUCESO TV" tvg-logo="https://radiosuceso.com/wp-content/uploads/2023/11/Mesa-de-trabajo-7-e1699726317334.png" group-title="TV || PARAGUAY",PY | SUCESO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26656
+#EXTINF:-1 tvg-id="" tvg-name="PY | UNICANAL" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="TV || PARAGUAY",PY | UNICANAL
+http://fivetv.org:25461/joelsm0728/jsm284j/26657
+#EXTINF:-1 tvg-id="" tvg-name="PY | UNIRADIO TV" tvg-logo="https://www.uniradiopy.com/gallery_gen/a0b94378c0f3d5f82cf4273bdcca0980.png" group-title="TV || PARAGUAY",PY | UNIRADIO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/26658
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="TV || ARGENTINA",CANAL 10 
+http://fivetv.org:25461/joelsm0728/jsm284j/26659
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 22 BUENOS AIRES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png" group-title="TV || ARGENTINA",CANAL 22 BUENOS AIRES
+http://fivetv.org:25461/joelsm0728/jsm284j/26661
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV || ARGENTINA",CANAL 26 
+http://fivetv.org:25461/joelsm0728/jsm284j/26662
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 TV " tvg-logo="https://i.ibb.co/X4dchSH/Screenshot-1.png" group-title="TV || ARGENTINA",CANAL 5 TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/26663
+#EXTINF:-1 tvg-id="" tvg-name="13MAX" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/13-Max-TV-Corrientes-en-vivo.png" group-title="TV || ARGENTINA",13MAX
+http://fivetv.org:25461/joelsm0728/jsm284j/26664
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 LITORAL" tvg-logo="https://9digital.com.ar/wp-content/uploads/2024/03/mi9-x1-175x130px.png" group-title="TV || ARGENTINA",CANAL 9 LITORAL
+http://fivetv.org:25461/joelsm0728/jsm284j/26665
+#EXTINF:-1 tvg-id="" tvg-name="MILENIUM TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="TV || ARGENTINA",MILENIUM TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/26666
+#EXTINF:-1 tvg-id="" tvg-name="AIRE DIGITAL" tvg-logo="https://i.ibb.co/BZSVdz7/aire.png" group-title="TV || ARGENTINA",AIRE DIGITAL
+http://fivetv.org:25461/joelsm0728/jsm284j/26668
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="TV || ARGENTINA",TELEMAX
+http://fivetv.org:25461/joelsm0728/jsm284j/26669
+#EXTINF:-1 tvg-id="" tvg-name="TELENORD" tvg-logo="https://www.telenord.com/images/Logo_Telenord.png" group-title="TV || ARGENTINA",TELENORD
+http://fivetv.org:25461/joelsm0728/jsm284j/26670
+#EXTINF:-1 tvg-id="" tvg-name="TELESOL SAN JUAN" tvg-logo="https://www.telesoldiario.com/_rv20230223-01/web/assets/imgs/logos/telesol.png" group-title="TV || ARGENTINA",TELESOL SAN JUAN
+http://fivetv.org:25461/joelsm0728/jsm284j/26671
+#EXTINF:-1 tvg-id="" tvg-name="TV GRANDE NATAL HDTV" tvg-logo="" group-title="TV || BRASIL",TV GRANDE NATAL HDTV
+http://fivetv.org:25461/joelsm0728/jsm284j/26672
+#EXTINF:-1 tvg-id="" tvg-name="Vintage TV * | BR" tvg-logo="" group-title="TV || BRASIL",Vintage TV * | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26673
+#EXTINF:-1 tvg-id="" tvg-name="Agro Brasil TV | BR" tvg-logo="" group-title="TV || BRASIL",Agro Brasil TV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26674
+#EXTINF:-1 tvg-id="" tvg-name="ArarunaTV | BR" tvg-logo="" group-title="TV || BRASIL",ArarunaTV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26675
+#EXTINF:-1 tvg-id="" tvg-name="Band | BR" tvg-logo="" group-title="TV || BRASIL",Band | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26676
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV | BR" tvg-logo="" group-title="TV || BRASIL",Classique TV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26677
+#EXTINF:-1 tvg-id="" tvg-name="NTV Patos de Minas | BR" tvg-logo="" group-title="TV || BRASIL",NTV Patos de Minas | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26678
+#EXTINF:-1 tvg-id="" tvg-name="Record News Espirito Santo | BR" tvg-logo="" group-title="TV || BRASIL",Record News Espirito Santo | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26679
+#EXTINF:-1 tvg-id="" tvg-name="Rede Premium TV | BR" tvg-logo="" group-title="TV || BRASIL",Rede Premium TV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26680
+#EXTINF:-1 tvg-id="" tvg-name="TV A Plateia | BR" tvg-logo="" group-title="TV || BRASIL",TV A Plateia | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26681
+#EXTINF:-1 tvg-id="" tvg-name="TV Água Boa | BR" tvg-logo="" group-title="TV || BRASIL",TV Água Boa | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26682
+#EXTINF:-1 tvg-id="" tvg-name="TV Carioca | BR" tvg-logo="" group-title="TV || BRASIL",TV Carioca | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26683
+#EXTINF:-1 tvg-id="" tvg-name="TV Destak | BR" tvg-logo="" group-title="TV || BRASIL",TV Destak | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26684
+#EXTINF:-1 tvg-id="" tvg-name="TV Difusora | BR" tvg-logo="" group-title="TV || BRASIL",TV Difusora | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26685
+#EXTINF:-1 tvg-id="" tvg-name="TV Difusora Leste | BR" tvg-logo="" group-title="TV || BRASIL",TV Difusora Leste | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26686
+#EXTINF:-1 tvg-id="" tvg-name="TV Difusora Sul | BR" tvg-logo="" group-title="TV || BRASIL",TV Difusora Sul | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26687
+#EXTINF:-1 tvg-id="" tvg-name="TV Digital Birigui | BR" tvg-logo="" group-title="TV || BRASIL",TV Digital Birigui | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26688
+#EXTINF:-1 tvg-id="" tvg-name="TV Infor Bahia | BR" tvg-logo="" group-title="TV || BRASIL",TV Infor Bahia | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26689
+#EXTINF:-1 tvg-id="" tvg-name="TV Jornal do Nordeste | BR" tvg-logo="" group-title="TV || BRASIL",TV Jornal do Nordeste | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26690
+#EXTINF:-1 tvg-id="" tvg-name="TV Mais | BR" tvg-logo="" group-title="TV || BRASIL",TV Mais | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26691
+#EXTINF:-1 tvg-id="" tvg-name="TV Mar | BR" tvg-logo="" group-title="TV || BRASIL",TV Mar | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26692
+#EXTINF:-1 tvg-id="" tvg-name="TV Mundial | BR" tvg-logo="" group-title="TV || BRASIL",TV Mundial | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26693
+#EXTINF:-1 tvg-id="" tvg-name="TV Natal | BR" tvg-logo="" group-title="TV || BRASIL",TV Natal | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26694
+#EXTINF:-1 tvg-id="" tvg-name="TV Plan | BR" tvg-logo="" group-title="TV || BRASIL",TV Plan | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26695
+#EXTINF:-1 tvg-id="" tvg-name="TV Serra Verde | BR" tvg-logo="" group-title="TV || BRASIL",TV Serra Verde | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26696
+#EXTINF:-1 tvg-id="" tvg-name="TV Sul | BR" tvg-logo="" group-title="TV || BRASIL",TV Sul | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26697
+#EXTINF:-1 tvg-id="" tvg-name="TVE | BR" tvg-logo="" group-title="TV || BRASIL",TVE | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26698
+#EXTINF:-1 tvg-id="" tvg-name="Via Morena | BR" tvg-logo="" group-title="TV || BRASIL",Via Morena | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26699
+#EXTINF:-1 tvg-id="" tvg-name="AniTV | BR" tvg-logo="" group-title="TV || BRASIL",AniTV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26700
+#EXTINF:-1 tvg-id="" tvg-name="Canal 29 | BR" tvg-logo="" group-title="TV || BRASIL",Canal 29 | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26701
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon | BR" tvg-logo="" group-title="TV || BRASIL",Gospel Cartoon | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26702
+#EXTINF:-1 tvg-id="" tvg-name="ISTV | BR" tvg-logo="" group-title="TV || BRASIL",ISTV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26703
+#EXTINF:-1 tvg-id="" tvg-name="RETRO CARTOON" tvg-logo="" group-title="TV || BRASIL",RETRO CARTOON
+http://fivetv.org:25461/joelsm0728/jsm284j/26704
+#EXTINF:-1 tvg-id="" tvg-name="TV Aracati | BR" tvg-logo="" group-title="TV || BRASIL",TV Aracati | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26705
+#EXTINF:-1 tvg-id="" tvg-name="TV J.SID | BR" tvg-logo="" group-title="TV || BRASIL",TV J.SID | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26706
+#EXTINF:-1 tvg-id="" tvg-name="TV Japi | BR" tvg-logo="" group-title="TV || BRASIL",TV Japi | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26707
+#EXTINF:-1 tvg-id="" tvg-name="Yellow TV | BR" tvg-logo="" group-title="TV || BRASIL",Yellow TV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26708
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Kpop TV | BR" tvg-logo="" group-title="TV || BRASIL",Sexy Kpop TV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26709
+#EXTINF:-1 tvg-id="" tvg-name="Top TV | BR" tvg-logo="" group-title="TV || BRASIL",Top TV | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26710
+#EXTINF:-1 tvg-id="" tvg-name="TV Uniao | BR" tvg-logo="" group-title="TV || BRASIL",TV Uniao | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26711
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="" group-title="TV || BRASIL",GOSPEL MOVIES TELEVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/26712
+#EXTINF:-1 tvg-id="" tvg-name="NUEVO TIEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nuevo_Tiempo_Logo.png" group-title="TV || BRASIL",NUEVO TIEMPO
+http://fivetv.org:25461/joelsm0728/jsm284j/26713
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="https://i.ibb.co/ZcwKYzp/APARECIDA.png" group-title="TV || BRASIL",TV APARECIDA
+http://fivetv.org:25461/joelsm0728/jsm284j/26714
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar | BR" tvg-logo="" group-title="TV || BRASIL",TV Evangelizar | BR
+http://fivetv.org:25461/joelsm0728/jsm284j/26715
+#EXTINF:-1 tvg-id="" tvg-name="TV REDE GOSPEL" tvg-logo="" group-title="TV || BRASIL",TV REDE GOSPEL
+http://fivetv.org:25461/joelsm0728/jsm284j/26716
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIVERSAL" tvg-logo="" group-title="TV || BRASIL",TV UNIVERSAL
+http://fivetv.org:25461/joelsm0728/jsm284j/26717
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV 2" tvg-logo="https://i.ibb.co/c2YwVxm/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="TV || INFANTIL",BABY TV 2
+http://fivetv.org:25461/joelsm0728/jsm284j/26346
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Cadena A" tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/logoaweb-1024x278.png" group-title="TV || BOLIVIA",BOL | Cadena A
+http://fivetv.org:25461/joelsm0728/jsm284j/26871
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | TELEFORMULA" tvg-logo="https://i.ibb.co/dMLcSz6/unnamed.png" group-title=" TV || NOTICIAS",NOTICIAS | TELEFORMULA
+http://fivetv.org:25461/joelsm0728/jsm284j/27618
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="TLENOVELAS SD" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="TV || NOVELAS",TLENOVELAS SD
+http://fivetv.org:25461/joelsm0728/jsm284j/28419
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLENOVELAS HD" tvg-logo="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="TV || NOVELAS",TLENOVELAS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/28420
+#EXTINF:-1 tvg-id="" tvg-name="PY | GEN TV " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online-218x150.png" group-title="TV || PARAGUAY",PY | GEN TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/53464
+#EXTINF:-1 tvg-id="" tvg-name="PY | LA TELE " tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="TV || PARAGUAY",PY | LA TELE 
+http://fivetv.org:25461/joelsm0728/jsm284j/53465
+#EXTINF:-1 tvg-id="" tvg-name="PY | C9N " tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/parts-web/5f798adb/logo.png" group-title="TV || PARAGUAY",PY | C9N 
+http://fivetv.org:25461/joelsm0728/jsm284j/53466
+#EXTINF:-1 tvg-id="" tvg-name="PY | TRECE " tvg-logo="https://i.ibb.co/3cNkkFd/TRECE.png" group-title="TV || PARAGUAY",PY | TRECE 
+http://fivetv.org:25461/joelsm0728/jsm284j/53467
+#EXTINF:-1 tvg-id="" tvg-name="PY | SNT" tvg-logo="http://miarea.vip:8080/images/c0def78c987ca346ac27f87cbacf0ccc.png" group-title="TV || PARAGUAY",PY | SNT
+http://fivetv.org:25461/joelsm0728/jsm284j/53468
+#EXTINF:-1 tvg-id="" tvg-name="PY | TELEFUTURO" tvg-logo="https://telefuturo.com.py/wp-content/uploads/2021/03/cropped-cropped-logo-telefuturo.png" group-title="TV || PARAGUAY",PY | TELEFUTURO
+http://fivetv.org:25461/joelsm0728/jsm284j/53469
+#EXTINF:-1 tvg-id="" tvg-name="PY | MEGA TV" tvg-logo="https://megacadena.com.py/wp-content/uploads/2022/05/MegaTV-logo-10.png" group-title="TV || PARAGUAY",PY | MEGA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/53470
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| HOSANNA VISION" tvg-logo="https://hosannavision.com/site/templates/theme/img/logo/logo.png" group-title="TV || PANAMA",PANAMA| HOSANNA VISION
+http://fivetv.org:25461/joelsm0728/jsm284j/53471
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| NEX TV" tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="TV || PANAMA",PANAMA| NEX TV
+http://fivetv.org:25461/joelsm0728/jsm284j/53472
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| RPC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rpc-tv-pa.png" group-title="TV || PANAMA",PANAMA| RPC
+http://fivetv.org:25461/joelsm0728/jsm284j/53473
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TELEMETRO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemetro.png" group-title="TV || PANAMA",PANAMA| TELEMETRO
+http://fivetv.org:25461/joelsm0728/jsm284j/53474
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TVMAX " tvg-logo="http://miarea.vip:8080/images/32b5e0e8fdf88d376f6a00602bd41cb8.png" group-title="TV || PANAMA",PANAMA| TVMAX 
+http://fivetv.org:25461/joelsm0728/jsm284j/53475
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TVN" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-pa.png" group-title="TV || PANAMA",PANAMA| TVN
+http://fivetv.org:25461/joelsm0728/jsm284j/53476
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| CABLE ONDA FC" tvg-logo="http://miarea.vip:8080/images/90ad2c9d87364c680b5afcec2a9977ff.png" group-title="TV || PANAMA",PANAMA| CABLE ONDA FC
+http://fivetv.org:25461/joelsm0728/jsm284j/53477
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | KANAL D DRAMA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-d-drama-tr.png" group-title="TV || ENTRETENIMIENTO",ENTRE | KANAL D DRAMA
+http://fivetv.org:25461/joelsm0728/jsm284j/66150
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION : VC MEDIOS TV HD" tvg-logo="https://i.ibb.co/WgBHr0F/vc.jpg" group-title="TV || RELIGION",RELIGION : VC MEDIOS TV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66406
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | ALIENTO VISION HD" tvg-logo="https://i.ibb.co/thtKkMS/ALIENTO-VISION.jpg" group-title="TV || RELIGION",RELIGION | ALIENTO VISION HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66408
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION I CBN EN ESPAÑOL HD" tvg-logo="https://i.ibb.co/ykrKFhh/CBN.jpg" group-title="TV || RELIGION",RELIGION I CBN EN ESPAÑOL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66409
+#EXTINF:-1 tvg-id="" tvg-name="TV | DIOS TV KIDS HD" tvg-logo="https://i.ibb.co/YL3xRMj/DIOS-KIDS.jpg" group-title="TV || RELIGION",TV | DIOS TV KIDS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66413
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION  | ASOMAVISION HD" tvg-logo="https://i.ibb.co/Ypf6Qd9/ASOMAVISION.jpg" group-title="TV || RELIGION",RELIGION  | ASOMAVISION HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66415
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | CANAL ISB HD" tvg-logo="https://i.ibb.co/vq0nxRB/ISB.jpg" group-title="TV || RELIGION",RELIGION | CANAL ISB HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66417
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | CRISTIANA TV HD" tvg-logo="https://i.ibb.co/tLbMGY8/CTN.jpg" group-title="TV || RELIGION",RELIGION | CRISTIANA TV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66418
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | NUEVO TIEMPO HD" tvg-logo="https://i.ibb.co/SnrQTwQ/nuevo-tiempo.jpg" group-title="TV || RELIGION",RELIGION | NUEVO TIEMPO HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66423
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | ORBE 21 HD" tvg-logo="https://i.ibb.co/3Fd7ZfJ/ORBE-21.jpg" group-title="TV || RELIGION",RELIGION | ORBE 21 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66424
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | TELE FAMILIA HD" tvg-logo="https://i.ibb.co/mypGL1r/telefamilia.jpg" group-title="TV || RELIGION",RELIGION | TELE FAMILIA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66429
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION  | TV UNIVERSAL HD" tvg-logo="https://i.ibb.co/ThQcbnn/universal.jpg" group-title="TV || RELIGION",RELIGION  | TV UNIVERSAL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/66430
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA",DAZN 3
+http://fivetv.org:25461/joelsm0728/jsm284j/69249
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/DAZN_BoxedLogo_01_RGB.png" group-title="TV || DEPORTES EUROPA",DAZN 2
+http://fivetv.org:25461/joelsm0728/jsm284j/69250
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="EL SALVADOR | TIGO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="TV || EL SALVADOR",EL SALVADOR | TIGO SPORTS
+http://fivetv.org:25461/joelsm0728/jsm284j/69441
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ESPAÑA | ATRESERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV || ESPAÑA",ESPAÑA | ATRESERIES HD
+http://fivetv.org:25461/joelsm0728/jsm284j/74039
+#EXTINF:-1 tvg-id="Canal19.sv" tvg-name="EL SALVADOR | CANAL 19" tvg-logo="https://static.epg.best/sv/Canal19.sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 19
+http://fivetv.org:25461/joelsm0728/jsm284j/74114
+#EXTINF:-1 tvg-id="" tvg-name="Cocina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",Cocina TV
+http://fivetv.org:25461/joelsm0728/jsm284j/74696
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",VEVO Latino
+http://fivetv.org:25461/joelsm0728/jsm284j/74720
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Reggaeton y Trap" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",VEVO Reggaeton y Trap
+http://fivetv.org:25461/joelsm0728/jsm284j/74721
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png" group-title="TV || ZONA VIX",TUDN
+http://fivetv.org:25461/joelsm0728/jsm284j/74741
+
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 HD" tvg-logo="https://i.ibb.co/4t5WTM6/Liga-1.png" group-title="TV || PERU",Peru | LIGA 1 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/81983
+#EXTINF:-1 tvg-id="" tvg-name="Peru | LIGA 1 MAX HD" tvg-logo="https://i.ibb.co/DfT75MR/LIGA1-MAXTV.png" group-title="TV || PERU",Peru | LIGA 1 MAX HD
+http://fivetv.org:25461/joelsm0728/jsm284j/81984
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="http://miarea.vip:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="TV || DEPORTES EUROPA",DAZN LA LIGA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/89730
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/2fba4f552644ce9d592c588a206fdb1c.png" group-title="TV || DEPORTES PPV (solo eventos)",ESPN PREMIUN HD ARGENTINA
+http://fivetv.org:25461/joelsm0728/jsm284j/89731
+#EXTINF:-1 tvg-id="" tvg-name="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="TV || ARGENTINA",TN NOTICIAS
+http://fivetv.org:25461/joelsm0728/jsm284j/90963
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://static.epg.best/ar/C5N.ar.png" group-title="TV || ARGENTINA",C5N
+http://fivetv.org:25461/joelsm0728/jsm284j/90964
+#EXTINF:-1 tvg-id="" tvg-name="LA NACION+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/2560px-Logo_La_Naci%C3%B3n.svg.png" group-title="TV || ARGENTINA",LA NACION+
+http://fivetv.org:25461/joelsm0728/jsm284j/90965
+#EXTINF:-1 tvg-id="" tvg-name="A24 HD" tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="TV || ARGENTINA",A24 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/90966
+#EXTINF:-1 tvg-id="" tvg-name="ABC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="TV || USA (INGLES)",ABC New York
+http://fivetv.org:25461/joelsm0728/jsm284j/91303
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://miarea.vip:8080/images/1b39f29d6f36176cbdb53e916821c8a6.png" group-title="TV || USA (INGLES)",Animal Planet HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91304
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Los Angeles" tvg-logo="https://i.ibb.co/JvSXCbw/CBS.png" group-title="TV || USA (INGLES)",CBS News Los Angeles
+http://fivetv.org:25461/joelsm0728/jsm284j/91306
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Miami" tvg-logo="https://i.ibb.co/JvSXCbw/CBS.png" group-title="TV || USA (INGLES)",CBS News Miami
+http://fivetv.org:25461/joelsm0728/jsm284j/91307
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://i.ibb.co/SR9Vh7N/CNBC.png" group-title="TV || USA (INGLES)",CNBC
+http://fivetv.org:25461/joelsm0728/jsm284j/91308
+#EXTINF:-1 tvg-id="" tvg-name="CNBC WORLD" tvg-logo="https://i.ibb.co/rcH5Jqm/CNBC-w.png" group-title="TV || USA (INGLES)",CNBC WORLD
+http://fivetv.org:25461/joelsm0728/jsm284j/91309
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://miarea.vip:8080/images/a51d13bc1e3b18dbdc5aba51eecec003.png" group-title="TV || USA (INGLES)",Comedy Central HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91310
+#EXTINF:-1 tvg-id="" tvg-name="Comedy TV" tvg-logo="https://comedy.tv/files/2018/09/COMEDY.TV_LOGO-300x132.png" group-title="TV || USA (INGLES)",Comedy TV
+http://fivetv.org:25461/joelsm0728/jsm284j/91311
+#EXTINF:-1 tvg-id="" tvg-name="Comet" tvg-logo="https://i.ibb.co/SdW4XfL/comet.png" group-title="TV || USA (INGLES)",Comet
+http://fivetv.org:25461/joelsm0728/jsm284j/91312
+#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel" tvg-logo="https://i.ibb.co/Rc1zv0Y/cooking.png" group-title="TV || USA (INGLES)",Cooking Channel
+http://fivetv.org:25461/joelsm0728/jsm284j/91313
+#EXTINF:-1 tvg-id="" tvg-name="Destination America" tvg-logo="https://i.ibb.co/dQxpC94/Destination.png" group-title="TV || USA (INGLES)",Destination America
+http://fivetv.org:25461/joelsm0728/jsm284j/91316
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="TV || USA (INGLES)",Discovery Channel
+http://fivetv.org:25461/joelsm0728/jsm284j/91317
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="https://i.ibb.co/hMcPsQ0/Ei.png" group-title="TV || USA (INGLES)",E! Entertainment
+http://fivetv.org:25461/joelsm0728/jsm284j/91318
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="http://miarea.vip:8080/images/16b51181f963f3b606659114ac8556a9.png" group-title="TV || USA (INGLES)",Food Network HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91320
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG TV " tvg-logo="http://miarea.vip:8080/images/eeed19f1a5e7ebef46688ef79bc27ae8.png" group-title="TV || USA (INGLES)",BLOOMBERG TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/91321
+#EXTINF:-1 tvg-id="" tvg-name="FOX New York" tvg-logo="https://i.ibb.co/h972513/Fox-New-York.png" group-title="TV || USA (INGLES)",FOX New York
+http://fivetv.org:25461/joelsm0728/jsm284j/91322
+#EXTINF:-1 tvg-id="" tvg-name="Freeform HD" tvg-logo="https://logo.iptveditor.com/freeformwest.png" group-title="TV || USA (INGLES)",Freeform HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91323
+#EXTINF:-1 tvg-id="" tvg-name="GSN (Game Show Network)" tvg-logo="http://miarea.vip:8080/images/13b889216b85fd23bf8903229b4e2d6d.png" group-title="TV || USA (INGLES)",GSN (Game Show Network)
+http://fivetv.org:25461/joelsm0728/jsm284j/91324
+#EXTINF:-1 tvg-id="" tvg-name="American Heroes Channel" tvg-logo="https://iptvboss.xyz/logos/USA/AmericanHeroesChannel.us.png" group-title="TV || USA (INGLES)",American Heroes Channel
+http://fivetv.org:25461/joelsm0728/jsm284j/91325
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://i.ibb.co/K0gm3yd/640px-HGTV-US-Logo-2015-svg.png" group-title="TV || USA (INGLES)",HGTV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91326
+#EXTINF:-1 tvg-id="" tvg-name="METV" tvg-logo="https://logo.iptveditor.com/metv.png" group-title="TV || USA (INGLES)",METV
+http://fivetv.org:25461/joelsm0728/jsm284j/91327
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.ibb.co/Nr54RWq/Nat-Geo-Wild-logo.png" group-title="TV || USA (INGLES)",Nat Geo Wild HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91328
+#EXTINF:-1 tvg-id="" tvg-name="OVATION" tvg-logo="https://i.ibb.co/ZN2xSFB/ovation.png" group-title="TV || USA (INGLES)",OVATION
+http://fivetv.org:25461/joelsm0728/jsm284j/91330
+#EXTINF:-1 tvg-id="" tvg-name="PBS HD" tvg-logo="http://miarea.vip:8080/images/4d1219f6bb173eb9d66f44612ec343eb.png" group-title="TV || USA (INGLES)",PBS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91331
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://i.ibb.co/26ztFPH/Sony-movies.png" group-title="TV || USA (INGLES)",Sony Movies
+http://fivetv.org:25461/joelsm0728/jsm284j/91332
+#EXTINF:-1 tvg-id="" tvg-name="Starz East HD" tvg-logo="https://logos-world.net/wp-content/uploads/2021/05/Starz-Logo-2016.png" group-title="TV || USA (INGLES)",Starz East HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91333
+#EXTINF:-1 tvg-id="" tvg-name="TLC EAST" tvg-logo="https://i.ibb.co/Sty4hn5/TLC.png" group-title="TV || USA (INGLES)",TLC EAST
+http://fivetv.org:25461/joelsm0728/jsm284j/91334
+#EXTINF:-1 tvg-id="" tvg-name="TNT WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="TV || USA (INGLES)",TNT WEST
+http://fivetv.org:25461/joelsm0728/jsm284j/91335
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="https://i.ibb.co/pyTvP1j/Travel-Channel.png" group-title="TV || USA (INGLES)",Travel Channel HD
+http://fivetv.org:25461/joelsm0728/jsm284j/91336
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/LQ2SQhw/TVOne-2016.png" group-title="TV || USA (INGLES)",TV ONE
+http://fivetv.org:25461/joelsm0728/jsm284j/91338
+#EXTINF:-1 tvg-id="" tvg-name="USA Network West" tvg-logo="http://miarea.vip:8080/images/6979e93d9ac7e3264e4f4673917fc022.png" group-title="TV || USA (INGLES)",USA Network West
+http://fivetv.org:25461/joelsm0728/jsm284j/91339
+#EXTINF:-1 tvg-id="" tvg-name="Vice TV" tvg-logo="https://i.ibb.co/KsDVJ19/vice.png" group-title="TV || USA (INGLES)",Vice TV
+http://fivetv.org:25461/joelsm0728/jsm284j/91340
+#EXTINF:-1 tvg-id="" tvg-name="Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="TV || USA (INGLES)",Weather Channel
+http://fivetv.org:25461/joelsm0728/jsm284j/91341
+#EXTINF:-1 tvg-id="" tvg-name="HOND| HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logohch2022.png" group-title="TV || HONDURAS",HOND| HCH
+http://fivetv.org:25461/joelsm0728/jsm284j/92859
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll VALLENATO INTERNACIONAL" tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/virtv_logo-290x68px.png" group-title="TV || MUSICA",MUSICA ll VALLENATO INTERNACIONAL
+http://fivetv.org:25461/joelsm0728/jsm284j/101616
+#EXTINF:-1 tvg-id="" tvg-name="Peru | ATV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="TV || PERU",Peru | ATV+
+http://fivetv.org:25461/joelsm0728/jsm284j/102082
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll VEVO LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/800px-Vevo_2016_logo.png" group-title="TV || MUSICA",MUSICA ll VEVO LATINO
+http://fivetv.org:25461/joelsm0728/jsm284j/102104
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll REGGAETON Y TRAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/800px-Vevo_2016_logo.png" group-title="TV || MUSICA",MUSICA ll REGGAETON Y TRAP
+http://fivetv.org:25461/joelsm0728/jsm284j/102105
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TELEVISION LEGISLATIVA" tvg-logo="https://i.ibb.co/HCNMXKz/asamblea.png" group-title="TV || EL SALVADOR",EL SALVADOR | TELEVISION LEGISLATIVA
+http://fivetv.org:25461/joelsm0728/jsm284j/102107
+#EXTINF:-1 tvg-id="Energy" tvg-name="ESPAÑA | ENERGY HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="TV || ESPAÑA",ESPAÑA | ENERGY HD
+http://fivetv.org:25461/joelsm0728/jsm284j/110480
+#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" tvg-name="MX| LAS ESTRELLAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TV || MEXICO",MX| LAS ESTRELLAS MX
+http://fivetv.org:25461/joelsm0728/jsm284j/110791
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | UNIVISION" tvg-logo="https://lavibra.com/wp-content/uploads/2022/04/univision-noticias-logo.png" group-title=" TV || NOTICIAS",NOTICIAS | UNIVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/110792
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | ADN 40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title=" TV || NOTICIAS",NOTICIAS | ADN 40
+http://fivetv.org:25461/joelsm0728/jsm284j/110831
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | RCN XTRA" tvg-logo="https://i.ibb.co/KsNBdwy/rcn-xtra-2.png" group-title="TV || ENTRETENIMIENTO",ENTRE | RCN XTRA
+http://fivetv.org:25461/joelsm0728/jsm284j/110832
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | RCN MAS+" tvg-logo="https://i.ibb.co/B3R4kf4/rcn-mas-1.png" group-title="TV || ENTRETENIMIENTO",ENTRE | RCN MAS+
+http://fivetv.org:25461/joelsm0728/jsm284j/110833
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Ticavison" tvg-logo="https://i.ibb.co/Fh2Q85x/TICA-VISION.png" group-title="TV || COSTA RICA",C. Rica - Ticavison
+http://fivetv.org:25461/joelsm0728/jsm284j/110834
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 27" tvg-logo="https://www.canal27.org/wp-content/uploads/2023/04/Logo-canal-mediano-transp-1024x576.png" group-title="TV ||  GUATEMALA",GUATEMALA | CANAL 27
+http://fivetv.org:25461/joelsm0728/jsm284j/112568
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | ESQUIPULAS TV" tvg-logo="https://esquipulastv.com/wp-content/uploads/2020/08/Logo-ETV-FINAL-1.png" group-title="TV ||  GUATEMALA",GUATEMALA | ESQUIPULAS TV
+http://fivetv.org:25461/joelsm0728/jsm284j/112569
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | CANAL 7" tvg-logo="https://www.chapintv.com/wp-content/uploads/2023/08/signal-canal-7-4.png" group-title="TV ||  GUATEMALA",GUATEMALA | CANAL 7
+http://fivetv.org:25461/joelsm0728/jsm284j/112571
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | TN23" tvg-logo="https://i.ibb.co/PrgK87Z/TN23.png" group-title="TV ||  GUATEMALA",GUATEMALA | TN23
+http://fivetv.org:25461/joelsm0728/jsm284j/112572
+#EXTINF:-1 tvg-id="" tvg-name="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="TV || ARGENTINA",EL NUEVE
+http://fivetv.org:25461/joelsm0728/jsm284j/112573
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | UCV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/UCV_Logo.png" group-title="TV || CHILE",CHILE | UCV
+http://fivetv.org:25461/joelsm0728/jsm284j/112575
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | UESTV" tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png" group-title="TV || CHILE",CHILE | UESTV
+http://fivetv.org:25461/joelsm0728/jsm284j/112576
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png" group-title="TV || COSTA RICA",C. Rica - Canal 2
+http://fivetv.org:25461/joelsm0728/jsm284j/112577
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="TV || COSTA RICA",C. Rica - Canal 8
+http://fivetv.org:25461/joelsm0728/jsm284j/112578
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Telesistema" tvg-logo="https://telesistemacr.com/wp-content/uploads/2023/03/LOGO-TELESISTEMA-1.png" group-title="TV || COSTA RICA",C. Rica - Telesistema
+http://fivetv.org:25461/joelsm0728/jsm284j/112579
+#EXTINF:-1 tvg-id="" tvg-name="C. Rica - Canal 1" tvg-logo="https://www.lateja.cr/resizer/kpPE6RkJefPYNY4yxYoY8xT3Y8g=/400x225/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/A5QSG7J2ERAN7DYBXWEGY73H2I.png" group-title="TV || COSTA RICA",C. Rica - Canal 1
+http://fivetv.org:25461/joelsm0728/jsm284j/112580
+#EXTINF:-1 tvg-id="" tvg-name="HOND| AZA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yIZFNQjKAP9mUeUxULy0Iiie8pWObcdhY9enQvpQ_fODPhiD3vVIQqQKQ-VNe4gmSN3MU2BLKUzh0snIvT6p9aOIAUHKBtSrIhYqtMXAgDQO5O_aiPT4hJQtEPhdXIR-JlvFxnj2GorAA24Ib-XNE0h0XIYfyG5rCC3nPNUl4jC0ocng8MqEFj__/s540/aza-tv-honduras-logoroku.png" group-title="TV || HONDURAS",HOND| AZA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/112925
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TELEVISION METROPOLIS" tvg-logo="http://www.comunicacionesmetropolis.com/assets/images/image8o-1-180x86.png" group-title="TV || HONDURAS",HOND| TELEVISION METROPOLIS
+http://fivetv.org:25461/joelsm0728/jsm284j/112927
+#EXTINF:-1 tvg-id="" tvg-name="NIcaragua | WTV CANAL 20" tvg-logo="https://i.ibb.co/BT3fntJ/WTW.png" group-title="TV || NICARAGUA",NIcaragua | WTV CANAL 20
+http://fivetv.org:25461/joelsm0728/jsm284j/112928
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | WOW TV" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="TV || EL SALVADOR",EL SALVADOR | WOW TV
+http://fivetv.org:25461/joelsm0728/jsm284j/117970
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="TV || DEPORTES EUROPA",DAZN F1
+http://fivetv.org:25461/joelsm0728/jsm284j/120317
+#EXTINF:-1 tvg-id="594clarovideo.cl" tvg-name="MULTIPREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="TV || CINE Y SERIES",MULTIPREMIER
+http://fivetv.org:25461/joelsm0728/jsm284j/126323
+#EXTINF:-1 tvg-id="" tvg-name="MOREMAX FHD" tvg-logo="http://miarea.vip:8080/images/fd14f9920e6f9506903aeced73e335a8.png" group-title="TV || CINE Y SERIES",MOREMAX FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/126327
+#EXTINF:-1 tvg-id="" tvg-name="MULTICINEMA HD" tvg-logo="http://miarea.vip:8080/images/d6fd0924e324f50669ae0295adf59567.png" group-title="TV || CINE Y SERIES",MULTICINEMA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/126330
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="TV || CINE Y SERIES",SONY MOVIES
+http://fivetv.org:25461/joelsm0728/jsm284j/126339
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME NETWORK HD LATINO" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="TV || CINE Y SERIES",MY TIME NETWORK HD LATINO
+http://fivetv.org:25461/joelsm0728/jsm284j/139692
+
+#EXTINF:-1 tvg-id="" tvg-name="Peru | EXITOSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="TV || PERU",Peru | EXITOSA
+http://fivetv.org:25461/joelsm0728/jsm284j/139709
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="https://i.ibb.co/7WxWMNS/axn-movie.png" group-title="TV || CINE Y SERIES",AXN MOVIES
+http://fivetv.org:25461/joelsm0728/jsm284j/141568
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | CANAL SUR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="TV || ESPAÑA",ESPAÑA | CANAL SUR 
+http://fivetv.org:25461/joelsm0728/jsm284j/145249
+#EXTINF:-1 tvg-id="" tvg-name="TEENNICK HD" tvg-logo="https://i.ibb.co/L18T6xv/teennick-logo-concept-2023-by-logofan100-dg1uxmm.png" group-title="TV || INFANTIL",TEENNICK HD
+http://fivetv.org:25461/joelsm0728/jsm284j/146664
+#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL SD" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="TV || COLOMBIA",COL | CARACOL SD
+http://fivetv.org:25461/joelsm0728/jsm284j/153830
+#EXTINF:-1 tvg-id="" tvg-name="Peru | NATIVA" tvg-logo="https://i.ibb.co/WNX03DrG/Nativa-tv.png" group-title="TV || PERU",Peru | NATIVA
+http://fivetv.org:25461/joelsm0728/jsm284j/161958
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION LOS ANGELES" tvg-logo="http://miarea.vip:8080/images/da0f5e18cfe3ef77b2206ef57b0df77f.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION LOS ANGELES
+http://fivetv.org:25461/joelsm0728/jsm284j/162346
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO LOS ANGELES" tvg-logo="http://miarea.vip:8080/images/0049d39433c2d9959de3767edd8dd31b.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO LOS ANGELES
+http://fivetv.org:25461/joelsm0728/jsm284j/162347
+#EXTINF:-1 tvg-id="" tvg-name="VEN | IVC" tvg-logo="http://fanc.tmsimg.com/assets/s97002_ll_h3_aa.png" group-title="TV || VENEZUELA",VEN | IVC
+http://fivetv.org:25461/joelsm0728/jsm284j/169154
+#EXTINF:-1 tvg-id="" tvg-name="VEN | GLOBOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="TV || VENEZUELA",VEN | GLOBOVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/169155
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/2560px-TV_Azteca_Cinema_logo.svg.png" group-title="TV || CINE Y SERIES",CINEMA
+http://fivetv.org:25461/joelsm0728/jsm284j/169185
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Globo_logo_1975.svg/2172px-Globo_logo_1975.svg.png" group-title="TV || BRASIL",Globo Premium
+http://fivetv.org:25461/joelsm0728/jsm284j/169766
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiment HD" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="TV || DOCUMENTALES",E! Entertaiment HD
+http://fivetv.org:25461/joelsm0728/jsm284j/170735
+#EXTINF:-1 tvg-id="" tvg-name="COL | SEÑAL COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TV || COLOMBIA",COL | SEÑAL COLOMBIA
+http://fivetv.org:25461/joelsm0728/jsm284j/171153
+
+#EXTINF:-1 tvg-id="" tvg-name="SEO TV" tvg-logo="https://i.ibb.co/GpVXdGs/SEO.png" group-title="TV || BOLIVIA",SEO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/172173
+#EXTINF:-1 tvg-id="" tvg-name="XTREMA TV" tvg-logo="https://i.ibb.co/XX88Y9Q/RETRO.png" group-title="TV || ENTRETENIMIENTO",XTREMA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/172175
+#EXTINF:-1 tvg-id="" tvg-name="PLANETATV " tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png" group-title="TV || MUSICA",PLANETATV 
+http://fivetv.org:25461/joelsm0728/jsm284j/173266
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03549e27277257.5584ec82d8cba.png" group-title="TV || INFANTIL",ZOOMOO
+http://fivetv.org:25461/joelsm0728/jsm284j/173267
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="TV || COLOMBIA",COL | CANAL UNO
+http://fivetv.org:25461/joelsm0728/jsm284j/173269
+#EXTINF:-1 tvg-id="" tvg-name="VEN | VE PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="TV || VENEZUELA",VEN | VE PLUS
+http://fivetv.org:25461/joelsm0728/jsm284j/173270
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN 
+http://fivetv.org:25461/joelsm0728/jsm284j/173271
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | EWTN HD" tvg-logo="https://i.ibb.co/j89z5JZ/EWTN.jpg" group-title="TV || RELIGION",RELIGION | EWTN HD
+http://fivetv.org:25461/joelsm0728/jsm284j/173272
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | CRISTOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png" group-title="TV || RELIGION",RELIGION | CRISTOVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/173273
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="TV || DOCUMENTALES",Love Nature
+http://fivetv.org:25461/joelsm0728/jsm284j/173274
+#EXTINF:-1 tvg-id="" tvg-name="COL | ZOOM" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="TV || COLOMBIA",COL | ZOOM
+http://fivetv.org:25461/joelsm0728/jsm284j/173275
+#EXTINF:-1 tvg-id="" tvg-name="FILMEX CLASICO" tvg-logo="https://i.ibb.co/JkKpwmr/Filmex.png" group-title="TV || CINE Y SERIES",FILMEX CLASICO
+http://fivetv.org:25461/joelsm0728/jsm284j/173277
+#EXTINF:-1 tvg-id="" tvg-name="FILMEX COMEDIA" tvg-logo="https://i.ibb.co/JkKpwmr/Filmex.png" group-title="TV || CINE Y SERIES",FILMEX COMEDIA
+http://fivetv.org:25461/joelsm0728/jsm284j/173278
+#EXTINF:-1 tvg-id="" tvg-name="FILMEX HD" tvg-logo="https://i.ibb.co/JkKpwmr/Filmex.png" group-title="TV || CINE Y SERIES",FILMEX HD
+http://fivetv.org:25461/joelsm0728/jsm284j/173279
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA ll HTV" tvg-logo="http://svtv.xyz:8000/images/55e730d0262e3f8f7f45f6bfc922b8f6.png" group-title="TV || MUSICA",MUSICA ll HTV
+http://fivetv.org:25461/joelsm0728/jsm284j/176994
+#EXTINF:-1 tvg-id="" tvg-name="EPIX WEST HD" tvg-logo="https://i.ibb.co/DzJW6dv/epix.png" group-title="TV || CINE Y SERIES",EPIX WEST HD
+http://fivetv.org:25461/joelsm0728/jsm284j/180752
+#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX " tvg-logo="https://i.ibb.co/zFZ2F97/max.png" group-title="TV || CINE Y SERIES",ACTION MAX 
+http://fivetv.org:25461/joelsm0728/jsm284j/180753
+#EXTINF:-1 tvg-id="" tvg-name="GENTV DIGITAL" tvg-logo="https://i.ibb.co/LdtcWs1/Gentv.png" group-title="TV || ARGENTINA",GENTV DIGITAL
+http://fivetv.org:25461/joelsm0728/jsm284j/180814
+
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/181933
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 2
+http://fivetv.org:25461/joelsm0728/jsm284j/181934
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 3
+http://fivetv.org:25461/joelsm0728/jsm284j/181935
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 4
+http://fivetv.org:25461/joelsm0728/jsm284j/181936
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="TV || DEPORTES EUROPA",LA LIGA TV 5
+http://fivetv.org:25461/joelsm0728/jsm284j/181937
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 1
+http://fivetv.org:25461/joelsm0728/jsm284j/181939
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 2
+http://fivetv.org:25461/joelsm0728/jsm284j/181940
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 3
+http://fivetv.org:25461/joelsm0728/jsm284j/181941
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 4
+http://fivetv.org:25461/joelsm0728/jsm284j/181942
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="TV || DEPORTES EUROPA",LIGA DE CAMPEONES 5
+http://fivetv.org:25461/joelsm0728/jsm284j/181943
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ESPAÑA | CUATRO" tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="TV || ESPAÑA",ESPAÑA | CUATRO
+http://fivetv.org:25461/joelsm0728/jsm284j/182368
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ESPAÑA | CANAL HOLLYWOOD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="TV || ESPAÑA",ESPAÑA | CANAL HOLLYWOOD
+http://fivetv.org:25461/joelsm0728/jsm284j/182369
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="ESPAÑA | PARAMOUNT NETWORK" tvg-logo="http://miarea.vip:8080/images/c6e4c7cd969b554647e613d820e2abbd.png" group-title="TV || ESPAÑA",ESPAÑA | PARAMOUNT NETWORK
+http://fivetv.org:25461/joelsm0728/jsm284j/182370
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELE TUYA" tvg-logo="https://teletuya.net/wp-content/uploads/2023/07/Logo-TeleTuya.png" group-title="TV || VENEZUELA",VEN | TELE TUYA
+http://fivetv.org:25461/joelsm0728/jsm284j/182972
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/1200px-Foro_TV_%28Canal_4_MX_2022%29.svg.png" group-title=" TV || NOTICIAS",NOTICIAS | FORO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/182973
+#EXTINF:-1 tvg-id="" tvg-name="VEN | TELESUR" tvg-logo="https://www.telesurtv.net/__export/1433991439956/sites/telesur/img/news/2015/06/10/telesurlogo.jpg" group-title="TV || VENEZUELA",VEN | TELESUR
+http://fivetv.org:25461/joelsm0728/jsm284j/182974
+#EXTINF:-1 tvg-id="" tvg-name="Peru | TV ONE" tvg-logo="https://tvone.pe/tvone.png" group-title="TV || PERU",Peru | TV ONE
+http://fivetv.org:25461/joelsm0728/jsm284j/183698
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION | ASOMAVISION" tvg-logo="https://i0.wp.com/www.asomavision.com/wp-content/uploads/2021/08/logo-1.png" group-title="TV || RELIGION",RELIGION | ASOMAVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/184767
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ESPAÑA | ODISEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="TV || ESPAÑA",ESPAÑA | ODISEA
+http://fivetv.org:25461/joelsm0728/jsm284j/184852
+
+#EXTINF:-1 tvg-id="" tvg-name="13 KIDS" tvg-logo="https://i.ibb.co/rfTYHhP/KIDS.png" group-title="TV || INFANTIL",13 KIDS
+http://fivetv.org:25461/joelsm0728/jsm284j/185049
+#EXTINF:-1 tvg-id="" tvg-name="LOGOSTV KIDS" tvg-logo="https://i.ibb.co/KLTf0f0/LOGOS.png" group-title="TV || INFANTIL",LOGOSTV KIDS
+http://fivetv.org:25461/joelsm0728/jsm284j/185050
+#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://i.ibb.co/D75pqxQ/id.png" group-title="TV || USA (INGLES)",ID INVESTIGATION DISCOVERY HD
+http://fivetv.org:25461/joelsm0728/jsm284j/185139
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | ADULT SWIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | ADULT SWIM
+http://fivetv.org:25461/joelsm0728/jsm284j/185141
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TV || ESPAÑA",ESPAÑA | LA 1 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186219
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | TRECE" tvg-logo="https://i.ibb.co/3CsvTJt/trece.png" group-title="TV || ESPAÑA",ESPAÑA | TRECE
+http://fivetv.org:25461/joelsm0728/jsm284j/186220
+#EXTINF:-1 tvg-id="OneToro TV" tvg-name="ESPAÑA | ONE TORO" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="TV || ESPAÑA",ESPAÑA | ONE TORO
+http://fivetv.org:25461/joelsm0728/jsm284j/186221
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | 24H" tvg-logo="https://i.ibb.co/kh1mxkz/24.png" group-title="TV || ESPAÑA",ESPAÑA | 24H
+http://fivetv.org:25461/joelsm0728/jsm284j/186222
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | FLOOXER" tvg-logo="https://i.ibb.co/KXg1sPq/FLOOXER.png" group-title="TV || ESPAÑA",ESPAÑA | FLOOXER
+http://fivetv.org:25461/joelsm0728/jsm284j/186223
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | ATRES PLAYER CLASICOS" tvg-logo="https://i.ibb.co/JjFY1PF/ATRES.png" group-title="TV || ESPAÑA",ESPAÑA | ATRES PLAYER CLASICOS
+http://fivetv.org:25461/joelsm0728/jsm284j/186224
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | VIVA RTV" tvg-logo="https://i.ibb.co/ZgqCb7C/VIVA.png" group-title="TV || ESPAÑA",ESPAÑA | VIVA RTV
+http://fivetv.org:25461/joelsm0728/jsm284j/186225
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO CHICAGO" tvg-logo="https://i.ibb.co/KbRpJcF/telemundo-chicado.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO CHICAGO
+http://fivetv.org:25461/joelsm0728/jsm284j/186428
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO INTERNACIONAL" tvg-logo="https://i.ibb.co/Zz1kSwG/Telemundo-internacional.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO INTERNACIONAL
+http://fivetv.org:25461/joelsm0728/jsm284j/186429
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION NEW YORK" tvg-logo="https://i.ibb.co/Wz7Jvfj/univision-ny.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION NEW YORK
+http://fivetv.org:25461/joelsm0728/jsm284j/186430
+#EXTINF:-1 tvg-id="UniMás (East)" tvg-name="ENTRE | UNIMAS MIAMI" tvg-logo="https://i.ibb.co/h121P95/unimas.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIMAS MIAMI
+http://fivetv.org:25461/joelsm0728/jsm284j/186431
+#EXTINF:-1 tvg-id="0812" tvg-name="ENTRE | COMEDY CENTRAL HD" tvg-logo="http://miarea.vip:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="TV || ENTRETENIMIENTO",ENTRE | COMEDY CENTRAL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186432
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | MEGA TV USA" tvg-logo="https://i.ibb.co/LD749PY/megatv.png" group-title="TV || ENTRETENIMIENTO",ENTRE | MEGA TV USA
+http://fivetv.org:25461/joelsm0728/jsm284j/186433
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | CANAL DE LAS ESTRELLAS FHD" tvg-logo="http://miarea.vip:8080/images/b15c919ea2656eb10414e6e6001d61e1.png" group-title="TV || ENTRETENIMIENTO",ENTRE | CANAL DE LAS ESTRELLAS FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186434
+#EXTINF:-1 tvg-id="I218.30259.schedulesdirect.org" tvg-name="ENTRE | E! ENTRETENIMIENTO HD" tvg-logo="http://miarea.vip:8080/images/ec12a8b7e005a91bd7dd67cef960610b.png" group-title="TV || ENTRETENIMIENTO",ENTRE | E! ENTRETENIMIENTO HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186435
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | DISTRITO COMEDIA HD" tvg-logo="https://i.ibb.co/x6MHNYr/Logo-Distrito-Comedia.png" group-title="TV || ENTRETENIMIENTO",ENTRE | DISTRITO COMEDIA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186436
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | FOOD NETWORK LATINO FHD" tvg-logo="http://miarea.vip:8080/images/f1f3d8f737ed0f285c636273d5b52f17.png" group-title="TV || ENTRETENIMIENTO",ENTRE | FOOD NETWORK LATINO FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186437
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | GOURMET HD" tvg-logo="http://miarea.vip:8080/images/08a1fc1cb8a462f37c3eaf29f15562bb.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GOURMET HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186438
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | GALAVISION" tvg-logo="https://i.ibb.co/Q8TCJT7/galavision.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GALAVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/186439
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | UNICABLE HD" tvg-logo="http://miarea.vip:8080/images/b5cdf0105b2a4721257e6b1011f4ce06.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNICABLE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186440
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | BITME" tvg-logo="http://miarea.vip:8080/images/8fdcaf15d7cb14bd280e8614a61395de.png" group-title="TV || ENTRETENIMIENTO",ENTRE | BITME
+http://fivetv.org:25461/joelsm0728/jsm284j/186441
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.ibb.co/QJPFN2P/cartoonito.png" group-title="TV || INFANTIL",CARTOONITO
+http://fivetv.org:25461/joelsm0728/jsm284j/186442
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD " tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="TV || INFANTIL",DISCOVERY KIDS HD 
+http://fivetv.org:25461/joelsm0728/jsm284j/186443
+#EXTINF:-1 tvg-id="0" tvg-name="CARTOON NETWORK " tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="TV || INFANTIL",CARTOON NETWORK 
+http://fivetv.org:25461/joelsm0728/jsm284j/186444
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL " tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="TV || INFANTIL",DISNEY CHANNEL 
+http://fivetv.org:25461/joelsm0728/jsm284j/186445
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="TV || INFANTIL",DISNEY JUNIOR
+http://fivetv.org:25461/joelsm0728/jsm284j/186446
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="TV || INFANTIL",TOONCAST 
+http://fivetv.org:25461/joelsm0728/jsm284j/186447
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="TV || INFANTIL",NICKELODEON
+http://fivetv.org:25461/joelsm0728/jsm284j/186448
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 TEAM NICK HD" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="TV || INFANTIL",NICK 2 TEAM NICK HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186449
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD  " tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="TV || INFANTIL",NICK JR HD  
+http://fivetv.org:25461/joelsm0728/jsm284j/186450
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="TV || INFANTIL",BABY TV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186451
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="TV || CINE Y SERIES",CINEMAX HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186452
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://miarea.vip:8080/images/973b56cda0c1aa82b64ca4ee4fa2044a.png" group-title="TV || CINE Y SERIES",SPACE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186453
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="http://miarea.vip:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="TV || CINE Y SERIES",CINECANAL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186454
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="TV || CINE Y SERIES",SONY CHANNEL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186456
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="TV || CINE Y SERIES",WARNER HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186457
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://miarea.vip:8080/images/1baabb2d7586fb25feb0a8378df0e12a.png" group-title="TV || CINE Y SERIES",TBS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186459
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://miarea.vip:8080/images/a156fe16fad2f066fd0c090caf4b89b7.png" group-title="TV || CINE Y SERIES",SYFY HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186461
+#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="TV || CINE Y SERIES",A&E 
+http://fivetv.org:25461/joelsm0728/jsm284j/186462
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="TV || CINE Y SERIES",AMC
+http://fivetv.org:25461/joelsm0728/jsm284j/186463
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="TV || CINE Y SERIES",AXN 
+http://fivetv.org:25461/joelsm0728/jsm284j/186464
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="TV || CINE Y SERIES",CINECANAL
+http://fivetv.org:25461/joelsm0728/jsm284j/186465
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX USA" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="TV || CINE Y SERIES",CINEMAX USA
+http://fivetv.org:25461/joelsm0728/jsm284j/186466
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="TV || CINE Y SERIES",FX
+http://fivetv.org:25461/joelsm0728/jsm284j/186467
+#EXTINF:-1 tvg-id="88305" tvg-name="FILM  & ARTS" tvg-logo="http://miarea.vip:8080/images/146482b30f24e39213d5fce7c84fb1c7.png" group-title="TV || CINE Y SERIES",FILM  & ARTS
+http://fivetv.org:25461/joelsm0728/jsm284j/186472
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="TV || CINE Y SERIES",TCM
+http://fivetv.org:25461/joelsm0728/jsm284j/186475
+#EXTINF:-1 tvg-id="1833" tvg-name="TNT SERIES " tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="TV || CINE Y SERIES",TNT SERIES 
+http://fivetv.org:25461/joelsm0728/jsm284j/186476
+#EXTINF:-1 tvg-id="3805" tvg-name="TNT HD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="TV || CINE Y SERIES",TNT HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186477
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN PREMIER HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186479
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STARZ ENCORE ESPANOL" tvg-logo="https://i.ibb.co/w6vZ5px/STARZESP.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STARZ ENCORE ESPANOL
+http://fivetv.org:25461/joelsm0728/jsm284j/186480
+#EXTINF:-1 tvg-id="0802" tvg-name="PREMIUM | DHE HD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | DHE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186481
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO LATINO" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO LATINO
+http://fivetv.org:25461/joelsm0728/jsm284j/186482
+#EXTINF:-1 tvg-id="0814" tvg-name="PREMIUM | HBO 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO 2
+http://fivetv.org:25461/joelsm0728/jsm284j/186483
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL COMEDY HD" tvg-logo="https://universalplus.com/assets/logo_comedy_hero.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL COMEDY HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186484
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL CINEMA HD" tvg-logo="http://miarea.vip:8080/images/5290e121f398b2a63ed3b8b720b54d33.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL CINEMA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186485
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL PREMIER HD" tvg-logo="http://miarea.vip:8080/images/e5bacf48b8ec9875c34ede41ee2a0913.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL PREMIER HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186486
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | UNIVERSAL CRIME HD" tvg-logo="http://miarea.vip:8080/images/7b2900fcdb12cfc140ad2a6027f7e065.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | UNIVERSAL CRIME HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186487
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STUDIO UNIVERSAL " tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STUDIO UNIVERSAL 
+http://fivetv.org:25461/joelsm0728/jsm284j/186488
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | STAR CHANNEL HD" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | STAR CHANNEL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186489
+#EXTINF:-1 tvg-id="16423" tvg-name="PREMIUM | GOLDEN EDGE HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENEDGE.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN EDGE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186490
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | GOLDEN HD" tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186491
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | GOLDEN PLUS FHD" tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | GOLDEN PLUS FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186492
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO XTREME" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO XTREME
+http://fivetv.org:25461/joelsm0728/jsm284j/186493
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="PREMIUM | HBO HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186494
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO MUNDI HD" tvg-logo="http://miarea.vip:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO MUNDI HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186496
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO PLUS FHD " tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO PLUS FHD 
+http://fivetv.org:25461/joelsm0728/jsm284j/186497
+#EXTINF:-1 tvg-id="0" tvg-name="PREMIUM | HBO PLUS HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO PLUS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186498
+#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="PREMIUM | HBO POP HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPOP.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO POP HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186499
+#EXTINF:-1 tvg-id="74450" tvg-name="PREMIUM | HBO SIGNATURE HD" tvg-logo="http://miarea.vip:8080/images/d120fdf3444442524d11bb15a8a6e361.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO SIGNATURE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186500
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD*+*" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="TV || DOCUMENTALES",INVESTIGATION DISCOVERY HD*+*
+http://fivetv.org:25461/joelsm0728/jsm284j/186501
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY SCIENCIE HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="TV || DOCUMENTALES",DISCOVERY SCIENCIE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186503
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="TV || DOCUMENTALES",DISCOVERY THEATHER FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186504
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY TURBO  HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186505
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="TV || DOCUMENTALES",DISCOVERY WORLD HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186506
+#EXTINF:-1 tvg-id="0" tvg-name="H2 HD" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="TV || DOCUMENTALES",H2 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186507
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="TV || DOCUMENTALES",HISTORY CHANNEL FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186509
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="NATGEO WILD HD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="TV || DOCUMENTALES",NATGEO WILD HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186511
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="TV || DOCUMENTALES",NATIONAL GEOGRAPHIC FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186512
+#EXTINF:-1 tvg-id="tlc.Lat" tvg-name="TLC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/TLC.png" group-title="TV || DOCUMENTALES",TLC HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186513
+#EXTINF:-1 tvg-id="0" tvg-name="TYC SPORTS FHD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TYC.jpg" group-title="TV || ARGENTINA",TYC SPORTS FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186514
+#EXTINF:-1 tvg-id="0" tvg-name="TNT SPORTS ARGENTINA HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TNTSPORTS.png" group-title="TV || ARGENTINA",TNT SPORTS ARGENTINA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186515
+#EXTINF:-1 tvg-id="0" tvg-name="TV PUBLICA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/TVPUBLICA.png" group-title="TV || ARGENTINA",TV PUBLICA
+http://fivetv.org:25461/joelsm0728/jsm284j/186516
+#EXTINF:-1 tvg-id="0" tvg-name="TELEFE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/TELEFE.png" group-title="TV || ARGENTINA",TELEFE
+http://fivetv.org:25461/joelsm0728/jsm284j/186517
+#EXTINF:-1 tvg-id="0" tvg-name="EL TRECE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ARGENTINA/ELTRECE.png" group-title="TV || ARGENTINA",EL TRECE
+http://fivetv.org:25461/joelsm0728/jsm284j/186518
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-name="AMERICA TV HD " tvg-logo="https://i.ibb.co/jfDf9K0/america.png" group-title="TV || ARGENTINA",AMERICA TV HD 
+http://fivetv.org:25461/joelsm0728/jsm284j/186519
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 12 HD" tvg-logo="http://miarea.vip:8080/images/c4ec6e042c59d543cc850484121e43e8.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 12 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186520
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 2 HD" tvg-logo="http://miarea.vip:8080/images/f900dc416b125c163dcb71e4185dd277.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 2 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186521
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4 HD" tvg-logo="http://miarea.vip:8080/images/d5a98cc11d1757b7165c4f9ed9461cb8.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 4 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186522
+#EXTINF:-1 tvg-id="Canal6Nacional.sv" tvg-name="EL SALVADOR | CANAL 6 HD" tvg-logo="http://miarea.vip:8080/images/7b7cdd444b39157b2a916d79fc4ebe49.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 6 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186523
+#EXTINF:-1 tvg-id="Canal21.sv" tvg-name="EL SALVADOR | CANAL 21" tvg-logo="https://static.epg.best/sv/Canal21.sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 21
+http://fivetv.org:25461/joelsm0728/jsm284j/186524
+#EXTINF:-1 tvg-id="Canal10Nacional.sv" tvg-name="EL SALVADOR | CANAL 10 " tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-sv.png" group-title="TV || EL SALVADOR",EL SALVADOR | CANAL 10 
+http://fivetv.org:25461/joelsm0728/jsm284j/186525
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | ORBITA TV" tvg-logo="https://i.ibb.co/pXKz0Fx/ORBITA.png" group-title="TV || EL SALVADOR",EL SALVADOR | ORBITA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/186526
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TRIBUNA TV" tvg-logo="https://i.ibb.co/tBPSjvm/tribuna.png" group-title="TV || EL SALVADOR",EL SALVADOR | TRIBUNA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/186527
+#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="TV || COLOMBIA",COL | CARACOL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186530
+#EXTINF:-1 tvg-id="0" tvg-name="COL | CARACOL INT HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOLINT.png" group-title="TV || COLOMBIA",COL | CARACOL INT HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186531
+#EXTINF:-1 tvg-id="0" tvg-name="COL | NTN24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="TV || COLOMBIA",COL | NTN24 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186532
+#EXTINF:-1 tvg-id="" tvg-name="COL | EL TIEMPO HD" tvg-logo="https://i.ibb.co/373PbRD/TIEMPO.png" group-title="TV || COLOMBIA",COL | EL TIEMPO HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186533
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD*" tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA",COL | RCN HD*
+http://fivetv.org:25461/joelsm0728/jsm284j/186534
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN HD " tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA",COL | RCN HD 
+http://fivetv.org:25461/joelsm0728/jsm284j/186535
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Teleantioquia_logo.png/250px-Teleantioquia_logo.png" group-title="TV || COLOMBIA",COL | TELEANTIOQUIA
+http://fivetv.org:25461/joelsm0728/jsm284j/186536
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="TV || COLOMBIA",COL | TELEPACIFICO
+http://fivetv.org:25461/joelsm0728/jsm284j/186537
+#EXTINF:-1 tvg-id="0" tvg-name="COL | TELECAFE HD" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="TV || COLOMBIA",COL | TELECAFE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186538
+#EXTINF:-1 tvg-id="" tvg-name="COL | CITY TV HD" tvg-logo="https://i.ibb.co/9g8JcJW/city.png" group-title="TV || COLOMBIA",COL | CITY TV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186539
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | HOLA TV HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/HOLATV.png" group-title="TV || ENTRETENIMIENTO",ENTRE | HOLA TV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186780
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | MAS CHIC HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/MASCHIC.png" group-title="TV || ENTRETENIMIENTO",ENTRE | MAS CHIC HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186781
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | AMERICA TV LATINO USA" tvg-logo="http://miarea.vip:8080/images/920866c82a903679d345fe5be58f3c99.png" group-title="TV || ENTRETENIMIENTO",ENTRE | AMERICA TV LATINO USA
+http://fivetv.org:25461/joelsm0728/jsm284j/186782
+#EXTINF:-1 tvg-id="0" tvg-name="NOTICIAS | DW ESPAÑOL HD" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/NOTICIAS/DWAMERICA.png" group-title=" TV || NOTICIAS",NOTICIAS | DW ESPAÑOL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186783
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | M+ DRAMA HD" tvg-logo="http://miarea.vip:8080/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV || ENTRETENIMIENTO",ENTRE | M+ DRAMA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186784
+#EXTINF:-1 tvg-id="1705" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="TV || DOCUMENTALES",ANIMAL PLANET
+http://fivetv.org:25461/joelsm0728/jsm284j/186793
+#EXTINF:-1 tvg-id="" tvg-name="Telehit HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="TV || MUSICA",Telehit HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186794
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80'S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/1200px-MTV_1981_logo_%28no_outline%29.svg.png" group-title="TV || MUSICA",MTV 80'S
+http://fivetv.org:25461/joelsm0728/jsm284j/186795
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1200px-MTV_Classic_2021.svg.png" group-title="TV || MUSICA",MTV CLASSIC
+http://fivetv.org:25461/joelsm0728/jsm284j/186796
+#EXTINF:-1 tvg-id="" tvg-name="30A Music Channel" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="TV || MUSICA",30A Music Channel
+http://fivetv.org:25461/joelsm0728/jsm284j/186797
+#EXTINF:-1 tvg-id="" tvg-name="70-80 TV" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="TV || MUSICA",70-80 TV
+http://fivetv.org:25461/joelsm0728/jsm284j/186798
+#EXTINF:-1 tvg-id="0" tvg-name="Activa TV" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="TV || MUSICA",Activa TV
+http://fivetv.org:25461/joelsm0728/jsm284j/186799
+#EXTINF:-1 tvg-id="0" tvg-name="AlternaTV" tvg-logo="https://alternatv.ar/alternatv.png" group-title="TV || MUSICA",AlternaTV
+http://fivetv.org:25461/joelsm0728/jsm284j/186800
+#EXTINF:-1 tvg-id="0" tvg-name="BLUES TV" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="TV || MUSICA",BLUES TV
+http://fivetv.org:25461/joelsm0728/jsm284j/186801
+#EXTINF:-1 tvg-id="0" tvg-name="Cadena Elite" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="TV || MUSICA",Cadena Elite
+http://fivetv.org:25461/joelsm0728/jsm284j/186802
+#EXTINF:-1 tvg-id="0" tvg-name="KandelaTV" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="TV || MUSICA",KandelaTV
+http://fivetv.org:25461/joelsm0728/jsm284j/186803
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | BBC WORLD NEWS  HD" tvg-logo="http://miarea.vip:8080/images/716552173f971c1d71f970afe777ebad.png" group-title=" TV || NOTICIAS",NOTICIAS | BBC WORLD NEWS  HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186804
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | FOX NEWS HD" tvg-logo="http://miarea.vip:8080/images/db1fae135e1fb3f7951b7c858c59cb91.png" group-title=" TV || NOTICIAS",NOTICIAS | FOX NEWS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186805
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CNN EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/c59c61eb0aabfafcb920f41341601c4e.png" group-title=" TV || NOTICIAS",NOTICIAS | CNN EN ESPANOL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186807
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | CNN ENGLISH HD" tvg-logo="http://miarea.vip:8080/images/57c6fd1ead5c64211481a7d3b1b95204.png" group-title=" TV || NOTICIAS",NOTICIAS | CNN ENGLISH HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186808
+#EXTINF:-1 tvg-id="0" tvg-name="NOTICIAS | FRANCE 24" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/NOTICIAS/FRANCE24.png" group-title=" TV || NOTICIAS",NOTICIAS | FRANCE 24
+http://fivetv.org:25461/joelsm0728/jsm284j/186809
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="TV || MEXICO",MX| CANAL 5
+http://fivetv.org:25461/joelsm0728/jsm284j/186810
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA 7 " tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="TV || MEXICO",MX| AZTECA 7 
+http://fivetv.org:25461/joelsm0728/jsm284j/186811
+#EXTINF:-1 tvg-id="" tvg-name="MX| GALA TV " tvg-logo="https://static.epg.best/mx/GalaTV9Nacional.mx.png" group-title="TV || MEXICO",MX| GALA TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/186812
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL ONCE " tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="TV || MEXICO",MX| CANAL ONCE 
+http://fivetv.org:25461/joelsm0728/jsm284j/186813
+#EXTINF:-1 tvg-id="" tvg-name="MX| INGENIO TV " tvg-logo="https://static.epg.best/mx/IngenioTV.mx.png" group-title="TV || MEXICO",MX| INGENIO TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/186814
+#EXTINF:-1 tvg-id="" tvg-name="CORAZON " tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2022/07/Corazon450x300-1.png" group-title="TV || NOVELAS",CORAZON 
+http://fivetv.org:25461/joelsm0728/jsm284j/186816
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA UNO FHD" tvg-logo="http://miarea.vip:8080/images/84e0ab67ae7f9c481f9beb65ee9bd821.png" group-title="TV || MEXICO",MX| AZTECA UNO FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186817
+#EXTINF:-1 tvg-id="" tvg-name="MX| AZTECA INTERACIONAL HD" tvg-logo="http://miarea.vip:8080/images/c5654575b4ff37f9637df3e04e86738d.png" group-title="TV || MEXICO",MX| AZTECA INTERACIONAL HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186818
+#EXTINF:-1 tvg-id="" tvg-name="MX| IMAGEN TV" tvg-logo="http://miarea.vip:8080/images/f8bc7bb05f3275b810bfe807df15e42c.png" group-title="TV || MEXICO",MX| IMAGEN TV
+http://fivetv.org:25461/joelsm0728/jsm284j/186819
+#EXTINF:-1 tvg-id="" tvg-name="Peru | GOL PERU " tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="TV || PERU",Peru | GOL PERU 
+http://fivetv.org:25461/joelsm0728/jsm284j/186821
+#EXTINF:-1 tvg-id="" tvg-name="Peru | America HD" tvg-logo="http://miarea.vip:8080/images/340038c94c7e83517f02e51ac9178a41.png" group-title="TV || PERU",Peru | America HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186822
+#EXTINF:-1 tvg-id="" tvg-name="Peru | WILLAX HD" tvg-logo="http://miarea.vip:8080/images/b77f4d51b347c625deb751ca1c5ee3b1.png" group-title="TV || PERU",Peru | WILLAX HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186824
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Latina HD " tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/0/d/csm_2037-205_import_29f99179b2.png" group-title="TV || PERU",Peru | Latina HD 
+http://fivetv.org:25461/joelsm0728/jsm284j/186825
+#EXTINF:-1 tvg-id="" tvg-name="Peru | ATV HD" tvg-logo="https://i.ibb.co/pBrx0cZ8/ATV.png" group-title="TV || PERU",Peru | ATV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186826
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Panamericana HD" tvg-logo="https://peru.mom-gmr.org/uploads/_processed_/e/9/csm_2121-205_company_import_c75b78ddfc.png" group-title="TV || PERU",Peru | Panamericana HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186827
+#EXTINF:-1 tvg-id="" tvg-name="Peru | IPE" tvg-logo="https://i.ibb.co/Wr203Z3/Tv-PE.png" group-title="TV || PERU",Peru | IPE
+http://fivetv.org:25461/joelsm0728/jsm284j/186828
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Peru Noticias" tvg-logo="https://i.ibb.co/5jTPW3C/TV-Per-Noticias-2019-logo.png" group-title="TV || PERU",Peru | Peru Noticias
+http://fivetv.org:25461/joelsm0728/jsm284j/186829
+#EXTINF:-1 tvg-id="" tvg-name="Peru | RPP" tvg-logo="https://i.ibb.co/Fbfy062/rpp.png" group-title="TV || PERU",Peru | RPP
+http://fivetv.org:25461/joelsm0728/jsm284j/186830
+#EXTINF:-1 tvg-id="" tvg-name="Peru | Tv Peru" tvg-logo="https://i.ibb.co/TWmHj8D/tvperu.png" group-title="TV || PERU",Peru | Tv Peru
+http://fivetv.org:25461/joelsm0728/jsm284j/186831
+#EXTINF:-1 tvg-id="" tvg-name="Peru | MOVISTAR DEPORTES" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="TV || PERU",Peru | MOVISTAR DEPORTES
+http://fivetv.org:25461/joelsm0728/jsm284j/186832
+#EXTINF:-1 tvg-id="" tvg-name="URU| VTV LOCAL FHD" tvg-logo="http://miarea.vip:8080/images/b83e0a7c39a2269a35077ef20174a3dc.png" group-title="TV || URUGUAY",URU| VTV LOCAL FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186833
+#EXTINF:-1 tvg-id="" tvg-name="URU| VTV PLUS HD*" tvg-logo="http://miarea.vip:8080/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV || URUGUAY",URU| VTV PLUS HD*
+http://fivetv.org:25461/joelsm0728/jsm284j/186834
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 4   HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="TV || URUGUAY",URU| CANAL 4   HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186835
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 12 MELO HD" tvg-logo="http://miarea.vip:8080/images/45c46c28d5979c91a321dd1a60c4322a.png" group-title="TV || URUGUAY",URU| CANAL 12 MELO HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186836
+#EXTINF:-1 tvg-id="" tvg-name="URU| LA TELE HD" tvg-logo="http://miarea.vip:8080/images/974485d5939c79970df85684ce18e17c.png" group-title="TV || URUGUAY",URU| LA TELE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186837
+#EXTINF:-1 tvg-id="" tvg-name="URU| CANAL 10 HD" tvg-logo="" group-title="TV || URUGUAY",URU| CANAL 10 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186838
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="https://static.epg.best/us/Pasiones.us.png" group-title="TV || NOVELAS",PASIONES HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186839
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS HD" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="TV || NOVELAS",RCN NOVELAS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186840
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT NOVELAS FHD" tvg-logo="https://i.ibb.co/nmRS2HX/tnt-novelas.png" group-title="TV || NOVELAS",TNT NOVELAS FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186841
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS ᴴᴰ" tvg-logo="https://i.ibb.co/R7JtZLF/ut.png" group-title="TV || NOVELAS",UNIVISION TELENOVELAS ᴴᴰ
+http://fivetv.org:25461/joelsm0728/jsm284j/186842
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13C " tvg-logo="https://static.epg.best/cl/13C.cl.png" group-title="TV || CHILE",CHILE | 13C 
+http://fivetv.org:25461/joelsm0728/jsm284j/186843
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN 24HORAS  " tvg-logo="https://static.epg.best/cl/TVN24.cl.png" group-title="TV || CHILE",CHILE | TVN 24HORAS  
+http://fivetv.org:25461/joelsm0728/jsm284j/186844
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 13 " tvg-logo="https://static.epg.best/cl/Canal13.cl.png" group-title="TV || CHILE",CHILE | CANAL 13 
+http://fivetv.org:25461/joelsm0728/jsm284j/186845
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CDO PREMIUM" tvg-logo="https://appnew.megainfoapp.com/files/1/CDO.png" group-title="TV || CHILE",CHILE | CDO PREMIUM
+http://fivetv.org:25461/joelsm0728/jsm284j/186847
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CHILEVISION" tvg-logo="https://static.epg.best/cl/Chilevision.cl.png" group-title="TV || CHILE",CHILE | CHILEVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/186848
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | MEGA " tvg-logo="https://static.epg.best/cl/Mega.cl.png" group-title="TV || CHILE",CHILE | MEGA 
+http://fivetv.org:25461/joelsm0728/jsm284j/186849
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN " tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="TV || CHILE",CHILE | TVN 
+http://fivetv.org:25461/joelsm0728/jsm284j/186850
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS por M+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="TV || ESPAÑA",#VAMOS por M+ FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186871
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://i.imgur.com/VaClDXL.png" group-title="TV || ESPAÑA",ANTENA 3 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186872
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="BEMAD TV FHD" tvg-logo="http://xtitan.xyz:2082/images/0310df15b9612f7a3229359524c8a66f.png" group-title="TV || ESPAÑA",BEMAD TV FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186873
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING" tvg-logo="http://dnslivetv.online:80/images/VHqT2bqeUhPA-ofL2RZHZnoumugZFgT25-oGhDmDr-8CvSWI2huCqnEXB70v45EG-ccqzOXV-hxrV70_H0DjXg.png" group-title="TV || ESPAÑA",BOING
+http://fivetv.org:25461/joelsm0728/jsm284j/186874
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="CANAL MALAGA" tvg-logo="" group-title="TV || ESPAÑA",CANAL MALAGA
+http://fivetv.org:25461/joelsm0728/jsm284j/186875
+#EXTINF:-1 tvg-id="Clan" tvg-name="CLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="TV || ESPAÑA",CLAN
+http://fivetv.org:25461/joelsm0728/jsm284j/186876
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TV || ESPAÑA",LA 2 SD
+http://fivetv.org:25461/joelsm0728/jsm284j/186877
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://i.imgur.com/NPGAvjT.png" group-title="TV || ESPAÑA",LA SEXTA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186878
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEGA.png" group-title="TV || ESPAÑA",MEGA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186879
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="MUNDO TOROS TV FHD" tvg-logo="https://i.ibb.co/VWKVHvb/logo-mundotoro-797.png" group-title="TV || ESPAÑA",MUNDO TOROS TV FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/186880
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA HD" tvg-logo="" group-title="TV || ESPAÑA",NOVA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186881
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO HD" tvg-logo="http://xtitan.xyz:2082/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="TV || ESPAÑA",TELECINCO HD
+http://fivetv.org:25461/joelsm0728/jsm284j/186882
+#EXTINF:-1 tvg-id="833mvstr.cl" tvg-name="TVE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="TV || ESPAÑA",TVE INTERNACIONAL
+http://fivetv.org:25461/joelsm0728/jsm284j/186883
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | GALAVISION MIAMI" tvg-logo="https://i.ibb.co/Q8TCJT7/galavision.png" group-title="TV || ENTRETENIMIENTO",ENTRE | GALAVISION MIAMI
+http://fivetv.org:25461/joelsm0728/jsm284j/186901
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO MIAMI" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO MIAMI
+http://fivetv.org:25461/joelsm0728/jsm284j/186902
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO SAN FRANCISCO" tvg-logo="http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO SAN FRANCISCO
+http://fivetv.org:25461/joelsm0728/jsm284j/186903
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | TELEMUNDO NEW YORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="TV || ENTRETENIMIENTO",ENTRE | TELEMUNDO NEW YORK
+http://fivetv.org:25461/joelsm0728/jsm284j/186904
+#EXTINF:-1 tvg-id="0" tvg-name="ENTRE | UNIVISION CHICAGO" tvg-logo="https://i.ibb.co/SyDf5Lw/Univision-Chicago-200-px.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION CHICAGO
+http://fivetv.org:25461/joelsm0728/jsm284j/186905
+
+#EXTINF:-1 tvg-id="0601" tvg-name="DISCOVERY HOME & HEALTH (LAT)" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="TV || DOCUMENTALES",DISCOVERY HOME & HEALTH (LAT)
+http://fivetv.org:25461/joelsm0728/jsm284j/186991
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY HOME AND HEALTH (MEX)" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="TV || DOCUMENTALES",DISCOVERY HOME AND HEALTH (MEX)
+http://fivetv.org:25461/joelsm0728/jsm284j/186992
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | UNIVISION MIAMI" tvg-logo="https://i.ibb.co/W33Cxwv/Univisionmiami.png" group-title="TV || ENTRETENIMIENTO",ENTRE | UNIVISION MIAMI
+http://fivetv.org:25461/joelsm0728/jsm284j/186993
+#EXTINF:-1 tvg-id="" tvg-name="COL | CNC MEDELLIN" tvg-logo="https://canalcncmedellin.com/wp-content/uploads/2023/10/Logo-Canal-CNC-Barra-2.png" group-title="TV || COLOMBIA",COL | CNC MEDELLIN
+http://fivetv.org:25461/joelsm0728/jsm284j/187001
+#EXTINF:-1 tvg-id="" tvg-name="COL | CALITV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV || COLOMBIA",COL | CALITV
+http://fivetv.org:25461/joelsm0728/jsm284j/187002
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 2 CALI" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="TV || COLOMBIA",COL | CANAL 2 CALI
+http://fivetv.org:25461/joelsm0728/jsm284j/187003
+#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL 8 TV+" tvg-logo="https://i.ibb.co/TMSj2Kd/88-m3u.png" group-title="TV || COLOMBIA",COL | CANAL 8 TV+
+http://fivetv.org:25461/joelsm0728/jsm284j/187004
+#EXTINF:-1 tvg-id="" tvg-name="COL | MULTICANAL" tvg-logo="https://multicanaltvcali.com/wp-content/uploads/2018/07/multicanal.png" group-title="TV || COLOMBIA",COL | MULTICANAL
+http://fivetv.org:25461/joelsm0728/jsm284j/187006
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEMEDELLIN" tvg-logo="https://i.ibb.co/HgmVynZ/tm.png" group-title="TV || COLOMBIA",COL | TELEMEDELLIN
+http://fivetv.org:25461/joelsm0728/jsm284j/187030
+#EXTINF:-1 tvg-id="" tvg-name="COL | TU KANAL" tvg-logo="https://tukanal.tv/wp-content/uploads/2023/02/logo-tukanal1-768x293.png" group-title="TV || COLOMBIA",COL | TU KANAL
+http://fivetv.org:25461/joelsm0728/jsm284j/187031
+#EXTINF:-1 tvg-id="0" tvg-name="Prensa Latina TV " tvg-logo="https://www.prensa-latina.cu/wp-content/uploads/2021/05/nombre-generico-prensa-latina-384x155.png" group-title="TV || CUBA",Prensa Latina TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/187034
+#EXTINF:-1 tvg-id="0" tvg-name="Radio y Televisión Martí " tvg-logo="https://i.ibb.co/5v9FN41/marti.png" group-title="TV || CUBA",Radio y Televisión Martí 
+http://fivetv.org:25461/joelsm0728/jsm284j/187035
+#EXTINF:-1 tvg-id="0" tvg-name="Buena TV" tvg-logo="" group-title="TV || PUERTO RICO",Buena TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187036
+#EXTINF:-1 tvg-id="0" tvg-name="DNJ TV" tvg-logo="" group-title="TV || PUERTO RICO",DNJ TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187037
+#EXTINF:-1 tvg-id="0" tvg-name="Noti Uno Puerto Rico" tvg-logo="" group-title="TV || PUERTO RICO",Noti Uno Puerto Rico
+http://fivetv.org:25461/joelsm0728/jsm284j/187038
+#EXTINF:-1 tvg-id="0" tvg-name="Radio Isla TV" tvg-logo="" group-title="TV || PUERTO RICO",Radio Isla TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187039
+#EXTINF:-1 tvg-id="0" tvg-name="Telenorte" tvg-logo="" group-title="TV || PUERTO RICO",Telenorte
+http://fivetv.org:25461/joelsm0728/jsm284j/187040
+#EXTINF:-1 tvg-id="0" tvg-name="TeleOnce" tvg-logo="" group-title="TV || PUERTO RICO",TeleOnce
+http://fivetv.org:25461/joelsm0728/jsm284j/187041
+#EXTINF:-1 tvg-id="0" tvg-name="The Retro Channel" tvg-logo="" group-title="TV || PUERTO RICO",The Retro Channel
+http://fivetv.org:25461/joelsm0728/jsm284j/187042
+#EXTINF:-1 tvg-id="0" tvg-name="WAPA-TV" tvg-logo="" group-title="TV || PUERTO RICO",WAPA-TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187043
+#EXTINF:-1 tvg-id="0" tvg-name="WAPA-DT2 (WAPA Deportes)" tvg-logo="" group-title="TV || PUERTO RICO",WAPA-DT2 (WAPA Deportes)
+http://fivetv.org:25461/joelsm0728/jsm284j/187044
+#EXTINF:-1 tvg-id="0" tvg-name="WIPR" tvg-logo="" group-title="TV || PUERTO RICO",WIPR
+http://fivetv.org:25461/joelsm0728/jsm284j/187045
+#EXTINF:-1 tvg-id="0" tvg-name="WWXY-DT1 (Boricua TV)" tvg-logo="" group-title="TV || PUERTO RICO",WWXY-DT1 (Boricua TV)
+http://fivetv.org:25461/joelsm0728/jsm284j/187047
+#EXTINF:-1 tvg-id="0" tvg-name="MásTV Canal 23" tvg-logo="" group-title="TV || PUERTO RICO",MásTV Canal 23
+http://fivetv.org:25461/joelsm0728/jsm284j/187048
+#EXTINF:-1 tvg-id="0" tvg-name="WJPX-DT1" tvg-logo="" group-title="TV || PUERTO RICO",WJPX-DT1
+http://fivetv.org:25461/joelsm0728/jsm284j/187049
+#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="ECUADOR | TC TELEVISION" tvg-logo="https://i.ibb.co/CP3FsZL/TC.png" group-title="TV || ECUADOR",ECUADOR | TC TELEVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/187050
+#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="ECUADOR | TC TELEVISION HD" tvg-logo="https://i.ibb.co/CP3FsZL/TC.png" group-title="TV || ECUADOR",ECUADOR | TC TELEVISION HD
+http://fivetv.org:25461/joelsm0728/jsm284j/187051
+#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="ECUADOR | TC TELEVISION SD" tvg-logo="https://i.ibb.co/CP3FsZL/TC.png" group-title="TV || ECUADOR",ECUADOR | TC TELEVISION SD
+http://fivetv.org:25461/joelsm0728/jsm284j/187052
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="ECUADOR | ECUAVISA" tvg-logo="https://i.ibb.co/0DpQ2vM/ecuavisa-costa.png" group-title="TV || ECUADOR",ECUADOR | ECUAVISA
+http://fivetv.org:25461/joelsm0728/jsm284j/187053
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="ECUADOR | ECUAVISA HD" tvg-logo="https://i.ibb.co/0DpQ2vM/ecuavisa-costa.png" group-title="TV || ECUADOR",ECUADOR | ECUAVISA HD
+http://fivetv.org:25461/joelsm0728/jsm284j/187054
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="ECUADOR | ECUAVISA FHD" tvg-logo="https://i.ibb.co/qspZYRT/ecuavisa-sierra.png" group-title="TV || ECUADOR",ECUADOR | ECUAVISA FHD
+http://fivetv.org:25461/joelsm0728/jsm284j/187055
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="ECUADOR | TELEAMAZONAS" tvg-logo="https://i.ibb.co/LvCDDqq/teleamazonas.png" group-title="TV || ECUADOR",ECUADOR | TELEAMAZONAS
+http://fivetv.org:25461/joelsm0728/jsm284j/187056
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="ECUADOR | TELEAMAZONAS HD" tvg-logo="https://i.ibb.co/LvCDDqq/teleamazonas.png" group-title="TV || ECUADOR",ECUADOR | TELEAMAZONAS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/187057
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="ECUADOR | TELEAMAZONAS SD" tvg-logo="https://i.ibb.co/LvCDDqq/teleamazonas.png" group-title="TV || ECUADOR",ECUADOR | TELEAMAZONAS SD
+http://fivetv.org:25461/joelsm0728/jsm284j/187058
+#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="ECUADOR | RTS" tvg-logo="https://i.ibb.co/3MHxDbB/rts.png" group-title="TV || ECUADOR",ECUADOR | RTS
+http://fivetv.org:25461/joelsm0728/jsm284j/187059
+#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="ECUADOR | RTS HD*" tvg-logo="https://i.ibb.co/3MHxDbB/rts.png" group-title="TV || ECUADOR",ECUADOR | RTS HD*
+http://fivetv.org:25461/joelsm0728/jsm284j/187060
+#EXTINF:-1 tvg-id="TVC.Ec" tvg-name="ECUADOR | TVC TELEVICENTRO" tvg-logo="https://i.ibb.co/KD3LYvn/tvc.png" group-title="TV || ECUADOR",ECUADOR | TVC TELEVICENTRO
+http://fivetv.org:25461/joelsm0728/jsm284j/187061
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TVC TELEVICENTRO HD" tvg-logo="https://i.ibb.co/KD3LYvn/tvc.png" group-title="TV || ECUADOR",ECUADOR | TVC TELEVICENTRO HD
+http://fivetv.org:25461/joelsm0728/jsm284j/187062
+#EXTINF:-1 tvg-id="OROMAR" tvg-name="ECUADOR | OROMAR TV" tvg-logo="https://i.ibb.co/Wxzs0Tp/oromar.png" group-title="TV || ECUADOR",ECUADOR | OROMAR TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187063
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | OROMAR TV HD" tvg-logo="https://i.ibb.co/Wxzs0Tp/oromar.png" group-title="TV || ECUADOR",ECUADOR | OROMAR TV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/187064
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GAMAVISION" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ECUADOR/GAMAVISION.png" group-title="TV || ECUADOR",ECUADOR | GAMAVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/187065
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="TV || ECUADOR",ECUADOR | ECUADOR TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187066
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="TV || ECUADOR",ECUADOR | CANAL UNO
+http://fivetv.org:25461/joelsm0728/jsm284j/187067
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELERAMA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="TV || ECUADOR",ECUADOR | TELERAMA 
+http://fivetv.org:25461/joelsm0728/jsm284j/187068
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTU" tvg-logo="https://i.ibb.co/r4HBvd4/Rtu.png" group-title="TV || ECUADOR",ECUADOR | RTU
+http://fivetv.org:25461/joelsm0728/jsm284j/187069
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | LA REDONDA TV" tvg-logo="https://i.ibb.co/yXPbVkZ/redonda.png" group-title="TV || ECUADOR",ECUADOR | LA REDONDA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187070
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MANAVISION" tvg-logo="https://i.ibb.co/DWTjCc1/MANAVISION.png" group-title="TV || ECUADOR",ECUADOR | MANAVISION
+http://fivetv.org:25461/joelsm0728/jsm284j/187071
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | EDUCA" tvg-logo="https://i.ibb.co/Wz175Jp/educa.png" group-title="TV || ECUADOR",ECUADOR | EDUCA
+http://fivetv.org:25461/joelsm0728/jsm284j/187080
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (QUITO)*" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (QUITO)*
+http://fivetv.org:25461/joelsm0728/jsm284j/187083
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (GUAYAQUIL) *" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (GUAYAQUIL) *
+http://fivetv.org:25461/joelsm0728/jsm284j/187084
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (IBARRA)*" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (IBARRA)*
+http://fivetv.org:25461/joelsm0728/jsm284j/187085
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AMERICA TV (TULCAN)*" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="TV || ECUADOR",ECUADOR | AMERICA TV (TULCAN)*
+http://fivetv.org:25461/joelsm0728/jsm284j/187086
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ANTENA UNO RADIO VIDEO*" tvg-logo="https://cdn-profiles.tunein.com/s124276/images/logog.png" group-title="TV || ECUADOR",ECUADOR | ANTENA UNO RADIO VIDEO*
+http://fivetv.org:25461/joelsm0728/jsm284j/187087
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | AUSTRAL TV*" tvg-logo="https://www.australtv.com/wp-content/uploads/2022/07/Austral-tv-2048x1400.png" group-title="TV || ECUADOR",ECUADOR | AUSTRAL TV*
+http://fivetv.org:25461/joelsm0728/jsm284j/187088
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECOTEL TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Ecotel-TV-en-vivo-Online.png" group-title="TV || ECUADOR",ECUADOR | ECOTEL TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187089
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECUASTEREO TV" tvg-logo="https://ecuastereo.com/wp-content/uploads/2021/08/logoecuastereo-e1679012091684.png" group-title="TV || ECUADOR",ECUADOR | ECUASTEREO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187090
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | EL SOL RADIO Y TV " tvg-logo="http://www.elsolradiotv.com/wp-content/uploads/2021/07/cropped-cropped-EL-SOL-LOGO.png2_Mesa-de-trabajo-1_Mesa-de-trabajo-1.png" group-title="TV || ECUADOR",ECUADOR | EL SOL RADIO Y TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/187091
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | FRECUENCIA MUSICAL TV " tvg-logo="https://i.ibb.co/Jkzb31Z/FRECUENCIA-MUSICAL.png" group-title="TV || ECUADOR",ECUADOR | FRECUENCIA MUSICAL TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/187092
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | FM MUNDO 98.1" tvg-logo="https://fmmundo.com/wp-content/uploads/2022/04/Logo-Fm-Mundo-radio-copy.png" group-title="TV || ECUADOR",ECUADOR | FM MUNDO 98.1
+http://fivetv.org:25461/joelsm0728/jsm284j/187093
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | HECHOS" tvg-logo="https://i.ibb.co/5WXbRSW/3-Logo-Hechos-Nuevo2.png" group-title="TV || ECUADOR",ECUADOR | HECHOS
+http://fivetv.org:25461/joelsm0728/jsm284j/187094
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | INFINITA TV " tvg-logo="https://i.ibb.co/GF1QpWc/INFINITA.png" group-title="TV || ECUADOR",ECUADOR | INFINITA TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/187095
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | LA DOLOROSA RADIO " tvg-logo="https://i.ibb.co/0c1Zv5S/la-dolorosa.png" group-title="TV || ECUADOR",ECUADOR | LA DOLOROSA RADIO 
+http://fivetv.org:25461/joelsm0728/jsm284j/187096
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PLUS TV" tvg-logo="https://i.ibb.co/R0pxwxF/Plus-tv.png" group-title="TV || ECUADOR",ECUADOR | PLUS TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187097
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CORAPE DIGITAL TV" tvg-logo="https://digitaltv.corape.org.ec/wp-content/uploads/2022/05/corapetv_Mesa-de-trabajo-1.png" group-title="TV || ECUADOR",ECUADOR | CORAPE DIGITAL TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187098
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MAJESTAD TV (Santo Domingo)" tvg-logo="https://i.ibb.co/Fw8rSjn/majestad.png" group-title="TV || ECUADOR",ECUADOR | MAJESTAD TV (Santo Domingo)
+http://fivetv.org:25461/joelsm0728/jsm284j/187099
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO FANTASTICA 98.9" tvg-logo="https://i.ibb.co/pK6CWhX/fantastica.png" group-title="TV || ECUADOR",ECUADOR | RADIO FANTASTICA 98.9
+http://fivetv.org:25461/joelsm0728/jsm284j/187100
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | MULTICANAL CATAMAYO " tvg-logo="https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png" group-title="TV || ECUADOR",ECUADOR | MULTICANAL CATAMAYO 
+http://fivetv.org:25461/joelsm0728/jsm284j/187101
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | NORTVISION " tvg-logo="https://i.ibb.co/pzYrtK6/NORVISION.jpg" group-title="TV || ECUADOR",ECUADOR | NORTVISION 
+http://fivetv.org:25461/joelsm0728/jsm284j/187102
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ÑUKA TV" tvg-logo="https://www.nukatv.com/images/tvnuka/LOGO-nUKA-TV.png" group-title="TV || ECUADOR",ECUADOR | ÑUKA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187103
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CANAL DEL RIO" tvg-logo="https://i.ibb.co/3BJ342q/Canal-del-rio.png" group-title="TV || ECUADOR",ECUADOR | CANAL DEL RIO
+http://fivetv.org:25461/joelsm0728/jsm284j/187104
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO ALEGRIA" tvg-logo="https://i0.wp.com/radioalegriafm.com/wp-content/uploads/2021/01/logo.png" group-title="TV || ECUADOR",ECUADOR | RADIO ALEGRIA
+http://fivetv.org:25461/joelsm0728/jsm284j/187105
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO CUENCA ESTEREO " tvg-logo="https://i.ibb.co/jGXWS3s/cUENCA.png" group-title="TV || ECUADOR",ECUADOR | RADIO CUENCA ESTEREO 
+http://fivetv.org:25461/joelsm0728/jsm284j/187106
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | LA PIPOL TV" tvg-logo="https://i.ibb.co/YX1zyhy/PIPOL.png" group-title="TV || ECUADOR",ECUADOR | LA PIPOL TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187107
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO METROPOLITANA " tvg-logo="https://i.ibb.co/y041MgS/m-ETROPOLITANA.png" group-title="TV || ECUADOR",ECUADOR | RADIO METROPOLITANA 
+http://fivetv.org:25461/joelsm0728/jsm284j/187108
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO MG STEREO" tvg-logo="https://i.postimg.cc/prN6Gm6b/mg-png.png" group-title="TV || ECUADOR",ECUADOR | RADIO MG STEREO
+http://fivetv.org:25461/joelsm0728/jsm284j/187109
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RADIO TV PJ " tvg-logo="https://i.ibb.co/pJkWrvP/PJ-TV.jpg" group-title="TV || ECUADOR",ECUADOR | RADIO TV PJ 
+http://fivetv.org:25461/joelsm0728/jsm284j/187110
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RIOBAMBA CITY RADIO TV" tvg-logo="https://i.ibb.co/QMN9SSY/RIOBAMBA.png" group-title="TV || ECUADOR",ECUADOR | RIOBAMBA CITY RADIO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187111
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTV (Riobamba)" tvg-logo="https://i.ibb.co/nfBdSXv/rtv.png" group-title="TV || ECUADOR",ECUADOR | RTV (Riobamba)
+http://fivetv.org:25461/joelsm0728/jsm284j/187112
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SCANDALO TV" tvg-logo="https://scandalotv.com/wp-content/uploads/2022/10/cropped-ISO-STV-01-1.jpg" group-title="TV || ECUADOR",ECUADOR | SCANDALO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187113
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SEÑAL POSITIVA" tvg-logo="https://senalpositiva.com/wp-content/uploads/2021/02/logo-nuevo.png" group-title="TV || ECUADOR",ECUADOR | SEÑAL POSITIVA
+http://fivetv.org:25461/joelsm0728/jsm284j/187114
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SONO ONDA" tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-cropped-cropped-cropped-215853981_1495774530757901_6841612693650402946_n.png" group-title="TV || ECUADOR",ECUADOR | SONO ONDA
+http://fivetv.org:25461/joelsm0728/jsm284j/187115
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SPLENDIDA (ALAUSI) " tvg-logo="https://i.ibb.co/ssktdKW/Splendida.png" group-title="TV || ECUADOR",ECUADOR | SPLENDIDA (ALAUSI) 
+http://fivetv.org:25461/joelsm0728/jsm284j/187116
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | SUBLIME RTV (Mejia)" tvg-logo="https://sublimertv.com/sol/wp-content/uploads/2024/07/logoWeb200.png" group-title="TV || ECUADOR",ECUADOR | SUBLIME RTV (Mejia)
+http://fivetv.org:25461/joelsm0728/jsm284j/187117
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TELEVISION PURUWA HD " tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="TV || ECUADOR",ECUADOR | TELEVISION PURUWA HD 
+http://fivetv.org:25461/joelsm0728/jsm284j/187118
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TU CANCHA" tvg-logo="https://i.ibb.co/5jTqh0L/CANCHA.jpg" group-title="TV || ECUADOR",ECUADOR | TU CANCHA
+http://fivetv.org:25461/joelsm0728/jsm284j/187119
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | CURIQUINGUE TV" tvg-logo="https://i.imgur.com/oukGx28.png" group-title="TV || ECUADOR",ECUADOR | CURIQUINGUE TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187120
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TV COLOR (Latacunga) " tvg-logo="https://i.ibb.co/X5R6r5K/tv-color.png" group-title="TV || ECUADOR",ECUADOR | TV COLOR (Latacunga) 
+http://fivetv.org:25461/joelsm0728/jsm284j/187121
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | VOS & TV " tvg-logo="https://image.roku.com/developer_channels/prod/bc933d697863b482a1e1fa97a89d5989725faa476070e7762467eb4cc2674a8a.png" group-title="TV || ECUADOR",ECUADOR | VOS & TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/187122
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | WUAN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Wuan%2B_logo.png" group-title="TV || ECUADOR",ECUADOR | WUAN+
+http://fivetv.org:25461/joelsm0728/jsm284j/187123
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ZARACAY TV" tvg-logo="https://image.roku.com/developer_channels/prod/dba9268371f13e2e9f08e6dbf96d01a01edaf5d096949bd00c8cefc22151bc89.png" group-title="TV || ECUADOR",ECUADOR | ZARACAY TV
+http://fivetv.org:25461/joelsm0728/jsm284j/187124
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE | HGTV" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ENTRETENIMIENTOS/HGTV.png" group-title="TV || ENTRETENIMIENTO",ENTRE | HGTV
+http://fivetv.org:25461/joelsm0728/jsm284j/187125
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 ENTRETENCION" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="TV || CHILE",CHILE | 13 ENTRETENCION
+http://fivetv.org:25461/joelsm0728/jsm284j/187258
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 FESTIVAL" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="TV || CHILE",CHILE | 13 FESTIVAL
+http://fivetv.org:25461/joelsm0728/jsm284j/187259
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 HUMOR" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="TV || CHILE",CHILE | 13 HUMOR
+http://fivetv.org:25461/joelsm0728/jsm284j/187260
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 PRIME" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="TV || CHILE",CHILE | 13 PRIME
+http://fivetv.org:25461/joelsm0728/jsm284j/187262
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 REALITIES" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="TV || CHILE",CHILE | 13 REALITIES
+http://fivetv.org:25461/joelsm0728/jsm284j/187263
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 13 TELESERIES" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="TV || CHILE",CHILE | 13 TELESERIES
+http://fivetv.org:25461/joelsm0728/jsm284j/187264
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (LAT)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="TV || INFANTIL",CARTOON NETWORK (LAT)
+http://fivetv.org:25461/joelsm0728/jsm284j/187265
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (LAT)" tvg-logo="https://i.ibb.co/QJPFN2P/cartoonito.png" group-title="TV || INFANTIL",CARTOONITO (LAT)
+http://fivetv.org:25461/joelsm0728/jsm284j/187267
+#EXTINF:-1 tvg-id="34879" tvg-name="PREMIUM | HBO FAMILY" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | HBO FAMILY
+http://fivetv.org:25461/joelsm0728/jsm284j/187565
+#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIA" tvg-logo="https://sony-canal.com/themes/custom/responsive_sony_channel/logo.png" group-title="TV || CINE Y SERIES",SONY COMEDIA
+http://fivetv.org:25461/joelsm0728/jsm284j/188810
+#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="https://i.ibb.co/238xDh4/SONY-NOVELAS.png" group-title="TV || NOVELAS",SONY NOVELAS
+http://fivetv.org:25461/joelsm0728/jsm284j/188811
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | DURAN TV" tvg-logo="https://i.ibb.co/FsTdsTz/duran.png" group-title="TV || ECUADOR",ECUADOR | DURAN TV
+http://fivetv.org:25461/joelsm0728/jsm284j/188840
+#EXTINF:-1 tvg-id="" tvg-name="BABYFIRST" tvg-logo="https://i.ibb.co/xH8KR8C/babyfirts.png" group-title="TV || INFANTIL",BABYFIRST
+http://fivetv.org:25461/joelsm0728/jsm284j/188841
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="PREMIUM | PARAMOUNT" tvg-logo="http://miarea.vip:8080/images/c6e4c7cd969b554647e613d820e2abbd.png" group-title="TV || PREMIUM CHANNELS",PREMIUM | PARAMOUNT
+http://fivetv.org:25461/joelsm0728/jsm284j/188847
+#EXTINF:-1 tvg-id="" tvg-name="HOND| AZTECA HONDURAS HD" tvg-logo="http://miarea.vip:8080/images/0b1a6fc76f16b4dff3d5a7f489dfac82.png" group-title="TV || HONDURAS",HOND| AZTECA HONDURAS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/189744
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TIGO SPORTS ᴴᴰ" tvg-logo="http://miarea.vip:8080/images/ccf6d22fc26285238508588ca5bd8f8e.png" group-title="TV || HONDURAS",HOND| TIGO SPORTS ᴴᴰ
+http://fivetv.org:25461/joelsm0728/jsm284j/189745
+#EXTINF:-1 tvg-id="" tvg-name="HOND| CANAL 5 HD" tvg-logo="http://miarea.vip:8080/images/62b45420a109f97a8c1577d12b4bd65f.png" group-title="TV || HONDURAS",HOND| CANAL 5 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/189747
+#EXTINF:-1 tvg-id="" tvg-name="HOND| CANAL 6 " tvg-logo="http://miarea.vip:8080/images/541195d2c75ff8501f295d453b9ff116.png" group-title="TV || HONDURAS",HOND| CANAL 6 
+http://fivetv.org:25461/joelsm0728/jsm284j/189748
+#EXTINF:-1 tvg-id="" tvg-name="HOND| CANAL 11 HD" tvg-logo="http://miarea.vip:8080/images/8fb4c360aae25a72bbfe9049d20c782d.png" group-title="TV || HONDURAS",HOND| CANAL 11 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/189750
+#EXTINF:-1 tvg-id="" tvg-name="HOND| 45 TV" tvg-logo="http://miarea.vip:8080/images/a5e990548ed2bd12867f5072a9b0f89c.png" group-title="TV || HONDURAS",HOND| 45 TV
+http://fivetv.org:25461/joelsm0728/jsm284j/189751
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TODO DEPORTES HD" tvg-logo="http://miarea.vip:8080/images/f7bd097898771ccf6115f344b1cd0429.png" group-title="TV || HONDURAS",HOND| TODO DEPORTES HD
+http://fivetv.org:25461/joelsm0728/jsm284j/189752
+#EXTINF:-1 tvg-id="" tvg-name="HOND| TVC HONDURAS HD" tvg-logo="http://miarea.vip:8080/images/9dd6b7420515c0b8154974ca876ae8e2.png" group-title="TV || HONDURAS",HOND| TVC HONDURAS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/189754
+#EXTINF:-1 tvg-id="" tvg-name="HOND| GIRASOL TV" tvg-logo="https://girasolradiotvhn.com/wp-content/uploads/2020/10/canal-girasoltv-logo.png" group-title="TV || HONDURAS",HOND| GIRASOL TV
+http://fivetv.org:25461/joelsm0728/jsm284j/189756
+#EXTINF:-1 tvg-id="" tvg-name="HOND| CANAL 23 HD" tvg-logo="http://miarea.vip:8080/images/ae9ca9ceb3ce18a8ac01066d9e3bfd7a.png" group-title="TV || HONDURAS",HOND| CANAL 23 HD
+http://fivetv.org:25461/joelsm0728/jsm284j/189757
+#EXTINF:-1 tvg-id="" tvg-name="HOND| EBENEZER TV" tvg-logo="http://miarea.vip:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="TV || HONDURAS",HOND| EBENEZER TV
+http://fivetv.org:25461/joelsm0728/jsm284j/189758
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png" group-title="TV || CINE Y SERIES",DE PELICULA PLUS
+http://fivetv.org:25461/joelsm0728/jsm284j/189810
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.ibb.co/dtyzLd6/Logotipo-da-Globo-News.png" group-title="TV || BRASIL",GLOBO NEWS HD
+http://fivetv.org:25461/joelsm0728/jsm284j/190917
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="http://miarea.vip:8080/images/6d3f65b082e7e4c09f5eefbc9982c276.png" group-title="TV || BRASIL",GLOBO SP HD
+http://fivetv.org:25461/joelsm0728/jsm284j/190918
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/1200px-SBT_logo.png" group-title="TV || BRASIL",SBT
+http://fivetv.org:25461/joelsm0728/jsm284j/190919
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="http://miarea.vip:8080/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="TV || CINE Y SERIES",CINE LATINO
+http://fivetv.org:25461/joelsm0728/jsm284j/191821
+#EXTINF:-1 tvg-id="" tvg-name="RELIGION  | ENLACE HD" tvg-logo="https://i.ibb.co/6FPhC8Z/ENLACE.jpg" group-title="TV || RELIGION",RELIGION  | ENLACE HD
+http://fivetv.org:25461/joelsm0728/jsm284j/195304
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV" tvg-logo="https://i.ibb.co/7S3s2w3/LOGO-RETRO-TV-ONLINE-NUEVO.png" group-title="TV || CINE Y SERIES",RETRO TV
+http://fivetv.org:25461/joelsm0728/jsm284j/196959
+#EXTINF:-1 tvg-id="" tvg-name="RETROX TV" tvg-logo="https://i.ibb.co/SmwycbM/RETROX.png" group-title="TV || CINE Y SERIES",RETROX TV
+http://fivetv.org:25461/joelsm0728/jsm284j/196960
+#EXTINF:-1 tvg-id="" tvg-name="FDF HD" tvg-logo="https://i.ibb.co/9bLn724/Fdf.png" group-title="TV || ESPAÑA",FDF HD
+http://fivetv.org:25461/joelsm0728/jsm284j/197026
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine HD" tvg-logo="http://miarea.vip:8080/images/276f2d0c63b27c9605a6863cd9146980.png" group-title="TV || CINE Y SERIES",Ultra Cine HD
+http://fivetv.org:25461/joelsm0728/jsm284j/226539
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico HD" tvg-logo="http://miarea.vip:8080/images/d80a12df734b69198a6a1f45a7c4eac6.png" group-title="TV || CINE Y SERIES",Ultra Clasico HD
+http://fivetv.org:25461/joelsm0728/jsm284j/226540
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Docu HD" tvg-logo="http://miarea.vip:8080/images/1e10ab86627913d8678af0fc68e0f50b.png" group-title="TV || DOCUMENTALES",Ultra Docu HD
+http://fivetv.org:25461/joelsm0728/jsm284j/226541
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia HD" tvg-logo="http://miarea.vip:8080/images/abc47a0170f42ff8fccfee4b2c641bae.png" group-title="TV || CINE Y SERIES",Ultra Familia HD
+http://fivetv.org:25461/joelsm0728/jsm284j/226542
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kidz HD" tvg-logo="http://miarea.vip:8080/images/1315c18ae353d5e757737e8b1785a302.png" group-title="TV || INFANTIL",Ultra Kidz HD
+http://fivetv.org:25461/joelsm0728/jsm284j/226543
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho HD" tvg-logo="http://miarea.vip:8080/images/aedd7b3ebaebbf3dcd79734685a37385.png" group-title="TV || CINE Y SERIES",Ultra Macho HD
+http://fivetv.org:25461/joelsm0728/jsm284j/226544
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex HD" tvg-logo="http://miarea.vip:8080/images/a6085afb09acfeaf1eeb3813b0c9e89f.png" group-title="TV || CINE Y SERIES",Ultra Mex HD
+http://fivetv.org:25461/joelsm0728/jsm284j/226545
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://i.ibb.co/1THgyhf/real.png" group-title="TV || DEPORTES EUROPA",REAL MADRID TV
+http://fivetv.org:25461/joelsm0728/jsm284j/249485
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TU RADIO" tvg-logo="https://turadioec.com/wp-content/uploads/2022/02/TU-1024x1024.png" group-title="TV || ECUADOR",ECUADOR | TU RADIO
+http://fivetv.org:25461/joelsm0728/jsm284j/250306
+#EXTINF:-1 tvg-id="" tvg-name="CINE MEXICANO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="TV || CINE Y SERIES",CINE MEXICANO
+http://fivetv.org:25461/joelsm0728/jsm284j/250699
+
+#EXTINF:-1 tvg-id="" tvg-name="MAX ANIME" tvg-logo="https://esportsmaxtele.com/wp-content/uploads/2024/02/Max-anime-logo-1.png" group-title="TV || INFANTIL",MAX ANIME
+http://fivetv.org:25461/joelsm0728/jsm284j/282476
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PASION TV DIGITAL" tvg-logo="https://i.ibb.co/NmxK7Cj/Pasion-Tv-Digital.png" group-title="TV || ECUADOR",ECUADOR | PASION TV DIGITAL
+http://fivetv.org:25461/joelsm0728/jsm284j/282562
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | UNIANDES RADIO TV*" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="TV || ECUADOR",ECUADOR | UNIANDES RADIO TV*
+http://fivetv.org:25461/joelsm0728/jsm284j/285493
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | LA PERLA TV" tvg-logo="https://i.ibb.co/2vT4b0t/PERLA.png" group-title="TV || ECUADOR",ECUADOR | LA PERLA TV
+http://fivetv.org:25461/joelsm0728/jsm284j/285494
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECDF*" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ECUADOR/ECDF.png" group-title="TV || ECUADOR",ECUADOR | ECDF*
+http://fivetv.org:25461/joelsm0728/jsm284j/187081
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | ECDF" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/ECUADOR/ECDF.png" group-title="TV || ECUADOR",ECUADOR | ECDF
+http://fivetv.org:25461/joelsm0728/jsm284j/187082
+#EXTINF:-1 tvg-id="" tvg-name="RALLY TV" tvg-logo="https://i.ibb.co/W0x5Q3Y/rally.png" group-title="TV || DEPORTES",RALLY TV
+http://fivetv.org:25461/joelsm0728/jsm284j/287214
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| SER TV HD" tvg-logo="http://miarea.vip:8080/images/0286094a800fb5397932fae2165f4251.png" group-title="TV || PANAMA",PANAMA| SER TV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/296098
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| ECO TV HD" tvg-logo="https://i.ibb.co/B3Q85VL/eco.png" group-title="TV || PANAMA",PANAMA| ECO TV HD
+http://fivetv.org:25461/joelsm0728/jsm284j/296099
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| MAS23 TV" tvg-logo="https://mas23tv.com/wp-content/uploads/2020/02/logomas23.png" group-title="TV || PANAMA",PANAMA| MAS23 TV
+http://fivetv.org:25461/joelsm0728/jsm284j/296100
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| RADIO ANCON" tvg-logo="https://i.ibb.co/vcb11Yt/Radio-Ancon.png" group-title="TV || PANAMA",PANAMA| RADIO ANCON
+http://fivetv.org:25461/joelsm0728/jsm284j/296101
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TIGO SPORTS PANAMA" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="TV || PANAMA",PANAMA| TIGO SPORTS PANAMA
+http://fivetv.org:25461/joelsm0728/jsm284j/296102
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="TV || ARGENTINA",NET TV
+http://fivetv.org:25461/joelsm0728/jsm284j/296484
+#EXTINF:-1 tvg-id="" tvg-name="ATV ARGENTINA" tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/atvargentina-x1.png" group-title="TV || ARGENTINA",ATV ARGENTINA
+http://fivetv.org:25461/joelsm0728/jsm284j/296485
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 21 TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_Canal_21.jpg/480px-Logo_Canal_21.jpg" group-title="TV || ARGENTINA",CANAL 21 TV 
+http://fivetv.org:25461/joelsm0728/jsm284j/296486
+#EXTINF:-1 tvg-id="" tvg-name="NBC " tvg-logo="https://i.ibb.co/vZjpdhB/NBC.png" group-title="TV || USA (INGLES)",NBC 
+http://fivetv.org:25461/joelsm0728/jsm284j/300506
+
+
 
