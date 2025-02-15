@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7029
-#EXTINF:-1,0100.AMC HD  (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7236
 #EXTINF:-1,0101.AZ CINEMA INOLVIDABLE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7034
