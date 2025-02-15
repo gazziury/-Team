@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,0100.AMC HD
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7029
 #EXTINF:-1,0100.AMC HD  (1080p)
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7236
