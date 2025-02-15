@@ -71,11 +71,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7474
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7377
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="LATINA",SONY CHANNEL FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7240
-#EXTINF:-1,0119.SPACE 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-space.png" group-title="LATINA",SPACE 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7336
-#EXTINF:-1,0119.SPACE HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-space.png" group-title="LATINA",SPACE HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7151
-#EXTINF:-1,0119.SPACE HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-space.png" group-title="LATINA",SPACE FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7226
 #EXTINF:-1,0120.USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7346
