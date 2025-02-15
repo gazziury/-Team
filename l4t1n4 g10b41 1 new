@@ -48,9 +48,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7191
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7174
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="LATINA",GOLDEN FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8452
-#EXTINF:-1,0113.GOLDEN EDGE 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="LATINA",GOLDEN EDGE 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7123
-#EXTINF:-1,0113.GOLDEN EDGE HD (1080P)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="LATINA",GOLDEN EDGE FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8464
 #EXTINF:-1,0114.GOLDEN PLUS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7124
