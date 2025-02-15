@@ -14,11 +14,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7357
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7090
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="LATINA",CINECANAL FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7219
-#EXTINF:-1,0103.CINEMAX 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="LATINA",CINEMAX SD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7337
-#EXTINF:-1,0103.CINEMAX HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="LATINA",CINEMAX HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7091
-#EXTINF:-1,0103.CINEMAX HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="LATINA",CINEMAX FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7220
 #EXTINF:-1,1533.POP
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7356
