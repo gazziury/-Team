@@ -93,11 +93,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7243
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7472
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-starz-cinema.png" group-title="USA",STARZ CINEMA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8518
-#EXTINF:-1,0122.TNT 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="LATINA",TNT 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7371
-#EXTINF:-1,0122.TNT HD 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="LATINA",TNT HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7158
-#EXTINF:-1,0122.TNT HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="LATINA",TNT FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7235
 #EXTINF:-1,1543.TBS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7153
