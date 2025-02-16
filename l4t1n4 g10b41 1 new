@@ -275,9 +275,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7864
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7764
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN MEX FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7276
-#EXTINF:-1,0326.TUDN USA 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7765
-#EXTINF:-1,0326.TUDN USA
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN USA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7754
 #EXTINF:-1,0942.TENNIS CHANNEL 1
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7820
