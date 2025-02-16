@@ -211,9 +211,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7275
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7107
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="LATINA",ESPN 2 MEX FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7237
-#EXTINF:-1,0311.ESPN 3 MEX HD (1080P)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="LATINA",ESPN 3 MEX FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8411
-#EXTINF:-1,0311.ESPN 3 MEX
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="LATINA",ESPN 3 MEX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7108
 #EXTINF:-1,0005.ACTIONMAX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7793
