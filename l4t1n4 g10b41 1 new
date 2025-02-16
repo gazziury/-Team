@@ -245,9 +245,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7248
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7362
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="LATINA",FOX SPORTS 2 MEX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7117
-#EXTINF:-1,0919.FUTV
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7311
-#EXTINF:-1,0315.FOX SPORTS 2 MEX HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="LATINA",FOX SPORTS 2 MEX FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7247
 #EXTINF:-1,0316.FOX SPORTS 3 SD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7363
