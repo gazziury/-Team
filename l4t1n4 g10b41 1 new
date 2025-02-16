@@ -293,11 +293,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7834
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7850
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="LATINA",TIGO SPORTS HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7851
-#EXTINF:-1,0950.UFC FIGHT PASS
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7825
-#EXTINF:-1,0952.WIN SPORTS
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="LATINA",WIN SPORTS +
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7826
-#EXTINF:-1,0952.WIN SPORTS PLUS 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="LATINA",WIN SPORTS + HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7827
 #EXTINF:-1,0954.WWE NETWORK
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7831
