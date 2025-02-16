@@ -155,9 +155,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7614
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8510
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/2560px-HBO_Comedy_%282014%29.svg.png" group-title="USA",HBO COMEDY
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8276
-#EXTINF:-1,0214.E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="LATINA",E! ENTERTAINMENT
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7043
-#EXTINF:-1,0214.E! ENTERTAINMENT HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="LATINA",E! ENTERTAINMENT FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7250
 #EXTINF:-1,0215.EL GOURMET
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7125
