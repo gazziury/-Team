@@ -137,9 +137,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7273
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7102
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="LATINA",DISCOVERY TLC FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7254
-#EXTINF:-1,0207.DISCOVERY TEATHER
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="LATINA",DISCOVERY TEATHER
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7101
-#EXTINF:-1,0207.DISCOVERY THEATER HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="LATINA",DISCOVERY TEATHER HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7468
 #EXTINF:-1,0208.DISCOVERY WORLD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7104
