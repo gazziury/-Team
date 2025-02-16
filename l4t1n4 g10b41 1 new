@@ -203,9 +203,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7770
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7446
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="LATINA",DIRECTV SPORTS 2 ARG
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7811
-#EXTINF:-1,0309.ESPN 1 MEX
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="LATINA",ESPN 1 MEX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7105
-#EXTINF:-1,0309.ESPN 1 MEX HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="LATINA",ESPN 1 MEX FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7275
 #EXTINF:-1,0310.ESPN 2 MEX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7107
