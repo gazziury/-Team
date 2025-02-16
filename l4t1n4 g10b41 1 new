@@ -181,9 +181,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7476
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7130
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-MAS-chic.png" group-title="LATINA",MAS CHIC HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8407
-#EXTINF:-1,0224.NAT GEO 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="LATINA",NAT GEO 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7379
-#EXTINF:-1,0224.NAT GEO HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="LATINA",NAT GEO FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7253
 #EXTINF:-1,0227.WOBI
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7168
