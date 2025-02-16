@@ -271,19 +271,16 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7823
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7148
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MGM%2B_logo.svg" group-title="USA",MGM+
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7864
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN MEX HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="LATINA",TUDN MEX HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7764
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN MEX FHD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="LATINA",TUDN MEX FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7276
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN USA 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="LATINA",TUDN USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7765
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN USA
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="LATINA",TUDN USA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7754
-#EXTINF:-1,0942.TENNIS CHANNEL 1
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7820
-#EXTINF:-1,0944.TYC SPORT 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="LATINA",TYC SPORTS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7821
-
 #EXTINF:-1,0949.TELEDEPORTES
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7853
 #EXTINF:-1,0327.TVC DEPORTES 
