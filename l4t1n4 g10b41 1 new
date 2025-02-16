@@ -253,9 +253,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7363
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7176
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="LATINA",FOX SPORTS PREMIUM MEX  
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7171
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg" group-title="LATINA",FOX SPORTS 3 ARG 
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7782
-#EXTINF:-1,0318.FOX DEPORTES 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="LATINA",FOX DEPORTES 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7787
 #EXTINF:-1,0917.FOX SOCCER PLUS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7788
@@ -263,6 +261,8 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7788
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7780
 #EXTINF:-1,0918.FOX SPORTS 2 ARG 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7781
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg" group-title="LATINA",FOX SPORTS 3 ARG 
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7782
 #EXTINF:-1,0915.FOX SPORTS 1 USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7785
 #EXTINF:-1,0916.FOX SPORTS 2 USA 
