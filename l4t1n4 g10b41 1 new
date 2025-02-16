@@ -219,13 +219,13 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7108
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7793
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1200px-ESPN_Deportes.svg.png" group-title="LATINA",ESPN DEPORTES 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7796
-#EXTINF:-1,0911.ESPN 1 ARG 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="LATINA",ESPN 1 ARG 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7790
-#EXTINF:-1,0911.ESPN 2 ARG 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="LATINA",ESPN 2 ARG 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7791
-#EXTINF:-1,0911.ESPN 3 ARG 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="LATINA",ESPN 3 ARG 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7792
-#EXTINF:-1,0911.ESPN 4 ARG
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="LATINA",ESPN 4 ARG
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7789
 #EXTINF:-1,0910.ESPN 1 USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7794
