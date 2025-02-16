@@ -195,16 +195,12 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7201
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8424
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/CBS_%28Blue%29.svg" group-title="USA",CBS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8425
-#EXTINF:-1,0902.BEIN SPORT N
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7769
-#EXTINF:-1,0902.BEIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg" group-title="USA",BEIN SPORTS XTRA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7777
-#EXTINF:-1,0902.BEIN SPORT 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="USA",BEIN SPORTS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7770
-
 #EXTINF:-1,0307.CLARO SPORTS 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7378
-
 #EXTINF:-1,0906.DAZN F1
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7801
 #EXTINF:-1,0925.MAVTV
