@@ -129,13 +129,13 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7258
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7381
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="LATINA",DISCOVERY TURBO
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7103
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="LATINA",DISCOVERY TURBO HD
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7320
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="LATINA",DISCOVERY TURBO FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7273
-#EXTINF:-1,0206.DISCOVERY TLC 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="LATINA",DISCOVERY TLC 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7102
-#EXTINF:-1,0206.DISCOVERY TLC HD
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7320
-#EXTINF:-1,0206.DISCOVERY TLC HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="LATINA",DISCOVERY TLC FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7254
 #EXTINF:-1,0207.DISCOVERY TEATHER
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7101
