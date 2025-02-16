@@ -255,9 +255,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7176
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="LATINA",FOX DEPORTES 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7787
-#EXTINF:-1,0918.FOX SPORTS 1 ARG 
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7780
-#EXTINF:-1,0918.FOX SPORTS 2 ARG 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/small.1344882745_FOXSports2ARG(2023-).png.cd26bb6f6340e81d793b7a598b51aa32.png" group-title="LATINA",FOX SPORTS 2 ARG 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7781
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg" group-title="LATINA",FOX SPORTS 3 ARG 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7782
