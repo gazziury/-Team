@@ -165,9 +165,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7125
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8405
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="LATINA",FOOD NETWORK
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7172
-#EXTINF:-1,0217.HGTV
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="LATINA",HGTV
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7204
-#EXTINF:-1,0217.HGTV HD 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="LATINA",HGTV HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7443
 #EXTINF:-1,0219.HISTORY 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7126
