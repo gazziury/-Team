@@ -119,11 +119,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7093
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7450
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="LATINA",DISCOVERY H&H FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7251
-#EXTINF:-1,0204.DISCOVERY INVESTIGATION  
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="LATINA",DISCOVERY ID 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7340
-#EXTINF:-1,0204.DISCOVERY INVESTIGATION HD
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="LATINA",DISCOVERY ID HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7128
-#EXTINF:-1,0204.DISCOVERY INVESTIGATION HD (1080P)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="LATINA",DISCOVERY ID FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7258
 #EXTINF:-1,1535.SUNDANCE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7381
