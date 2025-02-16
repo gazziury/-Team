@@ -173,9 +173,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7443
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7126
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="LATINA",HISTORY FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7225
-#EXTINF:-1,0220.HISTORY 2 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="LATINA",HISTORY 2 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7353
-#EXTINF:-1,0220.HISTORY 2 HD (1080p) 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="LATINA",HISTORY 2 FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7476
 #EXTINF:-1,0221.MAS CHIC
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7130
