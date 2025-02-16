@@ -199,9 +199,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8425
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7777
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="USA",BEIN SPORTS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7770
-#EXTINF:-1,0906.DAZN F1
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7801
-#EXTINF:-1,0925.MAVTV
+#EXTINF:-1 tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2020/01/MAVTV_Black.png" group-title="USA",MAVTV
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7446
 #EXTINF:-1,0907.DIRECTV SPORTS 2 ARG
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7811
