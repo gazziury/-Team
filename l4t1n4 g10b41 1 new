@@ -271,11 +271,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7823
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7148
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MGM%2B_logo.svg" group-title="USA",MGM+
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7864
-#EXTINF:-1,0324.TUDN MEX
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7202
-#EXTINF:-1,0324.TUDN MEX (720p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN MEX HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7764
-#EXTINF:-1,0325.TUDN MEX HD (1080p)
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="USA",TUDN MEX FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7276
 #EXTINF:-1,0326.TUDN USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7765
