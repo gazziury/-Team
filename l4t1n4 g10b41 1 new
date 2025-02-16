@@ -261,9 +261,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7781
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7782
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-golf-latin-america.png" group-title="LATINA",GOLF CHANNEL 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7177
-#EXTINF:-1,0906.DAZN La Liga
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7806
-#EXTINF:-1,3459.MOVISTAR  LIGA DE CAMPEONES 
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-LIGA-DE-CAMPEONES.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7807
 #EXTINF:-1,3452.MOVISTAR DEPORTES 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7802
