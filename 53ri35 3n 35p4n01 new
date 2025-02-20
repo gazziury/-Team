@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/paradise/s_01_e_06.mkv
+
 
 http://series.tuxchannel.mx/series/familia_de_medianoche/s_01_e_06.mkv
 https://innovatv.store/contenido/SERIES/Familia%20de%20medianoche/sub/Familia%20de%20medianoche8.mp4
@@ -8992,6 +8994,19 @@ http://series.tuxchannel.mx/series/panic/s_01_e_08.mkv
 http://series.tuxchannel.mx/series/panic/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/06/09/06/1340776.jpg" group-title="Panico",Cap. 10
 http://series.tuxchannel.mx/series/panic/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://iili.io/397kidB.jpg" group-title="Paradise",Cap. 01
+http://series.tuxchannel.mx/series/paradise/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/397kidB.jpg" group-title="Paradise",Cap. 02
+http://series.tuxchannel.mx/series/paradise/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/397kidB.jpg" group-title="Paradise",Cap. 03
+http://series.tuxchannel.mx/series/paradise/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/397kidB.jpg" group-title="Paradise",Cap. 04
+http://series.tuxchannel.mx/series/paradise/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/397kidB.jpg" group-title="Paradise",Cap. 05
+http://series.tuxchannel.mx/series/paradise/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/397kidB.jpg" group-title="Paradise",Cap. 06
+http://series.tuxchannel.mx/series/paradise/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4IeaR4ptf8pJZGpHcxvcUhgvPvu.jpg" group-title="Paraíso blanco T1",Cap. 01
 http://series.tuxchannel.mx/series/paraiso_blanco/s_01_e_01.mkv
