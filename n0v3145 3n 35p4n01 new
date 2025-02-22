@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/amar/s_01_e_04.mkv
+http://series.tuxchannel.mx/series/amar/s_01_e_09.mkv
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_80.mkv
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_74.mkv
@@ -213,6 +213,16 @@ http://series.tuxchannel.mx/series/amar/s_01_e_02.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/MUokx1K.jpeg" group-title="A.Mar",Cap. 004
 http://series.tuxchannel.mx/series/amar/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MUokx1K.jpeg" group-title="A.Mar",Cap. 005
+http://series.tuxchannel.mx/series/amar/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MUokx1K.jpeg" group-title="A.Mar",Cap. 006
+http://series.tuxchannel.mx/series/amar/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MUokx1K.jpeg" group-title="A.Mar",Cap. 007
+http://series.tuxchannel.mx/series/amar/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MUokx1K.jpeg" group-title="A.Mar",Cap. 008
+http://series.tuxchannel.mx/series/amar/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/MUokx1K.jpeg" group-title="A.Mar",Cap. 009
+http://series.tuxchannel.mx/series/amar/s_01_e_09.mkv
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/1oN6Dzq.jpeg" group-title="Amor amargo",Cap. 001
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_01.mkv
