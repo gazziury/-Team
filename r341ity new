@@ -8,9 +8,9 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="  " group-title="ALFA - LA CASA DE LOS FAMOSOS",CAM 1
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/c7b7e0ad-271f-3ba2-99c9-eef3034197ec/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=2300ac26-1493-3c1f-b744-f1cf0ece47f5" group-title="ALFA - LA CASA DE LOS FAMOSOS",CAM 1
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7751
-#EXTINF:-1 tvg-logo="  " group-title="ALFA - LA CASA DE LOS FAMOSOS",CAM 2
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/uuid/c7b7e0ad-271f-3ba2-99c9-eef3034197ec/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=2300ac26-1493-3c1f-b744-f1cf0ece47f5" group-title="ALFA - LA CASA DE LOS FAMOSOS",CAM 2
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7752
 
 
