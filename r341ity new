@@ -16,14 +16,26 @@ http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7752
 
 
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 1
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS 1 - GRAN HERMANO (ARGENTINA)",CAM 1
 http://tv.nousiptv.com:8080/UY2888/6547765/1226119
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 2
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS 1 - GRAN HERMANO (ARGENTINA)",CAM 2
 http://tv.nousiptv.com:8080/UY2888/6547765/1226120
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 3
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS 1 - GRAN HERMANO (ARGENTINA)",CAM 3
 http://tv.nousiptv.com:8080/UY2888/6547765/1226121
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS - GRAN HERMANO (ARGENTINA)",CAM 4
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS 1 - GRAN HERMANO (ARGENTINA)",CAM 4
 http://tv.nousiptv.com:8080/UY2888/6547765/1226122
+
+
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS 2 - GRAN HERMANO (ARGENTINA)",CAM 1
+http://tv.nousiptv.com:8080/leogomez/argentina12345/1226119
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS 2 - GRAN HERMANO (ARGENTINA)",CAM 2
+http://tv.nousiptv.com:8080/leogomez/argentina12345/1226120
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS 2 - GRAN HERMANO (ARGENTINA)",CAM 3
+http://tv.nousiptv.com:8080/leogomez/argentina12345/1226121
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/a1QZzlu.jpeg" group-title="NOUS 2 - GRAN HERMANO (ARGENTINA)",CAM 4
+http://tv.nousiptv.com:8080/leogomez/argentina12345/1226122
+
 
 
 
