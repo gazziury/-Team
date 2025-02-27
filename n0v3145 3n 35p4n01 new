@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_05.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_11.mkv
-http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_74.mkv
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_76.mkv
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_79.mkv
 
 http://series.tuxchannel.mx/series/regreso_a_las_sabinas/s_01_e_10.mkv
@@ -5773,6 +5773,10 @@ http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_72.mkv
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_73.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 071
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_74.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 072
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_75.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/YFcqfiE.jpeg" group-title="Las hijas de la señora García",Cap. 073
+http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_76.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6cDKolSuoesSRF1cd63Tv8p85kH.jpg" group-title="La suerte de Loli",Cap. 001
 http://series.tuxchannel.mx/series/la_suerte_de_loli/s_01_e_01.mkv
