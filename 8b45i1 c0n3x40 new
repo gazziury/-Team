@@ -19,12 +19,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y40D9CV4l9vm4C5tKL5FWg
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75mAjZ-PF4Nui6wmEt5Q_VY
 #EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/284?cb=20201126064846" group-title="FILMES & SERIES",AXN 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zD14PAyoHFkdiknUV3Xy98
-
-
-#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Band_News_TV_2021_Logo.png" group-title="NOTICIAS",BAND NEWS 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/482
-#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Band_News_TV_2021_Logo.png" group-title="NOTICIAS",BAND NEWS HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/432
+#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Band_News_TV_2021_Logo.png" group-title="NOTICIAS",BAND NEWS 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70Vj11Nr6FEtzYc_mb6N6F0
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Band_News_TV_2021_Logo.png" group-title="NOTICIAS",BAND NEWS FHD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72NGNjybLLKRu7ySOWqlGoM
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND BRASILIA 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79SzPgiEPig6xEsAX5qqhXY
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND NORDESTE
@@ -33,6 +31,7 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76cPEXAKCfzuooonExIETcE
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70xjJVeXsGC8gfeVsoBRajs
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND SP 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_hQXriYYuu2ivR0j5sNiWU
+
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/120
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS HD
