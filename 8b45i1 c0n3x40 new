@@ -113,10 +113,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY772NqGILzAkp8eXvHyTM6Q4
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-DO51ldC8N06qnCjDLf6oQ
 #EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! FHD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79LcHyHJdhacviFe1tFC6qI
-
-
 #EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",EPTV RIBEIRAO PRETO
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1011
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY769VnnVuySa_sdHkq_uFuVM
+
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/130
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  HD
