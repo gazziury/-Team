@@ -69,12 +69,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_TkNPC_6TXrrjnqG7jR7Rc
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73D0AJM4BTdlBB4BkiVzcsA
 #EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",CNN ESPANHOL
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77t0frAH41p63bNlhZsFwmg
-
-
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/122
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY799i733wJdbDgmZvQzy0MW0
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/123
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_sVyO1kbFgqxWkKIzlahqs
+
+
 #EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/99
 #EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL HD
