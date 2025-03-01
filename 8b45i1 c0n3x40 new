@@ -15,9 +15,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y0RmhDEy9L9ptelqvpOmIs
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73xtRaJ-3GtWuaqSOCPnKLA
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y40D9CV4l9vm4C5tKL5FWg
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/284?cb=20201126064846" group-title="FILMES & SERIES",AXN HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75mAjZ-PF4Nui6wmEt5Q_VY
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/284?cb=20201126064846" group-title="FILMES & SERIES",AXN 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zD14PAyoHFkdiknUV3Xy98
 
-#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="FILMES & SERIES",AXN 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/233
 #EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png" group-title="INFANTIS",BABY TV 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/767
 #EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png" group-title="INFANTIS",BABY TV HD
