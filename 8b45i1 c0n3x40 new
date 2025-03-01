@@ -87,12 +87,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75So21-j7MYo8rzjH9KYZoU
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75OI3PusZrBZkpJ9akaCDOc
 #EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY788ObLlCd-hdW6rezyUgNRw
-
-
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/DKids2070.png/revision/latest?cb=20240829223421&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/348
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/DKids2070.png/revision/latest?cb=20240829223421&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY78sGp2rI2gO_VbBxrlasEUU
 #EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/DKids2070.png/revision/latest?cb=20240829223421&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/349
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_xKwQPwqa8ahnHREvGReSs
+
+
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Science_2011.png/revision/latest?cb=20200822042357&path-prefix=es" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4k
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/71
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Science_2011.png/revision/latest?cb=20200822042357&path-prefix=es" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
