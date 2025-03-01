@@ -36,8 +36,8 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xjsGzeSbmQ7whraiZ0jDo8
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73XxYwWzeF3N2sHsp6p3dR4
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/901
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75Xt7lE3Nm2Fnon_IeStIck
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/902
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 3
