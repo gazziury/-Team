@@ -73,14 +73,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77t0frAH41p63bNlhZsFwmg
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY799i733wJdbDgmZvQzy0MW0
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_sVyO1kbFgqxWkKIzlahqs
-
-
-#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/99
 #EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/98
-#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_of_Curta%21.svg" group-title="ENTRETENIMENTO",CURTA HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/100
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-gCmKHt28w6l-wd8LwiEkQ
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 1
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/206
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 1 HD
