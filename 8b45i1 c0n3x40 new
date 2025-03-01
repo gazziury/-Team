@@ -35,21 +35,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_hQXriYYuu2ivR0j5sNiWU
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xjsGzeSbmQ7whraiZ0jDo8
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73XxYwWzeF3N2sHsp6p3dR4
-
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75Xt7lE3Nm2Fnon_IeStIck
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/902
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 3
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/903
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 4
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/904
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 5 
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/905
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 6 
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/906
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 7
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/907
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 2
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY768okTpMWf-ShSiN7-G7rZM
+
 #EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS 4K" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/419
 #EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS HD" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS HD
