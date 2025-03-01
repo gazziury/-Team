@@ -49,11 +49,9 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77Z67AaI1i5mHWE0xY-F9Y4
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_YgYRtiY00NYLSmOh-1zks
 #EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="FILMES & SERIES",CANAL BRASIL HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79Fe_yoaBpTSv9_E1-zDdCA
-
 #EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSO",CANCAO NOVA HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/96
-#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSO",CANCAO NOVA UHD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/97
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xXNm0ncqHH2ZpdRkcxTHYA
+
 #EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/346
 #EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK HD
