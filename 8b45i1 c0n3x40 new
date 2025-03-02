@@ -169,18 +169,18 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75yo04llbW8KbnDdbRVCGjw
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7104gxwxqaUZ_Wqd7KBNHEs
 #EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RBS SANTA MARIA
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zzzSkeSTevRPFk6fetGq34
-
-
-#EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO REDE AMAZONICA MANAUS 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/530
-#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/505
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC FOZ DO IGUAÇU 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/506
-#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/507
+#EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO AMAZONIA
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74FYw04nnKMh_kjNoPoJJXU
+#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7w-bI33zhD47aJ1TeuPfl_A
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC FOZ DO IGUAÇU 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zeM460n0sfnGTpYHZnL5O0
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_aTv4ZVhT4u2Xq9YT4bZps
 #EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/817
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_Qzv8lCOXPA7UUloxJhNAk
+
+
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SERGIPE 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1160
 #EXTINF:-1 tvg-id="5b5e8f6070df962a62d591d616dcdf46" tvg-name="GLOBO TV ANHANGUERA GOIAS 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV ANHANGUERA GOIAS 4K
