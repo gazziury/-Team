@@ -149,11 +149,17 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75e2x4T768Q8aAo1_BAVrVI
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7x5KH4DlkE5vA6OcQiiRhsQ
 #EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_upRuEuqbd_hivO9yCYbzs
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RIO
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75Q717wv6dhkaKiAREQheIU
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SAO PAULO
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79MpyrPpbc-rJWa0wZ9NGPw
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO MINAS
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75bOFsjAmrGnkHhQ8g9v30o
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO BRASILIA 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zeGQhHN42_vAS8eZV4D5Qg
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO BAHIA 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-Q19cRqXfPjtqhaut3D7p8
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO CENTRO 
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO CENTRO AMERICA 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_WI9dycX3QxgTek7qLe8Vo
 #EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO EPTV SUL DE MINAS 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY736SERXGBBy0l7K1H9D2vdU
@@ -179,22 +185,14 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zeM460n0sfnGTpYHZnL5O0
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_aTv4ZVhT4u2Xq9YT4bZps
 #EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_Qzv8lCOXPA7UUloxJhNAk
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SERGIPE HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71Op0age7lcgaw6ATuwvqa8
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75L0l8IX9D4jiq8h-9j6LXM
+#EXTINF:-1 tvg-id="9d031a9597550c5a95f4b8d32e0bcc0e" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV TEM
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-3jbFmXESa3gFYUx7GuKY8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SERGIPE 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1160
-#EXTINF:-1 tvg-id="5b5e8f6070df962a62d591d616dcdf46" tvg-name="GLOBO TV ANHANGUERA GOIAS 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV ANHANGUERA GOIAS 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/849
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="GLOBO TV CENTRO AMERICA CUIABA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV CENTRO AMERICA CUIABA 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1102
-#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/554
-#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/773
-#EXTINF:-1 tvg-id="9d031a9597550c5a95f4b8d32e0bcc0e" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV TEM BAURU HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/968
-#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="GLOBO TV TEM SOROCABA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV TEM SOROCABA 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/563
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Gloob_2012.png/revision/latest?cb=20210419173733&path-prefix=es" group-title="INFANTIS",GLOOB 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/357
 #EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Gloob_2012.png/revision/latest?cb=20210419173733&path-prefix=es" group-title="INFANTIS",GLOOB HD
