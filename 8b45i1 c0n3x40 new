@@ -137,12 +137,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7w5Au73sItg5VEfJVu55C-g
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77G8sIvhDepREmFDheqW8Cw
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xv5hI9KrOmE-Cnl9s77WmQ
-
-
 #EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO",FASHION TV HD 
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/878
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zs_qKNwwEjpryvLl0r3zlA
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2020/07/FilmArts.jpg" group-title="FILMES & SERIES",FILM & ARTS HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/242
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_YRq3X3ul2RF783hWAT7aM
+
+
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/79
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV HD
