@@ -249,12 +249,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xv02qg3ohpQkXSg5kpTYvo
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71UTmU8dSLdjmgawjhy2C1U
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT NOVELAS 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xno56ECvWpjCC8ahwdThcI
-
-
-#EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/816
+#EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-ydMedUdALPENv82nkvaNQ
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/552
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7ypfXBRr8QzMcqbgSb02X5Q
+
+
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/83
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
