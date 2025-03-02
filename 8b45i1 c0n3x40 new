@@ -115,30 +115,30 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-DO51ldC8N06qnCjDLf6oQ
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79LcHyHJdhacviFe1tFC6qI
 #EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",EPTV RIBEIRAO PRETO
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY769VnnVuySa_sdHkq_uFuVM
-
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/130
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71B33zKzE2XvtfJtQV15rTU
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/131
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="ESPORTES",ESPN 2 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/129
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zl9D_-IRC39qGQFBvRCORA
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="ESPORTES",ESPN 2 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76GnVWWXNi-g9qaxa1aNdec
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="ESPORTES",ESPN 2 HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/135
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/127
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72pdcMiyonr4sTt50ril4qo
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70V1JZiSSiEsXe3PXBlO_vY
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/126
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/142
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xgQR8RcR7HMuP8CiYAlQOg
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70Ax3Qyij_ea6fL4N8Xl4KM
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/143
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HDR" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HDR
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/899
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/133
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7wxG7QknM9myfPsVt8AfxaA
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HDR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="ESPORTES",ESPN 5
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7w5Au73sItg5VEfJVu55C-g
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77G8sIvhDepREmFDheqW8Cw
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/134
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xv5hI9KrOmE-Cnl9s77WmQ
+
+
 #EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO",FASHION TV HD 
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/878
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2020/07/FilmArts.jpg" group-title="FILMES & SERIES",FILM & ARTS HD
