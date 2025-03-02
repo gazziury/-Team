@@ -145,16 +145,13 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_YRq3X3ul2RF783hWAT7aM
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71I075IUTju7unXJU15nglk
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75e2x4T768Q8aAo1_BAVrVI
-
-
-#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/104
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7x5KH4DlkE5vA6OcQiiRhsQ
 #EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/105
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="ESPN 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="ESPORTES",ESPN 5 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/139
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="ESPN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="ESPORTES",ESPN 5 HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/140
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_upRuEuqbd_hivO9yCYbzs
+
+
+
 #EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_Futura_2022.svg/1200px-Canal_Futura_2022.svg.png" group-title="FILMES & SERIES",FUTURA 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/243
 #EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="FILMES & SERIES",FX HD
