@@ -199,10 +199,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY78hpLsfnQENNTzN-xsQTDb0
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zYF60_WY213MtnG8VRCuWA
 #EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-XVOO0lwadXX1OmwmTVEzo
+#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/2560px-GNT_logo-roxo.svg.png" group-title="ENTRETENIMENTO",GNT HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7wU5z-iS0MSRE9srL5pnb_0
 
 
-#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/2560px-GNT_logo-roxo.svg.png" group-title="ENTRETENIMENTO",GNT 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/107
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",H2 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/815
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",H2 HD
