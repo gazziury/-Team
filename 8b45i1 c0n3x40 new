@@ -201,12 +201,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zYF60_WY213MtnG8VRCuWA
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-XVOO0lwadXX1OmwmTVEzo
 #EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/2560px-GNT_logo-roxo.svg.png" group-title="ENTRETENIMENTO",GNT HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7wU5z-iS0MSRE9srL5pnb_0
+#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",HISTORY 2
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70dnG9npQYgbhQW9m3HoPiY
+#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",HISTORY 2 HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY727ByxbW7YVzkngaZXfMumM
 
 
-#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",H2 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/815
-#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",H2 HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/81
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO + 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/246
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO + HD
