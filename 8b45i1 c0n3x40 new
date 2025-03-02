@@ -205,46 +205,46 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7wU5z-iS0MSRE9srL5pnb_0
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70dnG9npQYgbhQW9m3HoPiY
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",HISTORY 2 HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY727ByxbW7YVzkngaZXfMumM
-
-
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO + 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/246
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO + 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74Aevrsn35Iv_GX5jv3NmJk
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO + HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/245
-#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES & SERIES",HBO 2 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/247
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75CRmxbkpABr8KJ5DnepNkQ
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES & SERIES",HBO 2 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY776vh2mCDhBWB05-TLIHi3w
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES & SERIES",HBO 2 HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/248
-#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/251
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="FILMES & SERIES",HBO FAMILY 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/252
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="FILMES & SERIES",HBO FAMILY HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/253
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73e0XzPuroeO0aOcpdkFh5M
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77BWc7I2mOOAMQOBqsMQpzw
 #EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/255
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_wuV_jQ5WisXAwFeKzMIsY
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="FILMES & SERIES",HBO FAMILY 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xD8ASBJLnkB20otOhIBo14
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="FILMES & SERIES",HBO FAMILY HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-YJRNc51ffvOJDVshgci7Y
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_yjKsYlkEoSJqqjY7ljoxc
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-szUuE7EkdtDr5WtWYrz6I
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO PLUS 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74Aevrsn35Iv_GX5jv3NmJk
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO PLUS HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75CRmxbkpABr8KJ5DnepNkQ
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7x56SrA4GO2oHe0iCpJSf28
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77FmOvzuF5OMOVi3aokv_9w
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY789IFrcQYsIRlNTD4ZvkY8A
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70wZ9aDUcHt-aa_E5ly2w0E
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="FILMES & SERIES",HBO XTREME HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY772sA9leDefaoZjqciJdu7Q
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="FILMES & SERIES",HBO XTREME FHD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76cPJjZ4QDI7wZ6-15LvJ3Q
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="FILMES & SERIES",TNT HD 
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/833
-#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/256
-#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/257
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO PLUS 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/258
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO PLUS HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/259
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/260
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/261
-#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/264
-#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/262
-#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="FILMES & SERIES",HBO XTREME 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/266
-#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="FILMES & SERIES",HBO XTREME HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/267
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/816
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV HD
