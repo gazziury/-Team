@@ -261,9 +261,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7yqOQIdTedrI05ldQkmMcRs
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_SL5bEf3NMEGZv1z8k8kV8
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY734QEFlYq3sbpc-6MhZu0UM
+#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="FILMES & SERIES",LIFETIME 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79Q02_JobgMJy4MvMHIunXc
+#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="FILMES & SERIES",LIFETIME HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_Jf2PgQicHjCi2GiDwFrK0
 
-#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="FILMES & SERIES",LIFETIME HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/269
 #EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/270
 #EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX HD
