@@ -273,12 +273,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77KsRdY1b1VXv6loVsLfzsY
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75V4IBJPkbnGVIaURgoGdPI
 #EXTINF:-1 tvg-id="95c74b5af2e547589ddddf8829313a0b" tvg-name="MODO VIAGEM 4K" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="DOCUMENTARIOS",MODO VIAGEM HD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75waimJoFPCaXRiTKxAFZYI
-
-
-#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV 4K" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/112
 #EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/422
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7yF1oNBWH_JoLOv_GA91G0g
+
+
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="MUSICA",MTV LIVE 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/831
 #EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="MUSICA",MULTISHOW HD
