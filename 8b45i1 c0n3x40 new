@@ -455,14 +455,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY743SJw7CWgifY1hY9t2S1-E
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71e7uU5XJ-ipzLl7Bb80MIo
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV PAMPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="TV ABERTA",TV PAMPA RS
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76EMKDkQYfeEAuIRx6JpU4M
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/0/0a/TV_R%C3%A1_Tim_Bum.png/revision/latest?cb=20230831021026" group-title="INFANTIS",TV RA TIM BUM
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73jIXR8fQI53s7E9XzE5Wu8
 
 
 
-
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Tvratimbum2020.png/revision/latest?cb=20200705204322" group-title="INFANTIS",TV RA TIM BUM 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/369
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Tvratimbum2020.png/revision/latest?cb=20200705204322" group-title="INFANTIS",TV RA TIM BUM HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/557
 #EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV SANTA CRUZ 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1055
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="TV ABERTA",TV SENADO HD
