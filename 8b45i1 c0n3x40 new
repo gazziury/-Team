@@ -291,12 +291,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7yoEiol09-gmsLPtQFCECmU
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77HK4ee3HLC7_bY98cQpLF8
 #EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="INFANTIS",NICK JR HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76d26M2OHfRfh6H-FdqtGHc
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70zQc15u8jZ9EBFnHBNPlNE
 
 
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/365
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/768
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="https://www.novotempo.com/novosparametros/assets/images/logotipo.png" group-title="RELIGIOSO",NOVO TEMPO HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/556
 #EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-5.png" group-title="FILMES & SERIES",OFF 4K
