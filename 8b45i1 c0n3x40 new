@@ -445,18 +445,15 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zShqVMypDYXKutQTD18G8g
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY714SsTummWo2ilY8QquOANU
 #EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSO",TV APARECIDA HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY744e9Z3JskEv2iXkoCHLgMk
-
-
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL 2 HD" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA",TV BRASIL 2 HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1101
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA",TV BRASIL 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1100
 #EXTINF:-1 tvg-id="" tvg-name="CAMARA DOS DEPUTADOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="TV ABERTA",CAMARA DOS DEPUTADOS HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1165
-#EXTINF:-1 tvg-id="231eb208f32f3a9a9dbe8ac3d9e03284" tvg-name="TV CULTURA UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV CULTURA UHD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/547
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71qWr4z28-eaXcu2yDhDtLE
+#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/LOGO_TV_DIARIO_2023.png/1200px-LOGO_TV_DIARIO_2023.png" group-title="TV ABERTA",TV DIARIO 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76wg6au0xhnA4RFmjlT3m_U
 #EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/LOGO_TV_DIARIO_2023.png/1200px-LOGO_TV_DIARIO_2023.png" group-title="TV ABERTA",TV DIARIO HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/548
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY743SJw7CWgifY1hY9t2S1-E
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIOSO",TV EVANGELIZAR HD 
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1051
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV GAZETA  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="TV ABERTA",TV GAZETA  4K
