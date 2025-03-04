@@ -287,15 +287,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_3To5lF3biAv7s1OBaeLI0
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7386SsKmnJ2Wg14OjLMNvoo
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="MUSICA",MUSIC BOX  HD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7yoEiol09-gmsLPtQFCECmU
-
-
-
-#EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/88
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="INFANTIS",NICK JR 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/363
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="INFANTIS",NICK JR 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77HK4ee3HLC7_bY98cQpLF8
 #EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="INFANTIS",NICK JR HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/364
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76d26M2OHfRfh6H-FdqtGHc
+
+
 #EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/365
 #EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON HD
