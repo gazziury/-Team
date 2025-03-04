@@ -301,12 +301,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-HhHCjI3M6Ixwqfp2QZPvc
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY78CX7bMb1fdGA_QLJWqw_4o
 #EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSO",PAI ETERNO FHD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-QmEhRwaVR35k6JxjXD32E
-
-
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="FILMES & SERIES",PARAMOUNT CHANNEL 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/275
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="FILMES & SERIES",PARAMOUNT
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79jIJDlDqyobDsKIbrwFbwg
 #EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="FILMES & SERIES",PARAMOUNT HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/276
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y0W-2jIGhLMhnBR42CuT-c
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount%2B_logo.svg/1200px-Paramount%2B_logo.svg.png" group-title="ESPORTES ONLINE",PARAMOUNT+ 1 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1151
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount%2B_logo.svg/1200px-Paramount%2B_logo.svg.png" group-title="ESPORTES ONLINE",PARAMOUNT+ 2 4K
