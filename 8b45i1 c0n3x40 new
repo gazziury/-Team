@@ -357,10 +357,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73OYmS-febiXVg1rRf3uqXo
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_4smF7TfyQzIX01WPFslUo
 #EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/1200px-Record_News_logo_2023.svg.png" group-title="NOTICIAS",RECORD NEWS HD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74b5y1r7fdrIP9CZluzfTp4
+#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70994Wl_vN6pP4khL2A5Bzw
 
 
-#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/531
 #EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="http://xplussport.com:8080/images/6c3e8a9085b35db0146aa1dd57d26b3b.png" group-title="RELIGIOSO",REDE GOSPEL
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1052
 #EXTINF:-1 tvg-id="Rede Super" tvg-name="REDE SUPER" tvg-logo="http://xplussport.com:8080/images/fa919d1786ed52f86581665859726dbd.png" group-title="RELIGIOSO",REDE SUPER
