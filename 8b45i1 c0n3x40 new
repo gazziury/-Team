@@ -387,13 +387,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xtEOxrWjz0zoJS4hW7bJa4
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71WFJnawCI2pDBY5vfMGqZA
 #EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s" group-title="TV ABERTA",SBT + SILVIO SANTOS 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75TY2J6bMP6YxldG-L6u7Ko
+#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sony_Channel_2019_black_and_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20200117012233&path-prefix=es" group-title="FILMES & SERIES",SONY CHANNEL 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72E8b98yhOf1oZqA23lG3EU
+#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sony_Channel_2019_black_and_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20200117012233&path-prefix=es" group-title="FILMES & SERIES",SONY CHANNEL HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zjekPtHA_FlVUeTAuYViqU
 
 
-
-#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sony_Channel_2019_black_and_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20200117012233&path-prefix=es" group-title="FILMES & SERIES",SONY CHANNEL HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/238
-#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sony_Channel_2019_black_and_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20200117012233&path-prefix=es" group-title="FILMES & SERIES",SONY CHANNEL 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/278
 #EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="ESPORTES",SPORTV 3 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/175
 #EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="FILMES & SERIES",STAR CHANNEL 4K
