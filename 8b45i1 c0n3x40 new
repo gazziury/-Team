@@ -451,15 +451,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71qWr4z28-eaXcu2yDhDtLE
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76wg6au0xhnA4RFmjlT3m_U
 #EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/LOGO_TV_DIARIO_2023.png/1200px-LOGO_TV_DIARIO_2023.png" group-title="TV ABERTA",TV DIARIO HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY743SJw7CWgifY1hY9t2S1-E
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIOSO",TV EVANGELIZAR HD 
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1051
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV GAZETA  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="TV ABERTA",TV GAZETA  4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/551
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitoria ES 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV Gazeta Vitoria ES 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1089
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71e7uU5XJ-ipzLl7Bb80MIo
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TV MORENA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV MORENA 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1099
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="TV NOVO TEMPO" tvg-logo="http://xplussport.com:8080/images/cdc70908008a205cf43dd0c1ed95ad4e.png" group-title="RELIGIOSO",TV NOVO TEMPO
