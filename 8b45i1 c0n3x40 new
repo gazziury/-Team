@@ -460,8 +460,7 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73jIXR8fQI53s7E9XzE5Wu8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV SANTA CRUZ 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1055
+
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="TV ABERTA",TV SENADO HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1164
 #EXTINF:-1 tvg-id="ccc9131a347fd67a65ad45b2cad2f650" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV TEM SAO JOSE DO RIO PRETO
