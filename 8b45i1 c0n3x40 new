@@ -329,11 +329,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70piGgljmiX7SqRWKXyAb90
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77FNSyWx0KMbUXFpeOaC5lE
 #EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 7 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72_4Vi8Ik4NX8x-OI7OwY3w
+#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Prime_Box_Brazil.png/revision/latest?cb=20150726135811" group-title="FILMES & SERIES",PRIME BOX BRASIL 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7501fSLK2fdsLSHOCMgNpn4
+#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Prime_Box_Brazil.png/revision/latest?cb=20150726135811" group-title="FILMES & SERIES",PRIME BOX BRASIL HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-Vc9V46jbw6bKD9S4gSEmk
 
 
-
-#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Prime_Box_Brazil.png/revision/latest?cb=20150726135811" group-title="FILMES & SERIES",PRIME BOX BRASIL HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/277
 #EXTINF:-1 tvg-id="3b220cc065f34810b98141ad412a1076" tvg-name="TV BRASIL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/2560px-TV_Brasil_logo_2023.svg.png" group-title="TV ABERTA",TV BRASIL 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/517
 #EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",RBS TV PORTO ALEGRE
