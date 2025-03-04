@@ -441,10 +441,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y5zbSZKKL-YsptUboKy7WI
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74QLi1pPsWcC5WAt0YHkiIU
 #EXTINF:-1 tvg-id="9620278066c852f4fc8025f928289614" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL HD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zShqVMypDYXKutQTD18G8g
-
-
 #EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="FILMES & SERIES",ADULT SWIM HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/541
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY714SsTummWo2ilY8QquOANU
+
+
+
 #EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSO",TV APARECIDA HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/542
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL 2 HD" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA",TV BRASIL 2 HD
