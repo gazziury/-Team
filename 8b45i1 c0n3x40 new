@@ -457,22 +457,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71e7uU5XJ-ipzLl7Bb80MIo
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76EMKDkQYfeEAuIRx6JpU4M
 #EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/0/0a/TV_R%C3%A1_Tim_Bum.png/revision/latest?cb=20230831021026" group-title="INFANTIS",TV RA TIM BUM
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73jIXR8fQI53s7E9XzE5Wu8
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="TV ABERTA",TV SENADO HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1164
-#EXTINF:-1 tvg-id="ccc9131a347fd67a65ad45b2cad2f650" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV TEM SAO JOSE DO RIO PRETO
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/983
-#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV TEM SOROCABA HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/562
-#EXTINF:-1 tvg-id="bab8afec1121f433e170442e67a28718" tvg-name="TV TRIBUNA SANTOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV TRIBUNA SANTOS
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/564
-#EXTINF:-1 tvg-id="41e59e63dd5e9830e7a35e2cf89d6992" tvg-name="TV VANGUARDA S. J. DOS CAMPOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV VANGUARDA S. J. DOS CAMPOS
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/565
-#EXTINF:-1 tvg-id="TV Verdes Mares - tvverdesmares" tvg-name="TV VERDES MARES FORTALEZA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV VERDES MARES FORTALEZA 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/566
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77iebwPlZcgxS0toZyUgkcE
+
+
+
 #EXTINF:-1 tvg-id="238c688748855e63046d6e54b0f9278f" tvg-name="TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_da_TVE_es.png" group-title="NOTICIAS",TVE HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/455
 #EXTINF:-1 tvg-id="" tvg-name="UFC PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="ESPORTES ONLINE",UFC PPV
