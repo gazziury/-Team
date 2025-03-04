@@ -459,11 +459,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76EMKDkQYfeEAuIRx6JpU4M
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73jIXR8fQI53s7E9XzE5Wu8
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="TV ABERTA",TV SENADO HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77iebwPlZcgxS0toZyUgkcE
+#EXTINF:-1 tvg-id="238c688748855e63046d6e54b0f9278f" tvg-name="TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/1200px-TVE_Bahia_logo_%282022%29.svg.png" group-title="NOTICIAS",TVE HD
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76-n0VzpOwFEpzBHHcJFnJU
 
 
-
-#EXTINF:-1 tvg-id="238c688748855e63046d6e54b0f9278f" tvg-name="TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_da_TVE_es.png" group-title="NOTICIAS",TVE HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/455
 #EXTINF:-1 tvg-id="" tvg-name="UFC PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="ESPORTES ONLINE",UFC PPV
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1122
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
