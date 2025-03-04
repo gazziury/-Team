@@ -311,11 +311,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7waHZk7Y7ARECLHNsrd8zG4
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zquH0W8tKZxmzPooQHdGhw
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount%2B_logo.svg/1200px-Paramount%2B_logo.svg.png" group-title="ESPORTES ONLINE",PARAMOUNT+ 3 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74oQ97aFepBB1kuweAO6EJg
+#EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="FILMES & SERIES",TCM 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71UokvH4L4aDO2AcMM-oOko
+#EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="FILMES & SERIES",TCM HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73aoAy9j758r0W0uDOK6oLE
 
 
-
-#EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="TCM 10" tvg-logo="http://imgfz.com/i/4gfXayz.jpeg" group-title="MUSICA",TCM 10
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/426
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE CLUBES HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/164
 #EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 2 4K
