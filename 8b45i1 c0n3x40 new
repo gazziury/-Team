@@ -403,22 +403,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_7gwYgIZWivsA5CxwY-Kg8
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY717inkeqjX4k48MKFt3npMs
 #EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="ESPORTES",SPORTV 3 HD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72ryMM1SnQYCzUX7cgO0Hnw
+#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y3GdbWZQk5wZtViUvXM4GU
 
 
-#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="FILMES & SERIES",STAR CHANNEL 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/281
-#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="FILMES & SERIES",STAR CHANNEL HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/282
-#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/289
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TNT NOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT NOVELAS 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/290
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TNT NOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT NOVELAS HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/291
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="FILMES & SERIES",TCM
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/292
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="FILMES & SERIES",TCM HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/293
 #EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="FILMES & SERIES",TELECINE ACTION 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/294
 #EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="FILMES & SERIES",TELECINE ACTION HD
