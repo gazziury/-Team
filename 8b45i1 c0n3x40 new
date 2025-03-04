@@ -461,11 +461,9 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73jIXR8fQI53s7E9XzE5Wu8
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77iebwPlZcgxS0toZyUgkcE
 #EXTINF:-1 tvg-id="238c688748855e63046d6e54b0f9278f" tvg-name="TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVE_Bahia_logo_%282022%29.svg/1200px-TVE_Bahia_logo_%282022%29.svg.png" group-title="NOTICIAS",TVE HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76-n0VzpOwFEpzBHHcJFnJU
-
-
-
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/319
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_Et8sNfKKURvABtTip08Xs
+
 #EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="MTV 80s HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="MUSICA",MTV 80s HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/430
 #EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png" group-title="ENTRETENIMENTO",VIVA 4K
