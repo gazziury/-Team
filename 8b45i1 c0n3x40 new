@@ -383,7 +383,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72kc6U_J7W5eO2n-e_EiVEg
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7ztv-3vZr8W4tnlhZzoECPU
 #EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT RS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT RS
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xtEOxrWjz0zoJS4hW7bJa4
-
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s" group-title="TV ABERTA",SBT + SAUDADE
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71WFJnawCI2pDBY5vfMGqZA
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s" group-title="TV ABERTA",SBT + SILVIO SANTOS 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75TY2J6bMP6YxldG-L6u7Ko
 
 
 
