@@ -299,6 +299,8 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76d26M2OHfRfh6H-FdqtGHc
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70zQc15u8jZ9EBFnHBNPlNE
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="https://www.novotempo.com/novosparametros/assets/images/logotipo.png" group-title="RELIGIOSO",NOVO TEMPO HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70sduFK4UyySVEkbf2rPJIQ
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="IGREJA MUNDIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logotipo_da_Rede_Mundial.jpg" group-title="RELIGIOSO",IGREJA MUNDIAL
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72MeV3OsSOq1ch98MJ6Muy0
 #EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-5.png" group-title="FILMES & SERIES",OFF 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-HhHCjI3M6Ixwqfp2QZPvc
 #EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-5.png" group-title="FILMES & SERIES",OFF HD
