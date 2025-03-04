@@ -359,12 +359,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_4smF7TfyQzIX01WPFslUo
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74b5y1r7fdrIP9CZluzfTp4
 #EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70994Wl_vN6pP4khL2A5Bzw
-
-
 #EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="http://xplussport.com:8080/images/6c3e8a9085b35db0146aa1dd57d26b3b.png" group-title="RELIGIOSO",REDE GOSPEL
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1052
-#EXTINF:-1 tvg-id="Rede Super" tvg-name="REDE SUPER" tvg-logo="http://xplussport.com:8080/images/fa919d1786ed52f86581665859726dbd.png" group-title="RELIGIOSO",REDE SUPER
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1054
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72Da0dCWUQcstvX2Uhusc0w
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TV_Evangelizar_logo_2019.png/200px-TV_Evangelizar_logo_2019.png" group-title="RELIGIOSO",TV EVANGELIZAR 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70Fh9ps5hEXzvmqRoS2SyxA
+
+
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/532
 #EXTINF:-1 tvg-id="1418f5c4721e363d0c1a67496d3605d4" tvg-name="REDE VIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSO",REDE VIDA HD
