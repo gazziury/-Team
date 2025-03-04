@@ -473,8 +473,10 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77Uilw8vqS7mKYC9-JkLNbY
 
 #EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="https://woohoo.com.br/wp-content/uploads/2023/07/woohoo-horizontal-3-2-1.png" group-title="ENTRETENIMENTO",WOOHOO HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/117
-#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/a/ae/ZooMoo_Kids_%282022%29.png/revision/latest?cb=20231125142557&path-prefix=pt-br" group-title="INFANTIS",ZOOMOO 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/370
+#EXTINF:-1 tvg-id="926c5a250104ac725e2f2afe9884b796" tvg-name="ZOOMOO 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/ZooMoo_Kids_2022.svg/revision/latest/scale-to-width-down/200?cb=20240711210944" group-title="INFANTIS",ZOOMOO 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76qeZdM9nqh9mb21zaSRpLA
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CAZE 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="ESPORTES ONLINE",CAZE 1 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1265
 #EXTINF:-1 tvg-id="" tvg-name="CAZE 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Caz%C3%A9TV.png" group-title="ESPORTES ONLINE",CAZE 2 4K
