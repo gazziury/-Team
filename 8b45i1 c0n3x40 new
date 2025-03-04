@@ -453,13 +453,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76wg6au0xhnA4RFmjlT3m_U
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY743SJw7CWgifY1hY9t2S1-E
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV GAZETA  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="TV ABERTA",TV GAZETA  4K
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71e7uU5XJ-ipzLl7Bb80MIo
+#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV PAMPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="TV ABERTA",TV PAMPA RS
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76EMKDkQYfeEAuIRx6JpU4M
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TV MORENA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",TV MORENA 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1099
-#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="TV NOVO TEMPO" tvg-logo="http://xplussport.com:8080/images/cdc70908008a205cf43dd0c1ed95ad4e.png" group-title="RELIGIOSO",TV NOVO TEMPO
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1053
+
 #EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Tvratimbum2020.png/revision/latest?cb=20200705204322" group-title="INFANTIS",TV RA TIM BUM 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/369
 #EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Tvratimbum2020.png/revision/latest?cb=20200705204322" group-title="INFANTIS",TV RA TIM BUM HD
