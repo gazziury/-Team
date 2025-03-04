@@ -283,10 +283,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7yVo5qYUUN2DexULR11S_x0
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_aeNmsQvjCKMCr9yYhr4vU
 #EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="MUSICA",MULTISHOW HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_3To5lF3biAv7s1OBaeLI0
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="MUSICA",MUSIC BOX  
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7386SsKmnJ2Wg14OjLMNvoo
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="MUSICA",MUSIC BOX  HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7yoEiol09-gmsLPtQFCECmU
 
 
-#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="MUSICA",MUSIC BOX  4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/424
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 4K
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/87
 #EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
