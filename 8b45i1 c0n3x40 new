@@ -463,8 +463,7 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77iebwPlZcgxS0toZyUgkcE
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76-n0VzpOwFEpzBHHcJFnJU
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UFC PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="ESPORTES ONLINE",UFC PPV
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/1122
+
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/319
 #EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="MTV 80s HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="MUSICA",MTV 80s HD
