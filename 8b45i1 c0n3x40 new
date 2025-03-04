@@ -437,13 +437,12 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-Y9upPfjIwKVbyx4SfyzIk
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75C2PjxoCJzjzltT5Z_I5t0
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="PLAYPOCA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPXk48brZ8N2RjLT8LPVpflWbJYx7W1FsEBqMYCnDyBa-hkGZ3" group-title="FILMES & SERIES",PLAYPOCA SERIES 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y5zbSZKKL-YsptUboKy7WI
-
-
-
 #EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA HD " tvg-logo="http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png" group-title="MUSICA",TRACE BRAZUCA HD 
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/969
-#EXTINF:-1 tvg-id="9620278066c852f4fc8025f928289614" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL 4K
-http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/848
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74QLi1pPsWcC5WAt0YHkiIU
+#EXTINF:-1 tvg-id="9620278066c852f4fc8025f928289614" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL HD 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zShqVMypDYXKutQTD18G8g
+
+
 #EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="FILMES & SERIES",ADULT SWIM HD
 http://84.16.253.173:2082/Tourobox2-FlayknAe61/1TttQOj2s9/541
 #EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSO",TV APARECIDA HD
