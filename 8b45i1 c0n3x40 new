@@ -433,6 +433,11 @@ http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xwUoiDdCRiAUswNwAXCrxg
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73NrgoscotfqFUv6QS57cGY
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-Y9upPfjIwKVbyx4SfyzIk
+#EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="PLAYPOCA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPXk48brZ8N2RjLT8LPVpflWbJYx7W1FsEBqMYCnDyBa-hkGZ3" group-title="FILMES & SERIES",PLAYPOCA FILMES
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75C2PjxoCJzjzltT5Z_I5t0
+#EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="PLAYPOCA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPXk48brZ8N2RjLT8LPVpflWbJYx7W1FsEBqMYCnDyBa-hkGZ3" group-title="FILMES & SERIES",PLAYPOCA SERIES 
+http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y5zbSZKKL-YsptUboKy7WI
+
 
 
 #EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA HD " tvg-logo="http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png" group-title="MUSICA",TRACE BRAZUCA HD 
