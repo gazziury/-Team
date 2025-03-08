@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/newtopia/s_01_e_04.mkv ...son 8
+http://series.tuxchannel.mx/series/newtopia/s_01_e_06.mkv ...son 8
 
 
 
@@ -168,14 +168,18 @@ http://series.tuxchannel.mx/series/my_first_first_love/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/ySE4wQa.jpeg" group-title="Mi primer amor de verdad T2",Cap. 08
 http://series.tuxchannel.mx/series/my_first_first_love/s_02_e_08.mkv
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/X0NBvzo.jpeg" group-title="Newtopia",Cap. 01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cIC36RA59lg9ruYtPc7UA3f72yy.jpg" group-title="Newtopia",Cap. 01
 http://series.tuxchannel.mx/series/newtopia/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/X0NBvzo.jpeg" group-title="Newtopia",Cap. 02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cIC36RA59lg9ruYtPc7UA3f72yy.jpg" group-title="Newtopia",Cap. 02
 http://series.tuxchannel.mx/series/newtopia/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/X0NBvzo.jpeg" group-title="Newtopia",Cap. 03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cIC36RA59lg9ruYtPc7UA3f72yy.jpg" group-title="Newtopia",Cap. 03
 http://series.tuxchannel.mx/series/newtopia/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/X0NBvzo.jpeg" group-title="Newtopia",Cap. 04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cIC36RA59lg9ruYtPc7UA3f72yy.jpg" group-title="Newtopia",Cap. 04
 http://series.tuxchannel.mx/series/newtopia/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cIC36RA59lg9ruYtPc7UA3f72yy.jpg" group-title="Newtopia",Cap. 05
+http://series.tuxchannel.mx/series/newtopia/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cIC36RA59lg9ruYtPc7UA3f72yy.jpg" group-title="Newtopia",Cap. 06
+http://series.tuxchannel.mx/series/newtopia/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G31Y1z5h/20250228-030231.jpg" group-title="Si las estrellas hablaran",Cap. 01
 http://series.tuxchannel.mx/series/when_the_stars_gossip/s_01_e_01.mkv
