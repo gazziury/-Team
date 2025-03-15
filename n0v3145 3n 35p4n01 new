@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_12.mkv
-http://series.tuxchannel.mx/series/la_jefa/s_01_e_13.mkv
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_15.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_19.mkv
 
 
@@ -4973,6 +4973,10 @@ http://series.tuxchannel.mx/series/la_jefa/s_01_e_10.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_11.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/CgQUdh1.jpeg" group-title="La jefa",Cap. 012
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CgQUdh1.jpeg" group-title="La jefa",Cap. 013
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/CgQUdh1.jpeg" group-title="La jefa",Cap. 014
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_15.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 01
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_01.mkv
