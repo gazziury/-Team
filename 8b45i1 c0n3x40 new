@@ -379,9 +379,11 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608037
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608042
 #EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="ESPORTES",SPORTV 3 HD 
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608044
-
+#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL 
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/97156
 #EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL HD 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y3GdbWZQk5wZtViUvXM4GU
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/97155
+
 #EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="FILMES & SERIES",TELECINE ACTION 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71r4Prk0N8YoSqYmsWyum_Q
 #EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="FILMES & SERIES",TELECINE ACTION HD
