@@ -29,9 +29,9 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608063
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608065
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND RS
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/469462
-
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND NORDESTE
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76cPEXAKCfzuooonExIETcE
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/469464
+
 #EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND RJ
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70xjJVeXsGC8gfeVsoBRajs
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND SP 
