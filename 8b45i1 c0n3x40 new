@@ -179,9 +179,9 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/674615
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/605479
 #EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/605459
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA HD 
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/605460
 
-#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC FOZ DO IGUAÇU 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7zeM460n0sfnGTpYHZnL5O0
 #EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_aTv4ZVhT4u2Xq9YT4bZps
 #EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA HD
