@@ -69,9 +69,9 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/7802
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/57528
 #EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL HD 
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/44723
+#EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",CNN INTERNACIONAL 
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608155
 
-#EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",CNN ESPANHOL
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77t0frAH41p63bNlhZsFwmg
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY799i733wJdbDgmZvQzy0MW0
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE HD
