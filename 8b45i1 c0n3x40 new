@@ -393,11 +393,9 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/10247
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/100567
 #EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="FILMES & SERIES",TELECINE PIPOCA HD
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/100569
-
 #EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="FILMES & SERIES",TELECINE PREMIUM 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY782qgTxEYBFVuPUkdL2ucC8
-#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="FILMES & SERIES",TELECINE PREMIUM HD
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xC3ZgjfWiB0KGMgXOstCTg
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/4316
+
 #EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="FILMES & SERIES",TELECINE TOUCH 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY72uqD-pUz2q33PQcUiQsNf4
 #EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
