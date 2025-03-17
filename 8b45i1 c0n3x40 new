@@ -399,11 +399,9 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/4316
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/100574
 #EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/100576
-
-#EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC 4K" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73NrgoscotfqFUv6QS57cGY
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-Y9upPfjIwKVbyx4SfyzIk
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608202
+
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="PLAYPOCA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPXk48brZ8N2RjLT8LPVpflWbJYx7W1FsEBqMYCnDyBa-hkGZ3" group-title="FILMES & SERIES",PLAYPOCA FILMES
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75C2PjxoCJzjzltT5Z_I5t0
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="PLAYPOCA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPXk48brZ8N2RjLT8LPVpflWbJYx7W1FsEBqMYCnDyBa-hkGZ3" group-title="FILMES & SERIES",PLAYPOCA SERIES 
