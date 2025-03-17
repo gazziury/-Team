@@ -201,15 +201,11 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/604946
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608192
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",HISTORY 2 HD
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/6111
-
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO + 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74Aevrsn35Iv_GX5jv3NmJk
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/9c/HBOPlusLA.png/revision/latest?cb=20190426122716&path-prefix=es" group-title="FILMES & SERIES",HBO + HD
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75CRmxbkpABr8KJ5DnepNkQ
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES & SERIES",HBO 2 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY776vh2mCDhBWB05-TLIHi3w
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/4365
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES & SERIES",HBO 2 HD
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73e0XzPuroeO0aOcpdkFh5M
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/6110
+
 #EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY77BWc7I2mOOAMQOBqsMQpzw
 #EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO HD
