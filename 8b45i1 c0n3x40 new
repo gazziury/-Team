@@ -107,13 +107,11 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/97191
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/97195
 #EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/97194
-
 #EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E!
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY772NqGILzAkp8eXvHyTM6Q4
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/4382
 #EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! HD 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-DO51ldC8N06qnCjDLf6oQ
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! FHD 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79LcHyHJdhacviFe1tFC6qI
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/10285
+
 #EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",EPTV RIBEIRAO PRETO
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY769VnnVuySa_sdHkq_uFuVM
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  
