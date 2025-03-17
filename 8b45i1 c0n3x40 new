@@ -313,9 +313,9 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608090
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608097
 #EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/129824
-
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD MINAS 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_aYg2zpU0mo1TqOFT2YAjI
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/129781
+
 #EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD DF HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD BRASILIA 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY79SIoagZfRc4G2A1C2iMH80
 #EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD SP 
