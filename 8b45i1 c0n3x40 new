@@ -401,11 +401,9 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/100574
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/100576
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608202
-
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="PLAYPOCA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPXk48brZ8N2RjLT8LPVpflWbJYx7W1FsEBqMYCnDyBa-hkGZ3" group-title="FILMES & SERIES",PLAYPOCA FILMES
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY75C2PjxoCJzjzltT5Z_I5t0
-#EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="PLAYPOCA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPXk48brZ8N2RjLT8LPVpflWbJYx7W1FsEBqMYCnDyBa-hkGZ3" group-title="FILMES & SERIES",PLAYPOCA SERIES 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7y5zbSZKKL-YsptUboKy7WI
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/60789
+
 #EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA HD " tvg-logo="http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png" group-title="MUSICA",TRACE BRAZUCA HD 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY74QLi1pPsWcC5WAt0YHkiIU
 #EXTINF:-1 tvg-id="9620278066c852f4fc8025f928289614" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL HD 
