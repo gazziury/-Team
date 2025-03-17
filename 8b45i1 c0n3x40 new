@@ -121,11 +121,11 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/1160283
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/602677
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="ESPORTES",ESPN 2 HD
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/654304
-
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70V1JZiSSiEsXe3PXBlO_vY
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/654308
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 HD
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7xgQR8RcR7HMuP8CiYAlQOg
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/654310
+
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY70Ax3Qyij_ea6fL4N8Xl4KM
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HD
