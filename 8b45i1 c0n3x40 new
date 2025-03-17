@@ -71,11 +71,11 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/57528
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/44723
 #EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",CNN INTERNACIONAL 
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608155
-
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY799i733wJdbDgmZvQzy0MW0
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608049
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE HD
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7_sVyO1kbFgqxWkKIzlahqs
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/608051
+
 #EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL HD
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7-gCmKHt28w6l-wd8LwiEkQ
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 
