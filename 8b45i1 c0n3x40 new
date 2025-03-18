@@ -407,9 +407,9 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/60789
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/981708
 #EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="INFANTIS",ADULT SWIM HD
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/1021970
+#EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSO",TV APARECIDA 
+http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/111114
 
-#EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSO",TV APARECIDA HD
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY744e9Z3JskEv2iXkoCHLgMk
 #EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="RS21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Rede_seculo_21_nota_oficial.jpg/revision/latest/scale-to-width-down/250?cb=20200825024918" group-title="RELIGIOSO",RS21
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY7z4gMpQB_XwwSfPcukjoaMU
 #EXTINF:-1 tvg-id="" tvg-name="CAMARA DOS DEPUTADOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="TV ABERTA",CAMARA DOS DEPUTADOS HD
