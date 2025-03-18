@@ -410,10 +410,6 @@ http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/1021970
 #EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSO",TV APARECIDA 
 http://prox.gsplscxaswvs.com:80/Soldadotv10/Senhatv10/111114
 
-#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV GAZETA  4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="TV ABERTA",TV GAZETA  4K
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY71e7uU5XJ-ipzLl7Bb80MIo
-#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV PAMPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logotipo_da_TV_Pampa_%282021%29.png" group-title="TV ABERTA",TV PAMPA RS
-http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY76EMKDkQYfeEAuIRx6JpU4M
 #EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/0/0a/TV_R%C3%A1_Tim_Bum.png/revision/latest?cb=20230831021026" group-title="INFANTIS",TV RA TIM BUM
 http://dns2.host:80/play/fw0AdFk2rq1avHb4ODgY73jIXR8fQI53s7E9XzE5Wu8
 #EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/2560px-Logo_de_Tooncast.svg.png" group-title="INFANTIS",TOONCAST 
