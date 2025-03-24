@@ -4,7 +4,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/C3fmCjk8/20250308-203943.jpg" group-title="TEAM VIP",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/BpikWyO.jpeg" group-title="Peliculas 4K",007 Spectre (4K)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rSMhIYMN3FbevuJMnRRYnUn3mt.jpg" group-title="Peliculas 4K",007 Spectre (4K)
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/TW2ZNVJ.jpeg" group-title="Peliculas 4K",Alien Covenant (4K)
 http://vod.tuxchannel.mx/peliculas4k/alien%20covenant.mkv
@@ -8576,7 +8576,7 @@ http://vod.tuxchannel.mx/peliculas/720/zoolander%202.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/0X8URny.jpeg" group-title="2016",Zootopia (2016)
 http://vod.tuxchannel.mx/peliculas/720/zootopia.mkv
 
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/8jSBG0z.jpeg" group-title="2015",007: Spectre (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rSMhIYMN3FbevuJMnRRYnUn3mt.jpg" group-title="2015",007: Spectre (2015)
 http://vod.tuxchannel.mx/peliculas/720/spectre.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/IU2h0Tk.jpeg" group-title="2015",12 balas 3 (2015)
 http://vod.tuxchannel.mx/peliculas/720/12%20rounds%203%20lockdown.mkv
