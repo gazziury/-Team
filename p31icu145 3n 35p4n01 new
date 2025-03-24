@@ -6,7 +6,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rSMhIYMN3FbevuJMnRRYnUn3mt.jpg" group-title="Peliculas 4K",007 Spectre (4K)
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/TW2ZNVJ.jpeg" group-title="Peliculas 4K",Alien Covenant (4K)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/83EMLG7cl9cuMthLh7y4RSwcLt0.jpg" group-title="Peliculas 4K",Alien Covenant (4K)
 http://vod.tuxchannel.mx/peliculas4k/alien%20covenant.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/SuIe9gM.jpeg" group-title="Peliculas 4K",Assassins Creed (4K)
 http://vod.tuxchannel.mx/peliculas4k/assassins%20creed.mkv
@@ -7350,7 +7350,7 @@ http://vod.tuxchannel.mx/peliculas/720/abracadabra.mkv
 http://vod.tuxchannel.mx/peliculas/720/acts%20of%20vengeance.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/t0ZU3sL.jpeg" group-title="2017",A golpe de monedas (2017)
 http://vod.tuxchannel.mx/peliculas/720/coin%20heist.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/0QO93Bu.jpeg" group-title="2017",Alien: Covenant (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/83EMLG7cl9cuMthLh7y4RSwcLt0.jpg" group-title="2017",Alien: Covenant (2017)
 http://vod.tuxchannel.mx/peliculas/720/alien%20covenant.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/HitfSkE.jpeg" group-title="2017",Alta realidad (2017)
 http://vod.tuxchannel.mx/peliculas/720/realityhigh.mkv
