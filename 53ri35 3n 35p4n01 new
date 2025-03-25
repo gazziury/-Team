@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/daredevil_born_again/s_01_e_04.mkv ...serán 9
+
 https://innovatv.store/contenido/SERIES/Mayfair%20Witches/2/lat/1%20(8).mp4
 http://series.tuxchannel.mx/series/mayfair_witches/s_02_e_06.mkv
 
@@ -2367,6 +2369,15 @@ http://series.tuxchannel.mx/series/monster_the_jeffrey_dahmer_story/s_01_e_08.mk
 http://series.tuxchannel.mx/series/monster_the_jeffrey_dahmer_story/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/17/18/16/3249476.jpg" group-title="DAHMER- Monstruo: La historia de Jeffrey Dahmer",Cap. 10
 http://series.tuxchannel.mx/series/monster_the_jeffrey_dahmer_story/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rl7zYeA66W8KqwkqoFy6gpldtH5.jpg" group-title="Daredevil: Born again",Cap. 0
+http://series.tuxchannel.mx/series/daredevil_born_again/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rl7zYeA66W8KqwkqoFy6gpldtH5.jpg" group-title="Daredevil: Born again",Cap. 0
+http://series.tuxchannel.mx/series/daredevil_born_again/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rl7zYeA66W8KqwkqoFy6gpldtH5.jpg" group-title="Daredevil: Born again",Cap. 0
+http://series.tuxchannel.mx/series/daredevil_born_again/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rl7zYeA66W8KqwkqoFy6gpldtH5.jpg" group-title="Daredevil: Born again",Cap. 0
+http://series.tuxchannel.mx/series/daredevil_born_again/s_01_e_04.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="De brutas nada T1",TRAILER
 https://archive.org/download/trailer-d-3-brut-45-n-4d-4-1/trailer%20D3%20Brut45%20N4d4%201.mp4
