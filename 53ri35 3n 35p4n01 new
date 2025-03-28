@@ -6,6 +6,9 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+https://www.innovatv.store/contenido/SERIES/Prime%20Target/lat/Prime%20Target%20objetivo%20clave%20S01E08%20LAT.mp4
+http://series.tuxchannel.mx/series/prime_target/s_01_e_06.mkv
+
 https://www.innovatv.store/contenido/SERIES/Daredevil%20Born%20Again/lat/Daredevil%20Born%20Again%20S01E06%20WEB-DL%201080p%20Latino.mp4
 http://series.tuxchannel.mx/series/daredevil_born_again/s_01_e_04.mkv ...serán 9
 
@@ -9583,6 +9586,23 @@ http://series.tuxchannel.mx/series/preacher/s_04_e_08.mkv
 http://series.tuxchannel.mx/series/preacher/s_04_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/01/09/40/2273453.jpg" group-title="Preacher: Maniacos T4 (SUB)",Cap. 10
 http://series.tuxchannel.mx/series/preacher/s_04_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bIVdjNRQ83AkaMNldNE9c0USBRB.jpg" group-title="Prime target: Objetivo clave",Cap. 01
+http://series.tuxchannel.mx/series/prime_target/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bIVdjNRQ83AkaMNldNE9c0USBRB.jpg" group-title="Prime target: Objetivo clave",Cap. 02
+http://series.tuxchannel.mx/series/prime_target/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bIVdjNRQ83AkaMNldNE9c0USBRB.jpg" group-title="Prime target: Objetivo clave",Cap. 03
+http://series.tuxchannel.mx/series/prime_target/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bIVdjNRQ83AkaMNldNE9c0USBRB.jpg" group-title="Prime target: Objetivo clave",Cap. 04
+http://series.tuxchannel.mx/series/prime_target/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bIVdjNRQ83AkaMNldNE9c0USBRB.jpg" group-title="Prime target: Objetivo clave",Cap. 05
+http://series.tuxchannel.mx/series/prime_target/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bIVdjNRQ83AkaMNldNE9c0USBRB.jpg" group-title="Prime target: Objetivo clave",Cap. 06
+http://series.tuxchannel.mx/series/prime_target/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bIVdjNRQ83AkaMNldNE9c0USBRB.jpg" group-title="Prime target: Objetivo clave",Cap. 07
+https://www.innovatv.store/contenido/SERIES/Prime%20Target/lat/Prime%20Target%20Objetivo%20clave%20S01E07%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bIVdjNRQ83AkaMNldNE9c0USBRB.jpg" group-title="Prime target: Objetivo clave",Cap. 08
+https://www.innovatv.store/contenido/SERIES/Prime%20Target/lat/Prime%20Target%20objetivo%20clave%20S01E08%20LAT.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81SOOChdUuL._AC_UF894,1000_QL80_.jpg" group-title="Proyecto Libro Azul T1 (SUB)",Cap. 01
 http://series.tuxchannel.mx/series/project_blue_book/s_01_e_01.mkv
