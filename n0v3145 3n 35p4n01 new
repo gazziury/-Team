@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_24.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_26.mkv
-http://series.tuxchannel.mx/series/amar/s_01_e_28.mkv
+http://series.tuxchannel.mx/series/amar/s_01_e_34.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_03.mkv
 
 
@@ -258,6 +258,18 @@ http://series.tuxchannel.mx/series/amar/s_01_e_26.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_27.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 028
 http://series.tuxchannel.mx/series/amar/s_01_e_28.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 029
+http://series.tuxchannel.mx/series/amar/s_01_e_29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 030
+http://series.tuxchannel.mx/series/amar/s_01_e_30.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 031
+http://series.tuxchannel.mx/series/amar/s_01_e_31.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 032
+http://series.tuxchannel.mx/series/amar/s_01_e_32.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 033
+http://series.tuxchannel.mx/series/amar/s_01_e_33.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 034
+http://series.tuxchannel.mx/series/amar/s_01_e_34.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8TkzDfknYHbx0NEsD8TSzw3M5f.jpg" group-title="Amor amargo",Cap. 001
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_01.mkv
