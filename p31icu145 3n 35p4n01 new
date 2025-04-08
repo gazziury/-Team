@@ -3046,8 +3046,6 @@ http://vod.tuxchannel.mx/peliculas/720/not%20okay%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/fantasy%20football%202022.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4yQqsszCE5rsj69WIVjb3wzAOFE.jpg" group-title="2022",Feliz año nuestro (2022)
 http://vod.tuxchannel.mx/peliculas/720/happy%20nous%20year%202022.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/US80c2A.jpeg" group-title="2022",Feliz luto (2022)
-http://vod.tuxchannel.mx/peliculas/720/good%20mourning%202022.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/fNBAv3R.jpeg" group-title="2022",Final del camino (2022)
 http://vod.tuxchannel.mx/peliculas/720/end%20of%20the%20road%202022.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/4I6PA1w.jpeg" group-title="2022",Fin de semana en Croacia (2022)
@@ -3096,6 +3094,8 @@ http://vod.tuxchannel.mx/peliculas/720/emancipation%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/halloween%20ends%202022.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/3WlQt1m.jpeg" group-title="2022",Hasta los huesos (2022)
 http://vod.tuxchannel.mx/peliculas/720/bones%20and%20all%202022.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1zQzudSCNBGwzL5Y1zoFS8NGBHN.jpg" group-title="2022",Hasta nunca (2022)
+http://vod.tuxchannel.mx/peliculas/720/good%20mourning%202022.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/KJuq7w0.jpeg" group-title="2022",Hasta que nos volvamos a encontrar (2022)
 http://vod.tuxchannel.mx/peliculas/720/hasta%20que%20nos%20volvamos%20a%20encontrar%202022.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/OtjAd8T.jpeg" group-title="2022",Hawa (2022)
