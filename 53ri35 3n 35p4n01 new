@@ -9,8 +9,6 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://www.innovatv.store/contenido/SERIES/Una%20buena%20familia%20americana/lat/Una%20buena%20familia%20americana%20S01E04%20WEB-DL%201080p%20lat.mp4
 http://series.tuxchannel.mx/series/good_american_family/s_01_e_05.mkv
 
-https://www.innovatv.store/contenido/SERIES/Atrapados/LAT/Atrapados%20S01E06%20WEB-DL%201080p%20Latino.mp4
-
 https://www.innovatv.store/contenido/SERIES/Prime%20Target/lat/Prime%20Target%20objetivo%20clave%20S01E08%20LAT.mp4
 http://series.tuxchannel.mx/series/prime_target/s_01_e_06.mkv
 
@@ -734,17 +732,17 @@ https://innovatv.store/contenido/SERIES/Asalto%20al%20Banco%20Central/lat/1%20(4
 https://innovatv.store/contenido/SERIES/Asalto%20al%20Banco%20Central/lat/1%20(5).mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gmkPnxdevFtJyDbsfPq63E3FMow.jpg" group-title="Atrapados",Cap. 01
-https://www.innovatv.store/contenido/SERIES/Atrapados/LAT/Atrapados%20S01E01%20WEB-DL%201080p%20Latino.mp4
+http://series.tuxchannel.mx/series/caught/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gmkPnxdevFtJyDbsfPq63E3FMow.jpg" group-title="Atrapados",Cap. 02
-https://www.innovatv.store/contenido/SERIES/Atrapados/LAT/Atrapados%20S01E02%20WEB-DL%201080p%20Latino.mp4
+http://series.tuxchannel.mx/series/caught/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gmkPnxdevFtJyDbsfPq63E3FMow.jpg" group-title="Atrapados",Cap. 03
-https://www.innovatv.store/contenido/SERIES/Atrapados/LAT/Atrapados%20S01E03%20WEB-DL%201080p%20Latino.mp4
+http://series.tuxchannel.mx/series/caught/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gmkPnxdevFtJyDbsfPq63E3FMow.jpg" group-title="Atrapados",Cap. 04
-https://www.innovatv.store/contenido/SERIES/Atrapados/LAT/Atrapados%20S01E04%20WEB-DL%201080p%20Latino.mp4
+http://series.tuxchannel.mx/series/caught/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gmkPnxdevFtJyDbsfPq63E3FMow.jpg" group-title="Atrapados",Cap. 05
-https://www.innovatv.store/contenido/SERIES/Atrapados/LAT/Atrapados%20S01E05%20WEB-DL%201080p%20Latino.mp4
+http://series.tuxchannel.mx/series/caught/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gmkPnxdevFtJyDbsfPq63E3FMow.jpg" group-title="Atrapados",Cap. 06
-https://www.innovatv.store/contenido/SERIES/Atrapados/LAT/Atrapados%20S01E06%20WEB-DL%201080p%20Latino.mp4
+http://series.tuxchannel.mx/series/caught/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Avenue 5",TRAILER
 https://archive.org/download/trailer-4v-3nu-3-5/trailer%204v3nu3%205.mp4
