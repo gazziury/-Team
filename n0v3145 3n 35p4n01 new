@@ -10,7 +10,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_33.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_35.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_43.mkv
-http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_12.mkv
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_17.mkv
 
 
 http://series.tuxchannel.mx/series/regreso_a_las_sabinas/s_01_e_10.mkv
@@ -4560,6 +4560,16 @@ http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_10.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_11.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 012
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 013
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 014
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 015
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_15.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 016
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_16.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 017
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_17.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/17/13/04/1534035.jpg" group-title="La desalmada",Cap. 01
 http://series.tuxchannel.mx/series/la_desalmada/s_01_e_01.mkv
