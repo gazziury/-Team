@@ -37,9 +37,9 @@ http://pfsv.io:80/alexandre01/123456789/113583.ts
 http://pfsv.io:80/alexandre01/123456789/113584.ts
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND RJ
 http://pfsv.io:80/alexandre01/123456789/122447.ts
-
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608056
+http://pfsv.io:80/alexandre01/123456789/265.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 1
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/466222
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 2
