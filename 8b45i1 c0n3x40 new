@@ -77,9 +77,11 @@ http://pfsv.io:80/alexandre01/123456789/69087.ts
 http://pfsv.io:80/alexandre01/123456789/266.ts
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE HD
 http://pfsv.io:80/alexandre01/123456789/257.ts
-
 #EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/4391
+http://pfsv.io:80/alexandre01/123456789/115.ts
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL HD 
+http://pfsv.io:80/alexandre01/123456789/106.ts
+
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/61074
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD 
