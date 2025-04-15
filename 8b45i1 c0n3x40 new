@@ -55,11 +55,11 @@ http://pfsv.io:80/alexandre01/123456789/349.ts
 http://pfsv.io:80/alexandre01/123456789/322.ts
 #EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSO",CANCAO NOVA 
 http://pfsv.io:80/alexandre01/123456789/552.ts
-
 #EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1021725
+http://pfsv.io:80/alexandre01/123456789/151.ts
 #EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1021727
+http://pfsv.io:80/alexandre01/123456789/139.ts
+
 #EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIS",CARTOONITO 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1021728
 #EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIS",CARTOONITO HD
