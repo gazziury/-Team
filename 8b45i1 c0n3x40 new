@@ -3,11 +3,11 @@
 http://pfsv.io:80/alexandre01/123456789/324.ts
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="NOTICIAS",AGRO+
 http://pfsv.io:80/alexandre01/123456789/234106.ts
-
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="NOTICIAS",GLOBO NEWS 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608139
+http://pfsv.io:80/alexandre01/123456789/522.ts
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="NOTICIAS",GLOBO NEWS HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608141
+http://pfsv.io:80/alexandre01/123456789/516.ts
+
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjswjC6_m6urSvN-_5l5bGl7ipTKJTO5tKFQ&s" group-title="FILMES & SERIES",AMC
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/20891
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjswjC6_m6urSvN-_5l5bGl7ipTKJTO5tKFQ&s" group-title="FILMES & SERIES",AMC HD
