@@ -7,11 +7,11 @@ http://pfsv.io:80/alexandre01/123456789/234106.ts
 http://pfsv.io:80/alexandre01/123456789/522.ts
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="NOTICIAS",GLOBO NEWS HD 
 http://pfsv.io:80/alexandre01/123456789/516.ts
-
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjswjC6_m6urSvN-_5l5bGl7ipTKJTO5tKFQ&s" group-title="FILMES & SERIES",AMC
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/20891
+http://pfsv.io:80/alexandre01/123456789/325.ts
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjswjC6_m6urSvN-_5l5bGl7ipTKJTO5tKFQ&s" group-title="FILMES & SERIES",AMC HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/7691
+http://pfsv.io:80/alexandre01/123456789/300.ts
+
 #EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/129376
 #EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
