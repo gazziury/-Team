@@ -101,9 +101,11 @@ http://pfsv.io:80/alexandre01/123456789/140.ts
 http://pfsv.io:80/alexandre01/123456789/199.ts
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Science_2011.png/revision/latest?cb=20200822042357&path-prefix=es" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
 http://pfsv.io:80/alexandre01/123456789/184.ts
-
+#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 
+http://pfsv.io:80/alexandre01/123456789/200.ts
 #EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/97188
+http://pfsv.io:80/alexandre01/123456789/185.ts
+
 #EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/97192
 #EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD 
