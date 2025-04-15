@@ -59,11 +59,11 @@ http://pfsv.io:80/alexandre01/123456789/552.ts
 http://pfsv.io:80/alexandre01/123456789/151.ts
 #EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK HD
 http://pfsv.io:80/alexandre01/123456789/139.ts
-
 #EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIS",CARTOONITO 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1021728
+http://pfsv.io:80/alexandre01/123456789/150.ts
 #EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIS",CARTOONITO HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1021729
+http://pfsv.io:80/alexandre01/123456789/138.ts
+
 #EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX HD
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/7802
 #EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL 
