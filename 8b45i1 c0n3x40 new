@@ -321,13 +321,21 @@ http://pfsv.io:80/alexandre01/123456789/339.ts
 http://pfsv.io:80/alexandre01/123456789/300088.ts
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE CLUBES HD 
 http://pfsv.io:80/alexandre01/123456789/300087.ts
-
 #EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 2 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608083
+http://pfsv.io:80/alexandre01/123456789/300065.ts
 #EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 3 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608090
+http://pfsv.io:80/alexandre01/123456789/300069.ts
 #EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 4 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608097
+http://pfsv.io:80/alexandre01/123456789/300072.ts
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 5
+http://pfsv.io:80/alexandre01/123456789/300075.ts
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 6
+http://pfsv.io:80/alexandre01/123456789/300078.ts
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 7
+http://pfsv.io:80/alexandre01/123456789/543.ts
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 8
+http://pfsv.io:80/alexandre01/123456789/300082.ts
+
 #EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/129824
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD MINAS 
