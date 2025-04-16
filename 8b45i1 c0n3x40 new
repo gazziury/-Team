@@ -131,9 +131,11 @@ http://pfsv.io:80/alexandre01/123456789/261.ts
 http://pfsv.io:80/alexandre01/123456789/268.ts
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPORTES",ESPN 3 HD
 http://pfsv.io:80/alexandre01/123456789/258.ts
-
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 
+http://pfsv.io:80/alexandre01/123456789/271.ts
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/654315
+http://pfsv.io:80/alexandre01/123456789/262.ts
+
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8w5nMwg5mzS7PPwM0C8v1-kYWOOEpvPGpHw&s" group-title="ESPORTES",ESPN 5
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/654317
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 
