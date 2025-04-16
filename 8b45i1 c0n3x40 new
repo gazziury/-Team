@@ -161,9 +161,9 @@ http://pfsv.io:80/alexandre01/123456789/429.ts
 http://pfsv.io:80/alexandre01/123456789/423.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO BRASILIA 
 http://pfsv.io:80/alexandre01/123456789/420.ts
-
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO BAHIA 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/113832
+http://pfsv.io:80/alexandre01/123456789/396.ts
+
 #EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RIBEIRAO PRETO
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/97372
 #EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO EPTV SUL DE MINAS 
