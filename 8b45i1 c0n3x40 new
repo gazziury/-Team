@@ -123,9 +123,9 @@ http://pfsv.io:80/alexandre01/123456789/422.ts
 http://pfsv.io:80/alexandre01/123456789/269.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  HD
 http://pfsv.io:80/alexandre01/123456789/259.ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="ESPORTES",ESPN 2 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="https://s3.cine3.com/2020/06/ESPN2.png" group-title="ESPORTES",ESPN 2 
 http://pfsv.io:80/alexandre01/123456789/267.ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="ESPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://s3.cine3.com/2020/06/ESPN2.png" group-title="ESPORTES",ESPN 2 HD
 http://pfsv.io:80/alexandre01/123456789/261.ts
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPORTES",ESPN 3 
 http://pfsv.io:80/alexandre01/123456789/268.ts
