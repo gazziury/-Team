@@ -359,9 +359,9 @@ http://pfsv.io:80/alexandre01/123456789/515.ts
 http://pfsv.io:80/alexandre01/123456789/87.ts
 #EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="RELIGIOSO",REDE GOSPEL
 http://pfsv.io:80/alexandre01/123456789/53333.ts
-
 #EXTINF:-1 tvg-id="Rede Super" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TV_Evangelizar_logo_2019.png/200px-TV_Evangelizar_logo_2019.png" group-title="RELIGIOSO",TV EVANGELIZAR 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/97836
+http://pfsv.io:80/alexandre01/123456789/109555.ts
+
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/4420
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV HD 
