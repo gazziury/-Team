@@ -141,11 +141,11 @@ http://pfsv.io:80/alexandre01/123456789/270.ts
 http://pfsv.io:80/alexandre01/123456789/260.ts
 #EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fashion_TV_%282009%29_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20171118085050" group-title="ENTRETENIMENTO",FASHION TV HD 
 http://pfsv.io:80/alexandre01/123456789/30184.ts
-
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="FILMES & SERIES",FILM & ARTS 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/97600
+http://pfsv.io:80/alexandre01/123456789/348.ts
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="FILMES & SERIES",FILM & ARTS HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/60963
+http://pfsv.io:80/alexandre01/123456789/92668.ts
+
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV HD
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/94117
 #EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK 
