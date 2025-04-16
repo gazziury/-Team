@@ -315,11 +315,9 @@ http://pfsv.io:80/alexandre01/123456789/336.ts
 http://pfsv.io:80/alexandre01/123456789/311.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 4K" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="ESPORTES ONLINE",AMAZON PRIME VIDEO
 http://pfsv.io:80/alexandre01/123456789/208972.ts
-
 #EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="FILMES & SERIES",TCM 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/4321
-#EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="FILMES & SERIES",TCM HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/61003
+http://pfsv.io:80/alexandre01/123456789/339.ts
+
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE CLUBES 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608077
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE CLUBES HD 
