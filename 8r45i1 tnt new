@@ -37,9 +37,11 @@ http://sigcine1.space:80/125666741/893613340/441.ts
 http://sigcine1.space:80/125666741/893613340/325.ts
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND RJ
 http://sigcine1.space:80/125666741/893613340/713.ts
-
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS 
-http://golprxlab.it.com:80/flaviaregina/c98013274b/608056
+http://sigcine1.space:80/125666741/893613340/629.ts
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS HD 
+http://sigcine1.space:80/125666741/893613340/318.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 1
 http://golprxlab.it.com:80/flaviaregina/c98013274b/466222
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 2
