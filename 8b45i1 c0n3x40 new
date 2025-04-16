@@ -365,9 +365,9 @@ http://pfsv.io:80/alexandre01/123456789/109555.ts
 http://pfsv.io:80/alexandre01/123456789/69.ts
 #EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="TV ABERTA",REDE TV HD 
 http://pfsv.io:80/alexandre01/123456789/54.ts
-
 #EXTINF:-1 tvg-id="1418f5c4721e363d0c1a67496d3605d4" tvg-name="REDE VIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="RELIGIOSO",REDE VIDA 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/6939
+http://pfsv.io:80/alexandre01/123456789/551.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="https://rotacult.com.br/wp-content/uploads/2021/11/logo-curta-laranja.png" group-title="ENTRETENIMENTO",CURTA
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/10291
 #EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="https://rotacult.com.br/wp-content/uploads/2021/11/logo-curta-laranja.png" group-title="ENTRETENIMENTO",CURTA HD 
