@@ -219,9 +219,11 @@ http://pfsv.io:80/alexandre01/123456789/188.ts
 http://pfsv.io:80/alexandre01/123456789/481.ts
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES & SERIES",HBO 2 HD
 http://pfsv.io:80/alexandre01/123456789/472.ts
-
 #EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/4366
+http://pfsv.io:80/alexandre01/123456789/480.ts
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO HD 
+http://pfsv.io:80/alexandre01/123456789/474.ts
+
 #EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="FILMES & SERIES",HBO FAMILY 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/4364
 #EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="FILMES & SERIES",HBO FAMILY HD
