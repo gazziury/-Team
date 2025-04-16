@@ -299,11 +299,11 @@ http://pfsv.io:80/alexandre01/123456789/30173.ts
 http://pfsv.io:80/alexandre01/123456789/158.ts
 #EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="INFANTIS",NICK JR HD
 http://pfsv.io:80/alexandre01/123456789/144.ts
-
 #EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1011067
+http://pfsv.io:80/alexandre01/123456789/159.ts
 #EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1010986
+http://pfsv.io:80/alexandre01/123456789/145.ts
+
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="https://www.novotempo.com/novosparametros/assets/images/logotipo.png" group-title="RELIGIOSO",NOVO TEMPO HD
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/6948
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="IGREJA MUNDIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logotipo_da_Rede_Mundial.jpg" group-title="RELIGIOSO",IGREJA MUNDIAL
