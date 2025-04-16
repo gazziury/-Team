@@ -109,9 +109,9 @@ http://pfsv.io:80/alexandre01/123456789/185.ts
 http://pfsv.io:80/alexandre01/123456789/201.ts
 #EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD 
 http://pfsv.io:80/alexandre01/123456789/186.ts
-#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 
+#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 
 http://pfsv.io:80/alexandre01/123456789/202.ts
-#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
 http://pfsv.io:80/alexandre01/123456789/187.ts
 
 #EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E!
