@@ -291,11 +291,11 @@ http://pfsv.io:80/alexandre01/123456789/13.ts
 http://pfsv.io:80/alexandre01/123456789/8.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA",MTV 00 HD 
 http://pfsv.io:80/alexandre01/123456789/90687.ts
-
 #EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="MUSICA",MULTISHOW 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/96569
+http://pfsv.io:80/alexandre01/123456789/10.ts
 #EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="MUSICA",MULTISHOW HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/96570
+http://pfsv.io:80/alexandre01/123456789/30173.ts
+
 #EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="INFANTIS",NICK JR 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1010010
 #EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="INFANTIS",NICK JR HD
