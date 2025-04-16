@@ -455,11 +455,11 @@ http://pfsv.io:80/alexandre01/123456789/30265.ts
 http://pfsv.io:80/alexandre01/123456789/161.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="TV ABERTA",TV SENADO 
 http://pfsv.io:80/alexandre01/123456789/72.ts
-
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/97594
+http://pfsv.io:80/alexandre01/123456789/343.ts
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/5987
+http://pfsv.io:80/alexandre01/123456789/317.ts
+
 #EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="FILMES & SERIES",USA
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/725558
 #EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png" group-title="ENTRETENIMENTO",VIVA 
