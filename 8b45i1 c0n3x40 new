@@ -167,9 +167,9 @@ http://pfsv.io:80/alexandre01/123456789/396.ts
 http://pfsv.io:80/alexandre01/123456789/122761.ts
 #EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO EPTV SUL DE MINAS 
 http://pfsv.io:80/alexandre01/123456789/109982.ts
-
 #EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO INTEGRAÇÃO
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/111029
+http://pfsv.io:80/alexandre01/123456789/122771.ts
+
 #EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO INTER TV 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/674612
 #EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="GLOBO NSC BLUMENAU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO NSC FLORIANOPOLIS
