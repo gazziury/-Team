@@ -267,11 +267,11 @@ http://pfsv.io:80/alexandre01/123456789/182.ts
 http://pfsv.io:80/alexandre01/123456789/204.ts
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
 http://pfsv.io:80/alexandre01/123456789/189.ts
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS 
+http://pfsv.io:80/alexandre01/123456789/98128.ts
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD 
+http://pfsv.io:80/alexandre01/123456789/98165.ts
 
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608178
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/97765
 #EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="FILMES & SERIES",LIFETIME 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/7876
 #EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="FILMES & SERIES",LIFETIME HD 
