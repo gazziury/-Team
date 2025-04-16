@@ -247,11 +247,11 @@ http://pfsv.io:80/alexandre01/123456789/30240.ts
 http://pfsv.io:80/alexandre01/123456789/338.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" group-title="FILMES & SERIES",SPACE HD 
 http://pfsv.io:80/alexandre01/123456789/313.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="FILMES & SERIES",TNT 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1094430
+http://pfsv.io:80/alexandre01/123456789/341.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="FILMES & SERIES",TNT FHD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1094431
+http://pfsv.io:80/alexandre01/123456789/315.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="FILMES & SERIES",TNT SERIES 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/61019
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT NOVELAS HD 
