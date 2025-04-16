@@ -251,9 +251,11 @@ http://pfsv.io:80/alexandre01/123456789/313.ts
 http://pfsv.io:80/alexandre01/123456789/341.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="FILMES & SERIES",TNT FHD 
 http://pfsv.io:80/alexandre01/123456789/315.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="FILMES & SERIES",TNT SERIES 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/61019
+http://pfsv.io:80/alexandre01/123456789/342.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="FILMES & SERIES",TNT SERIES HD 
+http://pfsv.io:80/alexandre01/123456789/316.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT NOVELAS HD 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/7873
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV 
