@@ -119,11 +119,11 @@ http://pfsv.io:80/alexandre01/123456789/117.ts
 http://pfsv.io:80/alexandre01/123456789/108.ts
 #EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",EPTV RIBEIRAO PRETO
 http://pfsv.io:80/alexandre01/123456789/422.ts
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1160282
+http://pfsv.io:80/alexandre01/123456789/269.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1160283
+http://pfsv.io:80/alexandre01/123456789/259.ts
+
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="ESPORTES",ESPN 2 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/602677
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="ESPORTES",ESPN 2 HD
