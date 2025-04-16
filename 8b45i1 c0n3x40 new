@@ -375,19 +375,19 @@ http://pfsv.io:80/alexandre01/123456789/107.ts
 http://pfsv.io:80/alexandre01/123456789/127311.ts
 #EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sabor_%26_Arte.png/revision/latest?cb=20220621123114" group-title="ENTRETENIMENTO",SABOR & ARTE HD 
 http://pfsv.io:80/alexandre01/123456789/127312.ts
-
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/644703
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/469477
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT SP
+http://pfsv.io:80/alexandre01/123456789/174142.ts
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT SP HD
+http://pfsv.io:80/alexandre01/123456789/55.ts
 #EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT RJ 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/469479
-#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT BRASILIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT BRASILIA HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/469480
-#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT INTERIOR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT INTERIOR HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/469483
-#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT RS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT RS HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/469493
+http://pfsv.io:80/alexandre01/123456789/134565.ts
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT BRASILIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT ALTEROSA
+http://pfsv.io:80/alexandre01/123456789/296294.ts
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT INTERIOR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT INTERIOR 
+http://pfsv.io:80/alexandre01/123456789/70.ts
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT RS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT RS 
+http://pfsv.io:80/alexandre01/123456789/49111.ts
+
 #EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8V3UlZYOQw8V0FuAfSUFZCFPm3VnJMrf1w&s" group-title="TV ABERTA",SBT + SILVIO SANTOS 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/644628
 #EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sony_Channel_2019_black_and_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20200117012233&path-prefix=es" group-title="FILMES & SERIES",SONY CHANNEL 
