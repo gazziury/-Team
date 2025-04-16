@@ -303,15 +303,13 @@ http://pfsv.io:80/alexandre01/123456789/144.ts
 http://pfsv.io:80/alexandre01/123456789/159.ts
 #EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="INFANTIS",NICKELODEON HD 
 http://pfsv.io:80/alexandre01/123456789/145.ts
-
-#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="https://www.novotempo.com/novosparametros/assets/images/logotipo.png" group-title="RELIGIOSO",NOVO TEMPO HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/6948
-#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="IGREJA MUNDIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logotipo_da_Rede_Mundial.jpg" group-title="RELIGIOSO",IGREJA MUNDIAL
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/113019
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="https://www.novotempo.com/novosparametros/assets/images/logotipo.png" group-title="RELIGIOSO",NOVO TEMPO 
+http://pfsv.io:80/alexandre01/123456789/56181.ts
 #EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="IGREJA UNIVERSAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="RELIGIOSO",IGREJA UNIVERSAL 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/560100
-#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSO",PAI ETERNO FHD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/45595
+http://pfsv.io:80/alexandre01/123456789/53286.ts
+#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSO",PAI ETERNO 
+http://pfsv.io:80/alexandre01/123456789/290302.ts
+
 #EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="FILMES & SERIES",PARAMOUNT
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/6946
 #EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="FILMES & SERIES",PARAMOUNT HD
