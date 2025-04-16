@@ -371,9 +371,9 @@ http://pfsv.io:80/alexandre01/123456789/551.ts
 http://pfsv.io:80/alexandre01/123456789/116.ts
 #EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="https://rotacult.com.br/wp-content/uploads/2021/11/logo-curta-laranja.png" group-title="ENTRETENIMENTO",CURTA HD 
 http://pfsv.io:80/alexandre01/123456789/107.ts
-#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD" tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="ENTRETENIMENTO",SABOR & ARTE 
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sabor_%26_Arte.png/revision/latest?cb=20220621123114" group-title="ENTRETENIMENTO",SABOR & ARTE 
 http://pfsv.io:80/alexandre01/123456789/127311.ts
-#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD" tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="ENTRETENIMENTO",SABOR & ARTE HD 
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sabor_%26_Arte.png/revision/latest?cb=20220621123114" group-title="ENTRETENIMENTO",SABOR & ARTE HD 
 http://pfsv.io:80/alexandre01/123456789/127312.ts
 
 #EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20230417184331&path-prefix=es" group-title="TV ABERTA",SBT 
