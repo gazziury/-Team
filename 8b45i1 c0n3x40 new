@@ -191,7 +191,6 @@ http://pfsv.io:80/alexandre01/123456789/134304.ts
 http://pfsv.io:80/alexandre01/123456789/428.ts
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA HD 
 http://pfsv.io:80/alexandre01/123456789/393.ts
-
 #EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA 
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SERGIPE 
@@ -199,6 +198,7 @@ http://pfsv.io:80/alexandre01/123456789/393.ts
 #EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM 
 http://pfsv.io:80/alexandre01/123456789/455.ts
 #EXTINF:-1 tvg-id="9d031a9597550c5a95f4b8d32e0bcc0e" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV TEM
+http://pfsv.io:80/alexandre01/123456789/456.ts
 
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Gloob_2012.png/revision/latest?cb=20210419173733&path-prefix=es" group-title="INFANTIS",GLOOB 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1011525
