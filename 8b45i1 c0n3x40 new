@@ -149,11 +149,11 @@ http://pfsv.io:80/alexandre01/123456789/92668.ts
 http://pfsv.io:80/alexandre01/123456789/118.ts
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/2560px-Fish_TV_logo_2022.svg.png" group-title="DOCUMENTARIOS",FISH TV HD
 http://pfsv.io:80/alexandre01/123456789/109.ts
-
 #EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/6959
+http://pfsv.io:80/alexandre01/123456789/119.ts
 #EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/7534
+http://pfsv.io:80/alexandre01/123456789/110.ts
+
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RIO
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/113807
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SAO PAULO
