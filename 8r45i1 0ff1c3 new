@@ -1,240 +1,242 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E
-http://pfsv.io:80/alexandre01/123456789/324.ts
+http://pfsv.io:80/ana1002/ana1002/324.ts
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AGRO+ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Agromais-band-logo.png" group-title="NOTICIAS",AGRO+
-http://pfsv.io:80/alexandre01/123456789/234106.ts
+http://pfsv.io:80/ana1002/ana1002/234106.ts
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="NOTICIAS",GLOBO NEWS 
-http://pfsv.io:80/alexandre01/123456789/522.ts
+http://pfsv.io:80/ana1002/ana1002/522.ts
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="NOTICIAS",GLOBO NEWS HD 
-http://pfsv.io:80/alexandre01/123456789/516.ts
+http://pfsv.io:80/ana1002/ana1002/516.ts
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjswjC6_m6urSvN-_5l5bGl7ipTKJTO5tKFQ&s" group-title="FILMES & SERIES",AMC
-http://pfsv.io:80/alexandre01/123456789/325.ts
+http://pfsv.io:80/ana1002/ana1002/325.ts
 #EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjswjC6_m6urSvN-_5l5bGl7ipTKJTO5tKFQ&s" group-title="FILMES & SERIES",AMC HD
-http://pfsv.io:80/alexandre01/123456789/300.ts
+http://pfsv.io:80/ana1002/ana1002/300.ts
 #EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 
-http://pfsv.io:80/alexandre01/123456789/194.ts
+http://pfsv.io:80/ana1002/ana1002/194.ts
 #EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD 
-http://pfsv.io:80/alexandre01/123456789/179.ts
+http://pfsv.io:80/ana1002/ana1002/179.ts
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1
-http://pfsv.io:80/alexandre01/123456789/195.ts
+http://pfsv.io:80/ana1002/ana1002/195.ts
 #EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 HD
-http://pfsv.io:80/alexandre01/123456789/180.ts
+http://pfsv.io:80/ana1002/ana1002/180.ts
 #EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/284?cb=20201126064846" group-title="FILMES & SERIES",AXN 
-http://pfsv.io:80/alexandre01/123456789/326.ts
+http://pfsv.io:80/ana1002/ana1002/326.ts
 #EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/284?cb=20201126064846" group-title="FILMES & SERIES",AXN HD 
-http://pfsv.io:80/alexandre01/123456789/301.ts
+http://pfsv.io:80/ana1002/ana1002/301.ts
 #EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Band_News_TV_2021_Logo.png" group-title="NOTICIAS",BAND NEWS 
-http://pfsv.io:80/alexandre01/123456789/520.ts
+http://pfsv.io:80/ana1002/ana1002/520.ts
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Band_News_TV_2021_Logo.png" group-title="NOTICIAS",BAND NEWS HD
-http://pfsv.io:80/alexandre01/123456789/514.ts
+http://pfsv.io:80/ana1002/ana1002/514.ts
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND RS
-http://pfsv.io:80/alexandre01/123456789/123576.ts
+http://pfsv.io:80/ana1002/ana1002/123576.ts
 #EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND MINAS
-http://pfsv.io:80/alexandre01/123456789/123582.ts
+http://pfsv.io:80/ana1002/ana1002/123582.ts
 #EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND SP
-http://pfsv.io:80/alexandre01/123456789/113583.ts
+http://pfsv.io:80/ana1002/ana1002/113583.ts
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND SP HD
-http://pfsv.io:80/alexandre01/123456789/113584.ts
+http://pfsv.io:80/ana1002/ana1002/113584.ts
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s" group-title="TV ABERTA",BAND RJ
-http://pfsv.io:80/alexandre01/123456789/122447.ts
+http://pfsv.io:80/ana1002/ana1002/122447.ts
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS 
-http://pfsv.io:80/alexandre01/123456789/265.ts
+http://pfsv.io:80/ana1002/ana1002/265.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 1
-http://pfsv.io:80/alexandre01/123456789/300146.ts
+http://pfsv.io:80/ana1002/ana1002/300146.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 2
-http://pfsv.io:80/alexandre01/123456789/300147.ts
+http://pfsv.io:80/ana1002/ana1002/300147.ts
 #EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS 4K" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS
-http://pfsv.io:80/alexandre01/123456789/12.ts
+http://pfsv.io:80/ana1002/ana1002/12.ts
 #EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS HD" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS HD
-http://pfsv.io:80/alexandre01/123456789/18.ts
+http://pfsv.io:80/ana1002/ana1002/18.ts
 #EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/800px-Logo_Canal_do_Boi_-_PNG.png" group-title="TV ABERTA",CANAL DO BOI HD
-http://pfsv.io:80/alexandre01/123456789/83.ts
+http://pfsv.io:80/ana1002/ana1002/83.ts
 #EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="FILMES & SERIES",CANAL BRASIL 
-http://pfsv.io:80/alexandre01/123456789/349.ts
+http://pfsv.io:80/ana1002/ana1002/349.ts
 #EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="FILMES & SERIES",CANAL BRASIL HD
-http://pfsv.io:80/alexandre01/123456789/322.ts
+http://pfsv.io:80/ana1002/ana1002/322.ts
 #EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSO",CANCAO NOVA 
-http://pfsv.io:80/alexandre01/123456789/552.ts
+http://pfsv.io:80/ana1002/ana1002/552.ts
 #EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK 
-http://pfsv.io:80/alexandre01/123456789/151.ts
+http://pfsv.io:80/ana1002/ana1002/151.ts
 #EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK HD
-http://pfsv.io:80/alexandre01/123456789/139.ts
+http://pfsv.io:80/ana1002/ana1002/139.ts
 #EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIS",CARTOONITO 
-http://pfsv.io:80/alexandre01/123456789/150.ts
+http://pfsv.io:80/ana1002/ana1002/150.ts
 #EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIS",CARTOONITO HD
-http://pfsv.io:80/alexandre01/123456789/138.ts
+http://pfsv.io:80/ana1002/ana1002/138.ts
 #EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX 
-http://pfsv.io:80/alexandre01/123456789/328.ts
+http://pfsv.io:80/ana1002/ana1002/328.ts
 #EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX HD
-http://pfsv.io:80/alexandre01/123456789/303.ts
+http://pfsv.io:80/ana1002/ana1002/303.ts
 #EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL 
-http://pfsv.io:80/alexandre01/123456789/523.ts
+http://pfsv.io:80/ana1002/ana1002/523.ts
 #EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL HD 
-http://pfsv.io:80/alexandre01/123456789/517.ts
+http://pfsv.io:80/ana1002/ana1002/517.ts
 #EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS",CNN INTERNACIONAL 
-http://pfsv.io:80/alexandre01/123456789/69087.ts
+http://pfsv.io:80/ana1002/ana1002/69087.ts
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE 
-http://pfsv.io:80/alexandre01/123456789/266.ts
+http://pfsv.io:80/ana1002/ana1002/266.ts
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE HD
-http://pfsv.io:80/alexandre01/123456789/257.ts
+http://pfsv.io:80/ana1002/ana1002/257.ts
 #EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL
-http://pfsv.io:80/alexandre01/123456789/115.ts
+http://pfsv.io:80/ana1002/ana1002/115.ts
 #EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL HD 
-http://pfsv.io:80/alexandre01/123456789/106.ts
+http://pfsv.io:80/ana1002/ana1002/106.ts
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 
-http://pfsv.io:80/alexandre01/123456789/196.ts
+http://pfsv.io:80/ana1002/ana1002/196.ts
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1000px-2019_Discovery_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD 
-http://pfsv.io:80/alexandre01/123456789/181.ts
+http://pfsv.io:80/ana1002/ana1002/181.ts
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H 
-http://pfsv.io:80/alexandre01/123456789/30254.ts
+http://pfsv.io:80/ana1002/ana1002/30254.ts
 #EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
-http://pfsv.io:80/alexandre01/123456789/198.ts
+http://pfsv.io:80/ana1002/ana1002/198.ts
 #EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTARIOS",DISCOVERY ID 
-http://pfsv.io:80/alexandre01/123456789/205.ts
+http://pfsv.io:80/ana1002/ana1002/205.ts
 #EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
-http://pfsv.io:80/alexandre01/123456789/190.ts
+http://pfsv.io:80/ana1002/ana1002/190.ts
 #EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/DKids2070.png/revision/latest?cb=20240829223421&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS 
-http://pfsv.io:80/alexandre01/123456789/152.ts
+http://pfsv.io:80/ana1002/ana1002/152.ts
 #EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/DKids2070.png/revision/latest?cb=20240829223421&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS HD
-http://pfsv.io:80/alexandre01/123456789/140.ts
+http://pfsv.io:80/ana1002/ana1002/140.ts
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Science_2011.png/revision/latest?cb=20200822042357&path-prefix=es" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 
-http://pfsv.io:80/alexandre01/123456789/199.ts
+http://pfsv.io:80/ana1002/ana1002/199.ts
 #EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Science_2011.png/revision/latest?cb=20200822042357&path-prefix=es" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://pfsv.io:80/alexandre01/123456789/184.ts
+http://pfsv.io:80/ana1002/ana1002/184.ts
 #EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 
-http://pfsv.io:80/alexandre01/123456789/200.ts
+http://pfsv.io:80/ana1002/ana1002/200.ts
 #EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://pfsv.io:80/alexandre01/123456789/185.ts
+http://pfsv.io:80/ana1002/ana1002/185.ts
 #EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 
-http://pfsv.io:80/alexandre01/123456789/201.ts
+http://pfsv.io:80/ana1002/ana1002/201.ts
 #EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD 
-http://pfsv.io:80/alexandre01/123456789/186.ts
+http://pfsv.io:80/ana1002/ana1002/186.ts
 #EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 
-http://pfsv.io:80/alexandre01/123456789/202.ts
+http://pfsv.io:80/ana1002/ana1002/202.ts
 #EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
-http://pfsv.io:80/alexandre01/123456789/187.ts
+http://pfsv.io:80/ana1002/ana1002/187.ts
 #EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="ENTRETENIMENTO",E!
-http://pfsv.io:80/alexandre01/123456789/117.ts
+http://pfsv.io:80/ana1002/ana1002/117.ts
 #EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="ENTRETENIMENTO",E! HD 
-http://pfsv.io:80/alexandre01/123456789/108.ts
+http://pfsv.io:80/ana1002/ana1002/108.ts
 #EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",EPTV RIBEIRAO PRETO
-http://pfsv.io:80/alexandre01/123456789/422.ts
+http://pfsv.io:80/ana1002/ana1002/422.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  
-http://pfsv.io:80/alexandre01/123456789/269.ts
+http://pfsv.io:80/ana1002/ana1002/269.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="ESPORTES",ESPN  HD
-http://pfsv.io:80/alexandre01/123456789/259.ts
+http://pfsv.io:80/ana1002/ana1002/259.ts
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="https://s3.cine3.com/2020/06/ESPN2.png" group-title="ESPORTES",ESPN 2 
-http://pfsv.io:80/alexandre01/123456789/267.ts
+http://pfsv.io:80/ana1002/ana1002/267.ts
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://s3.cine3.com/2020/06/ESPN2.png" group-title="ESPORTES",ESPN 2 HD
-http://pfsv.io:80/alexandre01/123456789/261.ts
+http://pfsv.io:80/ana1002/ana1002/261.ts
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPORTES",ESPN 3 
-http://pfsv.io:80/alexandre01/123456789/268.ts
+http://pfsv.io:80/ana1002/ana1002/268.ts
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPORTES",ESPN 3 HD
-http://pfsv.io:80/alexandre01/123456789/258.ts
+http://pfsv.io:80/ana1002/ana1002/258.ts
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 
-http://pfsv.io:80/alexandre01/123456789/271.ts
+http://pfsv.io:80/ana1002/ana1002/271.ts
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HD
-http://pfsv.io:80/alexandre01/123456789/262.ts
+http://pfsv.io:80/ana1002/ana1002/262.ts
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 
-http://pfsv.io:80/alexandre01/123456789/270.ts
+http://pfsv.io:80/ana1002/ana1002/270.ts
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 HD 
-http://pfsv.io:80/alexandre01/123456789/260.ts
+http://pfsv.io:80/ana1002/ana1002/260.ts
 #EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fashion_TV_%282009%29_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20171118085050" group-title="ENTRETENIMENTO",FASHION TV HD 
-http://pfsv.io:80/alexandre01/123456789/30184.ts
+http://pfsv.io:80/ana1002/ana1002/30184.ts
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="FILMES & SERIES",FILM & ARTS 
-http://pfsv.io:80/alexandre01/123456789/348.ts
+http://pfsv.io:80/ana1002/ana1002/348.ts
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="FILMES & SERIES",FILM & ARTS HD
-http://pfsv.io:80/alexandre01/123456789/92668.ts
+http://pfsv.io:80/ana1002/ana1002/92668.ts
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/2560px-Fish_TV_logo_2022.svg.png" group-title="DOCUMENTARIOS",FISH TV 
-http://pfsv.io:80/alexandre01/123456789/118.ts
+http://pfsv.io:80/ana1002/ana1002/118.ts
 #EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/2560px-Fish_TV_logo_2022.svg.png" group-title="DOCUMENTARIOS",FISH TV HD
-http://pfsv.io:80/alexandre01/123456789/109.ts
+http://pfsv.io:80/ana1002/ana1002/109.ts
 #EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK 
-http://pfsv.io:80/alexandre01/123456789/119.ts
+http://pfsv.io:80/ana1002/ana1002/119.ts
 #EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK HD
-http://pfsv.io:80/alexandre01/123456789/110.ts
+http://pfsv.io:80/ana1002/ana1002/110.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RIO
-http://pfsv.io:80/alexandre01/123456789/427.ts
+http://pfsv.io:80/ana1002/ana1002/427.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SAO PAULO
-http://pfsv.io:80/alexandre01/123456789/429.ts
+http://pfsv.io:80/ana1002/ana1002/429.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO MINAS
-http://pfsv.io:80/alexandre01/123456789/423.ts
+http://pfsv.io:80/ana1002/ana1002/423.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO BRASILIA 
-http://pfsv.io:80/alexandre01/123456789/420.ts
+http://pfsv.io:80/ana1002/ana1002/420.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO BAHIA 
-http://pfsv.io:80/alexandre01/123456789/396.ts
+http://pfsv.io:80/ana1002/ana1002/396.ts
 #EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RIBEIRAO PRETO
-http://pfsv.io:80/alexandre01/123456789/122761.ts
+http://pfsv.io:80/ana1002/ana1002/122761.ts
 #EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO EPTV SUL DE MINAS 
-http://pfsv.io:80/alexandre01/123456789/109982.ts
+http://pfsv.io:80/ana1002/ana1002/109982.ts
 #EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO INTEGRAÇÃO
-http://pfsv.io:80/alexandre01/123456789/122771.ts
+http://pfsv.io:80/ana1002/ana1002/122771.ts
 #EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO CAXIAS
-http://pfsv.io:80/alexandre01/123456789/448.ts
+http://pfsv.io:80/ana1002/ana1002/448.ts
 #EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="GLOBO NSC BLUMENAU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO NSC FLORIANOPOLIS
-http://pfsv.io:80/alexandre01/123456789/425.ts
+http://pfsv.io:80/ana1002/ana1002/425.ts
 #EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RBS PORTO ALEGRE 
-http://pfsv.io:80/alexandre01/123456789/34013.ts
+http://pfsv.io:80/ana1002/ana1002/34013.ts
 #EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RBS PASSO FUNDO
-http://pfsv.io:80/alexandre01/123456789/132951.ts
+http://pfsv.io:80/ana1002/ana1002/132951.ts
 #EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RBS PELOTAS
-http://pfsv.io:80/alexandre01/123456789/450.ts
+http://pfsv.io:80/ana1002/ana1002/450.ts
 #EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO CRICIUMA 
-http://pfsv.io:80/alexandre01/123456789/121127.ts
+http://pfsv.io:80/ana1002/ana1002/121127.ts
 #EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RBS SANTA MARIA
-http://pfsv.io:80/alexandre01/123456789/43840.ts
+http://pfsv.io:80/ana1002/ana1002/43840.ts
 #EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO CASCAVEL
-http://pfsv.io:80/alexandre01/123456789/199788.ts
+http://pfsv.io:80/ana1002/ana1002/199788.ts
 #EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO AMAZONIA
-http://pfsv.io:80/alexandre01/123456789/134304.ts
+http://pfsv.io:80/ana1002/ana1002/134304.ts
 #EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA
-http://pfsv.io:80/alexandre01/123456789/428.ts
+http://pfsv.io:80/ana1002/ana1002/428.ts
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA HD 
-http://pfsv.io:80/alexandre01/123456789/393.ts
+http://pfsv.io:80/ana1002/ana1002/393.ts
 #EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA 
-http://pfsv.io:80/alexandre01/123456789/121126.ts
+http://pfsv.io:80/ana1002/ana1002/121126.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SERGIPE 
-http://pfsv.io:80/alexandre01/123456789/246895.ts
+http://pfsv.io:80/ana1002/ana1002/246895.ts
 #EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM 
-http://pfsv.io:80/alexandre01/123456789/455.ts
+http://pfsv.io:80/ana1002/ana1002/455.ts
 #EXTINF:-1 tvg-id="9d031a9597550c5a95f4b8d32e0bcc0e" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO TV TEM
-http://pfsv.io:80/alexandre01/123456789/456.ts
+http://pfsv.io:80/ana1002/ana1002/456.ts
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Gloob_2012.png/revision/latest?cb=20210419173733&path-prefix=es" group-title="INFANTIS",GLOOB 
-http://pfsv.io:80/alexandre01/123456789/156.ts
+http://pfsv.io:80/ana1002/ana1002/156.ts
 #EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Gloob_2012.png/revision/latest?cb=20210419173733&path-prefix=es" group-title="INFANTIS",GLOOB HD
-http://pfsv.io:80/alexandre01/123456789/142.ts
+http://pfsv.io:80/ana1002/ana1002/142.ts
 #EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO 
-http://pfsv.io:80/alexandre01/123456789/1068.ts
+http://pfsv.io:80/ana1002/ana1002/1068.ts
 #EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO HD
-http://pfsv.io:80/alexandre01/123456789/30274.ts
+http://pfsv.io:80/ana1002/ana1002/30274.ts
 #EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/2560px-GNT_logo-roxo.svg.png" group-title="ENTRETENIMENTO",GNT 
-http://pfsv.io:80/alexandre01/123456789/120.ts
+http://pfsv.io:80/ana1002/ana1002/120.ts
 #EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/2560px-GNT_logo-roxo.svg.png" group-title="ENTRETENIMENTO",GNT HD
-http://pfsv.io:80/alexandre01/123456789/111.ts
+http://pfsv.io:80/ana1002/ana1002/111.ts
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 4K" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",HISTORY 2
-http://pfsv.io:80/alexandre01/123456789/203.ts
+http://pfsv.io:80/ana1002/ana1002/203.ts
 #EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="DOCUMENTARIOS",HISTORY 2 HD
-http://pfsv.io:80/alexandre01/123456789/188.ts
+http://pfsv.io:80/ana1002/ana1002/188.ts
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES & SERIES",HBO 2 
-http://pfsv.io:80/alexandre01/123456789/481.ts
+http://pfsv.io:80/ana1002/ana1002/481.ts
 #EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="FILMES & SERIES",HBO 2 HD
-http://pfsv.io:80/alexandre01/123456789/472.ts
+http://pfsv.io:80/ana1002/ana1002/472.ts
 #EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO 
-http://pfsv.io:80/alexandre01/123456789/480.ts
+http://pfsv.io:80/ana1002/ana1002/480.ts
 #EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="FILMES & SERIES",HBO HD 
-http://pfsv.io:80/alexandre01/123456789/474.ts
+http://pfsv.io:80/ana1002/ana1002/474.ts
 #EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="FILMES & SERIES",HBO FAMILY 
-http://pfsv.io:80/alexandre01/123456789/483.ts
+http://pfsv.io:80/ana1002/ana1002/483.ts
 #EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="FILMES & SERIES",HBO FAMILY HD
-http://pfsv.io:80/alexandre01/123456789/473.ts
+http://pfsv.io:80/ana1002/ana1002/473.ts
 #EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="FILMES & SERIES",HBO MUNDI 
-http://pfsv.io:80/alexandre01/123456789/485.ts
+http://pfsv.io:80/ana1002/ana1002/485.ts
 #EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="FILMES & SERIES",HBO MUNDI HD
-http://pfsv.io:80/alexandre01/123456789/477.ts
+http://pfsv.io:80/ana1002/ana1002/477.ts
 #EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP 
-http://pfsv.io:80/alexandre01/123456789/487.ts
+http://pfsv.io:80/ana1002/ana1002/487.ts
 #EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP HD
-http://pfsv.io:80/alexandre01/123456789/479.ts
+http://pfsv.io:80/ana1002/ana1002/479.ts
+
+
 #EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE 
 http://pfsv.io:80/alexandre01/123456789/484.ts
 #EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE HD 
