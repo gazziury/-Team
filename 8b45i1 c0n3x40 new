@@ -448,8 +448,6 @@ http://pfsv.io:80/alexandre01/123456789/90689.ts
 #EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Trace_Brazuca_logo.png" group-title="MUSICA",TRACE BRAZUCA HD
 http://pfsv.io:80/alexandre01/123456789/90690.ts
 
-#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="ADULT SWIM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/2560px-Adult_Swim_2003_logo.svg.png" group-title="INFANTIS",ADULT SWIM HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/1021970
 #EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSO",TV APARECIDA 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/111114
 #EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/0/0a/TV_R%C3%A1_Tim_Bum.png/revision/latest?cb=20230831021026" group-title="INFANTIS",TV RA TIM BUM
