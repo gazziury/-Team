@@ -203,6 +203,10 @@ http://pfsv.io:80/alexandre01/123456789/456.ts
 http://pfsv.io:80/alexandre01/123456789/156.ts
 #EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Gloob_2012.png/revision/latest?cb=20210419173733&path-prefix=es" group-title="INFANTIS",GLOOB HD
 http://pfsv.io:80/alexandre01/123456789/142.ts
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO 
+http://pfsv.io:80/alexandre01/123456789/1068.ts
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="INFANTIS",GLOOBINHO HD
+http://pfsv.io:80/alexandre01/123456789/30274.ts
 
 #EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/2560px-GNT_logo-roxo.svg.png" group-title="ENTRETENIMENTO",GNT 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/604945
