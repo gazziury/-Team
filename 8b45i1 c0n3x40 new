@@ -335,25 +335,23 @@ http://pfsv.io:80/alexandre01/123456789/300078.ts
 http://pfsv.io:80/alexandre01/123456789/543.ts
 #EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE 8
 http://pfsv.io:80/alexandre01/123456789/300082.ts
-
-#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/129824
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD GO
+http://pfsv.io:80/alexandre01/123456789/63.ts
 #EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD MINAS 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/129781
+http://pfsv.io:80/alexandre01/123456789/58.ts
 #EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD DF HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD BRASILIA 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/644669
+http://pfsv.io:80/alexandre01/123456789/60.ts
 #EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD SP 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/624937
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD MANAUS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD MANAUS 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/129853
-#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD RS HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/129786
+http://pfsv.io:80/alexandre01/123456789/67.ts
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD RS 
+http://pfsv.io:80/alexandre01/123456789/207356.ts
 #EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD BAHIA
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/624933
+http://pfsv.io:80/alexandre01/123456789/61.ts
 #EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD RJ 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/643419
+http://pfsv.io:80/alexandre01/123456789/76.ts
 #EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231114175232&path-prefix=es" group-title="TV ABERTA",RECORD BELEM
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/671945
+http://pfsv.io:80/alexandre01/123456789/62.ts
+
 #EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/1200px-Record_News_logo_2023.svg.png" group-title="NOTICIAS",RECORD NEWS HD 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608148
 #EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL HD 
