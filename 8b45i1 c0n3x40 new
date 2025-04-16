@@ -423,9 +423,9 @@ http://pfsv.io:80/alexandre01/123456789/568.ts
 http://pfsv.io:80/alexandre01/123456789/575.ts
 #EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="FILMES & SERIES",TELECINE CULT HD
 http://pfsv.io:80/alexandre01/123456789/569.ts
-#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="FILMES & SERIES",TELECINE FUN
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="FILMES & SERIES",TELECINE FUN
 http://pfsv.io:80/alexandre01/123456789/576.ts
-#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="FILMES & SERIES",TELECINE FUN HD
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="FILMES & SERIES",TELECINE FUN HD
 http://pfsv.io:80/alexandre01/123456789/570.ts
 #EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="FILMES & SERIES",TELECINE PIPOCA 
 http://pfsv.io:80/alexandre01/123456789/578.ts
