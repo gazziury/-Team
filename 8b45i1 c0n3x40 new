@@ -259,11 +259,11 @@ http://pfsv.io:80/alexandre01/123456789/316.ts
 http://pfsv.io:80/alexandre01/123456789/148423.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT NOVELAS HD 
 http://pfsv.io:80/alexandre01/123456789/148422.ts
-
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/10236
+http://pfsv.io:80/alexandre01/123456789/197.ts
 #EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/7862
+http://pfsv.io:80/alexandre01/123456789/182.ts
+
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608190
 #EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/History-Channel-logo.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
