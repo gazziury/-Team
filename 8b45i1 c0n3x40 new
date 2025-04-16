@@ -280,9 +280,9 @@ http://pfsv.io:80/alexandre01/123456789/335.ts
 #EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="FILMES & SERIES",MEGAPIX HD
 http://pfsv.io:80/alexandre01/123456789/310.ts
 
-#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV 
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="MUSICA",MTV 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/129385
-#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV HD
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="MUSICA",MTV HD
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/129387
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="MUSICA",MTV LIVE HD
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/10243
