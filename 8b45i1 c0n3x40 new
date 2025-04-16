@@ -153,15 +153,15 @@ http://pfsv.io:80/alexandre01/123456789/109.ts
 http://pfsv.io:80/alexandre01/123456789/119.ts
 #EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="ENTRETENIMENTO",FOOD NETWORK HD
 http://pfsv.io:80/alexandre01/123456789/110.ts
-
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RIO
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/113807
+http://pfsv.io:80/alexandre01/123456789/427.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SAO PAULO
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/113818
+http://pfsv.io:80/alexandre01/123456789/429.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO MINAS
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/113840
+http://pfsv.io:80/alexandre01/123456789/423.ts
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO BRASILIA 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/110883
+http://pfsv.io:80/alexandre01/123456789/420.ts
+
 #EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO BAHIA 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/113832
 #EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RIBEIRAO PRETO
@@ -189,9 +189,9 @@ http://golprxlab.it.com:80/Soldadotv10/Senhatv10/674615
 #EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO AMAZONIA
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/605479
 #EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/605459
+http://pfsv.io:80/alexandre01/123456789/428.ts
 #EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC CURITIBA HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/605460
+http://pfsv.io:80/alexandre01/123456789/393.ts
 #EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO RPC MARINGA 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/605468
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png" group-title="TV ABERTA",GLOBO SERGIPE 
