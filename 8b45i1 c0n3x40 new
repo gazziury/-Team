@@ -415,23 +415,31 @@ http://pfsv.io:80/alexandre01/123456789/558.ts
 http://pfsv.io:80/alexandre01/123456789/346.ts
 #EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL HD 
 http://pfsv.io:80/alexandre01/123456789/320.ts
-
 #EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="FILMES & SERIES",TELECINE ACTION 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/4320
+http://pfsv.io:80/alexandre01/123456789/574.ts
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="FILMES & SERIES",TELECINE ACTION HD 
+http://pfsv.io:80/alexandre01/123456789/568.ts
 #EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="FILMES & SERIES",TELECINE CULT 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/4319
+http://pfsv.io:80/alexandre01/123456789/575.ts
 #EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="FILMES & SERIES",TELECINE CULT HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/10247
+http://pfsv.io:80/alexandre01/123456789/569.ts
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="FILMES & SERIES",TELECINE FUN
+http://pfsv.io:80/alexandre01/123456789/576.ts
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="FILMES & SERIES",TELECINE FUN HD
+http://pfsv.io:80/alexandre01/123456789/570.ts
 #EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="FILMES & SERIES",TELECINE PIPOCA 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/100567
+http://pfsv.io:80/alexandre01/123456789/578.ts
 #EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="FILMES & SERIES",TELECINE PIPOCA HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/100569
+http://pfsv.io:80/alexandre01/123456789/572.ts
 #EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="FILMES & SERIES",TELECINE PREMIUM 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/4316
+http://pfsv.io:80/alexandre01/123456789/579.ts
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="FILMES & SERIES",TELECINE PREMIUM HD 
+http://pfsv.io:80/alexandre01/123456789/573.ts
 #EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="FILMES & SERIES",TELECINE TOUCH 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/100574
+http://pfsv.io:80/alexandre01/123456789/577.ts
 #EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/100576
+http://pfsv.io:80/alexandre01/123456789/571.ts
+
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/608202
 #EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="PLAYPOCA" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPXk48brZ8N2RjLT8LPVpflWbJYx7W1FsEBqMYCnDyBa-hkGZ3" group-title="FILMES & SERIES",PLAYPOCA FILMES
