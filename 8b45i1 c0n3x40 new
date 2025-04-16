@@ -283,9 +283,11 @@ http://pfsv.io:80/alexandre01/123456789/310.ts
 http://pfsv.io:80/alexandre01/123456789/9.ts
 #EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="MUSICA",MTV HD
 http://pfsv.io:80/alexandre01/123456789/15.ts
-
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="MUSICA",MTV LIVE 
+http://pfsv.io:80/alexandre01/123456789/6.ts
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="MUSICA",MTV LIVE HD
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/10243
+http://pfsv.io:80/alexandre01/123456789/13.ts
+
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV LIVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA",MTV 00 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/638359
 #EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="MUSICA",MULTISHOW 
