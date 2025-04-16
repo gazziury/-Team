@@ -243,9 +243,9 @@ http://pfsv.io:80/alexandre01/123456789/476.ts
 http://pfsv.io:80/alexandre01/123456789/478.ts
 #EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="FILMES & SERIES",HBO XTREME HD 
 http://pfsv.io:80/alexandre01/123456789/30240.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT07r41A_IU7ichaAxsgTqN-hZn-mtKViQzvQ&s" group-title="FILMES & SERIES",SPACE
+#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" group-title="FILMES & SERIES",SPACE
 http://pfsv.io:80/alexandre01/123456789/338.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT07r41A_IU7ichaAxsgTqN-hZn-mtKViQzvQ&s" group-title="FILMES & SERIES",SPACE HD 
+#EXTINF:-1 tvg-id="" tvg-name="SPACE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" group-title="FILMES & SERIES",SPACE HD 
 http://pfsv.io:80/alexandre01/123456789/313.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="FILMES & SERIES",TNT 
