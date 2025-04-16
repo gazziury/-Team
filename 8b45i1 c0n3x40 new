@@ -355,9 +355,9 @@ http://pfsv.io:80/alexandre01/123456789/62.ts
 http://pfsv.io:80/alexandre01/123456789/521.ts
 #EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/1200px-Record_News_logo_2023.svg.png" group-title="NOTICIAS",RECORD NEWS HD 
 http://pfsv.io:80/alexandre01/123456789/515.ts
-
 #EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rede_Brasil_de_Televis%C3%A3o_Logo2023.png" group-title="TV ABERTA",REDE BRASIL HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/111117
+http://pfsv.io:80/alexandre01/123456789/87.ts
+
 #EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="http://xplussport.com:8080/images/6c3e8a9085b35db0146aa1dd57d26b3b.png" group-title="RELIGIOSO",REDE GOSPEL
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/61155
 #EXTINF:-1 tvg-id="Rede Super" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TV_Evangelizar_logo_2019.png/200px-TV_Evangelizar_logo_2019.png" group-title="RELIGIOSO",TV EVANGELIZAR 
