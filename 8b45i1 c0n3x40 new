@@ -139,9 +139,9 @@ http://pfsv.io:80/alexandre01/123456789/262.ts
 http://pfsv.io:80/alexandre01/123456789/270.ts
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPORTES",ESPN 6 HD 
 http://pfsv.io:80/alexandre01/123456789/260.ts
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fashion_TV_%282009%29_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20171118085050" group-title="ENTRETENIMENTO",FASHION TV HD 
+http://pfsv.io:80/alexandre01/123456789/30184.ts
 
-#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO",FASHION TV HD 
-http://golprxlab.it.com:80/Soldadotv10/Senhatv10/75491
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2020/07/FilmArts.jpg" group-title="FILMES & SERIES",FILM & ARTS 
 http://golprxlab.it.com:80/Soldadotv10/Senhatv10/97600
 #EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="https://grandesnomesdapropaganda.com.br/wp-content/uploads/2020/07/FilmArts.jpg" group-title="FILMES & SERIES",FILM & ARTS HD
