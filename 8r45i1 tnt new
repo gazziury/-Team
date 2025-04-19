@@ -323,6 +323,10 @@ http://pfsv.io:80/andress/andre86/208972.ts
 http://pfsv.io:80/andress/andre86/208973.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 4K" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="ESPORTES ONLINE",AMAZON PRIME VIDEO 3
 http://pfsv.io:80/andress/andre86/208971.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png" group-title="ESPORTES ONLINE",DAZN 1 (1)
+http://pfsv.io:80/andress/andre86/295615.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png" group-title="ESPORTES ONLINE",DAZN 1 (2)
+http://pfsv.io:80/andress/andre86/295607.ts
 #EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="FILMES & SERIES",TCM 
 http://pfsv.io:80/andress/andre86/339.ts
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1200px-Premiere_logo_2013.png" group-title="ESPORTES",PREMIERE CLUBES 
