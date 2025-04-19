@@ -39,6 +39,10 @@ http://pfsv.io:80/ronaldo47/4796146727/113584.ts
 http://pfsv.io:80/ronaldo47/4796146727/122447.ts
 #EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ESPORTES",BAND SPORTS 
 http://pfsv.io:80/ronaldo47/4796146727/265.ts
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo.png" group-title="ESPORTES",CAZE TV 1
+http://pfsv.io:80/ronaldo47/4796146727/134082.ts
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo.png" group-title="ESPORTES",CAZE TV 2
+http://pfsv.io:80/ronaldo47/4796146727/286276.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 1
 http://pfsv.io:80/ronaldo47/4796146727/300146.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 2
