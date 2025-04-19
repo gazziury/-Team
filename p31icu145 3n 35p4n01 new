@@ -4,6 +4,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/C3fmCjk8/20250308-203943.jpg" group-title="TEAM VIP",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+DNS TUX
+http://148.113.189.17/
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rSMhIYMN3FbevuJMnRRYnUn3mt.jpg" group-title="Peliculas 4K",007 Spectre (4K)
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/83EMLG7cl9cuMthLh7y4RSwcLt0.jpg" group-title="Peliculas 4K",Alien Covenant (4K)
