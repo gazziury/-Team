@@ -10215,6 +10215,27 @@ https://innovatv.store/contenido/SERIES/Senna/lat/1%20(5).mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9JoqGAQ0f2F0V3ydtr8rOFapdRh.jpg" group-title="Senna",cap. 06
 https://innovatv.store/contenido/SERIES/Senna/lat/1%20(6).mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 01
+http://series.tuxchannel.mx/series/severance/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 02
+http://series.tuxchannel.mx/series/severance/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 03
+http://series.tuxchannel.mx/series/severance/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 04
+http://series.tuxchannel.mx/series/severance/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 05
+http://series.tuxchannel.mx/series/severance/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 06
+http://series.tuxchannel.mx/series/severance/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 07
+http://series.tuxchannel.mx/series/severance/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 08
+http://series.tuxchannel.mx/series/severance/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 09
+http://series.tuxchannel.mx/series/severance/s_01_e_09.mkv
+
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 01
 http://series.tuxchannel.mx/series/shaq/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 02
