@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/severance/s_02_e_02.mkv ...son 10
+
 http://series.tuxchannel.mx/series/the_studio/s_01_e_04.mkv... total 10
 
 http://series.tuxchannel.mx/series/the_last_of_us_2023/s_02_e_01.mkv
@@ -10234,7 +10236,26 @@ http://series.tuxchannel.mx/series/severance/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hntBJjqbv4m0Iyniqaztv9xaudI.jpg" group-title="Separación T1",cap. 09
 http://series.tuxchannel.mx/series/severance/s_01_e_09.mkv
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 01
+http://series.tuxchannel.mx/series/severance/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 02
+http://series.tuxchannel.mx/series/severance/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 03
+https://www.innovatv.store/contenido/SERIES/Separacion/lat/Separaci%c3%b3n%20S02E03%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 04
+https://www.innovatv.store/contenido/SERIES/Separacion/lat/Separaci%c3%b3n%20S02E04%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 05
+https://www.innovatv.store/contenido/SERIES/Separacion/lat/Separaci%c3%b3n%20S02E05%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 06
+https://www.innovatv.store/contenido/SERIES/Separacion/lat/Separaci%c3%b3n%20S02E06%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 07
+https://www.innovatv.store/contenido/SERIES/Separacion/lat/Separaci%c3%b3n%20S02E07%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 08
+https://www.innovatv.store/contenido/SERIES/Separacion/lat/Severance%20S02E08%20LAT.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 09
+https://www.innovatv.store/contenido/SERIES/Separacion/lat/Separaci%c3%b3n%20S02E09%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3LrBs6MO35F6M2tT2KmBwtomTMB.jpg" group-title="Separación T2",cap. 10
+https://www.innovatv.store/contenido/SERIES/Separacion/lat/Severance.S02E10.720p.WEBRip.Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZjZhNTUtYTk1OS00YjY1LTg1MTgtN2RlYTFjM2Q4NzE1XkEyXkFqcGdeQXVyNjQyMTI1MjE@._V1_FMjpg_UX1000_.jpg" group-title="Shaq",Cap. 01
 http://series.tuxchannel.mx/series/shaq/s_01_e_01.mkv
