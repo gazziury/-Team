@@ -47,6 +47,14 @@ http://pfsv.io:80/ana1002/ana1002/286276.ts
 http://pfsv.io:80/ana1002/ana1002/300146.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://logowik.com/content/uploads/images/apple-tv-plus8550.jpg" group-title="APPLE TV",APPLE TV 2
 http://pfsv.io:80/ana1002/ana1002/300147.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2024/07/i-2-91153775-paramount-rebrand.jpg" group-title="PARAMOUNT +",PARAMOUNT + 1
+http://pfsv.io:80/ana1002/ana1002/300933.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2024/07/i-2-91153775-paramount-rebrand.jpg" group-title="PARAMOUNT +",PARAMOUNT + 1 PLTF
+http://pfsv.io:80/ana1002/ana1002/300937.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2024/07/i-2-91153775-paramount-rebrand.jpg" group-title="PARAMOUNT +",PARAMOUNT + 2
+http://pfsv.io:80/ana1002/ana1002/300934.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2024/07/i-2-91153775-paramount-rebrand.jpg" group-title="PARAMOUNT +",PARAMOUNT + 2 PLTF
+http://pfsv.io:80/ana1002/ana1002/300938.ts
 #EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS 4K" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS
 http://pfsv.io:80/ana1002/ana1002/12.ts
 #EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS HD" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS HD
