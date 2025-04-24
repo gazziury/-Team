@@ -1278,80 +1278,55 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/123897.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/5031.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1NtTFV1c2hJbG1xRnhGRUI0dVQ2SU0yZWkyLmpwZw==.jpg" group-title="Filmes | Fantasia",A Filha do Rei
 http://cdnrobot.info:2052/movie/md301a/abc123ad/49826.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1NtTFV1c2hJbG1xRnhGRUI0dVQ2SU0yZWkyLmpwZw==.jpg" group-title="Filmes | Fantasia",A Filha do Rei (2022)
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1NtTFV1c2hJbG1xRnhGRUI0dVQ2SU0yZWkyLmpwZw==.jpg" group-title="Filmes | Fantasia",A Filha do Rei (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/128436.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei do Pantano (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZjJWMDVmUnhHeFNHSTZ4anFBMHBRZVhrMzUuanBn.jpg" group-title="Filmes | Suspense ",A Filha do Rei do Pantano (L)
+#EXTINF:-1 tvg-id="" tvg-name="A Filha do Rei do Pantano (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZjJWMDVmUnhHeFNHSTZ4anFBMHBRZVhrMzUuanBn.jpg" group-title="Filmes | Suspense ",A Filha do Rei do Pantano (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136396.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Filha Perdida" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdzVaeW9kRDZtZDNtbVBXTzNuU1BHWGtseExrLmpwZw==.jpg" group-title="Filmes | Drama",A Filha Perdida
+#EXTINF:-1 tvg-id="" tvg-name="A Filha Perdida" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdzVaeW9kRDZtZDNtbVBXTzNuU1BHWGtseExrLmpwZw==.jpg" group-title="Filmes | Drama",A Filha Perdida
 http://cdnrobot.info:2052/movie/md301a/abc123ad/49676.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Flauta Magica" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNWNTZ0ZsWEFNVHY4TTFqYmZrSjI1bHFhTEMxLmpwZw==.jpg" group-title="Filmes | Aventura",A Flauta Magica
+#EXTINF:-1 tvg-id="" tvg-name="A Flauta Magica" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNWNTZ0ZsWEFNVHY4TTFqYmZrSjI1bHFhTEMxLmpwZw==.jpg" group-title="Filmes | Aventura",A Flauta Magica
 http://cdnrobot.info:2052/movie/md301a/abc123ad/134133.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Floresta (2006)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc0JTbFZiUXpNVDU0ZWM1M2dud2d4eXBTdW9OLmpwZw==.jpg" group-title="Filmes | Terror",A Floresta (2006)
+#EXTINF:-1 tvg-id="" tvg-name="A Floresta (2006)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc0JTbFZiUXpNVDU0ZWM1M2dud2d4eXBTdW9OLmpwZw==.jpg" group-title="Filmes | Terror",A Floresta (2006)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136698.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMk9HNllDWWFiQ0JOY21YdjV3NEFQOXVUYnNiLmpwZw==.jpg" group-title="Filmes | Faroeste",A Floresta Do Escalpe
+#EXTINF:-1 tvg-id="" tvg-name="A Floresta Do Escalpe" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMk9HNllDWWFiQ0JOY21YdjV3NEFQOXVUYnNiLmpwZw==.jpg" group-title="Filmes | Faroeste",A Floresta Do Escalpe
 http://cdnrobot.info:2052/movie/md301a/abc123ad/132705.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Floresta do Gelo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbWVaVWl1WDFXdExtWU5SSG5mZ05QZmVpTVIxLmpwZw==.jpg" group-title="Filmes | Suspense ",A Floresta do Gelo
+#EXTINF:-1 tvg-id="" tvg-name="A Floresta do Gelo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbWVaVWl1WDFXdExtWU5SSG5mZ05QZmVpTVIxLmpwZw==.jpg" group-title="Filmes | Suspense ",A Floresta do Gelo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/116889.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fogueira das Vaidades (1990)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZndvWm9PV3hrZkYzMHhGZlhSMHlla0J3eEVpLmpwZw==.jpg" group-title="Filmes | Drama",A Fogueira das Vaidades (1990)
+#EXTINF:-1 tvg-id="" tvg-name="A Fogueira das Vaidades (1990)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZndvWm9PV3hrZkYzMHhGZlhSMHlla0J3eEVpLmpwZw==.jpg" group-title="Filmes | Drama",A Fogueira das Vaidades (1990)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/32173.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Forca" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbTFYQVhjTEs1OTJ1Y05QSmZ1SmVLMG1Gc2lWLmpwZw==.jpg" group-title="Filmes | Terror",A Forca
+#EXTINF:-1 tvg-id="" tvg-name="A Forca" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbTFYQVhjTEs1OTJ1Y05QSmZ1SmVLMG1Gc2lWLmpwZw==.jpg" group-title="Filmes | Terror",A Forca
 http://cdnrobot.info:2052/movie/md301a/abc123ad/2248.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Forca 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcjlTZTFidVBneHhNRjVpWjR0SUs4QXpUNXRkLmpwZw==.jpg" group-title="Filmes | Terror",A Forca 2
+#EXTINF:-1 tvg-id="" tvg-name="A Forca 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcjlTZTFidVBneHhNRjVpWjR0SUs4QXpUNXRkLmpwZw==.jpg" group-title="Filmes | Terror",A Forca 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/77996.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Forca da Natureza" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYUNiWVVZMXh1eWF4YnA1RjFLdXlIN0FJdkhnLmpwZw==.jpg" group-title="Filmes | Acao",A Forca da Natureza
+#EXTINF:-1 tvg-id="" tvg-name="A Forca da Natureza" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYUNiWVVZMXh1eWF4YnA1RjFLdXlIN0FJdkhnLmpwZw==.jpg" group-title="Filmes | Acao",A Forca da Natureza
 http://cdnrobot.info:2052/movie/md301a/abc123ad/25405.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Forca em Alerta" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc29pcjY0SjZLNHVYakh1WTJpNVVuNGNDb280LmpwZw==.jpg" group-title="Filmes | Acao",A Forca em Alerta
+#EXTINF:-1 tvg-id="" tvg-name="A Forca em Alerta" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc29pcjY0SjZLNHVYakh1WTJpNVVuNGNDb280LmpwZw==.jpg" group-title="Filmes | Acao",A Forca em Alerta
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73127.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Forca em Alerta 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMjZVemtWZjNOOW9YRVBwNzNGSmlNZjFxVHFHLmpwZw==.jpg" group-title="Filmes | Acao",A Forca em Alerta 2
+#EXTINF:-1 tvg-id="" tvg-name="A Forca em Alerta 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMjZVemtWZjNOOW9YRVBwNzNGSmlNZjFxVHFHLmpwZw==.jpg" group-title="Filmes | Acao",A Forca em Alerta 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73128.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (1992)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvQWVlMlZjdTZEMzJXVjZYV3ZzRnh4VldPeFZPLmpwZw==.jpg" group-title="Filmes | Acao",A Fortaleza (1992)
+#EXTINF:-1 tvg-id="" tvg-name="A Fortaleza (1992)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvQWVlMlZjdTZEMzJXVjZYV3ZzRnh4VldPeFZPLmpwZw==.jpg" group-title="Filmes | Acao",A Fortaleza (1992)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/49728.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Freira " tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMjh2eG81RHZWMG5IV1RiWVFMOGdOM2htdWxpLmpwZw==.jpg" group-title="Filmes | Terror",A Freira 
+#EXTINF:-1 tvg-id="" tvg-name="A Freira " tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMjh2eG81RHZWMG5IV1RiWVFMOGdOM2htdWxpLmpwZw==.jpg" group-title="Filmes | Terror",A Freira 
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3701.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Freira 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb21WMklXMk9sRlRTdzZIaWgxM2h6NmxGZHZQLmpwZw==.jpg" group-title="Filmes | Terror",A Freira 2
+#EXTINF:-1 tvg-id="" tvg-name="A Freira 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb21WMklXMk9sRlRTdzZIaWgxM2h6NmxGZHZQLmpwZw==.jpg" group-title="Filmes | Terror",A Freira 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131799.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Freira 2 (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb21WMklXMk9sRlRTdzZIaWgxM2h6NmxGZHZQLmpwZw==.jpg" group-title="Filmes | Terror",A Freira 2 (L)
+#EXTINF:-1 tvg-id="" tvg-name="A Freira 2 (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb21WMklXMk9sRlRTdzZIaWgxM2h6NmxGZHZQLmpwZw==.jpg" group-title="Filmes | Terror",A Freira 2 (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131798.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fronteira" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdDZ5V3Ztd0dKcDBDaTZoUk1VOXhOOUxsWUNhLmpwZw==.jpg" group-title="Filmes | Suspense ",A Fronteira
+#EXTINF:-1 tvg-id="" tvg-name="A Fronteira" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdDZ5V3Ztd0dKcDBDaTZoUk1VOXhOOUxsWUNhLmpwZw==.jpg" group-title="Filmes | Suspense ",A Fronteira
 http://cdnrobot.info:2052/movie/md301a/abc123ad/77133.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveERSOFdYYXh1eTg0UzRRNnRBWXlCeVp2ZTdMLmpwZw==.jpg" group-title="Filmes | Suspense ",A Fuga
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveERSOFdYYXh1eTg0UzRRNnRBWXlCeVp2ZTdMLmpwZw==.jpg" group-title="Filmes | Suspense ",A Fuga
 http://cdnrobot.info:2052/movie/md301a/abc123ad/140134.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga Das Galinhas (2000)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaHA1c2h3OHh5dVlJZDMyMnJUOWFtM0hyS0NRLmpwZw==.jpg" group-title="Filmes | Disney +",A Fuga Das Galinhas (2000)
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga Das Galinhas (2000)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaHA1c2h3OHh5dVlJZDMyMnJUOWFtM0hyS0NRLmpwZw==.jpg" group-title="Filmes | Disney +",A Fuga Das Galinhas (2000)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/11732.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga das Galinhas A Ameaça dos Nuggets" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM1pwYlE1NzFHSEFZSVpsMXpxWjNOb243NVk3LmpwZw==.jpg" group-title="Filmes | Animacao",A Fuga das Galinhas A Ameaça dos Nuggets
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga das Galinhas A Ameaça dos Nuggets" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM1pwYlE1NzFHSEFZSVpsMXpxWjNOb243NVk3LmpwZw==.jpg" group-title="Filmes | Animacao",A Fuga das Galinhas A Ameaça dos Nuggets
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136741.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga de Akilla" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0Yzeldxa3NDVVlFcmREUnVnVlFPUWdZOE5KLmpwZw==.jpg" group-title="Filmes | Suspense ",A Fuga de Akilla
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga de Akilla" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0Yzeldxa3NDVVlFcmREUnVnVlFPUWdZOE5KLmpwZw==.jpg" group-title="Filmes | Suspense ",A Fuga de Akilla
 http://cdnrobot.info:2052/movie/md301a/abc123ad/148012.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fuga do Planeta Terra" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYnZBYzE5ekJTaTEwSnpNcWp0TjhmM0xrVEFzLmpwZw==.jpg" group-title="Filmes | Animacao",A Fuga do Planeta Terra
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga do Planeta Terra" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYnZBYzE5ekJTaTEwSnpNcWp0TjhmM0xrVEFzLmpwZw==.jpg" group-title="Filmes | Animacao",A Fuga do Planeta Terra
 http://cdnrobot.info:2052/movie/md301a/abc123ad/80648.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Furia de Becky" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbDNmQnVuMVpYblNVOE5WTkVyNUNRUk5TZWdSLmpwZw==.jpg" group-title="Filmes | Suspense ",A Furia de Becky
+#EXTINF:-1 tvg-id="" tvg-name="A Furia de Becky" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbDNmQnVuMVpYblNVOE5WTkVyNUNRUk5TZWdSLmpwZw==.jpg" group-title="Filmes | Suspense ",A Furia de Becky
 http://cdnrobot.info:2052/movie/md301a/abc123ad/134949.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Fúria (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNHBYbmJIa0gzaElLY2RtQkIzZ3diYXlaZTR1LmpwZw==.jpg" group-title="Filmes | Drama",A Fúria (2022)
+#EXTINF:-1 tvg-id="" tvg-name="A Fúria (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNHBYbmJIa0gzaElLY2RtQkIzZ3diYXlaZTR1LmpwZw==.jpg" group-title="Filmes | Drama",A Fúria (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/76978.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Gaiola das Loucas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXNTQTJrU0xDbDkxbWp5ejBKQmtCaWpIY2hxLmpwZw==.jpg" group-title="Filmes | Comedia",A Gaiola das Loucas
