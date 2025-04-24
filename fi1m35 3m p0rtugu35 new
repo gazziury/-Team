@@ -624,22 +624,17 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/180398.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/181267.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" Star Wars: Episodio V – O Imperio Contra-Ataca (1980)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZExHVDhiNFV0MTB6NDR1WUxhaXA0UWl3S3RhLmpwZw==.jpg" group-title="Filmes | Fantasia", Star Wars: Episodio V – O Imperio Contra-Ataca (1980)
+#EXTINF:-1 tvg-id="" tvg-name=" Star Wars: Episodio V – O Imperio Contra-Ataca (1980)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZExHVDhiNFV0MTB6NDR1WUxhaXA0UWl3S3RhLmpwZw==.jpg" group-title="Filmes | Fantasia", Star Wars: Episodio V – O Imperio Contra-Ataca (1980)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3943.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="#Natal" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbDBsSDBodlUwWGNQZmh5Ukt5ZEdqUkttWHRmLmpwZw==.jpg" group-title="Filmes | Comedia",#Natal
+#EXTINF:-1 tvg-id="" tvg-name="#Natal" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbDBsSDBodlUwWGNQZmh5Ukt5ZEdqUkttWHRmLmpwZw==.jpg" group-title="Filmes | Comedia",#Natal
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122323.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="#SemSaida" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZlVDSWo0N085djV6a3RTODFoUldrdFVWblNSLmpwZw==.jpg" group-title="Filmes | Terror",#SemSaida
+#EXTINF:-1 tvg-id="" tvg-name="#SemSaida" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZlVDSWo0N085djV6a3RTODFoUldrdFVWblNSLmpwZw==.jpg" group-title="Filmes | Terror",#SemSaida
 http://cdnrobot.info:2052/movie/md301a/abc123ad/78003.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="+ Velozes + Furiosos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbXgwQ0I4SDc4UFF1MGc5WVVXRzQ3aGRpOTNTLmpwZw==.jpg" group-title="Filmes | Acao",+ Velozes + Furiosos
+#EXTINF:-1 tvg-id="" tvg-name="+ Velozes + Furiosos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbXgwQ0I4SDc4UFF1MGc5WVVXRzQ3aGRpOTNTLmpwZw==.jpg" group-title="Filmes | Acao",+ Velozes + Furiosos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/2313.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="...E o Vento Levou (1939)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXJ3QlVhU1pMZ01vNzlLUmNRWXcwYkFWOWgzLmpwZw==.jpg" group-title="Filmes | Drama",...E o Vento Levou (1939)
+#EXTINF:-1 tvg-id="" tvg-name="...E o Vento Levou (1939)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXJ3QlVhU1pMZ01vNzlLUmNRWXcwYkFWOWgzLmpwZw==.jpg" group-title="Filmes | Drama",...E o Vento Levou (1939)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3359.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="007 Contra GoldenEye" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWMxSWQzQkxSb1VrMTB1SkdtdlJxcUFLdlFMLmpwZw==.jpg" group-title="Filmes | Acao",007 Contra GoldenEye
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra GoldenEye" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWMxSWQzQkxSb1VrMTB1SkdtdlJxcUFLdlFMLmpwZw==.jpg" group-title="Filmes | Acao",007 Contra GoldenEye
 http://cdnrobot.info:2052/movie/md301a/abc123ad/4084.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="007 Contra Goldfinger" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVNGYnlpazFiZDN4UXh5UFFiYWhkY2FDWXdULmpwZw==.jpg" group-title="Filmes | Acao",007 Contra Goldfinger
