@@ -1710,116 +1710,79 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/139355.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51075.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Noiva do Diabo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNnpXOUVJejZ1c2E1N0FWUDVPbXpUb0pld3JlLmpwZw==.jpg" group-title="Filmes | Drama",A Noiva do Diabo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147853.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Noiva Perfeita" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcHVlVERQTEk4UmIwR0FsbkFMek1VQzBYMmxvLmpwZw==.jpg" group-title="Filmes | Romance",A Noiva Perfeita
+#EXTINF:-1 tvg-id="" tvg-name="A Noiva Perfeita" tvg-logo="http://cdnrobot.info:2052images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcHVlVERQTEk4UmIwR0FsbkFMek1VQzBYMmxvLmpwZw==.jpg" group-title="Filmes | Romance",A Noiva Perfeita
 http://cdnrobot.info:2052/movie/md301a/abc123ad/71497.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Nossa Cancao de Amor" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNG9COVJqQzczcExOM2VaS1p6RFdRMjk3NDhXLmpwZw==.jpg" group-title="Filmes | Romance",A Nossa Cancao de Amor
+#EXTINF:-1 tvg-id="" tvg-name="A Nossa Cancao de Amor" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNG9COVJqQzczcExOM2VaS1p6RFdRMjk3NDhXLmpwZw==.jpg" group-title="Filmes | Romance",A Nossa Cancao de Amor
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73702.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Nossa Guerra dos 7 Dias" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnFwdDdLdXhTV1VRNjdzUUp6RUpicDk4aHdsLmpwZw==.jpg" group-title="Filmes | Animacao",A Nossa Guerra dos 7 Dias
+#EXTINF:-1 tvg-id="" tvg-name="A Nossa Guerra dos 7 Dias" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnFwdDdLdXhTV1VRNjdzUUp6RUpicDk4aHdsLmpwZw==.jpg" group-title="Filmes | Animacao",A Nossa Guerra dos 7 Dias
 http://cdnrobot.info:2052/movie/md301a/abc123ad/129427.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Se O Sapato Encaixar" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGE2T1U3TVZLYUVFeERITDFkUlZnOW1TMGhILmpwZw==.jpg" group-title="Filmes | Comedia",A Nova Cinderela: Se O Sapato Encaixar
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Se O Sapato Encaixar" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGE2T1U3TVZLYUVFeERITDFkUlZnOW1TMGhILmpwZw==.jpg" group-title="Filmes | Comedia",A Nova Cinderela: Se O Sapato Encaixar
 http://cdnrobot.info:2052/movie/md301a/abc123ad/64573.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Onda do Imperador" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd0xlSGdONnpkVzFyZktQM0tYSndhNEFiSnguanBn.jpg" group-title="Filmes | Disney +",A Nova Onda do Imperador
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Onda do Imperador" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd0xlSGdONnpkVzFyZktQM0tYSndhNEFiSnguanBn.jpg" group-title="Filmes | Disney +",A Nova Onda do Imperador
 http://cdnrobot.info:2052/movie/md301a/abc123ad/11737.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Onda do Kronk" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN2c1WThiTGhUaE45MXBxaEpzN0tWeWx3SVhpLmpwZw==.jpg" group-title="Filmes | Animacao",A Nova Onda do Kronk
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Onda do Kronk" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN2c1WThiTGhUaE45MXBxaEpzN0tWeWx3SVhpLmpwZw==.jpg" group-title="Filmes | Animacao",A Nova Onda do Kronk
 http://cdnrobot.info:2052/movie/md301a/abc123ad/83025.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Novata" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVpnZHNHazhPbzdid2hWQnRnNDNwTTNoYk01LmpwZw==.jpg" group-title="Filmes | Suspense ",A Novata
+#EXTINF:-1 tvg-id="" tvg-name="A Novata" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVpnZHNHazhPbzdid2hWQnRnNDNwTTNoYk01LmpwZw==.jpg" group-title="Filmes | Suspense ",A Novata
 http://cdnrobot.info:2052/movie/md301a/abc123ad/129429.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Nuvem Rosa" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY01lYmtVMjdVWVZvUGcxRkExMnVIcDZpbGtNLmpwZw==.jpg" group-title="Filmes | Nacionais",A Nuvem Rosa
+#EXTINF:-1 tvg-id="" tvg-name="A Nuvem Rosa" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY01lYmtVMjdVWVZvUGcxRkExMnVIcDZpbGtNLmpwZw==.jpg" group-title="Filmes | Nacionais",A Nuvem Rosa
 http://cdnrobot.info:2052/movie/md301a/abc123ad/128600.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Onda" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMXkyRjZ4dUt1U3BYZDdPYU1hNks0dmV0ekdiLmpwZw==.jpg" group-title="Filmes | Acao",A Onda
+#EXTINF:-1 tvg-id="" tvg-name="A Onda" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMXkyRjZ4dUt1U3BYZDdPYU1hNks0dmV0ekdiLmpwZw==.jpg" group-title="Filmes | Acao",A Onda
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147814.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="A Oracao Nao Falha (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pP4c1hBnWFbjEOLsHtzCdi1sCWW.jpg" group-title="Filmes | Religiao ",A Oracao Nao Falha (2016)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3747.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Orfa" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOXRkY3ZUM1p5UEJsdXptUVRldmduNTAzanBnLmpwZw==.jpg" group-title="Filmes | Terror",A Orfa
+#EXTINF:-1 tvg-id="" tvg-name="A Orfa" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOXRkY3ZUM1p5UEJsdXptUVRldmduNTAzanBnLmpwZw==.jpg" group-title="Filmes | Terror",A Orfa
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3703.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Origem" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWUzRHo3YUNBTnk1YVJVUUY3NDVJbE5sb0oxLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",A Origem
+#EXTINF:-1 tvg-id="" tvg-name="A Origem" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWUzRHo3YUNBTnk1YVJVUUY3NDVJbE5sb0oxLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",A Origem
 http://cdnrobot.info:2052/movie/md301a/abc123ad/133896.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Origem dos Guardioes (2012)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveUswaUNGdFdLRm53YmJUcU1kM25EMDZjcTlnLmpwZw==.jpg" group-title="Filmes | Animacao",A Origem dos Guardioes (2012)
+#EXTINF:-1 tvg-id="" tvg-name="A Origem dos Guardioes (2012)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveUswaUNGdFdLRm53YmJUcU1kM25EMDZjcTlnLmpwZw==.jpg" group-title="Filmes | Animacao",A Origem dos Guardioes (2012)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122297.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Outra (2008)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva1ZpWHcwdThpQWVhVDhXRnBQTmZDUkRkSDl6LmpwZw==.jpg" group-title="Filmes | Drama",A Outra (2008)
+#EXTINF:-1 tvg-id="" tvg-name="A Outra (2008)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva1ZpWHcwdThpQWVhVDhXRnBQTmZDUkRkSDl6LmpwZw==.jpg" group-title="Filmes | Drama",A Outra (2008)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/50803.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Face (1997)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbG9SOHByaldoa09kdWZEMXJmUkVwWFFzck5KLmpwZw==.jpg" group-title="Filmes | Acao",A Outra Face (1997)
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Face (1997)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbG9SOHByaldoa09kdWZEMXJmUkVwWFFzck5KLmpwZw==.jpg" group-title="Filmes | Acao",A Outra Face (1997)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6708.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Historia Americana" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVRTZXh4cVFreWhsVGw0ZURyYmNpYWk3b0c1LmpwZw==.jpg" group-title="Filmes | Drama",A Outra Historia Americana
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Historia Americana" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVRTZXh4cVFreWhsVGw0ZURyYmNpYWk3b0c1LmpwZw==.jpg" group-title="Filmes | Drama",A Outra Historia Americana
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138841.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Historia Americana (1998)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVRTZXh4cVFreWhsVGw0ZURyYmNpYWk3b0c1LmpwZw==.jpg" group-title="Filmes | Drama",A Outra Historia Americana (1998)
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Historia Americana (1998)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVRTZXh4cVFreWhsVGw0ZURyYmNpYWk3b0c1LmpwZw==.jpg" group-title="Filmes | Drama",A Outra Historia Americana (1998)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6709.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Mulher (2018)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNzBiNDU1OWl3T25zZjZPdnM1REFRV1hpWFlGLmpwZw==.jpg" group-title="Filmes | Drama",A Outra Mulher (2018)
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Mulher (2018)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNzBiNDU1OWl3T25zZjZPdnM1REFRV1hpWFlGLmpwZw==.jpg" group-title="Filmes | Drama",A Outra Mulher (2018)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/8813.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Terra" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOTNwNWVZZUFZYzJzRlhDYUxTVjVlYXBrOXoxLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",A Outra Terra
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Terra" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOTNwNWVZZUFZYzJzRlhDYUxTVjVlYXBrOXoxLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",A Outra Terra
 http://cdnrobot.info:2052/movie/md301a/abc123ad/118486.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Outra Zoey" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcDZ2ZU5Ua21aNVB1UVpPWTFBYm9Qb3R6MllrLmpwZw==.jpg" group-title="Filmes | Romance",A Outra Zoey
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Zoey" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcDZ2ZU5Ua21aNVB1UVpPWTFBYm9Qb3R6MllrLmpwZw==.jpg" group-title="Filmes | Romance",A Outra Zoey
 http://cdnrobot.info:2052/movie/md301a/abc123ad/133270.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Paixao de Cristo (2004)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbmhlcGJVV1RuTGI5Zm00cWs5aDUyTVlCc3ptLmpwZw==.jpg" group-title="Filmes | Religiao ",A Paixao de Cristo (2004)
+#EXTINF:-1 tvg-id="" tvg-name="A Paixao de Cristo (2004)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbmhlcGJVV1RuTGI5Zm00cWs5aDUyTVlCc3ptLmpwZw==.jpg" group-title="Filmes | Religiao ",A Paixao de Cristo (2004)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3725.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveUs1TkhNb0ZWcG1Hb05DeDJnaFBWQ1dkVDBZLmpwZw==.jpg" group-title="Filmes | Comedia",A Pantera Cor de Rosa
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveUs1TkhNb0ZWcG1Hb05DeDJnaFBWQ1dkVDBZLmpwZw==.jpg" group-title="Filmes | Comedia",A Pantera Cor de Rosa
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136711.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva0x3RU5GQXR3OEJacDNCS3ljbTk4ZWVtZElNLmpwZw==.jpg" group-title="Filmes | Comedia",A Pantera Cor de Rosa 2
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva0x3RU5GQXR3OEJacDNCS3ljbTk4ZWVtZElNLmpwZw==.jpg" group-title="Filmes | Comedia",A Pantera Cor de Rosa 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136714.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pe Ele Nao Vai Longe" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYTNPd3IyNjhsTFdZdElJSlBwN1JLUzVjRE9NLmpwZw==.jpg" group-title="Filmes | Comedia",A Pe Ele Nao Vai Longe
+#EXTINF:-1 tvg-id="" tvg-name="A Pe Ele Nao Vai Longe" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYTNPd3IyNjhsTFdZdElJSlBwN1JLUzVjRE9NLmpwZw==.jpg" group-title="Filmes | Comedia",A Pe Ele Nao Vai Longe
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3235.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pedreira" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcW9tSXV6THV3THZvWjFPMUdhSUFVSEZrdTZ6LmpwZw==.jpg" group-title="Filmes | Suspense ",A Pedreira
+#EXTINF:-1 tvg-id="" tvg-name="A Pedreira" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcW9tSXV6THV3THZvWjFPMUdhSUFVSEZrdTZ6LmpwZw==.jpg" group-title="Filmes | Suspense ",A Pedreira
 http://cdnrobot.info:2052/movie/md301a/abc123ad/115183.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pele Que Habito" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOTBoYlNlQnNldjRoZXpnemt5Vzh0a2lvMmRwLmpwZw==.jpg" group-title="Filmes | Suspense ",A Pele Que Habito
+#EXTINF:-1 tvg-id="" tvg-name="A Pele Que Habito" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOTBoYlNlQnNldjRoZXpnemt5Vzh0a2lvMmRwLmpwZw==.jpg" group-title="Filmes | Suspense ",A Pele Que Habito
 http://cdnrobot.info:2052/movie/md301a/abc123ad/84909.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Dixie" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvektsOFM4U2cxbzZHM3d3WkxGdzN1OEFub1hoLmpwZw==.jpg" group-title="Filmes | Suspense ",A Pequena Dixie
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Dixie" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvektsOFM4U2cxbzZHM3d3WkxGdzN1OEFub1hoLmpwZw==.jpg" group-title="Filmes | Suspense ",A Pequena Dixie
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131181.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1989)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYmwwWHZFQUVKMm1TVXpORnVpZXl1MWd2VFhzLmpwZw==.jpg" group-title="Filmes | Disney +",A Pequena Sereia (1989)
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1989)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYmwwWHZFQUVKMm1TVXpORnVpZXl1MWd2VFhzLmpwZw==.jpg" group-title="Filmes | Disney +",A Pequena Sereia (1989)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10960.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2018)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZksyVW5vTzdQaFdzQ1ZERjF5MGNYZDBBN0toLmpwZw==.jpg" group-title="Filmes | Disney +",A Pequena Sereia (2018)
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2018)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZksyVW5vTzdQaFdzQ1ZERjF5MGNYZDBBN0toLmpwZw==.jpg" group-title="Filmes | Disney +",A Pequena Sereia (2018)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10961.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWVvME1LWDJjQUUwR2U3cW9lUkNpTVd2U2pWLmpwZw==.jpg" group-title="Filmes | Fantasia",A Pequena Sereia (2023)
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWVvME1LWDJjQUUwR2U3cW9lUkNpTVd2U2pWLmpwZw==.jpg" group-title="Filmes | Fantasia",A Pequena Sereia (2023)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/130260.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023) (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWVvME1LWDJjQUUwR2U3cW9lUkNpTVd2U2pWLmpwZw==.jpg" group-title="Filmes | Fantasia",A Pequena Sereia (2023) (L)
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023) (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWVvME1LWDJjQUUwR2U3cW9lUkNpTVd2U2pWLmpwZw==.jpg" group-title="Filmes | Fantasia",A Pequena Sereia (2023) (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/124059.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia 2 - O Retorno Para o Mar" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvak1SeXQ0bU1LUkpoaVc2Mnl2em5RZUtOSmQ0LmpwZw==.jpg" group-title="Filmes | Disney +",A Pequena Sereia 2 - O Retorno Para o Mar
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia 2 - O Retorno Para o Mar" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvak1SeXQ0bU1LUkpoaVc2Mnl2em5RZUtOSmQ0LmpwZw==.jpg" group-title="Filmes | Disney +",A Pequena Sereia 2 - O Retorno Para o Mar
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10962.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia: A Historia de Ariel" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcVc2dXZTRnpISUptOVk4WmZGdVRsNzFIeE1oLmpwZw==.jpg" group-title="Filmes | Animacao",A Pequena Sereia: A Historia de Ariel
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia: A Historia de Ariel" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcVc2dXZTRnpISUptOVk4WmZGdVRsNzFIeE1oLmpwZw==.jpg" group-title="Filmes | Animacao",A Pequena Sereia: A Historia de Ariel
 http://cdnrobot.info:2052/movie/md301a/abc123ad/83026.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Pior Pessoa do Mundo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvazJVdnFqMG9pd2pFcHJkSUw2WUR0MDZ2N1VRLmpwZw==.jpg" group-title="Filmes | Drama",A Pior Pessoa do Mundo
+#EXTINF:-1 tvg-id="" tvg-name="A Pior Pessoa do Mundo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvazJVdnFqMG9pd2pFcHJkSUw2WUR0MDZ2N1VRLmpwZw==.jpg" group-title="Filmes | Drama",A Pior Pessoa do Mundo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/72710.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Piscina (2018)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcGxSbzNrQjFuQ1R1VklIV0Q0cmZWQ3p0SXNlLmpwZw==.jpg" group-title="Filmes | Suspense ",A Piscina (2018)
+#EXTINF:-1 tvg-id="" tvg-name="A Piscina (2018)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcGxSbzNrQjFuQ1R1VklIV0Q0cmZWQ3p0SXNlLmpwZw==.jpg" group-title="Filmes | Suspense ",A Piscina (2018)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/116905.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A plena luz: El caso Narvarte" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZlhaN29IMjJITUFxUThTdmRtMVk3WnQ3VmdoLmpwZw==.jpg" group-title="Filmes | Documentarios",A plena luz: El caso Narvarte
+#EXTINF:-1 tvg-id="" tvg-name="A plena luz: El caso Narvarte" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZlhaN29IMjJITUFxUThTdmRtMVk3WnQ3VmdoLmpwZw==.jpg" group-title="Filmes | Documentarios",A plena luz: El caso Narvarte
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81750.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Polegarzinha (1994)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0FDc0pMUHNYYmRuYlpzcFFkV1RlS0ZnbHF2LmpwZw==.jpg" group-title="Filmes | Animacao",A Polegarzinha (1994)
+#EXTINF:-1 tvg-id="" tvg-name="A Polegarzinha (1994)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0FDc0pMUHNYYmRuYlpzcFFkV1RlS0ZnbHF2LmpwZw==.jpg" group-title="Filmes | Animacao",A Polegarzinha (1994)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/82997.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Ponte do Rio Kwai (1957)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvejROV3NMc0xvZ1ZoMlhmTFhiUGFhR3JYOFp6LmpwZw==.jpg" group-title="Filmes | Guerra",A Ponte do Rio Kwai (1957)
