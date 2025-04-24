@@ -996,7 +996,7 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/139596.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/128476.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Bussola de Ouro" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvQTlLcUdrYXM3QzZDcDgwMkhoS05HUVREbmJ3LmpwZw==.jpg" group-title="Filmes | Aventura",A Bussola de Ouro
 http://cdnrobot.info:2052/movie/md301a/abc123ad/76830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana - 2017" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWYyV05mTzFiMEUxSWNKRExVaUdqN2NjS1JtLmpwZw==.jpg" group-title="Filmes | Religiao ",A Cabana - 2017
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana - 2017" tvg-logo="https://image.tmdb.org/t/p/original/AeOEWR5XiNMASHBCRd7qv15xtuB.jpg" group-title="Filmes | Religiao ",A Cabana - 2017
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3611.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Cabana do Mal" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaE1GNGV0QmJ0WkJRclBneklSQ2RVaDNobFZ1LmpwZw==.jpg" group-title="Filmes | Terror",A Cabana do Mal
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79506.mp4
