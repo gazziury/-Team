@@ -1328,95 +1328,65 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/80648.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/134949.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Fúria (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNHBYbmJIa0gzaElLY2RtQkIzZ3diYXlaZTR1LmpwZw==.jpg" group-title="Filmes | Drama",A Fúria (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/76978.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Gaiola das Loucas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXNTQTJrU0xDbDkxbWp5ejBKQmtCaWpIY2hxLmpwZw==.jpg" group-title="Filmes | Comedia",A Gaiola das Loucas
+#EXTINF:-1 tvg-id="" tvg-name="A Gaiola das Loucas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXNTQTJrU0xDbDkxbWp5ejBKQmtCaWpIY2hxLmpwZw==.jpg" group-title="Filmes | Comedia",A Gaiola das Loucas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136708.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Galeria dos Coracoes Partidos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvclhubDBrbDJyWlp2MHNCRGQxTkl3MkFidTRkLmpwZw==.jpg" group-title="Filmes | Romance",A Galeria dos Coracoes Partidos
+#EXTINF:-1 tvg-id="" tvg-name="A Galeria dos Coracoes Partidos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvclhubDBrbDJyWlp2MHNCRGQxTkl3MkFidTRkLmpwZw==.jpg" group-title="Filmes | Romance",A Galeria dos Coracoes Partidos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21753.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Galinha Turuleca" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY2YzTEZGYThCU0p2UW5QeVpoQ0htS1VwcHRYLmpwZw==.jpg" group-title="Filmes | Animacao",A Galinha Turuleca
+#EXTINF:-1 tvg-id="" tvg-name="A Galinha Turuleca" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY2YzTEZGYThCU0p2UW5QeVpoQ0htS1VwcHRYLmpwZw==.jpg" group-title="Filmes | Animacao",A Galinha Turuleca
 http://cdnrobot.info:2052/movie/md301a/abc123ad/83022.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota da Capa Vermelha" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYXE5a2RRWmxVblMxNGV4VmthVll2Z3hMV1lsLmpwZw==.jpg" group-title="Filmes | Drama",A Garota da Capa Vermelha
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Capa Vermelha" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYXE5a2RRWmxVblMxNGV4VmthVll2Z3hMV1lsLmpwZw==.jpg" group-title="Filmes | Drama",A Garota da Capa Vermelha
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138494.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ3BTQ1RtNDhYa0g2bnBvaW9WcWFVam1jSmZNLmpwZw==.jpg" group-title="Filmes | Documentarios",A Garota da Foto
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ3BTQ1RtNDhYa0g2bnBvaW9WcWFVam1jSmZNLmpwZw==.jpg" group-title="Filmes | Documentarios",A Garota da Foto
 http://cdnrobot.info:2052/movie/md301a/abc123ad/70414.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota de Miller" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVdFWjBjODJCWkpVZjc4UUhNNFlMdVo5U0RqLmpwZw==.jpg" group-title="Filmes | Suspense ",A Garota de Miller
+#EXTINF:-1 tvg-id="" tvg-name="A Garota de Miller" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVdFWjBjODJCWkpVZjc4UUhNNFlMdVo5U0RqLmpwZw==.jpg" group-title="Filmes | Suspense ",A Garota de Miller
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147646.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota Dinamarquesa" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNjU2bXRUWVZhb242VkZRelJ6MG5CY0VkYmJFLmpwZw==.jpg" group-title="Filmes | Drama",A Garota Dinamarquesa
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Dinamarquesa" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNjU2bXRUWVZhb242VkZRelJ6MG5CY0VkYmJFLmpwZw==.jpg" group-title="Filmes | Drama",A Garota Dinamarquesa
 http://cdnrobot.info:2052/movie/md301a/abc123ad/118318.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota dos Seus Sonhos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMWlhZkNNUzdjWjFtYlpJTXpuUHUzeHFYZU9JLmpwZw==.jpg" group-title="Filmes | Romance",A Garota dos Seus Sonhos
+#EXTINF:-1 tvg-id="" tvg-name="A Garota dos Seus Sonhos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMWlhZkNNUzdjWjFtYlpJTXpuUHUzeHFYZU9JLmpwZw==.jpg" group-title="Filmes | Romance",A Garota dos Seus Sonhos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51446.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisivel" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbXNKczdVd21XVWQ3aXFsMzZKb040UnAwaG9LLmpwZw==.jpg" group-title="Filmes | Comedia",A Garota Invisivel
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Invisivel" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbXNKczdVd21XVWQ3aXFsMzZKb040UnAwaG9LLmpwZw==.jpg" group-title="Filmes | Comedia",A Garota Invisivel
 http://cdnrobot.info:2052/movie/md301a/abc123ad/23004.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvQWt0WlRleW1wSkVJSzJRZ3lCMjlJaVdmQ0k4LmpwZw==.jpg" group-title="Filmes | Acao",A Garota no Trem
+#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvQWt0WlRleW1wSkVJSzJRZ3lCMjlJaVdmQ0k4LmpwZw==.jpg" group-title="Filmes | Acao",A Garota no Trem
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6699.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem (2021)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNlp2b3Y5MTJNbTBtcmpSNW5FR2JTdWpqbkdFLmpwZw==.jpg" group-title="Filmes | Drama",A Garota no Trem (2021)
+#EXTINF:-1 tvg-id="" tvg-name="A Garota no Trem (2021)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNlp2b3Y5MTJNbTBtcmpSNW5FR2JTdWpqbkdFLmpwZw==.jpg" group-title="Filmes | Drama",A Garota no Trem (2021)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/24703.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Garota Perfeita" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveVhWdkxBRzZBUHB4SmhCQzJEelEzbU5HN1Z4LmpwZw==.jpg" group-title="Filmes | Comedia",A Garota Perfeita
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Perfeita" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveVhWdkxBRzZBUHB4SmhCQzJEelEzbU5HN1Z4LmpwZw==.jpg" group-title="Filmes | Comedia",A Garota Perfeita
 http://cdnrobot.info:2052/movie/md301a/abc123ad/8811.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Gestora" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaFJxdkU2ZEFCaWN0S3VMd3FRTXpxNkFwdGlaLmpwZw==.jpg" group-title="Filmes | Drama",A Gestora
+#EXTINF:-1 tvg-id="" tvg-name="A Gestora" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaFJxdkU2ZEFCaWN0S3VMd3FRTXpxNkFwdGlaLmpwZw==.jpg" group-title="Filmes | Drama",A Gestora
 http://cdnrobot.info:2052/movie/md301a/abc123ad/74206.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Aposta (2015)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZWYwZktKczhRZFZGM0VweGZhOUVOMzNpRDhaLmpwZw==.jpg" group-title="Filmes | Comedia",A Grande Aposta (2015)
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Aposta (2015)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZWYwZktKczhRZFZGM0VweGZhOUVOMzNpRDhaLmpwZw==.jpg" group-title="Filmes | Comedia",A Grande Aposta (2015)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/49314.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Aventura de Blue na Cidade" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc0FZQkMzV2hoaVgyNTYyOUhMcEN2a3BHazlxLmpwZw==.jpg" group-title="Filmes | Aventura",A Grande Aventura de Blue na Cidade
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Aventura de Blue na Cidade" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc0FZQkMzV2hoaVgyNTYyOUhMcEN2a3BHazlxLmpwZw==.jpg" group-title="Filmes | Aventura",A Grande Aventura de Blue na Cidade
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79001.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Entrevista" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvalV1cklCSXJ6aXJGWkVySXAxWFdnSXhXWjlmLmpwZw==.jpg" group-title="Filmes | Drama",A Grande Entrevista
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Entrevista" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvalV1cklCSXJ6aXJGWkVySXAxWFdnSXhXWjlmLmpwZw==.jpg" group-title="Filmes | Drama",A Grande Entrevista
 http://cdnrobot.info:2052/movie/md301a/abc123ad/139542.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Escolha" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWczSkhYcHFTTGswUWNaanlKZ3VoSzB4d1VHLmpwZw==.jpg" group-title="Filmes | Drama",A Grande Escolha
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Escolha" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWczSkhYcHFTTGswUWNaanlKZ3VoSzB4d1VHLmpwZw==.jpg" group-title="Filmes | Drama",A Grande Escolha
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81302.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Fraude" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVdCRU13ak5YZzdLblFHWFM1YWM2QXdpT2hmLmpwZw==.jpg" group-title="Filmes | Suspense ",A Grande Fraude
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Fraude" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVdCRU13ak5YZzdLblFHWFM1YWM2QXdpT2hmLmpwZw==.jpg" group-title="Filmes | Suspense ",A Grande Fraude
 http://cdnrobot.info:2052/movie/md301a/abc123ad/140538.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Jogada (2017)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdmNVSUxpUnd1a3JjV3pUUjJjSTZBbG1kRDZwLmpwZw==.jpg" group-title="Filmes | Drama",A Grande Jogada (2017)
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Jogada (2017)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdmNVSUxpUnd1a3JjV3pUUjJjSTZBbG1kRDZwLmpwZw==.jpg" group-title="Filmes | Drama",A Grande Jogada (2017)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/48922.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Muralha " tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbkNJWjQwSkp6YVhlaXROWFNubEtHcGM5Y21ULmpwZw==.jpg" group-title="Filmes | Acao",A Grande Muralha 
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Muralha " tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbkNJWjQwSkp6YVhlaXROWFNubEtHcGM5Y21ULmpwZw==.jpg" group-title="Filmes | Acao",A Grande Muralha 
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6701.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Virada (2010)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveThSbmV5QjZHdmRITHgwenYzblU1M3doNUJCLmpwZw==.jpg" group-title="Filmes | Drama",A Grande Virada (2010)
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Virada (2010)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveThSbmV5QjZHdmRITHgwenYzblU1M3doNUJCLmpwZw==.jpg" group-title="Filmes | Drama",A Grande Virada (2010)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/120062.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Gripe (2013)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveDVSSnZpdm5YSXRuSk9GUDNmSmZ1dTh3dDhNLmpwZw==.jpg" group-title="Filmes | Drama",A Gripe (2013)
+#EXTINF:-1 tvg-id="" tvg-name="A Gripe (2013)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveDVSSnZpdm5YSXRuSk9GUDNmSmZ1dTh3dDhNLmpwZw==.jpg" group-title="Filmes | Drama",A Gripe (2013)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21827.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Anna" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMUdrcW1ZcGNoWjI0bk9xSWhxa2RHQUQwMVkxLmpwZw==.jpg" group-title="Filmes | Drama",A Guerra de Anna
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Anna" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMUdrcW1ZcGNoWjI0bk9xSWhxa2RHQUQwMVkxLmpwZw==.jpg" group-title="Filmes | Drama",A Guerra de Anna
 http://cdnrobot.info:2052/movie/md301a/abc123ad/140123.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Hart" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaGVQa1ViT2MzZDB1VjZOdDU3Nkh2czltOGtLLmpwZw==.jpg" group-title="Filmes | Guerra",A Guerra de Hart
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Hart" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaGVQa1ViT2MzZDB1VjZOdDU3Nkh2czltOGtLLmpwZw==.jpg" group-title="Filmes | Guerra",A Guerra de Hart
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136706.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Amanha" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbFdRM2hJNzhBejJSSGZ6RHBFdXZvdWdxVXo3LmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",A Guerra do Amanha
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Amanha" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbFdRM2hJNzhBejJSSGZ6RHBFdXZvdWdxVXo3LmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",A Guerra do Amanha
 http://cdnrobot.info:2052/movie/md301a/abc123ad/35921.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Hamburguer" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva045b3ExeW5jajYwa1dLM2JzU3drRVRzbFVHLmpwZw==.jpg" group-title="Filmes | Comedia",A Guerra do Hamburguer
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Hamburguer" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva045b3ExeW5jajYwa1dLM2JzU3drRVRzbFVHLmpwZw==.jpg" group-title="Filmes | Comedia",A Guerra do Hamburguer
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138648.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Hamburguer 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcGN3T0hOVEl5NnBWT0xqNlRqcDh0U0w5YndGLmpwZw==.jpg" group-title="Filmes | Comedia",A Guerra do Hamburguer 2
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra do Hamburguer 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcGN3T0hOVEl5NnBWT0xqNlRqcDh0U0w5YndGLmpwZw==.jpg" group-title="Filmes | Comedia",A Guerra do Hamburguer 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138531.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra dos Consoles (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMXk5dUlhemdxOWdLYXdGcVh1TzcxWGpzNDRaLmpwZw==.jpg" group-title="Filmes | Documentarios",A Guerra dos Consoles (L)
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra dos Consoles (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMXk5dUlhemdxOWdLYXdGcVh1TzcxWGpzNDRaLmpwZw==.jpg" group-title="Filmes | Documentarios",A Guerra dos Consoles (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/29066.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Guerra dos Roses (1989)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1hYM2xhSW1Ba1l4cGV3RVhmU3F1dUlobFZJLmpwZw==.jpg" group-title="Filmes | Comedia",A Guerra dos Roses (1989)
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra dos Roses (1989)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1hYM2xhSW1Ba1l4cGV3RVhmU3F1dUlobFZJLmpwZw==.jpg" group-title="Filmes | Comedia",A Guerra dos Roses (1989)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/80649.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Heranca de Mr. Deeds (2002)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWt2OTN1Z3FvQjhTTUNLa0RnbnQzelVTV2xqLmpwZw==.jpg" group-title="Filmes | Comedia",A Heranca de Mr. Deeds (2002)
+#EXTINF:-1 tvg-id="" tvg-name="A Heranca de Mr. Deeds (2002)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWt2OTN1Z3FvQjhTTUNLa0RnbnQzelVTV2xqLmpwZw==.jpg" group-title="Filmes | Comedia",A Heranca de Mr. Deeds (2002)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3489.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="A Herança" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1FkdG1KOHpJQ2hLWEFBME4xSFEwN1NnVm82LmpwZw==.jpg" group-title="Filmes | Terror",A Herança
