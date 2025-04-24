@@ -1710,7 +1710,7 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/139355.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51075.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Noiva do Diabo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNnpXOUVJejZ1c2E1N0FWUDVPbXpUb0pld3JlLmpwZw==.jpg" group-title="Filmes | Drama",A Noiva do Diabo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Noiva Perfeita" tvg-logo="http://cdnrobot.info:2052images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcHVlVERQTEk4UmIwR0FsbkFMek1VQzBYMmxvLmpwZw==.jpg" group-title="Filmes | Romance",A Noiva Perfeita
+#EXTINF:-1 tvg-id="" tvg-name="A Noiva Perfeita" tvg-logo="https://image.tmdb.org/t/p/original/ogy6TOTPFIf0ipDFt5SgALEULoY.jpg" group-title="Filmes | Romance",A Noiva Perfeita
 http://cdnrobot.info:2052/movie/md301a/abc123ad/71497.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Nossa Cancao de Amor" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNG9COVJqQzczcExOM2VaS1p6RFdRMjk3NDhXLmpwZw==.jpg" group-title="Filmes | Romance",A Nossa Cancao de Amor
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73702.mp4
