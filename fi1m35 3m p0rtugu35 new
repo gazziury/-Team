@@ -2090,68 +2090,47 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/131174.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/27828.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Volta do Todo Poderoso" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveVdJNzBYbDVQcW1VdUNzaWtTSzU0cVk2dXlPLmpwZw==.jpg" group-title="Filmes | Comedia",A Volta do Todo Poderoso
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6714.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNkRHc05pdFUyYk8xbjk0R053RWVHWDRQTE1HLmpwZw==.jpg" group-title="Filmes | Comedia",A Volta dos Mortos Vivos
+#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNkRHc05pdFUyYk8xbjk0R053RWVHWDRQTE1HLmpwZw==.jpg" group-title="Filmes | Comedia",A Volta dos Mortos Vivos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3217.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbDhQeWh4M25OWTVLM05aRnJMWW9id3NCNnJiLmpwZw==.jpg" group-title="Filmes | Comedia",A Volta dos Mortos Vivos 2
+#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbDhQeWh4M25OWTVLM05aRnJMWW9id3NCNnJiLmpwZw==.jpg" group-title="Filmes | Comedia",A Volta dos Mortos Vivos 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3218.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 3" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOVNzc1NVbkZMUmt5dXVzSjJiUFJjeGZyRExXLmpwZw==.jpg" group-title="Filmes | Comedia",A Volta dos Mortos Vivos 3
+#EXTINF:-1 tvg-id="" tvg-name="A Volta dos Mortos Vivos 3" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOVNzc1NVbkZMUmt5dXVzSjJiUFJjeGZyRExXLmpwZw==.jpg" group-title="Filmes | Comedia",A Volta dos Mortos Vivos 3
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3219.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abaixo de Nos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY0xRZ3dDekdtbEo1dmNwZkJBdVlxdmQwakRTLmpwZw==.jpg" group-title="Filmes | Terror",Abaixo de Nos
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo de Nos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY0xRZ3dDekdtbEo1dmNwZkJBdVlxdmQwakRTLmpwZw==.jpg" group-title="Filmes | Terror",Abaixo de Nos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/20479.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abaixo de Zero (2021)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcm9mRmtUdU13d0lKcFdKVlFhVFJZcWZRdW9OLmpwZw==.jpg" group-title="Filmes | Acao",Abaixo de Zero (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo de Zero (2021)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcm9mRmtUdU13d0lKcFdKVlFhVFJZcWZRdW9OLmpwZw==.jpg" group-title="Filmes | Acao",Abaixo de Zero (2021)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21899.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abaixo o Amor" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGZCRE5sdEVtYUprWnNGcEo4Yk10M2VzVnlkLmpwZw==.jpg" group-title="Filmes | Romance",Abaixo o Amor
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo o Amor" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGZCRE5sdEVtYUprWnNGcEo4Yk10M2VzVnlkLmpwZw==.jpg" group-title="Filmes | Romance",Abaixo o Amor
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73610.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abandonada (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvckMzTzhWSVBoTGhKT082OFhzUHJ1Qm9pckRSLmpwZw==.jpg" group-title="Filmes | Terror",Abandonada (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Abandonada (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvckMzTzhWSVBoTGhKT082OFhzUHJ1Qm9pckRSLmpwZw==.jpg" group-title="Filmes | Terror",Abandonada (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/83066.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abandonado no Altar" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZmduWFY3eXdwN09yamQ3Z0NUNUxKdmJraUtjLmpwZw==.jpg" group-title="Filmes | Comedia",Abandonado no Altar
+#EXTINF:-1 tvg-id="" tvg-name="Abandonado no Altar" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZmduWFY3eXdwN09yamQ3Z0NUNUxKdmJraUtjLmpwZw==.jpg" group-title="Filmes | Comedia",Abandonado no Altar
 http://cdnrobot.info:2052/movie/md301a/abc123ad/129415.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abducao (2014)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMWRvVU5ONEdHazY2N09oS3JIWVRPM3BnZHBKLmpwZw==.jpg" group-title="Filmes | Terror",Abducao (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Abducao (2014)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMWRvVU5ONEdHazY2N09oS3JIWVRPM3BnZHBKLmpwZw==.jpg" group-title="Filmes | Terror",Abducao (2014)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3704.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Aberracoes" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYmRlVzNWakR0WHVWWFFFUU1PNG45ZmJ4OEpmLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Aberracoes
+#EXTINF:-1 tvg-id="" tvg-name="Aberracoes" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYmRlVzNWakR0WHVWWFFFUU1PNG45ZmJ4OEpmLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Aberracoes
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21762.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abestalhados 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXRVV0lTcjN5YloxVXYweFBJRXhCOFY3N1RMLmpwZw==.jpg" group-title="Filmes | Nacionais",Abestalhados 2
+#EXTINF:-1 tvg-id="" tvg-name="Abestalhados 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXRVV0lTcjN5YloxVXYweFBJRXhCOFY3N1RMLmpwZw==.jpg" group-title="Filmes | Nacionais",Abestalhados 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/104581.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abigail" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcFFGb0hSbUpMQWx2NWIyRE5MR0JJU3l4RXVjLmpwZw==.jpg" group-title="Filmes | Terror",Abigail
+#EXTINF:-1 tvg-id="" tvg-name="Abigail" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcFFGb0hSbUpMQWx2NWIyRE5MR0JJU3l4RXVjLmpwZw==.jpg" group-title="Filmes | Terror",Abigail
 http://cdnrobot.info:2052/movie/md301a/abc123ad/141487.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abigail (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcFFGb0hSbUpMQWx2NWIyRE5MR0JJU3l4RXVjLmpwZw==.jpg" group-title="Filmes | Terror",Abigail (L)
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcFFGb0hSbUpMQWx2NWIyRE5MR0JJU3l4RXVjLmpwZw==.jpg" group-title="Filmes | Terror",Abigail (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/141016.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abigail e a Cidade Proibida" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvalZvdjFXUVhGanFmZTNZWmhjZUpOZXdaQkZOLmpwZw==.jpg" group-title="Filmes | Aventura",Abigail e a Cidade Proibida
+#EXTINF:-1 tvg-id="" tvg-name="Abigail e a Cidade Proibida" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvalZvdjFXUVhGanFmZTNZWmhjZUpOZXdaQkZOLmpwZw==.jpg" group-title="Filmes | Aventura",Abigail e a Cidade Proibida
 http://cdnrobot.info:2052/movie/md301a/abc123ad/5374.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abismo do Medo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYlhINDBoUGRsdWpzeE9NeDFDT2VSMzVvM0JQLmpwZw==.jpg" group-title="Filmes | Terror",Abismo do Medo
+#EXTINF:-1 tvg-id="" tvg-name="Abismo do Medo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYlhINDBoUGRsdWpzeE9NeDFDT2VSMzVvM0JQLmpwZw==.jpg" group-title="Filmes | Terror",Abismo do Medo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/148080.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abominavel" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb0M4OWhzUkZvRjRPY3JnWUlLeXNERDdNNlhPLmpwZw==.jpg" group-title="Filmes | Animacao",Abominavel
+#EXTINF:-1 tvg-id="" tvg-name="Abominavel" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb0M4OWhzUkZvRjRPY3JnWUlLeXNERDdNNlhPLmpwZw==.jpg" group-title="Filmes | Animacao",Abominavel
 http://cdnrobot.info:2052/movie/md301a/abc123ad/4943.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (1993)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva0l6S0lBNDNoRTI2SFJWNzdSVFl0WndqT1NNLmpwZw==.jpg" group-title="Filmes | Disney +",Abracadabra (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (1993)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva0l6S0lBNDNoRTI2SFJWNzdSVFl0WndqT1NNLmpwZw==.jpg" group-title="Filmes | Disney +",Abracadabra (1993)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73650.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEc3RWFQVG9jRTBvazNZTnhvOTcyd29vOUVQLmpwZw==.jpg" group-title="Filmes | Fantasia",Abracadabra 2
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEc3RWFQVG9jRTBvazNZTnhvOTcyd29vOUVQLmpwZw==.jpg" group-title="Filmes | Fantasia",Abracadabra 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/75678.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln Cacador de Vampiros" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOFJsaTJud1JkUTFaRmRJWGs1NFhqdEtvTDRhLmpwZw==.jpg" group-title="Filmes | Acao",Abraham Lincoln Cacador de Vampiros
+#EXTINF:-1 tvg-id="" tvg-name="Abraham Lincoln Cacador de Vampiros" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOFJsaTJud1JkUTFaRmRJWGs1NFhqdEtvTDRhLmpwZw==.jpg" group-title="Filmes | Acao",Abraham Lincoln Cacador de Vampiros
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6696.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Absolutamente Impossível" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb0ExbVlPVDVSRlBQT0F3NUpFS2hFdTcxN2U3LmpwZw==.jpg" group-title="Filmes | Comedia",Absolutamente Impossível
+#EXTINF:-1 tvg-id="" tvg-name="Absolutamente Impossível" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb0ExbVlPVDVSRlBQT0F3NUpFS2hFdTcxN2U3LmpwZw==.jpg" group-title="Filmes | Comedia",Absolutamente Impossível
 http://cdnrobot.info:2052/movie/md301a/abc123ad/148058.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Absolutely Fabulous: O Filme" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbjdiTjJteTNkb0NIZDF3RlV1THZGZlpTQjBnLmpwZw==.jpg" group-title="Filmes | Comedia",Absolutely Fabulous: O Filme
+#EXTINF:-1 tvg-id="" tvg-name="Absolutely Fabulous: O Filme" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbjdiTjJteTNkb0NIZDF3RlV1THZGZlpTQjBnLmpwZw==.jpg" group-title="Filmes | Comedia",Absolutely Fabulous: O Filme
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73581.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Abutres" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEtvN1JKTUhwREhYc1F4eGk2VjFTM0NyZkduLmpwZw==.jpg" group-title="Filmes | Suspense ",Abutres
