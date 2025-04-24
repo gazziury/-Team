@@ -766,253 +766,168 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/75442.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/115252.mp4
 #EXTINF:-1 tvg-id="" tvg-name="20 Anos Mais Jovem" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcDc2ekgxaWU1dHMxRjVlUGxNQXc0end1UW95LmpwZw==.jpg" group-title="Filmes | Comedia",20 Anos Mais Jovem
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138613.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="20 Dias em Mauripol (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMjFyRlFVeVA4U0RKaFdtNmNwQWJIZE9MNWYwLmpwZw==.jpg" group-title="Filmes | Documentarios",20 Dias em Mauripol (L)
+#EXTINF:-1 tvg-id="" tvg-name="20 Dias em Mauripol (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMjFyRlFVeVA4U0RKaFdtNmNwQWJIZE9MNWYwLmpwZw==.jpg" group-title="Filmes | Documentarios",20 Dias em Mauripol (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138823.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="2001: Uma Odisseia no Espaco" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWpQSEtDaEJWV2ZXeFhZTzF5TjRGWkYxVTJTLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",2001: Uma Odisseia no Espaco
+#EXTINF:-1 tvg-id="" tvg-name="2001: Uma Odisseia no Espaco" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWpQSEtDaEJWV2ZXeFhZTzF5TjRGWkYxVTJTLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",2001: Uma Odisseia no Espaco
 http://cdnrobot.info:2052/movie/md301a/abc123ad/46809.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="2019 O Ano da Extincao" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOW82VkxwRldSeVlralFWU1dKWTRoV0JUenJzLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",2019 O Ano da Extincao
+#EXTINF:-1 tvg-id="" tvg-name="2019 O Ano da Extincao" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOW82VkxwRldSeVlralFWU1dKWTRoV0JUenJzLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",2019 O Ano da Extincao
 http://cdnrobot.info:2052/movie/md301a/abc123ad/77131.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="2067 (2020)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0Q0MzBlcVpqOHkzb1ZrTEZmc1dYR1JjcEVHLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",2067 (2020)
+#EXTINF:-1 tvg-id="" tvg-name="2067 (2020)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0Q0MzBlcVpqOHkzb1ZrTEZmc1dYR1JjcEVHLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",2067 (2020)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/33313.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="2067 (2020) (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0Q0MzBlcVpqOHkzb1ZrTEZmc1dYR1JjcEVHLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",2067 (2020) (L)
+#EXTINF:-1 tvg-id="" tvg-name="2067 (2020) (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0Q0MzBlcVpqOHkzb1ZrTEZmc1dYR1JjcEVHLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",2067 (2020) (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/33314.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto - 2018" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWdleWF6T0syNmUwUlNHMHVpT1lpRFdIaTEuanBn.jpg" group-title="Filmes | Acao",211 - O Grande Assalto - 2018
+#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto - 2018" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWdleWF6T0syNmUwUlNHMHVpT1lpRFdIaTEuanBn.jpg" group-title="Filmes | Acao",211 - O Grande Assalto - 2018
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6556.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="22 Balas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM0VraHNVNmF1Z0pqTFU4M0FpT052czN5OTdzLmpwZw==.jpg" group-title="Filmes | Acao",22 Balas
+#EXTINF:-1 tvg-id="" tvg-name="22 Balas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM0VraHNVNmF1Z0pqTFU4M0FpT052czN5OTdzLmpwZw==.jpg" group-title="Filmes | Acao",22 Balas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6545.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="22 de Julho" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZk8xWW1VNUR2WWR1ZG1PRE8yNVBwUmVraU1YLmpwZw==.jpg" group-title="Filmes | Drama",22 de Julho
+#EXTINF:-1 tvg-id="" tvg-name="22 de Julho" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZk8xWW1VNUR2WWR1ZG1PRE8yNVBwUmVraU1YLmpwZw==.jpg" group-title="Filmes | Drama",22 de Julho
 http://cdnrobot.info:2052/movie/md301a/abc123ad/32328.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWdpVTZBdkVveXVMTW50N0tub3ViWHJLc0MuanBn.jpg" group-title="Filmes | Acao",22 Milhas (2018)
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWdpVTZBdkVveXVMTW50N0tub3ViWHJLc0MuanBn.jpg" group-title="Filmes | Acao",22 Milhas (2018)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6546.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas 
-http://cdnrobot.info:2052/movie/md301a/abc123ad/138889.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas – Vol. 1 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e2fQfg1TZfQ4o30EzIWQe8Ffo1R.jpg" group-title="Filmes | Animacao",3 Palavrinhas – Vol. 1 (2013)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/28940.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas – Vol. 2 (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAjmKCtPDCUemraMDhdudMfKYl.jpg" group-title="Filmes | Animacao",3 Palavrinhas – Vol. 2 (2014)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/28941.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="3 Pedidos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNzRqNlMzVlpZS1Q3ZTc0VmlCRHFVM1llV2RnLmpwZw==.jpg" group-title="Filmes | Suspense ",3 Pedidos
+#EXTINF:-1 tvg-id="" tvg-name="3 Pedidos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNzRqNlMzVlpZS1Q3ZTc0VmlCRHFVM1llV2RnLmpwZw==.jpg" group-title="Filmes | Suspense ",3 Pedidos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/70411.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite (2007)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGJHN1ZFbjVkWlpRQWpTTkNQTUFIenBmNEdRLmpwZw==.jpg" group-title="Filmes | Terror",30 Dias de Noite (2007)
+#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite (2007)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGJHN1ZFbjVkWlpRQWpTTkNQTUFIenBmNEdRLmpwZw==.jpg" group-title="Filmes | Terror",30 Dias de Noite (2007)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/19763.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite 2: Dias Sombrios (2010)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYjNCOXkyS1JsQkN2ZU1LdVFFUmJhanVKelJLLmpwZw==.jpg" group-title="Filmes | Terror",30 Dias de Noite 2: Dias Sombrios (2010)
+#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite 2: Dias Sombrios (2010)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYjNCOXkyS1JsQkN2ZU1LdVFFUmJhanVKelJLLmpwZw==.jpg" group-title="Filmes | Terror",30 Dias de Noite 2: Dias Sombrios (2010)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/19764.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="30 Minutos ou Menos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNnUxUTFZM3lOR0RCQ2tEOFVRNXlWcDZLWXg5LmpwZw==.jpg" group-title="Filmes | Acao",30 Minutos ou Menos
+#EXTINF:-1 tvg-id="" tvg-name="30 Minutos ou Menos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNnUxUTFZM3lOR0RCQ2tEOFVRNXlWcDZLWXg5LmpwZw==.jpg" group-title="Filmes | Acao",30 Minutos ou Menos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/68235.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="300 (2007)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaDdMY2lvMGM5b2h4UGhTWmc0MmVUbEtJVlZZLmpwZw==.jpg" group-title="Filmes | Acao",300 (2007)
+#EXTINF:-1 tvg-id="" tvg-name="300 (2007)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaDdMY2lvMGM5b2h4UGhTWmc0MmVUbEtJVlZZLmpwZw==.jpg" group-title="Filmes | Acao",300 (2007)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6552.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="3000 Milhas para o Inferno " tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvejk2Z0NoY3I5bHUxd0llWFR1MUlHMFZPSGFFLmpwZw==.jpg" group-title="Filmes | Acao",3000 Milhas para o Inferno 
+#EXTINF:-1 tvg-id="" tvg-name="3000 Milhas para o Inferno " tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvejk2Z0NoY3I5bHUxd0llWFR1MUlHMFZPSGFFLmpwZw==.jpg" group-title="Filmes | Acao",3000 Milhas para o Inferno 
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3478.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensao do Imperio (2014)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbDlUOWhzVmNhMm1oMFMyOW9sV1JVRTN1QnB6LmpwZw==.jpg" group-title="Filmes | Acao",300: A Ascensao do Imperio (2014)
+#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensao do Imperio (2014)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbDlUOWhzVmNhMm1oMFMyOW9sV1JVRTN1QnB6LmpwZw==.jpg" group-title="Filmes | Acao",300: A Ascensao do Imperio (2014)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6557.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="3096 Dias de Cativeiro" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY1Y1QlBxTHhlMUJ5bnlleEtaYXIzS09uWVYuanBn.jpg" group-title="Filmes | Drama",3096 Dias de Cativeiro
+#EXTINF:-1 tvg-id="" tvg-name="3096 Dias de Cativeiro" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY1Y1QlBxTHhlMUJ5bnlleEtaYXIzS09uWVYuanBn.jpg" group-title="Filmes | Drama",3096 Dias de Cativeiro
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6558.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="31 A Morte é a Única Saída" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvakhrSUlrUDRPMHZVa1NBQ2Npek9QWlFJaUY3LmpwZw==.jpg" group-title="Filmes | Terror",31 A Morte é a Única Saída
+#EXTINF:-1 tvg-id="" tvg-name="31 A Morte é a Única Saída" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvakhrSUlrUDRPMHZVa1NBQ2Npek9QWlFJaUY3LmpwZw==.jpg" group-title="Filmes | Terror",31 A Morte é a Única Saída
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147781.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="36 Horas de Guerra" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZVJVckVSOXhGSWlMcDJhTUlKakNURU9VM1ZYLmpwZw==.jpg" group-title="Filmes | Guerra",36 Horas de Guerra
+#EXTINF:-1 tvg-id="" tvg-name="36 Horas de Guerra" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZVJVckVSOXhGSWlMcDJhTUlKakNURU9VM1ZYLmpwZw==.jpg" group-title="Filmes | Guerra",36 Horas de Guerra
 http://cdnrobot.info:2052/movie/md301a/abc123ad/140117.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM2IxdVI4SmdndDFoV2d0QmJwNDJNdDNjd1dlLmpwZw==.jpg" group-title="Filmes | Drama",365 Dias
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM2IxdVI4SmdndDFoV2d0QmJwNDJNdDNjd1dlLmpwZw==.jpg" group-title="Filmes | Drama",365 Dias
 http://cdnrobot.info:2052/movie/md301a/abc123ad/13137.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnB4S3d4TWJkNWwzQnhLNWZCZ1ZDV1l3ZUgyLmpwZw==.jpg" group-title="Filmes | Romance",365 Dias Finais
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnB4S3d4TWJkNWwzQnhLNWZCZ1ZDV1l3ZUgyLmpwZw==.jpg" group-title="Filmes | Romance",365 Dias Finais
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73381.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnB4S3d4TWJkNWwzQnhLNWZCZ1ZDV1l3ZUgyLmpwZw==.jpg" group-title="Filmes | Romance",365 Dias Finais (L)
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnB4S3d4TWJkNWwzQnhLNWZCZ1ZDV1l3ZUgyLmpwZw==.jpg" group-title="Filmes | Romance",365 Dias Finais (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73382.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMzEwNGxIMVUxWGZVWG8wWkxhd25JalhTME5DLmpwZw==.jpg" group-title="Filmes | Romance",365 Dias: Hoje
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMzEwNGxIMVUxWGZVWG8wWkxhd25JalhTME5DLmpwZw==.jpg" group-title="Filmes | Romance",365 Dias: Hoje
 http://cdnrobot.info:2052/movie/md301a/abc123ad/52195.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="37 Segundos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY3BvaVZybEVLaXo4WFlOeWVHOGpIZGRUcXRBLmpwZw==.jpg" group-title="Filmes | Drama",37 Segundos
+#EXTINF:-1 tvg-id="" tvg-name="37 Segundos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY3BvaVZybEVLaXo4WFlOeWVHOGpIZGRUcXRBLmpwZw==.jpg" group-title="Filmes | Drama",37 Segundos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/8089.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="4 Amigos Te Apresento Minha Amiga" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveDVKN0RLZXpxS3JpT2RvZHpqOEE1QWxxRmsyLmpwZw==.jpg" group-title="Filmes | Nacionais",4 Amigos Te Apresento Minha Amiga
+#EXTINF:-1 tvg-id="" tvg-name="4 Amigos Te Apresento Minha Amiga" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveDVKN0RLZXpxS3JpT2RvZHpqOEE1QWxxRmsyLmpwZw==.jpg" group-title="Filmes | Nacionais",4 Amigos Te Apresento Minha Amiga
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131862.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="42 - A Historia de Uma Lenda" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZGRhY3h3YXhVRjFXZjhDdEJsbDM1QVF3TEJBLmpwZw==.jpg" group-title="Filmes | Drama",42 - A Historia de Uma Lenda
+#EXTINF:-1 tvg-id="" tvg-name="42 - A Historia de Uma Lenda" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZGRhY3h3YXhVRjFXZjhDdEJsbDM1QVF3TEJBLmpwZw==.jpg" group-title="Filmes | Drama",42 - A Historia de Uma Lenda
 http://cdnrobot.info:2052/movie/md301a/abc123ad/32298.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveG1VaUdOdktURHdpYzI3M29waVZlZG5iUUE4LmpwZw==.jpg" group-title="Filmes | Nacionais",45 do Segundo Tempo
+#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveG1VaUdOdktURHdpYzI3M29waVZlZG5iUUE4LmpwZw==.jpg" group-title="Filmes | Nacionais",45 do Segundo Tempo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79456.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="47 Ronins" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcEtNNHY2ZFoxTFNLelJReE4wWUVibUNLR0FILmpwZw==.jpg" group-title="Filmes | Drama",47 Ronins
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronins" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcEtNNHY2ZFoxTFNLelJReE4wWUVibUNLR0FILmpwZw==.jpg" group-title="Filmes | Drama",47 Ronins
 http://cdnrobot.info:2052/movie/md301a/abc123ad/116841.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="48 Horas (1982)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNXV5bkl4YTRDT00wcFBWOFJ1UGl6OWVQRGJCLmpwZw==.jpg" group-title="Filmes | Suspense ",48 Horas (1982)
+#EXTINF:-1 tvg-id="" tvg-name="48 Horas (1982)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNXV5bkl4YTRDT00wcFBWOFJ1UGl6OWVQRGJCLmpwZw==.jpg" group-title="Filmes | Suspense ",48 Horas (1982)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/116785.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="4:44 - O Fim do Mundo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc3VjUUtZVWRuWFViZzdkOXo5U002YW1aVnMzLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",4:44 - O Fim do Mundo
+#EXTINF:-1 tvg-id="" tvg-name="4:44 - O Fim do Mundo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc3VjUUtZVWRuWFViZzdkOXo5U002YW1aVnMzLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",4:44 - O Fim do Mundo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/78006.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="4x100: Correndo por um Sonho" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEF1T0Q5b1c3OEVNdkR0cDRVdmhBdUFpQUVhLmpwZw==.jpg" group-title="Filmes | Nacionais",4x100: Correndo por um Sonho
+#EXTINF:-1 tvg-id="" tvg-name="4x100: Correndo por um Sonho" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEF1T0Q5b1c3OEVNdkR0cDRVdmhBdUFpQUVhLmpwZw==.jpg" group-title="Filmes | Nacionais",4x100: Correndo por um Sonho
 http://cdnrobot.info:2052/movie/md301a/abc123ad/40980.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="50 Tons de Liberdade " tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYzdsemVQbEVVOTFSNnRaVVhwbGx3SVNaZ1hGLmpwZw==.jpg" group-title="Filmes | Romance",50 Tons de Liberdade 
+#EXTINF:-1 tvg-id="" tvg-name="50 Tons de Liberdade " tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYzdsemVQbEVVOTFSNnRaVVhwbGx3SVNaZ1hGLmpwZw==.jpg" group-title="Filmes | Romance",50 Tons de Liberdade 
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10034.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="50 Tons Mais Escuros" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbmo1S1RtM1dBUXQ0ck43NDhkanZDa0tZcTBiLmpwZw==.jpg" group-title="Filmes | Romance",50 Tons Mais Escuros
+#EXTINF:-1 tvg-id="" tvg-name="50 Tons Mais Escuros" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbmo1S1RtM1dBUXQ0ck43NDhkanZDa0tZcTBiLmpwZw==.jpg" group-title="Filmes | Romance",50 Tons Mais Escuros
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10035.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="500 Dias com Ela" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd2tzcHJ5ZDVWZTkzbnBFZ2UzT0ZZQ1JnWXdZLmpwZw==.jpg" group-title="Filmes | Romance",500 Dias com Ela
+#EXTINF:-1 tvg-id="" tvg-name="500 Dias com Ela" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd2tzcHJ5ZDVWZTkzbnBFZ2UzT0ZZQ1JnWXdZLmpwZw==.jpg" group-title="Filmes | Romance",500 Dias com Ela
 http://cdnrobot.info:2052/movie/md301a/abc123ad/116153.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="537 Votos (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva2tKMlUydkpRZ01waW52WlNMWVc4dzBYYUZULmpwZw==.jpg" group-title="Filmes | Documentarios",537 Votos (L)
+#EXTINF:-1 tvg-id="" tvg-name="537 Votos (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva2tKMlUydkpRZ01waW52WlNMWVc4dzBYYUZULmpwZw==.jpg" group-title="Filmes | Documentarios",537 Votos (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/130584.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="57 Segundos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva1JMTnRKMGRXVUhoTnQyME5pamVXaG5MSjVFLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",57 Segundos
+#EXTINF:-1 tvg-id="" tvg-name="57 Segundos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva1JMTnRKMGRXVUhoTnQyME5pamVXaG5MSjVFLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",57 Segundos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/137973.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="6 Balas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc01TWU9CQ2xDcjhjUUR4YllRYWlrcWk1WUc3LmpwZw==.jpg" group-title="Filmes | Suspense ",6 Balas
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc01TWU9CQ2xDcjhjUUR4YllRYWlrcWk1WUc3LmpwZw==.jpg" group-title="Filmes | Suspense ",6 Balas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/140133.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="6 Dias" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGx5eDZXdGFPNlF0RkZHQUF4UUwySzQwM1BlLmpwZw==.jpg" group-title="Filmes | Acao",6 Dias
+#EXTINF:-1 tvg-id="" tvg-name="6 Dias" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGx5eDZXdGFPNlF0RkZHQUF4UUwySzQwM1BlLmpwZw==.jpg" group-title="Filmes | Acao",6 Dias
 http://cdnrobot.info:2052/movie/md301a/abc123ad/23003.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="60 Minutos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbjV3anN1WWg5NTRITGFnQ25xckxwUFQ4eGk3LmpwZw==.jpg" group-title="Filmes | Acao",60 Minutos
+#EXTINF:-1 tvg-id="" tvg-name="60 Minutos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbjV3anN1WWg5NTRITGFnQ25xckxwUFQ4eGk3LmpwZw==.jpg" group-title="Filmes | Acao",60 Minutos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/137953.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="60 Minutos para Morrer (2017)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaTVwSjhJb09hblZBUEJ6S2kzR2lWbkdsT2xkLmpwZw==.jpg" group-title="Filmes | Terror",60 Minutos para Morrer (2017)
+#EXTINF:-1 tvg-id="" tvg-name="60 Minutos para Morrer (2017)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaTVwSjhJb09hblZBUEJ6S2kzR2lWbkdsT2xkLmpwZw==.jpg" group-title="Filmes | Terror",60 Minutos para Morrer (2017)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/19765.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="60 Segundos (2000)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOFRad2NPRVJvVGg0Z0RDRXUyTUtMb1lJN2x4LmpwZw==.jpg" group-title="Filmes | Acao",60 Segundos (2000)
+#EXTINF:-1 tvg-id="" tvg-name="60 Segundos (2000)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOFRad2NPRVJvVGg0Z0RDRXUyTUtMb1lJN2x4LmpwZw==.jpg" group-title="Filmes | Acao",60 Segundos (2000)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6550.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="65 Ameaca Pre Historica" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdXdBVVoyeUQ2bWdRbDJsaHVFa1JEcGw1bG1SLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",65 Ameaca Pre Historica
+#EXTINF:-1 tvg-id="" tvg-name="65 Ameaca Pre Historica" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdXdBVVoyeUQ2bWdRbDJsaHVFa1JEcGw1bG1SLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",65 Ameaca Pre Historica
 http://cdnrobot.info:2052/movie/md301a/abc123ad/113627.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="7 Desejos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaFpJZU1XTmNpeUh5aElxckxpWlhKNFZnWEhiLmpwZw==.jpg" group-title="Filmes | Terror",7 Desejos
+#EXTINF:-1 tvg-id="" tvg-name="7 Desejos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaFpJZU1XTmNpeUh5aElxckxpWlhKNFZnWEhiLmpwZw==.jpg" group-title="Filmes | Terror",7 Desejos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147878.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="7 Dias em Entebbe" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWRod0ZwWWpTUnVFSzVmWXBzSUpGZ3FrTVJELmpwZw==.jpg" group-title="Filmes | Suspense ",7 Dias em Entebbe
+#EXTINF:-1 tvg-id="" tvg-name="7 Dias em Entebbe" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWRod0ZwWWpTUnVFSzVmWXBzSUpGZ3FrTVJELmpwZw==.jpg" group-title="Filmes | Suspense ",7 Dias em Entebbe
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6543.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros (2021)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNWRDSUJHWG5JdVBkUDFnbWxFbEVETVRjSUdULmpwZw==.jpg" group-title="Filmes | Nacionais",7 Prisioneiros (2021)
+#EXTINF:-1 tvg-id="" tvg-name="7 Prisioneiros (2021)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNWRDSUJHWG5JdVBkUDFnbWxFbEVETVRjSUdULmpwZw==.jpg" group-title="Filmes | Nacionais",7 Prisioneiros (2021)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/48315.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="71: Esquecido em Belfast" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYXN5WW9uakprT243WGw0aHlmQk1vY0QxaTBLLmpwZw==.jpg" group-title="Filmes | Suspense ",71: Esquecido em Belfast
+#EXTINF:-1 tvg-id="" tvg-name="71: Esquecido em Belfast" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYXN5WW9uakprT243WGw0aHlmQk1vY0QxaTBLLmpwZw==.jpg" group-title="Filmes | Suspense ",71: Esquecido em Belfast
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81573.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="72 Horas (2010)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvblRveE5PeGZSWk9OTlRTb0tISVZXV3FSTlRSLmpwZw==.jpg" group-title="Filmes | Acao",72 Horas (2010)
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas (2010)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvblRveE5PeGZSWk9OTlRTb0tISVZXV3FSTlRSLmpwZw==.jpg" group-title="Filmes | Acao",72 Horas (2010)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6551.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="72 Horas Depois" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVlUMjE4eWtka0QxWEh0Y2JNTkJuT25UYjFYLmpwZw==.jpg" group-title="Filmes | Policial",72 Horas Depois
+#EXTINF:-1 tvg-id="" tvg-name="72 Horas Depois" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVlUMjE4eWtka0QxWEh0Y2JNTkJuT25UYjFYLmpwZw==.jpg" group-title="Filmes | Policial",72 Horas Depois
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73713.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="7th e Union" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMTRBS01DeHRGMTFVbFlYTHlqbVRQMjJ2RHRsLmpwZw==.jpg" group-title="Filmes | Drama",7th e Union
+#EXTINF:-1 tvg-id="" tvg-name="7th e Union" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMTRBS01DeHRGMTFVbFlYTHlqbVRQMjJ2RHRsLmpwZw==.jpg" group-title="Filmes | Drama",7th e Union
 http://cdnrobot.info:2052/movie/md301a/abc123ad/71483.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="8 Mile: Rua das Ilusoes" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvODZDeXlzSXc2V3Zib1JQTjhxcmpDUDBNMG5TLmpwZw==.jpg" group-title="Filmes | Drama",8 Mile: Rua das Ilusoes
+#EXTINF:-1 tvg-id="" tvg-name="8 Mile: Rua das Ilusoes" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvODZDeXlzSXc2V3Zib1JQTjhxcmpDUDBNMG5TLmpwZw==.jpg" group-title="Filmes | Drama",8 Mile: Rua das Ilusoes
 http://cdnrobot.info:2052/movie/md301a/abc123ad/40935.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="88 - Assassina Silenciosa" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZlhKZ3ZYR2oxa2tpTFFkM3FjbnRaRnpJeDJCLmpwZw==.jpg" group-title="Filmes | Suspense ",88 - Assassina Silenciosa
+#EXTINF:-1 tvg-id="" tvg-name="88 - Assassina Silenciosa" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZlhKZ3ZYR2oxa2tpTFFkM3FjbnRaRnpJeDJCLmpwZw==.jpg" group-title="Filmes | Suspense ",88 - Assassina Silenciosa
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147797.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="88 Minutos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvWHQwV2lzU1V3dlRVZUhjbEY4YVdNbk01Q2IuanBn.jpg" group-title="Filmes | Suspense ",88 Minutos
+#EXTINF:-1 tvg-id="" tvg-name="88 Minutos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvWHQwV2lzU1V3dlRVZUhjbEY4YVdNbk01Q2IuanBn.jpg" group-title="Filmes | Suspense ",88 Minutos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147823.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="8mm 2: Oito Milimetros 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc1h2emZ0SE5RTUo0bEJFZkpCNk42RDg5MkJRLmpwZw==.jpg" group-title="Filmes | Policial",8mm 2: Oito Milimetros 2
+#EXTINF:-1 tvg-id="" tvg-name="8mm 2: Oito Milimetros 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc1h2emZ0SE5RTUo0bEJFZkpCNk42RDg5MkJRLmpwZw==.jpg" group-title="Filmes | Policial",8mm 2: Oito Milimetros 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/139597.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="8mm: Oito Milimetros" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcUpabFlxQ0RsWjdXSTJ4RmpLZk84QUIxM1M0LmpwZw==.jpg" group-title="Filmes | Policial",8mm: Oito Milimetros
+#EXTINF:-1 tvg-id="" tvg-name="8mm: Oito Milimetros" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcUpabFlxQ0RsWjdXSTJ4RmpLZk84QUIxM1M0LmpwZw==.jpg" group-title="Filmes | Policial",8mm: Oito Milimetros
 http://cdnrobot.info:2052/movie/md301a/abc123ad/137191.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="9 - A Salvacao" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNmZlMFBiTWtEU2FHRU02a2o1Uk01VG9NdUFMLmpwZw==.jpg" group-title="Filmes | Animacao",9 - A Salvacao
+#EXTINF:-1 tvg-id="" tvg-name="9 - A Salvacao" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNmZlMFBiTWtEU2FHRU02a2o1Uk01VG9NdUFMLmpwZw==.jpg" group-title="Filmes | Animacao",9 - A Salvacao
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21885.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdTBPVDVCeEk2NGl3dzhseXRYREhYbEx2QUxELmpwZw==.jpg" group-title="Filmes | Drama",9 Dias Acordado
+#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdTBPVDVCeEk2NGl3dzhseXRYREhYbEx2QUxELmpwZw==.jpg" group-title="Filmes | Drama",9 Dias Acordado
 http://cdnrobot.info:2052/movie/md301a/abc123ad/113096.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="90 Minutos (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc0tBajhqS3kzQzMyS1VTNlZPR0JtcGVUaEdFLmpwZw==.jpg" group-title="Filmes | Suspense ",90 Minutos (2022)
+#EXTINF:-1 tvg-id="" tvg-name="90 Minutos (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc0tBajhqS3kzQzMyS1VTNlZPR0JtcGVUaEdFLmpwZw==.jpg" group-title="Filmes | Suspense ",90 Minutos (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/83065.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A 200 Metros" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWlKQ2U0UVBXY0VuRjJBZ2xRSXUzbzVxaWtRLmpwZw==.jpg" group-title="Filmes | Drama",A 200 Metros
+#EXTINF:-1 tvg-id="" tvg-name="A 200 Metros" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWlKQ2U0UVBXY0VuRjJBZ2xRSXUzbzVxaWtRLmpwZw==.jpg" group-title="Filmes | Drama",A 200 Metros
 http://cdnrobot.info:2052/movie/md301a/abc123ad/49100.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A 5ª Onda (2016)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYXNQdjVNNmJVbjI3MEVjVVhVbkVuQzhDa0I3LmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",A 5ª Onda (2016)
+#EXTINF:-1 tvg-id="" tvg-name="A 5ª Onda (2016)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYXNQdjVNNmJVbjI3MEVjVVhVbkVuQzhDa0I3LmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",A 5ª Onda (2016)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/19768.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya e O Ovo Dourado" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbkE2Smc4ZkxoSnRhYlFZb3pZT1VNM0d6WHM3LmpwZw==.jpg" group-title="Filmes | Animacao",A Abelhinha Maya e O Ovo Dourado
+#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya e O Ovo Dourado" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbkE2Smc4ZkxoSnRhYlFZb3pZT1VNM0d6WHM3LmpwZw==.jpg" group-title="Filmes | Animacao",A Abelhinha Maya e O Ovo Dourado
 http://cdnrobot.info:2052/movie/md301a/abc123ad/127536.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante (2015)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN091Q3JodTBWa3RDSlFiU2V1WHZXYTFvNWp3LmpwZw==.jpg" group-title="Filmes | Drama",A Acompanhante (2015)
+#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante (2015)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN091Q3JodTBWa3RDSlFiU2V1WHZXYTFvNWp3LmpwZw==.jpg" group-title="Filmes | Drama",A Acompanhante (2015)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/71484.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante 2 - Profissao de Risco" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN3VhaWREZnVwakhSbUFLc0VGUFRqUHhKdEFxLmpwZw==.jpg" group-title="Filmes | Drama",A Acompanhante 2 - Profissao de Risco
+#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante 2 - Profissao de Risco" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN3VhaWREZnVwakhSbUFLc0VGUFRqUHhKdEFxLmpwZw==.jpg" group-title="Filmes | Drama",A Acompanhante 2 - Profissao de Risco
 http://cdnrobot.info:2052/movie/md301a/abc123ad/71485.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Agenda Secreta do Meu Namorado" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOHdQYzhHcWdQeUcwSTlvMVY2VzBLaDIyTGhZLmpwZw==.jpg" group-title="Filmes | Comedia",A Agenda Secreta do Meu Namorado
+#EXTINF:-1 tvg-id="" tvg-name="A Agenda Secreta do Meu Namorado" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOHdQYzhHcWdQeUcwSTlvMVY2VzBLaDIyTGhZLmpwZw==.jpg" group-title="Filmes | Comedia",A Agenda Secreta do Meu Namorado
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73278.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Arte da Autodefesa" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbk8wb2REdU1qeW9vdldmbUN1bWt2UEhKS3NqLmpwZw==.jpg" group-title="Filmes | Comedia",A Arte da Autodefesa
+#EXTINF:-1 tvg-id="" tvg-name="A Arte da Autodefesa" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbk8wb2REdU1qeW9vdldmbUN1bWt2UEhKS3NqLmpwZw==.jpg" group-title="Filmes | Comedia",A Arte da Autodefesa
 http://cdnrobot.info:2052/movie/md301a/abc123ad/5373.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Arte da Guerra (2000)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcFZzWjZVbk13aU5BaUZQWTJJTmRsdjhWdW9wLmpwZw==.jpg" group-title="Filmes | Acao",A Arte da Guerra (2000)
+#EXTINF:-1 tvg-id="" tvg-name="A Arte da Guerra (2000)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcFZzWjZVbk13aU5BaUZQWTJJTmRsdjhWdW9wLmpwZw==.jpg" group-title="Filmes | Acao",A Arte da Guerra (2000)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/75057.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Arte de Amar" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEI1a2NOclpVb2NYWk1HODBOV2hyb3o5NG1mLmpwZw==.jpg" group-title="Filmes | Romance",A Arte de Amar
+#EXTINF:-1 tvg-id="" tvg-name="A Arte de Amar" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEI1a2NOclpVb2NYWk1HODBOV2hyb3o5NG1mLmpwZw==.jpg" group-title="Filmes | Romance",A Arte de Amar
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138888.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Arte de Ser Adulto (2020)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM0laN1FaekM0MU03TjdMRE9jWlNVd3NOekNMLmpwZw==.jpg" group-title="Filmes | Comedia",A Arte de Ser Adulto (2020)
+#EXTINF:-1 tvg-id="" tvg-name="A Arte de Ser Adulto (2020)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM0laN1FaekM0MU03TjdMRE9jWlNVd3NOekNMLmpwZw==.jpg" group-title="Filmes | Comedia",A Arte de Ser Adulto (2020)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/24155.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Arte do Assassinato Politico" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOUpudk9vcWtXVUd1Y0Nlb3hHT1l1cnA3T0M0LmpwZw==.jpg" group-title="Filmes | Documentarios",A Arte do Assassinato Politico
+#EXTINF:-1 tvg-id="" tvg-name="A Arte do Assassinato Politico" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOUpudk9vcWtXVUd1Y0Nlb3hHT1l1cnA3T0M0LmpwZw==.jpg" group-title="Filmes | Documentarios",A Arte do Assassinato Politico
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81740.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Arvore da Vida" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaUR0NW52djJUZFpzRkZ1RjVKdm5FWnI2UkdCLmpwZw==.jpg" group-title="Filmes | Drama",A Arvore da Vida
+#EXTINF:-1 tvg-id="" tvg-name="A Arvore da Vida" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaUR0NW52djJUZFpzRkZ1RjVKdm5FWnI2UkdCLmpwZw==.jpg" group-title="Filmes | Drama",A Arvore da Vida
 http://cdnrobot.info:2052/movie/md301a/abc123ad/77937.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Arvore dos Desejos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvamJOWXBab2UxVE13Mkw3OFZHUzhOVHNwQXdqLmpwZw==.jpg" group-title="Filmes | Animacao",A Arvore dos Desejos
+#EXTINF:-1 tvg-id="" tvg-name="A Arvore dos Desejos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvamJOWXBab2UxVE13Mkw3OFZHUzhOVHNwQXdqLmpwZw==.jpg" group-title="Filmes | Animacao",A Arvore dos Desejos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/20906.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Ascensao da Rainha Guerreira" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY0R4RDJYckRtb0ZCdE5pcTY5a28xMk81Wjk4LmpwZw==.jpg" group-title="Filmes | Drama",A Ascensao da Rainha Guerreira
+#EXTINF:-1 tvg-id="" tvg-name="A Ascensao da Rainha Guerreira" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY0R4RDJYckRtb0ZCdE5pcTY5a28xMk81Wjk4LmpwZw==.jpg" group-title="Filmes | Drama",A Ascensao da Rainha Guerreira
 http://cdnrobot.info:2052/movie/md301a/abc123ad/116914.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Assassina Perfeita" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY0FPRURHbzdsUWhKVnhEM3JsNlhzUkZRajhNLmpwZw==.jpg" group-title="Filmes | Suspense ",A Assassina Perfeita
+#EXTINF:-1 tvg-id="" tvg-name="A Assassina Perfeita" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY0FPRURHbzdsUWhKVnhEM3JsNlhzUkZRajhNLmpwZw==.jpg" group-title="Filmes | Suspense ",A Assassina Perfeita
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147890.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Assistente (2020)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMzZSOHFxeDUxV0U3SWtIY240Qm9oTHpMcUdZLmpwZw==.jpg" group-title="Filmes | Drama",A Assistente (2020)
+#EXTINF:-1 tvg-id="" tvg-name="A Assistente (2020)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMzZSOHFxeDUxV0U3SWtIY240Qm9oTHpMcUdZLmpwZw==.jpg" group-title="Filmes | Drama",A Assistente (2020)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/78007.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Autopsia (2016)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWhZMkFWTHFka2xvbjQxZHI5UFNRNEtkVzhLLmpwZw==.jpg" group-title="Filmes | Terror",A Autopsia (2016)
+#EXTINF:-1 tvg-id="" tvg-name="A Autopsia (2016)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWhZMkFWTHFka2xvbjQxZHI5UFNRNEtkVzhLLmpwZw==.jpg" group-title="Filmes | Terror",A Autopsia (2016)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/19766.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Avo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb3pUM0xySFZCaUE2SURKY1EyOGhzMGhVQVZJLmpwZw==.jpg" group-title="Filmes | Terror",A Avo
+#EXTINF:-1 tvg-id="" tvg-name="A Avo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb3pUM0xySFZCaUE2SURKY1EyOGhzMGhVQVZJLmpwZw==.jpg" group-title="Filmes | Terror",A Avo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79398.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Baba (2018)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcVF5ZDR0ZEh5TjY5Mk9XYTk3Y1NhTDB6N1BwLmpwZw==.jpg" group-title="Filmes | Terror",A Baba (2018)
+#EXTINF:-1 tvg-id="" tvg-name="A Baba (2018)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcVF5ZDR0ZEh5TjY5Mk9XYTk3Y1NhTDB6N1BwLmpwZw==.jpg" group-title="Filmes | Terror",A Baba (2018)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131173.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Baba (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaDhVUDhWYlNzVVZxdEdSTXBBSk41RlBmU3R5LmpwZw==.jpg" group-title="Filmes | Terror",A Baba (2022)
+#EXTINF:-1 tvg-id="" tvg-name="A Baba (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaDhVUDhWYlNzVVZxdEdSTXBBSk41RlBmU3R5LmpwZw==.jpg" group-title="Filmes | Terror",A Baba (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/82392.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Baba (2022) (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaDhVUDhWYlNzVVZxdEdSTXBBSk41RlBmU3R5LmpwZw==.jpg" group-title="Filmes | Terror",A Baba (2022) (L)
+#EXTINF:-1 tvg-id="" tvg-name="A Baba (2022) (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaDhVUDhWYlNzVVZxdEdSTXBBSk41RlBmU3R5LmpwZw==.jpg" group-title="Filmes | Terror",A Baba (2022) (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/82393.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="A Baba: O Chamado das Sombras" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdXJieUM1VXN2UDhZbTE1UzRSZDNzWjlXQmt3LmpwZw==.jpg" group-title="Filmes | Terror",A Baba: O Chamado das Sombras
+#EXTINF:-1 tvg-id="" tvg-name="A Baba: O Chamado das Sombras" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdXJieUM1VXN2UDhZbTE1UzRSZDNzWjlXQmt3LmpwZw==.jpg" group-title="Filmes | Terror",A Baba: O Chamado das Sombras
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51056.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="A Baba: Rainha da Morte" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMUpub2xZR0RyaGdvNXkzck9iMFMxVkVyRjRmLmpwZw==.jpg" group-title="Filmes | Terror",A Baba: Rainha da Morte
 http://cdnrobot.info:2052/movie/md301a/abc123ad/20300.mp4
 
