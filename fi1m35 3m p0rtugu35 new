@@ -2132,80 +2132,55 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/6696.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/148058.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Absolutely Fabulous: O Filme" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbjdiTjJteTNkb0NIZDF3RlV1THZGZlpTQjBnLmpwZw==.jpg" group-title="Filmes | Comedia",Absolutely Fabulous: O Filme
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73581.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abutres" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEtvN1JKTUhwREhYc1F4eGk2VjFTM0NyZkduLmpwZw==.jpg" group-title="Filmes | Suspense ",Abutres
+#EXTINF:-1 tvg-id="" tvg-name="Abutres" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEtvN1JKTUhwREhYc1F4eGk2VjFTM0NyZkduLmpwZw==.jpg" group-title="Filmes | Suspense ",Abutres
 http://cdnrobot.info:2052/movie/md301a/abc123ad/75974.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abutres Humanos (1948)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcDQ2dUlJN3RlOWN3VTVLU3JnZnowczVTRWJxLmpwZw==.jpg" group-title="Filmes | Faroeste",Abutres Humanos (1948)
+#EXTINF:-1 tvg-id="" tvg-name="Abutres Humanos (1948)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcDQ2dUlJN3RlOWN3VTVLU3JnZnowczVTRWJxLmpwZw==.jpg" group-title="Filmes | Faroeste",Abutres Humanos (1948)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45759.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Abzurdah" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd0gyOEZVUHEyd2pwMjNHWHFNbXpoT2R2TGNELmpwZw==.jpg" group-title="Filmes | Drama",Abzurdah
+#EXTINF:-1 tvg-id="" tvg-name="Abzurdah" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd0gyOEZVUHEyd2pwMjNHWHFNbXpoT2R2TGNELmpwZw==.jpg" group-title="Filmes | Drama",Abzurdah
 http://cdnrobot.info:2052/movie/md301a/abc123ad/118443.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Academia de Vampiros: O Beijo das Sombras" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbzZ2WGVrYkYzNTZMaGZKWTY3S1lQS1pXeHE1LmpwZw==.jpg" group-title="Filmes | Fantasia",Academia de Vampiros: O Beijo das Sombras
+#EXTINF:-1 tvg-id="" tvg-name="Academia de Vampiros: O Beijo das Sombras" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbzZ2WGVrYkYzNTZMaGZKWTY3S1lQS1pXeHE1LmpwZw==.jpg" group-title="Filmes | Fantasia",Academia de Vampiros: O Beijo das Sombras
 http://cdnrobot.info:2052/movie/md301a/abc123ad/114790.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento de Teatro" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvajB2RXJvRGk4U2VwQjNsWFFHcnJXUVZSVFNtLmpwZw==.jpg" group-title="Filmes | Comedia",Acampamento de Teatro
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento de Teatro" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvajB2RXJvRGk4U2VwQjNsWFFHcnJXUVZSVFNtLmpwZw==.jpg" group-title="Filmes | Comedia",Acampamento de Teatro
 http://cdnrobot.info:2052/movie/md301a/abc123ad/134950.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento do Papai" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNDlXR1R5dWVsSjMyTkViTW8yMWJJT1pXSXZPLmpwZw==.jpg" group-title="Filmes | Comedia",Acampamento do Papai
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento do Papai" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNDlXR1R5dWVsSjMyTkViTW8yMWJJT1pXSXZPLmpwZw==.jpg" group-title="Filmes | Comedia",Acampamento do Papai
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51151.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento do Pecado (2020)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMUwwN21sSjVZaHhtN09nWm1ueklzUk9hWDRtLmpwZw==.jpg" group-title="Filmes | Drama",Acampamento do Pecado (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento do Pecado (2020)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMUwwN21sSjVZaHhtN09nWm1ueklzUk9hWDRtLmpwZw==.jpg" group-title="Filmes | Drama",Acampamento do Pecado (2020)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/128445.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento do Terror" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbnFIUmZ3ekJtU2ZlSGRSSUhjcmtuc21VMlF3LmpwZw==.jpg" group-title="Filmes | Terror",Acampamento do Terror
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento do Terror" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbnFIUmZ3ekJtU2ZlSGRSSUhjcmtuc21VMlF3LmpwZw==.jpg" group-title="Filmes | Terror",Acampamento do Terror
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81387.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento em Familia" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcUc5Zk9oZVY4Y2hsY0tqUWRVZ0phSlhyemtmLmpwZw==.jpg" group-title="Filmes | Comedia",Acampamento em Familia
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento em Familia" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcUc5Zk9oZVY4Y2hsY0tqUWRVZ0phSlhyemtmLmpwZw==.jpg" group-title="Filmes | Comedia",Acampamento em Familia
 http://cdnrobot.info:2052/movie/md301a/abc123ad/129416.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acampamento Maldito" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYXlNQXhZVHZDTVdDUUtHODRkUlQ4WkVhMEdDLmpwZw==.jpg" group-title="Filmes | Terror",Acampamento Maldito
+#EXTINF:-1 tvg-id="" tvg-name="Acampamento Maldito" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYXlNQXhZVHZDTVdDUUtHODRkUlQ4WkVhMEdDLmpwZw==.jpg" group-title="Filmes | Terror",Acampamento Maldito
 http://cdnrobot.info:2052/movie/md301a/abc123ad/132644.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura 2: Um Maluco na Africa" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYWk5a1J5TEhVSWRtdldLSFRsNE5TaTBHaHN3LmpwZw==.jpg" group-title="Filmes | Comedia",Ace Ventura 2: Um Maluco na Africa
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura 2: Um Maluco na Africa" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYWk5a1J5TEhVSWRtdldLSFRsNE5TaTBHaHN3LmpwZw==.jpg" group-title="Filmes | Comedia",Ace Ventura 2: Um Maluco na Africa
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6698.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura Jr.: O Detetive Mirim" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWo4YTlCTXVJVWdlS2hLWlJXSlZlS0U1alhsLmpwZw==.jpg" group-title="Filmes | Comedia",Ace Ventura Jr.: O Detetive Mirim
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura Jr.: O Detetive Mirim" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWo4YTlCTXVJVWdlS2hLWlJXSlZlS0U1alhsLmpwZw==.jpg" group-title="Filmes | Comedia",Ace Ventura Jr.: O Detetive Mirim
 http://cdnrobot.info:2052/movie/md301a/abc123ad/48296.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: Um Detetive Diferente" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNFlPSUhqVEphODlMRUZtclA4ZUVtSlQyZ2dwLmpwZw==.jpg" group-title="Filmes | Comedia",Ace Ventura: Um Detetive Diferente
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: Um Detetive Diferente" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNFlPSUhqVEphODlMRUZtclA4ZUVtSlQyZ2dwLmpwZw==.jpg" group-title="Filmes | Comedia",Ace Ventura: Um Detetive Diferente
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6697.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acertando as Contas com Papai" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdE52OGttbW91RnFObE85eTMwcXdmTzNSbG1RLmpwZw==.jpg" group-title="Filmes | Comedia",Acertando as Contas com Papai
+#EXTINF:-1 tvg-id="" tvg-name="Acertando as Contas com Papai" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdE52OGttbW91RnFObE85eTMwcXdmTzNSbG1RLmpwZw==.jpg" group-title="Filmes | Comedia",Acertando as Contas com Papai
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136716.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acertando o Passo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ3BmUkdwZ1VzSGxZWDBRZ0pFMWtVU2hvcklILmpwZw==.jpg" group-title="Filmes | Comedia",Acertando o Passo
+#EXTINF:-1 tvg-id="" tvg-name="Acertando o Passo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ3BmUkdwZ1VzSGxZWDBRZ0pFMWtVU2hvcklILmpwZw==.jpg" group-title="Filmes | Comedia",Acertando o Passo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/128543.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acertando o Tom" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbG5YZWRpQkR5VXM0enNMUlZPNGJ0YWNsaXRELmpwZw==.jpg" group-title="Filmes | Comedia",Acertando o Tom
+#EXTINF:-1 tvg-id="" tvg-name="Acertando o Tom" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbG5YZWRpQkR5VXM0enNMUlZPNGJ0YWNsaXRELmpwZw==.jpg" group-title="Filmes | Comedia",Acertando o Tom
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122318.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acerto de Contas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYUl2dFkzUGg5RkhjRnNMUGZ0c0dhRTlZNnouanBn.jpg" group-title="Filmes | Suspense ",Acerto de Contas
+#EXTINF:-1 tvg-id="" tvg-name="Acerto de Contas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYUl2dFkzUGg5RkhjRnNMUGZ0c0dhRTlZNnouanBn.jpg" group-title="Filmes | Suspense ",Acerto de Contas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147750.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acerto de Contas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcU9CYVUwTktwUVRMb04xNjFvZDl0N0U1MFVwLmpwZw==.jpg" group-title="Filmes | Acao",Acerto de Contas
+#EXTINF:-1 tvg-id="" tvg-name="Acerto de Contas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcU9CYVUwTktwUVRMb04xNjFvZDl0N0U1MFVwLmpwZw==.jpg" group-title="Filmes | Acao",Acerto de Contas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/148072.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Achados e Perdidos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN1Jxa0VWQnRnMXA1WVRKS0hpWTBQNWRWVmZDLmpwZw==.jpg" group-title="Filmes | Nacionais",Achados e Perdidos
+#EXTINF:-1 tvg-id="" tvg-name="Achados e Perdidos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN1Jxa0VWQnRnMXA1WVRKS0hpWTBQNWRWVmZDLmpwZw==.jpg" group-title="Filmes | Nacionais",Achados e Perdidos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/129409.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acho Que Matei Minha Chefe" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd2picmFYeW1NU2RtbU80akh5UGd3UEV1TUh0LmpwZw==.jpg" group-title="Filmes | Comedia",Acho Que Matei Minha Chefe
+#EXTINF:-1 tvg-id="" tvg-name="Acho Que Matei Minha Chefe" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd2picmFYeW1NU2RtbU80akh5UGd3UEV1TUh0LmpwZw==.jpg" group-title="Filmes | Comedia",Acho Que Matei Minha Chefe
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3029.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Aconteceu Naquela Noite (1934)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnhRbVZWaXRWTEpKU2FLM0ZOMWQ5ZXpzNkQuanBn.jpg" group-title="Filmes | Comedia",Aconteceu Naquela Noite (1934)
+#EXTINF:-1 tvg-id="" tvg-name="Aconteceu Naquela Noite (1934)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnhRbVZWaXRWTEpKU2FLM0ZOMWQ5ZXpzNkQuanBn.jpg" group-title="Filmes | Comedia",Aconteceu Naquela Noite (1934)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/53372.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Aconteceu no Natal do Mickey (1999)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcUVoY09SMlRBZTRXV1pycnFldUV5U09LdG9QLmpwZw==.jpg" group-title="Filmes | Disney +",Aconteceu no Natal do Mickey (1999)
+#EXTINF:-1 tvg-id="" tvg-name="Aconteceu no Natal do Mickey (1999)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcUVoY09SMlRBZTRXV1pycnFldUV5U09LdG9QLmpwZw==.jpg" group-title="Filmes | Disney +",Aconteceu no Natal do Mickey (1999)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/48981.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acorrentados (2012)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbUZjTGtXSzBRdlF2TWdHVDNYRWd1TXJ3MEUzLmpwZw==.jpg" group-title="Filmes | Terror",Acorrentados (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Acorrentados (2012)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbUZjTGtXSzBRdlF2TWdHVDNYRWd1TXJ3MEUzLmpwZw==.jpg" group-title="Filmes | Terror",Acorrentados (2012)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79442.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acredite em Mim A Historia de Lisa Mcvey" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdXZIaFlBM2RwU1gxM0tCMHJ0cjFhd2dIVDFyLmpwZw==.jpg" group-title="Filmes | Drama",Acredite em Mim A Historia de Lisa Mcvey
+#EXTINF:-1 tvg-id="" tvg-name="Acredite em Mim A Historia de Lisa Mcvey" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdXZIaFlBM2RwU1gxM0tCMHJ0cjFhd2dIVDFyLmpwZw==.jpg" group-title="Filmes | Drama",Acredite em Mim A Historia de Lisa Mcvey
 http://cdnrobot.info:2052/movie/md301a/abc123ad/118450.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Acrimonia" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvanNZMWpGZXRGUjVZZ0hmYmVqSUFpUng2NXVULmpwZw==.jpg" group-title="Filmes | Suspense ",Acrimonia
+#EXTINF:-1 tvg-id="" tvg-name="Acrimonia" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvanNZMWpGZXRGUjVZZ0hmYmVqSUFpUng2NXVULmpwZw==.jpg" group-title="Filmes | Suspense ",Acrimonia
 http://cdnrobot.info:2052/movie/md301a/abc123ad/22371.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Acusada" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcVhrbmhEQzQ4ZVZrbjVkdEpZdEN4VDZDQkpvLmpwZw==.jpg" group-title="Filmes | Drama",Acusada
