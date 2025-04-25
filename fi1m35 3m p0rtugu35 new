@@ -2964,83 +2964,57 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/71448.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79445.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bata Antes de Entrar (2015)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM1hPVnRxREZSVnRSMnk4Z1VoMmU2RUtrUVlSLmpwZw==.jpg" group-title="Filmes | Suspense ",Bata Antes de Entrar (2015)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81308.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Zumbis" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNkVFaHlmY0dDVHpmMGZPT0dIVTRaZlZNajk0LmpwZw==.jpg" group-title="Filmes | Terror",Batalha dos Zumbis
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Zumbis" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNkVFaHlmY0dDVHpmMGZPT0dIVTRaZlZNajk0LmpwZw==.jpg" group-title="Filmes | Terror",Batalha dos Zumbis
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147960.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batalhas: Freestyle" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdmRnVU5DcnVISTZqWDlUVTR2dnBsZ3BEdEw3LmpwZw==.jpg" group-title="Filmes | Romance",Batalhas: Freestyle
+#EXTINF:-1 tvg-id="" tvg-name="Batalhas: Freestyle" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdmRnVU5DcnVISTZqWDlUVTR2dnBsZ3BEdEw3LmpwZw==.jpg" group-title="Filmes | Romance",Batalhas: Freestyle
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51696.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batem a Porta" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOTRHZnU5dnhVQVZlTDhFSGM5dG9UOW5HTGt2LmpwZw==.jpg" group-title="Filmes | Suspense ",Batem a Porta
+#EXTINF:-1 tvg-id="" tvg-name="Batem a Porta" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOTRHZnU5dnhVQVZlTDhFSGM5dG9UOW5HTGt2LmpwZw==.jpg" group-title="Filmes | Suspense ",Batem a Porta
 http://cdnrobot.info:2052/movie/md301a/abc123ad/113632.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNXhNUlI4YUZLRkVNS2tCYWZwbFJjUVhiRzZJLmpwZw==.jpg" group-title="Filmes | Acao",Bater ou Correr
+#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNXhNUlI4YUZLRkVNS2tCYWZwbFJjUVhiRzZJLmpwZw==.jpg" group-title="Filmes | Acao",Bater ou Correr
 http://cdnrobot.info:2052/movie/md301a/abc123ad/5032.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr em Londres" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd0pkS2ZhdHpKNUl3akQ1Zk1BYnUzR2RIMzJDLmpwZw==.jpg" group-title="Filmes | Acao",Bater ou Correr em Londres
+#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr em Londres" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd0pkS2ZhdHpKNUl3akQ1Zk1BYnUzR2RIMzJDLmpwZw==.jpg" group-title="Filmes | Acao",Bater ou Correr em Londres
 http://cdnrobot.info:2052/movie/md301a/abc123ad/5033.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batismo de Sangue" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYndpZXhFSXpyQkh0MkRhR2hqdDZ5WTNQYnlvLmpwZw==.jpg" group-title="Filmes | Nacionais",Batismo de Sangue
+#EXTINF:-1 tvg-id="" tvg-name="Batismo de Sangue" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYndpZXhFSXpyQkh0MkRhR2hqdDZ5WTNQYnlvLmpwZw==.jpg" group-title="Filmes | Nacionais",Batismo de Sangue
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138674.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batismo de Sangue (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb2lnUURDQzg5YVVEUGh2Q1drWjNXN0xiZG5ELmpwZw==.jpg" group-title="Filmes | Suspense ",Batismo de Sangue (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Batismo de Sangue (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb2lnUURDQzg5YVVEUGh2Q1drWjNXN0xiZG5ELmpwZw==.jpg" group-title="Filmes | Suspense ",Batismo de Sangue (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/126055.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman (1989)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY2lqNGRkMjF2MlJrMll0VVFiVjVrVzY5V0IyLmpwZw==.jpg" group-title="Filmes | Acao",Batman (1989)
+#EXTINF:-1 tvg-id="" tvg-name="Batman (1989)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY2lqNGRkMjF2MlJrMll0VVFiVjVrVzY5V0IyLmpwZw==.jpg" group-title="Filmes | Acao",Batman (1989)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/74409.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd2Q3YjROdjlRQkhEVElqYzJtN3NyMElVTW9oLmpwZw==.jpg" group-title="Filmes | Acao",Batman (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Batman (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd2Q3YjROdjlRQkhEVElqYzJtN3NyMElVTW9oLmpwZw==.jpg" group-title="Filmes | Acao",Batman (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51798.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman (2022) (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd2Q3YjROdjlRQkhEVElqYzJtN3NyMElVTW9oLmpwZw==.jpg" group-title="Filmes | Acao",Batman (2022) (L)
+#EXTINF:-1 tvg-id="" tvg-name="Batman (2022) (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd2Q3YjROdjlRQkhEVElqYzJtN3NyMElVTW9oLmpwZw==.jpg" group-title="Filmes | Acao",Batman (2022) (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51799.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman - Ataque ao Arkham" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1gyVXkxR25JQjhiYmVQN0VmWEJVeHpHbXFZLmpwZw==.jpg" group-title="Filmes | Animacao",Batman - Ataque ao Arkham
+#EXTINF:-1 tvg-id="" tvg-name="Batman - Ataque ao Arkham" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1gyVXkxR25JQjhiYmVQN0VmWEJVeHpHbXFZLmpwZw==.jpg" group-title="Filmes | Animacao",Batman - Ataque ao Arkham
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45494.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman - Contra o Capuz Vermelho" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMWFaTlNPSTd5b0NreDUzUlRTWGF0OVd5UnBoLmpwZw==.jpg" group-title="Filmes | Animacao",Batman - Contra o Capuz Vermelho
+#EXTINF:-1 tvg-id="" tvg-name="Batman - Contra o Capuz Vermelho" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMWFaTlNPSTd5b0NreDUzUlRTWGF0OVd5UnBoLmpwZw==.jpg" group-title="Filmes | Animacao",Batman - Contra o Capuz Vermelho
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45084.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman - O Cavaleiro das Trevas - Parte 1" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc1ZqMzFEOGFBa0Y1Ylo4NjBCeDlheWJZSkpoLmpwZw==.jpg" group-title="Filmes | Animacao",Batman - O Cavaleiro das Trevas - Parte 1
+#EXTINF:-1 tvg-id="" tvg-name="Batman - O Cavaleiro das Trevas - Parte 1" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc1ZqMzFEOGFBa0Y1Ylo4NjBCeDlheWJZSkpoLmpwZw==.jpg" group-title="Filmes | Animacao",Batman - O Cavaleiro das Trevas - Parte 1
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45085.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman - O Cavaleiro das Trevas - Parte 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMWNUbDBvc3JpUWNqNnNIZ29Dd2wzSzZVQkFzLmpwZw==.jpg" group-title="Filmes | Animacao",Batman - O Cavaleiro das Trevas - Parte 2
+#EXTINF:-1 tvg-id="" tvg-name="Batman - O Cavaleiro das Trevas - Parte 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMWNUbDBvc3JpUWNqNnNIZ29Dd2wzSzZVQkFzLmpwZw==.jpg" group-title="Filmes | Animacao",Batman - O Cavaleiro das Trevas - Parte 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45086.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman A Perdicao Chegou a Gotham" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaFRRTU9iWG5QalY4WW85MGhpQzdxdVN6MFU3LmpwZw==.jpg" group-title="Filmes | Animacao",Batman A Perdicao Chegou a Gotham
+#EXTINF:-1 tvg-id="" tvg-name="Batman A Perdicao Chegou a Gotham" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaFRRTU9iWG5QalY4WW85MGhpQzdxdVN6MFU3LmpwZw==.jpg" group-title="Filmes | Animacao",Batman A Perdicao Chegou a Gotham
 http://cdnrobot.info:2052/movie/md301a/abc123ad/113633.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0V5aGNkZmlMdEgweGE2Q1preVl1b1dMMkdKLmpwZw==.jpg" group-title="Filmes | Acao",Batman Begins (2005)
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN0V5aGNkZmlMdEgweGE2Q1preVl1b1dMMkdKLmpwZw==.jpg" group-title="Filmes | Acao",Batman Begins (2005)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/20425.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman e Superman Batalha dos Super Filhos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdktVaU84MlMzcjJPa2dwVHR1VFRMNm1ucGprLmpwZw==.jpg" group-title="Filmes | Animacao",Batman e Superman Batalha dos Super Filhos
+#EXTINF:-1 tvg-id="" tvg-name="Batman e Superman Batalha dos Super Filhos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdktVaU84MlMzcjJPa2dwVHR1VFRMNm1ucGprLmpwZw==.jpg" group-title="Filmes | Animacao",Batman e Superman Batalha dos Super Filhos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122265.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman: A Origem da Justica" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdmg2cGplR0gwR1F1cExlcFBDWm41UHlsY1JnLmpwZw==.jpg" group-title="Filmes | Acao",Batman vs Superman: A Origem da Justica
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman: A Origem da Justica" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdmg2cGplR0gwR1F1cExlcFBDWm41UHlsY1JnLmpwZw==.jpg" group-title="Filmes | Acao",Batman vs Superman: A Origem da Justica
 http://cdnrobot.info:2052/movie/md301a/abc123ad/113022.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman vs. Dracula" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOHVLSXFaQlhmeGhmbGVuSTJMa05aSUhVcDdJLmpwZw==.jpg" group-title="Filmes | Animacao",Batman vs. Dracula
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs. Dracula" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOHVLSXFaQlhmeGhmbGVuSTJMa05aSUhVcDdJLmpwZw==.jpg" group-title="Filmes | Animacao",Batman vs. Dracula
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45495.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman:  O Longo Dia das Bruxas – Parte 1" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVFpeUZMeENRTm9qeEE2UFVKd2tnZUUySHZELmpwZw==.jpg" group-title="Filmes | Animacao",Batman:  O Longo Dia das Bruxas – Parte 1
+#EXTINF:-1 tvg-id="" tvg-name="Batman:  O Longo Dia das Bruxas – Parte 1" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVFpeUZMeENRTm9qeEE2UFVKd2tnZUUySHZELmpwZw==.jpg" group-title="Filmes | Animacao",Batman:  O Longo Dia das Bruxas – Parte 1
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45496.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman:  O Longo Dia das Bruxas – Parte 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWFVN2IwZEJjdGFlMGFMUll5NmpvajQ2N3pWLmpwZw==.jpg" group-title="Filmes | Animacao",Batman:  O Longo Dia das Bruxas – Parte 2
+#EXTINF:-1 tvg-id="" tvg-name="Batman:  O Longo Dia das Bruxas – Parte 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWFVN2IwZEJjdGFlMGFMUll5NmpvajQ2N3pWLmpwZw==.jpg" group-title="Filmes | Animacao",Batman:  O Longo Dia das Bruxas – Parte 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45497.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman: A Piada Mortal" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveDVoc0FIaXdMUXJNN2psU1p6UjdBZFdacXVrLmpwZw==.jpg" group-title="Filmes | Animacao",Batman: A Piada Mortal
+#EXTINF:-1 tvg-id="" tvg-name="Batman: A Piada Mortal" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveDVoc0FIaXdMUXJNN2psU1p6UjdBZFdacXVrLmpwZw==.jpg" group-title="Filmes | Animacao",Batman: A Piada Mortal
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45087.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman: Alma do Dragao" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWRuRElxN05MSXpCYjJkVGhpRmFSNU1BZEtiLmpwZw==.jpg" group-title="Filmes | Animacao",Batman: Alma do Dragao
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Alma do Dragao" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveWRuRElxN05MSXpCYjJkVGhpRmFSNU1BZEtiLmpwZw==.jpg" group-title="Filmes | Animacao",Batman: Alma do Dragao
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21700.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNGxqMWlrZnNTbU1aTnlmZGk4UjhUdjV0c2diLmpwZw==.jpg" group-title="Filmes | Acao",Batman: O Cavaleiro das Trevas (2008)
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNGxqMWlrZnNTbU1aTnlmZGk4UjhUdjV0c2diLmpwZw==.jpg" group-title="Filmes | Acao",Batman: O Cavaleiro das Trevas (2008)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/20426.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas Ressurge (2012)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvajR6MDFjbmJUQ2FWWDY5YmlrMTYxMnBTdUg2LmpwZw==.jpg" group-title="Filmes | Acao",Batman: O Cavaleiro das Trevas Ressurge (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas Ressurge (2012)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvajR6MDFjbmJUQ2FWWDY5YmlrMTYxMnBTdUg2LmpwZw==.jpg" group-title="Filmes | Acao",Batman: O Cavaleiro das Trevas Ressurge (2012)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/20427.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro de Gotham" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvamJzTjJGMFYwUUl0czRYRmxDUktYT0YzYkFYLmpwZw==.jpg" group-title="Filmes | Animacao",Batman: O Cavaleiro de Gotham
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro de Gotham" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvamJzTjJGMFYwUUl0czRYRmxDUktYT0YzYkFYLmpwZw==.jpg" group-title="Filmes | Animacao",Batman: O Cavaleiro de Gotham
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45083.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman: O Misterio da Mulher Morcego" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcEpDRE9NZGpteTN5eUNsekp4R2tKZXN5Q2lVLmpwZw==.jpg" group-title="Filmes | Animacao",Batman: O Misterio da Mulher Morcego
