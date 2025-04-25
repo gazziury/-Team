@@ -2898,104 +2898,71 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/12631.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147944.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bad Trip (2021)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva2dIWDhTc0ZUbFlWbXozV0o4SmkwZmd2MVluLmpwZw==.jpg" group-title="Filmes | Comedia",Bad Trip (2021)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/24803.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNDk2QnlRVDFXREI2b2dORVJNaFN3b2JwZjJOLmpwZw==.jpg" group-title="Filmes | Suspense ",Bala Perdida
+#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNDk2QnlRVDFXREI2b2dORVJNaFN3b2JwZjJOLmpwZw==.jpg" group-title="Filmes | Suspense ",Bala Perdida
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147789.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida (2020)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN1JXd2tXcmFMZG9uYXVvc3ZBZ3ExSzY3cDFWLmpwZw==.jpg" group-title="Filmes | Acao",Bala Perdida (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida (2020)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN1JXd2tXcmFMZG9uYXVvc3ZBZ3ExSzY3cDFWLmpwZw==.jpg" group-title="Filmes | Acao",Bala Perdida (2020)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/13102.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbXFTWjM2cnZpdGtESmRYSUZJQm1zYkcyZDFELmpwZw==.jpg" group-title="Filmes | Acao",Bala Perdida 2
+#EXTINF:-1 tvg-id="" tvg-name="Bala Perdida 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbXFTWjM2cnZpdGtESmRYSUZJQm1zYkcyZDFELmpwZw==.jpg" group-title="Filmes | Acao",Bala Perdida 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/78028.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bambi (1942)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZHBnUnloZnZTMmllSmJTNTB6N3ZEckhyVFhiLmpwZw==.jpg" group-title="Filmes | Disney +",Bambi (1942)
+#EXTINF:-1 tvg-id="" tvg-name="Bambi (1942)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZHBnUnloZnZTMmllSmJTNTB6N3ZEckhyVFhiLmpwZw==.jpg" group-title="Filmes | Disney +",Bambi (1942)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/25299.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bambi 2 (2006)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd3B2UlpjdVdWVDhMeFFHelQ1UEpQV0tpQjVyLmpwZw==.jpg" group-title="Filmes | Disney +",Bambi 2 (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Bambi 2 (2006)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvd3B2UlpjdVdWVDhMeFFHelQ1UEpQV0tpQjVyLmpwZw==.jpg" group-title="Filmes | Disney +",Bambi 2 (2006)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/25300.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bandidas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3FkYzZTb2hEWWIxcGU5eXB2NE5TaFdaTUFOLmpwZw==.jpg" group-title="Filmes | Faroeste",Bandidas
+#EXTINF:-1 tvg-id="" tvg-name="Bandidas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3FkYzZTb2hEWWIxcGU5eXB2NE5TaFdaTUFOLmpwZw==.jpg" group-title="Filmes | Faroeste",Bandidas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136113.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bandido" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveTFFbkpkUmU5cW0zVkZFYkRYYzZQb3RmRGh6LmpwZw==.jpg" group-title="Filmes | Suspense ",Bandido
+#EXTINF:-1 tvg-id="" tvg-name="Bandido" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveTFFbkpkUmU5cW0zVkZFYkRYYzZQb3RmRGh6LmpwZw==.jpg" group-title="Filmes | Suspense ",Bandido
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131176.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Banze no Oeste (1974)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGdQUHFkTWdPdXRJR21Vbm5oSmk0dVhndHJnLmpwZw==.jpg" group-title="Filmes | Faroeste",Banze no Oeste (1974)
+#EXTINF:-1 tvg-id="" tvg-name="Banze no Oeste (1974)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGdQUHFkTWdPdXRJR21Vbm5oSmk0dVhndHJnLmpwZw==.jpg" group-title="Filmes | Faroeste",Banze no Oeste (1974)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45762.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bar Doce Lar" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbThWQWtCcUR5MFhxU2p6OHA4YmlBRm1yV2EyLmpwZw==.jpg" group-title="Filmes | Drama",Bar Doce Lar
+#EXTINF:-1 tvg-id="" tvg-name="Bar Doce Lar" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbThWQWtCcUR5MFhxU2p6OHA4YmlBRm1yV2EyLmpwZw==.jpg" group-title="Filmes | Drama",Bar Doce Lar
 http://cdnrobot.info:2052/movie/md301a/abc123ad/49827.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barba Cabelo e Bigode (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvanZMWkhqaUpSajJ1ZWZQb0JsQmFGMG9oeHNMLmpwZw==.jpg" group-title="Filmes | Comedia",Barba Cabelo e Bigode (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Barba Cabelo e Bigode (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvanZMWkhqaUpSajJ1ZWZQb0JsQmFGMG9oeHNMLmpwZw==.jpg" group-title="Filmes | Comedia",Barba Cabelo e Bigode (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/72167.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveVJSdUx0N3NNQkVRa0hzZDFTM0thYW9mWm43LmpwZw==.jpg" group-title="Filmes | Fantasia",Barbie
+#EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveVJSdUx0N3NNQkVRa0hzZDFTM0thYW9mWm43LmpwZw==.jpg" group-title="Filmes | Fantasia",Barbie
 http://cdnrobot.info:2052/movie/md301a/abc123ad/130259.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveVJSdUx0N3NNQkVRa0hzZDFTM0thYW9mWm43LmpwZw==.jpg" group-title="Filmes | Fantasia",Barbie (L)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIveVJSdUx0N3NNQkVRa0hzZDFTM0thYW9mWm43LmpwZw==.jpg" group-title="Filmes | Fantasia",Barbie (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/130258.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie A Princesa e a Plebeia (2004)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM0V4UW51d2Y2SGFBMXJMazB4cEw5RkdiRVdLLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie A Princesa e a Plebeia (2004)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie A Princesa e a Plebeia (2004)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM0V4UW51d2Y2SGFBMXJMazB4cEw5RkdiRVdLLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie A Princesa e a Plebeia (2004)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/124055.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Butterfly A Nova Aventura em Fairytopia (2008)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdHJzclc3Z0RXeFlTT1VuVzlwZFNZUE5YdlZmLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Butterfly A Nova Aventura em Fairytopia (2008)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Butterfly A Nova Aventura em Fairytopia (2008)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdHJzclc3Z0RXeFlTT1VuVzlwZFNZUE5YdlZmLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Butterfly A Nova Aventura em Fairytopia (2008)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122295.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Butterfly e a Princesa Fairy (2013)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNEtxelpaTGY5c1dQSmlBRmxSQ0g4a05FVWt5LmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Butterfly e a Princesa Fairy (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Butterfly e a Princesa Fairy (2013)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNEtxelpaTGY5c1dQSmlBRmxSQ0g4a05FVWt5LmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Butterfly e a Princesa Fairy (2013)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122298.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie como Rapunzel (2002)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMkZnZHR3VDNMbjVQWDRTYTBta0E3MElQVlh0LmpwZw==.jpg" group-title="Filmes | Animacao",Barbie como Rapunzel (2002)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie como Rapunzel (2002)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMkZnZHR3VDNMbjVQWDRTYTBta0E3MElQVlh0LmpwZw==.jpg" group-title="Filmes | Animacao",Barbie como Rapunzel (2002)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122291.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie e as Agentes Secretas (2016)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdms1UkMxaDRoNXQ1ME9waWMzeW80aEg4cUFxLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie e as Agentes Secretas (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e as Agentes Secretas (2016)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdms1UkMxaDRoNXQ1ME9waWMzeW80aEg4cUFxLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie e as Agentes Secretas (2016)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/48295.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie e suas Irmas em Busca dos Cachorrinhos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaHNoOEVGWXJ2QkNFSXBrQmEwTzJ3SE1OTmVwLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie e suas Irmas em Busca dos Cachorrinhos
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e suas Irmas em Busca dos Cachorrinhos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaHNoOEVGWXJ2QkNFSXBrQmEwTzJ3SE1OTmVwLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie e suas Irmas em Busca dos Cachorrinhos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/48299.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Fairytopia (2005)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYTBWUFFIcExOQ1dXbWlYd2pEN2FKVlJhSDc4LmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Fairytopia (2005)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Fairytopia (2005)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYTBWUFFIcExOQ1dXbWlYd2pEN2FKVlJhSDc4LmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Fairytopia (2005)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122289.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Fairytopia - A Magia do Arco Iris (2007)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbG1wVjI1MWRnZjlFWjRUSUJ4T1FEQ1JxNmtYLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Fairytopia - A Magia do Arco Iris (2007)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Fairytopia - A Magia do Arco Iris (2007)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbG1wVjI1MWRnZjlFWjRUSUJ4T1FEQ1JxNmtYLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Fairytopia - A Magia do Arco Iris (2007)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122294.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Fairytopia Mermaidia (2006)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWdzcVM3cnBua0FUOTJJcW81c1l3VHMxS1dvLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Fairytopia Mermaidia (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Fairytopia Mermaidia (2006)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWdzcVM3cnBua0FUOTJJcW81c1l3VHMxS1dvLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Fairytopia Mermaidia (2006)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122290.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Lago dos Cisnes (2003)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb09JZHlRRGowNkc4VjZBSFFsNEk3aTFVQ1RULmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Lago dos Cisnes (2003)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Lago dos Cisnes (2003)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb09JZHlRRGowNkc4VjZBSFFsNEk3aTFVQ1RULmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Lago dos Cisnes (2003)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122292.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie O Quebra Nozes (2001)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZG03SUJhaGJQa2piYzVGT0Q2cFcwbWpZVkFBLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie O Quebra Nozes (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie O Quebra Nozes (2001)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZG03SUJhaGJQa2piYzVGT0Q2cFcwbWpZVkFBLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie O Quebra Nozes (2001)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122293.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie Rainhas do Rock (2015)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbVJPQzZRbHZOTVJzSEdhazBWaWp4Nlk1S2NOLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Rainhas do Rock (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Rainhas do Rock (2015)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbVJPQzZRbHZOTVJzSEdhazBWaWp4Nlk1S2NOLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie Rainhas do Rock (2015)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122306.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie: A Princesa e a Popstar (2012)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaGFiNlpNQzNlWGo5cFFIbFN4TlVqb25waENSLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie: A Princesa e a Popstar (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: A Princesa e a Popstar (2012)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaGFiNlpNQzNlWGo5cFFIbFN4TlVqb25waENSLmpwZw==.jpg" group-title="Filmes | Animacao",Barbie: A Princesa e a Popstar (2012)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/48278.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barbie: Aventura nas Estrelas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNHM5Q29JRGlDOU8xSDljZFY5N29nY2k1SGRILmpwZw==.jpg" group-title="Filmes | Animacao",Barbie: Aventura nas Estrelas
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Aventura nas Estrelas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNHM5Q29JRGlDOU8xSDljZFY5N29nY2k1SGRILmpwZw==.jpg" group-title="Filmes | Animacao",Barbie: Aventura nas Estrelas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/48298.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bares Bolos e Amizades" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOTh0ckRLZG9YOTk3S09GNGkzeEpMNnZ1WEtsLmpwZw==.jpg" group-title="Filmes | Romance",Bares Bolos e Amizades
+#EXTINF:-1 tvg-id="" tvg-name="Bares Bolos e Amizades" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOTh0ckRLZG9YOTk3S09GNGkzeEpMNnZ1WEtsLmpwZw==.jpg" group-title="Filmes | Romance",Bares Bolos e Amizades
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131183.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Barrabas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOHFUeWxzSzU4Y05jOWhQN2NRa3NpNjVqOEpXLmpwZw==.jpg" group-title="Filmes | Religiao ",Barrabas
+#EXTINF:-1 tvg-id="" tvg-name="Barrabas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOHFUeWxzSzU4Y05jOWhQN2NRa3NpNjVqOEpXLmpwZw==.jpg" group-title="Filmes | Religiao ",Barrabas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/3764.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bartkowiak" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva09Wa285dTJDU3dwVTh6R2oxNFB6ZWk2RWNvLmpwZw==.jpg" group-title="Filmes | Acao",Bartkowiak
+#EXTINF:-1 tvg-id="" tvg-name="Bartkowiak" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIva09Wa285dTJDU3dwVTh6R2oxNFB6ZWk2RWNvLmpwZw==.jpg" group-title="Filmes | Acao",Bartkowiak
 http://cdnrobot.info:2052/movie/md301a/abc123ad/40392.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bastardos Inglorios " tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNlVqWXljSVI2VkxZZ2dnZk5wbVNQSkhtRlMwLmpwZw==.jpg" group-title="Filmes | Acao",Bastardos Inglorios 
+#EXTINF:-1 tvg-id="" tvg-name="Bastardos Inglorios " tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNlVqWXljSVI2VkxZZ2dnZk5wbVNQSkhtRlMwLmpwZw==.jpg" group-title="Filmes | Acao",Bastardos Inglorios 
 http://cdnrobot.info:2052/movie/md301a/abc123ad/13150.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bastardoz" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYWM5Y0xLYVNXQlJ0ZE9FRnpPWmttMlluaFVoLmpwZw==.jpg" group-title="Filmes | Guerra",Bastardoz
+#EXTINF:-1 tvg-id="" tvg-name="Bastardoz" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYWM5Y0xLYVNXQlJ0ZE9FRnpPWmttMlluaFVoLmpwZw==.jpg" group-title="Filmes | Guerra",Bastardoz
 http://cdnrobot.info:2052/movie/md301a/abc123ad/71448.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bastidores de um Casamento" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXZPbU8zcWVQS3BGVlZLOGhGRjJTOGkxMEIwLmpwZw==.jpg" group-title="Filmes | Comedia",Bastidores de um Casamento
+#EXTINF:-1 tvg-id="" tvg-name="Bastidores de um Casamento" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXZPbU8zcWVQS3BGVlZLOGhGRjJTOGkxMEIwLmpwZw==.jpg" group-title="Filmes | Comedia",Bastidores de um Casamento
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79445.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bata Antes de Entrar (2015)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM1hPVnRxREZSVnRSMnk4Z1VoMmU2RUtrUVlSLmpwZw==.jpg" group-title="Filmes | Suspense ",Bata Antes de Entrar (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Bata Antes de Entrar (2015)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM1hPVnRxREZSVnRSMnk4Z1VoMmU2RUtrUVlSLmpwZw==.jpg" group-title="Filmes | Suspense ",Bata Antes de Entrar (2015)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81308.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Batalha dos Zumbis" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNkVFaHlmY0dDVHpmMGZPT0dIVTRaZlZNajk0LmpwZw==.jpg" group-title="Filmes | Terror",Batalha dos Zumbis
