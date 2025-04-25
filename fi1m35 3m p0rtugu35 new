@@ -3112,263 +3112,177 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/131190.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/77943.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bethany - A Amiga Imaginária" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYjkyb2pjM0QzNlM2RlVxWVVBTDJqSXNaQUIwLmpwZw==.jpg" group-title="Filmes | Terror",Bethany - A Amiga Imaginária
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147882.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Big Kill - A Cidade do Medo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc05KalZrTFhnTWk1c2szZ1ZNVjlvaUhyVktxLmpwZw==.jpg" group-title="Filmes | Faroeste",Big Kill - A Cidade do Medo
+#EXTINF:-1 tvg-id="" tvg-name="Big Kill - A Cidade do Medo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvc05KalZrTFhnTWk1c2szZ1ZNVjlvaUhyVktxLmpwZw==.jpg" group-title="Filmes | Faroeste",Big Kill - A Cidade do Medo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/25407.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Big Pai Big Filho 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNldxcjFKdGhxczgwMURBc05JNzFQbnJQamRYLmpwZw==.jpg" group-title="Filmes | Animacao",Big Pai Big Filho 2
+#EXTINF:-1 tvg-id="" tvg-name="Big Pai Big Filho 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNldxcjFKdGhxczgwMURBc05JNzFQbnJQamRYLmpwZw==.jpg" group-title="Filmes | Animacao",Big Pai Big Filho 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/127537.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bigbug" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYWZPVzljbFdvQjRpV010TUc3WFpXUXBnUzdvLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Bigbug
+#EXTINF:-1 tvg-id="" tvg-name="Bigbug" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYWZPVzljbFdvQjRpV010TUc3WFpXUXBnUzdvLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Bigbug
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51323.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bihter Uma Paixao Proibida" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvamZuNXAwdUM3Y3V4UVNMdkJOU1dXUTdJejZqLmpwZw==.jpg" group-title="Filmes | Drama",Bihter Uma Paixao Proibida
+#EXTINF:-1 tvg-id="" tvg-name="Bihter Uma Paixao Proibida" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvamZuNXAwdUM3Y3V4UVNMdkJOU1dXUTdJejZqLmpwZw==.jpg" group-title="Filmes | Drama",Bihter Uma Paixao Proibida
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136727.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bikes: Uma Aventura Sobre Rodas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEtwVEFOUTMyV3ZqNnFUSURDZ1ZUbmc5Uk1iLmpwZw==.jpg" group-title="Filmes | Animacao",Bikes: Uma Aventura Sobre Rodas
+#EXTINF:-1 tvg-id="" tvg-name="Bikes: Uma Aventura Sobre Rodas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOEtwVEFOUTMyV3ZqNnFUSURDZ1ZUbmc5Uk1iLmpwZw==.jpg" group-title="Filmes | Animacao",Bikes: Uma Aventura Sobre Rodas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81560.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bilhete de Fuga" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWhzczdsWWxHOXhPTjlSbk9JeTJwd0xiZExYLmpwZw==.jpg" group-title="Filmes | Acao",Bilhete de Fuga
+#EXTINF:-1 tvg-id="" tvg-name="Bilhete de Fuga" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWhzczdsWWxHOXhPTjlSbk9JeTJwd0xiZExYLmpwZw==.jpg" group-title="Filmes | Acao",Bilhete de Fuga
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79030.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Billy & Mandy Contra o Bicho-Papao" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbk1XR0hkVlVyR1F3bzFTUTRKZERVdjU1Nkw4LmpwZw==.jpg" group-title="Filmes | Animacao",Billy & Mandy Contra o Bicho-Papao
+#EXTINF:-1 tvg-id="" tvg-name="Billy & Mandy Contra o Bicho-Papao" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbk1XR0hkVlVyR1F3bzFTUTRKZERVdjU1Nkw4LmpwZw==.jpg" group-title="Filmes | Animacao",Billy & Mandy Contra o Bicho-Papao
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45864.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Billy The Kid: O Fora da Lei" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnZsaFFLd3pFUG9aQzVjVGZ6TEhybUtqYnNrLmpwZw==.jpg" group-title="Filmes | Faroeste",Billy The Kid: O Fora da Lei
+#EXTINF:-1 tvg-id="" tvg-name="Billy The Kid: O Fora da Lei" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMnZsaFFLd3pFUG9aQzVjVGZ6TEhybUtqYnNrLmpwZw==.jpg" group-title="Filmes | Faroeste",Billy The Kid: O Fora da Lei
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21912.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bingo: O Rei das Manhas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNnRGWW5TSTRhNXI5UlZpZzBjT1hiYTY3djlULmpwZw==.jpg" group-title="Filmes | Nacionais",Bingo: O Rei das Manhas
+#EXTINF:-1 tvg-id="" tvg-name="Bingo: O Rei das Manhas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNnRGWW5TSTRhNXI5UlZpZzBjT1hiYTY3djlULmpwZw==.jpg" group-title="Filmes | Nacionais",Bingo: O Rei das Manhas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/72752.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bionicos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbnM5VHI5ZmRhMVl1UEsyazZCcXdxbUVPa2dsLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Bionicos
+#EXTINF:-1 tvg-id="" tvg-name="Bionicos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbnM5VHI5ZmRhMVl1UEsyazZCcXdxbUVPa2dsLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Bionicos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/141801.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bios. Vidas que marcaram a sua: Titas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNEJPR2Rua05OZVlDaENrMmRvZXM3aFZMM2ZSLmpwZw==.jpg" group-title="Filmes | Documentarios",Bios. Vidas que marcaram a sua: Titas
+#EXTINF:-1 tvg-id="" tvg-name="Bios. Vidas que marcaram a sua: Titas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNEJPR2Rua05OZVlDaENrMmRvZXM3aFZMM2ZSLmpwZw==.jpg" group-title="Filmes | Documentarios",Bios. Vidas que marcaram a sua: Titas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73593.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bird Box Barcelona" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3JsVTNnd2FLb2JjZHJtSUJUUmZ5R2NFNmV3LmpwZw==.jpg" group-title="Filmes | Suspense ",Bird Box Barcelona
+#EXTINF:-1 tvg-id="" tvg-name="Bird Box Barcelona" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3JsVTNnd2FLb2JjZHJtSUJUUmZ5R2NFNmV3LmpwZw==.jpg" group-title="Filmes | Suspense ",Bird Box Barcelona
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122327.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bird Box Barcelona (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3JsVTNnd2FLb2JjZHJtSUJUUmZ5R2NFNmV3LmpwZw==.jpg" group-title="Filmes | Suspense ",Bird Box Barcelona (L)
+#EXTINF:-1 tvg-id="" tvg-name="Bird Box Barcelona (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3JsVTNnd2FLb2JjZHJtSUJUUmZ5R2NFNmV3LmpwZw==.jpg" group-title="Filmes | Suspense ",Bird Box Barcelona (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122326.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Birdman ou (A Inesperada Virtude da Ignorância)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN2d3dERuRUozOVFhck95enQ5YlN4RWozU2tELmpwZw==.jpg" group-title="Filmes | Drama",Birdman ou (A Inesperada Virtude da Ignorância)
+#EXTINF:-1 tvg-id="" tvg-name="Birdman ou (A Inesperada Virtude da Ignorância)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN2d3dERuRUozOVFhck95enQ5YlN4RWozU2tELmpwZw==.jpg" group-title="Filmes | Drama",Birdman ou (A Inesperada Virtude da Ignorância)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/139610.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Biscoitos do Natal" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvTzVORWFhWGhQa3BPNGJwUEdKRWxNMlNBZHcuanBn.jpg" group-title="Filmes | Romance",Biscoitos do Natal
+#EXTINF:-1 tvg-id="" tvg-name="Biscoitos do Natal" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvTzVORWFhWGhQa3BPNGJwUEdKRWxNMlNBZHcuanBn.jpg" group-title="Filmes | Romance",Biscoitos do Natal
 http://cdnrobot.info:2052/movie/md301a/abc123ad/128542.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Biutiful" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWl4Y2F3U2pqWFNXTkMxQ2hYSzNTUURLR1pXLmpwZw==.jpg" group-title="Filmes | Drama",Biutiful
+#EXTINF:-1 tvg-id="" tvg-name="Biutiful" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaWl4Y2F3U2pqWFNXTkMxQ2hYSzNTUURLR1pXLmpwZw==.jpg" group-title="Filmes | Drama",Biutiful
 http://cdnrobot.info:2052/movie/md301a/abc123ad/68241.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black '47" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1ppdTlSSWNNZVFMVWFEVnFRZmZRVGw2Ymh5LmpwZw==.jpg" group-title="Filmes | Faroeste",Black '47
+#EXTINF:-1 tvg-id="" tvg-name="Black '47" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ1ppdTlSSWNNZVFMVWFEVnFRZmZRVGw2Ymh5LmpwZw==.jpg" group-title="Filmes | Faroeste",Black '47
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6693.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black and White Stripes: The Juventus Story" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMXRwOFVsZ2loeHVOcHNsc1ExT0ZtRElPY293LmpwZw==.jpg" group-title="Filmes | Documentarios",Black and White Stripes: The Juventus Story
+#EXTINF:-1 tvg-id="" tvg-name="Black and White Stripes: The Juventus Story" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMXRwOFVsZ2loeHVOcHNsc1ExT0ZtRElPY293LmpwZw==.jpg" group-title="Filmes | Documentarios",Black and White Stripes: The Juventus Story
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73131.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Clover A Espada do Rei Mago" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNUtLMEZKR2RaSTdqTWhmd3lKVGcxTEdSMno4LmpwZw==.jpg" group-title="Filmes | Animacao",Black Clover A Espada do Rei Mago
+#EXTINF:-1 tvg-id="" tvg-name="Black Clover A Espada do Rei Mago" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNUtLMEZKR2RaSTdqTWhmd3lKVGcxTEdSMno4LmpwZw==.jpg" group-title="Filmes | Animacao",Black Clover A Espada do Rei Mago
 http://cdnrobot.info:2052/movie/md301a/abc123ad/120577.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Clover A Espada do Rei Mago (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNUtLMEZKR2RaSTdqTWhmd3lKVGcxTEdSMno4LmpwZw==.jpg" group-title="Filmes | Animacao",Black Clover A Espada do Rei Mago (L)
+#EXTINF:-1 tvg-id="" tvg-name="Black Clover A Espada do Rei Mago (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNUtLMEZKR2RaSTdqTWhmd3lKVGcxTEdSMno4LmpwZw==.jpg" group-title="Filmes | Animacao",Black Clover A Espada do Rei Mago (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/120576.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Friday (2021)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdmY5RXg0RXdTUGx3YnZhNFpKZGxqc1FRT01MLmpwZw==.jpg" group-title="Filmes | Terror",Black Friday (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Black Friday (2021)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdmY5RXg0RXdTUGx3YnZhNFpKZGxqc1FRT01MLmpwZw==.jpg" group-title="Filmes | Terror",Black Friday (2021)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/79463.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Black Mirror - Bandersnatch" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZlIwVlowVkU1OTh6bDFscllmN0lmQnFFd1EyLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Black Mirror - Bandersnatch
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror - Bandersnatch" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZlIwVlowVkU1OTh6bDFscllmN0lmQnFFd1EyLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Black Mirror - Bandersnatch
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6134.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="BlackBerry" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbmVWMzVsSzdlbTRySVk5UUlvSDFjcnVFclBBLmpwZw==.jpg" group-title="Filmes | Drama",BlackBerry
+#EXTINF:-1 tvg-id="" tvg-name="BlackBerry" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbmVWMzVsSzdlbTRySVk5UUlvSDFjcnVFclBBLmpwZw==.jpg" group-title="Filmes | Drama",BlackBerry
 http://cdnrobot.info:2052/movie/md301a/abc123ad/136648.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blackout (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvenNFMWdid3BlV0tyMTJhbHRLckI2aVV5Tzc5LmpwZw==.jpg" group-title="Filmes | Acao",Blackout (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Blackout (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvenNFMWdid3BlV0tyMTJhbHRLckI2aVV5Tzc5LmpwZw==.jpg" group-title="Filmes | Acao",Blackout (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/76556.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blackout A Batalha Final (2019)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbnRLc014TFRnU3J2Um9aQTZ2ZXpRNmRPUWoyLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Blackout A Batalha Final (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Blackout A Batalha Final (2019)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbnRLc014TFRnU3J2Um9aQTZ2ZXpRNmRPUWoyLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Blackout A Batalha Final (2019)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/128598.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="BLACKPINK: Light Up the Sky (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY016WFRmNVh3Z2FwRU4zTEZka3NFOUV1MzBkLmpwZw==.jpg" group-title="Filmes | Drama",BLACKPINK: Light Up the Sky (L)
+#EXTINF:-1 tvg-id="" tvg-name="BLACKPINK: Light Up the Sky (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY016WFRmNVh3Z2FwRU4zTEZka3NFOUV1MzBkLmpwZw==.jpg" group-title="Filmes | Drama",BLACKPINK: Light Up the Sky (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/23025.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blade Runner: O Cacador de Androides (1982)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb0F2SHh5Rk9MaFhOTHJUeDBWbTl2MWd0YzY4LmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Blade Runner: O Cacador de Androides (1982)
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner: O Cacador de Androides (1982)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb0F2SHh5Rk9MaFhOTHJUeDBWbTl2MWd0YzY4LmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Blade Runner: O Cacador de Androides (1982)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/32845.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blast Beat: Um Sonho na America" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdnZvb2F3VURoYzVGWlNSV2diM244Q0hLSGs5LmpwZw==.jpg" group-title="Filmes | Drama",Blast Beat: Um Sonho na America
+#EXTINF:-1 tvg-id="" tvg-name="Blast Beat: Um Sonho na America" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdnZvb2F3VURoYzVGWlNSV2diM244Q0hLSGs5LmpwZw==.jpg" group-title="Filmes | Drama",Blast Beat: Um Sonho na America
 http://cdnrobot.info:2052/movie/md301a/abc123ad/51504.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blaze (2018)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZzNyTVdKUlA2clFPNXFQOUU2dW1lUnE5aEdBLmpwZw==.jpg" group-title="Filmes | Drama",Blaze (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Blaze (2018)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZzNyTVdKUlA2clFPNXFQOUU2dW1lUnE5aEdBLmpwZw==.jpg" group-title="Filmes | Drama",Blaze (2018)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/118535.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blitz" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWpxbWhoYzd1THViMjJtaHU0VjZEak9Cd1hNLmpwZw==.jpg" group-title="Filmes | Acao",Blitz
+#EXTINF:-1 tvg-id="" tvg-name="Blitz" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWpxbWhoYzd1THViMjJtaHU0VjZEak9Cd1hNLmpwZw==.jpg" group-title="Filmes | Acao",Blitz
 http://cdnrobot.info:2052/movie/md301a/abc123ad/115239.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blonde (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWRtbndnS0drdXhCZ3ZEaE9IYXFsWnRncnY5LmpwZw==.jpg" group-title="Filmes | Drama",Blonde (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Blonde (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOWRtbndnS0drdXhCZ3ZEaE9IYXFsWnRncnY5LmpwZw==.jpg" group-title="Filmes | Drama",Blonde (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/75093.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blondi (2023)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZFl6UGJueEhCNlo1T3B3NlJFU1FlcFQ3R0JCLmpwZw==.jpg" group-title="Filmes | Comedia",Blondi (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Blondi (2023)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZFl6UGJueEhCNlo1T3B3NlJFU1FlcFQ3R0JCLmpwZw==.jpg" group-title="Filmes | Comedia",Blondi (2023)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122089.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bloodshot - 2020" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVo3QUppUWhvY0EyME1rSTVKWFo2T2pUeEVXLmpwZw==.jpg" group-title="Filmes | Acao",Bloodshot - 2020
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot - 2020" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNVo3QUppUWhvY0EyME1rSTVKWFo2T2pUeEVXLmpwZw==.jpg" group-title="Filmes | Acao",Bloodshot - 2020
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10556.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blue Bayou (2021)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYTR4eWtUaWU4Qk9TVzB5Nks1dTFBY21XNEhXLmpwZw==.jpg" group-title="Filmes | Drama",Blue Bayou (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Blue Bayou (2021)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYTR4eWtUaWU4Qk9TVzB5Nks1dTFBY21XNEhXLmpwZw==.jpg" group-title="Filmes | Drama",Blue Bayou (2021)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/115189.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Blueback Uma Amizade Profunda" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY0FSTWdoZ3BIUEVjNkJnMWJmOURPNFlFbUtYLmpwZw==.jpg" group-title="Filmes | Aventura",Blueback Uma Amizade Profunda
+#EXTINF:-1 tvg-id="" tvg-name="Blueback Uma Amizade Profunda" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY0FSTWdoZ3BIUEVjNkJnMWJmOURPNFlFbUtYLmpwZw==.jpg" group-title="Filmes | Aventura",Blueback Uma Amizade Profunda
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131869.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boa Noite Mamae!" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbHdxNmN0MEFlcm9VeGxYd3I0OVFKaU16ZjRrLmpwZw==.jpg" group-title="Filmes | Terror",Boa Noite Mamae!
+#EXTINF:-1 tvg-id="" tvg-name="Boa Noite Mamae!" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbHdxNmN0MEFlcm9VeGxYd3I0OVFKaU16ZjRrLmpwZw==.jpg" group-title="Filmes | Terror",Boa Noite Mamae!
 http://cdnrobot.info:2052/movie/md301a/abc123ad/74995.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boa Sorte Leo Grande" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZEJERGR0OHVSSHU2bm42cDk0bVpRODg1cTNGLmpwZw==.jpg" group-title="Filmes | Comedia",Boa Sorte Leo Grande
+#EXTINF:-1 tvg-id="" tvg-name="Boa Sorte Leo Grande" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZEJERGR0OHVSSHU2bm42cDk0bVpRODg1cTNGLmpwZw==.jpg" group-title="Filmes | Comedia",Boa Sorte Leo Grande
 http://cdnrobot.info:2052/movie/md301a/abc123ad/120575.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bob Cuspe: Nos Nao Gostamos de Gente" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdHBlZzduVEd6N2RCNzF2d1pHWVRlU2ZhaFhtLmpwZw==.jpg" group-title="Filmes | Documentarios",Bob Cuspe: Nos Nao Gostamos de Gente
+#EXTINF:-1 tvg-id="" tvg-name="Bob Cuspe: Nos Nao Gostamos de Gente" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdHBlZzduVEd6N2RCNzF2d1pHWVRlU2ZhaFhtLmpwZw==.jpg" group-title="Filmes | Documentarios",Bob Cuspe: Nos Nao Gostamos de Gente
 http://cdnrobot.info:2052/movie/md301a/abc123ad/49755.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja O Filme" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZWE2dVdEYVQ4bzQ4MEVVdGc0MmF3NmZGTk14LmpwZw==.jpg" group-title="Filmes | Animacao",Bob Esponja O Filme
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja O Filme" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZWE2dVdEYVQ4bzQ4MEVVdGc0MmF3NmZGTk14LmpwZw==.jpg" group-title="Filmes | Animacao",Bob Esponja O Filme
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122285.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja O Incrivel Resgate" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZDg4eDRKbnlocjR4RXJPWWVKQ3NwY3hJMzRoLmpwZw==.jpg" group-title="Filmes | Animacao",Bob Esponja O Incrivel Resgate
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja O Incrivel Resgate" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZDg4eDRKbnlocjR4RXJPWWVKQ3NwY3hJMzRoLmpwZw==.jpg" group-title="Filmes | Animacao",Bob Esponja O Incrivel Resgate
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122286.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja: Um Heroi Fora D'Agua (2015)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZHJQNEo4NVVDb2F1N0oyRTlzQU5EU21EMXJDLmpwZw==.jpg" group-title="Filmes | Animacao",Bob Esponja: Um Heroi Fora D'Agua (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja: Um Heroi Fora D'Agua (2015)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZHJQNEo4NVVDb2F1N0oyRTlzQU5EU21EMXJDLmpwZw==.jpg" group-title="Filmes | Animacao",Bob Esponja: Um Heroi Fora D'Agua (2015)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/31176.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYmNOZ1F3ZG10WEpZUElucXdJbjh1SXQzNWZILmpwZw==.jpg" group-title="Filmes | Drama",Bob Marley: One Love
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYmNOZ1F3ZG10WEpZUElucXdJbjh1SXQzNWZILmpwZw==.jpg" group-title="Filmes | Drama",Bob Marley: One Love
 http://cdnrobot.info:2052/movie/md301a/abc123ad/139278.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boda na Toscana" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvek92YnBjOThFVFVHeXVMc2Qzd1R4eWhWb2VuLmpwZw==.jpg" group-title="Filmes | Comedia",Boda na Toscana
+#EXTINF:-1 tvg-id="" tvg-name="Boda na Toscana" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvek92YnBjOThFVFVHeXVMc2Qzd1R4eWhWb2VuLmpwZw==.jpg" group-title="Filmes | Comedia",Boda na Toscana
 http://cdnrobot.info:2052/movie/md301a/abc123ad/115957.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bodyguard – Resgate de Risco" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOGVNYVNRRVVNWjhlNEVSTU9pdEthbWJoNnlJLmpwZw==.jpg" group-title="Filmes | Acao",Bodyguard – Resgate de Risco
+#EXTINF:-1 tvg-id="" tvg-name="Bodyguard – Resgate de Risco" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOGVNYVNRRVVNWjhlNEVSTU9pdEthbWJoNnlJLmpwZw==.jpg" group-title="Filmes | Acao",Bodyguard – Resgate de Risco
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147848.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody " tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcXhnZHFjeEkyMTZrRW95cEdiQTlCZW1CN21XLmpwZw==.jpg" group-title="Filmes | Drama",Bohemian Rhapsody 
+#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody " tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcXhnZHFjeEkyMTZrRW95cEdiQTlCZW1CN21XLmpwZw==.jpg" group-title="Filmes | Drama",Bohemian Rhapsody 
 http://cdnrobot.info:2052/movie/md301a/abc123ad/4858.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bolo de Limão com Sementes de Papoula" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaW5lc0c1T2RXQXFYdDdUTFRkU1hzc1AyTVJ1LmpwZw==.jpg" group-title="Filmes | Drama",Bolo de Limão com Sementes de Papoula
+#EXTINF:-1 tvg-id="" tvg-name="Bolo de Limão com Sementes de Papoula" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaW5lc0c1T2RXQXFYdDdUTFRkU1hzc1AyTVJ1LmpwZw==.jpg" group-title="Filmes | Drama",Bolo de Limão com Sementes de Papoula
 http://cdnrobot.info:2052/movie/md301a/abc123ad/139356.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bolt: Supercao" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcHVBSWlGSUNicUxlaHJFOFg4ODRaYk54SThOLmpwZw==.jpg" group-title="Filmes | Animacao",Bolt: Supercao
+#EXTINF:-1 tvg-id="" tvg-name="Bolt: Supercao" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcHVBSWlGSUNicUxlaHJFOFg4ODRaYk54SThOLmpwZw==.jpg" group-title="Filmes | Animacao",Bolt: Supercao
 http://cdnrobot.info:2052/movie/md301a/abc123ad/82391.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bom Dia Natal" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcTNsS1VZN01uZGJpSUk1V2hvb1V5cUtVdHd0LmpwZw==.jpg" group-title="Filmes | Romance",Bom Dia Natal
+#EXTINF:-1 tvg-id="" tvg-name="Bom Dia Natal" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcTNsS1VZN01uZGJpSUk1V2hvb1V5cUtVdHd0LmpwZw==.jpg" group-title="Filmes | Romance",Bom Dia Natal
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81746.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bom Dia Vietna (1987)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbkNHSzdHd3RqQ3UyZ3ZkZnl2eExYM0preEU5LmpwZw==.jpg" group-title="Filmes | Comedia",Bom Dia Vietna (1987)
+#EXTINF:-1 tvg-id="" tvg-name="Bom Dia Vietna (1987)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbkNHSzdHd3RqQ3UyZ3ZkZnl2eExYM0preEU5LmpwZw==.jpg" group-title="Filmes | Comedia",Bom Dia Vietna (1987)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73594.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bom Garoto (Good Boy)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMkhPRWo5QjZXb0UzUE1pU2R0QklIZDJrSGhGLmpwZw==.jpg" group-title="Filmes | Terror",Bom Garoto (Good Boy)
+#EXTINF:-1 tvg-id="" tvg-name="Bom Garoto (Good Boy)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMkhPRWo5QjZXb0UzUE1pU2R0QklIZDJrSGhGLmpwZw==.jpg" group-title="Filmes | Terror",Bom Garoto (Good Boy)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/139992.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bom Garoto (Good Boy) (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMkhPRWo5QjZXb0UzUE1pU2R0QklIZDJrSGhGLmpwZw==.jpg" group-title="Filmes | Terror",Bom Garoto (Good Boy) (L)
+#EXTINF:-1 tvg-id="" tvg-name="Bom Garoto (Good Boy) (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMkhPRWo5QjZXb0UzUE1pU2R0QklIZDJrSGhGLmpwZw==.jpg" group-title="Filmes | Terror",Bom Garoto (Good Boy) (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/131223.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bombardeio a Roterda" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcTB3bG1YOXRNVzhoZ0FTcElLRk5tQmphZWh6LmpwZw==.jpg" group-title="Filmes | Romance",Bombardeio a Roterda
+#EXTINF:-1 tvg-id="" tvg-name="Bombardeio a Roterda" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcTB3bG1YOXRNVzhoZ0FTcElLRk5tQmphZWh6LmpwZw==.jpg" group-title="Filmes | Romance",Bombardeio a Roterda
 http://cdnrobot.info:2052/movie/md301a/abc123ad/140065.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bonequinha de Luxo (1961)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaUJkbjZqa3dPS25KMDJXOHBkbGpZeUNrWWNoLmpwZw==.jpg" group-title="Filmes | Romance",Bonequinha de Luxo (1961)
+#EXTINF:-1 tvg-id="" tvg-name="Bonequinha de Luxo (1961)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaUJkbjZqa3dPS25KMDJXOHBkbGpZeUNrWWNoLmpwZw==.jpg" group-title="Filmes | Romance",Bonequinha de Luxo (1961)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/116845.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bonnie e Clyde - Uma Rajada de Balas (1967)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGZ3cUdVRnh6N2owRG1PSnBIZzNZOXU1cUVSLmpwZw==.jpg" group-title="Filmes | Drama",Bonnie e Clyde - Uma Rajada de Balas (1967)
+#EXTINF:-1 tvg-id="" tvg-name="Bonnie e Clyde - Uma Rajada de Balas (1967)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdGZ3cUdVRnh6N2owRG1PSnBIZzNZOXU1cUVSLmpwZw==.jpg" group-title="Filmes | Drama",Bonnie e Clyde - Uma Rajada de Balas (1967)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/32780.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bons Companheiros" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbXIzNlZkRVF3MlVuM2hpUThvelB6WG5WUnk3LmpwZw==.jpg" group-title="Filmes | Comedia",Bons Companheiros
+#EXTINF:-1 tvg-id="" tvg-name="Bons Companheiros" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbXIzNlZkRVF3MlVuM2hpUThvelB6WG5WUnk3LmpwZw==.jpg" group-title="Filmes | Comedia",Bons Companheiros
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138293.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bons Meninos" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZGc2UlJwazBXMU44TldNbWRMdlBSZ1Rzc3RELmpwZw==.jpg" group-title="Filmes | Comedia",Bons Meninos
+#EXTINF:-1 tvg-id="" tvg-name="Bons Meninos" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZGc2UlJwazBXMU44TldNbWRMdlBSZ1Rzc3RELmpwZw==.jpg" group-title="Filmes | Comedia",Bons Meninos
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6238.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boogey Um Monstro Adoravel" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbWdoUmFnWnJHOFpHVm1tYzcybzA5azk4Q09SLmpwZw==.jpg" group-title="Filmes | Animacao",Boogey Um Monstro Adoravel
+#EXTINF:-1 tvg-id="" tvg-name="Boogey Um Monstro Adoravel" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbWdoUmFnWnJHOFpHVm1tYzcybzA5azk4Q09SLmpwZw==.jpg" group-title="Filmes | Animacao",Boogey Um Monstro Adoravel
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122258.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boogeyman Seu Medo e Real (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWY0bDVQaDhXT1N4U3hZQm04emVPdWFYT2szLmpwZw==.jpg" group-title="Filmes | Terror",Boogeyman Seu Medo e Real (L)
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman Seu Medo e Real (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWY0bDVQaDhXT1N4U3hZQm04emVPdWFYT2szLmpwZw==.jpg" group-title="Filmes | Terror",Boogeyman Seu Medo e Real (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/129623.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boogeyman Seu Medo é Real" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWY0bDVQaDhXT1N4U3hZQm04emVPdWFYT2szLmpwZw==.jpg" group-title="Filmes | Terror",Boogeyman Seu Medo é Real
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman Seu Medo é Real" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcWY0bDVQaDhXT1N4U3hZQm04emVPdWFYT2szLmpwZw==.jpg" group-title="Filmes | Terror",Boogeyman Seu Medo é Real
 http://cdnrobot.info:2052/movie/md301a/abc123ad/134050.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boogie" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbjV4bU51N0xiNElxT2Foc0U4SzZXOHhCVEM3LmpwZw==.jpg" group-title="Filmes | Drama",Boogie
+#EXTINF:-1 tvg-id="" tvg-name="Boogie" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbjV4bU51N0xiNElxT2Foc0U4SzZXOHhCVEM3LmpwZw==.jpg" group-title="Filmes | Drama",Boogie
 http://cdnrobot.info:2052/movie/md301a/abc123ad/118457.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boogie Nights - Prazer Sem Limites (1997)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdkxwUm5tbjkwclgweklMMVo0SDVkUnRBam1qLmpwZw==.jpg" group-title="Filmes | Drama",Boogie Nights - Prazer Sem Limites (1997)
+#EXTINF:-1 tvg-id="" tvg-name="Boogie Nights - Prazer Sem Limites (1997)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdkxwUm5tbjkwclgweklMMVo0SDVkUnRBam1qLmpwZw==.jpg" group-title="Filmes | Drama",Boogie Nights - Prazer Sem Limites (1997)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/32781.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boone O Cacador de Recompensas" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZWR3anBWTndlaWQ1T0xVWERMYThYOW8wWjVYLmpwZw==.jpg" group-title="Filmes | Acao",Boone O Cacador de Recompensas
+#EXTINF:-1 tvg-id="" tvg-name="Boone O Cacador de Recompensas" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZWR3anBWTndlaWQ1T0xVWERMYThYOW8wWjVYLmpwZw==.jpg" group-title="Filmes | Acao",Boone O Cacador de Recompensas
 http://cdnrobot.info:2052/movie/md301a/abc123ad/128460.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears Inverno Magico" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbWRCZEhDU1JTZE9sdXBvSU5SRmxSclFOZnhPLmpwZw==.jpg" group-title="Filmes | Animacao",Boonie Bears Inverno Magico
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears Inverno Magico" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbWRCZEhDU1JTZE9sdXBvSU5SRmxSclFOZnhPLmpwZw==.jpg" group-title="Filmes | Animacao",Boonie Bears Inverno Magico
 http://cdnrobot.info:2052/movie/md301a/abc123ad/122304.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Aventura em Miniatura (2018)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMmZmaVBXUkhyVHFMdmZrblJLbnpVbzFNc3l6LmpwZw==.jpg" group-title="Filmes | Animacao",Boonie Bears: Aventura em Miniatura (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Aventura em Miniatura (2018)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMmZmaVBXUkhyVHFMdmZrblJLbnpVbzFNc3l6LmpwZw==.jpg" group-title="Filmes | Animacao",Boonie Bears: Aventura em Miniatura (2018)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/13104.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Borat - O Segundo Melhor Reporter do Glorioso Pais Cazaquistao Viaja a America" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNWVnUjN5d2tpWGJhcXZyWnJraXNpRjlMbHpoLmpwZw==.jpg" group-title="Filmes | Comedia",Borat - O Segundo Melhor Reporter do Glorioso Pais Cazaquistao Viaja a America
+#EXTINF:-1 tvg-id="" tvg-name="Borat - O Segundo Melhor Reporter do Glorioso Pais Cazaquistao Viaja a America" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvNWVnUjN5d2tpWGJhcXZyWnJraXNpRjlMbHpoLmpwZw==.jpg" group-title="Filmes | Comedia",Borat - O Segundo Melhor Reporter do Glorioso Pais Cazaquistao Viaja a America
 http://cdnrobot.info:2052/movie/md301a/abc123ad/73595.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Borat: Fita de Cinema Seguinte (2020)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaDRjaUczNEFhUUxmazM4bHRCR01EZHhMZUY1LmpwZw==.jpg" group-title="Filmes | Comedia",Borat: Fita de Cinema Seguinte (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Borat: Fita de Cinema Seguinte (2020)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaDRjaUczNEFhUUxmazM4bHRCR01EZHhMZUY1LmpwZw==.jpg" group-title="Filmes | Comedia",Borat: Fita de Cinema Seguinte (2020)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/32080.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Borboleta Negra" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvemU2cW5KYmZTWmJyZUNJVWVhMDJwcXZuT3hBLmpwZw==.jpg" group-title="Filmes | Suspense ",Borboleta Negra
+#EXTINF:-1 tvg-id="" tvg-name="Borboleta Negra" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvemU2cW5KYmZTWmJyZUNJVWVhMDJwcXZuT3hBLmpwZw==.jpg" group-title="Filmes | Suspense ",Borboleta Negra
 http://cdnrobot.info:2052/movie/md301a/abc123ad/77106.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bordertown: A Eliminacao" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvazVUUGJQc2x1VUdNQzdxWmZWWE5UbnNBV1FjLmpwZw==.jpg" group-title="Filmes | Drama",Bordertown: A Eliminacao
+#EXTINF:-1 tvg-id="" tvg-name="Bordertown: A Eliminacao" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvazVUUGJQc2x1VUdNQzdxWmZWWE5UbnNBV1FjLmpwZw==.jpg" group-title="Filmes | Drama",Bordertown: A Eliminacao
 http://cdnrobot.info:2052/movie/md301a/abc123ad/49229.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Borrego: Saia do Caminho" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaU5TYTFrd1ZzT3NmQUh3b3BNTE03UG5yRGhVLmpwZw==.jpg" group-title="Filmes | Suspense ",Borrego: Saia do Caminho
+#EXTINF:-1 tvg-id="" tvg-name="Borrego: Saia do Caminho" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaU5TYTFrd1ZzT3NmQUh3b3BNTE03UG5yRGhVLmpwZw==.jpg" group-title="Filmes | Suspense ",Borrego: Saia do Caminho
 http://cdnrobot.info:2052/movie/md301a/abc123ad/76019.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boyhood Da Infancia a Juventude" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcnIxcmxEWlhPZUxxdFlNRUM2eEV1bnhxc0QzLmpwZw==.jpg" group-title="Filmes | Drama",Boyhood Da Infancia a Juventude
+#EXTINF:-1 tvg-id="" tvg-name="Boyhood Da Infancia a Juventude" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcnIxcmxEWlhPZUxxdFlNRUM2eEV1bnhxc0QzLmpwZw==.jpg" group-title="Filmes | Drama",Boyhood Da Infancia a Juventude
 http://cdnrobot.info:2052/movie/md301a/abc123ad/118530.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boyka - O Imbativel 3" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaTFmZXRsN2pMNDhKVUlVdDJQWkZsQ0E1T2YuanBn.jpg" group-title="Filmes | Acao",Boyka - O Imbativel 3
+#EXTINF:-1 tvg-id="" tvg-name="Boyka - O Imbativel 3" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvaTFmZXRsN2pMNDhKVUlVdDJQWkZsQ0E1T2YuanBn.jpg" group-title="Filmes | Acao",Boyka - O Imbativel 3
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6685.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boyka - O Imbativel 4" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3BzTVNyamdZWEMzcjZqTGtLbFd3U0lsTG83LmpwZw==.jpg" group-title="Filmes | Acao",Boyka - O Imbativel 4
+#EXTINF:-1 tvg-id="" tvg-name="Boyka - O Imbativel 4" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3BzTVNyamdZWEMzcjZqTGtLbFd3U0lsTG83LmpwZw==.jpg" group-title="Filmes | Acao",Boyka - O Imbativel 4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6686.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boyka O Imbativel " tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3BzTVNyamdZWEMzcjZqTGtLbFd3U0lsTG83LmpwZw==.jpg" group-title="Filmes | Acao",Boyka O Imbativel 
+#EXTINF:-1 tvg-id="" tvg-name="Boyka O Imbativel " tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3BzTVNyamdZWEMzcjZqTGtLbFd3U0lsTG83LmpwZw==.jpg" group-title="Filmes | Acao",Boyka O Imbativel 
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6683.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Boyka: O Imbativel 2" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYW94bUlTajdqam5CZ2FRdXNVcjEzc1NxUmF5LmpwZw==.jpg" group-title="Filmes | Acao",Boyka: O Imbativel 2
+#EXTINF:-1 tvg-id="" tvg-name="Boyka: O Imbativel 2" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYW94bUlTajdqam5CZ2FRdXNVcjEzc1NxUmF5LmpwZw==.jpg" group-title="Filmes | Acao",Boyka: O Imbativel 2
 http://cdnrobot.info:2052/movie/md301a/abc123ad/6684.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Braddock - O Super Comando (1984)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ3hPOGxtcFZZMGNjTFdJeld3OHM5QkU4cG9lLmpwZw==.jpg" group-title="Filmes | Acao",Braddock - O Super Comando (1984)
+#EXTINF:-1 tvg-id="" tvg-name="Braddock - O Super Comando (1984)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZ3hPOGxtcFZZMGNjTFdJeld3OHM5QkU4cG9lLmpwZw==.jpg" group-title="Filmes | Acao",Braddock - O Super Comando (1984)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10974.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Braddock 2 - O Inicio da Missao (1985)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN3JDR0ZNcWs0ZXd2azFUMmRwcU1jSnlWZE14LmpwZw==.jpg" group-title="Filmes | Acao",Braddock 2 - O Inicio da Missao (1985)
+#EXTINF:-1 tvg-id="" tvg-name="Braddock 2 - O Inicio da Missao (1985)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvN3JDR0ZNcWs0ZXd2azFUMmRwcU1jSnlWZE14LmpwZw==.jpg" group-title="Filmes | Acao",Braddock 2 - O Inicio da Missao (1985)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10973.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Braddock 3 - O Resgate (1988)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcEFxYm1oZ1VPNjVFdUl5c25jcnhvcU9XbnZDLmpwZw==.jpg" group-title="Filmes | Acao",Braddock 3 - O Resgate (1988)
+#EXTINF:-1 tvg-id="" tvg-name="Braddock 3 - O Resgate (1988)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcEFxYm1oZ1VPNjVFdUl5c25jcnhvcU9XbnZDLmpwZw==.jpg" group-title="Filmes | Acao",Braddock 3 - O Resgate (1988)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/22235.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Brahms: Boneco do Mal II" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbkl2ODhPaktPdzd0TE1UcGpBUzJIc1paVTFYLmpwZw==.jpg" group-title="Filmes | Terror",Brahms: Boneco do Mal II
+#EXTINF:-1 tvg-id="" tvg-name="Brahms: Boneco do Mal II" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbkl2ODhPaktPdzd0TE1UcGpBUzJIc1paVTFYLmpwZw==.jpg" group-title="Filmes | Terror",Brahms: Boneco do Mal II
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21689.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Branca de Neve e o Cacador" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvamxYTlJ1RGZvQ1JMdm5Wd1U0MURMTzBwM3plLmpwZw==.jpg" group-title="Filmes | Fantasia",Branca de Neve e o Cacador
+#EXTINF:-1 tvg-id="" tvg-name="Branca de Neve e o Cacador" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvamxYTlJ1RGZvQ1JMdm5Wd1U0MURMTzBwM3plLmpwZw==.jpg" group-title="Filmes | Fantasia",Branca de Neve e o Cacador
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21924.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Branca de Neve e os Sete Anoes (1937)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM1FyRDNsakhlNmo1R3hBRmdudGxHV1R3eXBtLmpwZw==.jpg" group-title="Filmes | Disney +",Branca de Neve e os Sete Anoes (1937)
+#EXTINF:-1 tvg-id="" tvg-name="Branca de Neve e os Sete Anoes (1937)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM1FyRDNsakhlNmo1R3hBRmdudGxHV1R3eXBtLmpwZw==.jpg" group-title="Filmes | Disney +",Branca de Neve e os Sete Anoes (1937)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/22178.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Branquinha" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOXdGZWFJcW5HNWpTd2dFaXdOSDc2QVpZSmVTLmpwZw==.jpg" group-title="Filmes | Drama",Branquinha
+#EXTINF:-1 tvg-id="" tvg-name="Branquinha" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOXdGZWFJcW5HNWpTd2dFaXdOSDc2QVpZSmVTLmpwZw==.jpg" group-title="Filmes | Drama",Branquinha
 http://cdnrobot.info:2052/movie/md301a/abc123ad/23005.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Brasil 2002: Os Bastidores do Penta" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdXZyUkJBa0t5VkhmV092cUF2Z21EYXNnQUdVLmpwZw==.jpg" group-title="Filmes | Documentarios",Brasil 2002: Os Bastidores do Penta
+#EXTINF:-1 tvg-id="" tvg-name="Brasil 2002: Os Bastidores do Penta" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdXZyUkJBa0t5VkhmV092cUF2Z21EYXNnQUdVLmpwZw==.jpg" group-title="Filmes | Documentarios",Brasil 2002: Os Bastidores do Penta
 http://cdnrobot.info:2052/movie/md301a/abc123ad/75970.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Brasilia 18" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb3dkazhENzB5dHc2UTBtUEpCTTdNUm5VWUpVLmpwZw==.jpg" group-title="Filmes | Nacionais",Brasilia 18
+#EXTINF:-1 tvg-id="" tvg-name="Brasilia 18" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb3dkazhENzB5dHc2UTBtUEpCTTdNUm5VWUpVLmpwZw==.jpg" group-title="Filmes | Nacionais",Brasilia 18
 http://cdnrobot.info:2052/movie/md301a/abc123ad/68242.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bravura Indomita (1969)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3VuUnhyd1JyMXlLdk4wR0tnc2Z0b1lhamlLLmpwZw==.jpg" group-title="Filmes | Faroeste",Bravura Indomita (1969)
+#EXTINF:-1 tvg-id="" tvg-name="Bravura Indomita (1969)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvM3VuUnhyd1JyMXlLdk4wR0tnc2Z0b1lhamlLLmpwZw==.jpg" group-title="Filmes | Faroeste",Bravura Indomita (1969)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/45764.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Breaking (2022)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcktiZ2J6SmJWTTdNTGpON0V3ZE8xUWNJWEN6LmpwZw==.jpg" group-title="Filmes | Suspense ",Breaking (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Breaking (2022)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcktiZ2J6SmJWTTdNTGpON0V3ZE8xUWNJWEN6LmpwZw==.jpg" group-title="Filmes | Suspense ",Breaking (2022)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/126862.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad: El Camino" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvODRNMUFoWkk2azFaaEh0WnRwSmFDWmZmazFELmpwZw==.jpg" group-title="Filmes | Drama",Breaking Bad: El Camino
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad: El Camino" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvODRNMUFoWkk2azFaaEh0WnRwSmFDWmZmazFELmpwZw==.jpg" group-title="Filmes | Drama",Breaking Bad: El Camino
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21793.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Breve Miragem de Sol" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOHU5RFM5Z1ZjZFhJNHp5Vkk0QkJva2pERHBNLmpwZw==.jpg" group-title="Filmes | Drama",Breve Miragem de Sol
