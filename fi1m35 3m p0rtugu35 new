@@ -3720,59 +3720,41 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/83003.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21631.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cine Holliudy 2: A Chibata Sideral (2019)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcTBGNzNqc05RTkFyMjgyNUpSejkwU0ZDMThzLmpwZw==.jpg" group-title="Filmes | Nacionais",Cine Holliudy 2: A Chibata Sideral (2019)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21632.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pesadelo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY1JVdlh1bUhYdEtxSnVjOXVQWE9rWWpJQU1MLmpwZw==.jpg" group-title="Filmes | Terror",Cine Pesadelo
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pesadelo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvY1JVdlh1bUhYdEtxSnVjOXVQWE9rWWpJQU1MLmpwZw==.jpg" group-title="Filmes | Terror",Cine Pesadelo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/4968.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Novo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdEtQcUFnNDg2dHBqdDBGbFBvRFJEem84NVRuLmpwZw==.jpg" group-title="Filmes | Documentarios",Cinema Novo
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Novo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdEtQcUFnNDg2dHBqdDBGbFBvRFJEem84NVRuLmpwZw==.jpg" group-title="Filmes | Documentarios",Cinema Novo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/39268.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Cinza" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdDRrUjZINzFhbk9WODVxempPTGxyOXVWZEZKLmpwZw==.jpg" group-title="Filmes | Romance",Cinquenta Tons de Cinza
+#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Cinza" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdDRrUjZINzFhbk9WODVxempPTGxyOXVWZEZKLmpwZw==.jpg" group-title="Filmes | Romance",Cinquenta Tons de Cinza
 http://cdnrobot.info:2052/movie/md301a/abc123ad/10009.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinturao Vermelho" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcVpmNVpPNjR2UDVsZG9vTXFSYkc5TjN4MXRzLmpwZw==.jpg" group-title="Filmes | Drama",Cinturao Vermelho
+#EXTINF:-1 tvg-id="" tvg-name="Cinturao Vermelho" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcVpmNVpPNjR2UDVsZG9vTXFSYkc5TjN4MXRzLmpwZw==.jpg" group-title="Filmes | Drama",Cinturao Vermelho
 http://cdnrobot.info:2052/movie/md301a/abc123ad/81412.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinzas da Guerra" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMVp3eWFsVW5TZlo3dWpnazZOWTRGME5NdlZMLmpwZw==.jpg" group-title="Filmes | Guerra",Cinzas da Guerra
+#EXTINF:-1 tvg-id="" tvg-name="Cinzas da Guerra" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvMVp3eWFsVW5TZlo3dWpnazZOWTRGME5NdlZMLmpwZw==.jpg" group-title="Filmes | Guerra",Cinzas da Guerra
 http://cdnrobot.info:2052/movie/md301a/abc123ad/147709.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Circulo de Fogo" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOFRtUEpsSWR0d0VIVGl2VUZ6Q1lrWFNaMTJqLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Circulo de Fogo
+#EXTINF:-1 tvg-id="" tvg-name="Circulo de Fogo" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvOFRtUEpsSWR0d0VIVGl2VUZ6Q1lrWFNaMTJqLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Circulo de Fogo
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21736.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Circulo de Fogo: A Revolta" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcUlXTTB3Z2ttVWxyRW5ZWWtaNzNFZE5MMGFYLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Circulo de Fogo: A Revolta
+#EXTINF:-1 tvg-id="" tvg-name="Circulo de Fogo: A Revolta" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcUlXTTB3Z2ttVWxyRW5ZWWtaNzNFZE5MMGFYLmpwZw==.jpg" group-title="Filmes | Ficcao Cientifica",Circulo de Fogo: A Revolta
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21737.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Circus Kane O Circo dos Horrores" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZUhWV2Y1QTR2c1NHN2diQ2gwTEdrYXlXWU9NLmpwZw==.jpg" group-title="Filmes | Terror",Circus Kane O Circo dos Horrores
+#EXTINF:-1 tvg-id="" tvg-name="Circus Kane O Circo dos Horrores" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZUhWV2Y1QTR2c1NHN2diQ2gwTEdrYXlXWU9NLmpwZw==.jpg" group-title="Filmes | Terror",Circus Kane O Circo dos Horrores
 http://cdnrobot.info:2052/movie/md301a/abc123ad/140069.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cisne Negro" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZGNqMm5ad1NSRklVbTBRdjFyb0hOa1V0T0VtLmpwZw==.jpg" group-title="Filmes | Drama",Cisne Negro
+#EXTINF:-1 tvg-id="" tvg-name="Cisne Negro" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZGNqMm5ad1NSRklVbTBRdjFyb0hOa1V0T0VtLmpwZw==.jpg" group-title="Filmes | Drama",Cisne Negro
 http://cdnrobot.info:2052/movie/md301a/abc123ad/116842.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="City Hall - Conspiracao no Alto Escalao" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVdvcElQRVprSDhuWkU3VFM0cDQwb2luU01WLmpwZw==.jpg" group-title="Filmes | Drama",City Hall - Conspiracao no Alto Escalao
+#EXTINF:-1 tvg-id="" tvg-name="City Hall - Conspiracao no Alto Escalao" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvYVdvcElQRVprSDhuWkU3VFM0cDQwb2luU01WLmpwZw==.jpg" group-title="Filmes | Drama",City Hall - Conspiracao no Alto Escalao
 http://cdnrobot.info:2052/movie/md301a/abc123ad/53380.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="City Hunter" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcktxbE9xb0pWVWgyOUs5Vjd3U0ZsUlZ1bUFXLmpwZw==.jpg" group-title="Filmes | Acao",City Hunter
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvcktxbE9xb0pWVWgyOUs5Vjd3U0ZsUlZ1bUFXLmpwZw==.jpg" group-title="Filmes | Acao",City Hunter
 http://cdnrobot.info:2052/movie/md301a/abc123ad/140368.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Claw (2021) (L)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jdabkPU69SllGHrkLsbeF5VB05j.jpg" group-title="Filmes | Terror",Claw (2021) (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/42530.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cleopatra (1963)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvekd6Nk4wR2o5TFd2clJyVVRna0dxbXhxcjVzLmpwZw==.jpg" group-title="Filmes | Drama",Cleopatra (1963)
+#EXTINF:-1 tvg-id="" tvg-name="Cleopatra (1963)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvekd6Nk4wR2o5TFd2clJyVVRna0dxbXhxcjVzLmpwZw==.jpg" group-title="Filmes | Drama",Cleopatra (1963)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/72713.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Click (2006)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb0wwazVKQTUzUHlvSFNacUtiM2NOa2h3QkNFLmpwZw==.jpg" group-title="Filmes | Comedia",Click (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Click (2006)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvb0wwazVKQTUzUHlvSFNacUtiM2NOa2h3QkNFLmpwZw==.jpg" group-title="Filmes | Comedia",Click (2006)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/21735.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Clifford o Gigante Cao Vermelho" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZzUxVmVWQUlNN3E5WnFwWlJsUEVxcWhMVGhSLmpwZw==.jpg" group-title="Filmes | Animacao",Clifford o Gigante Cao Vermelho
+#EXTINF:-1 tvg-id="" tvg-name="Clifford o Gigante Cao Vermelho" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZzUxVmVWQUlNN3E5WnFwWlJsUEVxcWhMVGhSLmpwZw==.jpg" group-title="Filmes | Animacao",Clifford o Gigante Cao Vermelho
 http://cdnrobot.info:2052/movie/md301a/abc123ad/50434.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Clonaram Tyrone" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdUxZZFg2NHhKVlpFRlJRSlpRVTRBMnVlTXlCLmpwZw==.jpg" group-title="Filmes | Comedia",Clonaram Tyrone
+#EXTINF:-1 tvg-id="" tvg-name="Clonaram Tyrone" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvdUxZZFg2NHhKVlpFRlJRSlpRVTRBMnVlTXlCLmpwZw==.jpg" group-title="Filmes | Comedia",Clonaram Tyrone
 http://cdnrobot.info:2052/movie/md301a/abc123ad/124057.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Close (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbk9JQlhoZXhnMjM1bEw2UnNWSTZycDhyUWoxLmpwZw==.jpg" group-title="Filmes | Drama",Close (L)
+#EXTINF:-1 tvg-id="" tvg-name="Close (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbk9JQlhoZXhnMjM1bEw2UnNWSTZycDhyUWoxLmpwZw==.jpg" group-title="Filmes | Drama",Close (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/138491.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Close (L)" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbk9JQlhoZXhnMjM1bEw2UnNWSTZycDhyUWoxLmpwZw==.jpg" group-title="Filmes | Drama",Close (L)
+#EXTINF:-1 tvg-id="" tvg-name="Close (L)" tvg-logo="http://cdnrobot.info:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvbk9JQlhoZXhnMjM1bEw2UnNWSTZycDhyUWoxLmpwZw==.jpg" group-title="Filmes | Drama",Close (L)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/148070.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Clouds" tvg-logo="http://srv.maxptv.net:8080/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzYwMF9hbmRfaDkwMF9iZXN0djIvZXVXaVdzSGhQZVNHRnNJTzVBcnpDa0dlc2tHLmpwZw==.jpg" group-title="Filmes | Drama",Clouds
