@@ -180,6 +180,8 @@ http://cdnrobot.info:2052/movie/md301a/abc123ad/203974.mp4
 http://cdnrobot.info:2052/movie/md301a/abc123ad/165537.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fAlMWXHqg6ykes62US7YOBVMc2R.jpg" group-title="Filmes | Lancamentos",Conclave
 http://cdnrobot.info:2052/movie/md301a/abc123ad/198402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/anLwvQ9Ozu2IKnVH9myc83R88SX.jpg" group-title="Filmes | Lancamentos",Confinado (LEG)
+http://cdnrobot.info:2052/movie/md301a/abc123ad/204132.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RTpnKwpn/20250319-003314.jpg" group-title="Filmes | Lancamentos",Consumed (LEG)
 http://cdnrobot.info:2052/movie/md301a/abc123ad/166638.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3X9Al8R7NC5Nat2tALc0flsjvm3.jpg" group-title="Filmes | Lancamentos",Contra-ataque
