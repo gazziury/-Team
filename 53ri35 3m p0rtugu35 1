@@ -4182,7 +4182,536 @@ http://cdnrobot.info:2052/series/md301a/abc123ad/12784.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Como Eu Conheci Sua Mae S09 E24" tvg-logo="http://srv.maxptv.net:8080/images/1d54bd10b304364be87e4eb99ed62413.jpg" group-title="Séries | Amazon",Como Eu Conheci Sua Mae S09 E24
 http://cdnrobot.info:2052/series/md301a/abc123ad/26710.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rSzhjhWxuHChDBOwWxLKBTP1xEL.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/116258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ngYLdOMXLr3AzbnLXAq90enqhVs.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/116259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fdWkMu6K1Y5I4mjvj3KfLFZONoE.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/116260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dT5GQ6cOIp9ra5hKxaMcoL6qeYh.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/116261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pJcuFPBQuqcZyHXENVznQMl8420.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/116262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rSzhjhWxuHChDBOwWxLKBTP1xEL.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/116263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E01" tvg-logo="http://srv.maxptv.net:8080/images/0971790a548c8ffa67f18efe080a2af4.jpg" group-title="Séries | NetFlix",Locke & Key S01 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/12528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E02" tvg-logo="http://srv.maxptv.net:8080/images/8a24c78b6a8039bf27d2426bd1ded76c.jpg" group-title="Séries | NetFlix",Locke & Key S01 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/12529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E03" tvg-logo="http://srv.maxptv.net:8080/images/0cfa1f6d5e95da95c621e1cde0139b83.jpg" group-title="Séries | NetFlix",Locke & Key S01 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/12530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E04" tvg-logo="http://srv.maxptv.net:8080/images/17b35018dc9c72ab098afec90e33ef34.jpg" group-title="Séries | NetFlix",Locke & Key S01 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/12531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E05" tvg-logo="http://srv.maxptv.net:8080/images/a086f10eaa71cdd7ffbe39dd652ddb60.jpg" group-title="Séries | NetFlix",Locke & Key S01 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/12532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E06" tvg-logo="http://srv.maxptv.net:8080/images/0092c2019bd945296dd6393b291388c6.jpg" group-title="Séries | NetFlix",Locke & Key S01 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/12533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E07" tvg-logo="http://srv.maxptv.net:8080/images/234c9f075de8ce2cb86eff8a11b9987f.jpg" group-title="Séries | NetFlix",Locke & Key S01 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/12534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E08" tvg-logo="http://srv.maxptv.net:8080/images/ad5cb479f168c1b147ddbba75001df78.jpg" group-title="Séries | NetFlix",Locke & Key S01 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/12535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E09" tvg-logo="http://srv.maxptv.net:8080/images/fe17a3ef87209fa7910e041a62eee65e.jpg" group-title="Séries | NetFlix",Locke & Key S01 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/12536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S01 E10" tvg-logo="http://srv.maxptv.net:8080/images/41ef3aab9ce0abe7efb3f98a8efe3cb5.jpg" group-title="Séries | NetFlix",Locke & Key S01 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/12537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/XQTE5RmMh4foxCO5DQA8o0YmZB.jpg" group-title="Séries | NetFlix",Locke & Key S02 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/73484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3c2dzU3HeY6SYztCRrLCThsG7fd.jpg" group-title="Séries | NetFlix",Locke & Key S02 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/73485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eDTOGmryRZYvoYhLV1SPEmlvWIM.jpg" group-title="Séries | NetFlix",Locke & Key S02 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/73486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2aczVxEAToSRn93vq1ajxvkhEbu.jpg" group-title="Séries | NetFlix",Locke & Key S02 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/73487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/xX2DpWTf2dgYGGmbfpp2uis525G.jpg" group-title="Séries | NetFlix",Locke & Key S02 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/73488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/shI8xP2jILiwNSeSmtcJzdB76UN.jpg" group-title="Séries | NetFlix",Locke & Key S02 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/73489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/uAhZUK0To4mZpOQ8cHe52QY8JiB.jpg" group-title="Séries | NetFlix",Locke & Key S02 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/73490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/nLaNbD6VlqdyhAJCEex8W7qs6UU.jpg" group-title="Séries | NetFlix",Locke & Key S02 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/73491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/tTNJp4wW2dDvY6dYvY72Fs0PX9F.jpg" group-title="Séries | NetFlix",Locke & Key S02 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/73492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/ms6gsaGcCdOApInjixbTlYR5aWJ.jpg" group-title="Séries | NetFlix",Locke & Key S02 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/73493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/AjEOOvekeNnW4IeVy5eHSCCIm0f.jpg" group-title="Séries | NetFlix",Locke & Key S03 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/73494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/vAZEXfX89iOygYxt8Nb1aH0tw3K.jpg" group-title="Séries | NetFlix",Locke & Key S03 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/73495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yhTNXaPVIL9c5QAyQLVill4Gw3I.jpg" group-title="Séries | NetFlix",Locke & Key S03 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/73496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/13mxdc3RAttkqY6Gzp4N2iETcW4.jpg" group-title="Séries | NetFlix",Locke & Key S03 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/73497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3mSXFpcyQYNNaMpSAX1y5uYl97y.jpg" group-title="Séries | NetFlix",Locke & Key S03 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/73498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/b5eLefpjvlhPGyrusXdpMdwrjaW.jpg" group-title="Séries | NetFlix",Locke & Key S03 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/73499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/nOUrsuENZB7WflqfGj5YpDpwlxJ.jpg" group-title="Séries | NetFlix",Locke & Key S03 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/73500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locke & Key S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/i7sY4sDTaonLWyYOOU2u8xTczJ0.jpg" group-title="Séries | NetFlix",Locke & Key S03 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/73501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E01" tvg-logo="http://srv.maxptv.net:8080/images/d5fdeceb5e3d773e33761f3706217766.jpg" group-title="Séries | Max",Ballers S01 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/10978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E02" tvg-logo="http://srv.maxptv.net:8080/images/5041f5f4843b2ee22dbf602307d5abf8.jpg" group-title="Séries | Max",Ballers S01 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/10979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E03" tvg-logo="http://srv.maxptv.net:8080/images/8b9142f3b0217b62594041580048fc4f.jpg" group-title="Séries | Max",Ballers S01 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/10980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E04" tvg-logo="http://srv.maxptv.net:8080/images/5845d5fe1c6877ed3a2dfd793f8f4da7.jpg" group-title="Séries | Max",Ballers S01 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/10981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E05" tvg-logo="http://srv.maxptv.net:8080/images/7a60ba71a6d2ff9c3762176c9fd4998a.jpg" group-title="Séries | Max",Ballers S01 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/10982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E06" tvg-logo="http://srv.maxptv.net:8080/images/0c628fd6dd55b07c38ce26cdb03c1982.jpg" group-title="Séries | Max",Ballers S01 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/10983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E07" tvg-logo="http://srv.maxptv.net:8080/images/75594d920b54d9b43d6cda22cc15c76e.jpg" group-title="Séries | Max",Ballers S01 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/10984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E08" tvg-logo="http://srv.maxptv.net:8080/images/4aed77ca34a091990a85f9b242c2af62.jpg" group-title="Séries | Max",Ballers S01 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/10985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E09" tvg-logo="http://srv.maxptv.net:8080/images/567538adf663b57b391c81fd70265cf3.jpg" group-title="Séries | Max",Ballers S01 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/10986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E10" tvg-logo="http://srv.maxptv.net:8080/images/65e0bb3daee76c6ec1baebced51e759d.jpg" group-title="Séries | Max",Ballers S01 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/10987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E01" tvg-logo="http://srv.maxptv.net:8080/images/835ec21130fb5bd5cd254a25d30ab3cc.jpg" group-title="Séries | Max",Ballers S02 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/10988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E02" tvg-logo="http://srv.maxptv.net:8080/images/280f23b07a0c7029b27b93e48684e674.jpg" group-title="Séries | Max",Ballers S02 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/10989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E03" tvg-logo="http://srv.maxptv.net:8080/images/59189c576d2e1002131c2f9f54826995.jpg" group-title="Séries | Max",Ballers S02 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/10990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E04" tvg-logo="http://srv.maxptv.net:8080/images/2d64b7c12a96d1a20a476d76da2d3ae6.jpg" group-title="Séries | Max",Ballers S02 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/10991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E05" tvg-logo="http://srv.maxptv.net:8080/images/09bdeeaac088ac8918e5ff055a3213f6.jpg" group-title="Séries | Max",Ballers S02 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/10992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E06" tvg-logo="http://srv.maxptv.net:8080/images/d68c3a8546dbbcd1ed6fdaf4aa76feef.jpg" group-title="Séries | Max",Ballers S02 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/10993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E07" tvg-logo="http://srv.maxptv.net:8080/images/6b24a2cf2bc725ab151e358ba6039952.jpg" group-title="Séries | Max",Ballers S02 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/10994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E08" tvg-logo="http://srv.maxptv.net:8080/images/260aaf8fb6f33d4d1f3cebf0b502f212.jpg" group-title="Séries | Max",Ballers S02 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/10995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E09" tvg-logo="http://srv.maxptv.net:8080/images/1eb1a597aee83c5a5c425c5d0dc86eed.jpg" group-title="Séries | Max",Ballers S02 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/10996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S02 E10" tvg-logo="http://srv.maxptv.net:8080/images/8c1a231edb777e8605528020f9c26f63.jpg" group-title="Séries | Max",Ballers S02 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/10997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E01" tvg-logo="http://srv.maxptv.net:8080/images/2eb093ed6c3b0e7176e972982817f09b.jpg" group-title="Séries | Max",Ballers S03 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/10998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E02" tvg-logo="http://srv.maxptv.net:8080/images/75939b544f6e8272f4416c5057180e17.jpg" group-title="Séries | Max",Ballers S03 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/10999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E03" tvg-logo="http://srv.maxptv.net:8080/images/7278570485ae982d91216c1693bcf787.jpg" group-title="Séries | Max",Ballers S03 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/11000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E04" tvg-logo="http://srv.maxptv.net:8080/images/af3baed5edd650da82cc721e05a20a0e.jpg" group-title="Séries | Max",Ballers S03 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/11001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E05" tvg-logo="http://srv.maxptv.net:8080/images/f584b6f262289791b2517c70ab169e51.jpg" group-title="Séries | Max",Ballers S03 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/11002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E06" tvg-logo="http://srv.maxptv.net:8080/images/4a497b351be3113c0d4d7010bf3723da.jpg" group-title="Séries | Max",Ballers S03 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/11003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E07" tvg-logo="http://srv.maxptv.net:8080/images/7133c3f095012a11a9f575308121992e.jpg" group-title="Séries | Max",Ballers S03 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/11004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E08" tvg-logo="http://srv.maxptv.net:8080/images/fc6ccd3afa63e511769d74c9517e6c4a.jpg" group-title="Séries | Max",Ballers S03 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/11005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E09" tvg-logo="http://srv.maxptv.net:8080/images/0984825bc1f3079edc7d2bd22933ccaa.jpg" group-title="Séries | Max",Ballers S03 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/11006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S03 E10" tvg-logo="http://srv.maxptv.net:8080/images/fdf43e219f77669535e173c055bb03eb.jpg" group-title="Séries | Max",Ballers S03 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/11007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E01" tvg-logo="http://srv.maxptv.net:8080/images/32914484fa321c952f754635ac57994d.jpg" group-title="Séries | Max",Ballers S04 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/11008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E02" tvg-logo="http://srv.maxptv.net:8080/images/79b415df613bac1f91ea60d1aac142d3.jpg" group-title="Séries | Max",Ballers S04 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/11009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E03" tvg-logo="http://srv.maxptv.net:8080/images/f012a7ac08d0ec14cca6693c3a22bcfd.jpg" group-title="Séries | Max",Ballers S04 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/11010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E04" tvg-logo="http://srv.maxptv.net:8080/images/0799bd6457660ab2bdc105315f741f3b.jpg" group-title="Séries | Max",Ballers S04 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/11011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E05" tvg-logo="http://srv.maxptv.net:8080/images/84a6d18de2cc5c67996ef164dec3ec78.jpg" group-title="Séries | Max",Ballers S04 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/11012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E06" tvg-logo="http://srv.maxptv.net:8080/images/0bb4beb8ec4a6b9858cd7d218a10b220.jpg" group-title="Séries | Max",Ballers S04 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/11013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E07" tvg-logo="http://srv.maxptv.net:8080/images/056c78aae296b9d91683a0e4a8b72afe.jpg" group-title="Séries | Max",Ballers S04 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/11014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E08" tvg-logo="http://srv.maxptv.net:8080/images/3644d1912fcc1be7d54fbabb2e91288d.jpg" group-title="Séries | Max",Ballers S04 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/11015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S04 E09" tvg-logo="http://srv.maxptv.net:8080/images/e3cd85d2f3e1ee0da8b6e088badba2d3.jpg" group-title="Séries | Max",Ballers S04 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/11016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S05 E01" tvg-logo="http://srv.maxptv.net:8080/images/abc2420f2d427db2545337962cd63016.jpg" group-title="Séries | Max",Ballers S05 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/11017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S05 E02" tvg-logo="http://srv.maxptv.net:8080/images/b08111c46e4c2e143af7c8a214a1397d.jpg" group-title="Séries | Max",Ballers S05 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/11018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S05 E03" tvg-logo="http://srv.maxptv.net:8080/images/c22f95d4827f8b9ee050253f48214a63.jpg" group-title="Séries | Max",Ballers S05 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/11019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S05 E04" tvg-logo="http://srv.maxptv.net:8080/images/6933db36a2606bbd796e4d18beacdf1a.jpg" group-title="Séries | Max",Ballers S05 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/11020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S05 E05" tvg-logo="http://srv.maxptv.net:8080/images/2b767a3edd788defaf536bccb952d4e9.jpg" group-title="Séries | Max",Ballers S05 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/11021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S05 E06" tvg-logo="http://srv.maxptv.net:8080/images/d0da671a7b97c4f29d604bff3aa9c9c2.jpg" group-title="Séries | Max",Ballers S05 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/11022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S05 E07" tvg-logo="http://srv.maxptv.net:8080/images/fbba69bcd59c6e1fd7491c09881381ca.jpg" group-title="Séries | Max",Ballers S05 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/11023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S05 E08" tvg-logo="http://srv.maxptv.net:8080/images/96ede68baa05019268330e7889b779d2.jpg" group-title="Séries | Max",Ballers S05 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/11024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcGl5R3lod2JxcXlJeGN5dVpYWW1EVVdTeWxiLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/188842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdE02MXByaFdod0hORFlBeWJzSEFnUkpiVVprLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/188843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvd1kxb21rS0l1cVpJTGpuaVBzc2JHbGZaME5ZLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/188844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZmxXWVUyNXh5M0tNNVh4aWhyRFYwY0d2c2NwLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/188845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcWcyQThnY0JwdWhFVTdNM1pQeG1SSEdzNW1YLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/188846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvejhBbFdXdDJjT2NaTnFvbmwwVTFCU1R6WldiLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/188847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYW9Dd2ljdU9QdTlOa2R3cXNOeTR0NEpGRXMyLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/188848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZmFyQjdwMnVVMVNkRkhiSExPdk94TUZyZHJBLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/188849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvQWtYUFNxR3FMbDY1NkZKS1BBTlV4ZU84cmp0LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/188850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbWhmUUI1WUIxZkxZR3BlNDk1TWVZUVYyd1FQLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/188851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcXhjc0g4OURNWDlPVk9hOUdBNkcyUGtRNUhnLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/188852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYTFyNEo4TlFhTksyNFdNSlNnQ1drUHlDdnVhLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/188853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvMkRYcjhWb0lwREpjell1R1htSkliUk1LeDF3LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/188854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E14" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcFM1TzJWbzA2OVM3MjN5UGtaNnVqUWlhT2VkLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E14
+http://cdnrobot.info:2052/series/md301a/abc123ad/188855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E15" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvM2Vjd0tMdW5WdjJzOEtGQzltdDhOWmU1alM2LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E15
+http://cdnrobot.info:2052/series/md301a/abc123ad/188856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E16" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYWtMZUpRamxFN0E0TWFQaE9VN2ltOFFIU3JLLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E16
+http://cdnrobot.info:2052/series/md301a/abc123ad/188857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E17" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYTRPYXlUZnpvZ0V6SWM3MnNLNGhCY1ZhRnJDLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E17
+http://cdnrobot.info:2052/series/md301a/abc123ad/188858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E18" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdlUxRnBObXFpSEwzVGpvdHQxdzl5dnZWaEIzLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E18
+http://cdnrobot.info:2052/series/md301a/abc123ad/188859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E19" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdFFMaGR1cWk0dkZzQ3FYVzloWkdWc0k1RDNLLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E19
+http://cdnrobot.info:2052/series/md301a/abc123ad/188860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E20" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYklydjBGUGxLNDBJZTdDRUZCQzhGZEVReGFBLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E20
+http://cdnrobot.info:2052/series/md301a/abc123ad/188861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E21" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvM0VRME1hUlVrdDBHeFpQOEx6aDVQbzRmeGFkLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E21
+http://cdnrobot.info:2052/series/md301a/abc123ad/188862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E22" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZHVVUnY3RjFQT1IyT0toOFRnVnBTR3Z2aG9OLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S01 E22
+http://cdnrobot.info:2052/series/md301a/abc123ad/188863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E23" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYWVwQkJyZVl2VHdzYUd1cU95Z0Jnc1lzNG4uanBn.jpg" group-title="Séries | NetFlix",The Flash S01 E23
+http://cdnrobot.info:2052/series/md301a/abc123ad/188864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNUI0M0dPMDl2WWdZMHZsYmFoRGFreWp2cUYzLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/188865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcVBaRXlSQ2R0cHhUNTdIajB6Z2dpMnFDYW1sLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/188866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvY1VsSk9YTGwyTnFuY0tudGY3Rzc2ckg3aXlULmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/188867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvN213bXhJYng0WkZXYmg2TFY1d3hMOVNad08uanBn.jpg" group-title="Séries | NetFlix",The Flash S02 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/188868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvY1pVc3M3aktzUTRjYUdTV1FIV3lJSE5YN3ZZLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/188869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNUtWNjdxY1BWM214TVNZOGZsblRiZENXaVd0LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/188870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvY3YyeGx0T2hSYVlNaGxsYkUyYjhPbFdBU2JsLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/188871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZXhOMnlKRzRCV0dDYXV2a01rSVJpd084bGNlLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/188872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvaGg3WUM3aGk2N2VNV2NiV2MwNUtpckNvOTE3LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/188873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdTJyQ1R6d0RmNmVQZlowa0JJd1Rtck5sNXJLLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/188874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZ3BqT1dteGx6N1B6aHJNNjVUd085ZEtzd2xLLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/188875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvd3dtbWhyYlo0SkVjdE5lWGROM29hclFVcFhBLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/188876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvc2RJVTRrbkY1UWsyaHhUWGxLdEUwYWVDNzc5LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/188877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E14" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvY3dna3hlNGwydGI4Q05DYW5jUlptUFJURWF6LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E14
+http://cdnrobot.info:2052/series/md301a/abc123ad/188878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E15" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcFpwQkFCVUYxckpBbGx4RXNVT3RBRUNaTVZwLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E15
+http://cdnrobot.info:2052/series/md301a/abc123ad/188879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E16" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvOHFiTVVCSFRtaFhSTXdWZ1NkaWtydlJoR2pwLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E16
+http://cdnrobot.info:2052/series/md301a/abc123ad/188880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E17" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvemM4ck1TaDhFUVd5OWJITnN5UFk2aE1Xanp4LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E17
+http://cdnrobot.info:2052/series/md301a/abc123ad/188881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E18" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZFVxajNNMlpzek1TZjN6RGZmYUFyRFlmV0NLLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E18
+http://cdnrobot.info:2052/series/md301a/abc123ad/188882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E19" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYW5SelJ4OUc1MURwd09tdXloSUozTldpYm9GLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E19
+http://cdnrobot.info:2052/series/md301a/abc123ad/188883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E20" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYU5rMTZINjhtMHlQQ0NsYUZpajNUbkRDSFNtLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E20
+http://cdnrobot.info:2052/series/md301a/abc123ad/188884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E21" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcnh1WUNMWGdaVUVzYnNVWEFkaGRzeXhPM2JuLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E21
+http://cdnrobot.info:2052/series/md301a/abc123ad/188885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E22" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvOE81d2pLWEZ3RmRxRmtDaFh1UUwyRzVBQ2tWLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E22
+http://cdnrobot.info:2052/series/md301a/abc123ad/188886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E23" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcWZCUVNGV01vcXV0dXl0bkt2T3FURHV2RjN3LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S02 E23
+http://cdnrobot.info:2052/series/md301a/abc123ad/188887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbGRyT1Jka2w2dDhIZnJNMWhvSkZXRHdpVDhBLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/188888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbE4yUnpheTQxeGNoM1ZDWDVxVXl0SloyclF1LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/188889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvendUd1lteVdxQ2txMnY4UWlpYXRoVU5vNExGLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/188890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvem4wNzlHRUdGR0tjUng5MzRyNmZnYnJBeGxpLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/188891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvclNXMlNuenl1aVlDaDI5ZElweEFTM0JublpkLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/188892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNGk4cVljUG9yV3FxdXNrV0pMMTFXSDZkeVZOLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/188893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYjBmSEhVZ1pWYUREQWtibmVRNmFrSEZSakxqLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/188894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvaTlrSjFSRnlxNUh2cUtWVHZLdk9yODRQNXBXLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/188895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZ2VCb3J3SlJzUW80cm5JeGlPb0ZUSlBwV2lzLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/188896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvMm01WXkwVDJNeU04Qnpic1NtZE5Fek43T3A2LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/188897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYTYwV1JSTXRacTk2NEZnRWVmRTV1cG5ralFjLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/188898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvd0NFNVBUY25MR0JIR0V5NW9WVnQzdDlrNTlkLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/188899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNEdoNnBUcUVKMFkyMjR2QWw5bEpsZ3psbndELmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/188900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E14" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbWx3UmtCUm1KYlZ3ZlR1cEk5N2lmMzRKN3p6LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E14
+http://cdnrobot.info:2052/series/md301a/abc123ad/188901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E15" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdnIzcWJKdWR5NlE0Y3prdU5FTFZyOGxPcDlWLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E15
+http://cdnrobot.info:2052/series/md301a/abc123ad/188902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E16" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveDlNQlpPUHNpMWlmN2x4ZnFTenJSV05HQ2Q4LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E16
+http://cdnrobot.info:2052/series/md301a/abc123ad/188903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E17" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvOHdQUTVBcEp3UGRJSWN4VTd6Z29Sa1AyOEpJLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E17
+http://cdnrobot.info:2052/series/md301a/abc123ad/188904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E18" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdXNuRlRpTE12OGJtYkVOeFR3U2xCZFV5U09lLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E18
+http://cdnrobot.info:2052/series/md301a/abc123ad/188905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E19" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvd01iVXJwVWt3NUdodmY2N25BZkczR1R5d0paLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E19
+http://cdnrobot.info:2052/series/md301a/abc123ad/188906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E20" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvak1jMlVxS25RQ2JnMlk0SEMyem85bFZua1hNLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E20
+http://cdnrobot.info:2052/series/md301a/abc123ad/188907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E21" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZ2twM0YzaGhzQXgyNFdFMDl4NTZuZkNuUUEyLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E21
+http://cdnrobot.info:2052/series/md301a/abc123ad/188908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E22" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbm9RR2w3VWVkTkFwRnZBSWJwRHBpeElKVzRnLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E22
+http://cdnrobot.info:2052/series/md301a/abc123ad/188909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E23" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvalpWcDY1VGxYSllEdkw2d1ZIR2prdWxiUmdQLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S03 E23
+http://cdnrobot.info:2052/series/md301a/abc123ad/188910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbHpOSEkyMjRGcWpyMnlhd0RwZGZ4RmJCbU5KLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/188911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYUpPTEpCOXJVRXVRNUQ1eVFWQzRabldIbWlsLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/188912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcTJpc1JvOEI5eWoycjBycUEydHB0SFMxWjBVLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/188913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvSEZyMXprT1J2S3pZT0tFYUtka21GMUdLbmEuanBn.jpg" group-title="Séries | NetFlix",The Flash S04 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/188914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdmg1MGZWQVRIV25qMGp6R3lYSnVtakVDblVlLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/188915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvaUp1TkRZbTRubjVQaWc3bHBKU3U0YzFkbkVDLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/188916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveTFubzJiRVJ6MXNVajBxSVhYQTBHbE5xTVk3LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/188917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvd3JYYlpFZVlWeTUzbHhhQWRDY3FDU1QzN1UuanBn.jpg" group-title="Séries | NetFlix",The Flash S04 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/188918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbHlqZHpVN2Z2eE05SEdoU2w3RVFreE56cmtZLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/188919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvak8xV1ZSU2o2bnpCdm1qRWgwekVMelJpWjlDLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/188920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbEgwNjhTNWR0MXB6c1FENXdWYWIxU1ZKRUV6LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/188921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvY1RpdlJoQ0VFYTJYeHFSTkNoeE1hWERtUTNMLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/188922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNmNUOVE0Sk14QkRlRzdLTkN6MldmanhPNHJELmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/188923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E14" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvY1RmenFWR2FMenFGUkZoOVEzRmJmMncxWGEzLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E14
+http://cdnrobot.info:2052/series/md301a/abc123ad/188924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E15" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvaHVTVFdXVGdrdkVyTTJqYkI3OTJ3cURqN1JHLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E15
+http://cdnrobot.info:2052/series/md301a/abc123ad/188925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E16" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvd1R5ZjB1NWFhYTZ5SVZaeDJPZGhxRzRIRmlvLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E16
+http://cdnrobot.info:2052/series/md301a/abc123ad/188926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E17" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZFpkNVpPZ0lSMnVCUHNSQzdES0x6b0Y3bkpvLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E17
+http://cdnrobot.info:2052/series/md301a/abc123ad/188927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E18" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvb01RWFZYbjlwVEx1eXZ2S1ltb0lGOTRnMnhQLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E18
+http://cdnrobot.info:2052/series/md301a/abc123ad/188928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E19" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbThrYlBINXc5cFBOTkR1d3RnTlVQZDl5YVdSLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E19
+http://cdnrobot.info:2052/series/md301a/abc123ad/188929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E20" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvN1R2THJINmh5aG9MUkZXS1VwbW15dEJTZzZRLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E20
+http://cdnrobot.info:2052/series/md301a/abc123ad/188930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E21" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYkltY2g5YUVxdUZ2M2pvMGJkS2dQU0pkS0ZpLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E21
+http://cdnrobot.info:2052/series/md301a/abc123ad/188931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E22" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdWcyb1ZIMFdoa3RDYnFET005NlhXTjhpOHJjLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E22
+http://cdnrobot.info:2052/series/md301a/abc123ad/188932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E23" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvMXlHUkZkY3plWWo3TGhWTlk4S0VWUXJTdUZMLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S04 E23
+http://cdnrobot.info:2052/series/md301a/abc123ad/188933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvejdWTTdFZmhQZUZWUjVzZ3JkWU5ONHBnbWloLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/188934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbU10cFV3SWVKeUw0SzRtZGx0SHBEd01udnY2LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/188935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdFc0SFNUWmZuU0Z6Z20xNnQwUHZFQjdkYVhQLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/188936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbVdiUndzdEJlTndqWHRlTmY0bHlkc0NObFJzLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/188937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNnZOS1BGN211MHpXTXl4cmRlcHk5b3RZdWhwLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/188938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNjdzRXd5ZkJ5U1J2b1MyVFRLeElyM1JqNFo0LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/188939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZDVUUklWNng3cDRTTWRGZlNqQWM4TGJpSTF3LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/188940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcG5uTHZKZDVCN29IVnVWRFVGMnhHbjNkenNuLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/188941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvOXpLRDM3YWtHVEJJWkdQbFFzYktSQU44ZVJlLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/188942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYXhTMmw3b1R1MG5xeDBsZElZMTRQbHdhZWJyLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/188943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvenc4cFplSlJNV1RNV2NtaHhaQktXdVNoYzVyLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/188944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvanhkNk94NXBmWHluanRZbHpZS1ZSUHBEQXNRLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/188945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvaEtNYVI2c3g4WEFSZE1ab2hmMGVlRjFHUkdZLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/188946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E14" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcEtRcmllZWRiaG91VFpvOXUyRkVmQ0psYUJnLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E14
+http://cdnrobot.info:2052/series/md301a/abc123ad/188947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E15" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZ3Vxb2JYVUpleElaZ0RwaUh4eWZnYktPb3V4LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E15
+http://cdnrobot.info:2052/series/md301a/abc123ad/188948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E16" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvMTk1Wmp4SDg4WWFvR1JLa21Wb1NJbG02eERpLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E16
+http://cdnrobot.info:2052/series/md301a/abc123ad/188949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E17" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAva3dWaGU1RHV2eTkyQ3JSSDJ0U3BZTnhEZ3dJLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E17
+http://cdnrobot.info:2052/series/md301a/abc123ad/188950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E18" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvM3BoS0hBdGl1cTh3WEZLYkZ1SHJkcWpHbHpmLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E18
+http://cdnrobot.info:2052/series/md301a/abc123ad/188951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E19" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZktrczJ0VGNVMjNxOUo2ODZTN0F3NXpuVVdRLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E19
+http://cdnrobot.info:2052/series/md301a/abc123ad/188952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E20" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvOE1yd1p6dGJ1T2JNdVQ0eGd6M2xtZEdsSzFTLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E20
+http://cdnrobot.info:2052/series/md301a/abc123ad/188953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E21" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZWFLMlZjbjNYc25MNjB5T291S256TWVOaU91LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E21
+http://cdnrobot.info:2052/series/md301a/abc123ad/188954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E22" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveExGTG5RblpwOFc5RngzRTNibWZJZVBMaHlELmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S05 E22
+http://cdnrobot.info:2052/series/md301a/abc123ad/188955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdEZtbGRhbERuSWgwVFg1QWhuckoxMUVDQWE0LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/188956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveXlLd1ZtUk5FTllMYTNaM2FuZ2hQMDRNUnJDLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/188957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcjlZbzdoMnpJMEd4SFA5MkFraGRRcnl6RnJBLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/188958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvR3FPbHlhODA0b0ZXSWlMMTJpV21nNEFSMEkuanBn.jpg" group-title="Séries | NetFlix",The Flash S06 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/188959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvaWFYMklOMEdDMFBQdHpwd1dqRUpnT3VYSWZULmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/188960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvb3g2bEI5bTJZTm8xRnA4RnVPY1BoVU1BbTI3LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/188961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcUtBcE5XNmM3Z0FKcUkyMURrbzJnVlNzejJmLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/188962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdWMzNlIzejIyZlc3U3NsTkhqODg4Q3JrSkU5LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/188963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvMThhajZWT2Q4ZDd4VG9SNHVDRms1RVgxcUVCLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/188964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZk5yU0NWOFI5ak1ZMEw4QXdEVkZEYnpDYnFrLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/188965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYVJxY3p1VzdsdnFOaDhzZjNlWDkwUHlzZ0xrLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/188966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveTY4MUVzdTNvZDlsaWpVa2V1b01TQzZhZlFmLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/188967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbUJZcVJVMk1laUE3cmRhU2lEdm9XUW5SbFo4LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/188968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E14" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvalBMdHRHd0JGbWtra2pOS3FiR2hON08xdFo0LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E14
+http://cdnrobot.info:2052/series/md301a/abc123ad/188969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E15" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdGhlVTBwNzNQZ3VaY2t4NHNGTmJQVzlzaFNyLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E15
+http://cdnrobot.info:2052/series/md301a/abc123ad/188970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E16" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZmJ3b1FTTjkxaUFxaDQ5TjZwWWY0dnBBTTQyLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E16
+http://cdnrobot.info:2052/series/md301a/abc123ad/188971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E17" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdlN4eU1yUkZ0MFdjdFhvQjl1WWEwUnFIODlGLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E17
+http://cdnrobot.info:2052/series/md301a/abc123ad/188972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E18" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYVV1cUppbzE2YlZhblJkNG45TDNvMHNPaEFBLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E18
+http://cdnrobot.info:2052/series/md301a/abc123ad/188973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E19" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcUZGalFIZUhsMVluNUM0bVY1dFp1Y2VERkdILmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S06 E19
+http://cdnrobot.info:2052/series/md301a/abc123ad/188974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNDhpWjN0Rm43cnpRa3pzVmhrcnltZ3BLQkVDLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/188975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbER3RlBRcXZRMmNzQlV1OE9saWZDVGJXb2pXLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/188976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAva1Z5NXZiRDVoeGxKbnhZWUNDRW9IVlkyOFVGLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/188977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvMThDMmR6UXJGNTdOWjRxUllVakVSWG03OFNwLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/188978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbElOMVZMTkVBd2RMcEdFbVV1cUhBWkcwV1NDLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/188979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcHN5NWRCejFWV1VvblJLdzVMN2dxdk1hajFILmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/188980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNWtENmZSTG9yeDBkUGR2Z3M3djJpNDVaUHZwLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/188981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbkhLVThTWTJYMW1idW9wQXBUWnk3WFJaVzZMLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/188982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvOTF4N3JMTDlBdlpQdFlHSG01RU56Tlpjb3hCLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/188983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveTN3SVJwVE5ZVnFlTzF5WlcwVW00anRYbUtLLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/188984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvalZlSTJLN0NKM2xPNzZWUDl4SXpBSlFjdmdULmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/188985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZlhBY0Y5SmZlTms0bmdSSklia2k0d0laVmUuanBn.jpg" group-title="Séries | NetFlix",The Flash S07 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/188986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdDJka054cDBYWGpaelA3VWF3Y2pjZFZXRWFmLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/188987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E14" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvaXJ6TFdyYjhlQjdMYzJRSkp2cjZBUXpmWHlnLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E14
+http://cdnrobot.info:2052/series/md301a/abc123ad/188988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E15" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvM1FOakNoTjlNMWRiNVZpTGY3YXBWczBDbzkuanBn.jpg" group-title="Séries | NetFlix",The Flash S07 E15
+http://cdnrobot.info:2052/series/md301a/abc123ad/188989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E16" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAva0M2ZHNCcEh2ZHFnSWQwam5aVXQ3WTA1amRjLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E16
+http://cdnrobot.info:2052/series/md301a/abc123ad/188990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E17" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcFZOcWJCOFRjdm9KZmNMUE54MGlFZmJaNllELmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E17
+http://cdnrobot.info:2052/series/md301a/abc123ad/188991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E18" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvQWR0MThXSFNwWWtHbzJQWHhQRVdVdG4wNjNLLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S07 E18
+http://cdnrobot.info:2052/series/md301a/abc123ad/188992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYnR4b3ExUkdwY25FQm1xQXJhNXlGVTYzVkNTLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/188993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcEtVeWRYalNNVkxrbGN3RnR2YnlaYmd4RjY0LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/188994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveHJnSzRlZnRZNWsyazN3aGRXa1VZaDlGZzVzLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/188995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvclBRdG1yWU1BVDNiU3A5Uk8yQ25rTWJGRUl1LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/188996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvYTYwUHNSb2JGOVVwYTdzTTVSVjJpVXlzNTRqLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/188997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveHhhYjUxMW5LQmZOMUJ0cEREM2laWjI3UUZXLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/188998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvb250OXdkOUlqSHkzSlowTWpNTlBNbzhKdzJHLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/188999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvenl6Y1FDeUNWN0JWM2M2ZGEzMWRyUmZST2Y4LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/189000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvamlheWxjN1daV3lReTlCNkYwcWNNeDVVTWk4LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/189001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdXFJNEpsSWdIQ04zNThXUjdhT0lkOXd6SmFMLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/189002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdlE0Mk41dkFZb3BRNDh3N2RuWUdkRWwxQnZwLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/189003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcG9TR3NxWXl6Vno2WUE1ejRGb2U1N2JWb0lhLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/189004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbnY2Z1B1TDdBZkNMcGNIcEI4YWZlaUFKcU1LLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/189005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E14" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvallrek5CWVJ2WUh2ekk3dnlFOW9wTzlYWVA2LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E14
+http://cdnrobot.info:2052/series/md301a/abc123ad/189006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E15" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZmN5YXVKSnBLTmhzcjFhY1RENWd2VWZGRkRlLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E15
+http://cdnrobot.info:2052/series/md301a/abc123ad/189007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E16" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvb0sza2c4Q1BsODVWV1pYanZ4Nk5XZzc0Vk5pLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E16
+http://cdnrobot.info:2052/series/md301a/abc123ad/189008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E17" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZDZFV3BOdGFPTW5WYnhPbldpUmlFcEMxa2Z0LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E17
+http://cdnrobot.info:2052/series/md301a/abc123ad/189009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E18" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvY3BlTmlqeWdHMnpac1dzOHVoTjdjYzFKc3NaLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E18
+http://cdnrobot.info:2052/series/md301a/abc123ad/189010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E19" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvY1lrZmkzdWNxU2NEYktIMUNESUlmOFBCRWJ5LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E19
+http://cdnrobot.info:2052/series/md301a/abc123ad/189011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E20" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvcFdVOG9MMUt5aW9PR3dNcXc5bnk4cFE5bDF0LmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S08 E20
+http://cdnrobot.info:2052/series/md301a/abc123ad/189012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E01" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNFM0WEF5VTcxZk9xSG5MOTdjQjRLdWVIdXRmLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E01
+http://cdnrobot.info:2052/series/md301a/abc123ad/189013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E02" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvNGxicVFrMklhcEYzOFo4WVl0YlBTZ1FxN1JKLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E02
+http://cdnrobot.info:2052/series/md301a/abc123ad/189014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E03" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvalVsSWN0SUVic2c5MkJKTGd0a2dMcGhKc0pNLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E03
+http://cdnrobot.info:2052/series/md301a/abc123ad/189015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E04" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbG5QVUx2RFgxZGZHZkMyM2ZEZEpqOHpRR01SLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E04
+http://cdnrobot.info:2052/series/md301a/abc123ad/189016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E05" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveDVUVWd2UFlpME9abnNKQUtidlFWb1NqZXVpLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E05
+http://cdnrobot.info:2052/series/md301a/abc123ad/189017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E06" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAveVdaZ2JoQzZIa21xNXdLUGNST0EzVm5WS3pHLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E06
+http://cdnrobot.info:2052/series/md301a/abc123ad/189018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E07" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvN3JzQUZlV1VmdDRxM2VxOWdxWGFaWXpiZVZzLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E07
+http://cdnrobot.info:2052/series/md301a/abc123ad/189019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E08" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvdENKdXRGMWJyVkVSTjc3T1JSM1ZRTnNldjBoLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E08
+http://cdnrobot.info:2052/series/md301a/abc123ad/189020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E09" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvekRQQ3JxS1NTR3BGQlpVcHV2NENWOGJXNndhLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E09
+http://cdnrobot.info:2052/series/md301a/abc123ad/189021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E10" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbmhKTGh6MEp4WE16UDFlbm96dzdYUjNuVzBKLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E10
+http://cdnrobot.info:2052/series/md301a/abc123ad/189022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E11" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvbFBaRk9CcHZ2dnFpNDdKQkFmcmI2WFlwaXlOLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E11
+http://cdnrobot.info:2052/series/md301a/abc123ad/189023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E12" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvakVxS3lhZ3Jzb1Boamh6emU3Y2tCYndUQkFWLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E12
+http://cdnrobot.info:2052/series/md301a/abc123ad/189024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E13" tvg-logo="http://dtvcdn.ddns.net:2052/images/aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzEyODAvZkZCOXcyTnNrcTBpNE1pR1BINnlRaHFEVTRJLmpwZw==.jpg" group-title="Séries | NetFlix",The Flash S09 E13
+http://cdnrobot.info:2052/series/md301a/abc123ad/189025.mp4
 
 
 
