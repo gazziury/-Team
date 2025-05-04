@@ -328,6 +328,40 @@ http://cdnrobot.info:2052/series/md301a/abc123ad/135534.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manifest O Misterio do Voo 828 S04 E20" tvg-logo="https://image.tmdb.org/t/p/original/r2Ym3zajlGSQg6omy3f6EIUxwkX.jpg" group-title="Manifest O Misterio do Voo 828 T4", 20
 http://cdnrobot.info:2052/series/md301a/abc123ad/135535.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 01
+http://cdnrobot.info:2052/series/md301a/abc123ad/19335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 02
+http://cdnrobot.info:2052/series/md301a/abc123ad/19336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 03
+http://cdnrobot.info:2052/series/md301a/abc123ad/19337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 04
+http://cdnrobot.info:2052/series/md301a/abc123ad/19338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 05
+http://cdnrobot.info:2052/series/md301a/abc123ad/19339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 06
+http://cdnrobot.info:2052/series/md301a/abc123ad/19340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 07
+http://cdnrobot.info:2052/series/md301a/abc123ad/19341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 08
+http://cdnrobot.info:2052/series/md301a/abc123ad/19342.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 01
+http://cdnrobot.info:2052/series/md301a/abc123ad/19343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 02
+http://cdnrobot.info:2052/series/md301a/abc123ad/21663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 03
+http://cdnrobot.info:2052/series/md301a/abc123ad/21664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 04
+http://cdnrobot.info:2052/series/md301a/abc123ad/21665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 05
+http://cdnrobot.info:2052/series/md301a/abc123ad/21666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E06" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 06
+http://cdnrobot.info:2052/series/md301a/abc123ad/21667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E07" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 07
+http://cdnrobot.info:2052/series/md301a/abc123ad/21668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E08" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 08
+http://cdnrobot.info:2052/series/md301a/abc123ad/21669.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E01
 http://cdnrobot.info:2052/series/md301a/abc123ad/2127.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E02
@@ -747,40 +781,6 @@ http://cdnrobot.info:2052/series/md301a/abc123ad/4106.mp4
 http://cdnrobot.info:2052/series/md301a/abc123ad/4107.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Passage S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/frpc6BAqZygU15Az2q4qfclma6j.jpg" group-title="The Passage T1", 10
 http://cdnrobot.info:2052/series/md301a/abc123ad/4108.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="Séries | Amazon",O Pier S01 E01
-http://cdnrobot.info:2052/series/md301a/abc123ad/19335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="Séries | Amazon",O Pier S01 E02
-http://cdnrobot.info:2052/series/md301a/abc123ad/19336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="Séries | Amazon",O Pier S01 E03
-http://cdnrobot.info:2052/series/md301a/abc123ad/19337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="Séries | Amazon",O Pier S01 E04
-http://cdnrobot.info:2052/series/md301a/abc123ad/19338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="Séries | Amazon",O Pier S01 E05
-http://cdnrobot.info:2052/series/md301a/abc123ad/19339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="Séries | Amazon",O Pier S01 E06
-http://cdnrobot.info:2052/series/md301a/abc123ad/19340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="Séries | Amazon",O Pier S01 E07
-http://cdnrobot.info:2052/series/md301a/abc123ad/19341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="Séries | Amazon",O Pier S01 E08
-http://cdnrobot.info:2052/series/md301a/abc123ad/19342.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="Séries | Amazon",O Pier S02 E01
-http://cdnrobot.info:2052/series/md301a/abc123ad/19343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="Séries | Amazon",O Pier S02 E02
-http://cdnrobot.info:2052/series/md301a/abc123ad/21663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="Séries | Amazon",O Pier S02 E03
-http://cdnrobot.info:2052/series/md301a/abc123ad/21664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="Séries | Amazon",O Pier S02 E04
-http://cdnrobot.info:2052/series/md301a/abc123ad/21665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="Séries | Amazon",O Pier S02 E05
-http://cdnrobot.info:2052/series/md301a/abc123ad/21666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E06" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="Séries | Amazon",O Pier S02 E06
-http://cdnrobot.info:2052/series/md301a/abc123ad/21667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E07" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="Séries | Amazon",O Pier S02 E07
-http://cdnrobot.info:2052/series/md301a/abc123ad/21668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E08" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="Séries | Amazon",O Pier S02 E08
-http://cdnrobot.info:2052/series/md301a/abc123ad/21669.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="Séries | NetFlix",O Assassino Confesso S01 E01
 http://cdnrobot.info:2052/series/md301a/abc123ad/4906.mp4
