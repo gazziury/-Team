@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_47.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_46.mkv
-http://series.tuxchannel.mx/series/amar/s_01_e_50.mkv
+http://series.tuxchannel.mx/series/amar/s_01_e_57.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_23.mkv
 
 
@@ -302,6 +302,20 @@ http://series.tuxchannel.mx/series/amar/s_01_e_50.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_50.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 050
 http://series.tuxchannel.mx/series/amar/s_01_e_50.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 051
+http://series.tuxchannel.mx/series/amar/s_01_e_51.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 052
+http://series.tuxchannel.mx/series/amar/s_01_e_52.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 053
+http://series.tuxchannel.mx/series/amar/s_01_e_53.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 054
+http://series.tuxchannel.mx/series/amar/s_01_e_54.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 055
+http://series.tuxchannel.mx/series/amar/s_01_e_55.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 056
+http://series.tuxchannel.mx/series/amar/s_01_e_56.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 057
+http://series.tuxchannel.mx/series/amar/s_01_e_57.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u8TkzDfknYHbx0NEsD8TSzw3M5f.jpg" group-title="Amor amargo",Cap. 001
 http://series.tuxchannel.mx/series/amor_amargo/s_01_e_01.mkv
