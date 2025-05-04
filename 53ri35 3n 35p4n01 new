@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(10).mp4
+
 http://series.tuxchannel.mx/series/severance/s_02_e_02.mkv ...son 10
 
 http://series.tuxchannel.mx/series/the_studio/s_01_e_04.mkv... total 10
@@ -12698,6 +12700,27 @@ http://series.tuxchannel.mx/series/you/s_04_e_03.mkv
 http://series.tuxchannel.mx/series/you/s_04_e_04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7bEYwjUvlJW7GerM8GYmqwl4oS3.jpg" group-title="You T4",Cap. 05
 http://series.tuxchannel.mx/series/you/s_04_e_05.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 01
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(1).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 02
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(2).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 03
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(3).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 04
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(4).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 05
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(5).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 06
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(6).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 07
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(7).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 08
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(8).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 09
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(9).mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eZ0pSkckPZgNVNuozzHZcltOKbW.jpg" group-title="You T5",Cap. 10
+https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(10).mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Your honor: Su señoría T1",TRAILER
 https://archive.org/download/y-0ur-h-0n-0r/Y0ur%20h0n0r.mp4
