@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_40.mkv
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_47.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_42.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_50.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_23.mkv
@@ -7134,6 +7134,20 @@ http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_38.mkv
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_39.mkv
 #EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 40
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_40.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 41
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_41.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 42
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_42.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 43
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_43.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 44
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_44.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 45
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_45.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 46
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_46.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 47
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_47.mkv
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 001
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_01.mkv
