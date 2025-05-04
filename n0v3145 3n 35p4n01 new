@@ -10,7 +10,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_47.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_46.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_57.mkv
-http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_23.mkv
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_30.mkv
 
 
 http://series.tuxchannel.mx/series/regreso_a_las_sabinas/s_01_e_10.mkv
@@ -4610,6 +4610,20 @@ http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_21.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_22.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 023
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 024
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 025
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 026
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 027
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 028
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_28.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 029
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 030
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_30.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/17/13/04/1534035.jpg" group-title="La desalmada",Cap. 01
 http://series.tuxchannel.mx/series/la_desalmada/s_01_e_01.mkv
