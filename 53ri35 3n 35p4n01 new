@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/happy_face/s_01_e_05.mkv ... son 8
+
 http://series.tuxchannel.mx/series/careme/s_01_e_02.mkv ... son 8
 
 http://series.tuxchannel.mx/series/andor/s_02_e_06.mkv ... son 12
@@ -6287,6 +6289,17 @@ http://series.tuxchannel.mx/series/hanna/s_02_e_06.mkv
 http://series.tuxchannel.mx/series/hanna/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/17/10/29/3350749.jpg" group-title="Hanna T2",Cap. 08
 http://series.tuxchannel.mx/series/hanna/s_02_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rs4aHFuxF56SQ20kgzy5CVTWaqX.jpg" group-title="Happy face",Cap. 01
+http://series.tuxchannel.mx/series/happy_face/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rs4aHFuxF56SQ20kgzy5CVTWaqX.jpg" group-title="Happy face",Cap. 02
+http://series.tuxchannel.mx/series/happy_face/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rs4aHFuxF56SQ20kgzy5CVTWaqX.jpg" group-title="Happy face",Cap. 03
+http://series.tuxchannel.mx/series/happy_face/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rs4aHFuxF56SQ20kgzy5CVTWaqX.jpg" group-title="Happy face",Cap. 04
+http://series.tuxchannel.mx/series/happy_face/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rs4aHFuxF56SQ20kgzy5CVTWaqX.jpg" group-title="Happy face",Cap. 05
+http://series.tuxchannel.mx/series/happy_face/s_01_e_05.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Harina",TRAILER
 https://archive.org/download/trailer-h-4r-1n-4/trailer%20H4r1n4.mp4
