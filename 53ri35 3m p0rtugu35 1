@@ -1014,6 +1014,27 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/19341.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/19342.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E09" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5707.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Riverdale S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/djryGEWHRgRjLjPeR6SnnmuoJDr.jpg" group-title="Riverdale T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5434.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Riverdale S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/djryGEWHRgRjLjPeR6SnnmuoJDr.jpg" group-title="Riverdale T1", 02
@@ -1539,26 +1560,6 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/4108.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E01
-http://cdnrobot.info:2052/series/md301a/abc123ad/5698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E02
-http://cdnrobot.info:2052/series/md301a/abc123ad/5699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E03
-http://cdnrobot.info:2052/series/md301a/abc123ad/5700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E04
-http://cdnrobot.info:2052/series/md301a/abc123ad/5701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E05
-http://cdnrobot.info:2052/series/md301a/abc123ad/5702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E06
-http://cdnrobot.info:2052/series/md301a/abc123ad/5703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E07
-http://cdnrobot.info:2052/series/md301a/abc123ad/5704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E08
-http://cdnrobot.info:2052/series/md301a/abc123ad/5705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E09" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E09
-http://cdnrobot.info:2052/series/md301a/abc123ad/5706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Séries | NetFlix",Patrulha Medica S01 E10
-http://cdnrobot.info:2052/series/md301a/abc123ad/5707.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Narcos Mexico S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/aXwMx8OvRFMfI1RmkbJm6Bq1jVg.jpg" group-title="Séries | NetFlix",Narcos Mexico S01 E01
 http://cdnrobot.info:2052/series/md301a/abc123ad/5746.mp4
