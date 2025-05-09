@@ -200,6 +200,13 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/13616.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E12" tvg-logo="https://image.tmdb.org/t/p/original/veDEAb7pXaSNvvPXhwa1PiFlca9.jpg" group-title="Dexter T8", 12
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/13617.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Dracula S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/nCa0qcpQDcFjgXhOEFbwljH57fv.jpg" group-title="Dracula", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dracula S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/nCa0qcpQDcFjgXhOEFbwljH57fv.jpg" group-title="Dracula", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dracula S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/nCa0qcpQDcFjgXhOEFbwljH57fv.jpg" group-title="Dracula", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4990.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Manifest O Misterio do Voo 828 S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Manifest O Misterio do Voo 828 T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/14944.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manifest O Misterio do Voo 828 S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Manifest O Misterio do Voo 828 T1", 02
