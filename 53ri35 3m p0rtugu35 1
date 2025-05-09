@@ -353,6 +353,27 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/135534.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manifest O Misterio do Voo 828 S04 E20" tvg-logo="https://image.tmdb.org/t/p/original/r2Ym3zajlGSQg6omy3f6EIUxwkX.jpg" group-title="Manifest O Misterio do Voo 828 T4", 20
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/135535.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E09" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg" group-title="Messiah", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5008.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/4906.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 02
