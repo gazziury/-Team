@@ -345,421 +345,269 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/19341.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/19342.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 01
-http://principal.maxpainel.net:2052/series/md854a/abc125ad/19343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 02
-http://principal.maxpainel.net:2052/series/md854a/abc125ad/21663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 03
-http://principal.maxpainel.net:2052/series/md854a/abc125ad/21664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 04
-http://principal.maxpainel.net:2052/series/md854a/abc125ad/21665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 05
-http://principal.maxpainel.net:2052/series/md854a/abc125ad/21666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E06" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 06
-http://principal.maxpainel.net:2052/series/md854a/abc125ad/21667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E07" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 07
-http://principal.maxpainel.net:2052/series/md854a/abc125ad/21668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Pier S02 E08" tvg-logo="https://image.tmdb.org/t/p/original/dFuTT1nRzSFknNQuFEvtpb5QZ3O.jpg" group-title="O Pier T2", 08
-http://principal.maxpainel.net:2052/series/md854a/abc125ad/21669.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E01
-http://cdnrobot.info:2052/series/md301a/abc123ad/2127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E02
-http://cdnrobot.info:2052/series/md301a/abc123ad/2128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E03
-http://cdnrobot.info:2052/series/md301a/abc123ad/2129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E04
-http://cdnrobot.info:2052/series/md301a/abc123ad/2130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E05
-http://cdnrobot.info:2052/series/md301a/abc123ad/2131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E06
-http://cdnrobot.info:2052/series/md301a/abc123ad/2132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E07
-http://cdnrobot.info:2052/series/md301a/abc123ad/2133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E08
-http://cdnrobot.info:2052/series/md301a/abc123ad/2134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E09" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E09
-http://cdnrobot.info:2052/series/md301a/abc123ad/2135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E10
-http://cdnrobot.info:2052/series/md301a/abc123ad/2136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E11" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E11
-http://cdnrobot.info:2052/series/md301a/abc123ad/2137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E12" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E12
-http://cdnrobot.info:2052/series/md301a/abc123ad/2138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E13" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E13
-http://cdnrobot.info:2052/series/md301a/abc123ad/2139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E14" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E14
-http://cdnrobot.info:2052/series/md301a/abc123ad/2140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E15" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E15
-http://cdnrobot.info:2052/series/md301a/abc123ad/2141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E16" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E16
-http://cdnrobot.info:2052/series/md301a/abc123ad/2142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E17" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E17
-http://cdnrobot.info:2052/series/md301a/abc123ad/2143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E18" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E18
-http://cdnrobot.info:2052/series/md301a/abc123ad/2144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E19" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E19
-http://cdnrobot.info:2052/series/md301a/abc123ad/2145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E20" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Séries | NetFlix",Supergirl S01 E20
-http://cdnrobot.info:2052/series/md301a/abc123ad/2146.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E01
-http://cdnrobot.info:2052/series/md301a/abc123ad/6148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E02
-http://cdnrobot.info:2052/series/md301a/abc123ad/6144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E03
-http://cdnrobot.info:2052/series/md301a/abc123ad/6149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E04
-http://cdnrobot.info:2052/series/md301a/abc123ad/6150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E05
-http://cdnrobot.info:2052/series/md301a/abc123ad/21142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E06" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E06
-http://cdnrobot.info:2052/series/md301a/abc123ad/6151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E07" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E07
-http://cdnrobot.info:2052/series/md301a/abc123ad/6152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E08" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E08
-http://cdnrobot.info:2052/series/md301a/abc123ad/6153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E09" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E09
-http://cdnrobot.info:2052/series/md301a/abc123ad/6154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E10" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E10
-http://cdnrobot.info:2052/series/md301a/abc123ad/6155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E11" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E11
-http://cdnrobot.info:2052/series/md301a/abc123ad/6156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E12" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E12
-http://cdnrobot.info:2052/series/md301a/abc123ad/6157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E13" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E13
-http://cdnrobot.info:2052/series/md301a/abc123ad/6158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E14" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E14
-http://cdnrobot.info:2052/series/md301a/abc123ad/6145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E15" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E15
-http://cdnrobot.info:2052/series/md301a/abc123ad/6138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E16" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E16
-http://cdnrobot.info:2052/series/md301a/abc123ad/6139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E17" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E17
-http://cdnrobot.info:2052/series/md301a/abc123ad/6140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E18" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E18
-http://cdnrobot.info:2052/series/md301a/abc123ad/6146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E19" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E19
-http://cdnrobot.info:2052/series/md301a/abc123ad/6141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E20" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E20
-http://cdnrobot.info:2052/series/md301a/abc123ad/6147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E21" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E21
-http://cdnrobot.info:2052/series/md301a/abc123ad/6142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E22" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Séries | NetFlix",Supergirl S02 E22
-http://cdnrobot.info:2052/series/md301a/abc123ad/6143.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E01" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E01
-http://cdnrobot.info:2052/series/md301a/abc123ad/21143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E02" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E02
-http://cdnrobot.info:2052/series/md301a/abc123ad/21144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E03" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E03
-http://cdnrobot.info:2052/series/md301a/abc123ad/21145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E04" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E04
-http://cdnrobot.info:2052/series/md301a/abc123ad/21146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E05" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E05
-http://cdnrobot.info:2052/series/md301a/abc123ad/21147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E06" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E06
-http://cdnrobot.info:2052/series/md301a/abc123ad/21148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E07" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E07
-http://cdnrobot.info:2052/series/md301a/abc123ad/21149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E08" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E08
-http://cdnrobot.info:2052/series/md301a/abc123ad/21150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E09" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E09
-http://cdnrobot.info:2052/series/md301a/abc123ad/21151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E10" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E10
-http://cdnrobot.info:2052/series/md301a/abc123ad/21152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E11" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E11
-http://cdnrobot.info:2052/series/md301a/abc123ad/21153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E12" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E12
-http://cdnrobot.info:2052/series/md301a/abc123ad/21154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E13" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E13
-http://cdnrobot.info:2052/series/md301a/abc123ad/21155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E14" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E14
-http://cdnrobot.info:2052/series/md301a/abc123ad/21156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E15" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E15
-http://cdnrobot.info:2052/series/md301a/abc123ad/21157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E16" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E16
-http://cdnrobot.info:2052/series/md301a/abc123ad/21158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E17" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E17
-http://cdnrobot.info:2052/series/md301a/abc123ad/21159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E18" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E18
-http://cdnrobot.info:2052/series/md301a/abc123ad/21160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E19" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E19
-http://cdnrobot.info:2052/series/md301a/abc123ad/21161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E20" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E20
-http://cdnrobot.info:2052/series/md301a/abc123ad/21162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E21" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E21
-http://cdnrobot.info:2052/series/md301a/abc123ad/21163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E22" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E22
-http://cdnrobot.info:2052/series/md301a/abc123ad/21164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E23" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Séries | NetFlix",Supergirl S03 E23
-http://cdnrobot.info:2052/series/md301a/abc123ad/21165.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E01" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Séries | NetFlix",Supergirl S04 E01
-http://cdnrobot.info:2052/series/md301a/abc123ad/21166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E02" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Séries | NetFlix",Supergirl S04 E02
-http://cdnrobot.info:2052/series/md301a/abc123ad/21167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E03" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Séries | NetFlix",Supergirl S04 E03
-http://cdnrobot.info:2052/series/md301a/abc123ad/21168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E04" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Séries | NetFlix",Supergirl S04 E04
-http://cdnrobot.info:2052/series/md301a/abc123ad/21169.mp4
-#EXTINF:-1 tvg-id="" t#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 01
-http://cdnrobot.info:2052/series/md301a/abc123ad/2127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2127.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 02
-http://cdnrobot.info:2052/series/md301a/abc123ad/2128.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2128.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 03
-http://cdnrobot.info:2052/series/md301a/abc123ad/2129.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2129.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 04
-http://cdnrobot.info:2052/series/md301a/abc123ad/2130.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2130.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 05
-http://cdnrobot.info:2052/series/md301a/abc123ad/2131.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2131.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 06
-http://cdnrobot.info:2052/series/md301a/abc123ad/2132.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2132.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 07
-http://cdnrobot.info:2052/series/md301a/abc123ad/2133.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2133.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 08
-http://cdnrobot.info:2052/series/md301a/abc123ad/2134.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2134.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E09" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 09
-http://cdnrobot.info:2052/series/md301a/abc123ad/2135.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2135.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 10
-http://cdnrobot.info:2052/series/md301a/abc123ad/2136.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2136.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E11" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 11
-http://cdnrobot.info:2052/series/md301a/abc123ad/2137.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2137.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E12" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 12
-http://cdnrobot.info:2052/series/md301a/abc123ad/2138.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2138.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E13" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 13
-http://cdnrobot.info:2052/series/md301a/abc123ad/2139.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2139.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E14" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 14
-http://cdnrobot.info:2052/series/md301a/abc123ad/2140.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2140.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E15" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 15
-http://cdnrobot.info:2052/series/md301a/abc123ad/2141.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2141.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E16" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 16
-http://cdnrobot.info:2052/series/md301a/abc123ad/2142.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2142.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E17" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 17
-http://cdnrobot.info:2052/series/md301a/abc123ad/2143.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2143.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E18" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 18
-http://cdnrobot.info:2052/series/md301a/abc123ad/2144.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2144.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E19" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 19
-http://cdnrobot.info:2052/series/md301a/abc123ad/2145.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2145.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E20" tvg-logo="https://image.tmdb.org/t/p/original/oGD9VAyCaNSKPkj7Kg4Jl22PAFW.jpg" group-title="Supergirl T1", 20
-http://cdnrobot.info:2052/series/md301a/abc123ad/2146.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/2146.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 01
-http://cdnrobot.info:2052/series/md301a/abc123ad/6148.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6148.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 02
-http://cdnrobot.info:2052/series/md301a/abc123ad/6144.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6144.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 03
-http://cdnrobot.info:2052/series/md301a/abc123ad/6149.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6149.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 04
-http://cdnrobot.info:2052/series/md301a/abc123ad/6150.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6150.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 05
-http://cdnrobot.info:2052/series/md301a/abc123ad/21142.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21142.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E06" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 06
-http://cdnrobot.info:2052/series/md301a/abc123ad/6151.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6151.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E07" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 07
-http://cdnrobot.info:2052/series/md301a/abc123ad/6152.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6152.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E08" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 08
-http://cdnrobot.info:2052/series/md301a/abc123ad/6153.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6153.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E09" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 09
-http://cdnrobot.info:2052/series/md301a/abc123ad/6154.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6154.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E10" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 10
-http://cdnrobot.info:2052/series/md301a/abc123ad/6155.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6155.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E11" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 11
-http://cdnrobot.info:2052/series/md301a/abc123ad/6156.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6156.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E12" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 12
-http://cdnrobot.info:2052/series/md301a/abc123ad/6157.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6157.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E13" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 13
-http://cdnrobot.info:2052/series/md301a/abc123ad/6158.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6158.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E14" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 14
-http://cdnrobot.info:2052/series/md301a/abc123ad/6145.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6145.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E15" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 15
-http://cdnrobot.info:2052/series/md301a/abc123ad/6138.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6138.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E16" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 16
-http://cdnrobot.info:2052/series/md301a/abc123ad/6139.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6139.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E17" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 17
-http://cdnrobot.info:2052/series/md301a/abc123ad/6140.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6140.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E18" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 18
-http://cdnrobot.info:2052/series/md301a/abc123ad/6146.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E19" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 19
-http://cdnrobot.info:2052/series/md301a/abc123ad/6141.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6141.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E20" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 20
-http://cdnrobot.info:2052/series/md301a/abc123ad/6147.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6147.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E21" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 21
-http://cdnrobot.info:2052/series/md301a/abc123ad/6142.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6142.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E22" tvg-logo="https://image.tmdb.org/t/p/original/r2IU9tvH8mK054GhVlgKvvgHJZh.jpg" group-title="Supergirl T2", 22
-http://cdnrobot.info:2052/series/md301a/abc123ad/6143.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/6143.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E01" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 01
-http://cdnrobot.info:2052/series/md301a/abc123ad/21143.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21143.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E02" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 02
-http://cdnrobot.info:2052/series/md301a/abc123ad/21144.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21144.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E03" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 03
-http://cdnrobot.info:2052/series/md301a/abc123ad/21145.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21145.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E04" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 04
-http://cdnrobot.info:2052/series/md301a/abc123ad/21146.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E05" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 05
-http://cdnrobot.info:2052/series/md301a/abc123ad/21147.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21147.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E06" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 06
-http://cdnrobot.info:2052/series/md301a/abc123ad/21148.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21148.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E07" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 07
-http://cdnrobot.info:2052/series/md301a/abc123ad/21149.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21149.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E08" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 08
-http://cdnrobot.info:2052/series/md301a/abc123ad/21150.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21150.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E09" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 09
-http://cdnrobot.info:2052/series/md301a/abc123ad/21151.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21151.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E10" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 10
-http://cdnrobot.info:2052/series/md301a/abc123ad/21152.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21152.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E11" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 11
-http://cdnrobot.info:2052/series/md301a/abc123ad/21153.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21153.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E12" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 12
-http://cdnrobot.info:2052/series/md301a/abc123ad/21154.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21154.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E13" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 13
-http://cdnrobot.info:2052/series/md301a/abc123ad/21155.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21155.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E14" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 14
-http://cdnrobot.info:2052/series/md301a/abc123ad/21156.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21156.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E15" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 15
-http://cdnrobot.info:2052/series/md301a/abc123ad/21157.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21157.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E16" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 16
-http://cdnrobot.info:2052/series/md301a/abc123ad/21158.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21158.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E17" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 17
-http://cdnrobot.info:2052/series/md301a/abc123ad/21159.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21159.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E18" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 18
-http://cdnrobot.info:2052/series/md301a/abc123ad/21160.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21160.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E19" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 19
-http://cdnrobot.info:2052/series/md301a/abc123ad/21161.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21161.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E20" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 20
-http://cdnrobot.info:2052/series/md301a/abc123ad/21162.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21162.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E21" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 21
-http://cdnrobot.info:2052/series/md301a/abc123ad/21163.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21163.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E22" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 22
-http://cdnrobot.info:2052/series/md301a/abc123ad/21164.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21164.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E23" tvg-logo="https://image.tmdb.org/t/p/original/y1iGe7uojES72QJqgjn7HtmxUoz.jpg" group-title="Supergirl T3", 23
-http://cdnrobot.info:2052/series/md301a/abc123ad/21165.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21165.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E01" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 01
-http://cdnrobot.info:2052/series/md301a/abc123ad/21166.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21166.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E02" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 02
-http://cdnrobot.info:2052/series/md301a/abc123ad/21167.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21167.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E03" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 03
-http://cdnrobot.info:2052/series/md301a/abc123ad/21168.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E04" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 04
-http://cdnrobot.info:2052/series/md301a/abc123ad/21169.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21169.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E05" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 05
-http://cdnrobot.info:2052/series/md301a/abc123ad/21170.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21170.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E06" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 06
-http://cdnrobot.info:2052/series/md301a/abc123ad/21171.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21171.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E07" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 07
-http://cdnrobot.info:2052/series/md301a/abc123ad/21172.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E08" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 08
-http://cdnrobot.info:2052/series/md301a/abc123ad/21173.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21173.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E09" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 09
-http://cdnrobot.info:2052/series/md301a/abc123ad/21174.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21174.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E10" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 10
-http://cdnrobot.info:2052/series/md301a/abc123ad/21175.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21175.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E11" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 11
-http://cdnrobot.info:2052/series/md301a/abc123ad/21176.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21176.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E12" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 12
-http://cdnrobot.info:2052/series/md301a/abc123ad/21177.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21177.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E13" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 13
-http://cdnrobot.info:2052/series/md301a/abc123ad/21178.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21178.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E14" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 14
-http://cdnrobot.info:2052/series/md301a/abc123ad/21179.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21179.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E15" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 15
-http://cdnrobot.info:2052/series/md301a/abc123ad/21180.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21180.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E16" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 16
-http://cdnrobot.info:2052/series/md301a/abc123ad/21181.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21181.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E17" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 17
-http://cdnrobot.info:2052/series/md301a/abc123ad/21182.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21182.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E18" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title=Supergirl T4", 18
-http://cdnrobot.info:2052/series/md301a/abc123ad/21183.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21183.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E19" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 19
-http://cdnrobot.info:2052/series/md301a/abc123ad/21184.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21184.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E20" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 20
-http://cdnrobot.info:2052/series/md301a/abc123ad/21185.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21185.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E21" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 21
-http://cdnrobot.info:2052/series/md301a/abc123ad/21186.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21186.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E22" tvg-logo="https://image.tmdb.org/t/p/original/wa2ptwVWwKofBdIOBRoR19Jm8mR.jpg" group-title="Supergirl T4", 22
-http://cdnrobot.info:2052/series/md301a/abc123ad/21187.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21187.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E01" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 01
-http://cdnrobot.info:2052/series/md301a/abc123ad/21188.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21188.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E02" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 02
-http://cdnrobot.info:2052/series/md301a/abc123ad/21189.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21189.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E03" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 03
-http://cdnrobot.info:2052/series/md301a/abc123ad/21190.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21190.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E04" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 04
-http://cdnrobot.info:2052/series/md301a/abc123ad/21191.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21191.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E05" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 05
-http://cdnrobot.info:2052/series/md301a/abc123ad/21192.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21192.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E06" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 06
-http://cdnrobot.info:2052/series/md301a/abc123ad/21193.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21193.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E07" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 07
-http://cdnrobot.info:2052/series/md301a/abc123ad/21194.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21194.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E08" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 08
-http://cdnrobot.info:2052/series/md301a/abc123ad/21195.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21195.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E09" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 09
-http://cdnrobot.info:2052/series/md301a/abc123ad/21196.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21196.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E10" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 10
-http://cdnrobot.info:2052/series/md301a/abc123ad/21197.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21197.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E11" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 11
-http://cdnrobot.info:2052/series/md301a/abc123ad/21198.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21198.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E12" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 12
-http://cdnrobot.info:2052/series/md301a/abc123ad/21199.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21199.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E13" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 13
-http://cdnrobot.info:2052/series/md301a/abc123ad/21200.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21200.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E14" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 14
-http://cdnrobot.info:2052/series/md301a/abc123ad/21201.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21201.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E15" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 15
-http://cdnrobot.info:2052/series/md301a/abc123ad/21202.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E16" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 16
-http://cdnrobot.info:2052/series/md301a/abc123ad/21203.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21203.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E17" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 17
-http://cdnrobot.info:2052/series/md301a/abc123ad/21204.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21204.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E18" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 18
-http://cdnrobot.info:2052/series/md301a/abc123ad/21205.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21205.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S05 E19" tvg-logo="https://image.tmdb.org/t/p/original/fqkxdqJcyc5geRWtKrOyo66Dzqv.jpg" group-title="Supergirl T5", 19
-http://cdnrobot.info:2052/series/md301a/abc123ad/21206.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21206.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E01" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 01
-http://cdnrobot.info:2052/series/md301a/abc123ad/42017.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/42017.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E02" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 02
-http://cdnrobot.info:2052/series/md301a/abc123ad/42018.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/42018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E03" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 03
-http://cdnrobot.info:2052/series/md301a/abc123ad/42019.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/42019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E04" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 04
-http://cdnrobot.info:2052/series/md301a/abc123ad/42020.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/42020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E05" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 05
-http://cdnrobot.info:2052/series/md301a/abc123ad/42021.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/42021.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E06" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 06
-http://cdnrobot.info:2052/series/md301a/abc123ad/42022.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/42022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E07" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 07
-http://cdnrobot.info:2052/series/md301a/abc123ad/42023.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/42023.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E08" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 08
-http://cdnrobot.info:2052/series/md301a/abc123ad/47962.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47962.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E09" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 09
-http://cdnrobot.info:2052/series/md301a/abc123ad/47963.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47963.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E10" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 10
-http://cdnrobot.info:2052/series/md301a/abc123ad/47964.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47964.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E11" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 11
-http://cdnrobot.info:2052/series/md301a/abc123ad/47965.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47965.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E12" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 12
-http://cdnrobot.info:2052/series/md301a/abc123ad/47966.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47966.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E13" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 13
-http://cdnrobot.info:2052/series/md301a/abc123ad/47967.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47967.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E14" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 14
-http://cdnrobot.info:2052/series/md301a/abc123ad/47968.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47968.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E15" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 15
-http://cdnrobot.info:2052/series/md301a/abc123ad/47969.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47969.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E16" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 16
-http://cdnrobot.info:2052/series/md301a/abc123ad/47970.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/47970.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E17" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 17
-http://cdnrobot.info:2052/series/md301a/abc123ad/48006.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/48006.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E18" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 18
-http://cdnrobot.info:2052/series/md301a/abc123ad/48488.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/48488.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E19" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 19
-http://cdnrobot.info:2052/series/md301a/abc123ad/77177.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/77177.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E20" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 20
-http://cdnrobot.info:2052/series/md301a/abc123ad/77178.mp4
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/77178.mp4
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="The Passage S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/frpc6BAqZygU15Az2q4qfclma6j.jpg" group-title="The Passage T1", 01
 http://cdnrobot.info:2052/series/md301a/abc123ad/4099.mp4
