@@ -1,5 +1,273 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E06" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E09" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E11" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 11
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E12" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 12
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5268.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E01" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E02" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E03" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E04" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E05" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E06" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E07" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E08" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E09" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E10" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E11" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 11
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E12" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 12
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S02 E13" tvg-logo="https://image.tmdb.org/t/p/original/g4M2Gj1D1pTdJC5bADHaqadFvuU.jpg" group-title="American Horror Story T2", 13
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5281.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E01" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E02" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E03" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E04" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E05" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E06" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E07" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E08" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E09" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E10" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E11" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 11
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E12" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 12
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S03 E13" tvg-logo="https://image.tmdb.org/t/p/original/1BJl98sCwzlsr9E29YGL7ped1Tk.jpg" group-title="American Horror Story T3", 13
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5314.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E01" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E02" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E03" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E04" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E05" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E06" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E07" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E08" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E09" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E10" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E11" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 11
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E12" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 12
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S04 E13" tvg-logo="https://image.tmdb.org/t/p/original/4LYbeGAYV4pKiiaNvFl4Wj8bFSE.jpg" group-title="American Horror Story T4", 13
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5327.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E01" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E02" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E03" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E04" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E05" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E06" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E07" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E08" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E09" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E10" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E11" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 11
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S05 E12" tvg-logo="https://image.tmdb.org/t/p/original/bjCQKHlYrmxmUsv8FdnhqzxogeI.jpg" group-title="American Horror Story T5", 12
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5399.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E01" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E02" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E03" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E04" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E05" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E06" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E07" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E08" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E09" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S06 E10" tvg-logo="https://image.tmdb.org/t/p/original/47oZ4lmHzEw7XwYhFsEN6W9vlhh.jpg" group-title="American Horror Story T6", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5409.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E01" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E02" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E03" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E04" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E05" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E06" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E07" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E08" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E09" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E10" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S07 E11" tvg-logo="https://image.tmdb.org/t/p/original/gwSzP1cJL2HsBmGStN2vOg3d4Qd.jpg" group-title="American Horror Story T7", 11
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5552.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E01" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E02" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E03" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E04" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E05" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E06" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E07" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E08" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E09" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S08 E10" tvg-logo="https://image.tmdb.org/t/p/original/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg" group-title="American Horror Story T8", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/5541.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E01" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E02" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E03" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E04" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E05" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E06" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E07" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E08" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S09 E09" tvg-logo="https://image.tmdb.org/t/p/original/oO1OTFlmAI3vzF9jKoBbgqvZUQp.jpg" group-title="American Horror Story T9", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19356.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E01" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E02" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E03" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E04" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E05" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E06" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E07" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E08" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E09" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S10 E10" tvg-logo="https://image.tmdb.org/t/p/original/bIH2VWrLNxG1xjRx32wODGFlpJz.jpg" group-title="American Horror Story T10", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/49073.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E01" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E02" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E03" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E04" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E05" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E06" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E07" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E08" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E09" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S11 E10" tvg-logo="https://image.tmdb.org/t/p/original/gbHD0ySFsSzoQeoE2C46wMa6Dvg.jpg" group-title="American Horror Story T11", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/131280.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S12 E01" tvg-logo="https://image.tmdb.org/t/p/original/3yKzcsxxjawKFWLx16IRR1oSpWm.jpg" group-title="American Horror Story T12", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/135544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S12 E02" tvg-logo="https://image.tmdb.org/t/p/original/3yKzcsxxjawKFWLx16IRR1oSpWm.jpg" group-title="American Horror Story T12", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/135545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S12 E03" tvg-logo="https://image.tmdb.org/t/p/original/3yKzcsxxjawKFWLx16IRR1oSpWm.jpg" group-title="American Horror Story T12", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/135546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S12 E04" tvg-logo="https://image.tmdb.org/t/p/original/3yKzcsxxjawKFWLx16IRR1oSpWm.jpg" group-title="American Horror Story T12", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/135547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story S12 E05" tvg-logo="https://image.tmdb.org/t/p/original/3yKzcsxxjawKFWLx16IRR1oSpWm.jpg" group-title="American Horror Story T12", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/135548.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/pAdZsHyk7ROQqHzzK8QIM8OnR5f.jpg" group-title="Arrow T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5163.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/pAdZsHyk7ROQqHzzK8QIM8OnR5f.jpg" group-title="Arrow T1", 02
