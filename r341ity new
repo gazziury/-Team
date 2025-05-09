@@ -40,125 +40,22 @@ http://tv.nousiptv.com:8080/leogomez/argentina12345/1226122
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",01
-http://pfsv.io:80/ronaldo47/4796146727/259872.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",02 
-http://pfsv.io:80/ronaldo47/4796146727/259873.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",03 
-http://pfsv.io:80/ronaldo47/4796146727/259874.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",04
-http://pfsv.io:80/ronaldo47/4796146727/259875.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",05
-http://pfsv.io:80/ronaldo47/4796146727/259876.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="PFSV 1 - POWER COUPLE (BRASIL)",01
+http://pfsv.io:80/edufelix/glorinha/303183.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="PFSV 1 - POWER COUPLE (BRASIL)",02
+http://pfsv.io:80/edufelix/glorinha/303184.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="PFSV 1 - POWER COUPLE (BRASIL)",03 
+http://pfsv.io:80/edufelix/glorinha/303185.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="PFSV 1 - POWER COUPLE (BRASIL)",04
+http://pfsv.io:80/edufelix/glorinha/303186.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="PFSV 1 - POWER COUPLE (BRASIL)",05
+http://pfsv.io:80/edufelix/glorinha/303182.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",06 
-http://pfsv.io:80/ronaldo47/4796146727/259877.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",07 
-http://pfsv.io:80/ronaldo47/4796146727/259878.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",08
-http://pfsv.io:80/ronaldo47/4796146727/259879.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",09 
-http://pfsv.io:80/ronaldo47/4796146727/259880.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",10 
-http://pfsv.io:80/ronaldo47/4796146727/259881.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 1 - BBB 25 (BRASIL)",11 
-http://pfsv.io:80/ronaldo47/4796146727/259871.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",01
-http://pfsv.io:80/ana1002/ana1002/259872.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",02 
-http://pfsv.io:80/ana1002/ana1002/259873.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",03 
-http://pfsv.io:80/ana1002/ana1002/259874.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",04
-http://pfsv.io:80/ana1002/ana1002/259875.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",05
-http://pfsv.io:80/ana1002/ana1002/259876.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",06 
-http://pfsv.io:80/ana1002/ana1002/259877.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",07 
-http://pfsv.io:80/ana1002/ana1002/259878.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",08
-http://pfsv.io:80/ana1002/ana1002/259879.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",09 
-http://pfsv.io:80/ana1002/ana1002/259880.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",10 
-http://pfsv.io:80/ana1002/ana1002/259881.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 2 - BBB 25 (BRASIL)",11 
-http://pfsv.io:80/ana1002/ana1002/259871.ts
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",01
-http://pfsv.io:80/alexandre01/123456789/259872.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",02 
-http://pfsv.io:80/alexandre01/123456789/259873.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",03 
-http://pfsv.io:80/alexandre01/123456789/259874.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",04
-http://pfsv.io:80/alexandre01/123456789/259875.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",05
-http://pfsv.io:80/alexandre01/123456789/259876.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",06 
-http://pfsv.io:80/alexandre01/123456789/259877.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",07 
-http://pfsv.io:80/alexandre01/123456789/259878.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",08
-http://pfsv.io:80/alexandre01/123456789/259879.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",09 
-http://pfsv.io:80/alexandre01/123456789/259880.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",10 
-http://pfsv.io:80/alexandre01/123456789/259881.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="PFSV 3 - BBB 25 (BRASIL)",11 
-http://pfsv.io:80/alexandre01/123456789/259871.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",01
-http://bpbe.one:80/Matheuskaike02/hP7816/259872.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",02 
-http://bpbe.one:80/Matheuskaike02/hP7816/259873.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",03 
-http://bpbe.one:80/Matheuskaike02/hP7816/259874.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",04
-http://bpbe.one:80/Matheuskaike02/hP7816/259875.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",05
-http://bpbe.one:80/Matheuskaike02/hP7816/259876.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",06 
-http://bpbe.one:80/Matheuskaike02/hP7816/259877.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",07 
-http://bpbe.one:80/Matheuskaike02/hP7816/259878.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",08
-http://bpbe.one:80/Matheuskaike02/hP7816/259879.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",09 
-http://bpbe.one:80/Matheuskaike02/hP7816/259880.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",10 
-http://bpbe.one:80/Matheuskaike02/hP7816/259881.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="BPBE ONE - BBB 25 (BRASIL)",11 
-http://bpbe.one:80/Matheuskaike02/hP7816/259871.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",ACOMPANHE A CASA 1 
-http://cinefull.space:80/125666741/893613340/750207
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",ACOMPANHE A CASA 2
-http://cinefull.space:80/125666741/893613340/227
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",MOSAICO 
-http://cinefull.space:80/125666741/893613340/749458
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",QUARTO ANOS 50
-http://cinefull.space:80/125666741/893613340/224
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",QUARTO NORDESTE 
-http://cinefull.space:80/125666741/893613340/223
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",QUARTO FANTÁSTICO 
-http://cinefull.space:80/125666741/893613340/222
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",BANHEIRO PANTENE 
-http://cinefull.space:80/125666741/893613340/221
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",PISCINA 
-http://cinefull.space:80/125666741/893613340/750210
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",ACADEMIA 
-http://cinefull.space:80/125666741/893613340/750209
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",COZINHA 
-http://cinefull.space:80/125666741/893613340/225
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gv8F8Gnz/Screenshot-20250316-080338-Retouch.jpg" group-title="CINEFULL - BBB 25 (BRASIL)",SALA
-http://cinefull.space:80/125666741/893613340/750208
 
 
 
