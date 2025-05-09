@@ -328,6 +328,17 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/135534.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Manifest O Misterio do Voo 828 S04 E20" tvg-logo="https://image.tmdb.org/t/p/original/r2Ym3zajlGSQg6omy3f6EIUxwkX.jpg" group-title="Manifest O Misterio do Voo 828 T4", 20
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/135535.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/4910.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/19335.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 02
@@ -628,16 +639,7 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/4108.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="Séries | NetFlix",O Assassino Confesso S01 E01
-http://cdnrobot.info:2052/series/md301a/abc123ad/4906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="Séries | NetFlix",O Assassino Confesso S01 E02
-http://cdnrobot.info:2052/series/md301a/abc123ad/4907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E03" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="Séries | NetFlix",O Assassino Confesso S01 E03
-http://cdnrobot.info:2052/series/md301a/abc123ad/4908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E04" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="Séries | NetFlix",O Assassino Confesso S01 E04
-http://cdnrobot.info:2052/series/md301a/abc123ad/4909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="Séries | NetFlix",O Assassino Confesso S01 E05
-http://cdnrobot.info:2052/series/md301a/abc123ad/4910.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Dracula S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/nCa0qcpQDcFjgXhOEFbwljH57fv.jpg" group-title="Séries | NetFlix",Dracula S01 E01
 http://cdnrobot.info:2052/series/md301a/abc123ad/4988.mp4
