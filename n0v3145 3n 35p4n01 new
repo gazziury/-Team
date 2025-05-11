@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_54.mkv
-http://series.tuxchannel.mx/series/la_jefa/s_01_e_46.mkv
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_53.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_57.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_30.mkv
 
@@ -5176,6 +5176,20 @@ http://series.tuxchannel.mx/series/la_jefa/s_01_e_44.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_45.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 045
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_46.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 046
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_47.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 047
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_48.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 048
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_49.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 049
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_50.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 050
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_51.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 051
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_52.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 052
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_53.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 01
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_01.mkv
