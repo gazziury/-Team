@@ -10,8 +10,6 @@ http://series.tuxchannel.mx/series/happy_face/s_01_e_05.mkv ... son 8
 
 http://series.tuxchannel.mx/series/careme/s_01_e_03.mkv ... son 8
 
-http://series.tuxchannel.mx/series/andor/s_02_e_06.mkv ... son 12
-
 https://www.innovatv.store/contenido/SERIES/You/5/LAT/1%20(10).mp4
 
 http://series.tuxchannel.mx/series/severance/s_02_e_02.mkv ...son 10
@@ -580,6 +578,18 @@ http://series.tuxchannel.mx/series/andor/s_02_e_04.mkv
 http://series.tuxchannel.mx/series/andor/s_02_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="Andor T2",Cap. 06
 http://series.tuxchannel.mx/series/andor/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="Andor T2",Cap. 07
+http://series.tuxchannel.mx/series/andor/s_02_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="Andor T2",Cap. 08
+http://series.tuxchannel.mx/series/andor/s_02_e_08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="Andor T2",Cap. 09
+http://series.tuxchannel.mx/series/andor/s_02_e_09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="Andor T2",Cap. 10
+http://series.tuxchannel.mx/series/andor/s_02_e_10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="Andor T2",Cap. 11
+http://series.tuxchannel.mx/series/andor/s_02_e_11.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khZqmwHQicTYoS7Flreb9EddFZC.jpg" group-title="Andor T2",Cap. 12
+http://series.tuxchannel.mx/series/andor/s_02_e_12.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Anne con E T1",TRAILER
 https://archive.org/download/trailer-4nn-3-c-0n-3-1/trailer%204nn3%20c0n%203%201.mp4
