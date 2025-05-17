@@ -7890,6 +7890,23 @@ http://series.tuxchannel.mx/series/the_peripheral/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 08
 http://series.tuxchannel.mx/series/the_peripheral/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jC5aifxheoAVGSxZM629wJV4nqR.jpg" group-title="La realeza",Cap. 01
+http://series.tuxchannel.mx/series/the_royals/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jC5aifxheoAVGSxZM629wJV4nqR.jpg" group-title="La realeza",Cap. 02
+http://series.tuxchannel.mx/series/the_royals/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jC5aifxheoAVGSxZM629wJV4nqR.jpg" group-title="La realeza",Cap. 03
+http://series.tuxchannel.mx/series/the_royals/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jC5aifxheoAVGSxZM629wJV4nqR.jpg" group-title="La realeza",Cap. 04
+http://series.tuxchannel.mx/series/the_royals/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jC5aifxheoAVGSxZM629wJV4nqR.jpg" group-title="La realeza",Cap. 05
+http://series.tuxchannel.mx/series/the_royals/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jC5aifxheoAVGSxZM629wJV4nqR.jpg" group-title="La realeza",Cap. 06
+http://series.tuxchannel.mx/series/the_royals/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jC5aifxheoAVGSxZM629wJV4nqR.jpg" group-title="La realeza",Cap. 07
+http://series.tuxchannel.mx/series/the_royals/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jC5aifxheoAVGSxZM629wJV4nqR.jpg" group-title="La realeza",Cap. 08
+http://series.tuxchannel.mx/series/the_royals/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La rueda del tiempo",TRAILER
 https://archive.org/download/trailer-l-4-ru-3d-4-d-3l-t-13mp-0/trailer%20L4%20Ru3d4%20d3l%20T13mp0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/24/20/57/3405849.jpg" group-title="La rueda del tiempo",Cap. 01
