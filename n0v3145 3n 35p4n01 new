@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_59.mkv
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_64.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_57.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_42.mkv
@@ -7276,6 +7276,16 @@ http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_57.mkv
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_58.mkv
 #EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 58
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_59.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 59
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_60.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 60
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_61.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 61
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_62.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 62
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_63.mkv
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nsg4RGkc/20250304-214129.jpg" group-title="Me atrevo a amarte",Cap. 63
+http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_64.mkv
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EpQnSic.jpeg" group-title="Mi amor sin tiempo",Cap. 001
 http://series.tuxchannel.mx/series/mi_amor_sin_tiempo/s_01_e_01.mkv
