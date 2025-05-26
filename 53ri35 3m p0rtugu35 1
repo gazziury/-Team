@@ -68,10 +68,22 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/82146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/b2i9aaV6ncULl9jYXEoPi7VFJg8.jpg" group-title="30 moedas T1", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/82147.mp4
 
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/139777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/139778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/139779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/139780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/139781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/139782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/139783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/139784.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5257.mp4
