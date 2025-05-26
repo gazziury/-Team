@@ -17,6 +17,18 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/113009.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/cijXhKSeLIJ4tyBlC3VjC5lgG97.jpg" group-title="1923 T1", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/113010.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/gnwmnvYHYxBJ5XVzPNy6vSCwSwe.jpg" group-title="1923 T2", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/197845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/gnwmnvYHYxBJ5XVzPNy6vSCwSwe.jpg" group-title="1923 T2", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/198843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/gnwmnvYHYxBJ5XVzPNy6vSCwSwe.jpg" group-title="1923 T2", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/199816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/gnwmnvYHYxBJ5XVzPNy6vSCwSwe.jpg" group-title="1923 T2", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/200035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/gnwmnvYHYxBJ5XVzPNy6vSCwSwe.jpg" group-title="1923 T2", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/200360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/gnwmnvYHYxBJ5XVzPNy6vSCwSwe.jpg" group-title="1923 T2", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/200955.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5257.mp4
