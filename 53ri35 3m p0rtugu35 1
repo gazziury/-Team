@@ -2275,10 +2275,24 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/77177.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Supergirl S06 E20" tvg-logo="https://image.tmdb.org/t/p/original/cAim4ieV2QmWTtAjZ82eQqlyy1G.jpg" group-title="Supergirl T6", 20
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/77178.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 0
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/84505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/84907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/85685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/86138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/86147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/86249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/104601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/111142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/111976.mp4
 
 
 
