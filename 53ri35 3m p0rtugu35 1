@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/52298.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/cijXhKSeLIJ4tyBlC3VjC5lgG97.jpg" group-title="1923 T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/113003.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1923" tvg-logo="https://image.tmdb.org/t/p/original/cijXhKSeLIJ4tyBlC3VjC5lgG97.jpg" group-title="1923 T1", 02
