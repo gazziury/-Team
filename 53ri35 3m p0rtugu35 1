@@ -85,6 +85,15 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/139783.mp4
 #EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/139784.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Adolescencia" tvg-logo="https://image.tmdb.org/t/p/original/qhPiAZdHG1bmDDNLDtdDfGAT64n.jpg" group-title="Adolescencia", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/199877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adolescencia" tvg-logo="https://image.tmdb.org/t/p/original/qhPiAZdHG1bmDDNLDtdDfGAT64n.jpg" group-title="Adolescencia", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/199878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adolescencia" tvg-logo="https://image.tmdb.org/t/p/original/qhPiAZdHG1bmDDNLDtdDfGAT64n.jpg" group-title="Adolescencia", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/199879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adolescencia" tvg-logo="https://image.tmdb.org/t/p/original/qhPiAZdHG1bmDDNLDtdDfGAT64n.jpg" group-title="Adolescencia", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/199880.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5257.mp4
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/x2c3AvZeTyNehRZXabTojAxfDuR.jpg" group-title="American Horror Story T1", 02
