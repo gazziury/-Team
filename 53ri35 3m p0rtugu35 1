@@ -2249,6 +2249,23 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/5706.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E10" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 10
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5707.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Pingüim" tvg-logo="https://image.tmdb.org/t/p/original/nneBpx77zXnwL2biOpnVoE3mF3s.jpg" group-title="Pingüim", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/172209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pingüim" tvg-logo="https://image.tmdb.org/t/p/original/nneBpx77zXnwL2biOpnVoE3mF3s.jpg" group-title="Pingüim", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/173422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pingüim" tvg-logo="https://image.tmdb.org/t/p/original/nneBpx77zXnwL2biOpnVoE3mF3s.jpg" group-title="Pingüim", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/174060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pingüim" tvg-logo="https://image.tmdb.org/t/p/original/nneBpx77zXnwL2biOpnVoE3mF3s.jpg" group-title="Pingüim", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/174092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pingüim" tvg-logo="https://image.tmdb.org/t/p/original/nneBpx77zXnwL2biOpnVoE3mF3s.jpg" group-title="Pingüim", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/175382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pingüim" tvg-logo="https://image.tmdb.org/t/p/original/nneBpx77zXnwL2biOpnVoE3mF3s.jpg" group-title="Pingüim", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/176439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pingüim" tvg-logo="https://image.tmdb.org/t/p/original/nneBpx77zXnwL2biOpnVoE3mF3s.jpg" group-title="Pingüim", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/176644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pingüim" tvg-logo="https://image.tmdb.org/t/p/original/nneBpx77zXnwL2biOpnVoE3mF3s.jpg" group-title="Pingüim", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/176841.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Plantão policial" tvg-logo="https://image.tmdb.org/t/p/original/a4rCgKQ5vlJdqjsAaVfRDGVDhLJ.jpg" group-title="Plantão policial", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/182359.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Plantão policial" tvg-logo="https://image.tmdb.org/t/p/original/a4rCgKQ5vlJdqjsAaVfRDGVDhLJ.jpg" group-title="Plantão policial", 02
