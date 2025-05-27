@@ -848,6 +848,19 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/121004.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Black Mirror S06 E05" tvg-logo="https://image.tmdb.org/t/p/original/kwATNh8JC1IJclnVwk8x7wZb2b4.jpg" group-title="Black Mirror T6", 05
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/121005.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Cela 211" tvg-logo="https://image.tmdb.org/t/p/original/zeMmOTrm25ooHdYQxjM1kRViszZ.jpg" group-title="Cela 211", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/194086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cela 211" tvg-logo="https://image.tmdb.org/t/p/original/zeMmOTrm25ooHdYQxjM1kRViszZ.jpg" group-title="Cela 211", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/194087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cela 211" tvg-logo="https://image.tmdb.org/t/p/original/zeMmOTrm25ooHdYQxjM1kRViszZ.jpg" group-title="Cela 211", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/194088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cela 211" tvg-logo="https://image.tmdb.org/t/p/original/zeMmOTrm25ooHdYQxjM1kRViszZ.jpg" group-title="Cela 211", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/194089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cela 211" tvg-logo="https://image.tmdb.org/t/p/original/zeMmOTrm25ooHdYQxjM1kRViszZ.jpg" group-title="Cela 211", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/194090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cela 211" tvg-logo="https://image.tmdb.org/t/p/original/zeMmOTrm25ooHdYQxjM1kRViszZ.jpg" group-title="Cela 211", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/194091.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo" tvg-logo="https://image.tmdb.org/t/p/original/fTVZTV41lI9EFPTEjwRBmierHUE.jpg" group-title="Chicago Fire T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/24035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo" tvg-logo="https://image.tmdb.org/t/p/original/fTVZTV41lI9EFPTEjwRBmierHUE.jpg" group-title="Chicago Fire T1", 02
