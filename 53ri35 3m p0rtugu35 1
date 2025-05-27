@@ -1888,6 +1888,34 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/13616.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dexter S08 E12" tvg-logo="https://image.tmdb.org/t/p/original/veDEAb7pXaSNvvPXhwa1PiFlca9.jpg" group-title="Dexter T8", 12
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/13617.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/32381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/32382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/32383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/32384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/32385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/32386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/32387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/32388.mp4
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Dracula S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/nCa0qcpQDcFjgXhOEFbwljH57fv.jpg" group-title="Dracula", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/4988.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dracula S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/nCa0qcpQDcFjgXhOEFbwljH57fv.jpg" group-title="Dracula", 02
