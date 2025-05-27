@@ -1922,14 +1922,16 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/115933.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/115934.mp4
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/oHamwfGkOuhuJyEw4GCMQqXGrL3.jpg" group-title="Dom T3", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/141469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/oHamwfGkOuhuJyEw4GCMQqXGrL3.jpg" group-title="Dom T3", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/141470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/oHamwfGkOuhuJyEw4GCMQqXGrL3.jpg" group-title="Dom T3", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/141471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/oHamwfGkOuhuJyEw4GCMQqXGrL3.jpg" group-title="Dom T3", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/141472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/oHamwfGkOuhuJyEw4GCMQqXGrL3.jpg" group-title="Dom T3", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/141473.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Dracula S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/nCa0qcpQDcFjgXhOEFbwljH57fv.jpg" group-title="Dracula", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/4988.mp4
