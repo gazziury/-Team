@@ -861,6 +861,23 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/194090.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cela 211" tvg-logo="https://image.tmdb.org/t/p/original/zeMmOTrm25ooHdYQxjM1kRViszZ.jpg" group-title="Cela 211", 06
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/194091.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/180507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/180508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/180509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/180510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/180511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/180512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/180513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/180514.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo" tvg-logo="https://image.tmdb.org/t/p/original/fTVZTV41lI9EFPTEjwRBmierHUE.jpg" group-title="Chicago Fire T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/24035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo" tvg-logo="https://image.tmdb.org/t/p/original/fTVZTV41lI9EFPTEjwRBmierHUE.jpg" group-title="Chicago Fire T1", 02
