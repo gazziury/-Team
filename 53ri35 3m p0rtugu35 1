@@ -2198,6 +2198,23 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/19341.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/19342.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6zkFoDXBhzbb6ptMvbbXW0oh7Tc.jpg" group-title="O Pier T2", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/19343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6zkFoDXBhzbb6ptMvbbXW0oh7Tc.jpg" group-title="O Pier T2", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6zkFoDXBhzbb6ptMvbbXW0oh7Tc.jpg" group-title="O Pier T2", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6zkFoDXBhzbb6ptMvbbXW0oh7Tc.jpg" group-title="O Pier T2", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6zkFoDXBhzbb6ptMvbbXW0oh7Tc.jpg" group-title="O Pier T2", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6zkFoDXBhzbb6ptMvbbXW0oh7Tc.jpg" group-title="O Pier T2", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6zkFoDXBhzbb6ptMvbbXW0oh7Tc.jpg" group-title="O Pier T2", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E08" tvg-logo="https://image.tmdb.org/t/p/original/6zkFoDXBhzbb6ptMvbbXW0oh7Tc.jpg" group-title="O Pier T2", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/21669.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5698.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 02
