@@ -2181,6 +2181,19 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/4909.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E05" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 05
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/4910.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="O eternauta" tvg-logo="https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg" group-title="O eternauta", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O eternauta" tvg-logo="https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg" group-title="O eternauta", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O eternauta" tvg-logo="https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg" group-title="O eternauta", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O eternauta" tvg-logo="https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg" group-title="O eternauta", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O eternauta" tvg-logo="https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg" group-title="O eternauta", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O eternauta" tvg-logo="https://image.tmdb.org/t/p/original/9BaOdE76IgnMoy3a5xFDE7znsaO.jpg" group-title="O eternauta", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204573.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/19335.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Pier S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/xgSCLbpi9iQLUE0xowOHg06q6e4.jpg" group-title="O Pier T1", 02
