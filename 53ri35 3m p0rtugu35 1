@@ -1376,6 +1376,19 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/139882.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo" tvg-logo="https://image.tmdb.org/t/p/original/2yaeYNplMuLGNjBigMFsek7UZmq.jpg" group-title="Chicago Fire T12", 04
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/139883.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus: A luta não para" tvg-logo="https://image.tmdb.org/t/p/original/2QALNTAFR3xliCvyhhjZrYePHiR.jpg" group-title="Cidade de Deus: A luta não para", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/167364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus: A luta não para" tvg-logo="https://image.tmdb.org/t/p/original/2QALNTAFR3xliCvyhhjZrYePHiR.jpg" group-title="Cidade de Deus: A luta não para", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/168280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus: A luta não para" tvg-logo="https://image.tmdb.org/t/p/original/2QALNTAFR3xliCvyhhjZrYePHiR.jpg" group-title="Cidade de Deus: A luta não para", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/170371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus: A luta não para" tvg-logo="https://image.tmdb.org/t/p/original/2QALNTAFR3xliCvyhhjZrYePHiR.jpg" group-title="Cidade de Deus: A luta não para", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/171071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus: A luta não para" tvg-logo="https://image.tmdb.org/t/p/original/2QALNTAFR3xliCvyhhjZrYePHiR.jpg" group-title="Cidade de Deus: A luta não para", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/172351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus: A luta não para" tvg-logo="https://image.tmdb.org/t/p/original/2QALNTAFR3xliCvyhhjZrYePHiR.jpg" group-title="Cidade de Deus: A luta não para", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/173410.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Marvel - Demolidor S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/zFmJQzl6bFrdpHhDkxXmboyykqD.jpg" group-title="Demolidor T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5990.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marvel - Demolidor S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/zFmJQzl6bFrdpHhDkxXmboyykqD.jpg" group-title="Demolidor T1", 02
