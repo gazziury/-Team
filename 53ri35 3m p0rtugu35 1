@@ -2245,13 +2245,22 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/75965.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/9K2Y5XUdfh0V1XoxckKGEIAnUMM.jpg" group-title="O Senhor dos anéis: Os anéis do poder T1", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/76156.mp4
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/6huBByPThwG8E9LvzSH6VcD10qs.jpg" group-title="O Senhor dos anéis: Os anéis do poder T2", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/167987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/6huBByPThwG8E9LvzSH6VcD10qs.jpg" group-title="O Senhor dos anéis: Os anéis do poder T2", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/167988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/6huBByPThwG8E9LvzSH6VcD10qs.jpg" group-title="O Senhor dos anéis: Os anéis do poder T2", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/167989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/6huBByPThwG8E9LvzSH6VcD10qs.jpg" group-title="O Senhor dos anéis: Os anéis do poder T2", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/170148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/6huBByPThwG8E9LvzSH6VcD10qs.jpg" group-title="O Senhor dos anéis: Os anéis do poder T2", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/170651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/6huBByPThwG8E9LvzSH6VcD10qs.jpg" group-title="O Senhor dos anéis: Os anéis do poder T2", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/172228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/6huBByPThwG8E9LvzSH6VcD10qs.jpg" group-title="O Senhor dos anéis: Os anéis do poder T2", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/172725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O senhor dos aneis" tvg-logo="https://image.tmdb.org/t/p/original/6huBByPThwG8E9LvzSH6VcD10qs.jpg" group-title="O Senhor dos anéis: Os anéis do poder T2", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/173616.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Patrulha Medica S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/6Zy5AtrKJOMnVWgDqHtnogOfI40.jpg" group-title="Patrulha Medica T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5698.mp4
