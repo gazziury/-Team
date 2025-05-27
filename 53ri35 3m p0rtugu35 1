@@ -404,9 +404,30 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/78300.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 12
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/81108.mp4
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/204807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/205536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 11
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/205537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/oWIZal2dsVPX68bYXC1WuaH43Pu.jpg" group-title="Andor T2", 12
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/205538.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/pAdZsHyk7ROQqHzzK8QIM8OnR5f.jpg" group-title="Arrow T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5163.mp4
