@@ -379,6 +379,35 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/135547.mp4
 #EXTINF:-1 tvg-id="" tvg-name="American Horror Story S12 E05" tvg-logo="https://image.tmdb.org/t/p/original/3yKzcsxxjawKFWLx16IRR1oSpWm.jpg" group-title="American Horror Story T12", 05
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/135548.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/74879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/74880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/74881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/75411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/76678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/76679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/76680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/78297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 09
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/78298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 10
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/78299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 11
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/78300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andor" tvg-logo="https://image.tmdb.org/t/p/original/tcfrrUM2ln0cNvvUkRmysmiuF0K.jpg" group-title="Andor T1", 12
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/81108.mp4
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/pAdZsHyk7ROQqHzzK8QIM8OnR5f.jpg" group-title="Arrow T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/5163.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/pAdZsHyk7ROQqHzzK8QIM8OnR5f.jpg" group-title="Arrow T1", 02
