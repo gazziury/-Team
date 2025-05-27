@@ -773,6 +773,23 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/7355.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Arrow S08 E08" tvg-logo="https://image.tmdb.org/t/p/original/wndew4eb2LqniZ3aKmnClMBSDpm.jpg" group-title="Arrow T8", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/7356.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Berlim" tvg-logo="https://image.tmdb.org/t/p/original/nOU84gCRyB9pfxJvQdwcI5RCIE7.jpg" group-title="Berlim", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/136909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlim" tvg-logo="https://image.tmdb.org/t/p/original/nOU84gCRyB9pfxJvQdwcI5RCIE7.jpg" group-title="Berlim", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/136910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlim" tvg-logo="https://image.tmdb.org/t/p/original/nOU84gCRyB9pfxJvQdwcI5RCIE7.jpg" group-title="Berlim", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/136911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlim" tvg-logo="https://image.tmdb.org/t/p/original/nOU84gCRyB9pfxJvQdwcI5RCIE7.jpg" group-title="Berlim", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/136912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlim" tvg-logo="https://image.tmdb.org/t/p/original/nOU84gCRyB9pfxJvQdwcI5RCIE7.jpg" group-title="Berlim", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/136913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlim" tvg-logo="https://image.tmdb.org/t/p/original/nOU84gCRyB9pfxJvQdwcI5RCIE7.jpg" group-title="Berlim", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/136914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlim" tvg-logo="https://image.tmdb.org/t/p/original/nOU84gCRyB9pfxJvQdwcI5RCIE7.jpg" group-title="Berlim", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/136915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlim" tvg-logo="https://image.tmdb.org/t/p/original/nOU84gCRyB9pfxJvQdwcI5RCIE7.jpg" group-title="Berlim", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/136916.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Black Mirror S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/ztdy1f1cAjwsO0GpVKzNuqZ0PMv.jpg" group-title="Black Mirror T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/6119.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Black Mirror S01 E02" tvg-logo="https://image.tmdb.org/t/p/original/ztdy1f1cAjwsO0GpVKzNuqZ0PMv.jpg" group-title="Black Mirror T1", 02
