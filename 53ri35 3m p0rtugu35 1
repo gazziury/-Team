@@ -2633,6 +2633,19 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/181014.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/original/xwMCcntItW7Uq9dZ7NflSMPRevR.jpg" group-title="Round 6 T2", 07
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/181015.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Terra indomável" tvg-logo="https://image.tmdb.org/t/p/original/68voon3x99XjhvkaPp2tSZ1q0yg.jpg" group-title="Terra indomável", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/182367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra indomável" tvg-logo="https://image.tmdb.org/t/p/original/68voon3x99XjhvkaPp2tSZ1q0yg.jpg" group-title="Terra indomável", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/182368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra indomável" tvg-logo="https://image.tmdb.org/t/p/original/68voon3x99XjhvkaPp2tSZ1q0yg.jpg" group-title="Terra indomável", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/182369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra indomável" tvg-logo="https://image.tmdb.org/t/p/original/68voon3x99XjhvkaPp2tSZ1q0yg.jpg" group-title="Terra indomável", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/182370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra indomável" tvg-logo="https://image.tmdb.org/t/p/original/68voon3x99XjhvkaPp2tSZ1q0yg.jpg" group-title="Terra indomável", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/182371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra indomável" tvg-logo="https://image.tmdb.org/t/p/original/68voon3x99XjhvkaPp2tSZ1q0yg.jpg" group-title="Terra indomável", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/182372.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 01
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/84505.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 02
