@@ -1905,7 +1905,22 @@ http://principal.maxpainel.net:2052/series/md854a/abc125ad/32387.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg" group-title="Dom T1", 08
 http://principal.maxpainel.net:2052/series/md854a/abc125ad/32388.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 01
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/115927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 02
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/115928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 03
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/115929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 04
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/115930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 05
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/115931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 06
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/115932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 07
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/115933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dom" tvg-logo="https://image.tmdb.org/t/p/original/70HC9Nl6JH3tuT64xw6yOHXHzJ5.jpg" group-title="Dom T2", 08
+http://principal.maxpainel.net:2052/series/md854a/abc125ad/115934.mp4
 
 
 
