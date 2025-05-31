@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_70.mkv
-http://series.tuxchannel.mx/series/la_jefa/s_01_e_63.mkv
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_68.mkv
 http://series.tuxchannel.mx/series/amar/s_01_e_74.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_46.mkv
 
@@ -5278,6 +5278,16 @@ http://series.tuxchannel.mx/series/la_jefa/s_01_e_61.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_62.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 062
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_63.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 063
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_64.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 064
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_65.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 065
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_66.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 066
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_67.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 067
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_68.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 01
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_01.mkv
