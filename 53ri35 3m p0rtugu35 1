@@ -88,6 +88,17 @@ http://principal.maxpainel.net:2052/series/md1307/147147xvz/139783.mp4
 #EXTINF:-1 tvg-id="" tvg-name="30 moedas" tvg-logo="https://image.tmdb.org/t/p/original/yo3udZRKPbhfzI7sWaI2hhyfhRM.jpg" group-title="30 moedas T2", 08
 http://principal.maxpainel.net:2052/series/md1307/147147xvz/139784.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/qucT08BrRQeS7Q0zaFhBnbsPJoq.jpg" group-title="A divisão T1", 01
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/13667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/qucT08BrRQeS7Q0zaFhBnbsPJoq.jpg" group-title="A divisão T1", 02
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/13668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/qucT08BrRQeS7Q0zaFhBnbsPJoq.jpg" group-title="A divisão T1", 03
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/13669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/qucT08BrRQeS7Q0zaFhBnbsPJoq.jpg" group-title="A divisão T1", 04
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/13670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/qucT08BrRQeS7Q0zaFhBnbsPJoq.jpg" group-title="A divisão T1", 05
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/13671.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia" tvg-logo="https://image.tmdb.org/t/p/original/qhPiAZdHG1bmDDNLDtdDfGAT64n.jpg" group-title="Adolescencia", 01
 http://principal.maxpainel.net:2052/series/md1307/147147xvz/199877.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia" tvg-logo="https://image.tmdb.org/t/p/original/qhPiAZdHG1bmDDNLDtdDfGAT64n.jpg" group-title="Adolescencia", 02
