@@ -121,7 +121,16 @@ http://principal.maxpainel.net:2052/series/md1307/147147xvz/133377.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/6ReYpdqfXc9XrGWQEVeZcFrPNtX.jpg" group-title="A divisão T3", 05
 http://principal.maxpainel.net:2052/series/md1307/147147xvz/134282.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg" group-title="A divisão T4", 01
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/200317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg" group-title="A divisão T4", 02
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/200318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg" group-title="A divisão T4", 03
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/200319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg" group-title="A divisão T4", 04
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/200320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A divisão" tvg-logo="https://image.tmdb.org/t/p/original/An3TOHOWXIhAUnZ5O7pDzpnZTMz.jpg" group-title="A divisão T4", 05
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/200321.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Adolescencia" tvg-logo="https://image.tmdb.org/t/p/original/qhPiAZdHG1bmDDNLDtdDfGAT64n.jpg" group-title="Adolescencia", 01
 http://principal.maxpainel.net:2052/series/md1307/147147xvz/199877.mp4
