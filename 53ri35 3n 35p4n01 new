@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+https://www.innovatv.store/contenido/SERIES/Chespirito%20Sin%20querer%20queriendo/Chespirito.Sin.querer.queriendo.S01E01.720p.WEBRip.mp4
+
 http://series.tuxchannel.mx/series/mobland/s_01_e_03.mkv
 https://www.innovatv.store/contenido/SERIES/MobLand/MobLand.S01E10.720p.WEBRip.mp4
 
@@ -1604,6 +1606,9 @@ http://series.tuxchannel.mx/series/chernobyl/s_01_e_03.mkv
 http://series.tuxchannel.mx/series/chernobyl/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Chernobyl",Cap. 05
 http://series.tuxchannel.mx/series/chernobyl/s_01_e_05.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qC4VMn5OOhs5tobrk8sKbaNecHz.jpg" group-title="Chespirito: Sin querer queriendo",Cap. 01
+https://www.innovatv.store/contenido/SERIES/Chespirito%20Sin%20querer%20queriendo/Chespirito.Sin.querer.queriendo.S01E01.720p.WEBRip.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Chicago Med T1 (SUB)",TRAILER
 https://archive.org/download/trailer-ch-1c-4g-0-m-3d/trailer%20Ch1c4g0%20M3d.mp4
