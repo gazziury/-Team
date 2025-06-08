@@ -13358,8 +13358,10 @@ http://144.217.70.79/VODS-M/1080P/The%20Blue%20Lagoon%20Return%20to%20the%20Blue
 http://144.217.70.79/VODS-M/1080P/Dangerous%20Liaisons%201988.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg" group-title="Peliculas Viejas",Relatos salvajes (2014)
 http://vod.tuxchannel.mx/peliculas/720/relatos%20salvajes.mkv
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/p3gGAIQ.jpeg" group-title="Peliculas Viejas",Rendirse jamás 1 (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/owA0Xa8ZaG5e161nDEHaz5beudK.jpg" group-title="Peliculas Viejas",Rendirse jamás 1 (2008)
 http://144.217.70.79/VODS-M/1080P/Never%20Back%20Down%202008.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g7OFvTcfaygyM071Izc3KPX2G0v.jpg" group-title="Peliculas Viejas",Rendirse jamás 2 (2011)
+http://vod.tuxchannel.mx/peliculas/720/never%20back%20down%202%20the%20beatdown%202011.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/DohI9fk.jpeg" group-title="Peliculas Viejas",Replicante (2001)
 http://144.217.70.79/VODS-M/720P/Replicant%202001.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnOd6vjEmzCT0k4VYqsA2hwyi87C.jpg" group-title="Peliculas Viejas",Requiem por un sueño (2000)
