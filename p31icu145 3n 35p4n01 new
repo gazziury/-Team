@@ -6991,6 +6991,8 @@ http://vod.tuxchannel.mx/peliculas/720/22%20july.mkv
 http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20freed.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/v6V7ZiB.jpeg" group-title="2018",211: El gran asalto (2018)
 http://vod.tuxchannel.mx/peliculas/720/211%202018.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7abE0YZIZwdlFnQW89vmar2oUgC.jpg" group-title="2018",1918: La batalla de Kruty (2018)
+http://vod.tuxchannel.mx/peliculas/720/kruty%201918.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/J2YSPL7.jpeg" group-title="2018",Action Point (2018)
 http://vod.tuxchannel.mx/peliculas/720/action%20point.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/HiewmsZ.jpeg" group-title="2018",Actos de violencia (2018)
