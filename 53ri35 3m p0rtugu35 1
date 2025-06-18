@@ -1,3 +1,4 @@
+Chespirito 2
 
 Happy face 5... son 8
 
@@ -1021,6 +1022,11 @@ http://principal.maxpainel.net:2052/series/md1307/147147xvz/180512.mp4
 http://principal.maxpainel.net:2052/series/md1307/147147xvz/180513.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cem anos de solidão" tvg-logo="https://image.tmdb.org/t/p/original/7Q3gGh8FhlWl64yThwiqeletI64.jpg" group-title="Cem anos de solidão", 08
 http://principal.maxpainel.net:2052/series/md1307/147147xvz/180514.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://image.tmdb.org/t/p/original/qC4VMn5OOhs5tobrk8sKbaNecHz.jpg" group-title="Chespirito: Sem querer querendo", 01
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/206808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://image.tmdb.org/t/p/original/qC4VMn5OOhs5tobrk8sKbaNecHz.jpg" group-title="Chespirito: Sem querer querendo", 02
+http://principal.maxpainel.net:2052/series/md1307/147147xvz/206809.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo" tvg-logo="https://image.tmdb.org/t/p/original/fTVZTV41lI9EFPTEjwRBmierHUE.jpg" group-title="Chicago Fire T1", 01
 http://principal.maxpainel.net:2052/series/md1307/147147xvz/24035.mp4
