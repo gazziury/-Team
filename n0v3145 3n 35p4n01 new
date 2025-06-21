@@ -9,8 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/me_atrevo_a_amarte/s_01_e_82.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_78.mkv
-http://series.tuxchannel.mx/series/amar/s_01_e_90.mkv
-http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_61.mkv
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_63.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_23.mkv
 
 https://www.innovatv.store/contenido/SERIES/La%20Venganza%20De%20Analia%202/La%20Venganza%20De%20Analia%202%20Capitulo%2016.mp4
@@ -4802,6 +4801,10 @@ http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_59.mkv
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_60.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 061
 http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_61.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 062
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_62.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg" group-title="Juegos de amor y poder",Cap. 063
+http://series.tuxchannel.mx/series/juegos_de_amor_y_poder/s_01_e_63.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/02/17/13/04/1534035.jpg" group-title="La desalmada",Cap. 01
 http://series.tuxchannel.mx/series/la_desalmada/s_01_e_01.mkv
