@@ -6,6 +6,9 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+
+http://series.tuxchannel.mx/series/countdown/s_01_e_03.mkv ... cuenta regresiva serán 13
+
 http://series.tuxchannel.mx/series/smoke/s_01_e_02.mkv ... humo serán 9
 
 http://series.tuxchannel.mx/series/chespirito_sin_querer_queriendo/s_01_e_04.mkv
@@ -2476,6 +2479,13 @@ http://series.tuxchannel.mx/series/cuando_conoci_al_chapo/s_01_e_01.mkv
 http://series.tuxchannel.mx/series/cuando_conoci_al_chapo/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2vOuPY2AbC8JvOy9lwSKNYsj43f.jpg" group-title="Cuando conocí al Chapo",Cap. 03
 http://series.tuxchannel.mx/series/cuando_conoci_al_chapo/s_01_e_03.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6ehFeX6uncHqYbfBksGS9vIcJT.jpg" group-title="Cuenta regresiva",Cap. 01
+http://series.tuxchannel.mx/series/countdown/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6ehFeX6uncHqYbfBksGS9vIcJT.jpg" group-title="Cuenta regresiva",Cap. 02
+http://series.tuxchannel.mx/series/countdown/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o6ehFeX6uncHqYbfBksGS9vIcJT.jpg" group-title="Cuenta regresiva",Cap. 03
+http://series.tuxchannel.mx/series/countdown/s_01_e_03.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3R5V6R3t1ZVtU2ZpTQT21GNgceb.jpg" group-title="Cuentos asombrosos",Cap. 01
 http://series.tuxchannel.mx/series/amazing_stories/s_01_e_01.mkv
