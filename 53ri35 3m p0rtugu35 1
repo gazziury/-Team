@@ -2947,6 +2947,17 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/28260.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Projeto Livro Azul S02 E10" tvg-logo="https://image.tmdb.org/t/p/original/cl8plZkQ7D3alcQfWYEJprRPWx3.jpg" group-title="Projeto Livro Azul T2", 10
 http://principal.maxpainel.net:2052/series/LCE03/101123/28261.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Que falta voçe me faz" tvg-logo="https://image.tmdb.org/t/p/original/3m2NXMve2VOmynxKqOCNZNJf5NP.jpg" group-title="Que falta voçe me faz", 01
+http://principal.maxpainel.net:2052/series/LCE03/101123/181435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que falta voçe me faz" tvg-logo="https://image.tmdb.org/t/p/original/3m2NXMve2VOmynxKqOCNZNJf5NP.jpg" group-title="Que falta voçe me faz", 02
+http://principal.maxpainel.net:2052/series/LCE03/101123/181436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que falta voçe me faz" tvg-logo="https://image.tmdb.org/t/p/original/3m2NXMve2VOmynxKqOCNZNJf5NP.jpg" group-title="Que falta voçe me faz", 03
+http://principal.maxpainel.net:2052/series/LCE03/101123/181437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que falta voçe me faz" tvg-logo="https://image.tmdb.org/t/p/original/3m2NXMve2VOmynxKqOCNZNJf5NP.jpg" group-title="Que falta voçe me faz", 04
+http://principal.maxpainel.net:2052/series/LCE03/101123/181438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que falta voçe me faz" tvg-logo="https://image.tmdb.org/t/p/original/3m2NXMve2VOmynxKqOCNZNJf5NP.jpg" group-title="Que falta voçe me faz", 05
+http://principal.maxpainel.net:2052/series/LCE03/101123/181439.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/original/t786LJ2mp7gwK2ghHRR6tgOLisK.jpg" group-title="Round 6 T1", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/46669.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Round 6" tvg-logo="https://image.tmdb.org/t/p/original/t786LJ2mp7gwK2ghHRR6tgOLisK.jpg" group-title="Round 6 T1", 02
