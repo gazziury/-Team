@@ -1027,6 +1027,12 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/180514.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/206808.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://image.tmdb.org/t/p/original/qC4VMn5OOhs5tobrk8sKbaNecHz.jpg" group-title="Chespirito: Sem querer querendo", 02
 http://principal.maxpainel.net:2052/series/LCE03/101123/206809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://image.tmdb.org/t/p/original/qC4VMn5OOhs5tobrk8sKbaNecHz.jpg" group-title="Chespirito: Sem querer querendo", 03
+http://principal.maxpainel.net:2052/series/LCE03/101123/207817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://image.tmdb.org/t/p/original/qC4VMn5OOhs5tobrk8sKbaNecHz.jpg" group-title="Chespirito: Sem querer querendo", 04
+http://principal.maxpainel.net:2052/series/LCE03/101123/207818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://image.tmdb.org/t/p/original/qC4VMn5OOhs5tobrk8sKbaNecHz.jpg" group-title="Chespirito: Sem querer querendo", 05
+http://principal.maxpainel.net:2052/series/LCE03/101123/207819.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo" tvg-logo="https://image.tmdb.org/t/p/original/fTVZTV41lI9EFPTEjwRBmierHUE.jpg" group-title="Chicago Fire T1", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/24035.mp4
