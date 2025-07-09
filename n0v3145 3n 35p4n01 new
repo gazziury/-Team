@@ -11,6 +11,8 @@ http://series.tuxchannel.mx/series/la_jefa/s_01_e_90.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_37.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_34.mkv
 
+https://www.innovatv.store/contenido/SERIES/Amanecer/Amanecer%201080p%20Capitulo%20001.mp4
+
 https://www.innovatv.store/contenido/SERIES/La%20Venganza%20De%20Analia%202/La%20Venganza%20De%20Analia%202%20Capitulo%2029.mp4
 
 http://series.tuxchannel.mx/series/regreso_a_las_sabinas/s_01_e_10.mkv
@@ -201,6 +203,9 @@ http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_33.mkv
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_34.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/09/24/16/55/0631026.jpg" group-title="100 días para enamorarnos T2",Cap. 35
 http://series.tuxchannel.mx/series/100_dias_para_enamorarnos/s_02_e_35.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 001
+https://www.innovatv.store/contenido/SERIES/Amanecer/Amanecer%201080p%20Capitulo%20001.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 001
 http://series.tuxchannel.mx/series/amar/s_01_e_01.mkv
