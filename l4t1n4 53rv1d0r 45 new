@@ -1,748 +1,761 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC- DISCOVERY EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="• MUNDO Y CULTURA",MyC- DISCOVERY EN ESPAÑOL
-http://tv.nstvlatino.com:8080/UY1108/@373839/56304
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/56304
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC - DISCOVERY CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY CHANNEL FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4069
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4069
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MyC - DISCOVERY CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY CHANNEL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155807
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155807
 #EXTINF:-1 tvg-id="" tvg-name="MYC - DISCOVERY ID FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY ID FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156012
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156012
 #EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="MyC - DISCOVERY ID" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY ID
-http://tv.nstvlatino.com:8080/UY1108/@373839/4123
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4123
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MYC - DISCOVERY HOME & HEALTH FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY HOME & HEALTH FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4070
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4070
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY HOME & HEALTH" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY HOME & HEALTH
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155816
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155816
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MYC - DISCOVERY THEATER FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY THEATER FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4073
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4073
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MyC - DISCOVERY THEATER" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY THEATER
-http://tv.nstvlatino.com:8080/UY1108/@373839/4119
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4119
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MYC  - DISCOVERY WORLD FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="• MUNDO Y CULTURA",MYC  - DISCOVERY WORLD FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4076
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4076
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MyC - DISCOVERY WORLD" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY WORLD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155812
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155812
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="MyC - DISCOVERY SCIENCE" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY SCIENCE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155818
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155818
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MYC - ANIMAL PLANET FHD" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="• MUNDO Y CULTURA",MYC - ANIMAL PLANET FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4067
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4067
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="• MUNDO Y CULTURA",MyC - ANIMAL PLANET
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155797
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155797
 #EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MYC - HISTORY CHANEL FHD" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="• MUNDO Y CULTURA",MYC - HISTORY CHANEL FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4093
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4093
 #EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MyC - HISTORY CHANEL HD" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="• MUNDO Y CULTURA",MyC - HISTORY CHANEL HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155804
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155804
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="MyC - H2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="• MUNDO Y CULTURA",MyC - H2
-http://tv.nstvlatino.com:8080/UY1108/@373839/4005
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4005
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MYC - NATGEO FHD" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="• MUNDO Y CULTURA",MYC - NATGEO FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4097
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4097
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MyC - NATGEO" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="• MUNDO Y CULTURA",MyC - NATGEO
-http://tv.nstvlatino.com:8080/UY1108/@373839/4126
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4126
 #EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name="MyC - NATGEO MUNDO" tvg-logo="http://descargas.podzone.net/logos/-NATGEO-mundo.png" group-title="• MUNDO Y CULTURA",MyC - NATGEO MUNDO
-http://tv.nstvlatino.com:8080/UY1108/@373839/3774
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/3774
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MyC - DISCOVERY TLC" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY TLC
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155820
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155820
 #EXTINF:-1 tvg-id="FilmAndArts.mx" tvg-name="MyC - FILM & ARTS" tvg-logo="http://descargas.podzone.net/logos/-film-&-arts.png" group-title="• MUNDO Y CULTURA",MyC - FILM & ARTS
-http://tv.nstvlatino.com:8080/UY1108/@373839/3966
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/3966
 #EXTINF:-1 tvg-id="" tvg-name="MyC - HGTV HD" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="• MUNDO Y CULTURA",MyC - HGTV HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155823
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155823
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="MYC - TLC FHD" tvg-logo="http://descargas.podzone.net/logos2/-TLC.png" group-title="• MUNDO Y CULTURA",MYC - TLC FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4074
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4074
 #EXTINF:-1 tvg-id="" tvg-name="MyC - HISPAN TV" tvg-logo="http://descargas.podzone.net/logos/-hispan-tv.png" group-title="• MUNDO Y CULTURA",MyC - HISPAN TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/33481
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33481
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="MyC - RT ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-RT-espanol.png" group-title="• MUNDO Y CULTURA",MyC - RT ESPAÑOL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155802
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155802
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MyC - DW EN ESPANOL" tvg-logo="http://descargas.podzone.net/logos/-DW-en-espanol.png" group-title="• MUNDO Y CULTURA",MyC - DW EN ESPANOL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155821
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155821
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155888
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155888
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/33469
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33469
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/43637
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/43637
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN 2 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155889
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155889
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155890
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155890
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/43639
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/43639
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 4 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 SUR HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1118360
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1118360
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="LD - ESPN 4 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 SUR SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/18580
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/18580
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN EXTRA SUR FHD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-extra.png" group-title="• LATINO DEPORTES •",LD - ESPN EXTRA SUR FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/7940
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7940
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN EXTRA SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-extra.png" group-title="• LATINO DEPORTES •",LD - ESPN EXTRA SUR HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/43638
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/43638
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN CHILE HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN CHILE HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1080110
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1080110
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN CHILE SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN CHILE SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1080111
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1080111
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 1 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 BRASIL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1159095
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1159095
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 2 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 BRASIL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1159096
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1159096
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 3 BRASIL " tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 BRASIL 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1159093
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1159093
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="LD - ESPN 4 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 BRASIL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1147322
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1147322
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN EXTRA BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-extra.png" group-title="• LATINO DEPORTES •",LD - ESPN EXTRA BRASIL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1159094
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1159094
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN 1 MX" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 MX
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155892
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155892
 #EXTINF:-1 tvg-id="Espn2.mx" tvg-name="LD - ESPN 2 MX HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 MX HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1118923
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1118923
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="LD - ESPN 3 MX HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 MX HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155903
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155903
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN PLUS MX" tvg-logo="data:image/jpeg;base64,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" group-title="• LATINO DEPORTES •",LD - ESPN PLUS MX
-http://tv.nstvlatino.com:8080/UY1108/@373839/4120
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4120
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="LD - ESPN DEPORTES" tvg-logo="data:image/png;base64,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" group-title="• LATINO DEPORTES •",LD - ESPN DEPORTES
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155891
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155891
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="LD - FOX SPORTS 1 HD CHILE" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 HD CHILE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155912
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155912
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="LD - FOX SPORTS 1 SD (CHILE)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 SD (CHILE)
-http://tv.nstvlatino.com:8080/UY1108/@373839/1095232
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1095232
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="LD - FOX SPORTS 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 2 SUR HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/16139
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/16139
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="LD -  ESPN 7 SUR HD" tvg-logo="data:image/png;base64,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" group-title="• LATINO DEPORTES •",LD -  ESPN 7 SUR HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/42456
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/42456
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LD - FOX SPORTS 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 SUR HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/33475
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33475
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LD - FOX SPORTS 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 SUR SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/43640
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/43640
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="LD - FOX SPORTS 1 HD MEX " tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 HD MEX 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156755
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156755
 #EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="LD - FOX SPORTS 2 HD MEX " tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 2 HD MEX 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156756
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156756
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="LD - FOX SPORTS 3 MX HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 MX HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156757
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156757
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="LD - FOX SPORTS 3 MX" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 MX
-http://tv.nstvlatino.com:8080/UY1108/@373839/4008
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4008
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="LD - FOX SPORTS PREMIUM FHD (MX)" tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS PREMIUM FHD (MX)
-http://tv.nstvlatino.com:8080/UY1108/@373839/1126417
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1126417
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1091366
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1091366
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/7863
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7863
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/33512
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33512
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1091367
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1091367
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/32882
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/32882
 #EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS 2 SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/32881
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/32881
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1091368
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1091368
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/27879
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/27879
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8520
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8520
 #EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV FIGHT FHD " tvg-logo="http://descargas.podzone.net/logos/-Directv-fight.png" group-title="• LATINO DEPORTES •",LD - DIRECTV FIGHT FHD 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155911
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155911
 #EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV MOTOR " tvg-logo="data:image/png;base64,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" group-title="• LATINO DEPORTES •",LD - DIRECTV MOTOR 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1166264
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1166264
 #EXTINF:-1 tvg-id="" tvg-name="LD - GOL TV FHD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •",LD - GOL TV FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1092639
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1092639
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-1.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 1
-http://tv.nstvlatino.com:8080/UY1108/@373839/1147316
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1147316
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-2.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 2
-http://tv.nstvlatino.com:8080/UY1108/@373839/1147317
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1147317
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-3.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 3
-http://tv.nstvlatino.com:8080/UY1108/@373839/1147318
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1147318
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 4" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-4.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 4
-http://tv.nstvlatino.com:8080/UY1108/@373839/1147319
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1147319
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 5" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-5.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 5
-http://tv.nstvlatino.com:8080/UY1108/@373839/1147320
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1147320
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 6" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-6.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 6
-http://tv.nstvlatino.com:8080/UY1108/@373839/1147321
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1147321
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="LD - BEIN SPORTS Ñ HD " tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS Ñ HD 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155904
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155904
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="LD - BEIN SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/43187
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/43187
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="LD - GOL TV HD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •",LD - GOL TV HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156009
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156009
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="LD - GOL TV SD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •",LD - GOL TV SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1092653
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1092653
 #EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="LD - GOLF LATIN AMERICA" tvg-logo="http://descargas.podzone.net/logos/-golf-latin-america.png" group-title="• LATINO DEPORTES •",LD - GOLF LATIN AMERICA
-http://tv.nstvlatino.com:8080/UY1108/@373839/33363
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33363
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="• LATINO DEPORTES •",LD - TYC SPORTS
-http://tv.nstvlatino.com:8080/UY1108/@373839/8247
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8247
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="LD - TVC DEPORTES" tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title="• LATINO DEPORTES •",LD - TVC DEPORTES
-http://tv.nstvlatino.com:8080/UY1108/@373839/4139
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4139
 #EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="LD - CLARO SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-claro-sports.png" group-title="• LATINO DEPORTES •",LD - CLARO SPORTS HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/12011
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/12011
 #EXTINF:-1 tvg-id="AymSports.mx" tvg-name="LD - AYM SPORTS" tvg-logo="http://descargas.podzone.net/logos/-AYM-sports.png" group-title="• LATINO DEPORTES •",LD - AYM SPORTS
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156008
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156008
 #EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - TUDN DEPORTES FHD" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="• LATINO DEPORTES •",LD - TUDN DEPORTES FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/3962
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/3962
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="LD - TUDN DEPORTES HD" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="• LATINO DEPORTES •",LD - TUDN DEPORTES HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4117
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4117
 #EXTINF:-1 tvg-id="" tvg-name="LD - UNIVISION TUDN USA" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN USA
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156010
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156010
 #EXTINF:-1 tvg-id="" tvg-name="PAR - TIGO SPORTS HD (PARAGUAY)" tvg-logo="http://descargas.podzone.net/logos/-tigo-sport.png" group-title="PARAGUAY",PAR - TIGO SPORTS HD (PARAGUAY)
-http://tv.nstvlatino.com:8080/UY1108/@373839/29832
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/29832
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - UFC  NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-UFC-network.png" group-title="• LATINO DEPORTES •",LD - UFC  NETWORK FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4082
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4082
 #EXTINF:-1 tvg-id="" tvg-name="LD - UFC LIVE HD" tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png" group-title="• LATINO DEPORTES •",LD - UFC LIVE HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53372
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53372
 #EXTINF:-1 tvg-id="" tvg-name="LD - VIX LO MEJOR DE LIGA MX " tvg-logo="http://descargas.podzone.net/logos/-Vix.png" group-title="• LATINO DEPORTES •",LD - VIX LO MEJOR DE LIGA MX 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1158436
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1158436
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="• CINE",CINE - HBO FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4112
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4112
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO " tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="• CINE",CINE - HBO 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155792
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155792
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="• CINE",CINE - HBO 2 FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4095
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4095
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="• CINE",CINE - HBO 2
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155794
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155794
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO PLUS + FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="• CINE",CINE - HBO PLUS + FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4109
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4109
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO PLUS +" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="• CINE",CINE - HBO PLUS +
-http://tv.nstvlatino.com:8080/UY1108/@373839/4003
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4003
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="CINE - HBO SIGNATURE" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="• CINE",CINE - HBO SIGNATURE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155796
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155796
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO XTREME FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="• CINE",CINE - HBO XTREME FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8226
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8226
 #EXTINF:-1 tvg-id="" tvg-name="CINE - HBO XTREME" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="• CINE",CINE - HBO XTREME
-http://tv.nstvlatino.com:8080/UY1108/@373839/44341
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/44341
 #EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="• CINE",CINE - HBO POP FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8246
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8246
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="• CINE",CINE - HBO POP
-http://tv.nstvlatino.com:8080/UY1108/@373839/47445
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/47445
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - HBO FAMILY " tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="• CINE",CINE - HBO FAMILY 
-http://tv.nstvlatino.com:8080/UY1108/@373839/4017
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4017
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO MUNDI" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="• CINE",CINE - HBO MUNDI
-http://tv.nstvlatino.com:8080/UY1108/@373839/1143815
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1143815
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="• CINE",CINE - TNT FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4103
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4103
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="• CINE",CINE - TNT
-http://tv.nstvlatino.com:8080/UY1108/@373839/4010
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4010
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="• CINE",CINE - TNT SERIES FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4050
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4050
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="• CINE",CINE - TNT SERIES
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156004
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156004
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - STAR CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="• CINE",CINE - STAR CHANNEL FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4022
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4022
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - STAR CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="• CINE",CINE - STAR CHANNEL
-http://tv.nstvlatino.com:8080/UY1108/@373839/4121
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4121
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL FHD" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="• CINE",CINE - CINECANAL FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4068
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4068
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY FHD" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="• CINE",CINE - SONY FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4048
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4048
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY MOVIES" tvg-logo="http://descargas.podzone.net/logos/-sony-movies.png" group-title="• CINE",CINE - SONY MOVIES
-http://tv.nstvlatino.com:8080/UY1108/@373839/1143816
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1143816
 #EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="• CINE",CINE - PARAMOUNT NETWORK
-http://tv.nstvlatino.com:8080/UY1108/@373839/4065
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4065
 #EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK HD" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="• CINE",CINE - PARAMOUNT NETWORK HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155799
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155799
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC FHD" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="• CINE",CINE - AMC FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4085
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4085
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="• CINE",CINE - AMC
-http://tv.nstvlatino.com:8080/UY1108/@373839/4118
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4118
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="CINE - SPACE FHD" tvg-logo="https://i.pinimg.com/originals/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg" group-title="• CINE",CINE - SPACE FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4099
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4099
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E FHD" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="• CINE",CINE - A&E FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4037
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4037
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="• CINE",CINE - A&E
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156013
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156013
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN FHD" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="• CINE",CINE - AXN FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4038
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4038
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="• CINE",CINE - AXN
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155784
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155784
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="• CINE",CINE - CINECANAL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155785
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155785
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX FHD" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="• CINE",CINE - CINEMAX FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4110
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4110
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="• CINE",CINE - CINEMAX
-http://tv.nstvlatino.com:8080/UY1108/@373839/1068350
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1068350
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX FHD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="• CINE",CINE - FX FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4044
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4044
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="CINE - FX HD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="• CINE",CINE - FX HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155789
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155789
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER FHD" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE",CINE - WARNER FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4053
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4053
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE",CINE - WARNER
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155808
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155808
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - SYFY FHD" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE",CINE - SYFY FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4049
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4049
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - SYFY" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE",CINE - SYFY
-http://tv.nstvlatino.com:8080/UY1108/@373839/3958
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/3958
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="CINE - TCM" tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="• CINE",CINE - TCM
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155806
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155806
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="• CINE",CINE - GOLDEN
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155790
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155790
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="CINE - GOLDEN EDGE" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="• CINE",CINE - GOLDEN EDGE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155791
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155791
 #EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE",CINE - GOLDEN PREMIERE
-http://tv.nstvlatino.com:8080/UY1108/@373839/4091
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4091
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN PLUS" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="• CINE",CINE - GOLDEN PLUS
-http://tv.nstvlatino.com:8080/UY1108/@373839/1148196
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1148196
 #EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE 2" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE",CINE - GOLDEN PREMIERE 2
-http://tv.nstvlatino.com:8080/UY1108/@373839/1148844
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1148844
 #EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="• CINE",CINE - DE PELICULA
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155786
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155786
 #EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA PLUS" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="• CINE",CINE - DE PELICULA PLUS
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155788
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155788
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - SUNDANCE TV" tvg-logo="http://descargas.podzone.net/logos/-sundance.png" group-title="• CINE",CINE - SUNDANCE TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/4101
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4101
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE - CINE LATINO" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="• CINE",CINE - CINE LATINO
-http://tv.nstvlatino.com:8080/UY1108/@373839/4136
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4136
 #EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png" group-title="• CINE",CINE - CINEMA DINAMITA
-http://tv.nstvlatino.com:8080/UY1108/@373839/4142
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4142
 #EXTINF:-1 tvg-id="ClaroCinema.co" tvg-name="CINE - CLARO CINEMA" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="• CINE",CINE - CLARO CINEMA
-http://tv.nstvlatino.com:8080/UY1108/@373839/4145
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4145
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="• CINE",CINE - PANICO TV HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/7436
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7436
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - TBS" tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="• CINE",CINE - TBS
-http://tv.nstvlatino.com:8080/UY1108/@373839/4011
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4011
 #EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="• CINE",CINE - DHE
-http://tv.nstvlatino.com:8080/UY1108/@373839/24180
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/24180
 #EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png" group-title="• CINE",CINE - EUROPA EUROPA
-http://tv.nstvlatino.com:8080/UY1108/@373839/33359
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33359
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DISNEY FAMILY" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DISNEY-FAMILY.png" group-title="• CINE",CINE - CINEMA DISNEY FAMILY
-http://tv.nstvlatino.com:8080/UY1108/@373839/1161847
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1161847
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DC UNIVERSE" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DC-UNIVERSE.png" group-title="• CINE",CINE - CINEMA DC UNIVERSE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1161848
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1161848
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DREAMWORKS" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DREAMWORKS.png" group-title="• CINE",CINE - CINEMA DREAMWORKS
-http://tv.nstvlatino.com:8080/UY1108/@373839/1161849
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1161849
 #EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="• CINE",CINE - UNIVERSAL CHANNEL FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4054
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4054
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="• CINE",CINE - MORBID TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/33364
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33364
 #EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="• CINE",CINE - UNIVERSAL CHANNEL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156005
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156005
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL FHD" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="• CINE",CINE - STUDIO UNIVERSAL FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4100
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4100
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="• CINE",CINE - STUDIO UNIVERSAL
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155803
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155803
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL REALITY" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="• CINE",CINE - UNIVERSAL REALITY
-http://tv.nstvlatino.com:8080/UY1108/@373839/1119205
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1119205
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CINEMA" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="• CINE",CINE - UNIVERSAL CINEMA
-http://tv.nstvlatino.com:8080/UY1108/@373839/1119206
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1119206
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="• CINE",CINE - UNIVERSAL CRIME OESTE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1119200
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1119200
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="• CINE",CINE - UNIVERSAL PREMIER OESTE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1119201
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1119201
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL COMEDY" tvg-logo="http://descargas.podzone.net/logos/-universal-comedy.png" group-title="• CINE",CINE - UNIVERSAL COMEDY
-http://tv.nstvlatino.com:8080/UY1108/@373839/1119202
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1119202
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="• CINE",CINE - UNIVERSAL CRIME ESTE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1119203
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1119203
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="• CINE",CINE - UNIVERSAL PREMIER ESTE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1119204
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1119204
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="CINE - MOVIE CENTER PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBdHYMAKhn4Wzk3tdM6iHR-ftiGKyE92ozA&s" group-title="• CINE",CINE - MOVIE CENTER PREMIUM
-http://tv.nstvlatino.com:8080/UY1108/@373839/1147993
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1147993
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - CINE MANIA" tvg-logo="http://descargas.podzone.net/logos/-cine-mania.png" group-title="• CINE",CINE - CINE MANIA
-http://tv.nstvlatino.com:8080/UY1108/@373839/1148843
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1148843
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DISNEY PIXAR" tvg-logo="http://descargas.podzone.net/logos/-cinema-disney-pixar.png" group-title="• CINE",CINE - CINEMA DISNEY PIXAR
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155781
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155781
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title="• CINE",CINE - CINE ESTELAR
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156007
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156007
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA FAMILIA" tvg-logo="http://descargas.podzone.net/logos2/-CINE-FAMILIA.png" group-title="• CINE",CINE - CINEMA FAMILIA
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156760
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156760
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MULTICINEMA" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - MULTICINEMA
-http://tv.nstvlatino.com:8080/UY1108/@373839/1148845
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1148845
 #EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="ENT - LIFETIME HD" tvg-logo="http://descargas.podzone.net/logos/-lifetime.png" group-title="• ENTRETENIMIENTO",ENT - LIFETIME HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155873
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155873
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT - E! ENTERTAINMENT FHD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO",ENT - E! ENTERTAINMENT FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4041
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4041
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -  E! ENTERTAINMENT HD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO",ENT -  E! ENTERTAINMENT HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155867
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155867
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO",ENT - DISCOVERY TURBO FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4075
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4075
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO",ENT - DISCOVERY TURBO
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155871
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155871
 #EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT -  EL GARAGE HD" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO",ENT -  EL GARAGE HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155864
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155864
 #EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT - EL GARAGE TV" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO",ENT - EL GARAGE TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/4016
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4016
 #EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT - EL GOURMET FHD" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO",ENT - EL GOURMET FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4042
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4042
 #EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT - EL GOURMET HD" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO",ENT - EL GOURMET HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155868
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155868
 #EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="ENT - FOOD NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4057
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4057
 #EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="ENT - FOOD NETWORK" tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK
-http://tv.nstvlatino.com:8080/UY1108/@373839/4146
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4146
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT - COMEDY CENTRAL FHD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO",ENT - COMEDY CENTRAL FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4039
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4039
 #EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ENT - Comedy Central HD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO",ENT - Comedy Central HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155872
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155872
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENT - DISTRITO COMEDIA FHD" tvg-logo="http://descargas.podzone.net/logos/-distrito-comedia.png" group-title="• ENTRETENIMIENTO",ENT - DISTRITO COMEDIA FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4040
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4040
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT - WOBI TV FHD" tvg-logo="http://descargas.podzone.net/logos/-wobi-tv.png" group-title="• ENTRETENIMIENTO",ENT - WOBI TV FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4107
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4107
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT -WOBI" tvg-logo="http://descargas.podzone.net/logos/-wobi-tv.png" group-title="• ENTRETENIMIENTO",ENT -WOBI
-http://tv.nstvlatino.com:8080/UY1108/@373839/4134
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4134
 #EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV FHD" tvg-logo="http://descargas.podzone.net/logos/-hola-tv.png" group-title="• ENTRETENIMIENTO",ENT - HOLA TV FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4046
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4046
 #EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV HD" tvg-logo="http://descargas.podzone.net/logos/-hola-tv.png" group-title="• ENTRETENIMIENTO",ENT - HOLA TV HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155874
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155874
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ENT - MAS CHIC FHD" tvg-logo="http://descargas.podzone.net/logos/-MAS-chic.png" group-title="• ENTRETENIMIENTO",ENT - MAS CHIC FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4047
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4047
 #EXTINF:-1 tvg-id="" tvg-name="ENT - EWTN" tvg-logo="http://descargas.podzone.net/logos/-EWTN.png" group-title="• ENTRETENIMIENTO",ENT - EWTN
-http://tv.nstvlatino.com:8080/UY1108/@373839/34609
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/34609
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ENT - COCINA " tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="• ENTRETENIMIENTO",ENT - COCINA 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1153332
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1153332
 #EXTINF:-1 tvg-id="" tvg-name="ENT - BITME" tvg-logo="http://descargas.podzone.net/logos/-bitme.png" group-title="• ENTRETENIMIENTO",ENT - BITME
-http://tv.nstvlatino.com:8080/UY1108/@373839/47698
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/47698
 #EXTINF:-1 tvg-id="truTV.mx" tvg-name="ENT - TRU TV" tvg-logo="http://descargas.podzone.net/logos/-TRU-TV.png" group-title="• ENTRETENIMIENTO",ENT - TRU TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155879
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155879
 #EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF - BABY TV" tvg-logo="http://descargas.podzone.net/logos/-baby-tv.png" group-title="• INFANTILES •",INF - BABY TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/3798
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/3798
 #EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF -  BABY TV HQ FHD" tvg-logo="http://descargas.podzone.net/logos/-baby-tv.png" group-title="• INFANTILES •",INF -  BABY TV HQ FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4116
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4116
 #EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="INF - BABY FIRST FHD" tvg-logo="http://descargas.podzone.net/logos/-baby-first.png" group-title="• INFANTILES •",INF - BABY FIRST FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4088
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4088
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - CARTOONITO FHD" tvg-logo="http://descargas.podzone.net/logos/-cartoonito.png" group-title="• INFANTILES •",INF - CARTOONITO FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4061
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4061
 #EXTINF:-1 tvg-id="" tvg-name="INF - CARTOONITO HD" tvg-logo="http://descargas.podzone.net/logos/-cartoonito.png" group-title="• INFANTILES •",INF - CARTOONITO HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155854
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155854
 #EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="INF - TOONCAST FHD" tvg-logo="http://descargas.podzone.net/logos/-tooncast.png" group-title="• INFANTILES •",INF - TOONCAST FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4051
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4051
 #EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="INF -  TOONCAST" tvg-logo="http://descargas.podzone.net/logos/-tooncast.png" group-title="• INFANTILES •",INF -  TOONCAST
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155861
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155861
 #EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="INF - NICKELODEON FHD" tvg-logo="http://descargas.podzone.net/logos/-nickelodeon.png" group-title="• INFANTILES •",INF - NICKELODEON FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4058
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4058
 #EXTINF:-1 tvg-id="" tvg-name="INF - NICKELODEON HD" tvg-logo="http://descargas.podzone.net/logos/-nickelodeon.png" group-title="• INFANTILES •",INF - NICKELODEON HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155856
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155856
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF - DISCOVERY KIDS FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="• INFANTILES •",INF - DISCOVERY KIDS FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4072
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4072
 #EXTINF:-1 tvg-id="" tvg-name="INF - DISCOVERY KIDS HD" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="• INFANTILES •",INF - DISCOVERY KIDS HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155851
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155851
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF - CARTOON NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="• INFANTILES •",INF - CARTOON NETWORK FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4063
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4063
 #EXTINF:-1 tvg-id="" tvg-name="INF - CARTOON NETWORK" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="• INFANTILES •",INF - CARTOON NETWORK
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155850
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155850
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="INF - DISNEY CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-disney-channel.png" group-title="• INFANTILES •",INF - DISNEY CHANNEL
-http://tv.nstvlatino.com:8080/UY1108/@373839/4004
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4004
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF - DISNEY JR FHD" tvg-logo="http://descargas.podzone.net/logos/-DISNEY-JR.png" group-title="• INFANTILES •",INF - DISNEY JR FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4111
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4111
 #EXTINF:-1 tvg-id="" tvg-name="INF  - DISNEY JR" tvg-logo="http://descargas.podzone.net/logos/-DISNEY-JR.png" group-title="• INFANTILES •",INF  - DISNEY JR
-http://tv.nstvlatino.com:8080/UY1108/@373839/1144260
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1144260
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF - NICK JUNIOR" tvg-logo="http://descargas.podzone.net/logos2/-NICK-JUNIOR.png" group-title="• INFANTILES •",INF - NICK JUNIOR
-http://tv.nstvlatino.com:8080/UY1108/@373839/4194
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4194
 #EXTINF:-1 tvg-id="" tvg-name="INF - BABY FIRST" tvg-logo="http://descargas.podzone.net/logos/-baby-first.png" group-title="• INFANTILES •",INF - BABY FIRST
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155858
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155858
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - TEEN NICK " tvg-logo="http://descargas.podzone.net/logos/-teennick.png" group-title="• INFANTILES •",INF - TEEN NICK 
-http://tv.nstvlatino.com:8080/UY1108/@373839/4140
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4140
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="CINP - STARZ IN BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-in-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ IN BLACK
-http://tv.nstvlatino.com:8080/UY1108/@373839/8126
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8126
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="CINP - STARZ IN BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-in-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ IN BLACK
-http://tv.nstvlatino.com:8080/UY1108/@373839/8137
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8137
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="CINP - STARZ ENCORE ACTION HD" tvg-logo="http://descargas.podzone.net/logos/-starz-encore-action.png" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE ACTION HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8128
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8128
 #EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="CINP - STARZ ENCORE BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-encore-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE BLACK
-http://tv.nstvlatino.com:8080/UY1108/@373839/8127
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8127
 #EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="CINP - STARZ KIDS & FAMILY" tvg-logo="http://descargas.podzone.net/logos/-starz-kids-&-family.png" group-title="•CINEMA PREMIUM•",CINP - STARZ KIDS & FAMILY
-http://tv.nstvlatino.com:8080/UY1108/@373839/8133
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8133
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="CINP - STARZ COMEDY HD" tvg-logo="http://descargas.podzone.net/logos/-starz-comedy.png" group-title="•CINEMA PREMIUM•",CINP - STARZ COMEDY HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8135
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8135
 #EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="CINP - STARZ CINEMA HD" tvg-logo="http://descargas.podzone.net/logos/-starz-cinema.png" group-title="•CINEMA PREMIUM•",CINP - STARZ CINEMA HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8136
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8136
 #EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ WESTERN HD" tvg-logo="http://descargas.podzone.net/logos/-starz-western.png" group-title="•CINEMA PREMIUM•",CINP - STARZ WESTERN HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8134
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8134
 #EXTINF:-1 tvg-id="" tvg-name="CINP - SHOWTIME BEYOND HD" tvg-logo="http://descargas.podzone.net/logos/-showtime-beyond.png" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME BEYOND HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8139
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8139
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOTIME WEST HD" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOTIME WEST HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8141
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8141
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOW TIME HD" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOW TIME HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8138
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8138
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOWTIME EAST" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME EAST
-http://tv.nstvlatino.com:8080/UY1108/@373839/8140
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8140
 #EXTINF:-1 tvg-id="MovieMax.us" tvg-name="CINP - MORE MAX HD" tvg-logo="http://descargas.podzone.net/logos/-more-max.png" group-title="•CINEMA PREMIUM•",CINP - MORE MAX HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8143
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8143
 #EXTINF:-1 tvg-id="MovieMax.us" tvg-name="CINP - MOVIE MAX" tvg-logo="http://descargas.podzone.net/logos/movie-max.png" group-title="•CINEMA PREMIUM•",CINP - MOVIE MAX
-http://tv.nstvlatino.com:8080/UY1108/@373839/8144
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8144
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - MOVIEPLEX" tvg-logo="http://descargas.podzone.net/logos/-movieplex.png" group-title="•CINEMA PREMIUM•",CINP - MOVIEPLEX
-http://tv.nstvlatino.com:8080/UY1108/@373839/8145
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8145
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - INDIE PLEX" tvg-logo="http://descargas.podzone.net/logos/-indie-plex.png" group-title="•CINEMA PREMIUM•",CINP - INDIE PLEX
-http://tv.nstvlatino.com:8080/UY1108/@373839/8142
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8142
 #EXTINF:-1 tvg-id="OuterMax.us" tvg-name="CINP - OUTERMAX HD" tvg-logo="http://descargas.podzone.net/logos/-outermax.png" group-title="•CINEMA PREMIUM•",CINP - OUTERMAX HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8146
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8146
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - RETROPLEX HD" tvg-logo="http://descargas.podzone.net/logos/-retroplex.png" group-title="•CINEMA PREMIUM•",CINP - RETROPLEX HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8147
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8147
 #EXTINF:-1 tvg-id="MonteCarloTV.uy" tvg-name="URU - CANAL 4 ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU - CANAL 4 ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/8334
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8334
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-name="URU - CANAL 4 ˢ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU - CANAL 4 ˢ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/18261
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/18261
 #EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU - CANAL 10 ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU - CANAL 10 ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/18567
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/18567
 #EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU - CANAL 10 ᶠʰ ᵈ" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU - CANAL 10 ᶠʰ ᵈ
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155782
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155782
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE 12 ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE 12 ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156212
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156212
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE 12 ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE 12 ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/18731
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/18731
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE 12" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE 12
-http://tv.nstvlatino.com:8080/UY1108/@373839/18578
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/18578
 #EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URU - TV CIUDAD ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-tv-ciudad.png" group-title="URUGUAY",URU - TV CIUDAD ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/19352
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/19352
 #EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URU - TV CIUDAD" tvg-logo="http://descargas.podzone.net/logos/-tv-ciudad.png" group-title="URUGUAY",URU - TV CIUDAD
-http://tv.nstvlatino.com:8080/UY1108/@373839/16136
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/16136
 #EXTINF:-1 tvg-id="" tvg-name="URU  - A+V " tvg-logo="http://descargas.podzone.net/logos/-AmasV.png" group-title="URUGUAY",URU  - A+V 
-http://tv.nstvlatino.com:8080/UY1108/@373839/51359
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/51359
 #EXTINF:-1 tvg-id="TelevisionNacionalUruguay.uy" tvg-name="URU - CANAL 5 URUGUAY " tvg-logo="http://descargas.podzone.net/logos/-canal-5-uruguay.png" group-title="URUGUAY",URU - CANAL 5 URUGUAY 
-http://tv.nstvlatino.com:8080/UY1108/@373839/19351
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/19351
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="URU - DIRECTV URUGUAY ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="URUGUAY",URU - DIRECTV URUGUAY ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156003
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156003
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="URU - ESPN URUGUAY ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="URUGUAY",URU - ESPN URUGUAY ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156002
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156002
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-VTV.png" group-title="URUGUAY",URU - VTV ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/3802
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/3802
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV " tvg-logo="http://descargas.podzone.net/logos/-VTV.png" group-title="URUGUAY",URU - VTV 
-http://tv.nstvlatino.com:8080/UY1108/@373839/22204
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/22204
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV Plus ᴴ ᴰ" tvg-logo="http://descargas.podzone.net/logos/-VTV-plus.png" group-title="URUGUAY",URU - VTV Plus ᴴ ᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/19354
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/19354
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV Plus " tvg-logo="http://descargas.podzone.net/logos/-VTV-plus.png" group-title="URUGUAY",URU - VTV Plus 
-http://tv.nstvlatino.com:8080/UY1108/@373839/52513
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/52513
 #EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 11 PUNTA DEL ESTE HD" tvg-logo="http://descargas.podzone.net/logos/-canal-11-punta-del-este.png" group-title="URUGUAY",URU - CANAL 11 PUNTA DEL ESTE HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1139100
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1139100
 #EXTINF:-1 tvg-id="" tvg-name="URU - LA RED" tvg-logo="http://descargas.podzone.net/logos/-la-red.png" group-title="URUGUAY",URU - LA RED
-http://tv.nstvlatino.com:8080/UY1108/@373839/35428
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/35428
 #EXTINF:-1 tvg-id="" tvg-name="URU - MAROÑAS ENTERTAIMENT " tvg-logo="http://descargas.podzone.net/logos/-maronas-entertaiment.png" group-title="URUGUAY",URU - MAROÑAS ENTERTAIMENT 
-http://tv.nstvlatino.com:8080/UY1108/@373839/31618
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/31618
 #EXTINF:-1 tvg-id="" tvg-name="URU - 1000 x HORA " tvg-logo="http://descargas.podzone.net/logos/-1000-x-hora.png" group-title="URUGUAY",URU - 1000 x HORA 
-http://tv.nstvlatino.com:8080/UY1108/@373839/34605
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/34605
 #EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 1" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 1
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155780
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155780
 #EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 2" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 2
-http://tv.nstvlatino.com:8080/UY1108/@373839/7943
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7943
 #EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 3" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 3
-http://tv.nstvlatino.com:8080/UY1108/@373839/43600
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/43600
 #EXTINF:-1 tvg-id="" tvg-name="URU - GOL TV" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="URUGUAY",URU - GOL TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/1137832
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1137832
 #EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 4" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 4
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156974
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156974
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA UNO HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX - AZTECA UNO HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155859
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155859
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZTECA UNO HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX - AZTECA UNO HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4087
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4087
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA UNO" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX - AZTECA UNO
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155860
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155860
 #EXTINF:-1 tvg-id="" tvg-name="MX - UNO MVS TV" tvg-logo="http://descargas.podzone.net/logos/-uno-MVS-tv.png" group-title="MEXICO",MX - UNO MVS TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/6022
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/6022
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - EL CANAL DE LAS ESTRELLAS SUR" tvg-logo="http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png" group-title="MEXICO",MX - EL CANAL DE LAS ESTRELLAS SUR
-http://tv.nstvlatino.com:8080/UY1108/@373839/4030
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4030
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX -  FORO TV HD" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX -  FORO TV HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155869
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155869
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX -  FORO TV " tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX -  FORO TV 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155870
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155870
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MX - FORO TV" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX - FORO TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/4029
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4029
 #EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MX - CANAL 5 FHD" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="MEXICO",MX - CANAL 5 FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4028
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4028
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="MEXICO",MX - CANAL 5 HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155865
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155865
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="MEXICO",MX - CANAL 5
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155866
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155866
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX - AZTECA 7 FHD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX - AZTECA 7 FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4027
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4027
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7 HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX - AZTECA 7 HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155862
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155862
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX - AZTECA 7
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155863
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155863
 #EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="MX - ADN 40" tvg-logo="http://descargas.podzone.net/logos/-ADN-40.png" group-title="MEXICO",MX - ADN 40
-http://tv.nstvlatino.com:8080/UY1108/@373839/4025
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4025
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ CINEMA FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png" group-title="MEXICO",MX - AZ CINEMA FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4086
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4086
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZ CORAZON" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="MEXICO",MX - AZ CORAZON
-http://tv.nstvlatino.com:8080/UY1108/@373839/4026
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4026
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ MUNDO FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-mundo.png" group-title="MEXICO",MX - AZ MUNDO FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4055
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4055
 #EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="MX - GALA TV" tvg-logo="http://descargas.podzone.net/logos/-gala-tv.png" group-title="MEXICO",MX - GALA TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/4031
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4031
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - NUEVE" tvg-logo="http://descargas.podzone.net/logos/-nueve.png" group-title="MEXICO",MX - NUEVE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155855
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155855
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV FHD" tvg-logo="http://descargas.podzone.net/logos/-once-tv.png" group-title="MEXICO",MX - ONCE TV FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4035
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4035
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV NIÑOS Y NIÑAS" tvg-logo="http://descargas.podzone.net/logos/-once-tv-ninos-y-ninas.png" group-title="MEXICO",MX - ONCE TV NIÑOS Y NIÑAS
-http://tv.nstvlatino.com:8080/UY1108/@373839/47697
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/47697
 #EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX - MULTIMEDIOS MONTERREY FHD" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4033
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4033
 #EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX - MULTIMEDIOS MONTERREY" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY
-http://tv.nstvlatino.com:8080/UY1108/@373839/4125
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4125
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - MULTIMEDIOS MONTERREY PLUS" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nstvlatino.com:8080/UY1108/@373839/4034
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4034
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA FHD" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX - TELEFORMULA FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4036
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4036
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX - TELEFORMULA
-http://tv.nstvlatino.com:8080/UY1108/@373839/4129
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4129
 #EXTINF:-1 tvg-id="" tvg-name="MX - TELEVISA MTY" tvg-logo="http://descargas.podzone.net/logos/-televisa-MTY.png" group-title="MEXICO",MX - TELEVISA MTY
-http://tv.nstvlatino.com:8080/UY1108/@373839/4066
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4066
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="MX - UNICABLE FHD" tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/4052
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4052
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - UNICABLE HD" tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155852
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155852
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CORAZON HD " tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="MEXICO",MX - CORAZON HD 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155857
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155857
 #EXTINF:-1 tvg-id="" tvg-name="MX - Comedy Central" tvg-logo="http://descargas.podzone.net/logos/-comedy-central-mx.png" group-title="MEXICO",MX - Comedy Central
-http://tv.nstvlatino.com:8080/UY1108/@373839/1158426
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1158426
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - UNICABLE " tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155853
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155853
 #EXTINF:-1 tvg-id="" tvg-name="MX - MILENIO TV " tvg-logo="http://descargas.podzone.net/logos/-milenio-tv.png" group-title="MEXICO",MX - MILENIO TV 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1158427
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1158427
 #EXTINF:-1 tvg-id="TeleNovelasLatinAmerica.pa" tvg-name="MX - TLN TELENOVELAS" tvg-logo="http://descargas.podzone.net/logos/-TL-telenovelas.png" group-title="MEXICO",MX - TLN TELENOVELAS
-http://tv.nstvlatino.com:8080/UY1108/@373839/4130
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4130
 #EXTINF:-1 tvg-id="" tvg-name="MX- IMAGEN TV FHD" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX- IMAGEN TV FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1124600
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1124600
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MX - IMAGEN TV" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX - IMAGEN TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/4149
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4149
 #EXTINF:-1 tvg-id="" tvg-name="MX - TV UNAM" tvg-logo="http://descargas.podzone.net/logos/-tv-UNAM.png" group-title="MEXICO",MX - TV UNAM
-http://tv.nstvlatino.com:8080/UY1108/@373839/18574
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/18574
 #EXTINF:-1 tvg-id="" tvg-name="MX - INGENIO TV" tvg-logo="http://descargas.podzone.net/logos/-ingenio-tv.png" group-title="MEXICO",MX - INGENIO TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/33358
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33358
 #EXTINF:-1 tvg-id="" tvg-name="MX - TV MAS" tvg-logo="http://descargas.podzone.net/logos/-tv-mas.png" group-title="MEXICO",MX - TV MAS
-http://tv.nstvlatino.com:8080/UY1108/@373839/33365
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33365
 #EXTINF:-1 tvg-id="" tvg-name="MX - TV UNAM" tvg-logo="http://descargas.podzone.net/logos/-CN6.png" group-title="MEXICO",MX - TV UNAM
-http://tv.nstvlatino.com:8080/UY1108/@373839/1160042
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1160042
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="MX - TVC" tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title="MEXICO",MX - TVC
-http://tv.nstvlatino.com:8080/UY1108/@373839/4105
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4105
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MX - TV4" tvg-logo="http://descargas.podzone.net/logos/-tv4.png" group-title="MEXICO",MX - TV4
-http://tv.nstvlatino.com:8080/UY1108/@373839/33367
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/33367
 #EXTINF:-1 tvg-id="" tvg-name="MX - AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png" group-title="MEXICO",MX - AFIZZIONADOS
-http://tv.nstvlatino.com:8080/UY1108/@373839/8248
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8248
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="MX - TUDN MX FHD" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="MEXICO",MX - TUDN MX FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1105665
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1105665
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - LA RED HD" tvg-logo="http://descargas.podzone.net/logos/-la-red-chile.png" group-title="CHILE",CHILE - LA RED HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/51823
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/51823
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHILE - CANAL 13 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-13.png" group-title="CHILE",CHILE - CANAL 13 HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1145137
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1145137
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHILE - CANAL 13 " tvg-logo="http://descargas.podzone.net/logos/-canal-13.png" group-title="CHILE",CHILE - CANAL 13 
-http://tv.nstvlatino.com:8080/UY1108/@373839/3853
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/3853
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA HD" tvg-logo="http://descargas.podzone.net/logos/-mega.png" group-title="CHILE",CHILE - MEGA HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155841
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155841
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA" tvg-logo="http://descargas.podzone.net/logos/-mega.png" group-title="CHILE",CHILE - MEGA
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155842
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155842
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CHILE - TVN HD" tvg-logo="http://descargas.podzone.net/logos/-TVN.png" group-title="CHILE",CHILE - TVN HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155826
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155826
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN" tvg-logo="http://descargas.podzone.net/logos/-TVN.png" group-title="CHILE",CHILE - TVN
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155817
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155817
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION HD " tvg-logo="http://descargas.podzone.net/logos/-chilevision.png" group-title="CHILE",CHILE - CHILEVISION HD 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155835
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155835
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION" tvg-logo="http://descargas.podzone.net/logos/-chilevision.png" group-title="CHILE",CHILE - CHILEVISION
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155836
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155836
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CHILE - 13C FHD" tvg-logo="http://descargas.podzone.net/logos/-13C.png" group-title="CHILE",CHILE - 13C FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1091369
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1091369
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CHILE - 13C HD" tvg-logo="http://descargas.podzone.net/logos/-13C.png" group-title="CHILE",CHILE - 13C HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1091370
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1091370
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="CHILE - 24 HORAS" tvg-logo="http://descargas.podzone.net/logos/-24-horas.png" group-title="CHILE",CHILE - 24 HORAS
-http://tv.nstvlatino.com:8080/UY1108/@373839/23237
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/23237
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - NTV HD" tvg-logo="http://descargas.podzone.net/logos/-NTV.png" group-title="CHILE",CHILE - NTV HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/27103
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/27103
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TV+ HD" tvg-logo="http://descargas.podzone.net/logos/-TV+.png" group-title="CHILE",CHILE - TV+ HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/30700
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/30700
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TV+" tvg-logo="http://descargas.podzone.net/logos/-TV+.png" group-title="CHILE",CHILE - TV+
-http://tv.nstvlatino.com:8080/UY1108/@373839/1094403
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1094403
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - ZONA LATINA" tvg-logo="http://descargas.podzone.net/logos/-zona-latina.png" group-title="CHILE",CHILE - ZONA LATINA
-http://tv.nstvlatino.com:8080/UY1108/@373839/1141627
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1141627
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - VIAX" tvg-logo="http://descargas.podzone.net/logos2/-VIAX-chile.png" group-title="CHILE",CHILE - VIAX
-http://tv.nstvlatino.com:8080/UY1108/@373839/1142322
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1142322
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - REC TV" tvg-logo="http://descargas.podzone.net/logos/-REC-TV.png" group-title="CHILE",CHILE - REC TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155840
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155840
 #EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="CHILE - TELETRAK HD" tvg-logo="http://descargas.podzone.net/logos/-teletrak.png" group-title="CHILE",CHILE - TELETRAK HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/3854
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/3854
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - CNN CHILE" tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="CHILE",CHILE - CNN CHILE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155843
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155843
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - ESPN CHILE HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="CHILE",CHILE - ESPN CHILE HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1068348
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1068348
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE - ESPN CHILE" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="CHILE",CHILE - ESPN CHILE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1117657
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1117657
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE - TNT SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS
-http://tv.nstvlatino.com:8080/UY1108/@373839/16138
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/16138
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1156014
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1156014
 #EXTINF:-1 tvg-id="" tvg-name="CHILE-TNT SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE-TNT SPORTS FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1160041
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1160041
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS 2 FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1129864
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1129864
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS 2 HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1129865
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1129865
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS 3
-http://tv.nstvlatino.com:8080/UY1108/@373839/1068349
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1068349
 #EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="CHILE - ESTADIO TNT" tvg-logo="http://descargas.podzone.net/logos/-estadio-TNT.png" group-title="CHILE",CHILE - ESTADIO TNT
-http://tv.nstvlatino.com:8080/UY1108/@373839/6979
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/6979
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - CDO PREMIUM " tvg-logo="http://descargas.podzone.net/logos/-CDO-premium.png" group-title="CHILE",CHILE - CDO PREMIUM 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155837
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155837
 #EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO FHD" tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="ECUADOR",ECU - CANAL UNO FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8083
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8083
 #EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO SD" tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="ECUADOR",ECU - CANAL UNO SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53452
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53452
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA FHD" tvg-logo="http://descargas.podzone.net/logos/-ecuavisa.png" group-title="ECUADOR",ECU - ECUAVISA FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53455
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53455
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA SD" tvg-logo="http://descargas.podzone.net/logos/-ecuavisa.png" group-title="ECUADOR",ECU - ECUAVISA SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/8084
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8084
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS + FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU - DIRECTV SPORTS + FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53490
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53490
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU - DIRECTV SPORTS FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53462
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53462
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU - DIRECTV SPORTS HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/23239
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/23239
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="ECU - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="ECUADOR",ECU - DIRECTV SPORTS 2 HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53489
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53489
 #EXTINF:-1 tvg-id="" tvg-name="ECU - EL CANAL DEL FÚTBOL FHD" tvg-logo="http://descargas.podzone.net/logos/-el-canal-del-futbol.png" group-title="ECUADOR",ECU - EL CANAL DEL FÚTBOL FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1092640
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1092640
 #EXTINF:-1 tvg-id="" tvg-name="EC - EL CANAL DEL FÚTBOL HD" tvg-logo="http://descargas.podzone.net/logos/-el-canal-del-futbol.png" group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1086208
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1086208
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - GOL TV FHD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="ECUADOR",ECU - GOL TV FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53381
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53381
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - GOL TV HD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="ECUADOR",ECU - GOL TV HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53491
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53491
 #EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV SD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="ECUADOR",ECU - GOL TV SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/25753
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/25753
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION FHD" tvg-logo="http://descargas.podzone.net/logos/-TC-television.png" group-title="ECUADOR",ECU - TC TELEVISION FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53458
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53458
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION HD" tvg-logo="http://descargas.podzone.net/logos/-TC-television.png" group-title="ECUADOR",ECU - TC TELEVISION HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/7533
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7533
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS FHD" tvg-logo="http://descargas.podzone.net/logos/-teleamazonas.png" group-title="ECUADOR",ECU - TELEAMAZONAS FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/7532
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7532
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS SD" tvg-logo="http://descargas.podzone.net/logos/-teleamazonas.png" group-title="ECUADOR",ECU - TELEAMAZONAS SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53459
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53459
 #EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMAVISIÓN FHD" tvg-logo="http://descargas.podzone.net/logos/-gamavision.png" group-title="ECUADOR",ECU - GAMAVISIÓN FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53456
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53456
 #EXTINF:-1 tvg-id="" tvg-name="ECU - ECUADOR TV HD" tvg-logo="http://descargas.podzone.net/logos/-ecuador-tv.png" group-title="ECUADOR",ECU - ECUADOR TV HD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53453
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53453
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - CNT SPORTS / GOL TV" tvg-logo="http://descargas.podzone.net/logos/-CNT-sportsgol.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/7471
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7471
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS" tvg-logo="http://descargas.podzone.net/logos/-RTS.png" group-title="ECUADOR",ECU - RTS
-http://tv.nstvlatino.com:8080/UY1108/@373839/7534
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7534
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS SD" tvg-logo="http://descargas.podzone.net/logos/-RTS.png" group-title="ECUADOR",ECU - RTS SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53457
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53457
 #EXTINF:-1 tvg-id="" tvg-name="ECU - PPV ECUADOR" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="ECUADOR",ECU - PPV ECUADOR
-http://tv.nstvlatino.com:8080/UY1108/@373839/1118922
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1118922
 #EXTINF:-1 tvg-id="" tvg-name="ECU - TVC FHD" tvg-logo="http://descargas.podzone.net/logos/-TVC-ecuador.png" group-title="ECUADOR",ECU - TVC FHD
-http://tv.nstvlatino.com:8080/UY1108/@373839/53460
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/53460
 #EXTINF:-1 tvg-id="" tvg-name="ECU - OROMAR TV" tvg-logo="http://descargas.podzone.net/logos/-oromar.png" group-title="ECUADOR",ECU - OROMAR TV
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155849
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155849
 #EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG - EL TRECE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA",ARG - EL TRECE ᴴᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/51070
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/51070
 #EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG - EL TRECE" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA",ARG - EL TRECE
-http://tv.nstvlatino.com:8080/UY1108/@373839/7431
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/7431
 #EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG - EL NUEVE" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA",ARG - EL NUEVE
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155825
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155825
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG - TELEFE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA",ARG - TELEFE ᴴᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/51071
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/51071
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA",ARG - TELEFE 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155824
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155824
 #EXTINF:-1 tvg-id="" tvg-name="ARG - AMERICA HD " tvg-logo="http://descargas.podzone.net/logos/-america.png" group-title="ARGENTINA",ARG - AMERICA HD 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155829
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155829
 #EXTINF:-1 tvg-id="" tvg-name="ARG - AMERICA SD" tvg-logo="http://descargas.podzone.net/logos/-america.png" group-title="ARGENTINA",ARG - AMERICA SD
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155830
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155830
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="ARG - A24 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA",ARG - A24 ᴴᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/51073
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/51073
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="ARG - A24 " tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA",ARG - A24 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155831
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155831
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG - TV PUBLICA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA",ARG - TV PUBLICA ᴴᴰ
-http://tv.nstvlatino.com:8080/UY1108/@373839/8183
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/8183
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG - TV PUBLICA " tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA",ARG - TV PUBLICA 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155822
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155822
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="ARG - TN" tvg-logo="http://descargas.podzone.net/logos/-TN-argentina.png" group-title="ARGENTINA",ARG - TN
-http://tv.nstvlatino.com:8080/UY1108/@373839/18766
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/18766
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="ARG - C5N HD " tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",ARG - C5N HD 
-http://tv.nstvlatino.com:8080/UY1108/@373839/1155832
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/1155832
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="ARG - C5N" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",ARG - C5N
-http://tv.nstvlatino.com:8080/UY1108/@373839/17901
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/17901
 #EXTINF:-1 tvg-id="TelpinTV.ar" tvg-name="ARG - CRONICA" tvg-logo="http://descargas.podzone.net/logos/-cronica.png" group-title="ARGENTINA",ARG - CRONICA
-http://tv.nstvlatino.com:8080/UY1108/@373839/4188
+http://tv.nstvlatino.com:8080/eduardoyrosario/eduardo2019/4188
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - NET TV HD " tvg-logo="http://descargas.podzone.net/logos/-NET-tv.png" group-title="ARGENTINA",ARG - NET TV HD 
 http://tv.nstvlatino.com:8080/UY1108/@373839/1155827
 #EXTINF:-1 tvg-id="Channel26.ar" tvg-name="ARG - CANAL 26" tvg-logo="http://descargas.podzone.net/logos/-canal-26.png" group-title="ARGENTINA",ARG - CANAL 26
