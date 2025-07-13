@@ -7126,6 +7126,32 @@ http://series.tuxchannel.mx/series/invisible/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5j0smnKRsrutllRHjxg3NMsz4uV.jpg" group-title="Invisible", Cap. 06
 http://series.tuxchannel.mx/series/invisible/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqwZQQ3pRcYJCXZRJnZp7BCp1NV3.jpg" group-title="Invisible: Unseen T1", Cap. 01
+http://series.tuxchannel.mx/series/unseen/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqwZQQ3pRcYJCXZRJnZp7BCp1NV3.jpg" group-title="Invisible: Unseen T1", Cap. 02
+http://series.tuxchannel.mx/series/unseen/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqwZQQ3pRcYJCXZRJnZp7BCp1NV3.jpg" group-title="Invisible: Unseen T1", Cap. 03
+http://series.tuxchannel.mx/series/unseen/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqwZQQ3pRcYJCXZRJnZp7BCp1NV3.jpg" group-title="Invisible: Unseen T1", Cap. 04
+http://series.tuxchannel.mx/series/unseen/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqwZQQ3pRcYJCXZRJnZp7BCp1NV3.jpg" group-title="Invisible: Unseen T1", Cap. 05
+http://series.tuxchannel.mx/series/unseen/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqwZQQ3pRcYJCXZRJnZp7BCp1NV3.jpg" group-title="Invisible: Unseen T1", Cap. 06
+http://series.tuxchannel.mx/series/unseen/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lFKtgbboQohDi4tJNX1jp50WoXC.jpg" group-title="Invisible: Unseen T2", Cap. 01
+http://series.tuxchannel.mx/series/unseen/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lFKtgbboQohDi4tJNX1jp50WoXC.jpg" group-title="Invisible: Unseen T2", Cap. 02
+http://series.tuxchannel.mx/series/unseen/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lFKtgbboQohDi4tJNX1jp50WoXC.jpg" group-title="Invisible: Unseen T2", Cap. 03
+http://series.tuxchannel.mx/series/unseen/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lFKtgbboQohDi4tJNX1jp50WoXC.jpg" group-title="Invisible: Unseen T2", Cap. 04
+http://series.tuxchannel.mx/series/unseen/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lFKtgbboQohDi4tJNX1jp50WoXC.jpg" group-title="Invisible: Unseen T2", Cap. 05
+http://series.tuxchannel.mx/series/unseen/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lFKtgbboQohDi4tJNX1jp50WoXC.jpg" group-title="Invisible: Unseen T2", Cap. 06
+http://series.tuxchannel.mx/series/unseen/s_02_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Isabel",TRAILER
 https://archive.org/download/154b-31-4/154b31%204.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/3/w1280/ifewkQ4QAEGzxPJsAlEmtsQHBj4.jpg" group-title="Isabel",Cap. 01
