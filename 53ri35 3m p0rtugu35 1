@@ -3083,22 +3083,40 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/182371.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Terra indomável" tvg-logo="https://image.tmdb.org/t/p/original/68voon3x99XjhvkaPp2tSZ1q0yg.jpg" group-title="Terra indomável", 06
 http://principal.maxpainel.net:2052/series/LCE03/101123/182372.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos", 01
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos T1", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/51275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos", 02
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos T1", 02
 http://principal.maxpainel.net:2052/series/LCE03/101123/51276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos", 03
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos T1", 03
 http://principal.maxpainel.net:2052/series/LCE03/101123/51277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos", 04
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos T1", 04
 http://principal.maxpainel.net:2052/series/LCE03/101123/51278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos", 05
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos T1", 05
 http://principal.maxpainel.net:2052/series/LCE03/101123/51279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos", 06
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos T1", 06
 http://principal.maxpainel.net:2052/series/LCE03/101123/51280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos", 07
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos T1", 07
 http://principal.maxpainel.net:2052/series/LCE03/101123/51281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos", 08
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/jZHtRXCBYMcz2p4ojPsFfmaSZ9R.jpg" group-title="The chosen: Os escolhidos T1", 08
 http://principal.maxpainel.net:2052/series/LCE03/101123/51282.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 01
+http://principal.maxpainel.net:2052/series/LCE03/101123/78289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 02
+http://principal.maxpainel.net:2052/series/LCE03/101123/78290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 03
+http://principal.maxpainel.net:2052/series/LCE03/101123/78291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 04
+http://principal.maxpainel.net:2052/series/LCE03/101123/78292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 05
+http://principal.maxpainel.net:2052/series/LCE03/101123/78293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 06
+http://principal.maxpainel.net:2052/series/LCE03/101123/78294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 07
+http://principal.maxpainel.net:2052/series/LCE03/101123/78295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 08
+http://principal.maxpainel.net:2052/series/LCE03/101123/78296.mp4
+
 
 
 
