@@ -3117,8 +3117,22 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/78295.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/i4NARgCuir2TD9FqbM9QhSqnp9l.jpg" group-title="The chosen: Os escolhidos T2", 08
 http://principal.maxpainel.net:2052/series/LCE03/101123/78296.mp4
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/t5VrZ1yCWv1PclB4obAwcO31Okr.jpg" group-title="The chosen: Os escolhidos T3", 01
+http://principal.maxpainel.net:2052/series/LCE03/101123/136917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/t5VrZ1yCWv1PclB4obAwcO31Okr.jpg" group-title="The chosen: Os escolhidos T3", 02
+http://principal.maxpainel.net:2052/series/LCE03/101123/136918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/t5VrZ1yCWv1PclB4obAwcO31Okr.jpg" group-title="The chosen: Os escolhidos T3", 03
+http://principal.maxpainel.net:2052/series/LCE03/101123/136919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/t5VrZ1yCWv1PclB4obAwcO31Okr.jpg" group-title="The chosen: Os escolhidos T3", 04
+http://principal.maxpainel.net:2052/series/LCE03/101123/136920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/t5VrZ1yCWv1PclB4obAwcO31Okr.jpg" group-title="The chosen: Os escolhidos T3", 05
+http://principal.maxpainel.net:2052/series/LCE03/101123/136921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/t5VrZ1yCWv1PclB4obAwcO31Okr.jpg" group-title="The chosen: Os escolhidos T3", 06
+http://principal.maxpainel.net:2052/series/LCE03/101123/136922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/t5VrZ1yCWv1PclB4obAwcO31Okr.jpg" group-title="The chosen: Os escolhidos T3", 07
+http://principal.maxpainel.net:2052/series/LCE03/101123/136923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/t5VrZ1yCWv1PclB4obAwcO31Okr.jpg" group-title="The chosen: Os escolhidos T3", 08
+http://principal.maxpainel.net:2052/series/LCE03/101123/136924.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/84505.mp4
