@@ -2667,13 +2667,26 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/113146.mp4
 #EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/7KWdQa2KtbCgt3Ngj2CJb8SinQ7.jpg" group-title="o agente noturno T1", 10
 http://principal.maxpainel.net:2052/series/LCE03/101123/113147.mp4
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 01
+http://principal.maxpainel.net:2052/series/LCE03/101123/185213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 02
+http://principal.maxpainel.net:2052/series/LCE03/101123/185214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 03
+http://principal.maxpainel.net:2052/series/LCE03/101123/185215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 04
+http://principal.maxpainel.net:2052/series/LCE03/101123/185216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 05
+http://principal.maxpainel.net:2052/series/LCE03/101123/185217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 06
+http://principal.maxpainel.net:2052/series/LCE03/101123/185218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 07
+http://principal.maxpainel.net:2052/series/LCE03/101123/185219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 08
+http://principal.maxpainel.net:2052/series/LCE03/101123/185220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 09
+http://principal.maxpainel.net:2052/series/LCE03/101123/185221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o agente noturno" tvg-logo="https://image.tmdb.org/t/p/original/u5eQvA72oiW6AMATjwFXgab6hB2.jpg" group-title="o agente noturno T2", 10
+http://principal.maxpainel.net:2052/series/LCE03/101123/185222.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg" group-title="O assassino confesso", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/4906.mp4
