@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_19.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_95.mkv
-http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_44.mkv
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_49.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_43.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_05.mkv
 
@@ -1381,6 +1381,16 @@ http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_42.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_43.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 043
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_44.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 044
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_45.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 045
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_46.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 046
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_47.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 047
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_48.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 048
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_49.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwYzY4ODAtNzM2OC00MGM4LTgyYmQtN2QwMWM0NDM2MmQ4XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Contigo si",Cap. 001
 http://series.tuxchannel.mx/series/contigo_si/s_01_e_01.mkv
