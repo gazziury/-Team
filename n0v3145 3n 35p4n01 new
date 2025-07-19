@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_19.mkv
-http://series.tuxchannel.mx/series/la_jefa/s_01_e_94.mkv
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_95.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_44.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_43.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_05.mkv
@@ -5512,6 +5512,8 @@ http://series.tuxchannel.mx/series/la_jefa/s_01_e_92.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_93.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 092
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_94.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PpqPl6OPonNNet7dxCOxXCxkst.jpg" group-title="La jefa",Cap. 093
+http://series.tuxchannel.mx/series/la_jefa/s_01_e_95.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/8/w1280/om2lmK6ZIYLZCTr4HMiTgIpyXC2.jpg" group-title="La madrastra",Cap. 01
 http://series.tuxchannel.mx/series/la_madrastra/s_01_e_01.mkv
