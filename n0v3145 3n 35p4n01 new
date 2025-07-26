@@ -10,7 +10,7 @@ http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_21.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_95.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_51.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_45.mkv
-http://series.tuxchannel.mx/series/amanecer/s_01_e_09.mkv
+http://series.tuxchannel.mx/series/amanecer/s_01_e_11.mkv
 
 
 https://www.innovatv.store/contenido/SERIES/Monteverde/Monteverde%201080p%20Capitulo%20020.mp4
@@ -224,6 +224,10 @@ http://series.tuxchannel.mx/series/amanecer/s_01_e_07.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 009
 http://series.tuxchannel.mx/series/amanecer/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 010
+http://series.tuxchannel.mx/series/amanecer/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 011
+http://series.tuxchannel.mx/series/amanecer/s_01_e_11.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 001
 http://series.tuxchannel.mx/series/amar/s_01_e_01.mkv
