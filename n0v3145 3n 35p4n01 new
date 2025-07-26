@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_19.mkv
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_21.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_95.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_49.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_45.mkv
@@ -9949,6 +9949,10 @@ http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_17.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_18.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 019
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_19.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 020
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 021
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_21.mkv
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/WtdFEni.jpeg" group-title="Regreso a Las Sabinas",Cap. 001
 http://series.tuxchannel.mx/series/regreso_a_las_sabinas/s_01_e_01.mkv
