@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_25.mkv
 http://series.tuxchannel.mx/series/la_jefa/s_01_e_95.mkv
-http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_51.mkv
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_55.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_45.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_11.mkv
 
@@ -1407,6 +1407,14 @@ http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_49.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_50.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 050
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_51.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 051
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_52.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 052
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_53.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 053
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_54.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVmQzCtlr41Sjmj9X6nNbVRVk6T.jpg" group-title="Cautiva por amor",Cap. 054
+http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_55.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwYzY4ODAtNzM2OC00MGM4LTgyYmQtN2QwMWM0NDM2MmQ4XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Contigo si",Cap. 001
 http://series.tuxchannel.mx/series/contigo_si/s_01_e_01.mkv
