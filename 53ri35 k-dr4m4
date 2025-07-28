@@ -7,6 +7,38 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 01
+http://series.tuxchannel.mx/series/good_boy/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 02
+http://series.tuxchannel.mx/series/good_boy/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 03
+http://series.tuxchannel.mx/series/good_boy/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 04
+http://series.tuxchannel.mx/series/good_boy/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 05
+http://series.tuxchannel.mx/series/good_boy/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 06
+http://series.tuxchannel.mx/series/good_boy/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 07
+http://series.tuxchannel.mx/series/good_boy/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 08
+http://series.tuxchannel.mx/series/good_boy/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 09
+http://series.tuxchannel.mx/series/good_boy/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 10
+http://series.tuxchannel.mx/series/good_boy/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 11
+http://series.tuxchannel.mx/series/good_boy/s_01_e_11.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 12
+http://series.tuxchannel.mx/series/good_boy/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 13
+http://series.tuxchannel.mx/series/good_boy/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 14
+http://series.tuxchannel.mx/series/good_boy/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 15
+http://series.tuxchannel.mx/series/good_boy/s_01_e_15.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 16
+http://series.tuxchannel.mx/series/good_boy/s_01_e_16.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg" group-title="El juego de la muerte",Cap. 01
 http://series.tuxchannel.mx/series/deaths_game/s_01_e_01.mkv
