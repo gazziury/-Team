@@ -1,7 +1,3 @@
-
-
-Happy face 5... son 8
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 01
@@ -3459,6 +3455,12 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/209929.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/209930.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg" group-title="The chosen: Os escolhidos T5", 05
 http://principal.maxpainel.net:2052/series/LCE03/101123/209931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg" group-title="The chosen: Os escolhidos T5", 06
+http://principal.maxpainel.net:2052/series/LCE03/101123/210128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg" group-title="The chosen: Os escolhidos T5", 07
+http://principal.maxpainel.net:2052/series/LCE03/101123/210129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The chosen" tvg-logo="https://image.tmdb.org/t/p/original/gUGq7l1OtvvKyrNULQZdADqMH6p.jpg" group-title="The chosen: Os escolhidos T5", 08
+http://principal.maxpainel.net:2052/series/LCE03/101123/210130.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="The last of us" tvg-logo="https://image.tmdb.org/t/p/original/9ZzZb5asKy3LeKLpz0HYHow0iCp.jpg" group-title="The last of us T1", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/84505.mp4
