@@ -14675,8 +14675,7 @@ http://144.217.70.79/VODS-M/1080P/Zulu%201964.mkv
 
 
 
-
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/UN5ojdR.jpeg" group-title="Peliculas Viejas",Zulu 1
 #EXTVLCOPT:summary="PRUEBA"
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/UN5ojdR.jpeg" group-title="Peliculas Viejas",Zulu 2
 http://144.217.70.79/VODS-M/1080P/Zulu%201964.mkv
 
