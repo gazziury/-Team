@@ -1,3 +1,5 @@
+sandman temp 2 cap 12 ultimo
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 01
@@ -3285,6 +3287,29 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/72744.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/72745.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/3srAu4OZTUbV7oUvdNySUaA1Gmi.jpg" group-title="Sandman T1", 11
 http://principal.maxpainel.net:2052/series/LCE03/101123/73909.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 01
+http://principal.maxpainel.net:2052/series/LCE03/101123/207728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 02
+http://principal.maxpainel.net:2052/series/LCE03/101123/207729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 03
+http://principal.maxpainel.net:2052/series/LCE03/101123/207730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 04
+http://principal.maxpainel.net:2052/series/LCE03/101123/207731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 05
+http://principal.maxpainel.net:2052/series/LCE03/101123/207732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 06
+http://principal.maxpainel.net:2052/series/LCE03/101123/207733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 07
+http://principal.maxpainel.net:2052/series/LCE03/101123/207734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 08
+http://principal.maxpainel.net:2052/series/LCE03/101123/207735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 09
+http://principal.maxpainel.net:2052/series/LCE03/101123/207736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 10
+http://principal.maxpainel.net:2052/series/LCE03/101123/207737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 11
+http://principal.maxpainel.net:2052/series/LCE03/101123/207738.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Servant" tvg-logo="https://image.tmdb.org/t/p/original/s68zjwpBtNL18Fs3hBZQvMnOfDU.jpg" group-title="Servant T1", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/181842.mp4
