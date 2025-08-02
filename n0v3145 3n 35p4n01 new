@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_29.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_59.mkv
-http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_50.mkv
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_53.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_15.mkv
 
 
@@ -11750,6 +11750,12 @@ http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_48.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_49.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 49
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_50.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 50
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_51.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 51
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_52.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 52
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_53.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2a/d3/99/2ad39910445a91dea9cd3a5be636f45a.jpg" group-title="Vencer el desamor",Cap. 01
 http://series.tuxchannel.mx/series/vencer_el_desamor/s_01_e_01.mkv
