@@ -2127,6 +2127,15 @@ http://series.tuxchannel.mx/series/cidade_invisivel/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg" group-title="Ciudad invisible T1",Cap. 07
 http://series.tuxchannel.mx/series/cidade_invisivel/s_01_e_07.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d5n1BQpcDe2GBIXJ2y39qxnEsyp.jpg" group-title="Ciudad tóxica",Cap. 01
+http://series.tuxchannel.mx/series/toxic_town/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d5n1BQpcDe2GBIXJ2y39qxnEsyp.jpg" group-title="Ciudad tóxica",Cap. 02
+http://series.tuxchannel.mx/series/toxic_town/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d5n1BQpcDe2GBIXJ2y39qxnEsyp.jpg" group-title="Ciudad tóxica",Cap. 03
+http://series.tuxchannel.mx/series/toxic_town/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d5n1BQpcDe2GBIXJ2y39qxnEsyp.jpg" group-title="Ciudad tóxica",Cap. 04
+http://series.tuxchannel.mx/series/toxic_town/s_01_e_04.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Cobra Kai T1",TRAILER
 https://archive.org/download/trailer-c-0br-4-k-41-1/trailer%20C0br4%20K41%201.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydEqHwK83HH2W6rzqcN44ZIGwNh.jpg" group-title="Cobra Kai T1",Cap. 01
