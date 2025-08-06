@@ -3908,7 +3908,14 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/79388.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wandinha" tvg-logo="https://image.tmdb.org/t/p/original/8N0wzfoqcQ3oWFGqf7RrMPdUoEv.jpg" group-title="Wandinha T1", 08
 http://principal.maxpainel.net:2052/series/LCE03/101123/79389.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha" tvg-logo="https://image.tmdb.org/t/p/original/cENDJSFvzX8GYoyZFCfmgXfQG1S.jpg" group-title="Wandinha T2", 01
+http://principal.maxpainel.net:2052/series/LCE03/101123/210512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha" tvg-logo="https://image.tmdb.org/t/p/original/cENDJSFvzX8GYoyZFCfmgXfQG1S.jpg" group-title="Wandinha T2", 02
+http://principal.maxpainel.net:2052/series/LCE03/101123/210513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha" tvg-logo="https://image.tmdb.org/t/p/original/cENDJSFvzX8GYoyZFCfmgXfQG1S.jpg" group-title="Wandinha T2", 03
+http://principal.maxpainel.net:2052/series/LCE03/101123/210514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha" tvg-logo="https://image.tmdb.org/t/p/original/cENDJSFvzX8GYoyZFCfmgXfQG1S.jpg" group-title="Wandinha T2", 04
+http://principal.maxpainel.net:2052/series/LCE03/101123/210515.mp4
 
 
 
