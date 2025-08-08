@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/dexter_resurrection/s_01_e_05.mkv
+
 https://www.innovatv.store/contenido/SERIES/Merlina/2/lat/Merlina%20S02E04%20WEB-DL%201080p%20Latino%20.mp4
 
 http://series.tuxchannel.mx/series/chief_of_war/s_01_e_02.mkv
@@ -2967,6 +2969,17 @@ http://series.tuxchannel.mx/series/behind_her_eyes/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/behind_her_eyes/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sfd90NIf778KoBFmpdBTow4xTm7.jpg" group-title="Detrás de sus ojos",Cap. 06
 http://series.tuxchannel.mx/series/behind_her_eyes/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d9JXDuLOApWZQFV7U81bX3KSS3u.jpg" group-title="Dexter: Resurrección",Cap. 01
+http://series.tuxchannel.mx/series/dexter_resurrection/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d9JXDuLOApWZQFV7U81bX3KSS3u.jpg" group-title="Dexter: Resurrección",Cap. 02
+http://series.tuxchannel.mx/series/dexter_resurrection/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d9JXDuLOApWZQFV7U81bX3KSS3u.jpg" group-title="Dexter: Resurrección",Cap. 03
+http://series.tuxchannel.mx/series/dexter_resurrection/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d9JXDuLOApWZQFV7U81bX3KSS3u.jpg" group-title="Dexter: Resurrección",Cap. 04
+http://series.tuxchannel.mx/series/dexter_resurrection/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d9JXDuLOApWZQFV7U81bX3KSS3u.jpg" group-title="Dexter: Resurrección",Cap. 05
+http://series.tuxchannel.mx/series/dexter_resurrection/s_01_e_05.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odIyR46aAX59dvQ1ON4P53ow1aE.jpg" group-title="Día cero",Cap. 01
 http://series.tuxchannel.mx/series/zero_day/s_01_e_01.mkv
