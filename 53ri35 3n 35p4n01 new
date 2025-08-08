@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/dope_thief/s_01_e_06.mkv
+
 http://series.tuxchannel.mx/series/dexter_resurrection/s_01_e_05.mkv
 
 https://www.innovatv.store/contenido/SERIES/Merlina/2/lat/Merlina%20S02E04%20WEB-DL%201080p%20Latino%20.mp4
@@ -3361,6 +3363,23 @@ http://series.tuxchannel.mx/series/doom_patrol/s_02_e_07.mkv
 http://series.tuxchannel.mx/series/doom_patrol/s_02_e_08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAE8EBxIW2JFuDHK4NotdjulGm9.jpg" group-title="Doom Patrol: Patrulla condenada T2",Cap. 09
 http://series.tuxchannel.mx/series/doom_patrol/s_02_e_09.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tfpEG33mYKxGLmI69mF3Yhj0pkY.jpg" group-title="Dope thief: Ladrones de drogas",Cap. 01
+http://series.tuxchannel.mx/series/dope_thief/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tfpEG33mYKxGLmI69mF3Yhj0pkY.jpg" group-title="Dope thief: Ladrones de drogas",Cap. 02
+http://series.tuxchannel.mx/series/dope_thief/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tfpEG33mYKxGLmI69mF3Yhj0pkY.jpg" group-title="Dope thief: Ladrones de drogas",Cap. 03
+http://series.tuxchannel.mx/series/dope_thief/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tfpEG33mYKxGLmI69mF3Yhj0pkY.jpg" group-title="Dope thief: Ladrones de drogas",Cap. 04
+http://series.tuxchannel.mx/series/dope_thief/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tfpEG33mYKxGLmI69mF3Yhj0pkY.jpg" group-title="Dope thief: Ladrones de drogas",Cap. 05
+http://series.tuxchannel.mx/series/dope_thief/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tfpEG33mYKxGLmI69mF3Yhj0pkY.jpg" group-title="Dope thief: Ladrones de drogas",Cap. 05
+http://series.tuxchannel.mx/series/dope_thief/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tfpEG33mYKxGLmI69mF3Yhj0pkY.jpg" group-title="Dope thief: Ladrones de drogas",Cap. 07
+https://www.innovatv.store/contenido/SERIES/Dope%20Thief%20Ladrones%20de%20drogas/LAT/Dope%20Thief%20Ladrones%20de%20drogas%20S01E07%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tfpEG33mYKxGLmI69mF3Yhj0pkY.jpg" group-title="Dope thief: Ladrones de drogas",Cap. 08
+https://www.innovatv.store/contenido/SERIES/Dope%20Thief%20Ladrones%20de%20drogas/LAT/Dope%20Thief%20Ladrones%20de%20drogas%20S01E08%20WEB-DL%201080p%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8beYlCM8VaIPdZfSm8ktJLpREKE.jpg" group-title="Dracula",Cap. 01
 http://series.tuxchannel.mx/series/dracula/s_01_e_01.mkv
