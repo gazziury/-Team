@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_29.mkv
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_34.mkv
 http://series.tuxchannel.mx/series/cautiva_por_amor/s_01_e_59.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_53.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_19.mkv
@@ -9883,6 +9883,16 @@ http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_27.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_28.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 029
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 030
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_30.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 031
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_31.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 032
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_32.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 033
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_33.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 034
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_34.mkv
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/WtdFEni.jpeg" group-title="Regreso a Las Sabinas",Cap. 001
 http://series.tuxchannel.mx/series/regreso_a_las_sabinas/s_01_e_01.mkv
