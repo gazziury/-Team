@@ -1,7 +1,5 @@
 sandman temp 2 cap 12 ultimo
 
-Guerreiros do sol 45
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 01
@@ -2424,6 +2422,16 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/210133.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/210134.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guerreiros do sol" tvg-logo="https://image.tmdb.org/t/p/original/3eiYhIHbtidNIO9WdQmLsQ1z1Qo.jpg" group-title="Guerreiros do sol", 40
 http://principal.maxpainel.net:2052/series/LCE03/101123/210135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros do sol" tvg-logo="https://image.tmdb.org/t/p/original/3eiYhIHbtidNIO9WdQmLsQ1z1Qo.jpg" group-title="Guerreiros do sol", 41
+http://principal.maxpainel.net:2052/series/LCE03/101123/210516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros do sol" tvg-logo="https://image.tmdb.org/t/p/original/3eiYhIHbtidNIO9WdQmLsQ1z1Qo.jpg" group-title="Guerreiros do sol", 42
+http://principal.maxpainel.net:2052/series/LCE03/101123/210517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros do sol" tvg-logo="https://image.tmdb.org/t/p/original/3eiYhIHbtidNIO9WdQmLsQ1z1Qo.jpg" group-title="Guerreiros do sol", 43
+http://principal.maxpainel.net:2052/series/LCE03/101123/210518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros do sol" tvg-logo="https://image.tmdb.org/t/p/original/3eiYhIHbtidNIO9WdQmLsQ1z1Qo.jpg" group-title="Guerreiros do sol", 44
+http://principal.maxpainel.net:2052/series/LCE03/101123/210519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros do sol" tvg-logo="https://image.tmdb.org/t/p/original/3eiYhIHbtidNIO9WdQmLsQ1z1Qo.jpg" group-title="Guerreiros do sol", 45
+http://principal.maxpainel.net:2052/series/LCE03/101123/210520.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Happy face: Um serial killer" tvg-logo="https://image.tmdb.org/t/p/original/rs4aHFuxF56SQ20kgzy5CVTWaqX.jpg" group-title="Happy face: Um serial killer", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/200267.mp4
@@ -3916,6 +3924,7 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/210513.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/210514.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wandinha" tvg-logo="https://image.tmdb.org/t/p/original/cENDJSFvzX8GYoyZFCfmgXfQG1S.jpg" group-title="Wandinha T2", 04
 http://principal.maxpainel.net:2052/series/LCE03/101123/210515.mp4
+
 
 
 
