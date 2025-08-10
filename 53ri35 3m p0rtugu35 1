@@ -1,5 +1,3 @@
-sandman temp 2 cap 12 ultimo
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="1883" tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883 T1", 01
@@ -3498,6 +3496,8 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/207736.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/207737.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 11
 http://principal.maxpainel.net:2052/series/LCE03/101123/207738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman" tvg-logo="https://image.tmdb.org/t/p/original/jlLmBf8lio9LNfoRejNVtJbQe4i.jpg" group-title="Sandman T2", 12
+http://principal.maxpainel.net:2052/series/LCE03/101123/207739.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Servant" tvg-logo="https://image.tmdb.org/t/p/original/s68zjwpBtNL18Fs3hBZQvMnOfDU.jpg" group-title="Servant T1", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/181842.mp4
@@ -3924,6 +3924,7 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/210513.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/210514.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wandinha" tvg-logo="https://image.tmdb.org/t/p/original/cENDJSFvzX8GYoyZFCfmgXfQG1S.jpg" group-title="Wandinha T2", 04
 http://principal.maxpainel.net:2052/series/LCE03/101123/210515.mp4
+
 
 
 
