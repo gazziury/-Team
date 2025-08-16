@@ -1044,6 +1044,8 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/180514.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/210280.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chefe de guerra" tvg-logo="https://image.tmdb.org/t/p/original/ulrZWH6zy6oMyY9ug6qOPH86mJq.jpg" group-title="Chefe de guerra", 02
 http://principal.maxpainel.net:2052/series/LCE03/101123/210281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chefe de guerra" tvg-logo="https://image.tmdb.org/t/p/original/ulrZWH6zy6oMyY9ug6qOPH86mJq.jpg" group-title="Chefe de guerra", 03
+http://principal.maxpainel.net:2052/series/LCE03/101123/210623.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://image.tmdb.org/t/p/original/qC4VMn5OOhs5tobrk8sKbaNecHz.jpg" group-title="Chespirito: Sem querer querendo", 01
 http://principal.maxpainel.net:2052/series/LCE03/101123/206808.mp4
@@ -3941,6 +3943,7 @@ http://principal.maxpainel.net:2052/series/LCE03/101123/210513.mp4
 http://principal.maxpainel.net:2052/series/LCE03/101123/210514.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wandinha" tvg-logo="https://image.tmdb.org/t/p/original/cENDJSFvzX8GYoyZFCfmgXfQG1S.jpg" group-title="Wandinha T2", 04
 http://principal.maxpainel.net:2052/series/LCE03/101123/210515.mp4
+
 
 
 
