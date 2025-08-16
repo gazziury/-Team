@@ -5,520 +5,492 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3TLuLDLPLdp6fgVK9Ak6aC6Xrbc.jpg" group-title="2025",9-11: El día que el mundo se detuvo (2025) SUB 1080p
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3TLuLDLPLdp6fgVK9Ak6aC6Xrbc.jpg" group-title="ESTRENOS - 2025",9-11: El día que el mundo se detuvo (2025) SUB
 https://innovatv.store/contenido/PELICULAS/9-11%20The%20Day%20The%20World%20Stood.Still/9-11.The.Day.The.World.Stood.Still.2025.1080p.SUB.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1978 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7B7U0u6EyxHcKwCBRL5sMsTK2XY.jpg" group-title="2025",1978 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246789.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acaba con ellos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/2jskL5eOFTQknpRalJ4chVYyuFo.jpg" group-title="2025",Acaba con ellos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240101.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ad Vitam (2025)" tvg-logo="https://image.tmdb.org/t/p/original/3r35450xYomrCvPbFxr0MhYk5q7.jpg" group-title="2025",Ad Vitam (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1230480.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tin Soldier (2025)" tvg-logo="https://image.tmdb.org/t/p/original/nw88tBxno2ac2QizMTYSTiTwaid.jpg" group-title="2025",Agente infiltrado (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243440.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alarum (2025)" tvg-logo="https://image.tmdb.org/t/p/original/kUdE4XmZP5vl4v0Y09wpeQJFSWi.jpg" group-title="2025",Alarum (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1231373.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/boWXJOlgJaIj1SZ9vlJMo0PIiQa.jpg" group-title="2025",Alexander y un viaje terrible, horrible, malo... ¡muy malo! (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239357.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/boWXJOlgJaIj1SZ9vlJMo0PIiQa.jpg" group-title="2025",Alexander y un viaje terrible, horrible, malo... ¡muy malo! (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="1978 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7B7U0u6EyxHcKwCBRL5sMsTK2XY.jpg" group-title="ESTRENOS - 2025",1978 (2025)
+https://www.innovatv.store/contenido/PELICULAS/1978/1978.2024.1080p.WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2jskL5eOFTQknpRalJ4chVYyuFo.jpg" group-title="ESTRENOS - 2025",Acaba con ellos (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Bring%20Them%20Down/Bring.Them.Down.2024.720p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3r35450xYomrCvPbFxr0MhYk5q7.jpg" group-title="ESTRENOS - 2025",Ad Vitam (2025)
+https://www.innovatv.store/contenido/PELICULAS/Ad%20Vitam/Ad%20Vitam%20LAT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nw88tBxno2ac2QizMTYSTiTwaid.jpg" group-title="ESTRENOS - 2025",Agente infiltrado (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Tin%20Soldier/Tin.Soldier.2025.1080p.WEBRip.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kUdE4XmZP5vl4v0Y09wpeQJFSWi.jpg" group-title="ESTRENOS - 2025",Alarum (2025)
+https://www.innovatv.store/contenido/PELICULAS/Alarum/Alarum.2025.1080p.BluRay.Dual.Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/boWXJOlgJaIj1SZ9vlJMo0PIiQa.jpg" group-title="ESTRENOS - 2025",Alexander y un viaje terrible, horrible, malo... ¡muy malo! (2025)
 https://www.innovatv.store/contenido/PELICULAS/Alexander%20y%20un%20viaje%20terrible/Alexander%20y%20un%20viaje%20terrible,%20horrible,%20malo...%20%c2%a1muy%20malo!%20%282025%29%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alguien así (2025)" tvg-logo="https://image.tmdb.org/t/p/original/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg" group-title="2025",Alguien así (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248449.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Almas marcadas: Rule + Shaw (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ulyiQKmso4hZSrtCiG7vR0YqwgS.jpg" group-title="2025",Almas marcadas (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244239.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Almost Cops (2025)" tvg-logo="https://image.tmdb.org/t/p/original/v3aq0JZIjXr8okdnBR7yzn9kcbd.jpg" group-title="2025",Almost cops: Casi policías (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248448.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alba del desierto (2025)" tvg-logo="https://image.tmdb.org/t/p/original/6MpAklfzhbIqonqt54MyGciDTjS.jpg" group-title="2025",Amanecer sangriento (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amateur (2025)" tvg-logo="https://image.tmdb.org/t/p/original/x5z1aRE359o04L7EG8mO3KEFFba.jpg" group-title="2025",Amateur (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amenaza en el aire (2025)" tvg-logo="https://image.tmdb.org/t/p/original/AtUcdBMutCOyOQ5KHf0tk5qJi2j.jpg" group-title="2025",Amenaza en el aire (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1232149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Materialistas (2025)" tvg-logo="https://image.tmdb.org/t/p/original/nuKdxAkw2QGvlzWopci932hjEDW.jpg" group-title="2025",Amores materialistas (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Materialistas (2025)" tvg-logo="https://image.tmdb.org/t/p/original/nuKdxAkw2QGvlzWopci932hjEDW.jpg" group-title="2025",Amores materialistas (2025) SUB 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg" group-title="ESTRENOS - 2025",Alguien así (2025)
+https://www.innovatv.store/contenido/PELICULAS/Alguien%20asi/Alguien%20as%c3%ad%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ulyiQKmso4hZSrtCiG7vR0YqwgS.jpg" group-title="ESTRENOS - 2025",Almas marcadas (2025)
+https://www.innovatv.store/contenido/PELICULAS/Almas%20marcadas/Almas%20marcadas%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/v3aq0JZIjXr8okdnBR7yzn9kcbd.jpg" group-title="ESTRENOS - 2025",Almost cops: Casi policías (2025)
+https://www.innovatv.store/contenido/PELICULAS/Almost%20Cops/Almost.Cops%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6MpAklfzhbIqonqt54MyGciDTjS.jpg" group-title="ESTRENOS - 2025",Amanecer sangriento (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Desert%20Dawn/Desert.Dawn.2025.BLURAY.1080p.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/x5z1aRE359o04L7EG8mO3KEFFba.jpg" group-title="ESTRENOS - 2025",Amateur (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Amateur/The.Amateur.2025.1080p.WEBRip.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/AtUcdBMutCOyOQ5KHf0tk5qJi2j.jpg" group-title="ESTRENOS - 2025",Amenaza en el aire (2025)
+https://www.innovatv.store/contenido/PELICULAS/Amenaza%20en%20el%20aire/Amenaza%20en%20el%20aire%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nuKdxAkw2QGvlzWopci932hjEDW.jpg" group-title="ESTRENOS - 2025",Amores materialistas (2025) SUB
 https://www.innovatv.store/contenido/PELICULAS/Materialists/Materialists.2025.1080p.Asub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor explosivo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/2MS2yCs6ecZZY6Ne7LRkOJgdJ96.jpg" group-title="2025",Amor explosivo (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2MS2yCs6ecZZY6Ne7LRkOJgdJ96.jpg" group-title="ESTRENOS - 2025",Amor explosivo (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1235836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dangerous Animals (2025)" tvg-logo="https://image.tmdb.org/t/p/original/oXE2mLXgvpBJWQiSZLHcufsU4dz.jpg" group-title="2025",Animales peligrosos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249668.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dangerous Animals (2025)" tvg-logo="https://image.tmdb.org/t/p/original/oXE2mLXgvpBJWQiSZLHcufsU4dz.jpg" group-title="2025",Animales peligrosos (2025) SUB 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oXE2mLXgvpBJWQiSZLHcufsU4dz.jpg" group-title="ESTRENOS - 2025",Animales peligrosos (2025) SUB
 https://www.innovatv.store/contenido/PELICULAS/Animales%20Peligrosos/Animales%20Peligrosos%20%282025%29%20sub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fritos a balazos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/oLjXV0rBhLpbc3QSTUWvINVW9lm.jpg" group-title="2025",Armados (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247818.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fritos a balazos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/oLjXV0rBhLpbc3QSTUWvINVW9lm.jpg" group-title="2025",Armados (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oLjXV0rBhLpbc3QSTUWvINVW9lm.jpg" group-title="ESTRENOS - 2025",Armados (2025)
 https://www.innovatv.store/contenido/PELICULAS/Guns%20Up/%c2%a1Armados!%20%282025%29%20WEB-DL%201080p%20Lattino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ash (2025)" tvg-logo="https://image.tmdb.org/t/p/original/t7OLM4Qq368Wj3eirHPRZ6qJJVY.jpg" group-title="2025",Ash (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241535.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ballerina (2025)" tvg-logo="https://image.tmdb.org/t/p/original/pgohqJBW5VMgS0wlClZYxlpcMEt.jpg" group-title="2025",Bailarina (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247688.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baila, Vini (2025)" tvg-logo="https://image.tmdb.org/t/p/original/s1zEsvB5XoS0Gqr7tmnNZExVdRI.jpg" group-title="2025",Baila, Vini (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244242.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barbie y Teresa: La receta de la amistad (2025)" tvg-logo="https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg" group-title="2025",Barbie y Teresa: La receta de la amistad (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/t7OLM4Qq368Wj3eirHPRZ6qJJVY.jpg" group-title="ESTRENOS - 2025",Ash (2025)
+https://www.innovatv.store/contenido/PELICULAS/Ash/Ash%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pgohqJBW5VMgS0wlClZYxlpcMEt.jpg" group-title="ESTRENOS - 2025",Bailarina (2025)
+https://www.innovatv.store/contenido/PELICULAS/Bailarina/Bailarina%202025%20lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/s1zEsvB5XoS0Gqr7tmnNZExVdRI.jpg" group-title="ESTRENOS - 2025",Baila, Vini (2025)
+https://www.innovatv.store/contenido/PELICULAS/Vini%20Jr/Vini.Jr.2025.1080p.lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg" group-title="ESTRENOS - 2025",Barbie y Teresa: La receta de la amistad (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1237202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman Ninja vs. Yakuza League (2025)" tvg-logo="https://image.tmdb.org/t/p/original/fY1DBkref31ZVKoEtqjvJ0VNsmO.jpg" group-title="2025",Batman Ninja vs. La Liga Yakuza (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Becoming Led Zeppelin (2025)" tvg-logo="https://image.tmdb.org/t/p/original/gKvp97lyBvpCed3jt6mD6zMwwLv.jpg" group-title="2025",Becoming Led Zeppelin: Los inicios (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fY1DBkref31ZVKoEtqjvJ0VNsmO.jpg" group-title="ESTRENOS - 2025",Batman Ninja vs. La Liga Yakuza (2025)
+https://www.innovatv.store/contenido/PELICULAS/Batman%20Ninja%20vs%20La%20Liga%20Yakuza/Batman%20Ninja%20vs%20La%20Liga%20Yakuza%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Becoming Led Zeppelin (2025)" tvg-logo="https://image.tmdb.org/t/p/original/gKvp97lyBvpCed3jt6mD6zMwwLv.jpg" group-title="ESTRENOS - 2025",Becoming Led Zeppelin: Los inicios (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239864.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blancanieves (2025)" tvg-logo="https://image.tmdb.org/t/p/original/9p2lwGgVTMvOuIRimhEAO2AV99x.jpg" group-title="2025",Blancanieves (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9p2lwGgVTMvOuIRimhEAO2AV99x.jpg" group-title="ESTRENOS - 2025",Blancanieves (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238789.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bridget Jones: Loca por él (2025)" tvg-logo="https://image.tmdb.org/t/p/original/6kowixQScfVIwnBcbNUzBwlLjXD.jpg" group-title="2025",Bridget Jones: Loca por él (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234116.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Calendar Killer (2025)" tvg-logo="https://image.tmdb.org/t/p/original/1DQsxTAsHa9Bt9mYsrHh8hW58Pq.jpg" group-title="2025",Calendario mortal (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1230711.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Capitan America: Brave New World (2025)" tvg-logo="https://image.tmdb.org/t/p/original/56mIu1630ALe3F9RP1Szlv0qVyb.jpg" group-title="2025",Capitán América: Un nuevo mundo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Casi familia (2025)" tvg-logo="https://image.tmdb.org/t/p/original/fgk4rtDNlP9LZql9rtC3Huil1ob.jpg" group-title="2025",Casi familia (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249220.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chica conoce a chico (2025)" tvg-logo="https://image.tmdb.org/t/p/original/lUMbzBCiDUK5s1YuJQmT8dEQGRV.jpg" group-title="2025",Chica conoce a chico (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6kowixQScfVIwnBcbNUzBwlLjXD.jpg" group-title="ESTRENOS - 2025",Bridget Jones: Loca por él (2025)
+https://www.innovatv.store/contenido/PELICULAS/Bridget%20Jones%20Loca%20por%20el/Bridget%20Jones%20Loca%20por%20%c3%a9l%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1DQsxTAsHa9Bt9mYsrHh8hW58Pq.jpg" group-title="ESTRENOS - 2025",Calendario mortal (2025)
+https://www.innovatv.store/contenido/PELICULAS/El%20asesino%20del%20calendario/El%20asesino%20del%20calendario%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/56mIu1630ALe3F9RP1Szlv0qVyb.jpg" group-title="ESTRENOS - 2025",Capitán América: Un nuevo mundo (2025)
+https://www.innovatv.store/contenido/PELICULAS/Capitan%20America%20Un%20nuevo%20mundo/Capit%c3%a1n%20Am%c3%a9rica%20Un%20nuevo%20mundo%20(2025)%20Web-Dl%201080p%20Lat%20P.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fgk4rtDNlP9LZql9rtC3Huil1ob.jpg" group-title="ESTRENOS - 2025",Casi familia (2025)
+https://www.innovatv.store/contenido/PELICULAS/Casi%20familia/Casi%20familia%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lUMbzBCiDUK5s1YuJQmT8dEQGRV.jpg" group-title="ESTRENOS - 2025",Chica conoce a chico (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234742.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cleaner (2025)" tvg-logo="https://image.tmdb.org/t/p/original/j4PszsmpFFjiVBhoitDwHjtba15.jpg" group-title="2025",Cleaner (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238791.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Confidencial (Black Bag) (2025)" tvg-logo="https://image.tmdb.org/t/p/original/4MQXhunucM2k4zE8D9nDbUadZd9.jpg" group-title="2025",Código negro (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239429.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cómo entrenar a tu dragón (2025)" tvg-logo="https://image.tmdb.org/t/p/original/xjoLkXshjmW6vLSwRYnfZkrUFqH.jpg" group-title="2025",Cómo entrenar a tu dragón (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cómo entrenar a tu dragón (2025)" tvg-logo="https://image.tmdb.org/t/p/original/xjoLkXshjmW6vLSwRYnfZkrUFqH.jpg" group-title="2025",Cómo entrenar a tu dragón (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/j4PszsmpFFjiVBhoitDwHjtba15.jpg" group-title="ESTRENOS - 2025",Cleaner (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Cleaner/Cleaner.2025.1080p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4MQXhunucM2k4zE8D9nDbUadZd9.jpg" group-title="ESTRENOS - 2025",Código negro (2025)
+https://www.innovatv.store/contenido/PELICULAS/Codigo%20Negro/C%c3%b3digo%20Negro%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xjoLkXshjmW6vLSwRYnfZkrUFqH.jpg" group-title="ESTRENOS - 2025",Cómo entrenar a tu dragón (2025)
 https://www.innovatv.store/contenido/PELICULAS/How%20to%20Train%20Your%20Dragon/C%c3%b3mo%20entrenar%20a%20tu%20drag%c3%b3n%20%282025%29%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La acompañante (2025)" tvg-logo="https://image.tmdb.org/t/p/original/9K3hz1HoiXrvb1ylxAzgGF5tgPo.jpg" group-title="2025",Compañera perfecta (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234833.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Contigo en el futuro (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ee9iNQi91kpIkdfsAiGmJO7QdSF.jpg" group-title="2025",Contigo en el futuro (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1233847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Contraataque (2025)" tvg-logo="https://image.tmdb.org/t/p/original/5Zn9I1WSzINyeHY2HzU78eUQVHw.jpg" group-title="2025",Contraataque (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1236413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Corazón delator (2025)" tvg-logo="https://image.tmdb.org/t/p/original/syHnruCgN1Gq6PJ5PcwxZg9BQWY.jpg" group-title="2025",Corazón delator (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="It Feeds (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ks0krQl25m29R6QPjdYnFmoOuBz.jpg" group-title="2025",Criatura voraz (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247422.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Criminales de lujo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7jEOvqCscLuwtEbjtb87EdJR9gb.jpg" group-title="2025",Criminales de lujo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crypto: La apuesta final (2025)" tvg-logo="https://image.tmdb.org/t/p/original/xZoVKgelOZd1W0zLLnmNdv2ehrB.jpg" group-title="2025",Crypto: La apuesta final (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9K3hz1HoiXrvb1ylxAzgGF5tgPo.jpg" group-title="ESTRENOS - 2025",Compañera perfecta (2025)
+https://www.innovatv.store/contenido/PELICULAS/Companera%20perfecta/Compa%c3%b1era%20perfecta%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ee9iNQi91kpIkdfsAiGmJO7QdSF.jpg" group-title="ESTRENOS - 2025",Contigo en el futuro (2025)
+https://www.innovatv.store/contenido/PELICULAS/Contigo%20en%20el%20futuro/Contigo%20en%20el%20futuro%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5Zn9I1WSzINyeHY2HzU78eUQVHw.jpg" group-title="ESTRENOS - 2025",Contraataque (2025)
+https://www.innovatv.store/contenido/PELICULAS/Contraataque/Contraataque%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/syHnruCgN1Gq6PJ5PcwxZg9BQWY.jpg" group-title="ESTRENOS - 2025",Corazón delator (2025)
+https://www.innovatv.store/contenido/PELICULAS/Corazon%20delator/Corazon.delator.2025.1080p.WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ks0krQl25m29R6QPjdYnFmoOuBz.jpg" group-title="ESTRENOS - 2025",Criatura voraz (2025)
+https://www.innovatv.store/contenido/PELICULAS/Criatura%20voraz/Criatura%20voraz%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7jEOvqCscLuwtEbjtb87EdJR9gb.jpg" group-title="ESTRENOS - 2025",Criminales de lujo (2025)
+https://www.innovatv.store/contenido/PELICULAS/Criminales%20de%20lujo/Criminales%20de%20lujo%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xZoVKgelOZd1W0zLLnmNdv2ehrB.jpg" group-title="ESTRENOS - 2025",Crypto: La apuesta final (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243284.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Culpa mía: Londres (2025)" tvg-logo="https://image.tmdb.org/t/p/original/9P8GmgFxwW1JtUsLqxDhvN6Emow.jpg" group-title="2025",Culpa mía: Londres (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deep Cover: Actores encubiertos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/quABvAtl664L6ICbPV0FusghBs9.jpg" group-title="2025",Deep Cover: Actores encubiertos (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9P8GmgFxwW1JtUsLqxDhvN6Emow.jpg" group-title="ESTRENOS - 2025",Culpa mía: Londres (2025)
+https://www.innovatv.store/contenido/PELICULAS/Culpa%20mia%20Londres/Culpa%20m%c3%ada%20Londres%20(2025)%20WEB-DL%201080p%20Latin.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/quABvAtl664L6ICbPV0FusghBs9.jpg" group-title="ESTRENOS - 2025",Deep Cover: Actores encubiertos (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246344.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Déjame estar contigo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/g7CoOjbpKO9tAbQhyJgOB6iwrqV.jpg" group-title="2025",Déjame estar contigo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241976.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Delicia (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zx3NV3RVgmOyOgsXvRerDItLCWS.jpg" group-title="2025",Delicia (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1237203.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Predator: Asesino de asesinos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/2Q5qM4oQxY277kY8wRG8ljdQR6F.jpg" group-title="2025",Depredador: Cazador de Asesinos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destino final: Lazos de sangre (2025)" tvg-logo="https://image.tmdb.org/t/p/original/cUdPaJyVDxi9XvyKuLt6AzUzq91.jpg" group-title="2025",Destino final: Lazos de sangre (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246591.mkv
-#EXTINF:-1 tvg-id="" tvg-name="De vuelta a la acción (2025)" tvg-logo="https://image.tmdb.org/t/p/original/p9a6bL22sG9kIEGYjo6hs6okjLX.jpg" group-title="2025",De vuelta a la acción (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1231384.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Devuélvemela (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yTrwIf5DCThe0fl0EYTsvVD8KHl.jpg" group-title="2025",Devuélvemela (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247689.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Devuélvemela (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yTrwIf5DCThe0fl0EYTsvVD8KHl.jpg" group-title="2025",Devuélvemela (2025) SUB 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/g7CoOjbpKO9tAbQhyJgOB6iwrqV.jpg" group-title="ESTRENOS - 2025",Déjame estar contigo (2025)
+https://www.innovatv.store/contenido/PELICULAS/Dejame%20estar%20contigo/D%c3%a9jame%20estar%20contigo%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zx3NV3RVgmOyOgsXvRerDItLCWS.jpg" group-title="ESTRENOS - 2025",Delicia (2025)
+https://www.innovatv.store/contenido/PELICULAS/Delicious/Delicia%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2Q5qM4oQxY277kY8wRG8ljdQR6F.jpg" group-title="ESTRENOS - 2025",Depredador: Cazador de asesinos (2025)
+https://www.innovatv.store/contenido/PELICULAS/Predator%20Killer%20of%20Killers/Depredador%20Cazador%20de%20asesinos%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cUdPaJyVDxi9XvyKuLt6AzUzq91.jpg" group-title="ESTRENOS - 2025",Destino final: Lazos de sangre (2025)
+https://www.innovatv.store/contenido/PELICULAS/Final%20Destination%20Bloodlines/D.F.L.D.S%20(2025)%20Web-Dl%201080p%20Dig.lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/p9a6bL22sG9kIEGYjo6hs6okjLX.jpg" group-title="ESTRENOS - 2025",De vuelta a la acción (2025)
+https://www.innovatv.store/contenido/PELICULAS/De%20vuelta%20a%20la%20accion/De%20vuelta%20a%20la%20acci%c3%b3n%20(2025)%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yTrwIf5DCThe0fl0EYTsvVD8KHl.jpg" group-title="ESTRENOS - 2025",Devuélvemela (2025) SUB
 https://www.innovatv.store/contenido/PELICULAS/Bring%20h%20er%20Back/Bring.Her.Back.2025.1080p.sub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Dhaam (2025)" tvg-logo="https://image.tmdb.org/t/p/original/reEE6v6KUn2T00ONCquys2dQNPo.jpg" group-title="2025",Dhoom Dhaam: Viva los novios (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diablo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/la2jDiggcDUcAmBNOL41sHWiGpk.jpg" group-title="2025",Diablo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248124.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diddy: Monster's Fall (2025)" tvg-logo="https://image.tmdb.org/t/p/original/nNW5MBRe0zoeyyRVnfOq3cuYzqn.jpg" group-title="2025",Diddy: La caída del monstruo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1230378.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dogman (2025)" tvg-logo="https://image.tmdb.org/t/p/original/6CxpcRaya3LUsMPmcH41I2VTsnT.jpg" group-title="2025",Dogman (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dora en busca del Sol Dorado (2025)" tvg-logo="https://image.tmdb.org/t/p/original/q6c1avASd19M5jWZlcpdQURVz05.jpg" group-title="2025",Dora en busca del sol dorado (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La cita (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zL0quDAY4lFMsh1VL8vKyEUpG3l.jpg" group-title="2025",Drop: Amenaza anónima (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Duplicidad, de Tyler Perry (2025)" tvg-logo="https://image.tmdb.org/t/p/original/mMvGHRPD2erdrbKuwPkMEUggZTx.jpg" group-title="2025",Duplicidad (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Duro de Casar (2025)" tvg-logo="https://image.tmdb.org/t/p/original/hu0qH726Kk14foSMevdcBaMc0cQ.jpg" group-title="2025",Duro de casar (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Echo Valley (2025)" tvg-logo="https://image.tmdb.org/t/p/original/cvDQrjw33gK1e9Ld0qkh2yDWOht.jpg" group-title="2025",Echo Valley (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246434.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El abismo secreto (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zKndcdkEUJLvAhlz6VMvhdGKRaM.jpg" group-title="2025",El abismo secreto (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El abismo secreto (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zKndcdkEUJLvAhlz6VMvhdGKRaM.jpg" group-title="2025",El abismo secreto (2025) 1080p 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/reEE6v6KUn2T00ONCquys2dQNPo.jpg" group-title="ESTRENOS - 2025",Dhoom Dhaam: Viva los novios (2025)
+https://www.innovatv.store/contenido/PELICULAS/Dhoom%20Dhaam/Dhoom%20Dhaam%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/la2jDiggcDUcAmBNOL41sHWiGpk.jpg" group-title="ESTRENOS - 2025",Diablo (2025)
+https://www.innovatv.store/contenido/PELICULAS/Diablo/Diablo%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nNW5MBRe0zoeyyRVnfOq3cuYzqn.jpg" group-title="ESTRENOS - 2025",Diddy: La caída del monstruo (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Diddy%20Monsters%20Fall/Diddy.Monsters.Fall.2025.1080p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6CxpcRaya3LUsMPmcH41I2VTsnT.jpg" group-title="ESTRENOS - 2025",Dogman (2025)
+https://www.innovatv.store/contenido/PELICULAS/Las%20aventuras%20de%20Dog%20Man/Las%20aventuras%20de%20Dog%20Man%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/q6c1avASd19M5jWZlcpdQURVz05.jpg" group-title="ESTRENOS - 2025",Dora en busca del sol dorado (2025)
+https://www.innovatv.store/contenido/PELICULAS/Dora%20And%20The%20Search%20For%20Sol%20Dorado/Dora%20y%20la%20b%c3%basqueda%20del%20sol%20dorado%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zL0quDAY4lFMsh1VL8vKyEUpG3l.jpg" group-title="ESTRENOS - 2025",Drop: Amenaza anónima (2025)
+https://www.innovatv.store/contenido/PELICULAS/Drop%20Amenaza%20an%c3%b3nima/Drop%20Amenaza%20an%c3%b3nima%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mMvGHRPD2erdrbKuwPkMEUggZTx.jpg" group-title="ESTRENOS - 2025",Duplicidad (2025)
+https://www.innovatv.store/contenido/PELICULAS/Duplicidad/Duplicidad%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hu0qH726Kk14foSMevdcBaMc0cQ.jpg" group-title="ESTRENOS - 2025",Duro de casar (2025)
+https://www.innovatv.store/contenido/PELICULAS/Bride%20Hard/Duro%20de%20casar%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cvDQrjw33gK1e9Ld0qkh2yDWOht.jpg" group-title="ESTRENOS - 2025",Echo Valley (2025)
+https://www.innovatv.store/contenido/PELICULAS/Echo%20Valley/Echo%20Valley%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El abismo secreto (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zKndcdkEUJLvAhlz6VMvhdGKRaM.jpg" group-title="ESTRENOS - 2025",El abismo secreto (2025)
 https://www.innovatv.store/contenido/PELICULAS/El%20abismo%20secreto/El%20abismo%20secreto%20%282025%29%20WEB-DL%20LIGERO%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Friend (2025)" tvg-logo="https://image.tmdb.org/t/p/original/3oqHEE4BV1VRyN7ZWFhfAAGttru.jpg" group-title="2025",El amigo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Heart Eyes (2025)" tvg-logo="https://image.tmdb.org/t/p/original/3jI3tFClgvjdrFO63KabfcIFDfk.jpg" group-title="2025",El asesino con ojos de corazón (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El caos está en el aire (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ecxfy7WMi1qGSHVWPHiiVnFsBqV.jpg" group-title="2025",El caos está en el aire (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3oqHEE4BV1VRyN7ZWFhfAAGttru.jpg" group-title="ESTRENOS - 2025",El amigo (2025)
+https://www.innovatv.store/contenido/PELICULAS/El%20Amigo/El%20Amigo%20(2024)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3jI3tFClgvjdrFO63KabfcIFDfk.jpg" group-title="ESTRENOS - 2025",El asesino con ojos de corazón (2025)
+https://www.innovatv.store/contenido/PELICULAS/El%20asesino%20con%20ojos%20de%20corazon/El%20asesino%20con%20ojos%20de%20coraz%c3%b3n%20(2025)%20BRrip%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ecxfy7WMi1qGSHVWPHiiVnFsBqV.jpg" group-title="ESTRENOS - 2025",El caos está en el aire (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234740.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El contable 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/wVvdvtZHFQmGlX5ESlVtpCy8a7b.jpg" group-title="2025",El contador 2 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241978.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Day of Reckoning (2025)" tvg-logo="https://image.tmdb.org/t/p/original/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg" group-title="2025",El día del juicio final (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La trama fenicia (2025)" tvg-logo="https://image.tmdb.org/t/p/original/5GR6holQH8Z4jYIdH3DCKSc5yyd.jpg" group-title="2025",El esquema fenicio (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248126.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La trama fenicia (2025)" tvg-logo="https://image.tmdb.org/t/p/original/5GR6holQH8Z4jYIdH3DCKSc5yyd.jpg" group-title="2025",El esquema fenicio (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wVvdvtZHFQmGlX5ESlVtpCy8a7b.jpg" group-title="ESTRENOS - 2025",El contador 2 (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Accountant%202/El%20contador%202%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg" group-title="ESTRENOS - 2025",El día del juicio final (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Day%20Of%20Reckoning/Day.Of.Reckoning.2025.1080p.WEBRipSUB).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5GR6holQH8Z4jYIdH3DCKSc5yyd.jpg" group-title="ESTRENOS - 2025",El esquema fenicio (2025)
 https://www.innovatv.store/contenido/PELICULAS/El%20esquema%20fenicio/El%20esquema%20fenicio%20%282025%29%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Hilo Rojo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg" group-title="2025",El hilo rojo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elio (2025)" tvg-logo="https://image.tmdb.org/t/p/original/hWG43Fp7JoNDqdoDae7g0MIA1nJ.jpg" group-title="2025",Elio (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg" group-title="ESTRENOS - 2025",El hilo rojo (2025)
+https://www.innovatv.store/contenido/PELICULAS/El%20hilo%20rojo/El%20hilo%20rojo%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hWG43Fp7JoNDqdoDae7g0MIA1nJ.jpg" group-title="ESTRENOS - 2025",Elio (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248125.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Jardinero (2025)" tvg-logo="https://image.tmdb.org/t/p/original/8qSjKEA0KJxE2TrlBqf7PYcOlOM.jpg" group-title="2025",El jardinero (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238400.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El ladrón de joyas (2025)" tvg-logo="https://image.tmdb.org/t/p/original/hzuus3qrQct2JeoAs2AGMYzKzjZ.jpg" group-title="2025",El ladrón de joyas (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241698.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Maravilloso Mago de Oz (2025)" tvg-logo="https://image.tmdb.org/t/p/original/jD1hDW4BogtVCRK2HOcgV841mcQ.jpg" group-title="2025",El maravilloso Mago de Oz (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8qSjKEA0KJxE2TrlBqf7PYcOlOM.jpg" group-title="ESTRENOS - 2025",El jardinero (2025)
+https://www.innovatv.store/contenido/PELICULAS/El%20jardinero/El%20jardinero%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hzuus3qrQct2JeoAs2AGMYzKzjZ.jpg" group-title="ESTRENOS - 2025",El ladrón de joyas (2025)
+https://www.innovatv.store/contenido/PELICULAS/El%20ladron%20de%20joyas/El%20ladr%c3%b3n%20de%20joyas%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jD1hDW4BogtVCRK2HOcgV841mcQ.jpg" group-title="ESTRENOS - 2025",El maravilloso Mago de Oz (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239935.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Monkey (2025)" tvg-logo="https://image.tmdb.org/t/p/original/6aOLjR40vTLFg1X3Ua4OFKTH6Ys.jpg" group-title="2025",El mono (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El muro negro (2025)" tvg-logo="https://image.tmdb.org/t/p/original/sHnj1SayvEz6USHBkSQ7tiArWVp.jpg" group-title="2025",El muro negro (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6aOLjR40vTLFg1X3Ua4OFKTH6Ys.jpg" group-title="ESTRENOS - 2025",El mono (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Monkey/El%20mono%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/sHnj1SayvEz6USHBkSQ7tiArWVp.jpg" group-title="ESTRENOS - 2025",El muro negro (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248372.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Payaso del Maizal (2025)" tvg-logo="https://image.tmdb.org/t/p/original/11L8yLy9gXqXkDO97nsb7k3JTdx.jpg" group-title="2025",El payaso del maizal (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="King Ivory (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ordsCoZ88bZrXlaSfcc4haCIfm8.jpg" group-title="2025",El rey de marfil (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="King Ivory (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ordsCoZ88bZrXlaSfcc4haCIfm8.jpg" group-title="2025",El rey de marfil (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/11L8yLy9gXqXkDO97nsb7k3JTdx.jpg" group-title="ESTRENOS - 2025",El payaso del maizal (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Clown%20In%20A%20Cornfield/Clown.In.A.Cornfield.2025.1080p.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ordsCoZ88bZrXlaSfcc4haCIfm8.jpg" group-title="ESTRENOS - 2025",El rey de marfil (2025)
 https://www.innovatv.store/contenido/PELICULAS/King%20Ivory/King%20Ivory%20%282024%29%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Rey de Reyes (2025)" tvg-logo="https://image.tmdb.org/t/p/original/1CqvZOugijDmLYuuBbha6tbijSe.jpg" group-title="2025",El rey de reyes (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241092.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El robo perfecto 2: Pantera (2025)" tvg-logo="https://image.tmdb.org/t/p/original/8v8XKrvhwEflJXwWXzMbt7A4I4I.jpg" group-title="2025",El robo perfecto 2: Pantera (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1232152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El secreto del orfebre (2025)" tvg-logo="https://image.tmdb.org/t/p/original/8cAXLYDmn0POhjqzTHeT6rJMUVc.jpg" group-title="2025",El secreto del Orfebre (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244467.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Surfer (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ysYSZHBg4jCpk8DciAGhSfpEZjT.jpg" group-title="2025",El surfista (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245966.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Rule of Jenny Pen (2025)" tvg-logo="https://image.tmdb.org/t/p/original/qrkyvBVmr4IDw1nQNtYrWinzGHU.jpg" group-title="2025",El terror de la vejez (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El último encargo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/4FAVJGRLAgk6SNF2N2RjBcUHa8P.jpg" group-title="2025",El último encargo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250607.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Empezar de nuevo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/g699pheMnwexVWgNy8S2bTGh0y0.jpg" group-title="2025",Empezar de nuevo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Encerrado (2025)" tvg-logo="https://image.tmdb.org/t/p/original/anLwvQ9Ozu2IKnVH9myc83R88SX.jpg" group-title="2025",Encerrado (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247293.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9syryQcNv4dqTfg6GweZLkJ02Wr.jpg" group-title="2025",En lo profundo (2025) SUB 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1CqvZOugijDmLYuuBbha6tbijSe.jpg" group-title="ESTRENOS - 2025",El rey de reyes (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20King%20of%20Kings/The.King.of.Kings.2025.1080p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8v8XKrvhwEflJXwWXzMbt7A4I4I.jpg" group-title="ESTRENOS - 2025",El robo perfecto 2: Pantera (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Den%20of%20Thieves%202/PANTERA%202%20SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8cAXLYDmn0POhjqzTHeT6rJMUVc.jpg" group-title="ESTRENOS - 2025",El secreto del Orfebre (2025)
+https://www.innovatv.store/contenido/PELICULAS/El%20secreto%20del%20orfebre/El.secreto.del.orfebre.2025.1080p.WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ysYSZHBg4jCpk8DciAGhSfpEZjT.jpg" group-title="ESTRENOS - 2025",El surfista (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/The%20Surfer/The.Surfer.2024.1080p.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qrkyvBVmr4IDw1nQNtYrWinzGHU.jpg" group-title="ESTRENOS - 2025",El terror de la vejez (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/The%20Rule%20Of%20Jenny%20Pen/The.Rule.Of.Jenny.Pen.2024.1080psub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4FAVJGRLAgk6SNF2N2RjBcUHa8P.jpg" group-title="ESTRENOS - 2025",El último encargo (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Pickup/El%20%c3%baltimo%20encargo%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/g699pheMnwexVWgNy8S2bTGh0y0.jpg" group-title="ESTRENOS - 2025",Empezar de nuevo (2025)
+https://www.innovatv.store/contenido/PELICULAS/Empezar%20de%20nuevo/Empezar%20de%20nuevo%20(2025)%201080p%20WEB-DL%20LIGERO%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/anLwvQ9Ozu2IKnVH9myc83R88SX.jpg" group-title="ESTRENOS - 2025",Encerrado (2025)
+https://www.innovatv.store/contenido/PELICULAS/Encerrado/Encerrado%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9syryQcNv4dqTfg6GweZLkJ02Wr.jpg" group-title="ESTRENOS - 2025",En lo profundo (2025) SUB
 https://innovatv.store/contenido/PELICULAS/Into%20The%20Deep/Into.The.Deep.2025.1080pXUB.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estado eléctrico (2025)" tvg-logo="https://image.tmdb.org/t/p/original/bkWPdKhp5TGubIbHCuCtJ1Uii5c.jpg" group-title="2025",Estado eléctrico (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238025.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Ritual (2025)" tvg-logo="https://image.tmdb.org/t/p/original/eTEDrt0bnKaSZTXh5fgSHOM7Di9.jpg" group-title="2025",Exorcismo: El ritual (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247420.mkv
-#EXTINF:-1 tvg-id="" tvg-name="28 años después (2025)" tvg-logo="https://image.tmdb.org/t/p/original/fONJB3dDEmMtHfomLswkooTONdm.jpg" group-title="2025",Exterminio: La evolución (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Extraterritorial (2025)" tvg-logo="https://image.tmdb.org/t/p/original/wCAZdru1rltEVwRnV0rAT5R1rUd.jpg" group-title="2025",Exterritorial (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242453.mkv
-#EXTINF:-1 tvg-id="" tvg-name="F1 la película (2025)" tvg-logo="https://image.tmdb.org/t/p/original/v0YHs3ge1MYyyueNRu4w1RxE5Xm.jpg" group-title="2025",F1 la película (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bkWPdKhp5TGubIbHCuCtJ1Uii5c.jpg" group-title="ESTRENOS - 2025",Estado eléctrico (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Electric%20State/Estado%20el%c3%a9ctrico%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eTEDrt0bnKaSZTXh5fgSHOM7Di9.jpg" group-title="ESTRENOS - 2025",Exorcismo: El ritual (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/The%20Ritual/The.Ritual.2025.1080p.WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fONJB3dDEmMtHfomLswkooTONdm.jpg" group-title="ESTRENOS - 2025",Exterminio: La evolución (2025)
+https://www.innovatv.store/contenido/PELICULAS/28%20Years%20Later/Exterminio%20La%20evoluci%c3%b3n%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wCAZdru1rltEVwRnV0rAT5R1rUd.jpg" group-title="ESTRENOS - 2025",Exterritorial (2025)
+https://www.innovatv.store/contenido/PELICULAS/Extraterritorial/Extraterritorial%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/v0YHs3ge1MYyyueNRu4w1RxE5Xm.jpg" group-title="ESTRENOS - 2025",F1 la película (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247349.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fight or flight (sicarios en el aire) (2025)" tvg-logo="https://image.tmdb.org/t/p/original/i7slkpMXjr4V311r5bg4u6Owzig.jpg" group-title="2025",Fight or flight: Sicarios en el aire (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243595.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUyyojeA4EZakHwLsfcFXrPyfnl.jpg" group-title="2025",F plus (2025) SUB 1080P
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/i7slkpMXjr4V311r5bg4u6Owzig.jpg" group-title="ESTRENOS - 2025",Fight or flight: Sicarios en el aire (2025)
+https://www.innovatv.store/contenido/PELICULAS/Fight%20or%20Flight/Fight%20or%20Flight%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUyyojeA4EZakHwLsfcFXrPyfnl.jpg" group-title="ESTRENOS - 2025",F plus (2025) SUB
 https://www.innovatv.store/contenido/PELICULAS/F%20Plus/F.Plus.2025.1080p.sub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Francotirador: La batalla final (2025)" tvg-logo="https://image.tmdb.org/t/p/original/x6habXI9OiLxiFH3erzRvXkLOfX.jpg" group-title="2025",Francotirador: La batalla final (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/x6habXI9OiLxiFH3erzRvXkLOfX.jpg" group-title="ESTRENOS - 2025",Francotirador: La batalla final (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1236877.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Freaky Tales (2025)" tvg-logo="https://image.tmdb.org/t/p/original/qUVtoA8x1dWWizZtBNhC0Jc4p7r.jpg" group-title="2025",Freaky Tales: Cuentos extraños (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241977.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Frozen: The Hit Broadway Musical (2025)" tvg-logo="https://image.tmdb.org/t/p/original/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg" group-title="2025",Frozen: El musical (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fuera de pista 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/49iSEeS4sLv4wpkwiEwH8J2XCF5.jpg" group-title="2025",Fuera de pista 2 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="G20 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/c1SEY8o7qO8eY7nxgghoX0D9qfc.jpg" group-title="2025",G20 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240396.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zehO6A3UBe8pjAt8lRABoHfo7GR.jpg" group-title="2025",Grandes apostadores (2025) SUB 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qUVtoA8x1dWWizZtBNhC0Jc4p7r.jpg" group-title="ESTRENOS - 2025",Freaky Tales: Cuentos extraños (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Freaky%20Tales/Freaky.Tales.2024.1080p.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg" group-title="ESTRENOS - 2025",Frozen: El musical (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Frozen%20The%20Hit%20Broadway%20Musical/Frozen.The.Hit.Broadway.Musical.2025.1080p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/49iSEeS4sLv4wpkwiEwH8J2XCF5.jpg" group-title="ESTRENOS - 2025",Fuera de pista 2 (2025)
+https://www.innovatv.store/contenido/PELICULAS/Off%20Track%202/Off.Track.2.2025.1080p.WEBRip.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/c1SEY8o7qO8eY7nxgghoX0D9qfc.jpg" group-title="ESTRENOS - 2025",G20 (2025)
+https://www.innovatv.store/contenido/PELICULAS/G20/G20%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zehO6A3UBe8pjAt8lRABoHfo7GR.jpg" group-title="ESTRENOS - 2025",Grandes apostadores (2025) SUB
 https://www.innovatv.store/contenido/PELICULAS/High%20Rollers/High.Rollers.2025.BLURAY.1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita (2025)" tvg-logo="https://image.tmdb.org/t/p/original/vJpkOAjW84OZO4CGYKGmHKjVosc.jpg" group-title="2025",Guardianes de la noche: Kimetsu no Yaiba: La fortaleza infinita (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vJpkOAjW84OZO4CGYKGmHKjVosc.jpg" group-title="ESTRENOS - 2025",Guardianes de la noche: Kimetsu no Yaiba: La fortaleza infinita (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249613.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terminagolf 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/wLzfzKoVTfVkyiyWT2IZoVjwWtx.jpg" group-title="2025",Happy Gilmore 2 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harta (2025)" tvg-logo="https://image.tmdb.org/t/p/original/A1hUVkWc5PuwSp0SKw8OXTmKQtF.jpg" group-title="2025",Harta (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Havoc (2025)" tvg-logo="https://image.tmdb.org/t/p/original/8IpHF2T6SX8RIRFu9y2IdhB9Hnj.jpg" group-title="2025",Havoc: Estragos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241697.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Henry Danger: La película (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ctz8IJUVmj0txfBzNQHEZitC2c9.jpg" group-title="2025",Henry Danger (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1235840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los superhéroes de Malegaon (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ewuDGZQwDjRi6w0OWUwMVDNrTna.jpg" group-title="2025",Héroes de Malegaon (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los superhéroes de Malegaon (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ewuDGZQwDjRi6w0OWUwMVDNrTna.jpg" group-title="2025",Héroes de Malegaon (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wLzfzKoVTfVkyiyWT2IZoVjwWtx.jpg" group-title="ESTRENOS - 2025",Happy Gilmore 2 (2025)
+https://www.innovatv.store/contenido/PELICULAS/Happy%20Gilmore%202/Happy%20Gilmore%202%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/A1hUVkWc5PuwSp0SKw8OXTmKQtF.jpg" group-title="ESTRENOS - 2025",Harta (2025)
+https://www.innovatv.store/contenido/PELICULAS/Harta/Harta%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8IpHF2T6SX8RIRFu9y2IdhB9Hnj.jpg" group-title="ESTRENOS - 2025",Havoc: Estragos (2025)
+https://www.innovatv.store/contenido/PELICULAS/Estragos/Estragos%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ctz8IJUVmj0txfBzNQHEZitC2c9.jpg" group-title="ESTRENOS - 2025",Henry Danger (2025)
+https://www.innovatv.store/contenido/PELICULAS/Henry%20Danger%20La%20pelicula/Henry%20Danger%20La%20pel%c3%adcula%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los superhéroes de Malegaon (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ewuDGZQwDjRi6w0OWUwMVDNrTna.jpg" group-title="ESTRENOS - 2025",Héroes de Malegaon (2025)
 https://www.innovatv.store/contenido/PELICULAS/Superboys%20of%20Malegaon/Superboys.of.Malegaon.2024.1080p.WEBRip.Dual.Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Home Sweet Home: Rebirth (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zq1D7JVo7b0CtMvy2c1KbdnScml.jpg" group-title="2025",Hogar dulce hogar: Renacimiento (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Holland (2025)" tvg-logo="https://image.tmdb.org/t/p/original/whYFLpx7Vrk2qlr1mx3WQ0kvSUP.jpg" group-title="2025",Holland (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Homem com H (2025)" tvg-logo="https://image.tmdb.org/t/p/original/xExgeiovpUKl2gvvEkECKky3zUA.jpg" group-title="2025",Hombre con H (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247687.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombre lobo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/cmULetwrXfXGNbzlTEzDboMKwpI.jpg" group-title="2025",Hombre lobo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1233132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Imagínatelo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/pc0PgzAOIeQP1N9EyBzLXsC8Mdg.jpg" group-title="2025",Imagínatelo (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Home Sweet Home: Rebirth (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zq1D7JVo7b0CtMvy2c1KbdnScml.jpg" group-title="ESTRENOS - 2025",Hogar dulce hogar: Renacimiento (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Home%20Sweet%20Home%20Rebirth/Home.Sweet.Home.Rebirth.2025.1080p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/whYFLpx7Vrk2qlr1mx3WQ0kvSUP.jpg" group-title="ESTRENOS - 2025",Holland (2025)
+https://www.innovatv.store/contenido/PELICULAS/Holland/Holland%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xExgeiovpUKl2gvvEkECKky3zUA.jpg" group-title="ESTRENOS - 2025",Hombre con H (2025)
+https://www.innovatv.store/contenido/PELICULAS/Homem/Homem.com.H.2025.1080p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cmULetwrXfXGNbzlTEzDboMKwpI.jpg" group-title="ESTRENOS - 2025",Hombre lobo (2025)
+https://www.innovatv.store/contenido/PELICULAS/Hombre%20lobo/Hombre%20lobo%20(2025)%20WEB-DL%20lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pc0PgzAOIeQP1N9EyBzLXsC8Mdg.jpg" group-title="ESTRENOS - 2025",Imagínatelo (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1237207.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Unbreakable Boy (2025)" tvg-logo="https://image.tmdb.org/t/p/original/lzKoFaxNxh9yWfB1Be9GO3YxTtR.jpg" group-title="2025",Invencible: Un niño fuera de serie (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="iRehén (2025)" tvg-logo="https://image.tmdb.org/t/p/original/nMEyOcLdlMVoccH3uFQw33rmFm6.jpg" group-title="2025",iRehén (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="iRehén (2025)" tvg-logo="https://image.tmdb.org/t/p/original/nMEyOcLdlMVoccH3uFQw33rmFm6.jpg" group-title="2025",iRehén (2025) 1080p 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lzKoFaxNxh9yWfB1Be9GO3YxTtR.jpg" group-title="ESTRENOS - 2025",Invencible: Un niño fuera de serie (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Unbreakable%20Boy/The.Unbreakable.Boy.2025.1080p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nMEyOcLdlMVoccH3uFQw33rmFm6.jpg" group-title="ESTRENOS - 2025",iRehén (2025)
 https://www.innovatv.store/contenido/PELICULAS/iHostage/iHostage.2025.1080p.WEBRip.Dual.Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jefes de Estado (2025)" tvg-logo="https://image.tmdb.org/t/p/original/55986KToqHGSNXFPT92ObUypg5J.jpg" group-title="2025",Jefes de Estado (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247845.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juegos de seducción (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yurzZOe6P5EAiBBPkQl7xpUpCLu.jpg" group-title="2025",Juegos de seducción (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: El renacer (2025)" tvg-logo="https://image.tmdb.org/t/p/original/rTxsUEHPOUAQCGxmtLf5ZuiaLUj.jpg" group-title="2025",Jurassic World: Renace (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250604.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kaiju No 8: Mision de reconocimiento (2025)" tvg-logo="https://image.tmdb.org/t/p/original/gnR4ZjTcKXh2Su3FIpOayxM7K0D.jpg" group-title="2025",Kaiju No 8: Misión de reconocimiento (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248695.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karate Kid: Legends (2025)" tvg-logo="https://image.tmdb.org/t/p/original/atAwxtAjwkBZXIn1PeBceXOdveT.jpg" group-title="2025",Karate Kid: Leyendas (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karate Kid: Legends (2025)" tvg-logo="https://image.tmdb.org/t/p/original/atAwxtAjwkBZXIn1PeBceXOdveT.jpg" group-title="2025",Karate Kid: Leyendas (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/55986KToqHGSNXFPT92ObUypg5J.jpg" group-title="ESTRENOS - 2025",Jefes de Estado (2025)
+https://www.innovatv.store/contenido/PELICULAS/Jefes%20de%20estado/Jefes%20de%20estado%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yurzZOe6P5EAiBBPkQl7xpUpCLu.jpg" group-title="ESTRENOS - 2025",Juegos de seducción (2025)
+https://www.innovatv.store/contenido/PELICULAS/Juegos%20de%20seduccion/Juegos%20de%20seducci%c3%b3n%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rTxsUEHPOUAQCGxmtLf5ZuiaLUj.jpg" group-title="ESTRENOS - 2025",Jurassic World: Renace (2025)
+https://www.innovatv.store/contenido/PELICULAS/Jurassic%20World%20Renace/Jurassic%20World%20Renace%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gnR4ZjTcKXh2Su3FIpOayxM7K0D.jpg" group-title="ESTRENOS - 2025",Kaiju No 8: Misión de reconocimiento (2025)
+https://www.innovatv.store/contenido/PELICULAS/Kaijuu%208%20gou%20Mission%20Recon/Kaiju%20No.%208%20Misi%c3%b3n%20de%20reconocimiento%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/atAwxtAjwkBZXIn1PeBceXOdveT.jpg" group-title="ESTRENOS - 2025",Karate Kid: Leyendas (2025)
 https://www.innovatv.store/contenido/PELICULAS/Karate%20Kid%20Leyendas/Karate%20Kid%20Leyendas%20%282025%29%201080p%20WEB-DL%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Karol G: Mañana fue muy bonito (2025)" tvg-logo="https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg" group-title="2025",Karol G: Mañana fue muy bonito (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243443.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kayara. La guerrera del imperio Inca (2025)" tvg-logo="https://image.tmdb.org/t/p/original/dVLIz5BpGfS2vh2WCfCfJR6ZIAV.jpg" group-title="2025",Kayara: La princesa inca (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kiff Lore of the Ring Light (2025)" tvg-logo="https://image.tmdb.org/t/p/original/i9iCP4mlsTKqUPrqQgXxLVjIFN0.jpg" group-title="2025",Kiff: La leyenda del anillo de luz (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245528.mkv
-#EXTINF:-1 tvg-id="" tvg-name="K.O. (2025)" tvg-logo="https://image.tmdb.org/t/p/original/Aptk6brjNgSASPvdsotw66RabgM.jpg" group-title="2025",K.O. (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La calle del terror: La reina del baile (2025)" tvg-logo="https://image.tmdb.org/t/p/original/kFoKVQiqtJdJ0qQtSRVihboN1aZ.jpg" group-title="2025",La calle del terror: La reina del baile (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244466.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La calle del terror: La reina del baile (2025)" tvg-logo="https://image.tmdb.org/t/p/original/kFoKVQiqtJdJ0qQtSRVihboN1aZ.jpg" group-title="2025",La calle del terror: La reina del baile (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg" group-title="ESTRENOS - 2025",Karol G: Mañana fue muy bonito (2025)
+https://www.innovatv.store/contenido/PELICULAS/Karol%20g%20Manana%20fue%20muy%20bonito/Karol.G.Manana.fue.muy.bonito.2024.1080p.WEBRip.LAT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/dVLIz5BpGfS2vh2WCfCfJR6ZIAV.jpg" group-title="ESTRENOS - 2025",Kayara: La princesa inca (2025)
+https://www.innovatv.store/contenido/PELICULAS/Kayara/Kayara.2025.1080p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/i9iCP4mlsTKqUPrqQgXxLVjIFN0.jpg" group-title="ESTRENOS - 2025",Kiff: La leyenda del anillo de luz (2025)
+https://www.innovatv.store/contenido/PELICULAS/Kiff%20Lore%20of%20the%20Ring%20Light/K.L.L.D.A.L%20(2025)%20Web-Dl%201080pLAT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/Aptk6brjNgSASPvdsotw66RabgM.jpg" group-title="ESTRENOS - 2025",K.O. (2025)
+https://www.innovatv.store/contenido/PELICULAS/K%20O/K.O%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La calle del terror: La reina del baile (2025)" tvg-logo="https://image.tmdb.org/t/p/original/kFoKVQiqtJdJ0qQtSRVihboN1aZ.jpg" group-title="ESTRENOS - 2025",La calle del terror: La reina del baile (2025)
 https://www.innovatv.store/contenido/PELICULAS/Fear%20Street%20Prom%20Queen/Fear.Street.Prom.Queen.2025.1080p.WEBRip.Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ice Road: Vengeance (2025)" tvg-logo="https://image.tmdb.org/t/p/original/wMsvjB8m8iANCIyYOqvEfpYNTEs.jpg" group-title="2025",La carretera de hielo: Venganza (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wMsvjB8m8iANCIyYOqvEfpYNTEs.jpg" group-title="ESTRENOS - 2025",La carretera de hielo: Venganza (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247819.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La casa al final de la curva (2025)" tvg-logo="https://image.tmdb.org/t/p/original/hPK7H70vQVpT3qn9zedKqizXVdx.jpg" group-title="2025",La casa al final de la curva (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244824.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Dolce Villa (2025)" tvg-logo="https://image.tmdb.org/t/p/original/lQyMzrH4MgnPbmOTyDie60G129q.jpg" group-title="2025",La dolce villa (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La evaluación (2025)" tvg-logo="https://image.tmdb.org/t/p/original/qYJOcdI01G26LImJ6GpzMoBAR0F.jpg" group-title="2025",La evaluación (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La fuente de la eterna juventud (2025)" tvg-logo="https://image.tmdb.org/t/p/original/p0eqJ2U3opmouheu1M9pxU2JpZl.jpg" group-title="2025",La fuente de la eterna juventud (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La furia (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ywzUHtubAGbJilTBoypwzOWlKvs.jpg" group-title="2025",La furia (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hPK7H70vQVpT3qn9zedKqizXVdx.jpg" group-title="ESTRENOS - 2025",La casa al final de la curva (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Sharp%20Corner/Sharp.Corner.2024.1080p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lQyMzrH4MgnPbmOTyDie60G129q.jpg" group-title="ESTRENOS - 2025",La dolce villa (2025)
+https://www.innovatv.store/contenido/PELICULAS/La%20dolce%20casa/La%20dolce%20casa%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qYJOcdI01G26LImJ6GpzMoBAR0F.jpg" group-title="ESTRENOS - 2025",La evaluación (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Assessment/La%20evaluaci%c3%b3n%20(2024)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/p0eqJ2U3opmouheu1M9pxU2JpZl.jpg" group-title="ESTRENOS - 2025",La fuente de la eterna juventud (2025)
+https://www.innovatv.store/contenido/PELICULAS/Fountain%20of%20Youth/La%20fuente%20de%20la%20juventud%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ywzUHtubAGbJilTBoypwzOWlKvs.jpg" group-title="ESTRENOS - 2025",La furia (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249364.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La guerra de los mundos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/1QVxpcnrCyPbUQoK52S16onXk3h.jpg" group-title="2025",La guerra de los mundos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inheritance (2025)" tvg-logo="https://image.tmdb.org/t/p/original/vs032JQGwgZeaqfoygTDwnWHLU7.jpg" group-title="2025",La herencia (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The ugly stepsister (2025)" tvg-logo="https://image.tmdb.org/t/p/original/mhln5lma7i4fYWJpoN3vjPyJnGu.jpg" group-title="2025",La hermanastra fea (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244236.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Legend of Ochi (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ab0eDpvdOP5iXbwd79njbXABCev.jpg" group-title="2025",La leyenda de Ochi (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Death of a Unicorn (2025)" tvg-logo="https://image.tmdb.org/t/p/original/jIWggKOztcUdOrDsU90pqdSChWc.jpg" group-title="2025",La muerte de un unicornio (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242321.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Woman in the Yard (2025)" tvg-logo="https://image.tmdb.org/t/p/original/cgVLfFawpwpHGdM5EMgBHmMT7cs.jpg" group-title="2025",La mujer de las sombras (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1QVxpcnrCyPbUQoK52S16onXk3h.jpg" group-title="ESTRENOS - 2025",La guerra de los mundos (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Words%20of%20War/Words.Of.War.2025.1080p.SUIB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vs032JQGwgZeaqfoygTDwnWHLU7.jpg" group-title="ESTRENOS - 2025",La herencia (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Inheritance/Inheritance.2025.VOSTFR.1080p.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mhln5lma7i4fYWJpoN3vjPyJnGu.jpg" group-title="ESTRENOS - 2025",La hermanastra fea (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/The%20Ugly%20Stepsister/The.Ugly.Stepsister.2025.1080p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ab0eDpvdOP5iXbwd79njbXABCev.jpg" group-title="ESTRENOS - 2025",La leyenda de Ochi (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Legend%20of%20Ochi/The.Legend.of.Ochi.2025.1080p.WEBRip.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jIWggKOztcUdOrDsU90pqdSChWc.jpg" group-title="ESTRENOS - 2025",La muerte de un unicornio (2025)
+https://www.innovatv.store/contenido/PELICULAS/Death%20of%20a%20Unicorn/Death.of.a.Unicorn.2025.1080p.lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cgVLfFawpwpHGdM5EMgBHmMT7cs.jpg" group-title="ESTRENOS - 2025",La mujer de las sombras (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240744.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Landline (2025)" tvg-logo="https://image.tmdb.org/t/p/original/sgZYD9TSifuVKSGRoJLF1nNQMnA.jpg" group-title="2025",Landline (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/sgZYD9TSifuVKSGRoJLF1nNQMnA.jpg" group-title="ESTRENOS - 2025",Landline (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fog of War (2025)" tvg-logo="https://image.tmdb.org/t/p/original/4J5cnIgCl6gvcUvaHkPc0iXkl6y.jpg" group-title="2025",La niebla de la guerra (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239865.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Niña de mis Ojos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/tK3bRjbCyvL1qeZnbs8xxtjIZ8U.jpg" group-title="2025",La niña de mis ojos (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4J5cnIgCl6gvcUvaHkPc0iXkl6y.jpg" group-title="ESTRENOS - 2025",La niebla de la guerra (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Fog%20Of%20War/Fog.Of.War.2025.1080p.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tK3bRjbCyvL1qeZnbs8xxtjIZ8U.jpg" group-title="ESTRENOS - 2025",La niña de mis ojos (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246592.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La otra boda (2025)" tvg-logo="https://image.tmdb.org/t/p/original/tV0ALVBx1aTg9DGSP6X4hmUqgSy.jpg" group-title="2025",La otra boda (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1232472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La pistola desnuda (2025)" tvg-logo="https://image.tmdb.org/t/p/original/mgLUARrEFJzZkib2kbhnxKzuxu1.jpg" group-title="2025",La pistola desnuda (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1Ro9NsJT7QUtKXCaxGSTnga0Ci0.jpg" group-title="ESTRENOS - 2025",La noche siempre llega (2025)
+https://www.innovatv.store/contenido/PELICULAS/La%20noche%20siempre%20llega/La%20noche%20siempre%20llega%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tV0ALVBx1aTg9DGSP6X4hmUqgSy.jpg" group-title="ESTRENOS - 2025",La otra boda (2025)
+https://www.innovatv.store/contenido/PELICULAS/You%20re%20Cordially%20Invited/La%20otra%20boda%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mgLUARrEFJzZkib2kbhnxKzuxu1.jpg" group-title="ESTRENOS - 2025",La pistola desnuda (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250653.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La rosa de Versalles (2025)" tvg-logo="https://image.tmdb.org/t/p/original/tsm045wjZDrv1SUToM5rb2R8y0o.jpg" group-title="2025",La rosa de Versailles (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tsm045wjZDrv1SUToM5rb2R8y0o.jpg" group-title="ESTRENOS - 2025",La rosa de Versailles (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242456.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las guerreras k-pop (2025)" tvg-logo="https://image.tmdb.org/t/p/original/cCQ3bKsT0Ld81cgSieKAxZLBDJR.jpg" group-title="2025",Las guerreras K-pop (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246851.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La vida de Chuck (2025)" tvg-logo="https://image.tmdb.org/t/p/original/4WufgIsMDHzpQeGWThZVDAyJdRu.jpg" group-title="2025",La vida de Chuck (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cCQ3bKsT0Ld81cgSieKAxZLBDJR.jpg" group-title="ESTRENOS - 2025",Las guerreras K-pop (2025)
+https://www.innovatv.store/contenido/PELICULAS/Las%20guerreras%20k%20pop/Las%20guerreras%20k-pop%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4WufgIsMDHzpQeGWThZVDAyJdRu.jpg" group-title="ESTRENOS - 2025",La vida de Chuck (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La vieja guardia 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/uNtu3tCI2muhuGOqkKlHxjGliff.jpg" group-title="2025",La vieja guardia 2 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La viuda negra (2025)" tvg-logo="https://image.tmdb.org/t/p/original/mjt7bYnnU5wXnwt90MUVrVckIke.jpg" group-title="2025",La viuda negra (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sea Lions of the Galapagos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/vpTk0ehSZlVsfGjPjerRV1bqlxb.jpg" group-title="2025",Leones marinos de las Galápagos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leyendas de los Héroes Cóndor (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zqOajIiJdzHoYXjH6FLbKFFjSk5.jpg" group-title="2025",Leyendas de los Héroes Cóndor (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250719.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leyendas de los Héroes Cóndor (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zqOajIiJdzHoYXjH6FLbKFFjSk5.jpg" group-title="2025",Leyendas de los Héroes Cóndor (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uNtu3tCI2muhuGOqkKlHxjGliff.jpg" group-title="ESTRENOS - 2025",La vieja guardia 2 (2025)
+https://www.innovatv.store/contenido/PELICULAS/La%20vieja%20guardia%202/La%20vieja%20guardia%202%20(2025)%20REPACK%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mjt7bYnnU5wXnwt90MUVrVckIke.jpg" group-title="ESTRENOS - 2025",La viuda negra (2025)
+https://www.innovatv.store/contenido/PELICULAS/La%20viuda%20negra/La.viuda.negra.2025.1080p.WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vpTk0ehSZlVsfGjPjerRV1bqlxb.jpg" group-title="ESTRENOS - 2025",Leones marinos de las Galápagos (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Sea%20Lions%20of%20the%20Galapagos/Sea.Lions.Of.The.Galapagos.2025.1080p.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zqOajIiJdzHoYXjH6FLbKFFjSk5.jpg" group-title="ESTRENOS - 2025",Leyendas de los Héroes Cóndor (2025)
 https://www.innovatv.store/contenido/PELICULAS/Leyendas%20de%20los%20heroes%20Condor%20Los%20valientes/Leyendas%20de%20los%20heroes%20Condor%20Los%20valientes%20(2025)%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lilo y Stitch (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ymrME30Y5tWuYQlkrHwI4GkfeaE.jpg" group-title="2025",Lilo y Stitch (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247632.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Loco Por Ella (2025)" tvg-logo="https://image.tmdb.org/t/p/original/6PbSSN2BT22ZMsMaD7m8cGaqk3L.jpg" group-title="2025",Loco por Ella (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lo mejor del mundo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/vESip07mn2CxHXBqxMaKYw2ea49.jpg" group-title="2025",Lo mejor del mundo (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ymrME30Y5tWuYQlkrHwI4GkfeaE.jpg" group-title="ESTRENOS - 2025",Lilo y Stitch (2025)
+https://www.innovatv.store/contenido/PELICULAS/Lilo%20y%20Stitch/Lilo%20y%20Stitch%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6PbSSN2BT22ZMsMaD7m8cGaqk3L.jpg" group-title="ESTRENOS - 2025",Loco por Ella (2025)
+https://www.innovatv.store/contenido/PELICULAS/Loco%20por%20ella/Loco%20por%20ella%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vESip07mn2CxHXBqxMaKYw2ea49.jpg" group-title="ESTRENOS - 2025",Lo mejor del mundo (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lo que le falta a esta estrella (2025)" tvg-logo="https://image.tmdb.org/t/p/original/vQdeiSVDFEhdhqEd2SHsI3wk69c.jpg" group-title="2025",Lo que le falta a esta estrella (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245301.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/co5imwjC597K5ifvautY63pttZT.jpg" group-title="2025",Los asesinatos del lago Bear (2025) SUB 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vQdeiSVDFEhdhqEd2SHsI3wk69c.jpg" group-title="ESTRENOS - 2025",Lo que le falta a esta estrella (2025)
+https://www.innovatv.store/contenido/PELICULAS/Lo%20que%20le%20falta%20a%20esta%20estrella/Lo%20que%20le%20falta%20a%20esta%20estrella%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/co5imwjC597K5ifvautY63pttZT.jpg" group-title="ESTRENOS - 2025",Los asesinatos del lago Bear (2025) SUB
 https://innovatv.store/contenido/PELICULAS/The%20Bear%20Lake%20Murders/The.Bear.Lake.Murders.2025.1080p.sub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Cuatro Fantásticos: Primeros pasos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/wkH5hUoDkt0GcHU7rlo1vCP2mHq.jpg" group-title="2025",Los Cuatro Fantásticos: Primeros pasos (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wkH5hUoDkt0GcHU7rlo1vCP2mHq.jpg" group-title="ESTRENOS - 2025",Los Cuatro Fantásticos: Primeros pasos (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los dos hemisferios de Lucca (2025)" tvg-logo="https://image.tmdb.org/t/p/original/cLBBslJuw7zWFs8FH0UZAR4aG8W.jpg" group-title="2025",Los dos hemisferios de Lucca (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1232642.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Meet the Khumalos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/tS4VKxhLaNvTeTxrdNSas4qTCAa.jpg" group-title="2025",Los Khumalo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240670.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Damned (2025)" tvg-logo="https://image.tmdb.org/t/p/original/oasB2Zrt5xwSUAvtW0gEXRywTcg.jpg" group-title="2025",Los malditos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1231630.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los pecadores (2025)" tvg-logo="https://image.tmdb.org/t/p/original/fQz9xeuvJfSm0rtnxSTT06lPx0Q.jpg" group-title="2025",Los pecadores (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245121.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMxwyYk4/20250312-225946.jpg" group-title="2025",Los Simpsons: Pasado furioso (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cLBBslJuw7zWFs8FH0UZAR4aG8W.jpg" group-title="ESTRENOS - 2025",Los dos hemisferios de Lucca (2025)
+https://www.innovatv.store/contenido/PELICULAS/Los%20dos%20hemisferios%20de%20Lucca/Los%20dos%20hemisferios%20de%20Lucca%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tS4VKxhLaNvTeTxrdNSas4qTCAa.jpg" group-title="ESTRENOS - 2025",Los Khumalo (2025)
+https://www.innovatv.store/contenido/PELICULAS/Los%20Khumalo/Los%20Khumalo%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oasB2Zrt5xwSUAvtW0gEXRywTcg.jpg" group-title="ESTRENOS - 2025",Los malditos (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/The%20Damned/The.Damned.2024.720p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fQz9xeuvJfSm0rtnxSTT06lPx0Q.jpg" group-title="ESTRENOS - 2025",Los pecadores (2025)
+https://www.innovatv.store/contenido/PELICULAS/Sinners/Pecadores%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMxwyYk4/20250312-225946.jpg" group-title="ESTRENOS - 2025",Los Simpsons: Pasado furioso (2025)
 https://innovatv.store/contenido/SERIES/Los%20Simpson%20Pasado%20furioso/Los%20Simpson%20Pasado%20furioso%20%282025%29%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Neighborhood Watch (2025)" tvg-logo="https://image.tmdb.org/t/p/original/d8klTAPdlI0yFybI6yGPqq5bOtG.jpg" group-title="2025",Los vigilantes (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/d8klTAPdlI0yFybI6yGPqq5bOtG.jpg" group-title="ESTRENOS - 2025",Los vigilantes (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248668.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Me (2025)" tvg-logo="https://image.tmdb.org/t/p/original/qH5mZrjT88qWyY3221QFD89De2z.jpg" group-title="2025",Love me (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247915.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Me (2025)" tvg-logo="https://image.tmdb.org/t/p/original/qH5mZrjT88qWyY3221QFD89De2z.jpg" group-title="2025",Love me (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qH5mZrjT88qWyY3221QFD89De2z.jpg" group-title="ESTRENOS - 2025",Love me (2025)
 https://www.innovatv.store/contenido/PELICULAS/Love%20Me/Love%20Me%20%20%282025%29%20Web-Dl%201080p.LAT.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La rinoceronte Lulu (2025)" tvg-logo="https://image.tmdb.org/t/p/original/h6cxDZb5JRzaMZP37AfGPlHfCnm.jpg" group-title="2025",Lulu es una rinoceronte (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245529.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mala influencia (2025)" tvg-logo="https://image.tmdb.org/t/p/original/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg" group-title="2025",Mala influencia (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243442.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hurry Up Tomorrow (2025)" tvg-logo="https://image.tmdb.org/t/p/original/xXZh9fRIWs7ZSX66GT19IGc6Vlk.jpg" group-title="2025",Más allá de los reflectores (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/h6cxDZb5JRzaMZP37AfGPlHfCnm.jpg" group-title="ESTRENOS - 2025",Lulu es una rinoceronte (2025)
+https://www.innovatv.store/contenido/PELICULAS/Lulu%20es%20una%20rinoceronte/Lulu%20es%20una%20rinoceronte%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg" group-title="ESTRENOS - 2025",Mala influencia (2025)
+https://www.innovatv.store/contenido/PELICULAS/Mala%20influencia/Mala%20influencia%20(2025)%20WEB-DL%201080p%20Espa%c3%b1ol.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xXZh9fRIWs7ZSX66GT19IGc6Vlk.jpg" group-title="ESTRENOS - 2025",Más allá de los reflectores (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Masameer Junior (2025)" tvg-logo="https://image.tmdb.org/t/p/original/3Of6QJ6j7mNAluw52lNzE6KGCpD.jpg" group-title="2025",Masameer Junior (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246431.mkv
-#EXTINF:-1 tvg-id="" tvg-name="M3GAN 2.0 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ptYJSyb1VpZyKhmD6rsA8r47hbn.jpg" group-title="2025",Megan 2.0 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248983.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mensaje en una botella (2025)" tvg-logo="https://image.tmdb.org/t/p/original/sj5JljXWvxnxVrIW9oj6U43FgRm.jpg" group-title="2025",Mensaje en una botella (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246432.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mercato (2025)" tvg-logo="https://image.tmdb.org/t/p/original/e3UrjpWz1alI6LWePygrAZvpKn4.jpg" group-title="2025",Mercato (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3Of6QJ6j7mNAluw52lNzE6KGCpD.jpg" group-title="ESTRENOS - 2025",Masameer Junior (2025)
+https://www.innovatv.store/contenido/PELICULAS/Masameer%20Junior/Masameer%20Junior%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ptYJSyb1VpZyKhmD6rsA8r47hbn.jpg" group-title="ESTRENOS - 2025",Megan 2.0 (2025)
+https://www.innovatv.store/contenido/PELICULAS/MEGAN%202/M3GAN%202.0%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/sj5JljXWvxnxVrIW9oj6U43FgRm.jpg" group-title="ESTRENOS - 2025",Mensaje en una botella (2025)
+https://www.innovatv.store/contenido/PELICULAS/Mensaje%20en%20una%20botella/Mensaje%20en%20una%20botella%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/e3UrjpWz1alI6LWePygrAZvpKn4.jpg" group-title="ESTRENOS - 2025",Mercato (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mesa de regalos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg" group-title="2025",Mesa de regalos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1237810.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi año en Oxford (2025)" tvg-logo="https://image.tmdb.org/t/p/original/wqeeWsubPXkfgk2BEqNgZ8qYMFU.jpg" group-title="2025",Mi año en Oxford (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mickey 17 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/jd5Rubm07EenZW1F5RkSGLd49Ac.jpg" group-title="2025",Mickey 17 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239936.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r6S7D1YYnyu0HnXavhkQ4c7BbPW.jpg" group-title="2025",Mi corazón argentino (2025) SUB 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg" group-title="ESTRENOS - 2025",Mesa de regalos (2025)
+https://www.innovatv.store/contenido/PELICULAS/Mesa%20de%20regalos/Mesa%20de%20regalos%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wqeeWsubPXkfgk2BEqNgZ8qYMFU.jpg" group-title="ESTRENOS - 2025",Mi año en Oxford (2025)
+https://www.innovatv.store/contenido/PELICULAS/My%20Oxford%20Year/Mi%20a%c3%b1o%20en%20Oxford%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jd5Rubm07EenZW1F5RkSGLd49Ac.jpg" group-title="ESTRENOS - 2025",Mickey 17 (2025)
+https://www.innovatv.store/contenido/PELICULAS/Mickey%2017/M1K3Y.17%20(2025)%20Web-Dl.LAT%201080p%20P.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r6S7D1YYnyu0HnXavhkQ4c7BbPW.jpg" group-title="ESTRENOS - 2025",Mi corazón argentino (2025) SUB
 https://innovatv.store/contenido/PELICULAS/My%20Argentine%20Heart/My.Argentine.Heart.2025.1080p.sub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mikaela (2025)" tvg-logo="https://image.tmdb.org/t/p/original/jm6lNbpmKcxX6M0pieaKhP6hs3w.jpg" group-title="2025",Mikaela (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi lista de deseos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/4OvgWeGZjAbqvS1s4N668Kad05T.jpg" group-title="2025",Mi lista de deseos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Miocardio (2025)" tvg-logo="https://image.tmdb.org/t/p/original/po3Rhi2iOV1sXLpQQy8fOlMrlUW.jpg" group-title="2025",Miocardio (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jm6lNbpmKcxX6M0pieaKhP6hs3w.jpg" group-title="ESTRENOS - 2025",Mikaela (2025)
+https://www.innovatv.store/contenido/PELICULAS/Mikaela/Mikaela%20(2025)%20WEB-DL%201080p%20Esp.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4OvgWeGZjAbqvS1s4N668Kad05T.jpg" group-title="ESTRENOS - 2025",Mi lista de deseos (2025)
+https://www.innovatv.store/contenido/PELICULAS/Mi%20lista%20de%20deseos/Mi%20lista%20de%20deseos%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/po3Rhi2iOV1sXLpQQy8fOlMrlUW.jpg" group-title="ESTRENOS - 2025",Miocardio (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249365.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mis 84 m² (2025)" tvg-logo="https://image.tmdb.org/t/p/original/gHRLQfA0Q4ytqYeomzemiQI4Azq.jpg" group-title="2025",Mis 84 m² (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249223.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mountainhead (2025)" tvg-logo="https://image.tmdb.org/t/p/original/fyMtvgxsaTcrJS0kN1lL4gyEzKa.jpg" group-title="2025",Mountainhead (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gHRLQfA0Q4ytqYeomzemiQI4Azq.jpg" group-title="ESTRENOS - 2025",Mis 84 m² (2025)
+https://www.innovatv.store/contenido/PELICULAS/Mis%2084%20m2/Mis%2084%20m2%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/blxlyZFU3LKNqpegaoUmkrQzQJw.jpg" group-title="ESTRENOS - 2025",Mononoke 2 (2025)
+https://www.innovatv.store/contenido/PELICULAS/Mononoke%20II%20Las%20cenizas%20de%20la%20ira/Mononoke%20II%20Las%20cenizas%20de%20la%20ira%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fyMtvgxsaTcrJS0kN1lL4gyEzKa.jpg" group-title="ESTRENOS - 2025",Mountainhead (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245531.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ne Zha 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/jiZsghGFHmeINTkjp3v1ZfuXfCO.jpg" group-title="2025",Ne Zha 2 (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jiZsghGFHmeINTkjp3v1ZfuXfCO.jpg" group-title="ESTRENOS - 2025",Ne Zha 2 (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Night Carnage (2025)" tvg-logo="https://image.tmdb.org/t/p/original/gep8Mk0ndUn8IXyXouPz5cvIvzj.jpg" group-title="2025",Night Carnage (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1251032.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nonnas (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7LJmoWnLXUPIYUu9JVSBzDPrIr6.jpg" group-title="2025",Nonnas (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243441.mkv
-#EXTINF:-1 tvg-id="" tvg-name="We Beat the Dream Team (2025)" tvg-logo="https://image.tmdb.org/t/p/original/s20mEUmIarIjDFf4IBfDKY5fkrv.jpg" group-title="2025",Nosotros derrotamos al Dream Team (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gep8Mk0ndUn8IXyXouPz5cvIvzj.jpg" group-title="ESTRENOS - 2025",Night Carnage (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Night%20Carnage/Night.Carnage.2025.1080psub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7LJmoWnLXUPIYUu9JVSBzDPrIr6.jpg" group-title="ESTRENOS - 2025",Nonnas (2025)
+https://www.innovatv.store/contenido/PELICULAS/Nonnas/Nonnas%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/s20mEUmIarIjDFf4IBfDKY5fkrv.jpg" group-title="ESTRENOS - 2025",Nosotros derrotamos al Dream Team (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1234883.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Novocaine (2025)" tvg-logo="https://image.tmdb.org/t/p/original/a8o59RD4zsdCntlhZonm0EVwmpe.jpg" group-title="2025",Novocaine: Sin dolor (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238401.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nuestros tiempos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/pXEMDnc7wKVNEvs9beXQAW6jnw9.jpg" group-title="2025",Nuestros tiempos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246266.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O'Dessa (2025)" tvg-logo="https://image.tmdb.org/t/p/original/aEdb2bqiiC5ZGKWhaXZ9tMxehLl.jpg" group-title="2025",O'Dessa (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Oni-Goroshi: Ciudad de los demonios (2025)" tvg-logo="https://image.tmdb.org/t/p/original/phsBSJh027EAMAjFODWic9k6uGz.jpg" group-title="2025",Oni-Goroshi: Ciudad de los demonios (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1236414.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Opus (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yuhsWhiBjnGLLkjh8BMOKPpipy2.jpg" group-title="2025",Opus (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248445.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Opus (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yuhsWhiBjnGLLkjh8BMOKPpipy2.jpg" group-title="2025",Opus (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/a8o59RD4zsdCntlhZonm0EVwmpe.jpg" group-title="ESTRENOS - 2025",Novocaine: Sin dolor (2025)
+https://www.innovatv.store/contenido/PELICULAS/Novocaine%20Sin%20dolor/Novocaine%20Sin%20dolor%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pXEMDnc7wKVNEvs9beXQAW6jnw9.jpg" group-title="ESTRENOS - 2025",Nuestros tiempos (2025)
+https://www.innovatv.store/contenido/PELICULAS/Nuestros%20tiempos/Nuestros%20tiempos%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/aEdb2bqiiC5ZGKWhaXZ9tMxehLl.jpg" group-title="ESTRENOS - 2025",O'Dessa (2025)
+https://www.innovatv.store/contenido/PELICULAS/O%20Dessa/O'Dessa%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/phsBSJh027EAMAjFODWic9k6uGz.jpg" group-title="ESTRENOS - 2025",Oni-Goroshi: Ciudad de los demonios (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Oni%20Goroshi%20Ciudad%20de%20los%20demonios/Oni-Goroshi%20Ciudad%20de%20los%20demonios%20(2025)%20WEB-DL%20LIGERO%201080p%20SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yuhsWhiBjnGLLkjh8BMOKPpipy2.jpg" group-title="ESTRENOS - 2025",Opus (2025)
 https://www.innovatv.store/contenido/PELICULAS/Opus/Opus%20%282025%29%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Osiris (2025)" tvg-logo="https://image.tmdb.org/t/p/original/rceU1WTVeVzkDUUrL0Y28QzLwcZ.jpg" group-title="2025",Osiris (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rceU1WTVeVzkDUUrL0Y28QzLwcZ.jpg" group-title="ESTRENOS - 2025",Osiris (2025)
 https://www.innovatv.store/contenido/PELICULAS/Osiris/Osiris%20%282025%29%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Otro pequeño favor (2025)" tvg-logo="https://image.tmdb.org/t/p/original/xl05xMCNbal2CjtunC81dojpy3H.jpg" group-title="2025",Otro pequeño favor (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242522.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pánico en el tren bala (2025)" tvg-logo="https://image.tmdb.org/t/p/original/mTG7BGlD0Hdf9RhFrqI2EXx9nDm.jpg" group-title="2025",Pánico en el tren bala (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1241553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peter Pan: Pesadilla en Nunca Jamás (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yaV9Fjtm1Q30jr7w687CpqE7zVX.jpg" group-title="2025",Peter Pan: Pesadilla en Nunca Jamás (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Piglet (2025)" tvg-logo="https://image.tmdb.org/t/p/original/r4223G5QoVgsG9iZIaAnBOWNLmU.jpg" group-title="2025",Piglet (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xl05xMCNbal2CjtunC81dojpy3H.jpg" group-title="ESTRENOS - 2025",Otro pequeño favor (2025)
+https://www.innovatv.store/contenido/PELICULAS/Another%20Simple%20Favor/Otro%20peque%c3%b1o%20favor%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mTG7BGlD0Hdf9RhFrqI2EXx9nDm.jpg" group-title="ESTRENOS - 2025",Pánico en el tren bala (2025)
+https://www.innovatv.store/contenido/PELICULAS/Shinkansen%20Daibakuha/P4N1C0.3N.7R3N.8414%20(2025)%20Web-Dl%201080p.LAT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yaV9Fjtm1Q30jr7w687CpqE7zVX.jpg" group-title="ESTRENOS - 2025",Peter Pan: Pesadilla en Nunca Jamás (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Peter%20Pans%20Neverland%20Nightmare/Peter.Pans.Neverland.Nightmare.2025.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/r4223G5QoVgsG9iZIaAnBOWNLmU.jpg" group-title="ESTRENOS - 2025",Piglet (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1233027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pitufos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zOlllOUcAJELWJSTnFhNIuxgm8.jpg" group-title="2025",Pitufos (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Plankton, la película (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7G4KIdxkIOr9Hcv1CMTJteBWY1m.jpg" group-title="2025",Plankton (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1237208.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Popeye the Slayer Man (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yqN1dlwragk4Lk0ssRAZWeYwLBL.jpg" group-title="2025",Popeye: The Slayer Man (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Por el mal camino (2025)" tvg-logo="https://image.tmdb.org/t/p/original/znZpA15bLA8bpWPRv6MlovpuQlK.jpg" group-title="2025",Por el mal camino (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1236416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Poseida (2025)" tvg-logo="https://image.tmdb.org/t/p/original/t9MqBGo9BWainDLms66YLiDr5aS.jpg" group-title="2025",Poseída (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Pitufos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zOlllOUcAJELWJSTnFhNIuxgm8.jpg" group-title="ESTRENOS - 2025",Pitufos (2025)
+https://www.innovatv.store/contenido/PELICULAS/Pitufos/Pitufos%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7G4KIdxkIOr9Hcv1CMTJteBWY1m.jpg" group-title="ESTRENOS - 2025",Plankton (2025)
+https://www.innovatv.store/contenido/PELICULAS/Plankton%20La%20pelicula/Plankton%20La%20pel%c3%adcula%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yqN1dlwragk4Lk0ssRAZWeYwLBL.jpg" group-title="ESTRENOS - 2025",Popeye: The Slayer Man (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Popeye%20The%20Slayer%20Man/Popeye.The.Slayer.Man.2025.720p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/znZpA15bLA8bpWPRv6MlovpuQlK.jpg" group-title="ESTRENOS - 2025",Por el mal camino (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Por%20el%20mal%20camino/Por%20el%20mal%20camino%20(2025)%20WEB-DL%20LIGERO%201080pSUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/t9MqBGo9BWainDLms66YLiDr5aS.jpg" group-title="ESTRENOS - 2025",Poseída (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245124.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Presence (2025)" tvg-logo="https://image.tmdb.org/t/p/original/mPoj2TWsDtMi0Dmft9dUT7Dtlb1.jpg" group-title="2025",Presencia (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240257.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Qué Huevos, Sofía! (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zhDH688uqzt8bJdcCDhP9vCpV2H.jpg" group-title="2025",Qué huevos, Sofía (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mPoj2TWsDtMi0Dmft9dUT7Dtlb1.jpg" group-title="ESTRENOS - 2025",Presencia (2025)
+https://www.innovatv.store/contenido/PELICULAS/Presence/Presencia%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zhDH688uqzt8bJdcCDhP9vCpV2H.jpg" group-title="ESTRENOS - 2025",Qué huevos, Sofía (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Queen of Bones (2025)" tvg-logo="https://image.tmdb.org/t/p/original/1isKUhwLPR78BA2xdDTuJtCLYDD.jpg" group-title="2025",Reina de huesos (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1isKUhwLPR78BA2xdDTuJtCLYDD.jpg" group-title="ESTRENOS - 2025",Reina de huesos (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250602.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rescate implacable (2025)" tvg-logo="https://image.tmdb.org/t/p/original/MhPeKqgvo84r5goXf4DytIuX6r.jpg" group-title="2025",Rescate implacable (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Revelación (2025)" tvg-logo="https://image.tmdb.org/t/p/original/1SKvcCOWOD1ECEfY7EgHZW04GSd.jpg" group-title="2025",Revelación (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238788.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rosario (2025)" tvg-logo="https://image.tmdb.org/t/p/original/oGzsgtVpYuK9x4K0axprEa8ZHbV.jpg" group-title="2025",Rosario (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244471.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Saint Clare (2025)" tvg-logo="https://image.tmdb.org/t/p/original/jUd1780wJfXjjvxPwel4TcJb85Q.jpg" group-title="2025",Saint Clare (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/MhPeKqgvo84r5goXf4DytIuX6r.jpg" group-title="ESTRENOS - 2025",Rescate implacable (2025)
+https://www.innovatv.store/contenido/PELICULAS/Rescate%20implacable/Rescate%20implacable%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1SKvcCOWOD1ECEfY7EgHZW04GSd.jpg" group-title="ESTRENOS - 2025",Revelación (2025)
+https://www.innovatv.store/contenido/PELICULAS/Revelacion/Revelaci%c3%b3n%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oGzsgtVpYuK9x4K0axprEa8ZHbV.jpg" group-title="ESTRENOS - 2025",Rosario (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Rosario/Rosario.2025.1080p.sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jUd1780wJfXjjvxPwel4TcJb85Q.jpg" group-title="ESTRENOS - 2025",Saint Clare (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249669.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Masacre Del Ratón (2025)" tvg-logo="https://image.tmdb.org/t/p/original/nRO3tgbK2mgFBzZTWyOhc9swHw4.jpg" group-title="2025",Screamboat: La masacre del ratón (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250720.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Masacre Del Ratón (2025)" tvg-logo="https://image.tmdb.org/t/p/original/nRO3tgbK2mgFBzZTWyOhc9swHw4.jpg" group-title="2025",Screamboat: La masacre del ratón (2025) 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nRO3tgbK2mgFBzZTWyOhc9swHw4.jpg" group-title="ESTRENOS - 2025",Screamboat: La masacre del ratón (2025)
 https://www.innovatv.store/contenido/PELICULAS/Screamboat%20La%20masacre%20del%20raton/Screamboat%20La%20masacre%20del%20raton%20(2025)%20WEB-DL%201080p%20Latin.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mRJ4nlRwMYsADwkRSiaXfVmi5NM.jpg" group-title="2025",Secuestro en el aire 1971 (2025) 1080p
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mRJ4nlRwMYsADwkRSiaXfVmi5NM.jpg" group-title="ESTRENOS - 2025",Secuestro en el aire 1971 (2025)
 https://www.innovatv.store/contenido/PELICULAS/Secuestro%20en%20el%20aire%201971/Secuestro%20en%20el%20aire%201971%20%282024%29%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Semi-Soeter (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7PN3ucFHZ17M10FDbRelc8Q8jmI.jpg" group-title="2025",Semidulce 2 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shadow Force (2025)" tvg-logo="https://image.tmdb.org/t/p/original/Ah7aWI4hCQvc87aTZ1BQkhczkAq.jpg" group-title="2025",Shadow Force: Sentencia de muerte (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin oxígeno (2025)" tvg-logo="https://image.tmdb.org/t/p/original/n74aeSburl1MhCNFlQxHxXp0NVn.jpg" group-title="2025",Sin oxígeno (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1239535.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Site (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ynfYUQ2qIFtE2sd7YiN1XzaKOjt.jpg" group-title="2025",Site (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sneaks (2025)" tvg-logo="https://image.tmdb.org/t/p/original/5KtZSvk4ZFTyMDDrwqt3OpVB9i2.jpg" group-title="2025",Sneaks: Un par con suerte (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sorry, Baby (2025)" tvg-logo="https://image.tmdb.org/t/p/original/fllbW82vucpmEDodaNLEtr8VZx0.jpg" group-title="2025",Sorry, Baby (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7PN3ucFHZ17M10FDbRelc8Q8jmI.jpg" group-title="ESTRENOS - 2025",Semidulce 2 (2025)
+https://www.innovatv.store/contenido/PELICULAS/Semidulce%202/Semidulce%202%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/Ah7aWI4hCQvc87aTZ1BQkhczkAq.jpg" group-title="ESTRENOS - 2025",Shadow Force: Sentencia de muerte (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Shadow%20Force/Shadow.Force.2025.1080p.WEBRipSUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/n74aeSburl1MhCNFlQxHxXp0NVn.jpg" group-title="ESTRENOS - 2025",Sin oxígeno (2025)
+https://www.innovatv.store/contenido/PELICULAS/Sin%20oxigeno/Sin%20ox%c3%adgeno%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ynfYUQ2qIFtE2sd7YiN1XzaKOjt.jpg" group-title="ESTRENOS - 2025",Site (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Site/Site.2025.1080p..mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5KtZSvk4ZFTyMDDrwqt3OpVB9i2.jpg" group-title="ESTRENOS - 2025",Sneaks: Un par con suerte (2025)
+https://www.innovatv.store/contenido/PELICULAS/Sneaks%20Un%20par%20con%20suerte/Sneaks%20Un%20par%20con%20suerte%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ebMfO9gHuiCMHaq3Wi8B84nPTC5.jpg" group-title="ESTRENOS - 2025",Snoopy presenta: Un musical de verano (2025)
+https://www.innovatv.store/contenido/PELICULAS/Snoopy%20presenta%20Un%20musical%20de%20verano/Snoopy%20presenta%20Un%20musical%20de%20verano%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fllbW82vucpmEDodaNLEtr8VZx0.jpg" group-title="ESTRENOS - 2025",Sorry, Baby (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250606.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Section 31 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/tRWekfILUW4WnW3ZqdJWCcTa4Db.jpg" group-title="2025",Star Trek: Seccion 31 (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1231891.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gQPg9dKsrYOMTh8BVmdPk9jt2XD.jpg" group-title="2025",Strawberry Prince (2025) SUB 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tRWekfILUW4WnW3ZqdJWCcTa4Db.jpg" group-title="ESTRENOS - 2025",Star Trek: Seccion 31 (2025)
+https://www.innovatv.store/contenido/PELICULAS/Star%20Trek%20Seccion%2031/Star%20Trek%20Secci%c3%b3n%2031%20(2025)%20WEB-DL%201080p%20lat.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gQPg9dKsrYOMTh8BVmdPk9jt2XD.jpg" group-title="ESTRENOS - 2025",Strawberry Prince (2025) SUB
 https://www.innovatv.store/contenido/PELICULAS/Strawberry%20Prince%20the%20Movie/%5bSubsPlease%5d%20Strawberry%20Prince%20the%20Movie%20%281080p%29%20%5b81A1C233%5d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Magazine Dreams (2025)" tvg-logo="https://image.tmdb.org/t/p/original/4d9hto52myqpvzXNW6IxCEvIagA.jpg" group-title="2025",Sueños de revista (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4d9hto52myqpvzXNW6IxCEvIagA.jpg" group-title="ESTRENOS - 2025",Sueños de revista (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240103.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sunray: Fallen Soldier (2025)" tvg-logo="https://image.tmdb.org/t/p/original/6kijhsTKeqGOeIChPRTH82uZKoM.jpg" group-title="2025",Sunray: Fallen soldier (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6kijhsTKeqGOeIChPRTH82uZKoM.jpg" group-title="ESTRENOS - 2025",Sunray: Fallen soldier (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1242141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Superman (2025)" tvg-logo="https://image.tmdb.org/t/p/original/faHhaLYmXCbOIuR6StKaX2a780f.jpg" group-title="2025",Superman (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Terror en el Río (2025)" tvg-logo="https://image.tmdb.org/t/p/original/cBycXh6HXN9Enm8gQGipbNl6tz2.jpg" group-title="2025",Terror en el río (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Alto Knights (2025)" tvg-logo="https://image.tmdb.org/t/p/original/xdKe0pttE8v3oyCfSgt2CF8KhXn.jpg" group-title="2025",The Alto Knights: Mafia y poder (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Witcher: Sirenas de las profundidades (2025)" tvg-logo="https://image.tmdb.org/t/p/original/wdKarbNNijwnK5j8LfIWBhL3THg.jpg" group-title="2025",The Witcher: Sirenas de las profundidades (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1233923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thunderbirds: La élite de la Fuerza Aérea de EE. UU. (2025)" tvg-logo="https://image.tmdb.org/t/p/original/brEAR3EHSFudMkJA6iVCMboDSFl.jpg" group-title="2025",Thunderbirds: La élite de la Fuerza Aérea de EE. UU. (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/faHhaLYmXCbOIuR6StKaX2a780f.jpg" group-title="ESTRENOS - 2025",Superman (2025)
+https://www.innovatv.store/contenido/PELICULAS/Superman/Superman%20%282025%29%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cBycXh6HXN9Enm8gQGipbNl6tz2.jpg" group-title="ESTRENOS - 2025",Terror en el río (2025)
+https://www.innovatv.store/contenido/PELICULAS/Fear%20Below/Terror%20en%20el%20R%c3%ado%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xdKe0pttE8v3oyCfSgt2CF8KhXn.jpg" group-title="ESTRENOS - 2025",The Alto Knights: Mafia y poder (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Alto%20Knights%20Mafia%20y%20poder/The%20Alto%20Knights%20Mafia%20y%20poder%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wdKarbNNijwnK5j8LfIWBhL3THg.jpg" group-title="ESTRENOS - 2025",The Witcher: Sirenas de las profundidades (2025)
+https://www.innovatv.store/contenido/PELICULAS/The%20Witcher%20Sirenas%20de%20las%20profundidades/The%20Witcher%20Sirenas%20de%20las%20profundidades%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/brEAR3EHSFudMkJA6iVCMboDSFl.jpg" group-title="ESTRENOS - 2025",Thunderbirds: La élite de la Fuerza Aérea de EE. UU. (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244469.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thunderbolts* (2025)" tvg-logo="https://image.tmdb.org/t/p/original/uXuVwft40PKWzKveckMeCOE8OSd.jpg" group-title="2025",Thunderbolts (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1247593.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tierras perdidas (2025)" tvg-logo="https://image.tmdb.org/t/p/original/uS0QMgpO81PlZGtVaGgFrevIarP.jpg" group-title="2025",Tierras perdidas (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240100.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Titán: La tragedia de OceanGate (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yhVORejEt6OCsBCk9E6EjZvkyoY.jpg" group-title="2025",Titán: La tragedia de OceanGate (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Together (2025)" tvg-logo="https://image.tmdb.org/t/p/original/s7ZVt9pGPironrdU15CH7MtXgt4.jpg" group-title="2025",Together: Juntos hasta la muerte (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uXuVwft40PKWzKveckMeCOE8OSd.jpg" group-title="ESTRENOS - 2025",Thunderbolts (2025)
+https://www.innovatv.store/contenido/PELICULAS/Thunderbolts/Thunderbolts%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uS0QMgpO81PlZGtVaGgFrevIarP.jpg" group-title="ESTRENOS - 2025",Tierras perdidas (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/In%20The%20Lost%20Lands/In.The.Lost.Lands.2025.1080p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yhVORejEt6OCsBCk9E6EjZvkyoY.jpg" group-title="ESTRENOS - 2025",Titán: La tragedia de OceanGate (2025)
+https://www.innovatv.store/contenido/PELICULAS/Titan%20The%20OceanGate%20Submersible%20Disaster/Titan.The.OceanGate.Submersible.Disaster.2025.1080p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/s7ZVt9pGPironrdU15CH7MtXgt4.jpg" group-title="ESTRENOS - 2025",Together: Juntos hasta la muerte (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1251030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tonterías de amor (2025)" tvg-logo="https://image.tmdb.org/t/p/original/kgjECt843bYn9rZFBIqRea9jZXS.jpg" group-title="2025",Tonterías de amor (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1237206.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Grenfell: Uncovered (2025)" tvg-logo="https://image.tmdb.org/t/p/original/acbYuv9ZuO0Rvwi2QV8wQe7e1UP.jpg" group-title="2025",Torre Grenfell: El incendio al descubierto (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Umjolo: Mi principio, mi final (2025)" tvg-logo="https://image.tmdb.org/t/p/original/fHZaL5UXmEmb4HezZgCaA1HIsxL.jpg" group-title="2025",Umjolo: Mi principio, mi final (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1229616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una ballena (2025)" tvg-logo="https://image.tmdb.org/t/p/original/qwf9zfHVdpDRHqerMwZ2NtXItDY.jpg" group-title="2025",Una ballena (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1246500.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una boda en las Bahamas con Madea (2025)" tvg-logo="https://image.tmdb.org/t/p/original/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="2025",Una boda en las Bahamas con Madea (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248446.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una historia de amor en Copenhague (2025)" tvg-logo="https://image.tmdb.org/t/p/original/uflnD9Gl6Ia327IYfjNtNSxjzdO.jpg" group-title="2025",Una historia de amor en Copenhague (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1235969.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una muerte silenciosa (2025)" tvg-logo="https://image.tmdb.org/t/p/original/tTa2nDCeHIPZXCOlpVdqLps1T3V.jpg" group-title="2025",Una muerte silenciosa (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1236924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una mujer normal (2025)" tvg-logo="https://image.tmdb.org/t/p/original/exjQYsPcw6klDl9xGlIVObiKaCO.jpg" group-title="2025",Una mujer normal (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249724.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una película de Minecraft (2025)" tvg-logo="https://image.tmdb.org/t/p/original/s0zDEtjM9DVshzK3T3kGfibqJy.jpg" group-title="2025",Una película de Minecraft (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1240672.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Robot Chicken: Self-Discovery Special (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wez9dkwC2Wp2hLwL6tAYBKkEX5c.jpg" group-title="2025",Una presentación especial de Robot Chicken (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kgjECt843bYn9rZFBIqRea9jZXS.jpg" group-title="ESTRENOS - 2025",Tonterías de amor (2025)
+https://www.innovatv.store/contenido/PELICULAS/Nadaaniyan/Tonter%c3%adas%20de%20amor%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/acbYuv9ZuO0Rvwi2QV8wQe7e1UP.jpg" group-title="ESTRENOS - 2025",Torre Grenfell: El incendio al descubierto (2025)
+https://www.innovatv.store/contenido/PELICULAS/Grenfell%20Uncovered/Grenfell.Uncovered.2025.1080p.WEBRip.Dual.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fHZaL5UXmEmb4HezZgCaA1HIsxL.jpg" group-title="ESTRENOS - 2025",Umjolo: Mi principio, mi final (2025)
+https://www.innovatv.store/contenido/PELICULAS/Umjolo%20My%20Beginning%20My%20End/Umjolo.My.Beginning.My.End.2025.1080p.LAT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qwf9zfHVdpDRHqerMwZ2NtXItDY.jpg" group-title="ESTRENOS - 2025",Una ballena (2025)
+https://www.innovatv.store/contenido/PELICULAS/Una%20ballena/Una.ballena.2024.1080p.WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="ESTRENOS - 2025",Una boda en las Bahamas con Madea (2025)
+https://www.innovatv.store/contenido/PELICULAS/Una%20boda%20en%20las%20Bahamas%20con%20Madea/Una%20boda%20en%20las%20Bahamas%20con%20Madea%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uflnD9Gl6Ia327IYfjNtNSxjzdO.jpg" group-title="ESTRENOS - 2025",Una historia de amor en Copenhague (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Una%20historia%20de%20amor%20en%20Copenhague/Una%20historia%20de%20amor%20en%20Copenhague%20(2025)%20WEB-DL%20LIGERO%201080p%20sub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tTa2nDCeHIPZXCOlpVdqLps1T3V.jpg" group-title="ESTRENOS - 2025",Una muerte silenciosa (2025)
+https://www.innovatv.store/contenido/PELICULAS/Una%20muerte%20silenciosa/Una%20muerte%20silenciosa%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/exjQYsPcw6klDl9xGlIVObiKaCO.jpg" group-title="ESTRENOS - 2025",Una mujer normal (2025)
+https://www.innovatv.store/contenido/PELICULAS/Una%20mujer%20normal/Una%20mujer%20normal%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/s0zDEtjM9DVshzK3T3kGfibqJy.jpg" group-title="ESTRENOS - 2025",Una película de Minecraft (2025)
+https://www.innovatv.store/contenido/PELICULAS/A%20Minecraft%20Movie%20/Una%20pel%c3%adcula%20de%20Minecraft%20(2025)%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wez9dkwC2Wp2hLwL6tAYBKkEX5c.jpg" group-title="ESTRENOS - 2025",Una presentación especial de Robot Chicken (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249485.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUzNjg1MTQtNmU1Yy00MTA1LWE2YTMtZTFjNjI2ODAyOGQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="2025",Un cuento de pescadores (2025) 1080p
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUzNjg1MTQtNmU1Yy00MTA1LWE2YTMtZTFjNjI2ODAyOGQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ESTRENOS - 2025",Un cuento de pescadores (2025)
 https://www.innovatv.store/contenido/PELICULAS/Un%20cuento%20de%20pescadores%20La%20maldicion%20de%20La%20Miringua/Un%20cuento%20de%20pescadores%20La%20maldici%c3%b3n%20de%20La%20Miringua%20(2025)%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Deadly American Marriage (2025)" tvg-logo="https://image.tmdb.org/t/p/original/m3VhGZhRThsneGwQHb8UfFNYifR.jpg" group-title="2025",Un matrimonio mortal en Carolina del Norte (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243446.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un día de esos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7MnRbA5GawfvVE41t5tBtIjAzjU.jpg" group-title="2025",Uno de esos días (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238026.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Unos padre de miedo (2025)" tvg-logo="https://image.tmdb.org/t/p/original/t7W3umdwUTkbwGoREwldtFDLf4u.jpg" group-title="2025",Unos padres de miedo (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1237925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Until Dawn (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7gBS6yFVptRxWdShjQdSiBMMIw7.jpg" group-title="2025",Until Dawn: Noche de terror (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1244470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uppercut (2025)" tvg-logo="https://image.tmdb.org/t/p/original/eLM7OGqASDZTVA4AY5Mc6UeLA9E.jpg" group-title="2025",Uppercut: Golpe de superación (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1238917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Verano infernal (2025)" tvg-logo="https://image.tmdb.org/t/p/original/b6Lq2B4bClviuqHpoqP1JVKJmx0.jpg" group-title="2025",Verano infernal (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1249486.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viaje de fin de curso: Mallorca (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ihVoUq8ja3EvEHRZhcwf8OkIy73.jpg" group-title="2025",Viaje de fin de curso: Mallorca (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vidas en matrimonio (2025)" tvg-logo="https://image.tmdb.org/t/p/original/dv81dasfTnSfx2Icp1VKyAYXW3m.jpg" group-title="2025",Vidas en matrimonio (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/m3VhGZhRThsneGwQHb8UfFNYifR.jpg" group-title="ESTRENOS - 2025",Un matrimonio mortal en Carolina del Norte (2025)
+https://www.innovatv.store/contenido/PELICULAS/A%20Deadly%20American%20Marriage/A.Deadly.American.Marriage.2025.1080p.LAT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7MnRbA5GawfvVE41t5tBtIjAzjU.jpg" group-title="ESTRENOS - 2025",Uno de esos días (2025)
+https://www.innovatv.store/contenido/PELICULAS/One%20of%20Them%20Days/One%20of%20Them%20Days%20lat.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/t7W3umdwUTkbwGoREwldtFDLf4u.jpg" group-title="ESTRENOS - 2025",Unos padres de miedo (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/The%20Parenting/The.Parenting.2025.1080p.SUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7gBS6yFVptRxWdShjQdSiBMMIw7.jpg" group-title="ESTRENOS - 2025",Until Dawn: Noche de terror (2025)
+https://www.innovatv.store/contenido/PELICULAS/Until%20Dawn/Until%20Dawn%20Noche%20de%20terror%20(2025)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eLM7OGqASDZTVA4AY5Mc6UeLA9E.jpg" group-title="ESTRENOS - 2025",Uppercut: Golpe de superación (2025) SUB
+https://www.innovatv.store/contenido/PELICULAS/Uppercut/Uppercut.2025.1080psub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/b6Lq2B4bClviuqHpoqP1JVKJmx0.jpg" group-title="ESTRENOS - 2025",Verano infernal (2025)
+https://www.innovatv.store/contenido/PELICULAS/Verano%20infernal/Verano%20infernal%20(2023)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ihVoUq8ja3EvEHRZhcwf8OkIy73.jpg" group-title="ESTRENOS - 2025",Viaje de fin de curso: Mallorca (2025)
+https://www.innovatv.store/contenido/PELICULAS/Viaje%20de%20fin%20de%20curso%20Mallorca/Viaje%20de%20fin%20de%20curso%20Mallorca%20(2025)%20WEB-DL%20LIGERO%201080p%20Espa%c3%b1ol.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/dv81dasfTnSfx2Icp1VKyAYXW3m.jpg" group-title="ESTRENOS - 2025",Vidas en matrimonio (2025)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1235837.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Warfare. Tiempo de guerra (2025)" tvg-logo="https://image.tmdb.org/t/p/original/oRV5KR7RegDhbgG5QcnZ3sAKvlW.jpg" group-title="2025",Warfare: Tiempo de guerra (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1243226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ziam (2025)" tvg-logo="https://image.tmdb.org/t/p/original/uOyWpp5PLzcCB0eq0AsbAOfBHjG.jpg" group-title="2025",Ziam (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248243.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zoe, mi amiga muerta (2025)" tvg-logo="https://image.tmdb.org/t/p/original/h7gr4nLFumtmBYomSS84eey9beI.jpg" group-title="2025",Zoe: Mi amiga muerta (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1245123.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Zombies 4: Un verano entre vampiros (2025)" tvg-logo="https://image.tmdb.org/t/p/original/eCuC51m07mHk1XGbyLAgpy1RHtM.jpg" group-title="2025",Zombies 4: Un verano entre vampiros (2025)
-http://tv.nousiptv.com:8080/movie/UY2888/6547765/1248443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oRV5KR7RegDhbgG5QcnZ3sAKvlW.jpg" group-title="ESTRENOS - 2025",Warfare: Tiempo de guerra (2025)
+https://www.innovatv.store/contenido/PELICULAS/Warfare%20Tiempo%20de%20guerra/Warfare%20Tiempo%20de%20guerra%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uOyWpp5PLzcCB0eq0AsbAOfBHjG.jpg" group-title="ESTRENOS - 2025",Ziam (2025)
+https://www.innovatv.store/contenido/PELICULAS/Ziam/Ziam%20(2025)%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/h7gr4nLFumtmBYomSS84eey9beI.jpg" group-title="ESTRENOS - 2025",Zoe: Mi amiga muerta (2025)
+https://www.innovatv.store/contenido/PELICULAS/Zoe%20mi%20amiga%20muerta/Zoe,%20mi%20amiga%20muerta%20(2024)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eCuC51m07mHk1XGbyLAgpy1RHtM.jpg" group-title="ESTRENOS - 2025",Zombies 4: Un verano entre vampiros (2025)
+https://www.innovatv.store/contenido/PELICULAS/Zombies%204%20El%20origen%20de%20los%20vampiros/Zombies%204%20El%20origen%20de%20los%20vampiros%20(2025)%20WEB-DL%201080p%20Latino.mp4
 
 
 
@@ -20568,6 +20540,27 @@ http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250918.mkv
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1250919.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Morirás en 6 horas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njamYfgktn1Vk3giCRqIO5X2Hmv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Morirás en 6 horas (2024)
 http://tv.nousiptv.com:8080/movie/UY2888/6547765/1251031.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
