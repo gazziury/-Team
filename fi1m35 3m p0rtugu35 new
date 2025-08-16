@@ -84,6 +84,8 @@ http://principal.maxpainel.net:2052/movie/LCE03/101123/206585.mp4
 http://principal.maxpainel.net:2052/movie/LCE03/101123/209967.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2zk2xTo8DIElzonvZ9dD1HCX6L.jpg" group-title="Filmes | Lancamentos",A noite dos lobisomens 
 http://principal.maxpainel.net:2052/movie/LCE03/101123/204743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kc0c8i1txLnwPgPuz435BbSSXw0.jpg" group-title="Filmes | Lancamentos",A noite sempre chega
+http://principal.maxpainel.net:2052/movie/LCE03/101123/211389.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5WUpHK1ov8l95TXYhFLluOq4gIm.jpg" group-title="Filmes | Lancamentos",Anora
 http://principal.maxpainel.net:2052/movie/LCE03/101123/199405.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nIuXsfR60tOFrBX4SV6WQ7oEc6K.jpg" group-title="Filmes | Lancamentos",A ordem
@@ -786,8 +788,8 @@ http://principal.maxpainel.net:2052/movie/LCE03/101123/174049.mp4
 http://principal.maxpainel.net:2052/movie/LCE03/101123/200357.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3J6x28IOrUegQoquGeLwPWzM3IQ.jpg" group-title="Filmes | Lancamentos",Super/Man: A história de Christopher Reeve (LEG)
 http://principal.maxpainel.net:2052/movie/LCE03/101123/176734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/udMfX8YjaJ3fhArOa4RgbNkJi3P.jpg" group-title="Filmes | Lancamentos",Superman (LEG)
-http://principal.maxpainel.net:2052/movie/LCE03/101123/211296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/udMfX8YjaJ3fhArOa4RgbNkJi3P.jpg" group-title="Filmes | Lancamentos",Superman
+http://principal.maxpainel.net:2052/movie/LCE03/101123/211390.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xHROt5stp0wvdC9jVC3oYAebgD1.jpg" group-title="Filmes | Lancamentos",Technoboys
 http://principal.maxpainel.net:2052/movie/LCE03/101123/170494.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rNITtSruj6h1pUljCNrzyoDgCOv.jpg" group-title="Filmes | Lancamentos",Tempo de guerra
@@ -4896,6 +4898,7 @@ http://principal.maxpainel.net:2052/movie/LCE03/101123/72690.mp4
 http://principal.maxpainel.net:2052/movie/LCE03/101123/49105.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dois Amigos e uma Ameaca Alienigena" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jDCuTGYlZChQ1acAVbXHJnAxiF7.jpg" group-title="Filmes | Comedia",Dois Amigos e uma Ameaca Alienigena
 http://principal.maxpainel.net:2052/movie/LCE03/101123/67972.mp4
+
 
 
 
