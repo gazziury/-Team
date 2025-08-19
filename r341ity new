@@ -7,58 +7,33 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Famosos I Acceso Total" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="•LA CASA DE LOS FAMOSOS•",Famosos I Acceso Total
+http://tv.nousiptv.com:8080/guiller/29082020/1250159
+#EXTINF:-1 tvg-id="" tvg-name="Famosos I Toda la Casa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="•LA CASA DE LOS FAMOSOS•",Famosos I Toda la Casa
+http://tv.nousiptv.com:8080/guiller/29082020/1250160
+#EXTINF:-1 tvg-id="" tvg-name="Famosos I Baño" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="•LA CASA DE LOS FAMOSOS•",Famosos I Baño
+http://tv.nousiptv.com:8080/guiller/29082020/1250161
+#EXTINF:-1 tvg-id="" tvg-name="Famosos I Sala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="•LA CASA DE LOS FAMOSOS•",Famosos I Sala
+http://tv.nousiptv.com:8080/guiller/29082020/1250163
+#EXTINF:-1 tvg-id="" tvg-name="Famosos I Habitación Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="•LA CASA DE LOS FAMOSOS•",Famosos I Habitación Dia
+http://tv.nousiptv.com:8080/guiller/29082020/1250164
+#EXTINF:-1 tvg-id="" tvg-name="Famosos I Habitación Noche" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="•LA CASA DE LOS FAMOSOS•",Famosos I Habitación Noche
+http://tv.nousiptv.com:8080/guiller/29082020/1250165
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="CONEXAO - POWER COUPLE (BRASIL)",01
-http://pfsv.io:80/uw8468/bw3477/303183.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="CONEXAO - POWER COUPLE (BRASIL)",02
-http://pfsv.io:80/uw8468/bw3477/303184.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="CONEXAO - POWER COUPLE (BRASIL)",03 
-http://pfsv.io:80/uw8468/bw3477/303185.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="CONEXAO - POWER COUPLE (BRASIL)",04
-http://pfsv.io:80/uw8468/bw3477/303186.ts
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="CONEXAO - POWER COUPLE (BRASIL)",05
-http://pfsv.io:80/uw8468/bw3477/303182.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",01
-http://pfsv.io:80/ana1002/ana1002/303183.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",02
-http://pfsv.io:80/ana1002/ana1002/303184.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",03 
-http://pfsv.io:80/ana1002/ana1002/303185.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",04
-http://pfsv.io:80/ana1002/ana1002/303186.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="OFFICE - POWER COUPLE (BRASIL)",05
-http://pfsv.io:80/ana1002/ana1002/303182.ts
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",01
-http://x.cliente.tech:8080/9354696/52515729840/981957
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",02
-http://x.cliente.tech:8080/9354696/52515729840/981971
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",03 
-http://x.cliente.tech:8080/9354696/52515729840/981972
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="APPCLIENTE - POWER COUPLE (BRASIL)",04
-http://x.cliente.tech:8080/9354696/52515729840/981984
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",01
-http://x.cliente.tech:8080/AnaSilveira1/R5b1t4/981957
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",02
-http://x.cliente.tech:8080/AnaSilveira1/R5b1t4/981971
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",03 
-http://x.cliente.tech:8080/AnaSilveira1/R5b1t4/981972
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="STAK - POWER COUPLE (BRASIL)",04
-http://x.cliente.tech:8080/AnaSilveira1/R5b1t4/981984
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",01
-http://pfsv.io:80/cedrazfsa/fsa0713/303183.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",02
-http://pfsv.io:80/cedrazfsa/fsa0713/303184.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",03 
-http://pfsv.io:80/cedrazfsa/fsa0713/303185.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",04
-http://pfsv.io:80/cedrazfsa/fsa0713/303186.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1894837738525851648/IOXxL1AP_400x400.jpg" group-title="TNT - POWER COUPLE (BRASIL)",05
-http://pfsv.io:80/cedrazfsa/fsa0713/303182.ts
- 
 
 
 
