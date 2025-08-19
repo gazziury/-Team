@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7187
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7029
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="LATINA",AMC FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC FHD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7236
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg" group-title="LATINA",AZ CINEMA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7034
