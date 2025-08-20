@@ -625,7 +625,8 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7569
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7620
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LATINA",AMERICA TV 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7621
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="LATINA",ATV PLUS 
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7634
 
 
 
@@ -660,8 +661,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7580
 
 
 
-#EXTINF:-1,1402.ATV PLUS 
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7634
+
 #EXTINF:-1,1411.CARACOL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7643
 #EXTINF:-1,1404.CARACOL
