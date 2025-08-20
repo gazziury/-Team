@@ -593,9 +593,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7552
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7546
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title="USA",ADULT SWIM 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7557
-#EXTINF:-1,1502.ABC
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7558
-#EXTINF:-1,1500.A&E 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="USA",A&E 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7564
 #EXTINF:-1,1507.BOOMERANG 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7453
