@@ -421,9 +421,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7094
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8404
 #EXTINF:-1 tvg-logo="https://www.cablevisionhd.com/imge/goldenpremier21.png" group-title="LATINA",GOLDEN PREMIER 2
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7386
-#EXTINF:-1,0609.NICK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="LATINA",NICK
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7142
-#EXTINF:-1,0609.NICK HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="LATINA",NICK HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7255
 #EXTINF:-1,0610.NICK JUNIOR 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7143
