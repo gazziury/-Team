@@ -329,11 +329,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7277
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7121
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Revista_%C2%A1Hola%21_logo.svg/1200px-Revista_%C2%A1Hola%21_logo.svg.png" group-title="LATINA",HOLA TV
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7127
-#EXTINF:-1 tvg-logo="htthttps://upload.wikimedia.org/wikipedia/commons/f/ff/Starz_Encore_Action.svg" group-title="LATINA",STARZ ENCORE ACTION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Starz_Encore_Action.svg" group-title="LATINA",STARZ ENCORE ACTION
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8406
-#EXTINF:-1,0408.LIFETIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="LATINA",LIFETIME
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7129
-#EXTINF:-1,0408.LIFETIME HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="LATINA",LIFETIME HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7242
 #EXTINF:-1,0409.PASIONES
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7479
