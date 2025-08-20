@@ -459,9 +459,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7196
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7349
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="LATINA",ADN 40
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7147
-#EXTINF:-1,1324.CUATRO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/2560px-Cuatro.svg.png" group-title="ESPAÑA",CUATRO
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8409
-#EXTINF:-1,0805.CNN USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="USA",CNN USA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7178
 #EXTINF:-1,0806.CNN ESPAÑOL SD (4:3)
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7382
