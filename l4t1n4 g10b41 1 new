@@ -307,9 +307,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7339
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7032
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="LATINA",A&E HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7285
-#EXTINF:-1,0401.AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="LATINA",AXN
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7031
-#EXTINF:-1,0402.AXN HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="LATINA",AXN HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7321
 #EXTINF:-1,0413.TNT NOVELAS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7218
