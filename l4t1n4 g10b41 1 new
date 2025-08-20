@@ -619,7 +619,8 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7581
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7548
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg" group-title="LATINA",MOREMAX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7591
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="USA",TNT 
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7569
 
 
 
@@ -641,10 +642,8 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7583
 
 #EXTINF:-1,0006.MGM HITS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7592
-#EXTINF:-1,1515.CINEMAX THRILLERMAX
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7562
-#EXTINF:-1,1544.TNT
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7569
+
+
 
 #EXTINF:-1,1545.USA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7580
