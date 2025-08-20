@@ -105,6 +105,8 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7154
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7368
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LATINA",ANIMAL PLANET HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7030
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LATINA",ANIMAL PLANET FHD
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7257
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="LATINA",DW
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7615
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="LATINA",DISCOVERY CHANNEL 
@@ -537,8 +539,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8459
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7537
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1051px-Divinity.svg.png" group-title="ESPAÑA",DIVINITY 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7539
-#EXTINF:-1,0200.ANIMAL PLANET HD (1080p)
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7257
+
 #EXTINF:-1,1327.DISNEY CHANNEL 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8458
 #EXTINF:-1,1328.DISNEY JUNIOR
