@@ -381,9 +381,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7435
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7327
 #EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="LATINA",HBO XTREME MEX HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7437
-#EXTINF:-1,0514.HBO POP MEX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="LATINA",HBO POP MEX 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7305
-#EXTINF:-1,0515.HBO POP MEX HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="LATINA",HBO POP MEX HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7438
 #EXTINF:-1,0516.HBO MUNDI MEX 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7304
