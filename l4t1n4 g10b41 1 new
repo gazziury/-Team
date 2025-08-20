@@ -623,7 +623,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8475
 
 #EXTINF:-1,1528.LIFETIME
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7583
-#EXTINF:-1,0816.MSNBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/MSNBC_logo_%282009-2015%29.svg" group-title="USA",MSNBC
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7551
 #EXTINF:-1,1515.CINEMAX MOREMAX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7560
