@@ -461,6 +461,8 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7349
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7147
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/2560px-Cuatro.svg.png" group-title="ESPAÑA",CUATRO
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8409
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/2560px-Cuatro.svg.png" group-title="ESPAÑA",CUATRO HD
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7514
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="USA",CNN USA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7178
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="LATINA",CNN EN ESPAÑOL
@@ -521,10 +523,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7529
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7533
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",CANAL 24 H
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8453
-#EXTINF:-1,1311.CANAL COCINA
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_canal-cocina.svg" group-title="ESPAÑA",CANAL COCINA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7544
-#EXTINF:-1,1312.CUATRO 
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7514
+
 #EXTINF:-1,1313.CANAL EXTREMADURA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8463
 
