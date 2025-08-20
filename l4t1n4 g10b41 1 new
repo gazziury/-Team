@@ -633,7 +633,10 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7640
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7623
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="LATINA",CANAL 4 URUGUAY
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7631
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="LATINA",CANAL 4 URUGUAY HD
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7635
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Canal_10_%282006%29.svg/revision/latest/scale-to-width-down/180?cb=20250403123626&path-prefix=es" group-title="LATINA",CANAL 10 URUGUAY
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7636
 
 
 
@@ -676,10 +679,6 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7643
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7642
 #EXTINF:-1,1408.CHILEVISION 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7638
-#EXTINF:-1,1409.CANAL 4 
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7635
-#EXTINF:-1,1410.CANAL 10
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7636
 #EXTINF:-1,1405.CITY TV
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7641
 #EXTINF:-1,1418.EL TRECE 
