@@ -303,9 +303,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7831
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7763
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg" group-title="USA",MTV U
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7339
-#EXTINF:-1,0400.A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="LATINA",A&E
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7032
-#EXTINF:-1,0400.A&E HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="LATINA",A&E HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7285
 #EXTINF:-1,0401.AXN
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7031
