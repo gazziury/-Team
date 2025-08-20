@@ -609,6 +609,21 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7547
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7475
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="USA",E! ENTERTAINMENT
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7588
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/MSNBC_logo_%282009-2015%29.svg" group-title="USA",MSNBC
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7551
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="USA",NAT GEO 
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8476
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="USA",OXYGEN
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7581
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SmithsonianChannellogo.png" group-title="USA",SMITHSONIAN CHANNEL
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7548
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg" group-title="LATINA",MOREMAX
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7591
+
+
+
+
+
 #EXTINF:-1,0004.HBO SIGNATURE USA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8499
 
@@ -623,18 +638,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8475
 
 #EXTINF:-1,1528.LIFETIME
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7583
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/MSNBC_logo_%282009-2015%29.svg" group-title="USA",MSNBC
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7551
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="USA",NAT GEO 
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8476
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="USA",OXYGEN
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7581
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SmithsonianChannellogo.png" group-title="USA",SMITHSONIAN CHANNEL
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7548
 
-
-#EXTINF:-1,0005.MOREMAX
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7591
 #EXTINF:-1,0006.MGM HITS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7592
 #EXTINF:-1,1515.CINEMAX THRILLERMAX
