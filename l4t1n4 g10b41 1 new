@@ -439,9 +439,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7160
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7040
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="LATINA",MTV
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7133
-#EXTINF:-1,0312.ESPN 4 MEX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="LATINA",ESPN 4 MEX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7485
-#EXTINF:-1,0708.MTV LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1078px-MTV_Live_2021_logo.svg.png" group-title="USA",MTV LIVE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7132
 #EXTINF:-1,0710.MTV 00s
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7131
