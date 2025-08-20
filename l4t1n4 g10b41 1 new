@@ -579,9 +579,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7527
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8467
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg" group-title="USA",YES
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8468
-#EXTINF:-1,1353.NICKELODEON
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8469
-#EXTINF:-1,1355.ODISEA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ODISEA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8461
 #EXTINF:-1,1356.PARAMOUNT
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7535
