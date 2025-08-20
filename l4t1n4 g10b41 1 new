@@ -585,11 +585,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8461
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7535
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPAÑA",STAR TVE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7135
-#EXTINF:-1,1358.SYFY
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8460
-#EXTINF:-1,1359.TCM
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8457
-#EXTINF:-1,1360.TELECINCO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg" group-title="ESPAÑA",TELECINCO 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7515
 #EXTINF:-1,0951.VAMOS 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7518
