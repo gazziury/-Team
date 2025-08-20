@@ -407,9 +407,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7088
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" group-title="LATINA",RCN NUESTRA TELE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7369
-#EXTINF:-1,0605.DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg" group-title="LATINA",DISCOVERY KIDS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7098
-#EXTINF:-1,0605.DISCOVERY KIDS HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg" group-title="LATINA",DISCOVERY KIDS HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7274
 #EXTINF:-1,0606.DREAMWORKS CHANNEL 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7470
