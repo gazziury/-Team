@@ -603,15 +603,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7453
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7568
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svg" group-title="USA",BLOOMBERG
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8478
-
-#EXTINF:-1,1515. CINEMAX
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7554
-#EXTINF:-1,1523.HBO
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7570
-
-#EXTINF:-1,1510.COMEDY CENTRAL
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7566
-#EXTINF:-1,1516.DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="USA",DISCOVERY CHANNEL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7547
 #EXTINF:-1,1516.DISCOVERY TLC
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8477
