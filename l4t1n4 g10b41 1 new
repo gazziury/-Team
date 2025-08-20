@@ -385,11 +385,10 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7437
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7305
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="LATINA",HBO POP MEX HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7438
-#EXTINF:-1,0516.HBO MUNDI MEX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/640px-HBO_Mundi.svg.png" group-title="LATINA",HBO MUNDI MEX 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7304
-#EXTINF:-1,0517.HBO MUNDI MEX HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/640px-HBO_Mundi.svg.png" group-title="LATINA",HBO MUNDI MEX HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7436
-
 #EXTINF:-1,0601.BABY FIRST
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7181
 
