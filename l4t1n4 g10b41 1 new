@@ -401,9 +401,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7246
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7041
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="LATINA",CANAL DE LA CIUDAD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7341
-#EXTINF:-1,0604.CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="LATINA",CARTOON NETWORK
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7088
-#EXTINF:-1,0604.CARTOON NETWORK HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="LATINA",CARTOON NETWORK HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7234
 #EXTINF:-1,1434.RCN NUESTRA TELE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7369
