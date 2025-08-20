@@ -317,9 +317,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7218
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="LATINA",BITME HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7114
-#EXTINF:-1,0404.COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="LATINA",COMEDY CENTRAL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7089
-#EXTINF:-1,0404.COMEDY CENTRAL HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="LATINA",COMEDY CENTRAL HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7221
 #EXTINF:-1,0405.DISTRITO COMEDIA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7097
