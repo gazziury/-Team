@@ -411,9 +411,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7369
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7098
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="LATINA",RCN NOVELAS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7374
-#EXTINF:-1,0607.DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="LATINA",DISNEY CHANNEL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7095
-#EXTINF:-1,0607.DISNEY CHANNEL HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="LATINA",DISNEY CHANNEL HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7473
 #EXTINF:-1,0608.DISNEY JUNIOR
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7094
