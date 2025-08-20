@@ -321,9 +321,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7114
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7089
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="LATINA",COMEDY CENTRAL HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7221
-#EXTINF:-1,0405.DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="LATINA",DISTRITO COMEDIA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7097
-#EXTINF:-1,0405.DISTRITO COMEDIA HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="LATINA",DISTRITO COMEDIA HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7277
 #EXTINF:-1,0406.GARAGE TV
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7121
