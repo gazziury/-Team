@@ -587,9 +587,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7535
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7135
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg" group-title="ESPAÑA",TELECINCO 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7515
-#EXTINF:-1,0951.VAMOS 
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7518
-#EXTINF:-1,1501.AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="USA",AMC
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7552
 #EXTINF:-1,1503.ANIMAL PLANET 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7546
