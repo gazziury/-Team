@@ -605,11 +605,8 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7568
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8478
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="USA",DISCOVERY CHANNEL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7547
-#EXTINF:-1,1516.DISCOVERY TLC
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8477
-#EXTINF:-1,1517.DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg" group-title="USA",DISNEY CHANNEL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7475
-
 #EXTINF:-1,1518.E!
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7588
 #EXTINF:-1,0004.HBO SIGNATURE USA
