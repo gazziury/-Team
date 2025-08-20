@@ -631,6 +631,10 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7634
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7640
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/VTV-Los-Andes-en-vivo-Online.png" group-title="LATINA",VTV CHILE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7623
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="LATINA",CANAL 4 URUGUAY
+http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7631
+
+
 
 
 
@@ -667,8 +671,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7643
 
 
 
-#EXTINF:-1,1406.CANAL 4 uy
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7631
+
 #EXTINF:-1,1407.CINE AR
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7642
 #EXTINF:-1,1408.CHILEVISION 
