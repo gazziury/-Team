@@ -339,11 +339,10 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7242
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7479
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="LATINA",TCM
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7328
-#EXTINF:-1,0410.STAR CHANNEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="LATINA",STAR CHANNEL 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7115
-#EXTINF:-1,0410.STAR CHANNEL HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="LATINA",STAR CHANNEL HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7252
-
 #EXTINF:-1,0709.MTV LIVE USA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7372
 #EXTINF:-1,0411.TNT SERIES 
