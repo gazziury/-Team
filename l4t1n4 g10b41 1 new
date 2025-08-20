@@ -363,9 +363,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7309
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7323
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINA",HBO 1 MEX HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7431
-#EXTINF:-1,0504.HBO 2 MEX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="LATINA",HBO 2 MEX 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7325
-#EXTINF:-1,0505.HBO 2 MEX HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="LATINA",HBO 2 MEX HD 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7432
 #EXTINF:-1,0506.HBO PLUS MEX 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7324
