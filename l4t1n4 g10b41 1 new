@@ -313,11 +313,10 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7031
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7321
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="LATINA",TNT NOVELAS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7218
-#EXTINF:-1,0403.BITME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="LATINA",BITME
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7200
-#EXTINF:-1,0403.BITME HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="LATINA",BITME HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7114
-
 #EXTINF:-1,0404.COMEDY CENTRAL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7089
 #EXTINF:-1,0404.COMEDY CENTRAL HD (1080p)
