@@ -1,82 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="+ FAMILIA HD" tvg-logo="" group-title="Canais | Variedades",+ FAMILIA HD
-
 http://dnscine.top:80/131162716/115444195/231.ts
-
 #EXTINF:-1 tvg-id="A.Guarda.do.Leao.24H" tvg-name="A Guarda do Leão 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQ0zsV6VxfPlPS9IKOYJ6y9h84XD1uCAkWd6GLjOfQKsg.png" group-title="24 Horas | Infantil",A Guarda do Leão 24H
-
 http://dnscine.top:80/131162716/115444195/202282.ts
-
 #EXTINF:-1 tvg-id="A.Turma.do.Pateta.24H" tvg-name="A Turma do Pateta 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSSvIH8SemT4gctEDeJ_b30Kk95vifucOJ9zBwNcIeHVA.png" group-title="24 Horas | Infantil",A Turma do Pateta 24H
-
 http://dnscine.top:80/131162716/115444195/202290.ts
-
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://dnscine.top:80/images/eeae2593b42859df836315659ac9bfbf.png" group-title="Canais | Filmes & Séries",A&E FHD
-
 http://dnscine.top:80/131162716/115444195/1.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="A&E FHD [H264]" tvg-logo="http://dnscine.top:80/images/2600288853dc85d627a803200c2b57b4.png" group-title="Canais | H264",A&E FHD [H264]
-
 http://dnscine.top:80/131162716/115444195/733.ts
-
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://dnscine.top:80/images/eeae2593b42859df836315659ac9bfbf.png" group-title="Canais | Filmes & Séries",A&E HD
-
 http://dnscine.top:80/131162716/115444195/2.ts
-
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://dnscine.top:80/images/eeae2593b42859df836315659ac9bfbf.png" group-title="Canais | Filmes & Séries",A&E SD
-
 http://dnscine.top:80/131162716/115444195/522.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL HD" tvg-logo="" group-title="Canais | Variedades",AGRO BRASIL HD
-
 http://dnscine.top:80/131162716/115444195/232.ts
-
 #EXTINF:-1 tvg-id="Amazon.Prime.Video" tvg-name="Amazon Prime Video" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRS8fzPjiyMLOUHnFeVr6UPJ.png" group-title="Paramount | Amazon",Amazon Prime Video
-
 http://dnscine.top:80/131162716/115444195/202341.ts
-
 #EXTINF:-1 tvg-id="Amazon.Prime.Video.2" tvg-name="Amazon Prime Video 2" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRS8fzPjiyMLOUHnFeVr6UPJ.png" group-title="Paramount | Amazon",Amazon Prime Video 2
-
 http://dnscine.top:80/131162716/115444195/202342.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 3" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRS8fzPjiyMLOUHnFeVr6UPJ.png" group-title="Paramount | Amazon",Amazon Prime Video 3
-
 http://dnscine.top:80/131162716/115444195/202343.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 4" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRS8fzPjiyMLOUHnFeVr6UPJ.png" group-title="Paramount | Amazon",Amazon Prime Video 4
-
 http://dnscine.top:80/131162716/115444195/202344.ts
-
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://dnscine.top:80/images/58e95e405b27e2a108e15f19699d12ee.png" group-title="Canais | Filmes & Séries",AMC FHD
-
 http://dnscine.top:80/131162716/115444195/3.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="AMC FHD [H264]" tvg-logo="http://dnscine.top:80/images/58e95e405b27e2a108e15f19699d12ee.png" group-title="Canais | H264",AMC FHD [H264]
-
 http://dnscine.top:80/131162716/115444195/793.ts
-
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://dnscine.top:80/images/58e95e405b27e2a108e15f19699d12ee.png" group-title="Canais | Filmes & Séries",AMC HD
-
 http://dnscine.top:80/131162716/115444195/197.ts
-
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://dnscine.top:80/images/58e95e405b27e2a108e15f19699d12ee.png" group-title="Canais | Filmes & Séries",AMC SD
-
 http://dnscine.top:80/131162716/115444195/624.ts
-
 #EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet FHD" tvg-logo="http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg2uraP0uTSBEygKQ4ZzityFuy_QWLSF0aBiusydjqyA0zT-tCInvsosctiAr6wElZr9zy7HUqWKuHLT7KpjGCz0Siyw9zGaJiIX5eDyBMwGW7A3mnWoLTM2js91eN0YsTRpytLNibfqQmC9BjfNzIXNqM-KsJu4smFWVUd7imkxG.png" group-title="Canais | Documentarios",Animal Planet FHD
-
 http://dnscine.top:80/131162716/115444195/4.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD [H264]" tvg-logo="http://dnscine.top:80/images/818c1a4c66179e86f0b79a704c47c0b7.png" group-title="Canais | H264",Animal Planet FHD [H264]
-
 http://dnscine.top:80/131162716/115444195/380.ts
-
 #EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet HD" tvg-logo="http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg2uraP0uTSBEygKQ4ZzityFuy_QWLSF0aBiusydjqyA0zT-tCInvsosctiAr6wElZr9zy7HUqWKuHLT7KpjGCz0Siyw9zGaJiIX5eDyBMwGW7A3mnWoLTM2js91eN0YsTRpytLNibfqQmC9BjfNzIXNqM-KsJu4smFWVUd7imkxG.png" group-title="Canais | Documentarios",Animal Planet HD
-
 http://dnscine.top:80/131162716/115444195/5.ts
-
 #EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet SD" tvg-logo="http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg2uraP0uTSBEygKQ4ZzityFuy_QWLSF0aBiusydjqyA0zT-tCInvsosctiAr6wElZr9zy7HUqWKuHLT7KpjGCz0Siyw9zGaJiIX5eDyBMwGW7A3mnWoLTM2js91eN0YsTRpytLNibfqQmC9BjfNzIXNqM-KsJu4smFWVUd7imkxG.png" group-title="Canais | Documentarios",Animal Planet SD
-
 http://dnscine.top:80/131162716/115444195/626.ts
 
 #EXTINF:-1 tvg-id="Anos.Incriveis.24H" tvg-name="Anos Incríveis 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRlvRcqJuVu8YbmuS0DNz2oCCvME7E_rUNAZigUq-UDfQ.jpeg" group-title="24 Horas | Filmes e Series",Anos Incríveis 24H
@@ -2011,10 +1972,6 @@ http://dnscine.top:80/131162716/115444195/662.ts
 
 http://dnscine.top:80/131162716/115444195/352.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ONLYFANS- Andressa Urach" tvg-logo="" group-title="Canais | Adultos",ONLYFANS- Andressa Urach
-
-http://dnscine.top:80/131162716/115444195/439.ts
-
 #EXTINF:-1 tvg-id="Operacao.Big.Hero.24H" tvg-name="Operação Big Hero 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR4ti9i9yDZvUW4mCjcSGCG8V_UXaxSO1T96qu_vhWY4Q.png" group-title="24 Horas | Infantil",Operação Big Hero 24H
 
 http://dnscine.top:80/131162716/115444195/202283.ts
@@ -2183,22 +2140,6 @@ http://dnscine.top:80/131162716/115444195/202305.ts
 
 http://dnscine.top:80/131162716/115444195/385.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV FHD" tvg-logo="" group-title="Canais | Adultos",PLAYBOY TV FHD
-
-http://dnscine.top:80/131162716/115444195/112.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV FHD H264" tvg-logo="" group-title="Canais | Adultos",PLAYBOY TV FHD H264
-
-http://dnscine.top:80/131162716/115444195/763.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV HD" tvg-logo="" group-title="Canais | Adultos",PLAYBOY TV HD
-
-http://dnscine.top:80/131162716/115444195/113.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOYTV  SD" tvg-logo="" group-title="Canais | Adultos",PLAYBOYTV  SD
-
-http://dnscine.top:80/131162716/115444195/664.ts
-
 #EXTINF:-1 tvg-id="Pocoyo.24H" tvg-name="Pocoyo 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRkq703nhEfRC9g9W6ZrS32.png" group-title="24 Horas | Infantil",Pocoyo 24H
 
 http://dnscine.top:80/131162716/115444195/202303.ts
@@ -2218,14 +2159,6 @@ http://dnscine.top:80/131162716/115444195/294.ts
 #EXTINF:-1 tvg-id="Polishop.TV" tvg-name="POLISHOP SD" tvg-logo="" group-title="Canais | Variedades",POLISHOP SD
 
 http://dnscine.top:80/131162716/115444195/574.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE CAM 01" tvg-logo="" group-title="Canais | Power Couple",POWER COUPLE CAM 01
-
-http://dnscine.top:80/131162716/115444195/768805.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE CAM 02" tvg-logo="" group-title="Canais | Power Couple",POWER COUPLE CAM 02
-
-http://dnscine.top:80/131162716/115444195/768806.ts
 
 #EXTINF:-1 tvg-id="Premiere 2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://dnscine.top:80/images/lO4I6ENDRiY1iG64O8qqg8Zg9NTYvWKERGgj7pPwc_8c4ujHI7_05WmqEPllpJPPDwKgf1S3hfedFLtVJqIbhSK8575dxqbz0UqwVq6p2fkehuaqRdyRwq22vz1cq1VxBO2U1V4BjTOWmdST0bFmFhYaY0LLrNauj93YuPWeUMw.png" group-title="Canais | Premiere",Premiere 2 FHD
 
@@ -3714,15 +3647,4 @@ http://dnscine.top:80/131162716/115444195/188.ts
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="http://dnscine.top:80/images/ek1wK4D7hoC_r1H4fU0JDqKp1qRwRNtSoTEdpQRWmohM_ArQtITqMo10nE0ba8AyMQen7C_nCZf8OrD-iPbNMHAHYKZisetmr3yS6gfybqMDsxzMLvYQe1DoqDflQuuX-W2Tsr4N5TijwS9uFNNBcNwdSO4cORhrNeiq12hfyfs.png" group-title="Canais | Infantil",ZooMoo HD
 
 http://dnscine.top:80/131162716/115444195/270.ts
-
-
-
-
-
-
-
-
-
-
-
 
