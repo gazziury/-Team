@@ -1,3 +1,1427 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Familia Addams 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HBqimFHKb-P2sbUXhvVjnL3tPbgAjYf0SXs00AmOw9t3.png" group-title="24 H ::: CLÁSSICOS DESENHOS",A Familia Addams 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73324
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Vida e Aventuras de Juniper Lee 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HHV8Vp3XsZZE2H_UuARq6HnH5NOM8KWDSraVGwAy1cOk.png" group-title="24 H ::: CLÁSSICOS DESENHOS",A Vida e Aventuras de Juniper Lee 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73325
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES",A&E FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15657
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES",A&E HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15658
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Canais :: FILMES E SÉRIES",A&E SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15659
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="Adult Swim HD" tvg-logo="https://painelsbo.painel.life/newlogos/adult.png" group-title="Canais :: VARIEDADES",Adult Swim HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73379
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="Adult Swim SD" tvg-logo="https://painelsbo.painel.life/newlogos/adult.png" group-title="Canais :: VARIEDADES",Adult Swim SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15707
+#EXTINF:-1 tvg-id="AGROMHD" tvg-name="AgroMais FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS",AgroMais FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73133
+#EXTINF:-1 tvg-id="AGROMHD" tvg-name="AgroMais HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS",AgroMais HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73134
+#EXTINF:-1 tvg-id="AGROMHD" tvg-name="AgroMais SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/agromais.png" group-title="Canais :: NOTÍCIAS",AgroMais SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73135
+#EXTINF:-1 tvg-id="Prime Video" tvg-name="Amazon Prime Video 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E078.jpeg" group-title="STREAM :: ESPORTES",Amazon Prime Video 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15623
+#EXTINF:-1 tvg-id="Prime Video" tvg-name="Amazon Prime Video 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E078.jpeg" group-title="STREAM :: ESPORTES",Amazon Prime Video 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15625
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES E SÉRIES",AMC FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15660
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES E SÉRIES",AMC HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15661
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/26.png" group-title="Canais :: FILMES E SÉRIES",AMC SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15662
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://capas.cdnmedia.pro/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais :: DOCUMENTÁRIOS",Animal Planet FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/982
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://capas.cdnmedia.pro/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais :: DOCUMENTÁRIOS",Animal Planet HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/983
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://capas.cdnmedia.pro/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="Canais :: DOCUMENTÁRIOS",Animal Planet SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/984
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Apple TV+ 1 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/appletv.png" group-title="STREAM :: ESPORTES",Apple TV+ 1 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73381
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Apple TV+ 2 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/appletv.png" group-title="STREAM :: ESPORTES",Apple TV+ 2 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73382
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD" tvg-logo="https://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73383
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73384
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://painelsbo.painel.life/newlogos/arte.png" group-title="Canais :: VARIEDADES",Arte 1 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73386
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Aventuras de Jackie Chan 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HH1XS_DDPlUggtrfewOeb_wgBFYpyv0r6o5Bd_Q9SRe4.png" group-title="24 H ::: CLÁSSICOS DESENHOS",As Aventuras de Jackie Chan 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73326
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Tartarugas Ninjas 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HPP-X8I0qQKmastrogWpX5L-mWxVmZhwaqhKREJMHf5e.png" group-title="24 H ::: CLÁSSICOS DESENHOS",As Tartarugas Ninjas 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73327
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Avatar A Lenda de Aang 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HDLaRJK7OiYydJ7awp7dXXgXueSHxIImS3WZz62SM3xe.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Avatar A Lenda de Aang 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73328
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES",AXN FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15664
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES",AXN HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15665
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/27.png" group-title="Canais :: FILMES E SÉRIES",AXN SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15666
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/02.png" group-title="Canais :: ABERTOS",Band Campinas FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/155294
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas HD" tvg-logo="https://capas.cdnmedia.pro/images/a2ef406e2c2351e0b9e80029c909242d.png" group-title="Canais :: ABERTOS",Band Campinas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1018
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas SD" tvg-logo="https://capas.cdnmedia.pro/images/a2ef406e2c2351e0b9e80029c909242d.png" group-title="Canais :: ABERTOS",Band Campinas SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/996
+#EXTINF:-1 tvg-id="BNDNWHD" tvg-name="Band News FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS",Band News FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73136
+#EXTINF:-1 tvg-id="BNDNWHD" tvg-name="Band News HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS",Band News HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73137
+#EXTINF:-1 tvg-id="BNDNWHD" tvg-name="Band News SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS",Band News SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73138
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/02.png" group-title="Canais :: ABERTOS",Band SP FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676462
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD" tvg-logo="https://capas.cdnmedia.pro/images/a2ef406e2c2351e0b9e80029c909242d.png" group-title="Canais :: ABERTOS",Band SP HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1002
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP SD" tvg-logo="https://capas.cdnmedia.pro/images/a2ef406e2c2351e0b9e80029c909242d.png" group-title="Canais :: ABERTOS",Band SP SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1003
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E063.png" group-title="Canais :: ESPORTES",Band Sports FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15571
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E063.png" group-title="Canais :: ESPORTES",Band Sports HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15572
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E063.png" group-title="Canais :: ESPORTES",Band Sports SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15573
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman A Serie Animada 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJ8TcaUGc_Wj5KUPVhW3oNPAEMPb_okDl_6khAWwemi0.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Batman A Serie Animada 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73329
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman do Futuro 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HGjDFo3H4y0ml19mjcfZGjA-X3lwXQNRdOSFqDPexR0M.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Batman do Futuro 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73330
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman Os Bravos e Destemidos 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJ8TcaUGc_Wj5KUPVhW3oNPAEMPb_okDl_6khAWwemi0.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Batman Os Bravos e Destemidos 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73331
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Ben 10 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HLyWmRlNajAk1zIE1hIaErFyGVB-fTcDQOmgtOefJu07.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Ben 10 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73332
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Ben 10 Forca Alienigena 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HHxvBossvyc4_PAQz7nB2lh1QiSE9cbzRtclBGY9Wogo.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Ben 10 Forca Alienigena 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73333
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Ben 10 Omniverse 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HA_bPJls0_krj_JsQXXkCqcd8-qVkUG-oBQyNXNR3L41.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Ben 10 Omniverse 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73334
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Ben 10 Supremacia Alienigena 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJa9ekEv4e0VkPumDPXSDCysGIZIsYhn4EYg6BOB9yWE.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Ben 10 Supremacia Alienigena 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73335
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Big Bang A Teoria 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbXQ_g30khZU2fPbM04LCe8DEGeq7KdBHADAjILWYv4rU.png" group-title="24 H ::: CLÁSSICOS SÉRIES",Big Bang A Teoria 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73378
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAS",BIS FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15761
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAS",BIS HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15762
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/bis.png" group-title="Canais :: MUSICAS",BIS SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15763
+#EXTINF:-1 tvg-id="religioso.br" tvg-name="Boa Vontade TV HD" tvg-logo="https://capas.cdnmedia.pro/images/144db912f997cb3c7c6473ebec0ab4fb.png" group-title="Canais :: CORTESIA",Boa Vontade TV HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15556
+#EXTINF:-1 tvg-id="religioso.br" tvg-name="Boa Vontade TV SD" tvg-logo="https://capas.cdnmedia.pro/images/144db912f997cb3c7c6473ebec0ab4fb.png" group-title="Canais :: CORTESIA",Boa Vontade TV SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15557
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: CORTESIA",Canal Brasil HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73391
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://painelsbo.painel.life/logo/canais/canalbrasil.png" group-title="Canais :: CORTESIA",Canal Brasil SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73392
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta! FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E168.png" group-title="Canais :: VARIEDADES",Canal Curta! FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15667
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta! HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E168.png" group-title="Canais :: VARIEDADES",Canal Curta! HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15668
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta! SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E168.png" group-title="Canais :: VARIEDADES",Canal Curta! SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15669
+#EXTINF:-1 tvg-id="allplay.br" tvg-name="Canal do Boi HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/canaldoboi.png" group-title="Canais :: CORTESIA",Canal do Boi HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1005
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Canal Futura FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Variedades/105.png" group-title="Canais :: ABERTOS",Canal Futura FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1006
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Canal Futura HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Variedades/105.png" group-title="Canais :: ABERTOS",Canal Futura HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1007
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Canal Futura SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Variedades/105.png" group-title="Canais :: ABERTOS",Canal Futura SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676461
+#EXTINF:-1 tvg-id="GOAT" tvg-name="Canal Goat 1 HD" tvg-logo="https://capas.cdnmedia.pro/images/e86a3b58c60e2cadbea0f10afb198abe.png" group-title="STREAM :: ESPORTES",Canal Goat 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15626
+#EXTINF:-1 tvg-id="GOAT" tvg-name="Canal Goat 2 HD" tvg-logo="https://capas.cdnmedia.pro/images/e86a3b58c60e2cadbea0f10afb198abe.png" group-title="STREAM :: ESPORTES",Canal Goat 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15627
+#EXTINF:-1 tvg-id="GOAT" tvg-name="Canal Goat 3 HD" tvg-logo="https://capas.cdnmedia.pro/images/e86a3b58c60e2cadbea0f10afb198abe.png" group-title="STREAM :: ESPORTES",Canal Goat 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15628
+#EXTINF:-1 tvg-id="GOAT" tvg-name="Canal Goat 4 HD" tvg-logo="https://capas.cdnmedia.pro/images/e86a3b58c60e2cadbea0f10afb198abe.png" group-title="STREAM :: ESPORTES",Canal Goat 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15629
+#EXTINF:-1 tvg-id="off.br" tvg-name="Canal OFF FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E177.png" group-title="Canais :: VARIEDADES",Canal OFF FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/985
+#EXTINF:-1 tvg-id="off.br" tvg-name="Canal OFF HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E177.png" group-title="Canais :: VARIEDADES",Canal OFF HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/986
+#EXTINF:-1 tvg-id="off.br" tvg-name="Canal OFF SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E177.png" group-title="Canais :: VARIEDADES",Canal OFF SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/987
+#EXTINF:-1 tvg-id="CRU" tvg-name="Canal Rural HD" tvg-logo="https://capas.cdnmedia.pro/images/bf1cb768332244e3a68070bd82bd2540.png" group-title="Canais :: CORTESIA",Canal Rural HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15559
+#EXTINF:-1 tvg-id="CRU" tvg-name="Canal Rural SD" tvg-logo="https://capas.cdnmedia.pro/images/bf1cb768332244e3a68070bd82bd2540.png" group-title="Canais :: CORTESIA",Canal Rural SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15560
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E086.png" group-title="Canais :: FILMES E SÉRIES",Canal Sony FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15670
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E086.png" group-title="Canais :: FILMES E SÉRIES",Canal Sony HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15671
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E086.png" group-title="Canais :: FILMES E SÉRIES",Canal Sony SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15672
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="Canção Nova HD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO",Canção Nova HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15554
+#EXTINF:-1 tvg-id="CANCAOH" tvg-name="Canção Nova SD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/cancaonova.png" group-title="Canais :: RELIGIÃO",Canção Nova SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15555
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Capitão Planeta 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HIlr0lHFlWp4UNaHfN3hssnN7ycIroePI4FPjEvMRq3c.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Capitão Planeta 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73336
+#EXTINF:-1 tvg-id="TOONB" tvg-name="Cartoon Network FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15711
+#EXTINF:-1 tvg-id="TOONB" tvg-name="Cartoon Network HD" tvg-logo="https://capas.cdnmedia.pro/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="Canais :: INFANTIL",Cartoon Network HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73394
+#EXTINF:-1 tvg-id="TOONB" tvg-name="Cartoon Network SD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/cartoonnetwork.png" group-title="Canais :: INFANTIL",Cartoon Network SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15713
+#EXTINF:-1 tvg-id="CARNITO" tvg-name="Cartoonito FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15714
+#EXTINF:-1 tvg-id="CARNITO" tvg-name="Cartoonito HD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15715
+#EXTINF:-1 tvg-id="CARNITO" tvg-name="Cartoonito SD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/caroonito.png" group-title="Canais :: INFANTIL",Cartoonito SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73398
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Caverna do Dragão 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HD5Md53DK0O9Ufo4knVvFuiU_wrf37MxziweK5fib5zx.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Caverna do Dragão 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73337
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Caze TV 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E103.jpeg" group-title="STREAM :: ESPORTES",Caze TV 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15610
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Caze TV 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E103.jpeg" group-title="STREAM :: ESPORTES",Caze TV 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15611
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Caze TV 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E103.jpeg" group-title="STREAM :: ESPORTES",Caze TV 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15612
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="CDZ Saga do Santuario  24H" tvg-logo="https://capas.cdnmedia.pro/images/5db61a9c83ca4eeaee26fd83f7c5277b.png" group-title="24 H ::: CLÁSSICOS DESENHOS",CDZ Saga do Santuario  24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73338
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES E SÉRIES",Cinemax FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15677
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES E SÉRIES",Cinemax HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15678
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/30.png" group-title="Canais :: FILMES E SÉRIES",Cinemax SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15679
+#EXTINF:-1 tvg-id="CNNB" tvg-name="CNN Brasil FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS",CNN Brasil FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73139
+#EXTINF:-1 tvg-id="CNNB" tvg-name="CNN Brasil HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS",CNN Brasil HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73140
+#EXTINF:-1 tvg-id="CNNB" tvg-name="CNN Brasil SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/cnnbrasil.png" group-title="Canais :: NOTÍCIAS",CNN Brasil SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73141
+#EXTINF:-1 tvg-id="CNNIB" tvg-name="CNN International HD" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/cnninternacional.png" group-title="Canais :: MUNDO INTERNACIONAL",CNN International HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73123
+#EXTINF:-1 tvg-id="CNNIB" tvg-name="CNN International SD" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/cnninternacional.png" group-title="Canais :: MUNDO INTERNACIONAL",CNN International SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73124
+#EXTINF:-1 tvg-id="Combate SD" tvg-name="Combate FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="STREAM :: UFC FIGHT PASS",Combate FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15575
+#EXTINF:-1 tvg-id="Combate SD" tvg-name="Combate HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="STREAM :: UFC FIGHT PASS",Combate HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15576
+#EXTINF:-1 tvg-id="Combate SD" tvg-name="Combate SD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/combate.png" group-title="STREAM :: UFC FIGHT PASS",Combate SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15577
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES",Comedy Central FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15680
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES",Comedy Central HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15681
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://painelsbo.painel.life/logo/canais/comedycentral.png" group-title="Canais :: FILMES E SÉRIES",Comedy Central SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15682
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dazn 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E051.jpeg" group-title="STREAM :: ESPORTES",Dazn 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73399
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dazn 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E051.jpeg" group-title="STREAM :: ESPORTES",Dazn 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73400
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dazn 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E051.jpeg" group-title="STREAM :: ESPORTES",Dazn 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73401
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dazn 4 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E051.jpeg" group-title="STREAM :: ESPORTES",Dazn 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73402
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel FHD" tvg-logo="https://capas.cdnmedia.pro/images/2f4c62b777a7a15b32e269a0a2ad2fbe.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Channel FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/989
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://capas.cdnmedia.pro/images/2f4c62b777a7a15b32e269a0a2ad2fbe.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Channel HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/990
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel SD" tvg-logo="https://capas.cdnmedia.pro/images/2f4c62b777a7a15b32e269a0a2ad2fbe.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Channel SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/991
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/992
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/993
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/homehealt.png" group-title="Canais :: VARIEDADES",Discovery Home & Health SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/994
+#EXTINF:-1 tvg-id="DKNB" tvg-name="Discovery Kids FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15717
+#EXTINF:-1 tvg-id="DKNB" tvg-name="Discovery Kids HD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15718
+#EXTINF:-1 tvg-id="DKNB" tvg-name="Discovery Kids SD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/discoverykids.png" group-title="Canais :: INFANTIL",Discovery Kids SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15719
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="https://capas.cdnmedia.pro/images/2a38a4a9316c49e5a833517c45d31070.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Science FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/949
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="https://capas.cdnmedia.pro/images/2a38a4a9316c49e5a833517c45d31070.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Science HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/950
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science SD" tvg-logo="https://capas.cdnmedia.pro/images/2a38a4a9316c49e5a833517c45d31070.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Science SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/951
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://capas.cdnmedia.pro/images/7a76745de6cbf6e7e29add3792eeb02b.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Theater FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/952
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://capas.cdnmedia.pro/images/7a76745de6cbf6e7e29add3792eeb02b.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Theater HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/953
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://capas.cdnmedia.pro/images/7a76745de6cbf6e7e29add3792eeb02b.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Theater SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/954
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://capas.cdnmedia.pro/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Turbo FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/956
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="https://capas.cdnmedia.pro/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Turbo HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/957
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="https://capas.cdnmedia.pro/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery Turbo SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/958
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="https://capas.cdnmedia.pro/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery World FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/959
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://capas.cdnmedia.pro/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery World HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/960
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://capas.cdnmedia.pro/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais :: DOCUMENTÁRIOS",Discovery World SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/961
+#EXTINF:-1 tvg-id="Disney+" tvg-name="Disney + 1 HD" tvg-logo="https://capas.cdnmedia.pro/images/70b62a4f5d68a7a1e5de18ef1e268f1b.png" group-title="STREAM :: ESPORTES",Disney + 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15616
+#EXTINF:-1 tvg-id="Disney+" tvg-name="Disney + 2 HD" tvg-logo="https://capas.cdnmedia.pro/images/70b62a4f5d68a7a1e5de18ef1e268f1b.png" group-title="STREAM :: ESPORTES",Disney + 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15617
+#EXTINF:-1 tvg-id="Disney+" tvg-name="Disney + 3 HD" tvg-logo="https://capas.cdnmedia.pro/images/70b62a4f5d68a7a1e5de18ef1e268f1b.png" group-title="STREAM :: ESPORTES",Disney + 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15618
+#EXTINF:-1 tvg-id="Disney+" tvg-name="Disney + 4 HD" tvg-logo="https://capas.cdnmedia.pro/images/70b62a4f5d68a7a1e5de18ef1e268f1b.png" group-title="STREAM :: ESPORTES",Disney + 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15619
+#EXTINF:-1 tvg-id="Disney+" tvg-name="Disney + 5 HD" tvg-logo="https://capas.cdnmedia.pro/images/70b62a4f5d68a7a1e5de18ef1e268f1b.png" group-title="STREAM :: ESPORTES",Disney + 5 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15620
+#EXTINF:-1 tvg-id="Disney+" tvg-name="Disney + 6 HD" tvg-logo="https://capas.cdnmedia.pro/images/70b62a4f5d68a7a1e5de18ef1e268f1b.png" group-title="STREAM :: ESPORTES",Disney + 6 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15621
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbeAnFUdSd-hARozYA8xOw53-OWTF3XsUg1h06ifd3CAM.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Dragon Ball 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73339
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball GT 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/dragonball.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Dragon Ball GT 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73340
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Super 24H" tvg-logo="https://capas.cdnmedia.pro/images/dragonball.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Dragon Ball Super 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73341
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dragon Ball Z 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbeAnFUdSd-hARozYA8xOw59pl95FvMvuSXlkm1JxpWMg.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Dragon Ball Z 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73411
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Dupla do Barulho 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf5yKcKl8PDA3uK_rcL4z59xSRkqQM8C1awyhHtRoDu7I.png" group-title="24 H ::: CLÁSSICOS SÉRIES",Dupla do Barulho 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73377
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E169.png" group-title="Canais :: VARIEDADES",E! FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15683
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E169.png" group-title="Canais :: VARIEDADES",E! HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15684
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E169.png" group-title="Canais :: VARIEDADES",E! SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15685
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Eleven Sports 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/eleven/eleven.png" group-title="STREAM :: ESPORTES",Eleven Sports 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73412
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Eleven Sports 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/eleven/eleven.png" group-title="STREAM :: ESPORTES",Eleven Sports 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73413
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Eleven Sports 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/eleven/eleven.png" group-title="STREAM :: ESPORTES",Eleven Sports 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73414
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Eleven Sports 4 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/eleven/eleven.png" group-title="STREAM :: ESPORTES",Eleven Sports 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73415
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Eleven Sports 5 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/eleven/eleven.png" group-title="STREAM :: ESPORTES",Eleven Sports 5 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73416
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Eleven Sports 6 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/eleven/eleven.png" group-title="STREAM :: ESPORTES",Eleven Sports 6 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73417
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="EPTV Campinas FHD" tvg-logo="https://capas.cdnmedia.pro/images/284ad1482d3320f48b794436267ded80.png" group-title="Canais :: ABERTOS",EPTV Campinas FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1031
+#EXTINF:-1 tvg-id="ECAMPHD" tvg-name="EPTV Campinas HD" tvg-logo="https://capas.cdnmedia.pro/images/284ad1482d3320f48b794436267ded80.png" group-title="Canais :: ABERTOS",EPTV Campinas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1032
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="EPTV Campinas SD" tvg-logo="https://capas.cdnmedia.pro/images/284ad1482d3320f48b794436267ded80.png" group-title="Canais :: ABERTOS",EPTV Campinas SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1033
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E095.png" group-title="Canais :: ESPORTES",ESPN 1 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15579
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E095.png" group-title="Canais :: ESPORTES",ESPN 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15580
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E095.png" group-title="Canais :: ESPORTES",ESPN 1 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15581
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn2.png" group-title="Canais :: ESPORTES",ESPN 2 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15583
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn2.png" group-title="Canais :: ESPORTES",ESPN 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15584
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn2.png" group-title="Canais :: ESPORTES",ESPN 2 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15585
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn3.png" group-title="Canais :: ESPORTES",ESPN 3 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15587
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn3.png" group-title="Canais :: ESPORTES",ESPN 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15588
+#EXTINF:-1 tvg-id="ESPN 3 SD" tvg-name="ESPN 3 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn3.png" group-title="Canais :: ESPORTES",ESPN 3 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15589
+#EXTINF:-1 tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15591
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15592
+#EXTINF:-1 tvg-id="ESPN 4 SD" tvg-name="ESPN 4 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn4.png" group-title="Canais :: ESPORTES",ESPN 4 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15593
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15595
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15596
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn5.png" group-title="Canais :: ESPORTES",ESPN 5 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15597
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn 6 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn6.png" group-title="Canais :: ESPORTES",Espn 6 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15598
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn 6 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn6.png" group-title="Canais :: ESPORTES",Espn 6 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15599
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn 6 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/espn/espn6.png" group-title="Canais :: ESPORTES",Espn 6 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15600
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Eu, a Patroa e as Criancas 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbXQ_g30khZU2fPbM04LCe8OghxqY80VnSYnw_cWzxiis.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Eu, a Patroa e as Criancas 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73360
+#EXTINF:-1 tvg-id="EUR" tvg-name="Eurochannel HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/eurochannel.png" group-title="Canais :: MUNDO INTERNACIONAL",Eurochannel HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73131
+#EXTINF:-1 tvg-id="EUR" tvg-name="Eurochannel SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/eurochannel.png" group-title="Canais :: MUNDO INTERNACIONAL",Eurochannel SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73132
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Familia Dinossauros 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJWEvMBzNvfLNC_vAMjQYCP1E6KsimTQOhRB4wBMc4Y1.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Familia Dinossauros 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73342
+#EXTINF:-1 tvg-id="FABBHD" tvg-name="Film&Arts FHD" tvg-logo="http://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES E SÉRIES",Film&Arts FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15686
+#EXTINF:-1 tvg-id="FABBHD" tvg-name="Film&Arts HD" tvg-logo="http://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES E SÉRIES",Film&Arts HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15687
+#EXTINF:-1 tvg-id="FABBHD" tvg-name="Film&Arts SD" tvg-logo="http://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais :: FILMES E SÉRIES",Film&Arts SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15688
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS",Fish TV FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/943
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS",Fish TV HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/944
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/fishtv.png" group-title="Canais :: DOCUMENTÁRIOS",Fish TV SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/945
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/foodnetwork.png" group-title="Canais :: VARIEDADES",Food Network FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/946
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/foodnetwork.png" group-title="Canais :: VARIEDADES",Food Network HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/947
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/foodnetwork.png" group-title="Canais :: VARIEDADES",Food Network SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/948
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1984 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1984 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73361
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1985 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1985 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73362
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1986 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1986 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73363
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1987 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1987 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73364
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1988 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1988 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73365
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1989 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1989 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73366
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1990 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1990 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73367
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1991 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1991 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73368
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1992 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1992 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73369
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Formula 1 1993 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVba5aV2Di6UZ2UgfmkHO1hf-F8iDDdo8LjTnwAfgP20Ox8N8kA-g7-6R7rrfh_lSzK.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Formula 1 1993 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73370
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Friends 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbXQ_g30khZU2fPbM04LCe8GyUglc1WbqlIiQMzIlZFck.png" group-title="24 H ::: CLÁSSICOS SÉRIES",Friends 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73376
+#EXTINF:-1 tvg-id="RGBELOH" tvg-name="Globo - Belo Horizonte HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Belo Horizonte HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1022
+#EXTINF:-1 tvg-id="GLBBRAS" tvg-name="Globo - Boa Vista HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Boa Vista HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1023
+#EXTINF:-1 tvg-id="GLBBRHD" tvg-name="Globo - Brasilia FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Brasilia FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1025
+#EXTINF:-1 tvg-id="GLBBRHD" tvg-name="Globo - Brasilia HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Brasilia HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1026
+#EXTINF:-1 tvg-id="ZYA941" tvg-name="Globo - Centro America HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9malp1b1spbncttlKs8nBRIoaST4P7dF3-GtG7sGKcgh6A.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Centro America HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1029
+#EXTINF:-1 tvg-id="ECENTHD" tvg-name="Globo - EPTV Central HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - EPTV Central HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1034
+#EXTINF:-1 tvg-id="ECENTHD" tvg-name="Globo - EPTV Central SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - EPTV Central SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1035
+#EXTINF:-1 tvg-id="EPTVRIB" tvg-name="Globo - EPTV Rib Preto HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - EPTV Rib Preto HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1038
+#EXTINF:-1 tvg-id="ECENTHD" tvg-name="Globo - EPTV Sao Carlos HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - EPTV Sao Carlos HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1040
+#EXTINF:-1 tvg-id="EPSULHD" tvg-name="Globo - EPTV Sul de Minas FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - EPTV Sul de Minas FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1042
+#EXTINF:-1 tvg-id="EPSULHD" tvg-name="Globo - EPTV Sul de Minas HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - EPTV Sul de Minas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1043
+#EXTINF:-1 tvg-id="ZYB521" tvg-name="Globo - Inter Alto Litoral HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Inter Alto Litoral HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1045
+#EXTINF:-1 tvg-id="CABUGIH" tvg-name="Globo - Inter TV Cabugi HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Inter TV Cabugi HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1046
+#EXTINF:-1 tvg-id="TVALEHD" tvg-name="Globo - Inter TV dos Vales HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Inter TV dos Vales HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1048
+#EXTINF:-1 tvg-id="GRAMIHD" tvg-name="Globo - Inter TV Grande Minas FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Inter TV Grande Minas FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1049
+#EXTINF:-1 tvg-id="GRAMIHD" tvg-name="Globo - Inter TV Grande Minas HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Inter TV Grande Minas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1050
+#EXTINF:-1 tvg-id="SEMARHD" tvg-name="Globo - Inter TV Serra Mar HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Inter TV Serra Mar HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1051
+#EXTINF:-1 tvg-id="GLNORHD" tvg-name="Globo - InterTV RN HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - InterTV RN HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1052
+#EXTINF:-1 tvg-id="RECMINH" tvg-name="Globo - Minas FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Minas FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1053
+#EXTINF:-1 tvg-id="RECMINH" tvg-name="Globo - Minas HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Minas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1054
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo - Nacional HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Nacional HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1057
+#EXTINF:-1 tvg-id="GLBRCFE" tvg-name="Globo - Nordeste FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Nordeste FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1058
+#EXTINF:-1 tvg-id="GLBRCFE" tvg-name="Globo - Nordeste HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Nordeste HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1059
+#EXTINF:-1 tvg-id="RBSBLHD" tvg-name="Globo - NSC Santa Catarina HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFg7wPu7HBoOLnlOt9bMDfH8Xo8kmJRxRwniVIJRtwhISQ.png" group-title="Canais :: GLOBO REGIONAIS",Globo - NSC Santa Catarina HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1061
+#EXTINF:-1 tvg-id="RBSCHHD" tvg-name="Globo - NSC TV Chapeco HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFg7wPu7HBoOLnlOt9bMDfH8Xo8kmJRxRwniVIJRtwhISQ.png" group-title="Canais :: GLOBO REGIONAIS",Globo - NSC TV Chapeco HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1063
+#EXTINF:-1 tvg-id="ZYB762" tvg-name="Globo - NSC TV Criciuma HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFg7wPu7HBoOLnlOt9bMDfH8Xo8kmJRxRwniVIJRtwhISQ.png" group-title="Canais :: GLOBO REGIONAIS",Globo - NSC TV Criciuma HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1065
+#EXTINF:-1 tvg-id="RBSFLHD" tvg-name="Globo - NSC TV Florianopolis FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFg7wPu7HBoOLnlOt9bMDfH8Xo8kmJRxRwniVIJRtwhISQ.png" group-title="Canais :: GLOBO REGIONAIS",Globo - NSC TV Florianopolis FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1066
+#EXTINF:-1 tvg-id="RBSFLHD" tvg-name="Globo - NSC TV Florianopolis HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFg7wPu7HBoOLnlOt9bMDfH8Xo8kmJRxRwniVIJRtwhISQ.png" group-title="Canais :: GLOBO REGIONAIS",Globo - NSC TV Florianopolis HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1067
+#EXTINF:-1 tvg-id="RBSJOIH" tvg-name="Globo - NSC TV Joinville HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFg7wPu7HBoOLnlOt9bMDfH8Xo8kmJRxRwniVIJRtwhISQ.png" group-title="Canais :: GLOBO REGIONAIS",Globo - NSC TV Joinville HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1069
+#EXTINF:-1 tvg-id="GLBBRAS" tvg-name="Globo - Porto Velho HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Porto Velho HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1070
+#EXTINF:-1 tvg-id="GLBRBSP" tvg-name="Globo - RBS Porto Alegre FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9mYL6t2IK9sKgSGOucoSK5IPdKuQdYgV4kr9Tppo6Z6nKg.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RBS Porto Alegre FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1072
+#EXTINF:-1 tvg-id="GLBRBSP" tvg-name="Globo - RBS Porto Alegre HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9mYL6t2IK9sKgSGOucoSK5IPdKuQdYgV4kr9Tppo6Z6nKg.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RBS Porto Alegre HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1073
+#EXTINF:-1 tvg-id="RBSCDSH" tvg-name="Globo - RBS TV Caxias do Sul HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9mYL6t2IK9sKgSGOucoSK5IPdKuQdYgV4kr9Tppo6Z6nKg.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RBS TV Caxias do Sul HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1076
+#EXTINF:-1 tvg-id="RBSPEHD" tvg-name="Globo - RBS TV Pelotas HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9mYL6t2IK9sKgSGOucoSK5IPdKuQdYgV4kr9Tppo6Z6nKg.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RBS TV Pelotas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1077
+#EXTINF:-1 tvg-id="RBSSMAR" tvg-name="Globo - RBS TV Santa Cruz HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9mYL6t2IK9sKgSGOucoSK5IPdKuQdYgV4kr9Tppo6Z6nKg.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RBS TV Santa Cruz HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1080
+#EXTINF:-1 tvg-id="RBSSMAR" tvg-name="Globo - RBS TV Santa Maria HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9mYL6t2IK9sKgSGOucoSK5IPdKuQdYgV4kr9Tppo6Z6nKg.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RBS TV Santa Maria HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1083
+#EXTINF:-1 tvg-id="GLNORHD" tvg-name="Globo - Recife HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Recife HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1085
+#EXTINF:-1 tvg-id="GLBAMHD" tvg-name="Globo - Rede Amazonica Manaus HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Rede Amazonica Manaus HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1086
+#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="Globo - RJ FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RJ FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1088
+#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="Globo - RJ HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RJ HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1089
+#EXTINF:-1 tvg-id="RPCCAHD" tvg-name="Globo - RPC Cascavel HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgz6FYan5A8mOpYoX_rFUtXvarUuiij6Tj-DIL2dMwW4w.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RPC Cascavel HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1091
+#EXTINF:-1 tvg-id="GLBRPC" tvg-name="Globo - RPC Curitiba FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgz6FYan5A8mOpYoX_rFUtXvarUuiij6Tj-DIL2dMwW4w.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RPC Curitiba FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1093
+#EXTINF:-1 tvg-id="GLBRPC" tvg-name="Globo - RPC Curitiba HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgz6FYan5A8mOpYoX_rFUtXvarUuiij6Tj-DIL2dMwW4w.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RPC Curitiba HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1094
+#EXTINF:-1 tvg-id="RGFOZIG" tvg-name="Globo - RPC Foz do Iguacu HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgz6FYan5A8mOpYoX_rFUtXvarUuiij6Tj-DIL2dMwW4w.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RPC Foz do Iguacu HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1096
+#EXTINF:-1 tvg-id="MARINGA" tvg-name="Globo - RPC Maringa HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgz6FYan5A8mOpYoX_rFUtXvarUuiij6Tj-DIL2dMwW4w.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RPC Maringa HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1098
+#EXTINF:-1 tvg-id="RPCPAHD" tvg-name="Globo - RPC Paranavai HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgz6FYan5A8mOpYoX_rFUtXvarUuiij6Tj-DIL2dMwW4w.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RPC Paranavai HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1100
+#EXTINF:-1 tvg-id="RPCPGHD" tvg-name="Globo - RPC Ponta Grossa HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgz6FYan5A8mOpYoX_rFUtXvarUuiij6Tj-DIL2dMwW4w.png" group-title="Canais :: GLOBO REGIONAIS",Globo - RPC Ponta Grossa HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1102
+#EXTINF:-1 tvg-id="REDEARA" tvg-name="Globo - Sergipe HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - Sergipe HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1105
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo - SP FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/07.png" group-title="Canais :: ABERTOS",Globo - SP FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1107
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo - SP HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/07.png" group-title="Canais :: ABERTOS",Globo - SP HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1108
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo - SP SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/07.png" group-title="Canais :: ABERTOS",Globo - SP SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1109
+#EXTINF:-1 tvg-id="ANGCAHD" tvg-name="Globo - TV Anhanguera Goiânia HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFjHv9uNEeDseLfB0aWsVUyOEZIs-v211CSZgXjmWsZKhg.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Anhanguera Goiânia HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1110
+#EXTINF:-1 tvg-id="ASABRHD" tvg-name="Globo - TV Asa Branca HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgAkJIbHRv9rOdE0paUojU3DR6e18icQ9Mw2MhHNxzQMA.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Asa Branca HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1112
+#EXTINF:-1 tvg-id="BAHIAHD" tvg-name="Globo - TV Bahia FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFjGr-i3vr-Prz19Yd7mY05DMggIm8nYP9uNWcP3nhfVwA.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Bahia FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1114
+#EXTINF:-1 tvg-id="BAHIAHD" tvg-name="Globo - TV Bahia HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFjGr-i3vr-Prz19Yd7mY05DMggIm8nYP9uNWcP3nhfVwA.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Bahia HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1115
+#EXTINF:-1 tvg-id="ZYB270" tvg-name="Globo - TV Cabo Branco HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0pTzKaoZdRAXCODXHJmo9dn0fOvWi_PUPg6BamqLwGPKA.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Cabo Branco HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1117
+#EXTINF:-1 tvg-id="GLBCA" tvg-name="Globo - TV Centro Oeste HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Centro Oeste HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1119
+#EXTINF:-1 tvg-id="FRONTHD" tvg-name="Globo - TV Fronteira HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFi6BRClNQCgRlumguHJo1dlkjRME6pApHXpNlNZb20c7w.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Fronteira HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1120
+#EXTINF:-1 tvg-id="ZYA543" tvg-name="Globo - TV Gazeta Alagoas HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0pyAp1a6ZK7CA5yTen5txU-DnFTRn2cIjTMlB_GinYH5g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Gazeta Alagoas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1122
+#EXTINF:-1 tvg-id="ZYA534" tvg-name="Globo - TV Gazeta Sul ES HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0pyAp1a6ZK7CA5yTen5txU-DnFTRn2cIjTMlB_GinYH5g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Gazeta Sul ES HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1125
+#EXTINF:-1 tvg-id="VITORHD" tvg-name="Globo - TV Gazeta Vitoria HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0pyAp1a6ZK7CA5yTen5txU-DnFTRn2cIjTMlB_GinYH5g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Gazeta Vitoria HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1127
+#EXTINF:-1 tvg-id="LIBERHD" tvg-name="Globo - TV Liberal Belem FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFjbArqQH26aJF0fLWy16vOgGarwf0g279MuYS2iQK_DiA.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Liberal Belem FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1129
+#EXTINF:-1 tvg-id="LIBERHD" tvg-name="Globo - TV Liberal Belem HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFjbArqQH26aJF0fLWy16vOgGarwf0g279MuYS2iQK_DiA.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Liberal Belem HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1130
+#EXTINF:-1 tvg-id="MIRCOHD" tvg-name="Globo - TV Mirante Cocais HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFjHfsCMRsEZ8dYUQz51FGvPk8N77qcDge35kf3EjpABtw.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Mirante Cocais HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1132
+#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="Globo - TV Mirante Maranhao HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFjHfsCMRsEZ8dYUQz51FGvPk8N77qcDge35kf3EjpABtw.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Mirante Maranhao HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1135
+#EXTINF:-1 tvg-id="ZYA942H" tvg-name="Globo - TV Morena HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIRURxD4UDrfSmxEKWLUJEl_hvvdPEm71KAqkTv-1En4emheqbVjBLniZ4bVEr8O6wA.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Morena HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1138
+#EXTINF:-1 tvg-id="PARAIHD" tvg-name="Globo - TV Paraiba HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFhBK1Zjz7nAsx0mVNnx0kvd5Nov83OvdBVCMuEvcMBsSQ.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Paraiba HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1140
+#EXTINF:-1 tvg-id="RIOSULH" tvg-name="Globo - TV Rio Sul HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFgjnMqSyQA9tt4W1gXJvdOByly9qsxwIW6tNZLRirZXgQ.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Rio Sul HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1143
+#EXTINF:-1 tvg-id="SERGIHD" tvg-name="Globo - TV Sergipe HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFjwXKpqi346tnjupxZFQRV7iRveXwgc1YRl2ELT5b3E7Q.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Sergipe HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1145
+#EXTINF:-1 tvg-id="SUBAEHD" tvg-name="Globo - TV Subae HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Subae HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1147
+#EXTINF:-1 tvg-id="GLBTVTM" tvg-name="Globo - TV Tem Bauru HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Tem Bauru HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1148
+#EXTINF:-1 tvg-id="GLBBITA" tvg-name="Globo - TV Tem Itapetininga HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Tem Itapetininga HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1150
+#EXTINF:-1 tvg-id="GLBSJRP" tvg-name="Globo - TV Tem S. J. Do Rio Preto HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9mYjtFmwsm36qeMJRQjZFR-sRqnf9ku1nZ9Rle1rgvtR7A.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Tem S. J. Do Rio Preto HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1152
+#EXTINF:-1 tvg-id="TVTEMHD" tvg-name="Globo - TV Tem Sorocaba HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPISAQ0FUIjmAM8XUqDKzG9mYjtFmwsm36qeMJRQjZFR-sRqnf9ku1nZ9Rle1rgvtR7A.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Tem Sorocaba HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1154
+#EXTINF:-1 tvg-id="GLOBOH" tvg-name="Globo - TV Tribuna Santos HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIQGVxB9t_zKPz99Gv03KR0qQQV-jOCw4RLHjI6kJFgIzoP3sMiM6NOSjoEIwDw5S7g.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Tribuna Santos HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1156
+#EXTINF:-1 tvg-id="GLOVSJC" tvg-name="Globo - TV Vanguarda S.J. dos Campos FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIfnlKLT0lPiVYTKJxYaimTM-k3XXgpTmHWcBKuX6So4iDcj_aKWCjtYXuVbjw9kc3Q.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Vanguarda S.J. dos Campos FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1158
+#EXTINF:-1 tvg-id="GLOVSJC" tvg-name="Globo - TV Vanguarda S.J. dos Campos HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIfnlKLT0lPiVYTKJxYaimTM-k3XXgpTmHWcBKuX6So4iDcj_aKWCjtYXuVbjw9kc3Q.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Vanguarda S.J. dos Campos HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1159
+#EXTINF:-1 tvg-id="GLOVSJC" tvg-name="Globo - TV Vanguarda Taubate HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIfnlKLT0lPiVYTKJxYaimTM-k3XXgpTmHWcBKuX6So4iDcj_aKWCjtYXuVbjw9kc3Q.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Vanguarda Taubate HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1161
+#EXTINF:-1 tvg-id="VERMAHD" tvg-name="Globo - TV Verdes Mares HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/globos/M21ONN1upaNPmks-KYzPIcIxAA2k4B3PptCgAfmLAFhxS-L66T3YWhaHBpdC87bFjGcx11gcHqd0TEkwLrPD6Q.png" group-title="Canais :: GLOBO REGIONAIS",Globo - TV Verdes Mares HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1164
+#EXTINF:-1 tvg-id="GLNHD" tvg-name="GloboNews FHD" tvg-logo="https://capas.cdnmedia.pro/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="Canais :: NOTÍCIAS",GloboNews FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73143
+#EXTINF:-1 tvg-id="GLNHD" tvg-name="GloboNews HD" tvg-logo="https://capas.cdnmedia.pro/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="Canais :: NOTÍCIAS",GloboNews HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73144
+#EXTINF:-1 tvg-id="GLNHD" tvg-name="GloboNews SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/globonews.png" group-title="Canais :: NOTÍCIAS",GloboNews SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73145
+#EXTINF:-1 tvg-id="GLOOBHD" tvg-name="Gloob FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL",Gloob FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73421
+#EXTINF:-1 tvg-id="GLOOBHD" tvg-name="Gloob HD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL",Gloob HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73422
+#EXTINF:-1 tvg-id="GLOOBHD" tvg-name="Gloob SD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/gloob.png" group-title="Canais :: INFANTIL",Gloob SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73423
+#EXTINF:-1 tvg-id="GLBINHD" tvg-name="Globinho FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL",Globinho FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73424
+#EXTINF:-1 tvg-id="GLBINHD" tvg-name="Globinho HD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL",Globinho HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73425
+#EXTINF:-1 tvg-id="GLBINHD" tvg-name="Globinho SD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/tvglobinho.png" group-title="Canais :: INFANTIL",Globinho SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15728
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES",GNT FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73613
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES",GNT HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73442
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/gnt.png" group-title="Canais :: VARIEDADES",GNT SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73443
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD" tvg-logo="https://capas.cdnmedia.pro/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="Canais :: DOCUMENTÁRIOS",H2 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/962
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="https://capas.cdnmedia.pro/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="Canais :: DOCUMENTÁRIOS",H2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/963
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD" tvg-logo="https://capas.cdnmedia.pro/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="Canais :: DOCUMENTÁRIOS",H2 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73427
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E104.png" group-title="Canais :: HBO",HBO 1 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/918
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E104.png" group-title="Canais :: HBO",HBO 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/919
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 1 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E104.png" group-title="Canais :: HBO",HBO 1 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/920
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://capas.cdnmedia.pro/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="Canais :: HBO",HBO 2 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/922
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO",HBO 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/923
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbo2.png" group-title="Canais :: HBO",HBO 2 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/924
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/925
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/926
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="Canais :: HBO",HBO Family SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/927
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/928
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/929
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbomundi.png" group-title="Canais :: HBO",HBO Mundi SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/930
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/931
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="https://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/932
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD" tvg-logo="https://painelsbo.painel.life/logo/canais/hboplus.png" group-title="Canais :: HBO",HBO Plus SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/933
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO POP FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/934
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO POP HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/935
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP SD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbopop.png" group-title="Canais :: HBO",HBO POP SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/936
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/937
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/938
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="Canais :: HBO",HBO Signature SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/939
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/940
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/941
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="https://painelsbo.painel.life/logo/canais/hboxtreme.png" group-title="Canais :: HBO",HBO Xtreme SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/942
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="He-Man e Os Defensores do Universo 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HGPpJHUOnxGHjqp1FtRkMLk0ySlVbJWV-2O7v1iIZaC2.png" group-title="24 H ::: CLÁSSICOS DESENHOS",He-Man e Os Defensores do Universo 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73343
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS",HGTV FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/964
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS",HGTV HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/965
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/hgtv.png" group-title="Canais :: DOCUMENTÁRIOS",HGTV SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/966
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel FHD" tvg-logo="https://capas.cdnmedia.pro/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="Canais :: DOCUMENTÁRIOS",History Channel FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/967
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="https://capas.cdnmedia.pro/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="Canais :: DOCUMENTÁRIOS",History Channel HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/968
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel SD" tvg-logo="https://capas.cdnmedia.pro/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="Canais :: DOCUMENTÁRIOS",History Channel SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/969
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - AXE 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gAThu8XCWU_qTM76ohYUTo8.png" group-title="Canais :: HITS",Hit - AXE 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73444
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - AXE 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gBZZzKqm3uSloW-GY0EXXpg.png" group-title="Canais :: HITS",Hit - AXE 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73445
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - AXE 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gGf6a6i66PDAm519FznpUmk.png" group-title="Canais :: HITS",Hit - AXE 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73446
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - BLACK TOTAL 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gPPvGgaqzheINC5NOO-eGR5vMZRgSNTtOcPkL9y_GPGY.png" group-title="Canais :: HITS",Hit - BLACK TOTAL 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73447
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - BLACK TOTAL 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gEB_QlBIMxGudxWVfP--DXmx61ZnxY78vAOU9Ew9gZkO.png" group-title="Canais :: HITS",Hit - BLACK TOTAL 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73448
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - BLACK TOTAL 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gP6GRtwz90eLLcPjTeXVBrY5BX3Bo_TjKuyM1kWD9O5C.png" group-title="Canais :: HITS",Hit - BLACK TOTAL 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73449
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - ELETRONICA 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gLS_iQE_-JLppU9GdzIYXPnOMxDGrDcx6FcWbKh09lz8.png" group-title="Canais :: HITS",Hit - ELETRONICA 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73450
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - ELETRONICA 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gEPrjEvW9UPk0rmuSVeHFl8MKSYDTEyQ2tV78LzNQE06.png" group-title="Canais :: HITS",Hit - ELETRONICA 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73451
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - ELETRONICA 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gEbKXh0wK3KsnxUD59yfzI10cXRQjTUhaS34z9wVoPY0.png" group-title="Canais :: HITS",Hit - ELETRONICA 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73452
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - FUNK 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gEjFoESbiw6Sh84IyxzQAZU.png" group-title="Canais :: HITS",Hit - FUNK 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73453
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - FUNK 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gB7ubTFmeDxbapW8qo89u4A.png" group-title="Canais :: HITS",Hit - FUNK 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73454
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - FUNK 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gH9IhcuIVpnj3uBNAqMLM8I.png" group-title="Canais :: HITS",Hit - FUNK 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73455
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - FUNK 04" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gCkjBdJ2pCW_381AhofnT8o.png" group-title="Canais :: HITS",Hit - FUNK 04
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73456
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - FUNK 05" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gE2NFi2sc0-6Ah80DNzVi0g.png" group-title="Canais :: HITS",Hit - FUNK 05
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73457
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - LOUVORES 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gDKdcShT7Vmv8rDIeLbYNMP8aO_NNuZI5I3IzHPSjHVJ.png" group-title="Canais :: HITS",Hit - LOUVORES 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73458
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - LOUVORES 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gJK5rFN2zaJ230NvbJqmSIHBDiCi-QASVNig5SNDFILI.png" group-title="Canais :: HITS",Hit - LOUVORES 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73459
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - LOUVORES 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gHPTv2ZAWZQNZJOFfAMUCab2XELW72_ExgQ9X5n4pT1W.png" group-title="Canais :: HITS",Hit - LOUVORES 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73460
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - MPB 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gKcp_c4no34OOHxCv6rCWW8.png" group-title="Canais :: HITS",Hit - MPB 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73461
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - MPB 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gEzDErsUGskDV88jDP-uFAs.png" group-title="Canais :: HITS",Hit - MPB 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73462
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - MTV NACIONAL" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gM73mi0cDl_bj5J0MXIsqfYTY5kbsWTzFWa_Ytop-bZ1.png" group-title="Canais :: HITS",Hit - MTV NACIONAL
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73463
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - PAGODE 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gLohOyXiThnPdC-FZ9NGDGM.png" group-title="Canais :: HITS",Hit - PAGODE 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73464
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - PAGODE 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gC4dIp6mtQVueK0nHJ97_bM.png" group-title="Canais :: HITS",Hit - PAGODE 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73465
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - PAGODE 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gIzUjNNMnGZV_P5s3_Ye3mE.png" group-title="Canais :: HITS",Hit - PAGODE 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73466
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - PAGODE 04" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gD8CCmNRYJwqULy2qQdPJ6o.png" group-title="Canais :: HITS",Hit - PAGODE 04
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73467
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - POP 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gO8EAvO2akzvdOEWCkmYv0A.png" group-title="Canais :: HITS",Hit - POP 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73468
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - POP 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gFh_0NaNgXHLVWjSImhy1ag.png" group-title="Canais :: HITS",Hit - POP 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73469
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - POP 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gNoWxQnSfal1QaUXbmq6akY.PNG" group-title="Canais :: HITS",Hit - POP 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73470
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - RAP 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gGatC2N8Zs6Z7QUv6EgKmXM.png" group-title="Canais :: HITS",Hit - RAP 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73471
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - RAP 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gB4AfJHu2bmasE_j0kGDxtc.png" group-title="Canais :: HITS",Hit - RAP 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73472
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - RAP 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gPJju0SRBThytKnFwawTdN0.png" group-title="Canais :: HITS",Hit - RAP 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73473
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - ROCK 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gMR44LMVWjIjtxBn7Ers4hQ.png" group-title="Canais :: HITS",Hit - ROCK 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73474
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - ROCK 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gIGbjrdSrP3jIzw65o0RRJ8.png" group-title="Canais :: HITS",Hit - ROCK 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73475
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - ROCK 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gHjdCgyhZ2p71CEmRhy8iyA.png" group-title="Canais :: HITS",Hit - ROCK 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73476
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - ROCK 04" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gBVx3LG2mbM3N4WqSGEZBQw.png" group-title="Canais :: HITS",Hit - ROCK 04
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73477
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SAMBA 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gLiOfgbQq5pxFxmun9fwN5U.png" group-title="Canais :: HITS",Hit - SAMBA 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73478
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SAMBA 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gKAkgrerluhMZiGfVG8FOzw.png" group-title="Canais :: HITS",Hit - SAMBA 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73479
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 01" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gLURTB580m3fiNI1ebH4yCZeuOphJgLaAO7sWw7hTjLe.png" group-title="Canais :: HITS",Hit - SERTANEJO 01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73480
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 02" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gHGhJFcOy0ukP0yWBbRMFTPJqUuj2y4YWEfpB04oAc-K.png" group-title="Canais :: HITS",Hit - SERTANEJO 02
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73481
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 03" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gEIjN01ogdfPyf9AiGhopfsz99ZQRCT4KbMB6GN5IES1.png" group-title="Canais :: HITS",Hit - SERTANEJO 03
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73482
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 04" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gM4eXOf4UNFcLELczAbsXxvW_o-fDeL8bRzflM9YODfM.png" group-title="Canais :: HITS",Hit - SERTANEJO 04
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73483
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 05" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gJLhmq5dEsqhTgdeWEkqnNRjPNaQ4VBlBGLep5PAkLok.png" group-title="Canais :: HITS",Hit - SERTANEJO 05
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73484
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 06" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gEqfgMNiE3aOI9E7B1sPLvEyOQu6SpybTT6k8__Z_qXt.png" group-title="Canais :: HITS",Hit - SERTANEJO 06
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73485
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 07" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gMV-nxOQOE9azHJoiLs1uVYK9WH4GCaIhV3OVH_GDMtU.png" group-title="Canais :: HITS",Hit - SERTANEJO 07
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73486
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 08" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gOfanUfo6mEFalLJf2VP3ggygjZm3NIl_Kmq9W1d8v9s.png" group-title="Canais :: HITS",Hit - SERTANEJO 08
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73487
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 09" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gKkznilwjvvWE8goRqAHpF5wCIswYXXbWG4nVS9dPRup.png" group-title="Canais :: HITS",Hit - SERTANEJO 09
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73488
+#EXTINF:-1 tvg-id="hit.br" tvg-name="Hit - SERTANEJO 10" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbsc-zkhpPBLyKxlwx-Uq0gDULXvKOEr0yKLuDLW324MEoNfG_79iE3WNud-IHWA7Y.png" group-title="Canais :: HITS",Hit - SERTANEJO 10
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73489
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Homem Aranha 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HHwflXlfU5VSyy7RSrXwL_WJLW1SJChe9qmGP1WdFE09.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Homem Aranha 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73344
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Homem-Aranha A Serie Animada 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HHwflXlfU5VSyy7RSrXwL_WJLW1SJChe9qmGP1WdFE09.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Homem-Aranha A Serie Animada 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73345
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: DOCUMENTÁRIOS",ID FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/970
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID HD" tvg-logo="https://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: DOCUMENTÁRIOS",ID HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/971
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID SD" tvg-logo="https://painelsbo.painel.life/logo/canais/id.png" group-title="Canais :: DOCUMENTÁRIOS",ID SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/972
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News FHD" tvg-logo="https://capas.cdnmedia.pro/images/f743ea88bf214945bddaff855a825607.png" group-title="Canais :: NOTÍCIAS",Jovem Pan News FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73147
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News HD" tvg-logo="https://capas.cdnmedia.pro/images/f743ea88bf214945bddaff855a825607.png" group-title="Canais :: NOTÍCIAS",Jovem Pan News HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73148
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/jovempannews.png" group-title="Canais :: NOTÍCIAS",Jovem Pan News SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73149
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://capas.cdnmedia.pro/images/e177441dcc6927af15a46519209d7d16.png" group-title="Canais :: DOCUMENTÁRIOS",Lifetime FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/973
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://capas.cdnmedia.pro/images/e177441dcc6927af15a46519209d7d16.png" group-title="Canais :: DOCUMENTÁRIOS",Lifetime HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/974
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://capas.cdnmedia.pro/images/e177441dcc6927af15a46519209d7d16.png" group-title="Canais :: DOCUMENTÁRIOS",Lifetime SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/975
+#EXTINF:-1 tvg-id="allplay.br" tvg-name="Loading HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/loading.png" group-title="Canais :: VARIEDADES",Loading HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73490
+#EXTINF:-1 tvg-id="" tvg-name="Markket HD" tvg-logo="http://vcfaz.tv/wp-content/uploads/2022/05/markkettv-324x160.png" group-title="Canais :: VARIEDADES",Markket HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73491
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MAX 1 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="STREAM :: ESPORTES",MAX 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73493
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MAX 2 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="STREAM :: ESPORTES",MAX 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73494
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MAX 3 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="STREAM :: ESPORTES",MAX 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73495
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MAX 4 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="STREAM :: ESPORTES",MAX 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73496
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MAX 5 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="STREAM :: ESPORTES",MAX 5 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73497
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MAX 6 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/novosespn/max.png" group-title="STREAM :: ESPORTES",MAX 6 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73498
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="MCU 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/TSNssDEAhphQZC2g-Hkl6EYqxX6P3JLIKReFHRUZQn2BU5CW2ELjd0maU39NAu1ZsQZkLMOalZ0BSCbnCQR-E_7Fahe6wwer3rSxS-oQH3IiJ_RHMrDNAZKT9Z-OlVc3UPgVIxokZ2qf3ey5gRWlpA.png" group-title="24 H ::: CLÁSSICOS DESENHOS",MCU 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73357
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES E SÉRIES",Megapix FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15693
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES E SÉRIES",Megapix HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15694
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="https://painelsbo.painel.life/logosnovos/H265/49.png" group-title="Canais :: FILMES E SÉRIES",Megapix SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15695
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="Modo Viagem FHD" tvg-logo="https://capas.cdnmedia.pro/images/8f4d988018a89858ded2e23f44b0b58e.png" group-title="Canais :: VARIEDADES",Modo Viagem FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73428
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="Modo Viagem HD" tvg-logo="https://capas.cdnmedia.pro/images/8f4d988018a89858ded2e23f44b0b58e.png" group-title="Canais :: VARIEDADES",Modo Viagem HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73429
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="Modo Viagem SD" tvg-logo="https://capas.cdnmedia.pro/images/8f4d988018a89858ded2e23f44b0b58e.png" group-title="Canais :: VARIEDADES",Modo Viagem SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73430
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV  FHD" tvg-logo="https://capas.cdnmedia.pro/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Canais :: MUSICAS",MTV  FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15749
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV  SD" tvg-logo="https://capas.cdnmedia.pro/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Canais :: MUSICAS",MTV  SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15750
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://capas.cdnmedia.pro/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Canais :: MUSICAS",MTV HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15751
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV Live HD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtvlive.png" group-title="Canais :: MUSICAS",MTV Live HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15752
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV Live SD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtvlive.png" group-title="Canais :: MUSICAS",MTV Live SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15753
+#EXTINF:-1 tvg-id="mtv00s.br" tvg-name="MTV`s 00 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAS",MTV`s 00 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15754
+#EXTINF:-1 tvg-id="mtv00s.br" tvg-name="MTV`s 00 SD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/mtv00.png" group-title="Canais :: MUSICAS",MTV`s 00 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15755
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD" tvg-logo="https://capas.cdnmedia.pro/images/d86c2455f7248a0bd12945187439ec01.png" group-title="Canais :: MUSICAS",Multishow FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73506
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://capas.cdnmedia.pro/images/d86c2455f7248a0bd12945187439ec01.png" group-title="Canais :: MUSICAS",Multishow HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73507
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow SD" tvg-logo="https://capas.cdnmedia.pro/images/d86c2455f7248a0bd12945187439ec01.png" group-title="Canais :: MUSICAS",Multishow SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73508
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E176.png" group-title="Canais :: MUSICAS",Music Box Brasil FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15756
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E176.png" group-title="Canais :: MUSICAS",Music Box Brasil HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15757
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E176.png" group-title="Canais :: MUSICAS",Music Box Brasil SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15758
+#EXTINF:-1 tvg-id="NBA League Pass 1 HD" tvg-name="NBA League Pass 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nbapass.png" group-title="Stream :: NBA LEAGUE PASS",NBA League Pass 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73229
+#EXTINF:-1 tvg-id="NBA League Pass 2 HD" tvg-name="NBA League Pass 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nbapass.png" group-title="Stream :: NBA LEAGUE PASS",NBA League Pass 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73230
+#EXTINF:-1 tvg-id="NBA League Pass 3 HD" tvg-name="NBA League Pass 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nbapass.png" group-title="Stream :: NBA LEAGUE PASS",NBA League Pass 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73231
+#EXTINF:-1 tvg-id="NBA League Pass 5 HD" tvg-name="NBA League Pass 5 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nbapass.png" group-title="Stream :: NBA LEAGUE PASS",NBA League Pass 5 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73232
+#EXTINF:-1 tvg-id="NBA League Pass 6 HD" tvg-name="NBA League Pass 6 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nbapass.png" group-title="Stream :: NBA LEAGUE PASS",NBA League Pass 6 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73233
+#EXTINF:-1 tvg-id="NBA League Pass 4 HD" tvg-name="NBA League Pass 7 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nbapass.png" group-title="Stream :: NBA LEAGUE PASS",NBA League Pass 7 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73234
+#EXTINF:-1 tvg-id="NBA League Pass 5 HD" tvg-name="NBA League Pass 8 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nbapass.png" group-title="Stream :: NBA LEAGUE PASS",NBA League Pass 8 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73235
+#EXTINF:-1 tvg-id="NBA League Pass 6 HD" tvg-name="NBA League Pass 9 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nbapass.png" group-title="Stream :: NBA LEAGUE PASS",NBA League Pass 9 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73236
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NFL Game Pass 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E090.jpeg" group-title="Stream :: NBA LEAGUE PASS",NFL Game Pass 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73237
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NFL Game Pass 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E090.jpeg" group-title="Stream :: NBA LEAGUE PASS",NFL Game Pass 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73238
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NFL Game Pass 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E090.jpeg" group-title="Stream :: NBA LEAGUE PASS",NFL Game Pass 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73239
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NFL Game Pass 4 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E090.jpeg" group-title="Stream :: NBA LEAGUE PASS",NFL Game Pass 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73240
+#EXTINF:-1 tvg-id="NHKBRHD" tvg-name="NHK HD" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/nhk.png" group-title="Canais :: MUNDO INTERNACIONAL",NHK HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73125
+#EXTINF:-1 tvg-id="NHKBRHD" tvg-name="NHK SD" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/nhk.png" group-title="Canais :: MUNDO INTERNACIONAL",NHK SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73126
+#EXTINF:-1 tvg-id="NKJRBRZ" tvg-name="Nick Jr FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E141.png" group-title="Canais :: INFANTIL",Nick Jr FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73513
+#EXTINF:-1 tvg-id="NJRBRHD" tvg-name="Nick Jr HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E141.png" group-title="Canais :: INFANTIL",Nick Jr HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73514
+#EXTINF:-1 tvg-id="NJRBRHD" tvg-name="Nick Jr SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E141.png" group-title="Canais :: INFANTIL",Nick Jr SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73515
+#EXTINF:-1 tvg-id="NICHD" tvg-name="Nickelodeon FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL",Nickelodeon FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73517
+#EXTINF:-1 tvg-id="NICHD" tvg-name="Nickelodeon HD" tvg-logo="https://capas.cdnmedia.pro/images/6cdeb392aa9df7a7b376808c5abc9d70.png" group-title="Canais :: INFANTIL",Nickelodeon HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73518
+#EXTINF:-1 tvg-id="NICHD" tvg-name="Nickelodeon SD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/nicklodeon.png" group-title="Canais :: INFANTIL",Nickelodeon SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73519
+#EXTINF:-1 tvg-id="ppv.br" tvg-name="Nosso Futebol +1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E092.png" group-title="Canais :: NOSSO FUTEBOL",Nosso Futebol +1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73218
+#EXTINF:-1 tvg-id="ppv.br" tvg-name="Nosso Futebol +2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E092.png" group-title="Canais :: NOSSO FUTEBOL",Nosso Futebol +2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73220
+#EXTINF:-1 tvg-id="ppv.br" tvg-name="Nosso Futebol +3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E092.png" group-title="Canais :: NOSSO FUTEBOL",Nosso Futebol +3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73222
+#EXTINF:-1 tvg-id="ppv.br" tvg-name="Nosso Futebol 4 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E092.png" group-title="Canais :: NOSSO FUTEBOL",Nosso Futebol 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73223
+#EXTINF:-1 tvg-id="NOVOTHD" tvg-name="Novo Tempo HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E164.png" group-title="Canais :: RELIGIÃO",Novo Tempo HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15551
+#EXTINF:-1 tvg-id="NOVOTHD" tvg-name="Novo Tempo SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E164.png" group-title="Canais :: RELIGIÃO",Novo Tempo SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15552
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NSports 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nsports.png" group-title="STREAM :: ESPORTES",NSports 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73521
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NSports 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nsports.png" group-title="STREAM :: ESPORTES",NSports 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73522
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NSports FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nsports.png" group-title="STREAM :: ESPORTES",NSports FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73523
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="NSports HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/nsports.png" group-title="STREAM :: ESPORTES",NSports HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73524
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="O Espetacular Homem-Aranha 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJvmshhAz4YvV-Uz666cR90xtGI4cshfgH7SkeA6i-qS.png" group-title="24 H ::: CLÁSSICOS DESENHOS",O Espetacular Homem-Aranha 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73359
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="OneFootball HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/onefootbal.png" group-title="STREAM :: ESPORTES",OneFootball HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73531
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Cavaleiros do Zodiaco 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbeAnFUdSd-hARozYA8xOw5zp9W0GRnKrY9PJLFf1CYGE.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Os Cavaleiros do Zodiaco 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73349
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Jetsons 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HCh88VrKzgjYknJFTC3hH7tXEhu2G0JkF8tRQAHTC96R.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Os Jetsons 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73346
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Simpsons 1 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJowIOvDhG0Ol5TPvlpyDG3S8pRa1zsyyKD6mgCdhBtg.png" group-title="24 H ::: CLÁSSICOS SÉRIES",Os Simpsons 1 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73371
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Simpsons 2 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJowIOvDhG0Ol5TPvlpyDG3S8pRa1zsyyKD6mgCdhBtg.png" group-title="24 H ::: CLÁSSICOS SÉRIES",Os Simpsons 2 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73372
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Simpsons 3 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJowIOvDhG0Ol5TPvlpyDG3S8pRa1zsyyKD6mgCdhBtg.png" group-title="24 H ::: CLÁSSICOS SÉRIES",Os Simpsons 3 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73373
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Os Simpsons 4 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HJowIOvDhG0Ol5TPvlpyDG3S8pRa1zsyyKD6mgCdhBtg.png" group-title="24 H ::: CLÁSSICOS SÉRIES",Os Simpsons 4 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73374
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E117.png" group-title="Canais :: FILMES E SÉRIES",Paramount Network FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15696
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E117.png" group-title="Canais :: FILMES E SÉRIES",Paramount Network HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15697
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E117.png" group-title="Canais :: FILMES E SÉRIES",Paramount Network SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15698
+#EXTINF:-1 tvg-id="Conmebol" tvg-name="Paramount+ 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E140.jpeg" group-title="Canais :: CONMEBOL PARAMOUNT+",Paramount+ 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73213
+#EXTINF:-1 tvg-id="Conmebol²" tvg-name="Paramount+ 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E140.jpeg" group-title="Canais :: CONMEBOL PARAMOUNT+",Paramount+ 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73215
+#EXTINF:-1 tvg-id="Conmebol³" tvg-name="Paramount+ 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E140.jpeg" group-title="Canais :: CONMEBOL PARAMOUNT+",Paramount+ 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73216
+#EXTINF:-1 tvg-id="PLSHOP" tvg-name="Polishop TV HD" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/polishop.png" group-title="Canais :: CORTESIA",Polishop TV HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15562
+#EXTINF:-1 tvg-id="PLSHOP" tvg-name="Polishop TV SD" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/polishop.png" group-title="Canais :: CORTESIA",Polishop TV SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15563
+#EXTINF:-1 tvg-id="PFCLHD" tvg-name="Premiere 1 Clubes HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 Clubes HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15639
+#EXTINF:-1 tvg-id="PFCLHD" tvg-name="Premiere 1 Clubes SD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 Clubes SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15640
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="Premiere 2 HD" tvg-logo="https://capas.cdnmedia.pro/images/53d5873fa7d80a46eb052931ffc39937.png" group-title="Canais :: PREMIERE",Premiere 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15643
+#EXTINF:-1 tvg-id="PR2SHD" tvg-name="Premiere 2 SD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15644
+#EXTINF:-1 tvg-id="PR3UHD" tvg-name="Premiere 3 HD" tvg-logo="https://capas.cdnmedia.pro/images/1dc20cd9560173d07be57b40d2beac61.png" group-title="Canais :: PREMIERE",Premiere 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15646
+#EXTINF:-1 tvg-id="PR3UHD" tvg-name="Premiere 3 SD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15647
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="Premiere 4 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15649
+#EXTINF:-1 tvg-id="PRMR4" tvg-name="Premiere 4 SD" tvg-logo="https://capas.cdnmedia.pro/images/be6f439e3a128d524fc272332d33c0c1.png" group-title="Canais :: PREMIERE",Premiere 4 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15650
+#EXTINF:-1 tvg-id="PRM5BR" tvg-name="Premiere 5 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15651
+#EXTINF:-1 tvg-id="PRM5BR" tvg-name="Premiere 5 SD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15652
+#EXTINF:-1 tvg-id="PRM6BRH" tvg-name="Premiere 6 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE",Premiere 6 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15653
+#EXTINF:-1 tvg-id="PRM6BR" tvg-name="Premiere 6 SD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE",Premiere 6 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15654
+#EXTINF:-1 tvg-id="PRM7BRH" tvg-name="Premiere 7 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE",Premiere 7 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15655
+#EXTINF:-1 tvg-id="PRM7BR" tvg-name="Premiere 7 SD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE",Premiere 7 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15656
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E178.png" group-title="Canais :: FILMES E SÉRIES",Prime Box Brasil FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15699
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E178.png" group-title="Canais :: FILMES E SÉRIES",Prime Box Brasil HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15700
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E178.png" group-title="Canais :: FILMES E SÉRIES",Prime Box Brasil SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15701
+#EXTINF:-1 tvg-id="RAIBR" tvg-name="RAI HD" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/rai.png" group-title="Canais :: MUNDO INTERNACIONAL",RAI HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73127
+#EXTINF:-1 tvg-id="RAIBR" tvg-name="RAI SD" tvg-logo="https://painelsbo.painel.life/logosiptv/mundo/rai.png" group-title="Canais :: MUNDO INTERNACIONAL",RAI SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73128
+#EXTINF:-1 tvg-id="rederecord.br" tvg-name="Record Campinas FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/10.png" group-title="Canais :: ABERTOS",Record Campinas FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/155291
+#EXTINF:-1 tvg-id="rederecord.br" tvg-name="Record Campinas HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/10.png" group-title="Canais :: ABERTOS",Record Campinas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676457
+#EXTINF:-1 tvg-id="rederecord.br" tvg-name="Record Campinas SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/10.png" group-title="Canais :: ABERTOS",Record Campinas SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676458
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="Record News FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS",Record News FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73150
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="Record News HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS",Record News HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73151
+#EXTINF:-1 tvg-id="RECNEWH" tvg-name="Record News SD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/recordnews.png" group-title="Canais :: NOTÍCIAS",Record News SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73152
+#EXTINF:-1 tvg-id="rederecord.br" tvg-name="Record SP FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/10.png" group-title="Canais :: ABERTOS",Record SP FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73539
+#EXTINF:-1 tvg-id="rederecord.br" tvg-name="Record SP HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/10.png" group-title="Canais :: ABERTOS",Record SP HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73540
+#EXTINF:-1 tvg-id="rederecord.br" tvg-name="Record SP SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/10.png" group-title="Canais :: ABERTOS",Record SP SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73541
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E161.png" group-title="Canais :: CORTESIA",Rede Brasil HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1008
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E161.png" group-title="Canais :: CORTESIA",Rede Brasil SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/154777
+#EXTINF:-1 tvg-id="REDEFAH" tvg-name="Rede Familia HD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/redefamilia.png" group-title="Canais :: CORTESIA",Rede Familia HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15533
+#EXTINF:-1 tvg-id="REDEFAH" tvg-name="Rede Familia SD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/redefamilia.png" group-title="Canais :: CORTESIA",Rede Familia SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15534
+#EXTINF:-1 tvg-id="MUNDLHD" tvg-name="Rede Mundial HD" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbkCOpseCmzeykrDZlw7o7Ea9bKqtkl8bWaJZvKh6RLOM.jpeg" group-title="Canais :: RELIGIÃO",Rede Mundial HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15537
+#EXTINF:-1 tvg-id="RSUPERH" tvg-name="Rede Super HD" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbmGFLx2M5yrr8Y2yF8Yv1VNmun8Y4vqrXFJZOMTYqzmJGJKj4tIWugrfAHVe5lIL5.png" group-title="Canais :: RELIGIÃO",Rede Super HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15538
+#EXTINF:-1 tvg-id="RSUPERH" tvg-name="Rede Super SD" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbmGFLx2M5yrr8Y2yF8Yv1VNmun8Y4vqrXFJZOMTYqzmJGJKj4tIWugrfAHVe5lIL5.png" group-title="Canais :: RELIGIÃO",Rede Super SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15539
+#EXTINF:-1 tvg-id="RS21HD" tvg-name="Rede Século 21 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E061.jpeg" group-title="Canais :: RELIGIÃO",Rede Século 21 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15540
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/12.png" group-title="Canais :: ABERTOS",Rede TV FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1010
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/12.png" group-title="Canais :: ABERTOS",Rede TV HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1011
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/12.png" group-title="Canais :: ABERTOS",Rede TV SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676460
+#EXTINF:-1 tvg-id="RDVDAHD" tvg-name="Rede Vida FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E162.png" group-title="Canais :: RELIGIÃO",Rede Vida FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15541
+#EXTINF:-1 tvg-id="RDVDAHD" tvg-name="Rede Vida HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E162.png" group-title="Canais :: RELIGIÃO",Rede Vida HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15542
+#EXTINF:-1 tvg-id="RDVDAHD" tvg-name="Rede Vida SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E162.png" group-title="Canais :: RELIGIÃO",Rede Vida SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15543
+#EXTINF:-1 tvg-id="TVRAHD" tvg-name="Rá Tim Bum FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E131.png" group-title="Canais :: INFANTIL",Rá Tim Bum FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15742
+#EXTINF:-1 tvg-id="TVRA" tvg-name="Rá Tim Bum HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E131.png" group-title="Canais :: INFANTIL",Rá Tim Bum HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15743
+#EXTINF:-1 tvg-id="TVRAHD" tvg-name="Rá Tim Bum SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E131.png" group-title="Canais :: INFANTIL",Rá Tim Bum SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15744
+#EXTINF:-1 tvg-id="Sabor e Arte HD" tvg-name="Sabor & Arte HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/saborearte.png" group-title="Canais :: VARIEDADES",Sabor & Arte HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73431
+#EXTINF:-1 tvg-id="Sabor e Arte SD" tvg-name="Sabor & Arte SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/saborearte.png" group-title="Canais :: VARIEDADES",Sabor & Arte SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73432
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Campinas FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/14.png" group-title="Canais :: ABERTOS",SBT Campinas FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73545
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Campinas HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/14.png" group-title="Canais :: ABERTOS",SBT Campinas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73546
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT CAMPINAS SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/14.png" group-title="Canais :: ABERTOS",SBT CAMPINAS SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676456
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/14.png" group-title="Canais :: ABERTOS",SBT SP FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73554
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/14.png" group-title="Canais :: ABERTOS",SBT SP HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73555
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC Internacional HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E154.png" group-title="Canais :: MUNDO INTERNACIONAL",SIC Internacional HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73129
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC Internacional SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E154.png" group-title="Canais :: MUNDO INTERNACIONAL",SIC Internacional SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73130
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://capas.cdnmedia.pro/images/7d97ef3932f0cc90513f91971575cc79.png" group-title="Canais :: FILMES E SÉRIES",Space FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15703
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://capas.cdnmedia.pro/images/7d97ef3932f0cc90513f91971575cc79.png" group-title="Canais :: FILMES E SÉRIES",Space HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15704
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://capas.cdnmedia.pro/images/7d97ef3932f0cc90513f91971575cc79.png" group-title="Canais :: FILMES E SÉRIES",Space SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15705
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 1 FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E120.png" group-title="Canais :: ESPORTES",SporTV 1 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15601
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E120.png" group-title="Canais :: ESPORTES",SporTV 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15602
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 1 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E120.png" group-title="Canais :: ESPORTES",SporTV 1 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15603
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://capas.cdnmedia.pro/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV 2 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15604
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://capas.cdnmedia.pro/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15605
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://capas.cdnmedia.pro/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="Canais :: ESPORTES",SporTV 2 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15606
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://capas.cdnmedia.pro/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="Canais :: ESPORTES",SporTV 3 FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15607
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://capas.cdnmedia.pro/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="Canais :: ESPORTES",SporTV 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15608
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://capas.cdnmedia.pro/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="Canais :: ESPORTES",SporTV 3 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15609
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="https://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES",Studio Universal FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73560
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES",Studio Universal HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73561
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://painelsbo.painel.life/logo/universalchannel.png" group-title="Canais :: FILMES E SÉRIES",Studio Universal SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73563
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Supergirl 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbXQ_g30khZU2fPbM04LCe8IcjEWqMF4Gnj85SAYIqK48.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Supergirl 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73564
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Superman A Série Animada 24H" tvg-logo="https://static.wixstatic.com/media/52876d_5f978c125ded4467a8864925dad3d8cf~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_5f978c125ded4467a8864925dad3d8cf~mv2.png" group-title="24 H ::: CLÁSSICOS DESENHOS",Superman A Série Animada 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73358
+#EXTINF:-1 tvg-id="SYFYBHD" tvg-name="USA Network FHD" tvg-logo="https://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES",USA Network FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73565
+#EXTINF:-1 tvg-id="SYFYBHD" tvg-name="USA Network HD" tvg-logo="https://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES",USA Network HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73566
+#EXTINF:-1 tvg-id="SYFYB" tvg-name="USA Network SD" tvg-logo="https://painelsbo.painel.life/newlogos/usa.png" group-title="Canais :: FILMES E SÉRIES",USA Network SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73567
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES E SÉRIES",TCM FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73568
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES E SÉRIES",TCM HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73569
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://painelsbo.painel.life/logo2/tcm.png" group-title="Canais :: FILMES E SÉRIES",TCM SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73570
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD" tvg-logo="https://capas.cdnmedia.pro/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="Canais :: TELECINE",Telecine Action FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/895
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="https://capas.cdnmedia.pro/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="Canais :: TELECINE",Telecine Action HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/896
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action SD" tvg-logo="https://capas.cdnmedia.pro/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="Canais :: TELECINE",Telecine Action SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/897
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://capas.cdnmedia.pro/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="Canais :: TELECINE",Telecine Cult FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/898
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="https://capas.cdnmedia.pro/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="Canais :: TELECINE",Telecine Cult HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/899
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult SD" tvg-logo="https://capas.cdnmedia.pro/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="Canais :: TELECINE",Telecine Cult SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/900
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/902
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/903
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun SD" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinefun.png" group-title="Canais :: TELECINE",Telecine Fun SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/904
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/906
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/907
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinepipoca.png" group-title="Canais :: TELECINE",Telecine Pipoca SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/908
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://capas.cdnmedia.pro/images/6e777ea30b2b81153d40d24b34d7db56.png" group-title="Canais :: TELECINE",Telecine Premium FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/910
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://capas.cdnmedia.pro/images/6e777ea30b2b81153d40d24b34d7db56.png" group-title="Canais :: TELECINE",Telecine Premium HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/911
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium SD" tvg-logo="https://capas.cdnmedia.pro/images/6e777ea30b2b81153d40d24b34d7db56.png" group-title="Canais :: TELECINE",Telecine Premium SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/912
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/telecinetouch.png" group-title="Canais :: TELECINE",Telecine Touch FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/914
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://capas.cdnmedia.pro/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="Canais :: TELECINE",Telecine Touch HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/915
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://capas.cdnmedia.pro/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="Canais :: TELECINE",Telecine Touch SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/916
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/terraviva.png" group-title="Canais :: CORTESIA",Terra Viva HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15564
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/terraviva.png" group-title="Canais :: CORTESIA",Terra Viva SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15565
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="ThunderCats 24H" tvg-logo="https://static.wixstatic.com/media/52876d_7be73ff1e2344e3cb5011c3e82b12f1a~mv2.png/v1/fill/w_222,h_186,al_c,q_80,usm_0.66_1.00_0.01/52876d_7be73ff1e2344e3cb5011c3e82b12f1a~mv2.png" group-title="24 H ::: CLÁSSICOS DESENHOS",ThunderCats 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73352
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES",TLC FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73433
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES",TLC HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73434
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://painelsbo.painel.life/logo2/tlchd.png" group-title="Canais :: VARIEDADES",TLC SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73435
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT  FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E129.png" group-title="Canais :: FILMES E SÉRIES",TNT  FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73575
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT  HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E129.png" group-title="Canais :: FILMES E SÉRIES",TNT  HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73576
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT  SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E129.png" group-title="Canais :: FILMES E SÉRIES",TNT  SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73577
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT Novelas FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES",TNT Novelas FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73578
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT Novelas HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES",TNT Novelas HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73579
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT Novelas SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/tntnovelas.png" group-title="Canais :: FILMES E SÉRIES",TNT Novelas SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73580
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="TNT Sports 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/tntsports.png" group-title="STREAM :: ESPORTES",TNT Sports 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15635
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="TNT Sports 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/tntsports.png" group-title="STREAM :: ESPORTES",TNT Sports 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15636
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries FHD" tvg-logo="https://capas.cdnmedia.pro/images/869eb17dae34498735c9d24359e0c524.png" group-title="Canais :: FILMES E SÉRIES",TNT Séries FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73582
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD" tvg-logo="https://capas.cdnmedia.pro/images/869eb17dae34498735c9d24359e0c524.png" group-title="Canais :: FILMES E SÉRIES",TNT Séries HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73583
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries SD" tvg-logo="https://capas.cdnmedia.pro/images/869eb17dae34498735c9d24359e0c524.png" group-title="Canais :: FILMES E SÉRIES",TNT Séries SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73584
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Todo Mundo Odeia o Chris 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbXQ_g30khZU2fPbM04LCe8FoJRLknBZOJabD4EQt6yP8.jpeg" group-title="24 H ::: CLÁSSICOS SÉRIES",Todo Mundo Odeia o Chris 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73375
+#EXTINF:-1 tvg-id="TBRAZUC" tvg-name="Trace Brazuca HD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/tracebrazucas.png" group-title="Canais :: MUSICAS",Trace Brazuca HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15759
+#EXTINF:-1 tvg-id="TBRAZUC" tvg-name="Trace Brazuca SD" tvg-logo="https://painelsbo.painel.life/logosiptv/musicais/tracebrazucas.png" group-title="Canais :: MUSICAS",Trace Brazuca SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15760
+#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/travelbosbrasil.png" group-title="Canais :: CORTESIA",Travel Box Brazil HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15566
+#EXTINF:-1 tvg-id="travelboxbrazil.br" tvg-name="Travel Box Brazil SD" tvg-logo="https://capas.cdnmedia.pro/images/c2d17ee235a3fa812e45716d1b9e724a.png" group-title="Canais :: CORTESIA",Travel Box Brazil SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15567
+#EXTINF:-1 tvg-id="APARHD" tvg-name="TV Aparecida FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/tvaparecida.png" group-title="Canais :: RELIGIÃO",TV Aparecida FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15544
+#EXTINF:-1 tvg-id="APARHD" tvg-name="TV Aparecida HD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/tvaparecida.png" group-title="Canais :: RELIGIÃO",TV Aparecida HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15545
+#EXTINF:-1 tvg-id="APARHD" tvg-name="TV Aparecida SD" tvg-logo="https://painelsbo.painel.life/logosiptv/religiao/tvaparecida.png" group-title="Canais :: RELIGIÃO",TV Aparecida SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15546
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvbrasil.png" group-title="Canais :: CORTESIA",TV Brasil HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/979
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/tvbrasil.png" group-title="Canais :: CORTESIA",TV Brasil SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/980
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/05.png" group-title="Canais :: ABERTOS",TV CULTURA FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676455
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/05.png" group-title="Canais :: ABERTOS",TV Cultura HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1012
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Abertos/05.png" group-title="Canais :: ABERTOS",TV Cultura SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676459
+#EXTINF:-1 tvg-id="TVEVCBA" tvg-name="TV Evangelizar HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E031.png" group-title="Canais :: RELIGIÃO",TV Evangelizar HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15547
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta HD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/gazeta.png" group-title="Canais :: CORTESIA",TV Gazeta HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15568
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta SD" tvg-logo="https://painelsbo.painel.life/logosiptv/cortesia/gazeta.png" group-title="Canais :: CORTESIA",TV Gazeta SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/154779
+#EXTINF:-1 tvg-id="allplay.br" tvg-name="TV Mais Brasil HD" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbRE7QpqLiQhmJZhwJFF8lbLWGHef0Ac-_AKeU8_Iy6DSfG1Q8vBGhVC_y2m7OYVC4.png" group-title="Canais :: VARIEDADES",TV Mais Brasil HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73586
+#EXTINF:-1 tvg-id="religioso.br" tvg-name="TV Pai Eterno HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E160.png" group-title="Canais :: RELIGIÃO",TV Pai Eterno HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15548
+#EXTINF:-1 tvg-id="religioso.br" tvg-name="TV Pai Eterno SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E160.png" group-title="Canais :: RELIGIÃO",TV Pai Eterno SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15549
+#EXTINF:-1 tvg-id="RS21HD" tvg-name="TV Seculo 21 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E061.jpeg" group-title="Canais :: RELIGIÃO",TV Seculo 21 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15550
+#EXTINF:-1 tvg-id="SENADOH" tvg-name="TV SENADO FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/tvsenado.png" group-title="Canais :: NOTÍCIAS",TV SENADO FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1014
+#EXTINF:-1 tvg-id="SENADOH" tvg-name="TV SENADO HD" tvg-logo="https://painelsbo.painel.life/logosiptv/noticias/tvsenado.png" group-title="Canais :: NOTÍCIAS",TV SENADO HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/1015
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="UFC Figth Pass 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/ufcfight.png" group-title="STREAM :: UFC FIGHT PASS",UFC Figth Pass 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73224
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="UFC Figth Pass 1 SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/ufcfight.png" group-title="STREAM :: UFC FIGHT PASS",UFC Figth Pass 1 SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73225
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="UFC Figth Pass 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/ufcfight.png" group-title="STREAM :: UFC FIGHT PASS",UFC Figth Pass 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73226
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="UFC Figth Pass 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/ufcfight.png" group-title="STREAM :: UFC FIGHT PASS",UFC Figth Pass 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73227
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="UFC Figth Pass 4 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/ufcfight.png" group-title="STREAM :: UFC FIGHT PASS",UFC Figth Pass 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73228
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel FHD" tvg-logo="https://capas.cdnmedia.pro/images/733005bacad554ce36d8ed2dbb24bbc9.png" group-title="Canais :: FILMES E SÉRIES",Universal Channel FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73588
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel HD" tvg-logo="https://capas.cdnmedia.pro/images/733005bacad554ce36d8ed2dbb24bbc9.png" group-title="Canais :: FILMES E SÉRIES",Universal Channel HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73589
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel SD" tvg-logo="https://capas.cdnmedia.pro/images/733005bacad554ce36d8ed2dbb24bbc9.png" group-title="Canais :: FILMES E SÉRIES",Universal Channel SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73590
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva FHD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E133.png" group-title="Canais :: VARIEDADES",Viva FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73439
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E133.png" group-title="Canais :: VARIEDADES",Viva HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73440
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva SD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E133.png" group-title="Canais :: VARIEDADES",Viva SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73441
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="https://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES",Warner Channel FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73593
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="https://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES",Warner Channel HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73594
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="https://painelsbo.painel.life/logo/canais/warner.png" group-title="Canais :: FILMES E SÉRIES",Warner Channel SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73595
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES",Woohoo FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73436
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES",Woohoo HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73437
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo SD" tvg-logo="https://painelsbo.painel.life/logosiptv/variedades/wohoo.png" group-title="Canais :: VARIEDADES",Woohoo SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73438
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="X-Men Evolution 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HIudU93WOsHxcBwJUW_PdBTGx1-DNYvuZYzVDksIv3XH.png" group-title="24 H ::: CLÁSSICOS DESENHOS",X-Men Evolution 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73353
+#EXTINF:-1 tvg-id="Zapping" tvg-name="Zapping Mix Esportes HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/zapping.png" group-title="STREAM :: ESPORTES",Zapping Mix Esportes HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73596
+#EXTINF:-1 tvg-id="Zapping" tvg-name="Zapping Sports 1 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/zapping.png" group-title="STREAM :: ESPORTES",Zapping Sports 1 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73597
+#EXTINF:-1 tvg-id="Zapping" tvg-name="Zapping Sports 2 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/zapping.png" group-title="STREAM :: ESPORTES",Zapping Sports 2 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73598
+#EXTINF:-1 tvg-id="Zapping" tvg-name="Zapping Sports 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Logo%20stremas/zapping.png" group-title="STREAM :: ESPORTES",Zapping Sports 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73599
+#EXTINF:-1 tvg-id="ZMHDBR" tvg-name="Zoomoo FHD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/zoomo.png" group-title="Canais :: INFANTIL",Zoomoo FHD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73600
+#EXTINF:-1 tvg-id="ZOOMOOH" tvg-name="Zoomoo HD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/zoomo.png" group-title="Canais :: INFANTIL",Zoomoo HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/73601
+#EXTINF:-1 tvg-id="ZMHDBR" tvg-name="Zoomoo SD" tvg-logo="https://painelsbo.painel.life/logosiptv/infantil/zoomo.png" group-title="Canais :: INFANTIL",Zoomoo SD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/15748
+#EXTINF:-1 tvg-id="ZYB622H" tvg-name="Record PR HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record PR HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676465
+#EXTINF:-1 tvg-id="ZYB773" tvg-name="Record SC HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record SC HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676466
+#EXTINF:-1 tvg-id="ZYB622" tvg-name="Record RS HD" tvg-logo="https://capas.cdnmedia.pro/images/c7639816c065d36a221bd7401fdf0ac9.png" group-title="Canais :: RECORD REGIONAIS",Record RS HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676467
+#EXTINF:-1 tvg-id="TROPIHD" tvg-name="Record RN HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record RN HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676468
+#EXTINF:-1 tvg-id="RRECCHD" tvg-name="Record MT HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record MT HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676469
+#EXTINF:-1 tvg-id="RECBELH" tvg-name="Record Manaus HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record Manaus HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676470
+#EXTINF:-1 tvg-id="RECSPHD" tvg-name="Record Nacional HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record Nacional HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676471
+#EXTINF:-1 tvg-id="RECGOIH" tvg-name="Record Goias HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record Goias HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676472
+#EXTINF:-1 tvg-id="RRECBRA" tvg-name="Record Brasilia HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record Brasilia HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676473
+#EXTINF:-1 tvg-id="RECBELH" tvg-name="Record Belem HD" tvg-logo="https://painelsbo.painel.life/logo/rederecord.png" group-title="Canais :: RECORD REGIONAIS",Record Belem HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676474
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E140.jpeg" group-title="Canais :: CONMEBOL PARAMOUNT+",Paramount+ 4 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676475
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - 90 Dias para Casar" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTb8mnFhO-iqcydEaVXudW1RUAm9bb7vKIzUpcy20NCIUebmYkJYjMM2gZA12iskRTw.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - 90 Dias para Casar
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676476
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Aeroporto Área Restrita" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTXDZW-eLzMXuy6Heyst2RojW-kX0870e0IMUuNLUwG1USVEv_xMkN7DdvvaVjfq9Ow.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Aeroporto Área Restrita
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676477
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Amor na Selva" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTY8CupgB4S55ZopxPIYQLPZPEAK3hRyoG-wP--3IHyuG.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Amor na Selva
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676478
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - As Piores Prisões do Mundo" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTXkqf2LQOYctNVqcyHilP0VCvjE0VWdnF54pX84e5uXvZYTPEeeupOgLbBzJNxFc0w.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - As Piores Prisões do Mundo
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676479
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Caçadores de Tempestades" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTTCjyddfnDZCQg7TkaY1XTzC2e3Todcc3xx6M7BTsUmo.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Caçadores de Tempestades
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676480
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Carros Irados" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTTCjyddfnDZCQg7TkaY1XTy1UF67hqv8nbQqxX6s-kwd.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Carros Irados
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676481
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Chaos in Court" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTVQoCBHosg-oTDX4UBJuhT9c3Cl3ezeANXwHGtYOEu5U.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Chaos in Court
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676482
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Crimes que Abalaram o Mundo" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTfooPRyBtzga8hzdeOmtak_GHvtUGfO-9HG9CHvttJ8nFVFCjZk24FoBN6TPgqabJw.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Crimes que Abalaram o Mundo
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676483
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Dupla do Barulho" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTWZnbUSd6Nn4Ik5iUpjyEDbLf_CTmUQ1_4LdSNCsnyx8.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Dupla do Barulho
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676484
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Febre do Ouro: Corredeiras do Alasca" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTSp-3IRXreSiL3C8WR9iWA5RXwov_zK3KNiUkigf79Pq.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Febre do Ouro: Corredeiras do Alasca
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676485
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Irmãos à Obra" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTY-mBwudbGIgN5cWyk1BuhxZsqtg6mHfh-ogqtkk5lLY.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Irmãos à Obra
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676486
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - O Crime Quase Perfeito" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTWcrY0JibFYooBhGJy7Hgy3ZNRWUVnPOy-YGadNPdo1NsPqtCBc3XGEjCMoGNfOJ6g.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - O Crime Quase Perfeito
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676487
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Operação Fronteira: América do Sul" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTWYxZ0f6ieKmDTGAwv6FJVhbItPSRKI-FBsk_AWzi68YGtUqTc4iBzv70AgRSm1TIg.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Operação Fronteira: América do Sul
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676488
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Pesca Mortal" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTQ1cuDbl-nkk6zFmM4tfhI3zmKIEJEGggTJ9FIMl6G0s.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Pesca Mortal
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676489
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Pit Bulls Condenados" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTWP1NwH4W0dhb7-OSQprVTcoE2uP6APKFkR5dvEhj68EcuwGp0HHCk_pJDay7LMQAQ.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Pit Bulls Condenados
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676490
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Reforma em Família com Karen e Mina" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTRYwwp5ZsWXm2GIJ1iEu79UZGCHWwreQ6VfdFhbI1VGN.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Reforma em Família com Karen e Mina
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676491
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus - Rumo ao Desconhecido: Especial De Volta para o Futuro" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTfwen8mTmUWj9zQWDXOm0bdUYDLhgaXkCU02mcaJfMctZOUZzJoZsjK3Z7jpZP2h2Q.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Rumo ao Desconhecido: Especial De Volta para o Futuro
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676492
+#EXTINF:-1 tvg-id="BBB 25" tvg-name="Discovery Plus - Vivendo com o Inimigo" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbNf_KbeUmlWQxbvBAaD_vTfZSGlmDUFv3EcUEIzRs_g7s4H8lK2u1Bdxv7XYDpici.png" group-title="24 H ::: DISCOVERY +",Discovery Plus - Vivendo com o Inimigo
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676493
+#EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/CanalCSI.png" group-title="24 H ::: SÉRIES",Canal CSI 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676494
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HKraZHAGkoW8-9MdGjE7bPC8Jf-JLHcBgS0hF-fNAXfK.png" group-title="24 H ::: SÉRIES",Chapolin 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676495
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/153.png" group-title="24 H ::: SÉRIES",Chaves 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676496
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineAction.png" group-title="24 H ::: SÉRIES",Cine Action 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676497
+#EXTINF:-1 tvg-id="" tvg-name="Cine Aventura 24H Ultra HD" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVblmvTRyQZ9OKUm1yzHhXnOlj7o8zlkyUNJVZR9zhN0h_hgJZ3v1WG4q-XjN2gFrQs.png" group-title="24 H ::: SÉRIES",Cine Aventura 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676498
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia" tvg-logo="" group-title="24 H ::: SÉRIES",Cine Comédia
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676499
+#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineDrama.png" group-title="24 H ::: SÉRIES",Cine Drama 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676500
+#EXTINF:-1 tvg-id="" tvg-name="Cine Family 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineFamily.png" group-title="24 H ::: SÉRIES",Cine Family 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676501
+#EXTINF:-1 tvg-id="" tvg-name="Cine Faroeste 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/cinefaroeste.png" group-title="24 H ::: SÉRIES",Cine Faroeste 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676502
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineFiction.png" group-title="24 H ::: SÉRIES",Cine Fiction 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676503
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fun 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineFun%20.png" group-title="24 H ::: SÉRIES",Cine Fun 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676504
+#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/cineguerra.png" group-title="24 H ::: SÉRIES",Cine Guerra 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676505
+#EXTINF:-1 tvg-id="" tvg-name="Cine Horror 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineHorror.png" group-title="24 H ::: SÉRIES",Cine Horror 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676506
+#EXTINF:-1 tvg-id="" tvg-name="Cine Nacionais 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/CineNacionais.png" group-title="24 H ::: SÉRIES",Cine Nacionais 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676507
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror" tvg-logo="http://dns.mmtv.me:80/images/mg9e4VnU5MiobcDarwnBsXQwVqjui8_uD6uwbKhfos0.png" group-title="24 H ::: SÉRIES",Cine Terror
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676508
+#EXTINF:-1 tvg-id="" tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/comoconhecisuamae.png" group-title="24 H ::: SÉRIES",Como eu Conheci a Sua Mae  24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676509
+#EXTINF:-1 tvg-id="" tvg-name="Cybercop 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbjI1bVIDWnqX7UkDzWa4QaPYrOTJV1oGJ_Y3nJu2b3ad0egRygER2g1qt7_CuwmaZ.png" group-title="24 H ::: SÉRIES",Cybercop 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676510
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="http://dns.mmtv.me:80/images/AetOeKfrWTDy8oYkKnqguR9ES-9K6SMgH6EIzMqMtsQWJEySA4grFXkgkxNVJsGejrRX1oKMfew8xoRrBxyy2O6TlDhVYrbDuAKsKhEh5UQ.png" group-title="24 H ::: SÉRIES",Dois Homens e Meio
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676511
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House 2 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/2/house.png" group-title="24 H ::: SÉRIES",Dr. House 2 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676512
+#EXTINF:-1 tvg-id="" tvg-name="Eu a patroa e as crianças 24H Ultra HD" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbXQ_g30khZU2fPbM04LCe8OghxqY80VnSYnw_cWzxiis.jpeg" group-title="24 H ::: SÉRIES",Eu a patroa e as crianças 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676513
+#EXTINF:-1 tvg-id="" tvg-name="Friends 24H Ultra HD" tvg-logo="http://assets.turbologo.com/blog/en/2019/12/19084751/friends-logo-cover-958x575.png" group-title="24 H ::: SÉRIES",Friends 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676514
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL & DC 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/Marvel&DC.png" group-title="24 H ::: SÉRIES",MARVEL & DC 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676515
+#EXTINF:-1 tvg-id="" tvg-name="Os 3 patetas 24H" tvg-logo="https://painelsbo.painel.life/24rodrigo/3patetas.png" group-title="24 H ::: SÉRIES",Os 3 patetas 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676516
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H" tvg-logo="https://painelsbo.painel.life/logosiptv/24horas/2/vingadores.png" group-title="24 H ::: SÉRIES",Os Vingadores 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676517
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24H" tvg-logo="https://capas.cdnmedia.pro/images/1f9508f568ebbdf305af7b1bd235ef2b.png" group-title="24 H ::: SÉRIES",The Big Bang Theory 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676518
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://painelsbo.painel.life/logo/todomundoodeiaocris.png" group-title="24 H ::: SÉRIES",Todo Mundo Odeia o Cris
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676519
+#EXTINF:-1 tvg-id="" tvg-name="Two And a Half Man 24H" tvg-logo="https://painelsbo.painel.life/logo/twoandhalfman.png" group-title="24 H ::: SÉRIES",Two And a Half Man 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676520
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/maluco.png" group-title="24 H ::: SÉRIES",Um Maluco no Pedaço
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676521
+#EXTINF:-1 tvg-id="" tvg-name="Diarios de um Vampiro 2009" tvg-logo="https://capas.cdnmedia.pro/images/af9cd24ab37d6ebd81d96fb44dae76f1.png" group-title="24 H ::: SÉRIES",Diarios de um Vampiro 2009
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676522
+#EXTINF:-1 tvg-id="" tvg-name="Smallville As Aventuras do Superboy 2001" tvg-logo="https://capas.cdnmedia.pro/images/9f8ad519ed599f99d34fcc618422e67e.png" group-title="24 H ::: SÉRIES",Smallville As Aventuras do Superboy 2001
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676523
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who (2005)" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbXQ_g30khZU2fPbM04LCe8Pvgym7l79ndtjdHcQXlJhM.jpeg" group-title="24 H ::: SÉRIES",Doctor Who (2005)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676524
+#EXTINF:-1 tvg-id="" tvg-name="Elementarissimo 2012" tvg-logo="https://capas.cdnmedia.pro/images/ee37ae3aae357f2835add714e21162c8.png" group-title="24 H ::: SÉRIES",Elementarissimo 2012
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676525
+#EXTINF:-1 tvg-id="" tvg-name="NCIS Los Angeles (2009)" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbXQ_g30khZU2fPbM04LCe8HjE-JV5YJugPLpTHuBbJVc.jpeg" group-title="24 H ::: SÉRIES",NCIS Los Angeles (2009)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676526
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família (2001)" tvg-logo="https://capas.cdnmedia.pro/images/ca3b5ee4a70a4665aaacee8cb36de7f5.jpg" group-title="24 H ::: SÉRIES",A Grande Família (2001)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676527
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead 2015" tvg-logo="https://capas.cdnmedia.pro/images/8dc66d84aeb2cb9d35f2cf5a2fa4f881.png" group-title="24 H ::: SÉRIES",Fear the Walking Dead 2015
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676528
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones 2011" tvg-logo="https://capas.cdnmedia.pro/images/eec1ac9b71f96229459caf14c30623e9.png" group-title="24 H ::: SÉRIES",Game of Thrones 2011
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676529
+#EXTINF:-1 tvg-id="" tvg-name="Lendas do Amanha 2016" tvg-logo="https://capas.cdnmedia.pro/images/6bd3b12ff66ba619b6f98ae85ea2cfa1.png" group-title="24 H ::: SÉRIES",Lendas do Amanha 2016
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676530
+#EXTINF:-1 tvg-id="" tvg-name="Lista Negra 2013" tvg-logo="https://capas.cdnmedia.pro/images/dc2ca51aeae97b2aee8eba89a856f61e.png" group-title="24 H ::: SÉRIES",Lista Negra 2013
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676531
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural 2005 - S01E01" tvg-logo="https://capas.cdnmedia.pro/images/48c82e0b753c85d711839f700d2fe25e.png" group-title="24 H ::: SÉRIES",Sobrenatural 2005 - S01E01
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676532
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things" tvg-logo="https://capas.cdnmedia.pro/images/f224197da20f7b17cab670eb1d91d72a.png" group-title="24 H ::: SÉRIES",Stranger Things
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676533
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl 2015" tvg-logo="https://capas.cdnmedia.pro/images/803e143d99e8b92f99c06106aa27d80a.png" group-title="24 H ::: SÉRIES",Supergirl 2015
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676534
+#EXTINF:-1 tvg-id="" tvg-name="Sob Pressao (2017)" tvg-logo="https://capas.cdnmedia.pro/images/8c760f128acdd269ceed165d74e425fa.jpg" group-title="24 H ::: SÉRIES",Sob Pressao (2017)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676535
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo (2012)" tvg-logo="https://capas.cdnmedia.pro/images/30771839cb7da9d1a6176325cac3b260.png" group-title="24 H ::: SÉRIES",Chicago Fire Herois Contra o Fogo (2012)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676536
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med Atendimento de Emergencia (2015)" tvg-logo="https://capas.cdnmedia.pro/images/1da81805e172749501cd2893b5b4daec.png" group-title="24 H ::: SÉRIES",Chicago Med Atendimento de Emergencia (2015)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676537
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. Distrito 21 (2014)" tvg-logo="http://xuione.cdnmax2.info:8080/images/TCw7h3_1DsWuahyvOzwmjr-e5684ZPRXwuLZ-GnnNUgPSHM1j5jCjsQedKVvypAWft7QL58Orn9norCXqXQLbWEB6M5vvPz1KjFv9QR9Kh-RiuFyT5EEiejz6IlkJHSjuzEWKz_6_cEB1nEdS33JMw.jpg" group-title="24 H ::: SÉRIES",Chicago P.D. Distrito 21 (2014)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676538
+#EXTINF:-1 tvg-id="" tvg-name="Anos Incríveis (1988)" tvg-logo="https://capas.cdnmedia.pro/images/e6729ef229cba01e0499cb7cec25ea2b.png" group-title="24 H ::: SÉRIES",Anos Incríveis (1988)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676539
+#EXTINF:-1 tvg-id="" tvg-name="220 Volts (2011)" tvg-logo="https://capas.cdnmedia.pro/images/d5a8411723c985bc8e5d4c6a304fd3c3.jpeg" group-title="24 H ::: SÉRIES",220 Volts (2011)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676540
+#EXTINF:-1 tvg-id="" tvg-name="Hospital New Amsterdam (2018)" tvg-logo="https://capas.cdnmedia.pro/images/7d6b14da7f7a54bc3888295ecf7c006d.png" group-title="24 H ::: SÉRIES",Hospital New Amsterdam (2018)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676541
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Raven (2017)" tvg-logo="https://capas.cdnmedia.pro/images/d297ff881498d856712cca960060b1d8.png" group-title="24 H ::: SÉRIES",A Casa da Raven (2017)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676542
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo Morto (2003)" tvg-logo="https://capas.cdnmedia.pro/images/aa15ca1477d8f11800d58e38b4d494c5.jpeg" group-title="24 H ::: SÉRIES",Arquivo Morto (2003)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676543
+#EXTINF:-1 tvg-id="" tvg-name="Buffy - A Ca‡a-Vampiros (1997)" tvg-logo="https://capas.cdnmedia.pro/images/060bbc4112c5b53d6b4b06305908ccb0.jpeg" group-title="24 H ::: SÉRIES",Buffy - A Ca‡a-Vampiros (1997)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676544
+#EXTINF:-1 tvg-id="" tvg-name="Csi Investigação Criminal (2000)" tvg-logo="https://capas.cdnmedia.pro/images/cd7826a6c83aaea642082a0edfe285e4.jpeg" group-title="24 H ::: SÉRIES",Csi Investigação Criminal (2000)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676545
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami (2002)" tvg-logo="https://capas.cdnmedia.pro/images/58a29c25652010c8329f374a75e8db93.jpeg" group-title="24 H ::: SÉRIES",CSI Miami (2002)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676546
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1992)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/136.png" group-title="24 H ::: INFANTIL",A Pequena Sereia (1992)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676607
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin (1994)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/138.png" group-title="24 H ::: INFANTIL",Aladdin (1994)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676608
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan (2000)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/139.png" group-title="24 H ::: INFANTIL",As Aventuras de Jackie Chan (2000)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676609
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Super Poderosas" tvg-logo="https://capas.cdnmedia.pro/images/0f28b5d49b3020afeecd95b4009adf4c.png" group-title="24 H ::: INFANTIL",As Meninas Super Poderosas
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676610
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes-r" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HCO6F36e4UEItKj_YylrAebucjKj_mwrfXyQEmhwTEb3.png" group-title="24 H ::: INFANTIL",Baby Looney Tunes-r
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676611
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 Omniverse (2012)" tvg-logo="https://capas.cdnmedia.pro/images/5bd8ef02e59ca6fe9a03ae7337b1d1e8.png" group-title="24 H ::: INFANTIL",Ben 10 Omniverse (2012)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676612
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Planeta (1990)" tvg-logo="https://capas.cdnmedia.pro/images/6345e4598e1aab9deacb6d8cc327a1ce.png" group-title="24 H ::: INFANTIL",Capitão Planeta (1990)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676613
+#EXTINF:-1 tvg-id="" tvg-name="CDZ Saga de Hades 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24 H ::: INFANTIL",CDZ Saga de Hades 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676614
+#EXTINF:-1 tvg-id="" tvg-name="CDZ Saga de Hades 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/150.png" group-title="24 H ::: INFANTIL",CDZ Saga de Hades 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676615
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 24H" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HKraZHAGkoW8-9MdGjE7bPC8Jf-JLHcBgS0hF-fNAXfK.png" group-title="24 H ::: INFANTIL",Chapolin 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676616
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 24H" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/153.png" group-title="24 H ::: INFANTIL",Chaves 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676617
+#EXTINF:-1 tvg-id="" tvg-name="Cine kids 24H Ultra HD" tvg-logo="https://painelsbo.painel.life/24rodrigo/Cinekids.png" group-title="24 H ::: INFANTIL",Cine kids 24H Ultra HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676618
+#EXTINF:-1 tvg-id="" tvg-name="O Laboratório de Dexter (1996)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/189.png" group-title="24 H ::: INFANTIL",O Laboratório de Dexter (1996)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676619
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso (1995)" tvg-logo="https://capas.cdnmedia.pro/images/0aa1883c6411f7873cb83dacb17b0afc.png" group-title="24 H ::: INFANTIL",O Pequeno Urso (1995)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676620
+#EXTINF:-1 tvg-id="" tvg-name="O Show da Luna (2014)" tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/192.png" group-title="24 H ::: INFANTIL",O Show da Luna (2014)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676621
+#EXTINF:-1 tvg-id="" tvg-name="Super Amigos (1973)" tvg-logo="https://capas.cdnmedia.pro/images/091d584fced301b442654dd8c23b3fc9.png" group-title="24 H ::: INFANTIL",Super Amigos (1973)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676623
+#EXTINF:-1 tvg-id="" tvg-name="Superman A Série Animada (1996)" tvg-logo="https://capas.cdnmedia.pro/images/69adc1e107f7f7d035d7baf04342e1ca.png" group-title="24 H ::: INFANTIL",Superman A Série Animada (1996)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676624
+#EXTINF:-1 tvg-id="" tvg-name="Sítio do Pica Pau Amarelo 24H" tvg-logo="https://capas.cdnmedia.pro/images/9e7da3c3f04f06aa6343b1530426fd5b.png" group-title="24 H ::: INFANTIL",Sítio do Pica Pau Amarelo 24H
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676625
+#EXTINF:-1 tvg-id="" tvg-name="ThunderCats (1983)" tvg-logo="http://xuione.cdnmax2.info:8080/images/DtwvE7ZZRx7WFHEN7-wTHAJjArde0GbHiymUxce1DlD_wtxx4AThmSByfJJVBJVbcwtJwnZ9iIlSmoW6gqM1HCXHp9VoQq6amnw24g9Eh1ns_rjNTB114fXQzv1sT35c.png" group-title="24 H ::: INFANTIL",ThunderCats (1983)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676626
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry (1975)" tvg-logo="https://capas.cdnmedia.pro/images/ca46c1b9512a7a8315fa3c5a946e8265.png" group-title="24 H ::: INFANTIL",Tom e Jerry (1975)
+http://proxy.maxpainel.net:8080/esdras1/esdras1/676627
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 3 HD" tvg-logo="https://painelsbo.painel.life/logoscanais/logosmax/logosmax/Canais/S02E078.jpeg" group-title="STREAM :: ESPORTES",Amazon Prime Video 3 HD
+http://proxy.maxpainel.net:8080/esdras1/esdras1/682465
+
 
 
 
