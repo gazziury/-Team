@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_47.mkv
-http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_66.mkv
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_71.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_32.mkv
 
 
@@ -11903,6 +11903,16 @@ http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_64.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_65.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 65
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_66.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 66
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_67.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 67
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_68.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 68
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_69.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 69
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_70.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o08c24rmmz6mnZzkTidr1gHTNix.jpg" group-title="Velvet: El nuevo imperio",Cap. 70
+http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_71.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2a/d3/99/2ad39910445a91dea9cd3a5be636f45a.jpg" group-title="Vencer el desamor",Cap. 01
 http://series.tuxchannel.mx/series/vencer_el_desamor/s_01_e_01.mkv
