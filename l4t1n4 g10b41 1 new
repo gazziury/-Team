@@ -743,13 +743,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7036
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8472
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="LATINA",AZTECA INTERNACIONAL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7037
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/96/A%2B_2021.svg.png/revision/latest?cb=20230308190351&path-prefix=es" group-title="LATINA",A MAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/A%2B_2021.svg" group-title="LATINA",A MAS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7617
-#EXTINF:-1,1004.AZTECA UNO -1HRS
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7335
-#EXTINF:-1,1005.AZTECA UNO
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png" group-title="LATINA",AZTECA UNO
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7039
-#EXTINF:-1,1005.AZTECA UNO HD (1080p)
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png" group-title="LATINA",AZTECA UNO HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7232
 #EXTINF:-1,1006.AZTECA 7
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7038
