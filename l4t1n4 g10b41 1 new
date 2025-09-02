@@ -773,11 +773,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7334
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7241
 #EXTINF:-1 tvg-logo="https://tvcuatro.tv/wp-content/uploads/2023/02/logo_footer.png" group-title="LATINA",CANAL 4 MX
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7199
-#EXTINF:-1,1433.RCN XTRA
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7351
-#EXTINF:-1,1017.IMAGEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="LATINA",IMAGEN
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7186
-#EXTINF:-1,1017.IMAGEN TV HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="LATINA",IMAGEN HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7239
 #EXTINF:-1,1018.APRENDE TV
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7203
