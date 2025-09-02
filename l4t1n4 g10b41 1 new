@@ -669,10 +669,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7624
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7628
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="LATINA",CIUDAD MAGAZINE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7625
-
-#EXTINF:-1,1426.MULTIMEDIOS COSTA RICA
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7651
-#EXTINF:-1,1428.PANAMERICANA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Logotipo_de_Panamericana_Televisi%C3%B3n_%282014-2020%29.svg" group-title="LATINA",PANAMERICANA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7632
 #EXTINF:-1,1431.RCN INTERNACIONAL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7646
