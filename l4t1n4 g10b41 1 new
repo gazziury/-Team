@@ -749,9 +749,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7617
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7039
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png" group-title="LATINA",AZTECA UNO HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7232
-#EXTINF:-1,1006.AZTECA 7
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7038
-#EXTINF:-1,1403.AMERICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="LATINA",AMERICA TELEVISION
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7441
 #EXTINF:-1,1006.AZTECA 7 HD (1080p)
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7233
