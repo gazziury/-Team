@@ -699,11 +699,11 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7607
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7605
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/2560px-NBC_Universo_logo.svg.png" group-title="LATINA",NBC UNIVERSO
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7606
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO INT
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7593
-#EXTINF:-1,1104.TELEMUNDO 47 HQ (16:9)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telemundo_47_%282018%29.svg/1219px-Telemundo_47_%282018%29.svg.png" group-title="LATINA",TELEMUNDO 47 HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7317
-#EXTINF:-1,1105.TELEMUNDO 47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Telemundo_47_%282018%29.svg/1219px-Telemundo_47_%282018%29.svg.png" group-title="LATINA",TELEMUNDO 47
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7595
 #EXTINF:-1,1106.TELEMUNDO HOUSTON
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7451
