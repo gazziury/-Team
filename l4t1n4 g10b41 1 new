@@ -763,9 +763,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7482
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7483
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="LATINA",CANAL 6 JUAREZ
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7173
-#EXTINF:-1,1014.CANAL NUEVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="LATINA",CANAL NUEVE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7120
-#EXTINF:-1,1014.CANAL NUEVE HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="LATINA",CANAL NUEVE HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7245
 #EXTINF:-1,1422.LN+
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7334
