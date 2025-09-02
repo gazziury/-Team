@@ -639,11 +639,12 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7635
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7636
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="LATINA",HBO SIGNATURE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8499
-
-
-
-#EXTINF:-1,1534.PARAMOUNT US
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="USA",PARAMOUNT NETWORK
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7586
+
+
+
+
 
 #EXTINF:-1,0004.HBO 2 USA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8503
