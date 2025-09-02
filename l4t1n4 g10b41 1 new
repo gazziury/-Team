@@ -687,9 +687,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7648
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7650
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="LATINA",TELEFE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7630
-#EXTINF:-1,1450.VTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="LATINA",VTV 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7618
-#EXTINF:-1,1451.VTV PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png" group-title="LATINA",VTV PLUS
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7619
 #EXTINF:-1,1452.VOLVER 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7626
