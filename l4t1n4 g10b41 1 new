@@ -781,11 +781,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7239
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7352
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" group-title="LATINA",TELEPACÍFICO
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7157
-#EXTINF:-1,1021.LAS ESTRELLAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/230px-Las_Estrellas_logo_%282016%29.svg.png" group-title="LATINA",LAS ESTRELLAS 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7454
-#EXTINF:-1,1021.LAS ESTRELLAS HD (1080p)
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7231
-#EXTINF:-1,1020.LAS ESTRELLAS -2HRS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/230px-Las_Estrellas_logo_%282016%29.svg.png" group-title="LATINA",LAS ESTRELLAS 2 HRS 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7442
 #EXTINF:-1,1415.CR EXTREMA TV
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7188
