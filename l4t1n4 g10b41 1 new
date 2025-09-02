@@ -643,14 +643,13 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8499
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7586
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LATINA",HBO 2
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8503
-
-
-
-
-
-
-#EXTINF:-1,1525.HISTORY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="USA",HISTORY CHANNEL
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8475
+
+
+
+
+
 
 #EXTINF:-1,1528.LIFETIME
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7583
@@ -698,7 +697,6 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7646
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7647
 #EXTINF:-1,1430.RCN NOVELAS 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7639
-
 #EXTINF:-1,1437.TV PERU 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7637
 #EXTINF:-1,1438.TELE ANTOQUIA
