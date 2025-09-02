@@ -799,11 +799,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7182
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7457
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logotipo_de_Televisa.svg" group-title="LATINA",TELEVISA GUADALAJARA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7458
-#EXTINF:-1,1027.UNICABLE
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7163
-#EXTINF:-1,1027.UNICABLE HD (1080p)
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7244
-#EXTINF:-1,1441.TV PUBLICA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="LATINA",TV PUBLICA 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7493
 #EXTINF:-1,1028.ENLACE 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7494
