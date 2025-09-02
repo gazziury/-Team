@@ -1,1197 +1,817 @@
 #EXTM3U
-#EXTINF:-1,0100.AMC HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7029
-#EXTINF:-1,0100.AMC HD  (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7236
-#EXTINF:-1,0101.AZ CINEMA INOLVIDABLE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7034
-#EXTINF:-1,0101.AZ CINEMA INOLVIDABLE HD (720P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8412
-#EXTINF:-1,0102.CINECANAL 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7357
-#EXTINF:-1,0102.CINECANAL HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7090
-#EXTINF:-1,0102.CINECANAL HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7219
-#EXTINF:-1,0103.CINEMAX 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7337
-#EXTINF:-1,0103.CINEMAX HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7091
-#EXTINF:-1,0103.CINEMAX HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7220
-#EXTINF:-1,1533.POP
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7356
-#EXTINF:-1,0105.CINE DINAMITA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7460
-#EXTINF:-1,0117.SONY CHANNEL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7474
-#EXTINF:-1,0106.DE PELICULA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7194
-#EXTINF:-1,0106.DE PELICULA HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7278
-#EXTINF:-1,0107.DE PELICULA PLUS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7099
-#EXTINF:-1,0107.DE PELICULA PLUS HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7279
-#EXTINF:-1,0108.DHE 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7477
-#EXTINF:-1,0109.EUROPA EUROPA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7190
-#EXTINF:-1,0110.FX  
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7332
-#EXTINF:-1,0110.FX HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7119
-#EXTINF:-1,0110.FX HD (1080P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7223
-#EXTINF:-1,0111.FILM AND ARTS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7191
-#EXTINF:-1,0112.GOLDEN 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7174
-#EXTINF:-1,0112.GOLDEN HD (1080P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8452
-#EXTINF:-1,0113.GOLDEN EDGE 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7123
-#EXTINF:-1,0113.GOLDEN EDGE HD (1080P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8464
-#EXTINF:-1,0114.GOLDEN PLUS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7124
-#EXTINF:-1,0114.GOLDEN PLUS HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7224
-#EXTINF:-1,0100.AMC 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7187
-#EXTINF:-1,LA LEY Y EL ORDEN INTENTO CRIMINAL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7358
-#EXTINF:-1,0118.SONY MOVIE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7029
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7236
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg" group-title="LATINA",AZ CINEMA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7034
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg" group-title="LATINA",CANAL DE LAS ESTRELLAS HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8412
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7357
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7090
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7219
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7337
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7091
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7220
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Pop_2015_Red.svg" group-title="USA",POP
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7356
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_m1il2uGPwFEmHlqAZTaPhpSY-oEuPgV-YR8FQqWNL7lv-Ev2CDFe_2zV9G4P5bpkNWUVj83zxKqUguDBYbgxC6gan0CBYgPoSX2NbgXI1BdFtWQdGIblZi4T0QGKC-f_UhK_qhMpYCE/s0/depelicula-2021.png" group-title="LATINA",DE PELICULA HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7194
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_m1il2uGPwFEmHlqAZTaPhpSY-oEuPgV-YR8FQqWNL7lv-Ev2CDFe_2zV9G4P5bpkNWUVj83zxKqUguDBYbgxC6gan0CBYgPoSX2NbgXI1BdFtWQdGIblZi4T0QGKC-f_UhK_qhMpYCE/s0/depelicula-2021.png" group-title="LATINA",DE PELICULA FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7278
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="LATINA",DE PELICULA PLUS HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7099
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="LATINA",DE PELICULA PLUS FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7279
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/640px-Canal_DHE_logo.svg.png" group-title="LATINA",DHE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7477
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="LATINA",EUROPA EUROPA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7190
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="LATINA",FX  
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7332
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="LATINA",FX HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7119
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="LATINA",FX FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7223
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="LATINA",FILM & ARTS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7191
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="LATINA",GOLDEN 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7174
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="LATINA",GOLDEN FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8452
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/330px-Golden_Edge_Logo_2020.png" group-title="LATINA",GOLDEN EDGE 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7123
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/330px-Golden_Edge_Logo_2020.png" group-title="LATINA",GOLDEN EDGE FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8464
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2qFlFV3NZaCw7URyeIuFi33_TBrG-OI-Frm4dok3ci1UaZ4Ev5CKduyScYpz7l4tmxw-JCIeXBajM2pw5Oyqc5MFYTOrThlhdnzaxriIMA5z7i1dXnzYWRzcGMlru-yixvdaZPVrIJsPVfYqgE7dG25meRHex8etzoyvVIEUDWWUqzPazJJvmKMN6/s1600/golden-plus.png" group-title="LATINA",GOLDEN PLUS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7124
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2qFlFV3NZaCw7URyeIuFi33_TBrG-OI-Frm4dok3ci1UaZ4Ev5CKduyScYpz7l4tmxw-JCIeXBajM2pw5Oyqc5MFYTOrThlhdnzaxriIMA5z7i1dXnzYWRzcGMlru-yixvdaZPVrIJsPVfYqgE7dG25meRHex8etzoyvVIEUDWWUqzPazJJvmKMN6/s1600/golden-plus.png" group-title="LATINA",GOLDEN PLUS FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7224
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="LATINA",SONY MOVIES
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7359
-#EXTINF:-1,0115.PARAMOUNT CHANNEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/Paramount_Channel.svg" group-title="LATINA",PARAMOUNT CHANNEL 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7360
-#EXTINF:-1,0115.PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/Paramount_Channel.svg" group-title="LATINA",PARAMOUNT CHANNEL HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7180
-#EXTINF:-1,0115.PARAMOUNT CHANNEL HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/Paramount_Channel.svg" group-title="LATINA",PARAMOUNT CHANNEL FHD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7238
-#EXTINF:-1,3386.MOVISTAR DEPORTES PERU
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7397
-#EXTINF:-1,0116.PANICO 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png" group-title="LATINA",PANICO 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7478
-#EXTINF:-1,0117.SONY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/2048px-Sony_Channel_Logo_2019.svg.png" group-title="LATINA",SONY CHANNEL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7474
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/2048px-Sony_Channel_Logo_2019.svg.png" group-title="LATINA",SONY CHANNEL HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7377
-#EXTINF:-1,0117.SONY CHANNEL HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/2048px-Sony_Channel_Logo_2019.svg.png" group-title="LATINA",SONY CHANNEL FHD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7240
-#EXTINF:-1,0119.SPACE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="LATINA",SPACE 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7336
-#EXTINF:-1,0119.SPACE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="LATINA",SPACE HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7151
-#EXTINF:-1,0119.SPACE HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="LATINA",SPACE FHD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7226
-#EXTINF:-1,0120.USA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="LATINA",USA 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7346
-#EXTINF:-1,0120.USA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="LATINA",USA HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7152
-#EXTINF:-1,0120.USA HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="LATINA",USA FHD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7227
-#EXTINF:-1,0121.STUDIO UNIVERSAL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="LATINA",STUDIO UNIVERSAL 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7343
-#EXTINF:-1,0121.STUDIO UNIVERSAL  HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="LATINA",STUDIO UNIVERSAL HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7217
-#EXTINF:-1,0121.STUDIO UNIVERSAL HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="LATINA",STUDIO UNIVERSAL FHD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7243
-#EXTINF:-1,0004.HBO ZONE USA (dual)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/2560px-HBO_Zone_%282014%29.svg.png" group-title="LATINA",HBO ZONE
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7472
-#EXTINF:-1,0007.STARZ CINEMA (dual)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/2560px-Starz_Cinema_logo.svg.png" group-title="USA",STARZ CINEMA
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8518
-#EXTINF:-1,0122.TNT 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="LATINA",TNT 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7371
-#EXTINF:-1,0122.TNT HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="LATINA",TNT HD 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7158
-#EXTINF:-1,0122.TNT HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="LATINA",TNT FHD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7235
-#EXTINF:-1,1543.TBS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7153
-#EXTINF:-1,0123.TCM
+#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/8/0/803900.png" group-title="LATINA",TCM
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7154
-#EXTINF:-1,0200.ANIMAL PLANET 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LATINA",ANIMAL PLANET 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7368
-#EXTINF:-1,0200.ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LATINA",ANIMAL PLANET HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7030
-#EXTINF:-1,0213.DW
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7615
-#EXTINF:-1,0201.DISCOVERY CHANNEL 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7367
-#EXTINF:-1,0201.DISCOVERY CHANNEL HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7092
-#EXTINF:-1,0201.DISCOVERY CHANNEL HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7222
-#EXTINF:-1,0203.DISCOVERY HYH 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7093
-#EXTINF:-1,0203.DISCOVERY HYH HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7450
-#EXTINF:-1,0203.DISCOVERY HYH HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7251
-#EXTINF:-1,0204.DISCOVERY INVESTIGATION  
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7340
-#EXTINF:-1,0204.DISCOVERY INVESTIGATION HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7128
-#EXTINF:-1,0204.DISCOVERY INVESTIGATION HD (1080P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7258
-#EXTINF:-1,1535.SUNDANCE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7381
-#EXTINF:-1,0205.DISCOVERY TURBO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7103
-#EXTINF:-1,0205.DISCOVERY TURBO HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7273
-#EXTINF:-1,1546.WETV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7380
-#EXTINF:-1,0206.DISCOVERY TLC 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7102
-#EXTINF:-1,0206.DISCOVERY TLC HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7320
-#EXTINF:-1,0206.DISCOVERY TLC HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7254
-#EXTINF:-1,0207.DISCOVERY TEATHER
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7101
-#EXTINF:-1,0207.DISCOVERY THEATER HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7468
-#EXTINF:-1,0208.DISCOVERY WORLD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7104
-#EXTINF:-1,0208.DISCOVERY WORLD HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7469
-#EXTINF:-1,0209.DISCOVERY SCIENCE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7100
-#EXTINF:-1,0210.DISCOVERY ESPAÑOL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7613
-#EXTINF:-1,0211.DISCOVERY FAMILIA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7614
-#EXTINF:-1,0005.5 STARMAX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8510
-#EXTINF:-1,0004.HBO COMEDY USA (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8276
-#EXTINF:-1,0214.E! ENTERTAINMENT
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7043
-#EXTINF:-1,0214.E! ENTERTAINMENT HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7250
-#EXTINF:-1,0215.EL GOURMET
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7125
-#EXTINF:-1,0215.EL GOURMET HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8405
-#EXTINF:-1,0216.FOOD NETWORK
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7172
-#EXTINF:-1,0217.HGTV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7204
-#EXTINF:-1,0217.HGTV HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7443
-#EXTINF:-1,0219.HISTORY 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7126
-#EXTINF:-1,0219.HISTORY HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7225
-#EXTINF:-1,0220.HISTORY 2 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7353
-#EXTINF:-1,0220.HISTORY 2 HD (1080p) 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7476
-#EXTINF:-1,0221.MAS CHIC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7130
-#EXTINF:-1,0221.MAS CHIC HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8407
-#EXTINF:-1,0224.NAT GEO 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7379
-#EXTINF:-1,0224.NAT GEO HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7253
-#EXTINF:-1,0227.WOBI
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7168
-#EXTINF:-1,0300.AYM SPORTS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7033
-#EXTINF:-1,0301.AZTECA DEPORTES
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7201
-#EXTINF:-1,0302.ADRENALINA SPORT HD (1080P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8424
-#EXTINF:-1,1509.CBS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8425
-#EXTINF:-1,0902.BEIN SPORT N
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7769
-#EXTINF:-1,0902.BEIN SPORTS XTRA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7777
-#EXTINF:-1,0902.BEIN SPORT 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7770
-#EXTINF:-1,0902.BEIN SPORT 4
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7771
-#EXTINF:-1,0902.BEIN SPORT 5
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7772
-#EXTINF:-1,0902.BEIN SPORT 6
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7773
-#EXTINF:-1,0902.BEIN SPORT 7
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7774
-#EXTINF:-1,0902.BEIN SPORT 8
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7775
-#EXTINF:-1,0307.CLARO SPORTS 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7378
-#EXTINF:-1,0904.CBS SPORTNET
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7858
-#EXTINF:-1,0905.COWBOY 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7556
-#EXTINF:-1,0906.D4ZENE 1
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7797
-#EXTINF:-1,0906.D4ZENE 2 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7798
-#EXTINF:-1,0906.D4ZN F1
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7801
-#EXTINF:-1,0925.MAVTV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7446
-#EXTINF:-1,0907.DIRECTV SPORTS 2 ARG
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7811
-#EXTINF:-1,0308.CALIENTE TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7812
-#EXTINF:-1,0908.DIRECTV SPORTS  COL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7815
-#EXTINF:-1,0902.BEIN SPORT 3
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7365
-#EXTINF:-1,0309.ESPN 1 MEX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7105
-#EXTINF:-1,0309.ESPN 1 MEX HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7275
-#EXTINF:-1,0310.ESPN 2 MEX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7107
-#EXTINF:-1,0310.ESPN 2 MEX HD (1080p) 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7237
-#EXTINF:-1,0311.ESPN 3 MEX HD (1080P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8411
-#EXTINF:-1,0311.ESPN 3 MEX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7108
-#EXTINF:-1,0005.ACTIONMAX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7793
-#EXTINF:-1,0313.ESPN DEPORTES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7796
-#EXTINF:-1,0911.ESPN 1 ARG 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7790
-#EXTINF:-1,0911.ESPN 2 ARG 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7791
-#EXTINF:-1,0911.ESPN 3 ARG 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7792
-#EXTINF:-1,0911.ESPN 4 ARG
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7789
-#EXTINF:-1,0910.ESPN 1 USA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7794
-#EXTINF:-1,0910.ESPN 2 USA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7795
-#EXTINF:-1,0913.EUROSPORTS 1 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7828
-#EXTINF:-1,0913..EUROSPORTS 2 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7829
-#EXTINF:-1,0921.GOLPLAY
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7361
-#EXTINF:-1,0314.FOX SPORTS 1 MEX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7118
-#EXTINF:-1,0907.DIRECTV PLUS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7310
-#EXTINF:-1,0314.FOX SPORTS 1 MEX HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7248
-#EXTINF:-1,1524.HGTV 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7362
-#EXTINF:-1,0315.FOX SPORTS 2 MEX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7117
-#EXTINF:-1,0919.FUTV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7311
-#EXTINF:-1,0315.FOX SPORTS 2 MEX HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7247
-#EXTINF:-1,0316.FOX SPORTS 3 SD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7363
-#EXTINF:-1,0316.FOX SPORTS 3 HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7176
-#EXTINF:-1,0317.FOX SPORTS PREMIUM MEX  
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7171
-#EXTINF:-1,0918.FOX SPORTS 3 ARG 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7782
-#EXTINF:-1,0318.FOX DEPORTES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7787
-#EXTINF:-1,0917.FOX SOCCER PLUS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7788
-#EXTINF:-1,0918.FOX SPORTS 1 ARG 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7780
-#EXTINF:-1,0918.FOX SPORTS 2 ARG 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7781
-#EXTINF:-1,0915.FOX SPORTS 1 USA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7785
-#EXTINF:-1,0916.FOX SPORTS 2 USA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7786
-#EXTINF:-1,0319.GOLF CHANNEL 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7177
-#EXTINF:-1,0922.GOL TV LATINO 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7805
-#EXTINF:-1,0906.D4ZN L4 L1ga
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7806
-#EXTINF:-1,3459.MOVISTAR  LIGA DE CAMPEONES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7807
-#EXTINF:-1,3452.MOVISTAR DEPORTES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7802
-#EXTINF:-1,3383.MOVISTAR GOLF 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7803
-#EXTINF:-1,3449.MOVISTAR L4 L1G4 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7804
-#EXTINF:-1,0320.MLB NET 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7818
-#EXTINF:-1,0929.NBC SPORT NET 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7854
-#EXTINF:-1,0929.NBC SPORT NET BOSTON
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7855
-#EXTINF:-1,0929.NBC SPORT NET CALIFORNIA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7856
-#EXTINF:-1,0929.NBC SPORT NET CHICAGO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7857
-#EXTINF:-1,0321.NBA TV 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7817
-#EXTINF:-1,0322.NFL NET 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7819
-#EXTINF:-1,0932.OUTDOOR CHANNEL 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7823
-#EXTINF:-1,0323.PX SPORT
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7148
-#EXTINF:-1,0900.AT&T SPORTS NET 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7859
-#EXTINF:-1,0937.SPECTRUM SPORTS NET LA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7830
-#EXTINF:-1,0934.SPORT FOOTBALL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7322
-#EXTINF:-1,0006.MGM (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7864
-#EXTINF:-1,0324.TUDN MEX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7202
-#EXTINF:-1,0324.TUDN MEX (720p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7764
-#EXTINF:-1,0325.TUDN MEX HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7276
-#EXTINF:-1,0326.TUDN USA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7765
-#EXTINF:-1,0326.TUDN USA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7754
-#EXTINF:-1,0942.TENNIS CHANNEL 1
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7820
-#EXTINF:-1,0944.TYC SPORT 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7821
-#EXTINF:-1,0931.ONETORO HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7824
-#EXTINF:-1,0949.TELEDEPORTES
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7853
-#EXTINF:-1,0327.TVC DEPORTES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7170
-#EXTINF:-1,0327.TVC DEPORTES HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7249
-#EXTINF:-1,0945.TNT SPORT ARG
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7832
-#EXTINF:-1,0946.TNT SPORTS CHILE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7833
-#EXTINF:-1,0946.TNT SPORT 2 CHILE 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7848
-#EXTINF:-1,0005.MAXLATINO (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7834
-#EXTINF:-1,0948.TIGOSPORTS HON
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7849
-#EXTINF:-1,0948..TIGO SPORTS COSTA RICA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7850
-#EXTINF:-1,0948.TIGO SPORTS BOLIVIA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7851
-#EXTINF:-1,0950.UFC FIGHT PASS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7825
-#EXTINF:-1,0952.WIN SPORTS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7826
-#EXTINF:-1,0952.WIN SPORTS PLUS 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7827
-#EXTINF:-1,0954.WWE NETWORK
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7831
-#EXTINF:-1,0328.ZONA TUDN USA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7763
-#EXTINF:-1,0714.MTV U
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7339
-#EXTINF:-1,0400.A&E
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7032
-#EXTINF:-1,0400.A&E HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7285
-#EXTINF:-1,0401.AXN
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7031
-#EXTINF:-1,0402.AXN HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7321
-#EXTINF:-1,0413.TNT NOVELAS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7218
-#EXTINF:-1,0403.BITME
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7200
-#EXTINF:-1,0403.BITME HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7114
-#EXTINF:-1,0702.D99
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7345
-#EXTINF:-1,0404.COMEDY CENTRAL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7089
-#EXTINF:-1,0404.COMEDY CENTRAL HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7221
-#EXTINF:-1,0405.DISTRITO COMEDIA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7097
-#EXTINF:-1,0405.DISTRITO COMEDIA HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7277
-#EXTINF:-1,0406.GARAGE TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7121
-#EXTINF:-1,0407.HOLA TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7127
-#EXTINF:-1,0008.STARZ ENCORE ACTION (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8406
-#EXTINF:-1,0408.LIFETIME
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7129
-#EXTINF:-1,0408.LIFETIME HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7242
-#EXTINF:-1,0409.PASIONES
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7479
-#EXTINF:-1,1542.TCM
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7328
-#EXTINF:-1,0410.STAR CHANNEL 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7115
-#EXTINF:-1,0410.STAR CHANNEL HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7252
-#EXTINF:-1,0600.ADULT SWIM
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7161
-#EXTINF:-1,0709.MTV LIVE USA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7372
-#EXTINF:-1,0411.TNT SERIES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7159
-#EXTINF:-1,0411.TNT SERIES HD (1080P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7228
-#EXTINF:-1,0412.TL NOVELA HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8451
-#EXTINF:-1,0713.MTV HITS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7373
-#EXTINF:-1,0420.WARNER
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7167
-#EXTINF:-1,0421.WARNER HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7230
-#EXTINF:-1,0500.GOLDEN PREMIER 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7309
-#EXTINF:-1,0502.HBO 1 MEX  (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7323
-#EXTINF:-1,0503.HBO 1 MEX HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7431
-#EXTINF:-1,0504.HBO 2 MEX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7325
-#EXTINF:-1,0505.HBO 2 MEX HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7432
-#EXTINF:-1,0506.HBO PLUS MEX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7324
-#EXTINF:-1,0507.HBO PLUS MEX HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7434
-#EXTINF:-1,0508.HBO FAMILY MEX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7326
-#EXTINF:-1,0509.HBO FAMILY MEX HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7433
-#EXTINF:-1,0511.HBO SIGNATURE MEX HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7435
-#EXTINF:-1,0512.HBO XTREME MEX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7327
-#EXTINF:-1,0513.HBO XTREME MEX HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7437
-#EXTINF:-1,0514.HBO POP MEX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7305
-#EXTINF:-1,0515.HBO POP MEX HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7438
-#EXTINF:-1,0516.HBO MUNDI MEX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7304
-#EXTINF:-1,0517.HBO MUNDI MEX HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7436
-#EXTINF:-1,SUPERMAN 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7424
-#EXTINF:-1,0601.BABY FIRST
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7181
-#EXTINF:-1,PIRATAS DEL CARIBE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7428
-#EXTINF:-1,0602.BABY TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7189
-#EXTINF:-1,0603.CARTOONITO 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7384
-#EXTINF:-1,0712.MTV CLUB
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7041
-#EXTINF:-1,0603.CARTOONITO HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7246
-#EXTINF:-1,1414.CANAL DE LA CIUDAD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7341
-#EXTINF:-1,0604.CARTOON NETWORK
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7088
-#EXTINF:-1,0604.CARTOON NETWORK HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7234
-#EXTINF:-1,1434.RCN NUESTRA TELE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7369
-#EXTINF:-1,0605.DISCOVERY KIDS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7098
-#EXTINF:-1,0605.DISCOVERY KIDS HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7274
-#EXTINF:-1,0606.DREAMWORKS CHANNEL 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7470
-#EXTINF:-1,1432.RCN NOVELAS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7374
-#EXTINF:-1,0607.DISNEY CHANNEL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7095
-#EXTINF:-1,0607.DISNEY CHANNEL HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7473
-#EXTINF:-1,0608.DISNEY JUNIOR
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7094
-#EXTINF:-1,0608.DISNEY JUNIOR HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8404
-#EXTINF:-1,0501.GOLDEN PREMIER 2
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7386
-#EXTINF:-1,0609.NICK
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7142
-#EXTINF:-1,0609.NICK HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7255
-#EXTINF:-1,0610.NICK JUNIOR 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7143
-#EXTINF:-1,0613.ONCE NIÑOS 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7347
-#EXTINF:-1,BATMAN 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7400
-#EXTINF:-1,0611.TEEN NICK
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7144
-#EXTINF:-1,0610.NICK JUNIOR HD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7318
-#EXTINF:-1,SPIDERMAN 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7403
-#EXTINF:-1,0612.TOONCAST
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7160
-#EXTINF:-1,0700.BANDAMAX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7040
-#EXTINF:-1,0707.MTV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7133
-#EXTINF:-1,0312.ESPN 4 MEX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7485
-#EXTINF:-1,0708.MTV LIVE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7132
-#EXTINF:-1,0710.MTV 00s
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7131
-#EXTINF:-1,0715.NICK MUSIC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7145
-#EXTINF:-1,0717.TELEHIT PLUS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7149
-#EXTINF:-1,0718.TELEHIT 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7156
-#EXTINF:-1,0716.TELERITMO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7196
-#EXTINF:-1,0704.EXA TV 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7349
-#EXTINF:-1,0711.MTV 80s
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7165
-#EXTINF:-1,0706.MOVISTAR MUSICA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7166
-#EXTINF:-1,.DISNEY LIVE ACTION
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7491
-#EXTINF:-1,0801.ADN 40
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7147
-#EXTINF:-1,1324.CUATRO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8409
-#EXTINF:-1,0805.CNN USA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7178
-#EXTINF:-1,0806.CNN ESPAÑOL SD (4:3)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7382
-#EXTINF:-1,0809.FOX BUSINESS NETWORK
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7179
-#EXTINF:-1,0806.CNN ESPAÑOL (1080P)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7444
-#EXTINF:-1,0808.EXCELSIOR TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7195
-#EXTINF:-1,0810.FOX NEWS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7192
-#EXTINF:-1,0811.EL FINANCIERO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7109
-#EXTINF:-1,0812.FORO TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7110
-#EXTINF:-1,0813.FRANCE 24
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7459
-#EXTINF:-1,0814.MILENIO HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7455
-#EXTINF:-1,0817.RT NOTICIAS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7616
-#EXTINF:-1,0818.TELEFORMULA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7155
-#EXTINF:-1,0414.UNIVERSAL 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7338
-#EXTINF:-1,0414.UNIVERSAL HD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7164
-#EXTINF:-1,0414.UNIVERSAL HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7229
-#EXTINF:-1,1303.AMC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7329
-#EXTINF:-1,0415.UNIVERSAL CRIME 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7464
-#EXTINF:-1,1307.BBC DRAMA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7306
-#EXTINF:-1,0416.UNIVERSAL COMEDY 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7467
-#EXTINF:-1,1315.CANAL SUR
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7313
-#EXTINF:-1,0417.UNIVERSAL CINEMA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7465
-#EXTINF:-1,1318.COSMO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7314
-#EXTINF:-1,0418.UNIVERSAL PREMIER 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7466
-#EXTINF:-1,1319.CRIMEN E INVESTIGACION
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7307
-#EXTINF:-1,0419.UNIVERSAL REALITY  
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7463
-#EXTINF:-1,1306.ANTENA 3
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7513
-#EXTINF:-1,1301.A3 SERIES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7530
-#EXTINF:-1,1302.A3 CINE 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7531
-#EXTINF:-1,1304.AXN
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8456
-#EXTINF:-1,1305.AXN MOVIES
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7543
-#EXTINF:-1,1309.BOING
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8454
-#EXTINF:-1,1308.BE MAD 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7529
-#EXTINF:-1,1512.CRIMEN INVESTIGACION 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7533
-#EXTINF:-1,1310.CANAL 24 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8453
-#EXTINF:-1,1311.CANAL COCINA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7544
-#EXTINF:-1,1312.CUATRO 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7514
-#EXTINF:-1,1313.CANAL EXTREMADURA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8463
-#EXTINF:-1,1314.CASTILLA LA MANCHA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8465
-#EXTINF:-1,1316.CLAN
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8455
-#EXTINF:-1,1317.CAZA Y PESCA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8466
-#EXTINF:-1,0202.DISCOVERY CHANNEL ESP
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8459
-#EXTINF:-1,0212.DMAX
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7537
-#EXTINF:-1,1326.DIVINITY 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7539
-#EXTINF:-1,0200.ANIMAL PLANET HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="LATINA",ANIMAL PLANET FHD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7257
-#EXTINF:-1,1327.DISNEY CHANNEL 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8458
-#EXTINF:-1,1328.DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="LATINA",DW
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7615
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="LATINA",DISCOVERY CHANNEL 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7367
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="LATINA",DISCOVERY CHANNEL HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7092
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="LATINA",DISCOVERY CHANNEL FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7222
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="LATINA",DISCOVERY H&H 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7093
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="LATINA",DISCOVERY H&H HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7450
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="LATINA",DISCOVERY H&H FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7251
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/640px-InvestigationDiscoveryLogo2020.svg.png" group-title="LATINA",DISCOVERY ID 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7340
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/640px-InvestigationDiscoveryLogo2020.svg.png" group-title="LATINA",DISCOVERY ID HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7128
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/640px-InvestigationDiscoveryLogo2020.svg.png" group-title="LATINA",DISCOVERY ID FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7258
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png" group-title="USA",SUNDANCE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7381
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="LATINA",DISCOVERY TURBO
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7103
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="LATINA",DISCOVERY TURBO HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7320
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="LATINA",DISCOVERY TURBO FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7273
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/330px-TLC-Logo_2016.png" group-title="LATINA",DISCOVERY TLC 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7102
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/330px-TLC-Logo_2016.png" group-title="LATINA",DISCOVERY TLC FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7254
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINA",DISCOVERY TEATHER
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7101
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINA",DISCOVERY TEATHER HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7468
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="LATINA",DISCOVERY WORLD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7104
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="LATINA",DISCOVERY WORLD HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7469
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/2560px-Discovery_Science_-_Logo_2012.svg.png" group-title="LATINA",DISCOVERY SCIENCE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7100
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Discovery_Networks_logo_%283%29.svg/1200px-Discovery_Networks_logo_%283%29.svg.png" group-title="LATINA",DISCOVERY EN ESPAÑOL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7613
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Discovery_Familia_Logo_%282022%29.svg/640px-Discovery_Familia_Logo_%282022%29.svg.png" group-title="LATINA",DISCOVERY FAMILIA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7614
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/5starMax_2011.svg/revision/latest/scale-to-width-down/300?cb=20201110161556&path-prefix=es" group-title="USA",5 STARMAX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8510
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/2560px-HBO_Comedy_%282014%29.svg.png" group-title="USA",HBO COMEDY
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8276
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="LATINA",E! ENTERTAINMENT
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7043
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="LATINA",E! ENTERTAINMENT FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7250
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="LATINA",EL GOURMET
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7125
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="LATINA",EL GOURMET FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8405
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="LATINA",FOOD NETWORK
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7172
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="LATINA",HGTV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="LATINA",HGTV HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7443
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="LATINA",HISTORY 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7126
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="LATINA",HISTORY FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7225
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LATINA",HISTORY 2 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7353
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="LATINA",HISTORY 2 FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7476
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="LATINA",MAS CHIC
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7130
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="LATINA",MAS CHIC HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8407
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="LATINA",NAT GEO 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7379
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="LATINA",NAT GEO FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7253
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="LATINA",WOBI
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7168
+#EXTINF:-1 tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo_alter.png" group-title="LATINA",AYM SPORTS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7033
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png" group-title="LATINA",AZTECA DEPORTES
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7201
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png" group-title="LATINA",ADRENALINA SPORTS FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8424
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/CBS_%28Blue%29.svg" group-title="USA",CBS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8425
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg" group-title="USA",BEIN SPORTS XTRA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7777
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="USA",BEIN SPORTS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7770
+#EXTINF:-1 tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2020/01/MAVTV_Black.png" group-title="USA",MAVTV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7446
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="LATINA",DIRECTV SPORTS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7815
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="LATINA",DIRECTV SPORTS 2
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7811
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="LATINA",DIRECTV SPORTS +
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7310
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Espn-Logo-PNG-Photo.png" group-title="LATINA",ESPN 1 MEX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7105
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Espn-Logo-PNG-Photo.png" group-title="LATINA",ESPN 1 MEX FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7275
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="LATINA",ESPN 2 MEX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7107
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="LATINA",ESPN 2 MEX FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7237
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LATINA",ESPN 3 MEX FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8411
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LATINA",ESPN 3 MEX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7108
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg" group-title="USA",ACTIONMAX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7793
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1200px-ESPN_Deportes.svg.png" group-title="LATINA",ESPN DEPORTES 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7796
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Espn-Logo-PNG-Photo.png" group-title="LATINA",ESPN 1 ARG 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7790
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="LATINA",ESPN 2 ARG 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7791
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LATINA",ESPN 3 ARG 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7792
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="LATINA",ESPN 4 ARG
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7789
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Espn-Logo-PNG-Photo.png" group-title="USA",ESPN 1 USA 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7794
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="USA",ESPN 2 USA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7795
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s" group-title="ESPAÑA",EUROSPORTS 1 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7828
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="ESPAÑA",EUROSPORTS 2 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7829
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" group-title="ESPAÑA",GOL PLAY
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7361
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="LATINA",FOX SPORTS 1 MEX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7118
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="LATINA",FOX SPORTS 1 MEX FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7248
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="USA",HGTV 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7362
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="LATINA",FOX SPORTS 2 MEX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7117
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="LATINA",FOX SPORTS 2 MEX FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7247
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="LATINA",FOX SPORTS 3
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7363
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="LATINA",FOX SPORTS 3 HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7176
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="LATINA",FOX SPORTS PREMIUM MEX  
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7171
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="LATINA",FOX DEPORTES 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7787
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png" group-title="LATINA",FOX SPORTS 2 ARG 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7781
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1280px-Fox_Sports_3_Argentina_2023.svg.png" group-title="LATINA",FOX SPORTS 3 ARG 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7782
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="LATINA",GOLF CHANNEL 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7177
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/800px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7807
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/NBA_TV.svg" group-title="USA",NBA TV 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7817
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="USA",OUTDOOR CHANNEL 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7823
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png" group-title="LATINA",PX SPORTS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7148
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MGM%2B_logo.svg" group-title="USA",MGM+
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7864
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="LATINA",TUDN MEX HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7764
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="LATINA",TUDN MEX FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7276
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="LATINA",TUDN USA 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7765
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="LATINA",TUDN USA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7754
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="LATINA",TYC SPORTS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7821
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="ESPAÑA",TELEDEPORTES
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7853
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJl7LdnwghXpdcw9OlPacIoM6Wl2InrLZ2g&s" group-title="LATINA",TVC DEPORTES 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7170
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJl7LdnwghXpdcw9OlPacIoM6Wl2InrLZ2g&s" group-title="LATINA",TVC DEPORTES FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7249
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/MaxLatino_2013.svg" group-title="LATINA",MAX LATINO
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7834
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="LATINA",TIGO SPORTS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7850
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="LATINA",TIGO SPORTS HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7851
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="LATINA",WIN SPORTS +
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7826
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="LATINA",WIN SPORTS + HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7827
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/2175px-WWE_official_logo.svg.png" group-title="USA",WWE NETWORK
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7831
+#EXTINF:-1 tvg-logo="https://iili.io/J2wureR.md.png" group-title="LATINA",ZONA TUDN
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7763
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg" group-title="USA",MTV U
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7339
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="LATINA",A&E
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7032
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="LATINA",A&E HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7285
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="LATINA",AXN
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7031
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="LATINA",AXN HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7321
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="LATINA",TNT NOVELAS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7218
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="LATINA",BITME
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7200
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="LATINA",BITME HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7114
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="LATINA",COMEDY CENTRAL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7089
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="LATINA",COMEDY CENTRAL HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7221
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="LATINA",DISTRITO COMEDIA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7097
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="LATINA",DISTRITO COMEDIA HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7277
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_2/large.gallery_5617_2_102815.png.a4bc960c1f68bea89c178b3b071ccd06.png" group-title="LATINA",GARAGE TV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7121
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Revista_%C2%A1Hola%21_logo.svg/1200px-Revista_%C2%A1Hola%21_logo.svg.png" group-title="LATINA",HOLA TV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7127
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Starz_Encore_Action.svg" group-title="LATINA",STARZ ENCORE ACTION
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8406
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="LATINA",LIFETIME
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7129
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="LATINA",LIFETIME HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7242
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="LATINA",PASIONES
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7479
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="LATINA",TCM
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7328
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="LATINA",STAR CHANNEL 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7115
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="LATINA",STAR CHANNEL HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7252
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1078px-MTV_Live_2021_logo.svg.png" group-title="USA",MTV LIVE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7372
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINA",TNT SERIES 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7159
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINA",TNT SERIES HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7228
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="LATINA",TLN NOVELAS HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8451
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="LATINA",MTV HITS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7373
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Warner_Channel.svg" group-title="LATINA",WARNER
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7167
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Warner_Channel.svg" group-title="LATINA",WARNER HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7230
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_11/large.large.1689826971_GoldenPremier2020.png.55867f88ed97ec1141ed81ba0f75a494.png.926c708c6f8ba665429c99b39b760a32.png" group-title="LATINA",GOLDEN PREMIER 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7309
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINA",HBO 1 MEX 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7323
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="LATINA",HBO 1 MEX HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7431
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="LATINA",HBO 2 MEX 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7325
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="LATINA",HBO 2 MEX HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7432
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqt4OL-uBxFKPeIVA9FzYzIzxwb6wiaxfxKRoGHU_AmJyApzQ1BJvNAWQiTbpu0ovdOs9JbmqZ2_gv2MGoaeWnEGN9hHsu38zXLKHfGx9BgvuutjS34dP_IwZMSGuSjp05ghzYYqjphxM/s1141/HBO-plus-2019.png" group-title="LATINA",HBO PLUS MEX 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7324
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqt4OL-uBxFKPeIVA9FzYzIzxwb6wiaxfxKRoGHU_AmJyApzQ1BJvNAWQiTbpu0ovdOs9JbmqZ2_gv2MGoaeWnEGN9hHsu38zXLKHfGx9BgvuutjS34dP_IwZMSGuSjp05ghzYYqjphxM/s1141/HBO-plus-2019.png" group-title="LATINA",HBO PLUS MEX HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7434
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1200px-HBO_Family.svg.png" group-title="LATINA",HBO FAMILY MEX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7326
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1200px-HBO_Family.svg.png" group-title="LATINA",HBO FAMILY MEX HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7433
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="LATINA",HBO SIGNATURE MEX HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7435
+#EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="LATINA",HBO XTREME MEX 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7327
+#EXTINF:-1 tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="LATINA",HBO XTREME MEX HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7437
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="LATINA",HBO POP MEX 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7305
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="LATINA",HBO POP MEX HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7438
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/640px-HBO_Mundi.svg.png" group-title="LATINA",HBO MUNDI MEX 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7304
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/640px-HBO_Mundi.svg.png" group-title="LATINA",HBO MUNDI MEX HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7436
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg" group-title="LATINA",BABY FIRST
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7181
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png" group-title="LATINA",BABY TV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7189
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="LATINA",CARTOONITO 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7384
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="LATINA",CARTOONITO HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7246
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/1200px-Club_MTV_2021_logo.svg.png" group-title="USA",MTV CLUB
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7041
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="LATINA",CANAL DE LA CIUDAD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7341
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="LATINA",CARTOON NETWORK
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7088
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="LATINA",CARTOON NETWORK HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" group-title="LATINA",RCN NUESTRA TELE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7369
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg" group-title="LATINA",DISCOVERY KIDS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7098
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="LATINA",RCN NOVELAS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7374
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="LATINA",DISNEY CHANNEL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7095
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="LATINA",DISNEY CHANNEL HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7473
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/2560px-2024_Disney_Jr._Logo.svg.png" group-title="LATINA",DISNEY JUNIOR
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7094
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/2560px-2024_Disney_Jr._Logo.svg.png" group-title="LATINA",DISNEY JUNIOR HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8404
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/2560px-2024_Disney_Jr._Logo.svg.png" group-title="LATINA",DISNEY JUNIOR FHD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8471
-#EXTINF:-1,1330.ENERGY 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7536
-#EXTINF:-1,1332.FDF
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7540
-#EXTINF:-1,1333.FOX 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7541
-#EXTINF:-1,1334.GALICIA TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7534
-#EXTINF:-1,0218.HISTORIA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7545
-#EXTINF:-1,1335.HOLLYWOOD
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7448
-#EXTINF:-1,1336.LA 1
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7511
-#EXTINF:-1,1337.LA 2
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7512
-#EXTINF:-1,1338.LA SEXTA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7516
-#EXTINF:-1,1339.MEGA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7528
-#EXTINF:-1,0005.MOVIEMAX (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7519
-#EXTINF:-1,1340.MOVISTAR SERIES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7520
-#EXTINF:-1,1341.MOVISTAR ACCION 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7521
-#EXTINF:-1,1342.MOVISTAR COMEDIA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7522
-#EXTINF:-1,1343.MOVISTAR DRAMA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7523
-#EXTINF:-1,1344.MOVISTAR CINE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7524
-#EXTINF:-1,0225.NATIONAL GEOGRAPHIC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7525
-#EXTINF:-1,1351.NEOX 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7526
-#EXTINF:-1,1352.NOVA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7527
-#EXTINF:-1,0008.STARZ ENCORE SUSPENSE (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8467
-#EXTINF:-1,0955.YES NET
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8468
-#EXTINF:-1,1353.NICKELODEON
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8469
-#EXTINF:-1,1355.ODISEA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8461
-#EXTINF:-1,1356.PARAMOUNT
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7535
-#EXTINF:-1,1357.STAR TVE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7135
-#EXTINF:-1,1358.SYFY
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8460
-#EXTINF:-1,1359.TCM
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8457
-#EXTINF:-1,1360.TELECINCO 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7515
-#EXTINF:-1,0951.VAMOS 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7518
-#EXTINF:-1,1501.AMC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7552
-#EXTINF:-1,1503.ANIMAL PLANET 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7546
-#EXTINF:-1,1508.CARTOON NET
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7557
-#EXTINF:-1,1502.ABC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7558
-#EXTINF:-1,1500.A&E 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7564
-#EXTINF:-1,1507.BOOMERANG 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7453
-#EXTINF:-1,1504.BRAVO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7568
-#EXTINF:-1,0802.BLOOMBERG
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8478
-#EXTINF:-1,0812.FORO TV HD
+#EXTINF:-1 tvg-logo="https://www.cablevisionhd.com/imge/goldenpremier21.png" group-title="LATINA",GOLDEN PREMIER 2
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7386
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="LATINA",NICK
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7142
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="LATINA",NICK HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7255
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="LATINA",NICK JUNIOR 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7143
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="LATINA",NICK JUNIOR HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7318
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Once_Ni%C3%B1os.png" group-title="LATINA",ONCE NIÑOS 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7347
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/1200px-TeenNick_2019_logo.svg.png" group-title="LATINA",TEEN NICK
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7144
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="LATINA",TOONCAST
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7160
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/1280px-Bandamax_logo.svg.png" group-title="LATINA",BANDAMAX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7040
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="LATINA",MTV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7133
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="LATINA",ESPN 4 MEX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7485
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1078px-MTV_Live_2021_logo.svg.png" group-title="USA",MTV LIVE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7132
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="USA",MTV 00s
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7131
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="USA",MTV 00s
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7165
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="USA",NICK MUSIC
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7145
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/9/94/20210718014829%21Telehit_M%C3%BAsica_Plus_logo.png/120px-Telehit_M%C3%BAsica_Plus_logo.png" group-title="LATINA",TELEHIT PLUS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7149
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="LATINA",TELEHIT 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7156
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Teleritmo_2023.png" group-title="LATINA",TELERITMO
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7196
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="LATINA",EXA TV 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7349
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="LATINA",ADN 40
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7147
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/2560px-Cuatro.svg.png" group-title="ESPAÑA",CUATRO
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8409
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/2560px-Cuatro.svg.png" group-title="ESPAÑA",CUATRO HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7514
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="USA",CNN USA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="LATINA",CNN EN ESPAÑOL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7382
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="LATINA",CNN EN ESPAÑOL HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7444
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/960px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="LATINA",IMAGEN TV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7195
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/38/14/c6/3814c6d1750a9429579dfd9698d68cbf.jpg" group-title="LATINA",EL FINANCIERO
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7109
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="LATINA",FORO TV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7110
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="LATINA",FORO TV HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8479
-#EXTINF:-1,0807.HERALDO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7549
-#EXTINF:-1,0804.CNBC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7550
-#EXTINF:-1,BONES 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7555
-#EXTINF:-1,1510.COMEDY CENTRAL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7566
-#EXTINF:-1,1516.DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="LATINA",FRANCE 24
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7459
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="LATINA",MILENIO HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7455
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="LATINA",RT NOTICIAS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7616
+#EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png" group-title="LATINA",TELEFORMULA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7155
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Universal_Pictures_logo.svg" group-title="LATINA",UNIVERSAL 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7338
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Universal_Pictures_logo.svg" group-title="LATINA",UNIVERSAL HD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7164
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Universal_Pictures_logo.svg" group-title="LATINA",UNIVERSAL FHD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7229
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="ESPAÑA",AMC
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7329
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg" group-title="LATINA",UNIVERSAL CRIME 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7464
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg" group-title="LATINA",UNIVERSAL COMEDY 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7467
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CanalSur1.svg/1200px-CanalSur1.svg.png" group-title="ESPAÑA",CANAL SUR
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7313
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg" group-title="LATINA",UNIVERSAL CINEMA 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7465
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_COSMO.png/1200px-LOGO_COSMO.png" group-title="ESPAÑA",COSMO
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7314
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Universal_Premiere.svg/1200px-Universal_Premiere.svg.png" group-title="LATINA",UNIVERSAL PREMIERE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7466
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg" group-title="LATINA",UNIVERSAL REALITY  
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7463
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/1116px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="ESPAÑA",ANTENA 3
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7513
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Atreseries_2020.svg" group-title="ESPAÑA",A3SERIES 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7530
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" group-title="ESPAÑA",A3CINE 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7531
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="ESPAÑA",AXN
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8456
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg" group-title="ESPAÑA",AXN MOVIES
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7543
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="ESPAÑA",BOING
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8454
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/langca-120px-BeMad_2022_Logo.svg.png" group-title="ESPAÑA",BE MAD 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7529
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="USA",CRIMEN + INVESTIGACION 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7533
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/1200px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",CANAL 24 H
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8453
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_canal-cocina.svg" group-title="ESPAÑA",CANAL COCINA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7544
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/CEXMA_new.png" group-title="ESPAÑA",CANAL EXTREMADURA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8463
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="ESPAÑA",CLAN
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8455
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png" group-title="ESPAÑA",CAZA Y PESCA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8466
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_Channel2019_%28stacked%29.svg" group-title="ESPAÑA",DISCOVERY CHANNEL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8459
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/2560px-DMAX_Spain_2023_Logo.svg.png" group-title="ESPAÑA",DMAX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7537
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1051px-Divinity.svg.png" group-title="ESPAÑA",DIVINITY 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7539
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/330px-Energy.svg.png" group-title="ESPAÑA",ENERGY 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7536
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA",FDF
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7540
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/2560px-Star_Channel_2020.svg.png" group-title="ESPAÑA",STAR CHANNEL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7541
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/2048px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ESPAÑA",GALICIA TV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7534
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="ESPAÑA",HISTORY
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7545
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="ESPAÑA",HOLLYWOOD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7448
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg" group-title="ESPAÑA",LA 1
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7511
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1900px-Logo_La_2.svg.png" group-title="ESPAÑA",LA 2
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7512
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/La_Sexta_%28A3M%29.svg" group-title="ESPAÑA",LA SEXTA 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7516
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/MEGA.svg" group-title="ESPAÑA",MEGA 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7528
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA",MOVISTAR ACCION 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7521
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg" group-title="ESPAÑA",MOVISTAR COMEDIA 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7522
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg" group-title="ESPAÑA",MOVISTAR DRAMA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7523
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/HBO_Max_Logo_%28October_2019%29.svg" group-title="ESPAÑA",HBO MAX
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7524
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="ESPAÑA",NATIONAL GEOGRAPHIC
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7525
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/1012px-Neox_2023_logo.svg.png" group-title="ESPAÑA",NEOX 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7526
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nova.svg" group-title="ESPAÑA",NOVA 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7527
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/2560px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="USA",STARZ ENCORE SUSPENSE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8467
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg" group-title="USA",YES
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8468
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ODISEA
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8461
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="ESPAÑA",ODISEA HD
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7535
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ESPAÑA",STAR TVE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7135
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg" group-title="ESPAÑA",TELECINCO 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7515
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="USA",AMC
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7552
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="USA",ANIMAL PLANET 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7546
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1280px-Adult_Swim_2003_logo.svg.png" group-title="USA",ADULT SWIM 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7557
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png" group-title="USA",A&E 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7564
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="USA",BOOMERANG 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7453
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="USA",BRAVO
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7568
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svg" group-title="USA",BLOOMBERG
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8478
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="USA",DISCOVERY CHANNEL
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7547
-#EXTINF:-1,1516.DISCOVERY TLC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8477
-#EXTINF:-1,1517.DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg" group-title="USA",DISNEY CHANNEL
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7475
-#EXTINF:-1,FRAISER
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7471
-#EXTINF:-1,1518.E!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="USA",E! ENTERTAINMENT
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7588
-#EXTINF:-1,0004.HBO SIGNATURE USA (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8499
-#EXTINF:-1,0006.MGM DRIVE IN (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8500
-#EXTINF:-1,1534.PARAMOUNT US
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7586
-#EXTINF:-1,1520.FREEFORM
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7579
-#EXTINF:-1,CASTLE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7584
-#EXTINF:-1,0004.HBO 2 USA (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8503
-#EXTINF:-1,1525.HISTORY
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8475
-#EXTINF:-1,1527.ION
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7567
-#EXTINF:-1,1526.IFC
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8502
-#EXTINF:-1,1528.LIFETIME
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7583
-#EXTINF:-1,0816.MSNBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/MSNBC_logo_%282009-2015%29.svg" group-title="USA",MSNBC
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7551
-#EXTINF:-1,1529.NBC 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7565
-#EXTINF:-1,1530.NAT GEO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="USA",NAT GEO 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8476
-#EXTINF:-1,1532.OXYGEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="USA",OXYGEN
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7581
-#EXTINF:-1,1536.SMITHSONIAN CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/SmithsonianChannellogo.png" group-title="USA",SMITHSONIAN CHANNEL
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7548
-#EXTINF:-1,0006.MGM MARQUEE (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7590
-#EXTINF:-1,0005.MOREMAX (dual)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg" group-title="LATINA",MOREMAX
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7591
-#EXTINF:-1,0006.MGM HITS (dual)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7592
-#EXTINF:-1,1544.TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="USA",TNT 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7569
-#EXTINF:-1,1545.USA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7580
-#EXTINF:-1,1400.A24
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2025/02/A24-Logo-2025.png" group-title="LATINA",A24
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7620
-#EXTINF:-1,1401.AMERICA TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="LATINA",AMERICA TV 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7621
-#EXTINF:-1,1402.ATV PLUS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png" group-title="LATINA",ATV PLUS 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7634
-#EXTINF:-1,1411.CARACOL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7643
-#EXTINF:-1,1404.CARACOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="LATINA",CARACOL INTERNACIONAL
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7640
-#EXTINF:-1,1449.VTV CHILE
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/VTV-Los-Andes-en-vivo-Online.png" group-title="LATINA",VTV CHILE
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7623
-#EXTINF:-1,1406.CANAL 4 uy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="LATINA",CANAL 4 URUGUAY
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7631
-#EXTINF:-1,1407.CINE AR
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7642
-#EXTINF:-1,1408.CHILEVISION 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7638
-#EXTINF:-1,1409.CANAL 4 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="LATINA",CANAL 4 URUGUAY HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7635
-#EXTINF:-1,1410.CANAL 10
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Canal_10_%282006%29.svg/revision/latest/scale-to-width-down/180?cb=20250403123626&path-prefix=es" group-title="LATINA",CANAL 10 URUGUAY
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7636
-#EXTINF:-1,1405.CITY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="LATINA",HBO SIGNATURE
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8499
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="USA",PARAMOUNT NETWORK
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7586
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LATINA",HBO 2
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8503
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="USA",HISTORY CHANNEL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8475
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="USA",LIFETIME
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7583
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/MGM_2021.svg" group-title="LATINA",MGM
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7592
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/USA_Network_2020.svg" group-title="USA",USA 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7580
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="LATINA",CARACOL
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7643
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="LATINA",CINE AR
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7642
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/8/84/Logotipo_de_radio_marti.png" group-title="LATINA",MARTÍ 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7638
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg" group-title="LATINA",CITY TV
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7641
-#EXTINF:-1,1418.EL TRECE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="LATINA",EL TRECE 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7622
-#EXTINF:-1,1417.EL NUEVE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="LATINA",EL NUEVE 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7627
-#EXTINF:-1,1419.ENCUENTRO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_del_canal_Encuentro.svg" group-title="LATINA",ENCUENTRO
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7624
-#EXTINF:-1,1423.LA RED
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg" group-title="LATINA",LA RED
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7628
-#EXTINF:-1,1424.MAGAZINE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="LATINA",CIUDAD MAGAZINE
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7625
-#EXTINF:-1,1425.MEGA 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7629
-#EXTINF:-1,1426.MULTIMEDIOS COSTA RICA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7651
-#EXTINF:-1,1428.PANAMERICANA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Logotipo_de_Panamericana_Televisi%C3%B3n_%282014-2020%29.svg" group-title="LATINA",PANAMERICANA 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7632
-#EXTINF:-1,1431.RCN INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/rcn.png" group-title="LATINA",RCN INTERNACIONAL
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7646
-#EXTINF:-1,1429.RCN COL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" group-title="LATINA",RCN COLOMBIA
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7647
-#EXTINF:-1,1430.RCN NOVELAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="LATINA",RCN NOVELAS 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7639
-#EXTINF:-1,LA LEY Y EL ORDEN
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7644
-#EXTINF:-1,1437.TV PERU 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Tv_Per%C3%BA_Internacional_-_Logo_2019_Reducido.svg" group-title="LATINA",TV PERU INTERNACIONAL
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7637
-#EXTINF:-1,1438.TELE ANTOQUIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Teleantioquia-2024Nuevo.png" group-title="LATINA",TELE ANTOQUIA
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7645
-#EXTINF:-1,1439.TICAVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/1200px-Teletica_Logo.png" group-title="LATINA",TELETICA
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7648
-#EXTINF:-1,1440.TELETICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/1200px-Teletica_Logo.png" group-title="LATINA",TELETICA HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7650
-#EXTINF:-1,.DREAMWORKS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7649
-#EXTINF:-1,1436.TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="LATINA",TELEFE
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7630
-#EXTINF:-1,1450.VTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="LATINA",VTV 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7618
-#EXTINF:-1,1451.VTV PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png" group-title="LATINA",VTV PLUS
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7619
-#EXTINF:-1,1452.VOLVER 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7626
-#EXTINF:-1,1453.WILLAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="LATINA",WILLAX
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7633
-#EXTINF:-1,1100.ESTRELLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="LATINA",ESTRELLA TV
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7607
-#EXTINF:-1,1101.GALAVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Galavision_Logo_2024.svg" group-title="LATINA",GALAVISION
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7605
-#EXTINF:-1,1102.NBC UNIVERSO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/2560px-NBC_Universo_logo.svg.png" group-title="LATINA",NBC UNIVERSO
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7606
-#EXTINF:-1,1103.TELEMUNDO INTERNACIONAL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO INT
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7593
-#EXTINF:-1,1104.TELEMUNDO 47 HQ (16:9)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO 47 HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7317
-#EXTINF:-1,1105.TELEMUNDO 47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO 47
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7595
-#EXTINF:-1,1106.TELEMUNDO HOUSTON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO HOUSTON
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7451
-#EXTINF:-1,1107.TELEMUNDO 51
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO 51
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7594
-#EXTINF:-1,1108.TELEMUNDO 48
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO 48
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7596
-#EXTINF:-1,1109.TELEMUNDO CHICAGO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO CHICAGO
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7597
-#EXTINF:-1,1110.TELEMUNDO DENVER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO DENVER
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7603
-#EXTINF:-1,1111.TELEMUNDO TEXAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LATINA",TELEMUNDO TEXAS
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7604
-#EXTINF:-1,1119.UNIVISION LOS ANGELES HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="LATINA",UNIVISION LOS ANGELES
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7609
-#EXTINF:-1,1118.UNIVISION SAN FRANCISCO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="LATINA",UNIVISION SAN FRANCISCO 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7610
-#EXTINF:-1,1114.UNIVISION TEXAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="LATINA",UNIVISION TEXAS
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7611
-#EXTINF:-1,1115.UNIVISION MIAMI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="LATINA",UNIVISION MIAMI
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7612
-#EXTINF:-1,1116.UNIVISION CHICAGO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="LATINA",UNIVISION CHICAGO
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7778
-#EXTINF:-1,1117.UNIVISION HOUSTON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="LATINA",UNIVISION HOUSTON
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7779
-#EXTINF:-1,1120.UNIVISION TL NOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1200px-Univision_tlnovelas_%282019%29.svg.png" group-title="LATINA",UNIVISION TL NOVELAS
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7452
-#EXTINF:-1,0015.UNIMAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_UniM%C3%A1s.svg" group-title="LATINA",UNIMAS
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7608
-#EXTINF:-1,1001.AZ CLIC 
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png" group-title="LATINA",AZ CLIC 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7035
-#EXTINF:-1,1001.AZ CLIC HD (1080P)
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png" group-title="LATINA",AZ CLIC HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8473
-#EXTINF:-1,1002.AZ CORAZON
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaCorazon-2023oficial.png.dfd1210c8c39aff45c0c426f082e5c78.png" group-title="LATINA",AZ CORAZON
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7036
-#EXTINF:-1,1002.AZ CORAZON HD (1080P)
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaCorazon-2023oficial.png.dfd1210c8c39aff45c0c426f082e5c78.png" group-title="LATINA",AZ CORAZON HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/8472
-#EXTINF:-1,1003.AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="LATINA",AZTECA INTERNACIONAL
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7037
-#EXTINF:-1,1000.Amas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/A%2B_2021.svg" group-title="LATINA",A MAS
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7617
-#EXTINF:-1,1004.AZTECA UNO -1HRS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7335
-#EXTINF:-1,1005.AZTECA UNO
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png" group-title="LATINA",AZTECA UNO
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7039
-#EXTINF:-1,1005.AZTECA UNO HD (1080p)
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/10/57/ee810ae644028eb1793e34aeeb1f/logo-uno.png" group-title="LATINA",AZTECA UNO HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7232
-#EXTINF:-1,1006.AZTECA 7
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7038
-#EXTINF:-1,1403.AMERICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg" group-title="LATINA",AMERICA TELEVISION
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7441
-#EXTINF:-1,1006.AZTECA 7 HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_de_Azteca_7_2024.png" group-title="LATINA",AZTECA 7 HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7233
-#EXTINF:-1,1009.CANAL 6 MTY 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="LATINA",CANAL 6 MTY 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7480
-#EXTINF:-1,1010.CANAL 6 CD.MEX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="LATINA",CANAL 6 CD MEX
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7481
-#EXTINF:-1,1011. CANAL 6 LAGUNA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="LATINA",CANAL 6 LAGUNA 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7482
-#EXTINF:-1,1012.CANAL 6 GUADALAJARA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="LATINA",CANAL 6 GUADALAJARA 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7483
-#EXTINF:-1,1013.CANAL 6 JUAREZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="LATINA",CANAL 6 JUAREZ
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7173
-#EXTINF:-1,1014.CANAL NUEVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="LATINA",CANAL NUEVE
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7120
-#EXTINF:-1,1014.CANAL NUEVE HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="LATINA",CANAL NUEVE HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7245
-#EXTINF:-1,1422.LN+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="LATINA",LN+
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7334
-#EXTINF:-1,1015.CANAL 5
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7042
-#EXTINF:-1,1015.CANAL 5  HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="LATINA",CANAL 5 MX HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7241
-#EXTINF:-1,1016.CANAL 4
+#EXTINF:-1 tvg-logo="https://tvcuatro.tv/wp-content/uploads/2023/02/logo_footer.png" group-title="LATINA",CANAL 4 MX
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7199
-#EXTINF:-1,1433.RCN XTRA
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7351
-#EXTINF:-1,1017.IMAGEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="LATINA",IMAGEN
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7186
-#EXTINF:-1,1017.IMAGEN TV HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="LATINA",IMAGEN HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7239
-#EXTINF:-1,1018.APRENDE TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7203
-#EXTINF:-1,1435.SENAL COLOMBIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg" group-title="LATINA",SEÑAL COLOMBIA
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7352
-#EXTINF:-1,1443.TELE PACIFICO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" group-title="LATINA",TELEPACÍFICO
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7157
-#EXTINF:-1,1021.LAS ESTRELLAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/230px-Las_Estrellas_logo_%282016%29.svg.png" group-title="LATINA",LAS ESTRELLAS 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7454
-#EXTINF:-1,1021.LAS ESTRELLAS HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7231
-#EXTINF:-1,1020.LAS ESTRELLAS -2HRS 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7442
-#EXTINF:-1,1415.CR EXTREMA TV
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7188
-#EXTINF:-1,0815.MEGANOTICIAS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7169
-#EXTINF:-1,1023.TV MAS
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7183
-#EXTINF:-1,EL PRIVILEGIO DE MANDAR
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7385
-#EXTINF:-1,1019.LAS ESTRELLAS  -1HRS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/230px-Las_Estrellas_logo_%282016%29.svg.png" group-title="LATINA",LAS ESTRELLAS 1 HRS
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7175
-#EXTINF:-1,1024.TELEVISA MONTERREY 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/230px-Las_Estrellas_logo_%282016%29.svg.png" group-title="LATINA",LAS ESTRELLAS 2 HRS 
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7442
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71crZEP9VxL.png" group-title="LATINA",EXTREMA TV
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7188
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Meganoticias_MX.svg/revision/latest?cb=20231110175555" group-title="LATINA",MEGANOTICIAS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7169
+#EXTINF:-1 tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/TV-Mas-Veracruz-en-vivo.png" group-title="LATINA",TV MAS
+http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7183
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logotipo_de_Televisa.svg" group-title="LATINA",TELEVISA MONTERREY 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7182
-#EXTINF:-1,1025.TELEVISA CANAL 4 MTY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logotipo_de_Televisa.svg" group-title="LATINA",TELEVISA MONTERREY HD
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7457
-#EXTINF:-1,1026.TELEVISA GUADALAJARA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logotipo_de_Televisa.svg" group-title="LATINA",TELEVISA GUADALAJARA 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7458
-#EXTINF:-1,1027.UNICABLE
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7163
-#EXTINF:-1,1027.UNICABLE HD (1080p)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7244
-#EXTINF:-1,1441.TV PUBLICA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="LATINA",TV PUBLICA 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7493
-#EXTINF:-1,1028.ENLACE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/2560px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="LATINA",ENLACE 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7494
-#EXTINF:-1,1029.MARIA VISION 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d095db_047bb273a8d14a7d9fe3ae7a806c3a67~mv2.png/v1/fit/w_2500,h_1330,al_c/d095db_047bb273a8d14a7d9fe3ae7a806c3a67~mv2.png" group-title="LATINA",MARIA VISION 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7492
-#EXTINF:-1,1700.Liga MX 17:00 Juárez vs Toluca
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7714
-#EXTINF:-1,1701.Liga MX 19:00 León vs Tigres UANL
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7715
-#EXTINF:-1,1702.Liga MX 19:00 Monterrey vs Atlético San Luis
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7716
-#EXTINF:-1,1703.Liga MX 19:05 Guadalajara vs Pachuca
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7717
-#EXTINF:-1,1704.Liga MX 21:05 Pumas UNAM vs América
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7718
-#EXTINF:-1,1705.08:20 AM | 1 FSV MAINZ 05 VS FC ST PAULI (BUNDESLIGA)
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7719
-#EXTINF:-1,1706.Expansión MX 17:00 Atlante vs Tlaxcala
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7720
-#EXTINF:-1,1707.Expansión MX 19:00 Celaya vs Tepatitlán
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7721
-#EXTINF:-1,1708.Argentina 15:00 Independiente vs Instituto
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7722
-#EXTINF:-1,1709.Argentina 16:30 Boca Juniors vs Aldosivi
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7723
-#EXTINF:-1,1710.EPL 6:30 Everton vs Manchester United
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7724
-#EXTINF:-1,1711.Argentina 18:30 San Martín San Juan vs River Plate
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7725
-#EXTINF:-1,1712.EPL 9:00 Arsenal vs West Ham United
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7726
-#EXTINF:-1,1713.MLS 1 | February 22 3:00 pm | LAFC vs. Minnesota
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7727
-#EXTINF:-1,1714.MLS 2 | February 22 6:30 pm | Columbus vs. Chicago
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7728
-#EXTINF:-1,1715.MLS 3 | February 22 6:30 pm | D.C. vs. Toronto
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7729
-#EXTINF:-1,1716.MLS 4 | February 22 6:30 pm | Orlando vs. Philadelphia
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7730
-#EXTINF:-1,1717.MLS 5 en Español | February 22 6:30 pm | Miami vs. New York City
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7731
-#EXTINF:-1,1718.MLS 6 | February 22 6:30 pm | Cincinnati vs. New York
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7732
-#EXTINF:-1,1719.MLS 7 | February 22 6:30 pm | Atlanta vs. Montréal
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7733
-#EXTINF:-1,1720.MLS 8 | February 22 7:30 pm | St. Louis vs. Colorado
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7734
-#EXTINF:-1,1721.MLS 9 | February 22 7:30 pm | Austin vs. Kansas City
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7735
-#EXTINF:-1,1722.MLS 10 | February 22 7:30 pm | Houston vs. Dallas
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7736
-#EXTINF:-1,1723.MLS 11 | February 22 7:30 pm | Nashville vs. New England
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7737
-#EXTINF:-1,1724.MLS 12 | February 22 9:30 pm | Seattle vs. Charlotte
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7738
-#EXTINF:-1,1725.MLS 13 | February 22 9:30 pm | San Jose vs. Salt Lake
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7739
-#EXTINF:-1,1726.Ligue 1 12:00 Saint-Étienne vs Angers SCO
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7740
-#EXTINF:-1,1727.Ligue 1 14:05 Auxerre vs Olympique Marseille
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7741
-#EXTINF:-1,1728.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7742
-#EXTINF:-1,1729.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7743
-#EXTINF:-1,1730.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7744
-#EXTINF:-1,1300.ARAGON TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arag%C3%B3nTV.svg/1200px-Arag%C3%B3nTV.svg.png" group-title="ESPAÑA",ARAGON TV
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7745
-#EXTINF:-1,1361.TRECE TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/langca-330px-Trece.svg.png" group-title="ESPAÑA",TRECE TV 
 http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7746
-#EXTINF:-1,1800.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7668
-#EXTINF:-1,1801.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7669
-#EXTINF:-1,1802.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7670
-#EXTINF:-1,1803.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7671
-#EXTINF:-1,1804.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7672
-#EXTINF:-1,1805.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7673
-#EXTINF:-1,1806.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7674
-#EXTINF:-1,1807.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7675
-#EXTINF:-1,1808.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7676
-#EXTINF:-1,1809.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7677
-#EXTINF:-1,1810.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7678
-#EXTINF:-1,1900.MLB_1 | Nationals VS Astros | 02/22/2025 12:05:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7679
-#EXTINF:-1,1901.MLB_2 | Pirates VS Orioles | 02/22/2025 12:05:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7680
-#EXTINF:-1,1902.MLB_3 | Red Sox VS Rays | 02/22/2025 12:05:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7681
-#EXTINF:-1,1903.MLB_4 | Yankees VS Blue Jays | 02/22/2025 12:07:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7682
-#EXTINF:-1,1904.MLB_5 | Astros VS Mets | 02/22/2025 12:10:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7683
-#EXTINF:-1,1905.MLB_6 | Guardians VS Reds | 02/22/2025 14:05:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7684
-#EXTINF:-1,1906.MLB_7 | Royals VS Dodgers | 02/22/2025 14:05:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7685
-#EXTINF:-1,1907.MLB_8 | White Sox VS Cubs | 02/22/2025 14:05:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7686
-#EXTINF:-1,1908.MLB_9 | D-backs VS Rockies | 02/22/2025 14:10:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7687
-#EXTINF:-1,1909.MLB_10 | Athletics VS Padres | 02/22/2025 14:10:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7688
-#EXTINF:-1,1910.MLB_11 | Mariners VS Angels | 02/22/2025 14:10:00
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7689
-#EXTINF:-1,1911.MLB_12 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7690
-#EXTINF:-1,1912.MLB_13 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7691
-#EXTINF:-1,1913.MLB_14 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7692
-#EXTINF:-1,1914.MLB_15 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7693
-#EXTINF:-1,2000.NBA 01 | Feb-22-2025 4:00PM | Phoenix Suns at Chicago Bulls
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7652
-#EXTINF:-1,2001.NBA 02 | Feb-22-2025 6:30PM | Brooklyn Nets at Philadelphia 76ers
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7653
-#EXTINF:-1,2002.NBA 03 | Feb-22-2025 7:30PM | Los Angeles Lakers at Denver Nuggets
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7654
-#EXTINF:-1,2003.NBA 04 | Feb-22-2025 8:30PM | Houston Rockets at Utah Jazz
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7655
-#EXTINF:-1,2004.NBA 05 | Feb-22-2025 9:00PM | Charlotte Hornets at Portland Trail Blazers
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7656
-#EXTINF:-1,2005.NBA 06 |
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7657
-#EXTINF:-1,2006.NBA 07 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7658
-#EXTINF:-1,2007.NBA 08 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7659
-#EXTINF:-1,2008.NBA 09 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7660
-#EXTINF:-1,2009.NBA 10 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7661
-#EXTINF:-1,2010.NBA 11 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7662
-#EXTINF:-1,2011.NBA 12 |
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7663
-#EXTINF:-1,2012.NBA 13 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7664
-#EXTINF:-1,2013.NBA 14 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7665
-#EXTINF:-1,2014.NBA 15 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7666
-#EXTINF:-1,2015.NBA 16 | 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7667
-#EXTINF:-1,556.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7694
-#EXTINF:-1,557.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7695
-#EXTINF:-1,558.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7696
-#EXTINF:-1,559.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7697
-#EXTINF:-1,560.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7698
-#EXTINF:-1,561.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7699
-#EXTINF:-1,562.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7700
-#EXTINF:-1,563.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7701
-#EXTINF:-1,564.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7702
-#EXTINF:-1,565.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7703
-#EXTINF:-1,566.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7704
-#EXTINF:-1,567.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7705
-#EXTINF:-1,568.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7706
-#EXTINF:-1,569.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7707
-#EXTINF:-1,570.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7708
-#EXTINF:-1,571.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7709
-#EXTINF:-1,572. 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7710
-#EXTINF:-1,573.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7711
-#EXTINF:-1,574. 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7712
-#EXTINF:-1,555.
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7713
-#EXTINF:-1,2200.FORMULA 1: 
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7748
-#EXTINF:-1,2201. 9:30am Beterbiev vs. Bivol 2 Español
-http://alfa.7057460.xyz:2095/NadiaSan/Sa011622/7749
+
+
