@@ -777,11 +777,9 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7199
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7186
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="LATINA",IMAGEN HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7239
-#EXTINF:-1,1018.APRENDE TV
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7203
-#EXTINF:-1,1435.SENAL COLOMBIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg" group-title="LATINA",SEÑAL COLOMBIA
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7352
-#EXTINF:-1,1443.TELE PACIFICO
+#EXTINF:-1,1443.TELE PACÍFICO
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7157
 #EXTINF:-1,1021.LAS ESTRELLAS 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7454
