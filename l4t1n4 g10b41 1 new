@@ -647,8 +647,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8503
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/8475
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="USA",LIFETIME
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7583
-
-#EXTINF:-1,0006.MGM HITS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/MGM_2021.svg" group-title="LATINA",MGM
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7592
 
 #EXTINF:-1,1545.USA 
