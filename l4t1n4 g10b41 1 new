@@ -769,9 +769,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7120
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7245
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="LATINA",LN+
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7334
-#EXTINF:-1,1015.CANAL 5
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7042
-#EXTINF:-1,1015.CANAL 5  HD (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="LATINA",CANAL 5 MX HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7241
 #EXTINF:-1,1016.CANAL 4
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7199
