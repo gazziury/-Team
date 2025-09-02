@@ -685,9 +685,7 @@ http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7645
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7648
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/1200px-Teletica_Logo.png" group-title="LATINA",TELETICA HD
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7650
-#EXTINF:-1,.DREAMWORKS
-http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7649
-#EXTINF:-1,1436.TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="LATINA",TELEFE
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7630
 #EXTINF:-1,1450.VTV 
 http://alfa.7057460.xyz:2095/Rblsfranco25/F63nc4RO4/7618
