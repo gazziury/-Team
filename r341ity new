@@ -10,6 +10,38 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Aquecimento
 http://cdn50.vip:80/marlonestiano/102230405060/323404.ts
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 01
+http://cdn50.vip:80/marlonestiano/102230405060/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 02
+http://cdn50.vip:80/marlonestiano/102230405060/326237.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 03
+http://cdn50.vip:80/marlonestiano/102230405060/326238.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 04
+http://cdn50.vip:80/marlonestiano/102230405060/326239.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 05
+http://cdn50.vip:80/marlonestiano/102230405060/326240.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 06
+http://cdn50.vip:80/marlonestiano/102230405060/326241.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 07
+http://cdn50.vip:80/marlonestiano/102230405060/326242.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 08
+http://cdn50.vip:80/marlonestiano/102230405060/326243.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 09
+http://cdn50.vip:80/marlonestiano/102230405060/326244.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 10
+http://cdn50.vip:80/marlonestiano/102230405060/326245.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 11
+http://cdn50.vip:80/marlonestiano/102230405060/326246.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 12
+http://cdn50.vip:80/marlonestiano/102230405060/326247.ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Famosos I Acceso Total" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="LA CASA DE LOS FAMOSOS (MEXICO)",Acceso Total
 http://tv.nousiptv.com:8080/guiller/29082020/1250159
 #EXTINF:-1 tvg-id="" tvg-name="Famosos I Toda la Casa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="LA CASA DE LOS FAMOSOS (MEXICO)",Toda la Casa
