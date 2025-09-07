@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_47.mkv
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_55.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_78.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_37.mkv
 
@@ -10006,6 +10006,22 @@ http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_45.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_46.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 047
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_47.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 048
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_48.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 049
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_49.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 050
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_50.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 051
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_51.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 052
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_52.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 053
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_53.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 054
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_54.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 055
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_55.mkv
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/WtdFEni.jpeg" group-title="Regreso a Las Sabinas",Cap. 001
 http://series.tuxchannel.mx/series/regreso_a_las_sabinas/s_01_e_01.mkv
