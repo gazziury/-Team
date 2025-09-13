@@ -3,19 +3,10 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/C3fmCjk8/20250308-203943.jpg" group-title="TEAM VIP",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3TLuLDLPLdp6fgVK9Ak6aC6Xrbc.jpg" group-title="ESTRENOS INNOVA - 2025",9-11: El día que el mundo se detuvo (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="1978 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/7B7U0u6EyxHcKwCBRL5sMsTK2XY.jpg" group-title="ESTRENOS INNOVA - 2025",1978 (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2jskL5eOFTQknpRalJ4chVYyuFo.jpg" group-title="ESTRENOS INNOVA - 2025",Acaba con ellos (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/quABvAtl664L6ICbPV0FusghBs9.jpg" group-title="ESTRENOS ARCHIVE - 2025",Acto encubierto (2025)
 https://archive.org/download/blanca-nieves-2025/Acto%20encubierto%20%282025%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3r35450xYomrCvPbFxr0MhYk5q7.jpg" group-title="ESTRENOS ARCHIVE - 2025",Ad Vitam (2025)
 https://archive.org/download/blanca-nieves-2025/Ad%20Vitam%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nw88tBxno2ac2QizMTYSTiTwaid.jpg" group-title="ESTRENOS INNOVA - 2025",Agente infiltrado (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/c7UmUYCuffmb7TOqqNT8onMnXzF.jpg" group-title="ESTRENOS ARCHIVE - 2025",Alarum (2025)
 https://archive.org/download/blanca-nieves-2025/Alarum%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ln5kOM0mQAOLDoFRsNeM2cbDOC2.jpg" group-title="ESTRENOS ARCHIVE - 2025",Al descubierto: El rey del hígado (2025)
@@ -26,24 +17,16 @@ https://archive.org/download/blanca-nieves-2025/Alexander%20y%20el%20viaje%20ter
 https://archive.org/download/blanca-nieves-2025/Algo%20azul%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eHDHqnY9L6NviNE1cfN0w4tQ9n8.jpg" group-title="ESTRENOS ARCHIVE - 2025",Algo embarazada (2025)
 https://archive.org/download/blanca-nieves-2025/Algo%20embarazada%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fV9dswGQCvbpVsj1JOTrYCeos8w.jpg" group-title="ESTRENOS INNOVA - 2025",Alguien así (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ulyiQKmso4hZSrtCiG7vR0YqwgS.jpg" group-title="ESTRENOS ARCHIVE - 2025",Almas marcadas (2025)
 https://archive.org/download/blanca-nieves-2025/Almas%20marcadas%20-%20Rule%20%2B%20Shaw%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/v3aq0JZIjXr8okdnBR7yzn9kcbd.jpg" group-title="ESTRENOS ARCHIVE - 2025",Almost cops: Casi policías (2025)
 https://archive.org/download/30050/30050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6MpAklfzhbIqonqt54MyGciDTjS.jpg" group-title="ESTRENOS INNOVA - 2025",Amanecer sangriento (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/x5z1aRE359o04L7EG8mO3KEFFba.jpg" group-title="ESTRENOS ARCHIVE - 2025",Amateur (2025)
 https://archive.org/download/30051/30051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/AtUcdBMutCOyOQ5KHf0tk5qJi2j.jpg" group-title="ESTRENOS INNOVA - 2025",Amenaza en el aire (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nuKdxAkw2QGvlzWopci932hjEDW.jpg" group-title="ESTRENOS ARCHIVE - 2025",Amores materialistas (2025)
 https://archive.org/download/materialistas-latino/Materialistas%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2MS2yCs6ecZZY6Ne7LRkOJgdJ96.jpg" group-title="ESTRENOS ARCHIVE - 2025",Amor explosivo (2025)
 https://archive.org/download/blanca-nieves-2025/Amor%20Explosivo%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oXE2mLXgvpBJWQiSZLHcufsU4dz.jpg" group-title="ESTRENOS INNOVA - 2025",Animales peligrosos (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hwq0ABDqgTwz6xU9348mG0wSLKs.jpg" group-title="ESTRENOS ARCHIVE - 2025",Another you (2025)
 https://archive.org/download/blanca-nieves-2025/Another%20You%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/A69IDqvaIkEoLXRotIF8E3lvrrG.jpg" group-title="ESTRENOS ARCHIVE - 2025",A prueba (2025)
@@ -58,8 +41,6 @@ https://archive.org/download/blanca-nieves-2025/Ash%20%282025%29.mkv
 https://archive.org/download/ballerina-latino-hd/Ballerina%20Latino%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/s1zEsvB5XoS0Gqr7tmnNZExVdRI.jpg" group-title="ESTRENOS ARCHIVE - 2025",Baila, Vini (2025)
 https://archive.org/download/blanca-nieves-2025/Baila%2C%20Vini%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8utPMe6qTFDEMXQpmnLb2hlBqxn.jpg" group-title="ESTRENOS INNOVA - 2025",Bajo amenaza (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lCI5y1KkjgMoTkZiCleqji00XeE.jpg" group-title="ESTRENOS ARCHIVE - 2025",Bala perdida 3 (2025)
 https://archive.org/download/blanca-nieves-2025/Bala%20perdida%203%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3qJO7F0Pwz67WhAIbHSs2U5Q0qs.jpg" group-title="ESTRENOS ARCHIVE - 2025",Barbie y Teresa: La receta de la amistad (2025)
@@ -68,14 +49,10 @@ https://archive.org/download/blanca-nieves-2025/Barbie%20y%20Teresa%20-%20Receta
 https://archive.org/download/blanca-nieves-2025/Bastion%2036%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fY1DBkref31ZVKoEtqjvJ0VNsmO.jpg" group-title="ESTRENOS ARCHIVE - 2025",Batman Ninja vs. La Liga Yakuza (2025)
 https://archive.org/download/blanca-nieves-2025/Batman%20Ninja%20vs%20La%20Liga%20Yakuza%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Becoming Led Zeppelin (2025)" tvg-logo="https://image.tmdb.org/t/p/original/gKvp97lyBvpCed3jt6mD6zMwwLv.jpg" group-title="ESTRENOS INNOVA - 2025",Becoming Led Zeppelin: Los inicios (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9p2lwGgVTMvOuIRimhEAO2AV99x.jpg" group-title="ESTRENOS ARCHIVE - 2025",Blancanieves (2025)
 https://archive.org/download/blanca-nieves-2025/Blanca%20Nieves%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6kowixQScfVIwnBcbNUzBwlLjXD.jpg" group-title="ESTRENOS ARCHIVE - 2025",Bridget Jones: Loca por él (2025)
 https://archive.org/download/blanca-nieves-2025/Bridget%20Jones%20-%20Loca%20por%20%C3%A9l%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cnYx8mQDxXdpc8GxrheMlCjcOCs.jpg" group-title="ESTRENOS INNOVA - 2025",Caerás (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1DQsxTAsHa9Bt9mYsrHh8hW58Pq.jpg" group-title="ESTRENOS ARCHIVE - 2025",Calendario mortal (2025)
 https://archive.org/download/blanca-nieves-2025/Calendario%20mortal%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xLJbbwo89AiPqaZ7GDcUXmEophy.jpg" group-title="ESTRENOS ARCHIVE - 2025",Caos: Los crímenes de Manson (2025)
@@ -86,8 +63,6 @@ https://archive.org/download/blanca-nieves-2025/Capit%C3%A1n%20Am%C3%A9rica%20-%
 https://archive.org/download/20059/20059.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bWT2YoO6TOEYjBd0OTJXPyebmj4.jpg" group-title="ESTRENOS ARCHIVE - 2025",Chicos de hielo en el trópico (2025)
 https://archive.org/download/blanca-nieves-2025/Chicos%20de%20hielo%20en%20el%20tr%C3%B3pico%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/j4PszsmpFFjiVBhoitDwHjtba15.jpg" group-title="ESTRENOS INNOVA - 2025",Cleaner (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4MQXhunucM2k4zE8D9nDbUadZd9.jpg" group-title="ESTRENOS ARCHIVE - 2025",Código negro (2025)
 https://archive.org/download/blanca-nieves-2025/C%C3%B3digo%20negro%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vjxoX1ZEGc7QfDGxxAm8Wp7DCAq.jpg" group-title="ESTRENOS ARCHIVE - 2025",Colmillos del bayou (2025)
@@ -100,10 +75,6 @@ https://archive.org/download/blanca-nieves-2025/Compa%C3%B1era%20perfecta%20%282
 https://archive.org/download/blanca-nieves-2025/Contigo%20en%20el%20futuro%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5Zn9I1WSzINyeHY2HzU78eUQVHw.jpg" group-title="ESTRENOS ARCHIVE - 2025",Contraataque (2025)
 https://archive.org/download/blanca-nieves-2025/Contraataque%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/syHnruCgN1Gq6PJ5PcwxZg9BQWY.jpg" group-title="ESTRENOS INNOVA - 2025",Corazón delator (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ks0krQl25m29R6QPjdYnFmoOuBz.jpg" group-title="ESTRENOS INNOVA - 2025",Criatura voraz (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7jEOvqCscLuwtEbjtb87EdJR9gb.jpg" group-title="ESTRENOS ARCHIVE - 2025",Criminales de lujo (2025)
 https://archive.org/download/blanca-nieves-2025/Criminales%20de%20lujo%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/iq09xOhoQowgZVOzViQGwgPEhyG.jpg" group-title="ESTRENOS ARCHIVE - 2025",Crónicas (2025)
@@ -118,38 +89,20 @@ https://archive.org/download/blanca-nieves-2025/D%C3%A9jame%20estar%20contigo%20
 https://archive.org/download/del-cielo-al-infierno-2025-2castellano/del-cielo-al-infierno-2025-2%5Bcastellano%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zx3NV3RVgmOyOgsXvRerDItLCWS.jpg" group-title="ESTRENOS ARCHIVE - 2025",Delicia (2025)
 https://archive.org/download/blanca-nieves-2025/Delicia%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2Q5qM4oQxY277kY8wRG8ljdQR6F.jpg" group-title="ESTRENOS INNOVA - 2025",Depredador: Cazador de asesinos (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cUdPaJyVDxi9XvyKuLt6AzUzq91.jpg" group-title="ESTRENOS INNOVA - 2025",Destino final: Lazos de sangre (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/p9a6bL22sG9kIEGYjo6hs6okjLX.jpg" group-title="ESTRENOS ARCHIVE - 2025",De vuelta a la acción (2025)
 https://archive.org/download/blanca-nieves-2025/De%20vuelta%20a%20la%20acci%C3%B3n%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yTrwIf5DCThe0fl0EYTsvVD8KHl.jpg" group-title="ESTRENOS INNOVA - 2025",Devuélvemela (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/reEE6v6KUn2T00ONCquys2dQNPo.jpg" group-title="ESTRENOS INNOVA - 2025",Dhoom Dhaam: Viva los novios (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/la2jDiggcDUcAmBNOL41sHWiGpk.jpg" group-title="ESTRENOS ARCHIVE - 2025",Diablo (2025)
 https://archive.org/download/diablo-2025/Diablo%202025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nNW5MBRe0zoeyyRVnfOq3cuYzqn.jpg" group-title="ESTRENOS INNOVA - 2025",Diddy: La caída del monstruo (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bEOvj0cEDHTXiyYlCSJ76BpzPuB.jpg" group-title="ESTRENOS ARCHIVE - 2025",Doble traición (2025)
 https://archive.org/download/doble-traici-n-2025-latino/doble-traici-n-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6CxpcRaya3LUsMPmcH41I2VTsnT.jpg" group-title="ESTRENOS ARCHIVE - 2025",Dogman (2025)
 https://archive.org/download/las-aventuras-de-dog-man_20250318/Las%20aventuras%20de%20Dog%20Man.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/q6c1avASd19M5jWZlcpdQURVz05.jpg" group-title="ESTRENOS INNOVA - 2025",Dora en busca del sol dorado (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zL0quDAY4lFMsh1VL8vKyEUpG3l.jpg" group-title="ESTRENOS ARCHIVE - 2025",Drop: Amenaza anónima (2025)
 https://archive.org/download/30043_202507/30043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mMvGHRPD2erdrbKuwPkMEUggZTx.jpg" group-title="ESTRENOS INNOVA - 2025",Duplicidad (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hu0qH726Kk14foSMevdcBaMc0cQ.jpg" group-title="ESTRENOS ARCHIVE - 2025",Duro de casar (2025)
 https://archive.org/download/duro-de-casar-2025-2castellano/Boda%20letal%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cvDQrjw33gK1e9Ld0qkh2yDWOht.jpg" group-title="ESTRENOS INNOVA - 2025",Echo Valley (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="El abismo secreto (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zKndcdkEUJLvAhlz6VMvhdGKRaM.jpg" group-title="ESTRENOS ARCHIVE - 2025",El abismo secreto (2025)
 https://archive.org/download/el-abismo-secreto/El%20Abismo%20Secreto.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3oqHEE4BV1VRyN7ZWFhfAAGttru.jpg" group-title="ESTRENOS INNOVA - 2025",El amigo (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3jI3tFClgvjdrFO63KabfcIFDfk.jpg" group-title="ESTRENOS ARCHIVE - 2025",El asesino con ojos de corazón (2025)
 https://archive.org/download/el-asesino-con-ojos-de-corazon-latino/El%20asesino%20con%20ojos%20de%20coraz%C3%B3nLatino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6T3KhSxoSOMPQTCm7XwIoXss7y0.jpg" group-title="ESTRENOS ARCHIVE - 2025",El banco de Dave 2 (2025) Castellano
@@ -162,148 +115,62 @@ https://archive.org/download/3l-csopl-0n-ano-2025-idioma-espanol/3l%20c%40sopl0n
 https://archive.org/download/el-club-del-crimen-de-los-jueves-2025-latino/el-club-del-crimen-de-los-jueves-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wVvdvtZHFQmGlX5ESlVtpCy8a7b.jpg" group-title="ESTRENOS ARCHIVE - 2025",El contador 2 (2025)
 https://archive.org/download/el-contador-2/El%20contador%202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg" group-title="ESTRENOS INNOVA - 2025",El día del juicio final (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5GR6holQH8Z4jYIdH3DCKSc5yyd.jpg" group-title="ESTRENOS INNOVA - 2025",El esquema fenicio (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg" group-title="ESTRENOS INNOVA - 2025",El hilo rojo (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hWG43Fp7JoNDqdoDae7g0MIA1nJ.jpg" group-title="ESTRENOS ARCHIVE - 2025",Elio (2025)
 https://archive.org/download/elio-latino/Elio%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8qSjKEA0KJxE2TrlBqf7PYcOlOM.jpg" group-title="ESTRENOS ARCHIVE - 2025",El jardinero (2025)
 https://archive.org/download/30053_202508/30053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hzuus3qrQct2JeoAs2AGMYzKzjZ.jpg" group-title="ESTRENOS INNOVA - 2025",El ladrón de joyas (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bCdBfRtF8S7vnatbs16UhZNayrK.jpg" group-title="ESTRENOS ARCHIVE - 2025",El mapa que me lleva a ti (2025)
 https://archive.org/download/el-mapa-que-me-lleva-a-ti-2025-latino/el-mapa-que-me-lleva-a-ti-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6aOLjR40vTLFg1X3Ua4OFKTH6Ys.jpg" group-title="ESTRENOS ARCHIVE - 2025",El mono (2025)
 https://archive.org/download/30041/30041.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eHZCD3OobxX1asvfsqAZpICrDJE.jpg" group-title="ESTRENOS ARCHIVE - 2025",El novio de mamá (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/11L8yLy9gXqXkDO97nsb7k3JTdx.jpg" group-title="ESTRENOS ARCHIVE - 2025",El payaso del maizal (2025)
 https://archive.org/download/peliculas-bluray.-com-el-payaso-del-maizal-2025-720-p-hd/%5BPeliculasBluray.Com%5D%20El%20Payaso%20del%20Maizal%20%282025%29%20%5B720P%5D%5BHD%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ordsCoZ88bZrXlaSfcc4haCIfm8.jpg" group-title="ESTRENOS ARCHIVE - 2025",El rey de marfil (2025)
 https://archive.org/download/king-ivory-2025-latino/king-ivory-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1CqvZOugijDmLYuuBbha6tbijSe.jpg" group-title="ESTRENOS ARCHIVE - 2025",El rey de reyes (2025)
 https://archive.org/download/the-king-of-kings-el-rey-de-reyes-2025-latino/the-king-of-kings-el-rey-de-reyes-2025-%5Blatino%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8v8XKrvhwEflJXwWXzMbt7A4I4I.jpg" group-title="ESTRENOS INNOVA - 2025",El robo perfecto 2: Pantera (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8cAXLYDmn0POhjqzTHeT6rJMUVc.jpg" group-title="ESTRENOS INNOVA - 2025",El secreto del Orfebre (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ysYSZHBg4jCpk8DciAGhSfpEZjT.jpg" group-title="ESTRENOS INNOVA - 2025",El surfista (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qrkyvBVmr4IDw1nQNtYrWinzGHU.jpg" group-title="ESTRENOS INNOVA - 2025",El terror de la vejez (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4FAVJGRLAgk6SNF2N2RjBcUHa8P.jpg" group-title="ESTRENOS ARCHIVE - 2025",El último encargo (2025)
 https://archive.org/download/el-ltimo-encargo-2025-latino/el-ltimo-encargo-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yI56VzvXPHG3t3yYV18GrM7o8SZ.jpg" group-title="ESTRENOS ARCHIVE - 2025",El verano que cambió todo (2025)
 https://archive.org/download/30052/30052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/g699pheMnwexVWgNy8S2bTGh0y0.jpg" group-title="ESTRENOS INNOVA - 2025",Empezar de nuevo (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/anLwvQ9Ozu2IKnVH9myc83R88SX.jpg" group-title="ESTRENOS INNOVA - 2025",Encerrado (2025)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9syryQcNv4dqTfg6GweZLkJ02Wr.jpg" group-title="ESTRENOS INNOVA - 2025",En lo profundo (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bkWPdKhp5TGubIbHCuCtJ1Uii5c.jpg" group-title="ESTRENOS ARCHIVE - 2025",Estado eléctrico (2025)
 https://archive.org/download/2025-estado-electrico/2025_Estado%20electrico.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hVFMmPPvG1JSkJWMMbzV1llUXM0.jpg" group-title="ESTRENOS ARCHIVE - 2025",Este maldito fútbol fantasy (2025)
 https://archive.org/download/este-maldito-f-tbol-fantasy-2025-latino/este-maldito-f-tbol-fantasy-2025-%5Blatino%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eTEDrt0bnKaSZTXh5fgSHOM7Di9.jpg" group-title="ESTRENOS INNOVA - 2025",Exorcismo: El ritual (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fONJB3dDEmMtHfomLswkooTONdm.jpg" group-title="ESTRENOS ARCHIVE - 2025",Exterminio: La evolución (2025)
 https://archive.org/download/30046/30046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wCAZdru1rltEVwRnV0rAT5R1rUd.jpg" group-title="ESTRENOS INNOVA - 2025",Exterritorial (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/sI3TuDdgCi5i4Gloh3zafoZRDrl.jpg" group-title="ESTRENOS ARCHIVE - 2025",F...r, casar, matar (2025)
 https://archive.org/download/f-marry-kill-latino/F---%20Marry%20Kill%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/v0YHs3ge1MYyyueNRu4w1RxE5Xm.jpg" group-title="ESTRENOS ARCHIVE - 2025",F1 (2025)
 https://archive.org/download/f-1-la-pelcula-latino/F1-la-pelcula-Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/i7slkpMXjr4V311r5bg4u6Owzig.jpg" group-title="ESTRENOS INNOVA - 2025",Fight or flight: Sicarios en el aire (2025)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUyyojeA4EZakHwLsfcFXrPyfnl.jpg" group-title="ESTRENOS INNOVA - 2025",F plus (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qUVtoA8x1dWWizZtBNhC0Jc4p7r.jpg" group-title="ESTRENOS INNOVA - 2025",Freaky Tales: Cuentos extraños (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qrRlxuVP6vOHYXPnL4u4FA1q9lq.jpg" group-title="ESTRENOS INNOVA - 2025",Frozen: El musical (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/49iSEeS4sLv4wpkwiEwH8J2XCF5.jpg" group-title="ESTRENOS INNOVA - 2025",Fuera de pista 2 (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/c1SEY8o7qO8eY7nxgghoX0D9qfc.jpg" group-title="ESTRENOS INNOVA - 2025",G20 (2025)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zehO6A3UBe8pjAt8lRABoHfo7GR.jpg" group-title="ESTRENOS INNOVA - 2025",Grandes apostadores (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wLzfzKoVTfVkyiyWT2IZoVjwWtx.jpg" group-title="ESTRENOS ARCHIVE - 2025",Happy Gilmore 2 (2025)
 https://archive.org/download/30047/30047.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/A1hUVkWc5PuwSp0SKw8OXTmKQtF.jpg" group-title="ESTRENOS ARCHIVE - 2025",Harta (2025)
 https://archive.org/download/h-4-rt-4/H4RT4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8IpHF2T6SX8RIRFu9y2IdhB9Hnj.jpg" group-title="ESTRENOS INNOVA - 2025",Havoc: Estragos (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ctz8IJUVmj0txfBzNQHEZitC2c9.jpg" group-title="ESTRENOS INNOVA - 2025",Henry Danger (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="Los superhéroes de Malegaon (2025)" tvg-logo="https://image.tmdb.org/t/p/original/ewuDGZQwDjRi6w0OWUwMVDNrTna.jpg" group-title="ESTRENOS INNOVA - 2025",Héroes de Malegaon (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="Home Sweet Home: Rebirth (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zq1D7JVo7b0CtMvy2c1KbdnScml.jpg" group-title="ESTRENOS INNOVA - 2025",Hogar dulce hogar: Renacimiento (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/whYFLpx7Vrk2qlr1mx3WQ0kvSUP.jpg" group-title="ESTRENOS INNOVA - 2025",Holland (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xExgeiovpUKl2gvvEkECKky3zUA.jpg" group-title="ESTRENOS INNOVA - 2025",Hombre con H (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cmULetwrXfXGNbzlTEzDboMKwpI.jpg" group-title="ESTRENOS ARCHIVE - 2025",Hombre lobo (2025)
 https://archive.org/download/hombre-lobo-2025-latinosupervideo.cc/hombre-lobo-2025-%5Blatino%5D%5Bsupervideo.cc%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/h2AEVi24nUcsalN49CKMZzmj7j4.jpg" group-title="ESTRENOS INNOVA - 2025",Indomables (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/dHGtwfVfY502veuMojfAkNbIBO9.jpg" group-title="ESTRENOS ARCHIVE - 2025",Inspector Zende (2025)
 https://archive.org/download/el-comisario-zende-2025-latino/el-comisario-zende-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rsq6n6eTiUbs5yGnsuY1HRGoQXt.jpg" group-title="ESTRENOS ARCHIVE - 2025",Instintos (2025)
 https://archive.org/download/instintos-latino/Instintos%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lzKoFaxNxh9yWfB1Be9GO3YxTtR.jpg" group-title="ESTRENOS INNOVA - 2025",Invencible: Un niño fuera de serie (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nMEyOcLdlMVoccH3uFQw33rmFm6.jpg" group-title="ESTRENOS INNOVA - 2025",iRehén (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/55986KToqHGSNXFPT92ObUypg5J.jpg" group-title="ESTRENOS ARCHIVE - 2025",Jefes de Estado (2025)
 https://archive.org/download/feje-de-doesta/FEJE%20DE%20DOESTA.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yurzZOe6P5EAiBBPkQl7xpUpCLu.jpg" group-title="ESTRENOS INNOVA - 2025",Juegos de seducción (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rTxsUEHPOUAQCGxmtLf5ZuiaLUj.jpg" group-title="ESTRENOS ARCHIVE - 2025",Jurassic World: Renace (2025)
 https://archive.org/download/30055/30055.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gnR4ZjTcKXh2Su3FIpOayxM7K0D.jpg" group-title="ESTRENOS ARCHIVE - 2025",Kaiju No 8: Misión de reconocimiento (2025)
 https://archive.org/download/30049/30049.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/atAwxtAjwkBZXIn1PeBceXOdveT.jpg" group-title="ESTRENOS ARCHIVE - 2025",Karate Kid: Leyendas (2025)
 https://archive.org/download/20250729_20250729_0135/Karate%20Kid%20Leyendas%20%282025%29%20720p%20DUAL%201.12%20GB.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5aXoQYwaQ7JJVUWclHAEXJgiS2M.jpg" group-title="ESTRENOS INNOVA - 2025",Karol G: Mañana fue muy bonito (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/dVLIz5BpGfS2vh2WCfCfJR6ZIAV.jpg" group-title="ESTRENOS INNOVA - 2025",Kayara: La princesa inca (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/i9iCP4mlsTKqUPrqQgXxLVjIFN0.jpg" group-title="ESTRENOS INNOVA - 2025",Kiff: La leyenda del anillo de luz (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/Aptk6brjNgSASPvdsotw66RabgM.jpg" group-title="ESTRENOS ARCHIVE - 2025",K.O. (2025)
 https://archive.org/download/k.-o_20250623/K.O.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/y8QzarjF4zEqduL8nLNww2WCjO1.jpg" group-title="ESTRENOS ARCHIVE - 2025",La banda de ladrones de oro (2025)
 https://archive.org/download/la-banda-de-ladrones-del-oro/La%20banda%20de%20ladrones%20del%20oro.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kFoKVQiqtJdJ0qQtSRVihboN1aZ.jpg" group-title="ESTRENOS INNOVA - 2025",La calle del terror: La reina del baile (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hPK7H70vQVpT3qn9zedKqizXVdx.jpg" group-title="ESTRENOS INNOVA - 2025",La casa al final de la curva (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lQyMzrH4MgnPbmOTyDie60G129q.jpg" group-title="ESTRENOS INNOVA - 2025",La dolce villa (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qYJOcdI01G26LImJ6GpzMoBAR0F.jpg" group-title="ESTRENOS INNOVA - 2025",La evaluación (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/p0eqJ2U3opmouheu1M9pxU2JpZl.jpg" group-title="ESTRENOS INNOVA - 2025",La fuente de la eterna juventud (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1QVxpcnrCyPbUQoK52S16onXk3h.jpg" group-title="ESTRENOS INNOVA - 2025",La guerra de los mundos (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vs032JQGwgZeaqfoygTDwnWHLU7.jpg" group-title="ESTRENOS INNOVA - 2025",La herencia (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mhln5lma7i4fYWJpoN3vjPyJnGu.jpg" group-title="ESTRENOS INNOVA - 2025",La hermanastra fea (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3npQJlwv6b9ZmNWe2ukGuBKJJvU.jpg" group-title="ESTRENOS INNOVA - 2025",La hora de la desaparición (2025)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/Bl1zwN2akWJr5mvwIy9R0caQq8.jpg" group-title="ESTRENOS ARCHIVE - 2025",La casa al final de la curva (2025) SUB
+https://archive.org/download/sharp-corner-2024-latino/sharp-corner-2024-%5Blatino%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3npQJlwv6b9ZmNWe2ukGuBKJJvU.jpg" group-title="ESTRENOS ARCHIVE - 2025",La hora de la desaparición (2025)
 https://archive.org/download/weapons-armas-ano-2025-idioma-espanol/weapons%28%20armas%20%29%20-%20a%C3%B1o%202025%20idioma%20espa%C3%B1ol%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ab0eDpvdOP5iXbwd79njbXABCev.jpg" group-title="ESTRENOS ARCHIVE - 2025",La leyenda de Ochi (2025)
 https://archive.org/download/la-leyenda-de-ochi-2025/La%20Leyenda%20De%20Ochi%20%282025%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jIWggKOztcUdOrDsU90pqdSChWc.jpg" group-title="ESTRENOS INNOVA - 2025",La muerte de un unicornio (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4J5cnIgCl6gvcUvaHkPc0iXkl6y.jpg" group-title="ESTRENOS INNOVA - 2025",La niebla de la guerra (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1Ro9NsJT7QUtKXCaxGSTnga0Ci0.jpg" group-title="ESTRENOS ARCHIVE - 2025",La noche siempre llega (2025)
 https://archive.org/download/la-noche-siempre-llega-2025-latino/la-noche-siempre-llega-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tV0ALVBx1aTg9DGSP6X4hmUqgSy.jpg" group-title="ESTRENOS ARCHIVE - 2025",La otra boda (2025)
@@ -316,104 +183,42 @@ https://archive.org/download/gerreras-de-k-pop/gerreras%20de%20k-pop.mp4
 https://archive.org/download/la-ltima-cena-2025-latino/la-ltima-cena-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/aHHCXbPjI6xHJoo5fkBNmPm2lo1.jpg" group-title="ESTRENOS ARCHIVE - 2025",La venganza de Popeye (2025)
 https://archive.org/download/la-venganza-de-popeye-2025-latino/la-venganza-de-popeye-2025-%5Blatino%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uNtu3tCI2muhuGOqkKlHxjGliff.jpg" group-title="ESTRENOS INNOVA - 2025",La vieja guardia 2 (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mjt7bYnnU5wXnwt90MUVrVckIke.jpg" group-title="ESTRENOS INNOVA - 2025",La viuda negra (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vpTk0ehSZlVsfGjPjerRV1bqlxb.jpg" group-title="ESTRENOS INNOVA - 2025",Leones marinos de las Galápagos (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zqOajIiJdzHoYXjH6FLbKFFjSk5.jpg" group-title="ESTRENOS ARCHIVE - 2025",Leyendas de los Héroes Cóndor (2025)
 https://archive.org/download/legends-of-the-condor-heroes-the-gallants-latino/Legends%20of%20the%20Condor%20Heroes-%20The%20Gallants%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ymrME30Y5tWuYQlkrHwI4GkfeaE.jpg" group-title="ESTRENOS INNOVA - 2025",Lilo y Stitch (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rrAc4MlmTHvZOw1it9XkTAWJBl1.jpg" group-title="ESTRENOS ARCHIVE - 2025",Llamada a medianoche (2025)
 https://archive.org/download/hallow-road-2025-latino/hallow-road-2025-%5Blatino%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6PbSSN2BT22ZMsMaD7m8cGaqk3L.jpg" group-title="ESTRENOS INNOVA - 2025",Loco por Ella (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vQdeiSVDFEhdhqEd2SHsI3wk69c.jpg" group-title="ESTRENOS ARCHIVE - 2025",Lo que le falta a esta estrella (2025)
 https://archive.org/download/lo-que-le-falta-a-esta-estrella/Lo%20que%20le%20falta%20a%20esta%20estrella.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/co5imwjC597K5ifvautY63pttZT.jpg" group-title="ESTRENOS INNOVA - 2025",Los asesinatos del lago Bear (2025) SUB
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tOX8vpYmRQzCviNl5TxTn4CqsZX.jpg" group-title="ESTRENOS ARCHIVE - 2025",Los 4 Fantásticos: Primeros pasos (2025)
+https://archive.org/download/2025-fantasticos-4-espanollatino/2025-fantasticos4-espa%C3%B1ollatino.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oasB2Zrt5xwSUAvtW0gEXRywTcg.jpg" group-title="ESTRENOS ARCHIVE - 2025",Los condenados (2025)
 https://archive.org/download/los-condenados-2025-latino/los-condenados-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/osrlCIHYOlqOJaDh7zAaeaqh1LF.jpg" group-title="ESTRENOS ARCHIVE - 2025",Los desenredos del amor (2025)
 https://archive.org/download/los-desenredos-del-amor-2025-latino/los-desenredos-del-amor-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cLBBslJuw7zWFs8FH0UZAR4aG8W.jpg" group-title="ESTRENOS ARCHIVE - 2025",Los dos hemisferios de Lucca (2025)
 https://archive.org/download/los-dos-hemisferios-de-lucca/Los%20dos%20hemisferios%20de%20Lucca.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tS4VKxhLaNvTeTxrdNSas4qTCAa.jpg" group-title="ESTRENOS INNOVA - 2025",Los Khumalo (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oasB2Zrt5xwSUAvtW0gEXRywTcg.jpg" group-title="ESTRENOS INNOVA - 2025",Los malditos (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fQz9xeuvJfSm0rtnxSTT06lPx0Q.jpg" group-title="ESTRENOS INNOVA - 2025",Los pecadores (2025)
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMxwyYk4/20250312-225946.jpg" group-title="ESTRENOS INNOVA - 2025",Los Simpsons: Pasado furioso (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gvf3qgWRj5U9CeX3JmIkq0WzQ0H.jpg" group-title="ESTRENOS ARCHIVE - 2025",Los tipos malos 2 (2025)
 https://archive.org/download/los-tipos-malos-2-latino-hd/Los%20tipos%20malos%202%20Latino%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/d8klTAPdlI0yFybI6yGPqq5bOtG.jpg" group-title="ESTRENOS INNOVA - 2025",Los vigilantes (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qH5mZrjT88qWyY3221QFD89De2z.jpg" group-title="ESTRENOS INNOVA - 2025",Love me (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/h6cxDZb5JRzaMZP37AfGPlHfCnm.jpg" group-title="ESTRENOS INNOVA - 2025",Lulu es una rinoceronte (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kc5n7LJUmvBsVxzAla1ONN8kouP.jpg" group-title="ESTRENOS ARCHIVE - 2025",Maa (2025)
 https://archive.org/download/maa-2025-latino/maa-2025-%5Blatino%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oogmlZekRCHP0JDhHKDZIyDIfpP.jpg" group-title="ESTRENOS INNOVA - 2025",Mala influencia (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9uJvHy0pIzVxD23PRfvrM6DN2nb.jpg" group-title="ESTRENOS ARCHIVE - 2025",Mamá reinventada (2025)
 https://archive.org/download/mama-reinventada-2025/Mam%C3%A1%20reinventada%20%282025%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/aJfZSmblz93MSDSJPG0JwC2Nn2S.jpg" group-title="ESTRENOS ARCHIVE - 2025",María Callas (2025)
 https://archive.org/download/maria-callas-latino/Mar%C3%ADa%20Callas%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cDAws6LhkKmIjoRGsxzo6RgBgNT.jpg" group-title="ESTRENOS ARCHIVE - 2025",Más allá de la fuerza, más allá de la fé (2025)
 https://archive.org/download/mas-alla-de-la-fuerza-mas-alla-de-la-fe-2024-latino/mas-alla-de-la-fuerza-mas-alla-de-la-fe-2024-%5Blatino%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3Of6QJ6j7mNAluw52lNzE6KGCpD.jpg" group-title="ESTRENOS INNOVA - 2025",Masameer Junior (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ptYJSyb1VpZyKhmD6rsA8r47hbn.jpg" group-title="ESTRENOS INNOVA - 2025",Megan 2.0 (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/sj5JljXWvxnxVrIW9oj6U43FgRm.jpg" group-title="ESTRENOS ARCHIVE - 2025",Mensaje en una botella (2025)
 https://archive.org/download/30058/30058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kF99jQrV04pcb05FkREzo6SepWW.jpg" group-title="ESTRENOS INNOVA - 2025",Mesa de regalos (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wqeeWsubPXkfgk2BEqNgZ8qYMFU.jpg" group-title="ESTRENOS INNOVA - 2025",Mi año en Oxford (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jd5Rubm07EenZW1F5RkSGLd49Ac.jpg" group-title="ESTRENOS INNOVA - 2025",Mickey 17 (2025)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r6S7D1YYnyu0HnXavhkQ4c7BbPW.jpg" group-title="ESTRENOS INNOVA - 2025",Mi corazón argentino (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jm6lNbpmKcxX6M0pieaKhP6hs3w.jpg" group-title="ESTRENOS INNOVA - 2025",Mikaela (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4OvgWeGZjAbqvS1s4N668Kad05T.jpg" group-title="ESTRENOS INNOVA - 2025",Mi lista de deseos (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gHRLQfA0Q4ytqYeomzemiQI4Azq.jpg" group-title="ESTRENOS INNOVA - 2025",Mis 84 m² (2025)
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uOlCJH8Z7pK8EFaiz6RmLtzIMiS.jpg" group-title="ESTRENOS ARCHIVE - 2025",Mi amiga muerta Zoe (2025)
+https://archive.org/download/la-casa-al-final-de-la-curva-latino/La%20casa%20al%20final%20de%20la%20curva%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bF78uZ7XmPL5njDtWZRYXk21WmR.jpg" group-title="ESTRENOS ARCHIVE - 2025",Misión imposible: Sentencia final parte 2 (2025)
 https://archive.org/download/mision-imposible-sentencia-final-latino/Misi%C3%B3n-%20Imposible%20-%20Sentencia%20final%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/blxlyZFU3LKNqpegaoUmkrQzQJw.jpg" group-title="ESTRENOS INNOVA - 2025",Mononoke 2 (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/n9jpuWByzvqbtpRD92Ga9BJuRQO.jpg" group-title="ESTRENOS ARCHIVE - 2025",Nadie 2 (2025)
 https://archive.org/download/nadie-2-latino/Nadie%202%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gep8Mk0ndUn8IXyXouPz5cvIvzj.jpg" group-title="ESTRENOS INNOVA - 2025",Night Carnage (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7LJmoWnLXUPIYUu9JVSBzDPrIr6.jpg" group-title="ESTRENOS INNOVA - 2025",Nonnas (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/a8o59RD4zsdCntlhZonm0EVwmpe.jpg" group-title="ESTRENOS INNOVA - 2025",Novocaine: Sin dolor (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pXEMDnc7wKVNEvs9beXQAW6jnw9.jpg" group-title="ESTRENOS INNOVA - 2025",Nuestros tiempos (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/aEdb2bqiiC5ZGKWhaXZ9tMxehLl.jpg" group-title="ESTRENOS INNOVA - 2025",O'Dessa (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/phsBSJh027EAMAjFODWic9k6uGz.jpg" group-title="ESTRENOS ARCHIVE - 2025",Oni-Goroshi: Ciudad de los demonios (2025)
 https://archive.org/download/294346-38b-2c-0e-1-26bc-4a-58-8584-2fb-6e-9ced-2ed-ggly-2587820-streamwish/294346--38b2c0e1-26bc-4a58-8584-2fb6e9ced2ed--ggly--2587820-streamwish.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yuhsWhiBjnGLLkjh8BMOKPpipy2.jpg" group-title="ESTRENOS INNOVA - 2025",Opus (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rceU1WTVeVzkDUUrL0Y28QzLwcZ.jpg" group-title="ESTRENOS ARCHIVE - 2025",Osiris (2025)
 https://archive.org/download/osiris-2025-latino/osiris-2025-%5Blatino%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xl05xMCNbal2CjtunC81dojpy3H.jpg" group-title="ESTRENOS INNOVA - 2025",Otro pequeño favor (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mTG7BGlD0Hdf9RhFrqI2EXx9nDm.jpg" group-title="ESTRENOS INNOVA - 2025",Pánico en el tren bala (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yaV9Fjtm1Q30jr7w687CpqE7zVX.jpg" group-title="ESTRENOS INNOVA - 2025",Peter Pan: Pesadilla en Nunca Jamás (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/r4223G5QoVgsG9iZIaAnBOWNLmU.jpg" group-title="ESTRENOS ARCHIVE - 2025",Piglet (2025)
 https://archive.org/download/1352774-latino/1352774-Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pitufos (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zOlllOUcAJELWJSTnFhNIuxgm8.jpg" group-title="ESTRENOS ARCHIVE - 2025",Pitufos (2025)
@@ -438,34 +243,16 @@ https://archive.org/download/rescate-implacable-2025_202506/Rescate%20implacable
 https://archive.org/download/tonterias-de-amor-2025/Revelaci%C3%B3n%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oSdrcmHeFPvIIm4Es15rrWc3nkn.jpg" group-title="ESTRENOS ARCHIVE - 2025",Ricos, sin duda (2025)
 https://archive.org/download/tonterias-de-amor-2025/Ricos%2C%20sin%20duda%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oGzsgtVpYuK9x4K0axprEa8ZHbV.jpg" group-title="ESTRENOS INNOVA - 2025",Rosario (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nRO3tgbK2mgFBzZTWyOhc9swHw4.jpg" group-title="ESTRENOS ARCHIVE - 2025",Screamboat: La masacre del ratón (2025)
 https://archive.org/download/la-celebraci-n-macabra-2024-latino/Screamboat-%20El%20barco%20del%20terror%20Latino%20HDFull.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mRJ4nlRwMYsADwkRSiaXfVmi5NM.jpg" group-title="ESTRENOS INNOVA - 2025",Secuestro en el aire 1971 (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lu6NcSWXI7Xh2J9zJolu2iH5qbl.jpg" group-title="ESTRENOS ARCHIVE - 2025",Sé lo que hicieron el verano pasado (2025)
 https://archive.org/download/se-lo-que-hicisteis-el-ultimo-verano-latino/S%C3%A9%20lo%20que%20hicisteis%20el%20%C3%BAltimo%20verano%20Latino.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7PN3ucFHZ17M10FDbRelc8Q8jmI.jpg" group-title="ESTRENOS INNOVA - 2025",Semidulce 2 (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/Ah7aWI4hCQvc87aTZ1BQkhczkAq.jpg" group-title="ESTRENOS INNOVA - 2025",Shadow Force: Sentencia de muerte (2025) SUB
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/n74aeSburl1MhCNFlQxHxXp0NVn.jpg" group-title="ESTRENOS INNOVA - 2025",Sin oxígeno (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ynfYUQ2qIFtE2sd7YiN1XzaKOjt.jpg" group-title="ESTRENOS INNOVA - 2025",Site (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/u0SEa5ZCT9tWxpj4HYnrGx83e1E.jpg" group-title="ESTRENOS ARCHIVE - 2025",Sketch: Cuidado con lo que dibujas (2025)
 https://archive.org/download/sketch.-cuidado-con-lo-que-dibujas-latino/Sketch.%20Cuidado%20con%20lo%20que%20dibujas%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5KtZSvk4ZFTyMDDrwqt3OpVB9i2.jpg" group-title="ESTRENOS ARCHIVE - 2025",Sneaks: Un par con suerte (2025)
 https://archive.org/download/tonterias-de-amor-2025/Sneaks%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ebMfO9gHuiCMHaq3Wi8B84nPTC5.jpg" group-title="ESTRENOS INNOVA - 2025",Snoopy presenta: Un musical de verano (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7vGti5pNo3qsAiZJHDo1ipxSmU5.jpg" group-title="ESTRENOS INNOVA - 2025",Soltera, casada, viuda, divorciada 2 (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tRWekfILUW4WnW3ZqdJWCcTa4Db.jpg" group-title="ESTRENOS ARCHIVE - 2025",Star Trek: Seccion 31 (2025)
 https://archive.org/download/tonterias-de-amor-2025/Star%20Trek%20-%20Secci%C3%B3n%2031%20%282025%29.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gQPg9dKsrYOMTh8BVmdPk9jt2XD.jpg" group-title="ESTRENOS INNOVA - 2025",Strawberry Prince (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/faHhaLYmXCbOIuR6StKaX2a780f.jpg" group-title="ESTRENOS ARCHIVE - 2025",Superman (2025)
 https://archive.org/download/superman-latino/superman%20latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cBycXh6HXN9Enm8gQGipbNl6tz2.jpg" group-title="ESTRENOS ARCHIVE - 2025",Terror en el río (2025)
@@ -480,68 +267,32 @@ https://archive.org/download/thunderbirds-la-lite-de-la-fuerza-a-rea-de-ee-uu-20
 https://archive.org/download/thunderbolts-latino/Thunderbolts-%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uS0QMgpO81PlZGtVaGgFrevIarP.jpg" group-title="ESTRENOS ARCHIVE - 2025",Tierras perdidas (2025)
 https://archive.org/download/tonterias-de-amor-2025/Tierras%20perdidas%20%282025%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yhVORejEt6OCsBCk9E6EjZvkyoY.jpg" group-title="ESTRENOS INNOVA - 2025",Titán: La tragedia de OceanGate (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg" group-title="ESTRENOS ARCHIVE - 2025",Titanic: La resurrección digital (2025)
 https://archive.org/download/tonterias-de-amor-2025/Titanic%20-%20La%20resurrecci%C3%B3n%20digital%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kgjECt843bYn9rZFBIqRea9jZXS.jpg" group-title="ESTRENOS ARCHIVE - 2025",Tonterías de amor (2025)
 https://archive.org/download/tonterias-de-amor-2025/Tonter%C3%ADas%20de%20amor%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rYR8LIrvMbnkWHKfnZpXvBwXdVn.jpg" group-title="ESTRENOS ARCHIVE - 2025",Tornado: Atrapados en la tormenta (2025)
 https://archive.org/download/tornado-atrapados-en-la-tormenta-2025/Tornado%20-%20Atrapados%20en%20la%20tormenta%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/acbYuv9ZuO0Rvwi2QV8wQe7e1UP.jpg" group-title="ESTRENOS INNOVA - 2025",Torre Grenfell: El incendio al descubierto (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5R9cFgCdGiHCBb6orJKWrmwKvYR.jpg" group-title="ESTRENOS ARCHIVE - 2025",Umami (2025)
 https://archive.org/download/tornado-atrapados-en-la-tormenta-2025/Umami%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fHZaL5UXmEmb4HezZgCaA1HIsxL.jpg" group-title="ESTRENOS ARCHIVE - 2025",Umjolo: Mi principio, mi final (2025)
 https://archive.org/download/tornado-atrapados-en-la-tormenta-2025/Umjolo%20-%20Mi%20principio%2C%20mi%20final%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qwf9zfHVdpDRHqerMwZ2NtXItDY.jpg" group-title="ESTRENOS INNOVA - 2025",Una ballena (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="ESTRENOS INNOVA - 2025",Una boda en las Bahamas con Madea (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uflnD9Gl6Ia327IYfjNtNSxjzdO.jpg" group-title="ESTRENOS ARCHIVE - 2025",Una historia de amor en Copenhague (2025)
 https://archive.org/download/tornado-atrapados-en-la-tormenta-2025/Una%20historia%20de%20amor%20en%20Copenhague%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bOVmksfmax1kA7FF0pmCq89TrF4.jpg" group-title="ESTRENOS ARCHIVE - 2025",Una muerte antes de una boda (2025)
 https://archive.org/download/tornado-atrapados-en-la-tormenta-2025/Una%20muerte%20antes%20de%20una%20boda%20%282025%29.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tTa2nDCeHIPZXCOlpVdqLps1T3V.jpg" group-title="ESTRENOS ARCHIVE - 2025",Una muerte silenciosa (2025)
 https://archive.org/download/tornado-atrapados-en-la-tormenta-2025/Una%20muerte%20silenciosa%20%282025%29.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/exjQYsPcw6klDl9xGlIVObiKaCO.jpg" group-title="ESTRENOS INNOVA - 2025",Una mujer normal (2025)
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/s0zDEtjM9DVshzK3T3kGfibqJy.jpg" group-title="ESTRENOS ARCHIVE - 2025",Una película de Minecraft (2025)
 https://archive.org/download/una-pelicula-de-minecraft-2025_202507/Una%20Pelicula%20de%20Minecraft%20%282025%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9Xu3KumdXHDpUOR9inJoAMtIcrM.jpg" group-title="ESTRENOS ARCHIVE - 2025",Una quinta portuguesa (2025)
 https://archive.org/download/una-quinta-portuguesa-castellano/Una%20quinta%20portuguesa%20Castellano.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUzNjg1MTQtNmU1Yy00MTA1LWE2YTMtZTFjNjI2ODAyOGQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="ESTRENOS INNOVA - 2025",Un cuento de pescadores (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4yeF9HzLAGvIM2wU3ENZLqvCkiZ.jpg" group-title="ESTRENOS INNOVA - 2025",Un funeral de locos (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xCCHhuEagdDv7WSQ8DhGskFeKFW.jpg" group-title="ESTRENOS INNOVA - 2025",Un hombre abandonado (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/m3VhGZhRThsneGwQHb8UfFNYifR.jpg" group-title="ESTRENOS INNOVA - 2025",Un matrimonio mortal en Carolina del Norte (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7MnRbA5GawfvVE41t5tBtIjAzjU.jpg" group-title="ESTRENOS INNOVA - 2025",Uno de esos días (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/t7W3umdwUTkbwGoREwldtFDLf4u.jpg" group-title="ESTRENOS INNOVA - 2025",Unos padres de miedo (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7gBS6yFVptRxWdShjQdSiBMMIw7.jpg" group-title="ESTRENOS ARCHIVE - 2025",Until Dawn: Noche de terror (2025)
 https://archive.org/download/until-dawn-noche-de-terror-2025/Until%20Dawn%20Noche%20de%20terror%20%282025%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eLM7OGqASDZTVA4AY5Mc6UeLA9E.jpg" group-title="ESTRENOS INNOVA - 2025",Uppercut: Golpe de superación (2025) SUB
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qSqVe2G9XcTuxdTn2ZHZvk3uE2x.jpg" group-title="ESTRENOS ARCHIVE - 2025",Velocidad salvaje (2025)
 https://archive.org/download/velocidad-salvaje-2025-latino/velocidad-salvaje-2025-%5Blatino%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/b6Lq2B4bClviuqHpoqP1JVKJmx0.jpg" group-title="ESTRENOS INNOVA - 2025",Verano infernal (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ihVoUq8ja3EvEHRZhcwf8OkIy73.jpg" group-title="ESTRENOS INNOVA - 2025",Viaje de fin de curso: Mallorca (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rVYEP9R8fBe6sxrqc3gP1cAehYZ.jpg" group-title="ESTRENOS INNOVA - 2025",Votemos (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oRV5KR7RegDhbgG5QcnZ3sAKvlW.jpg" group-title="ESTRENOS INNOVA - 2025",Warfare: Tiempo de guerra (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uOyWpp5PLzcCB0eq0AsbAOfBHjG.jpg" group-title="ESTRENOS INNOVA - 2025",Ziam (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/h7gr4nLFumtmBYomSS84eey9beI.jpg" group-title="ESTRENOS INNOVA - 2025",Zoe: Mi amiga muerta (2025)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eCuC51m07mHk1XGbyLAgpy1RHtM.jpg" group-title="ESTRENOS INNOVA - 2025",Zombies 4: Un verano entre vampiros (2025)
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2MZBpW0bfQNJdWPCDM7OZetem1L.jpg" group-title="ESTRENOS ARCHIVE - 2025",Velocidad total (2025)
+https://archive.org/download/velocidad-total-2024-latino/velocidad-total-2024-%5Blatino%5D.mp4
 
 
 
@@ -26158,6 +25909,9 @@ http://fivetv.org:25461/movie/Maedas1712/SDMT337338/341901.mkv
 http://fivetv.org:25461/movie/Maedas1712/SDMT337338/341902.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lecciones de un pingüino (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6sCNHRSghYTguus6Nyg0asbIYHl.jpg" group-title="ESTRENOS 2025",Lecciones de un pingüino (2025)
 http://fivetv.org:25461/movie/Maedas1712/SDMT337338/341903.mkv
+
+
+
 
 
 
