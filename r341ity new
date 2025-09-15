@@ -8,9 +8,32 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Aquecimento
-http://cdn50.vip:80/marlonestiano/102230405060/323404.ts
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/323404.ts
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 01
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 02
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 03
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 04
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 05
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 06
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 07
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 08
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="PFSV - ESTRELA DA CASA (BRASIL)",CAM 09
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/326236.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="OFFICE - ESTRELA DA CASA (BRASIL)",CAM 01
@@ -21,10 +44,6 @@ http://dnscine.top:80/432948585/844846214/768806.ts
 http://dnscine.top:80/432948585/844846214/1975966.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2e/Logo-estrela-da-casa_.jpg/250px-Logo-estrela-da-casa_.jpg" group-title="OFFICE - ESTRELA DA CASA (BRASIL)",CAM 04
 http://dnscine.top:80/432948585/844846214/1975967.ts
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Famosos I Acceso Total" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososMéxico.png" group-title="LA CASA DE LOS FAMOSOS (MEXICO)",Acceso Total
