@@ -7,8 +7,18 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Aquecimento
-http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/323404.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Cam 01
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/329714.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Cam 02
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/329713.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Cam 03
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/329712.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Cam 04
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/329711.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Cam 05
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/329710.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV - A FAZENDA (BRASIL)",Cam 06
+http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/329709.ts
 
 
 
