@@ -7,6 +7,18 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Cam 01
+http://dnsmain.site:80/866582838/159759854/2443284
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Cam 02
+http://dnsmain.site:80/866582838/159759854/2443286
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Cam 03
+http://dnsmain.site:80/866582838/159759854/2443287
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Cam 04
+http://dnsmain.site:80/866582838/159759854/2443288
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV 1 - A FAZENDA (BRASIL)",Cam 01
 http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/329714.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV 1 - A FAZENDA (BRASIL)",Cam 02
@@ -32,12 +44,6 @@ http://fistfast.vip:80/FelipeCB/CBFelipe/329711.ts
 http://fistfast.vip:80/FelipeCB/CBFelipe/329710.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV 2 - A FAZENDA (BRASIL)",Cam 06
 http://fistfast.vip:80/FelipeCB/CBFelipe/329709.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Aquecimento
-http://dnsmain.site:80/Upcine2035/2035upcine/1994425
-
 
 
 
