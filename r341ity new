@@ -7,6 +7,26 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 01
+http://techragdois.space:80/28439894/18383298/6270787.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 02
+http://techragdois.space:80/28439894/18383298/6290178.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 03
+http://techragdois.space:80/28439894/18383298/6290178.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 04
+http://techragdois.space:80/28439894/18383298/6290178.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 05
+http://techragdois.space:80/28439894/18383298/6290178.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 06
+http://techragdois.space:80/28439894/18383298/6290178.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 07
+http://techragdois.space:80/28439894/18383298/6290178.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 08
+http://techragdois.space:80/28439894/18383298/6290178.ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 01
 http://srv.cldplay.in:80/edilucia32512/184729472847/179430
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 02
@@ -17,17 +37,6 @@ http://srv.cldplay.in:80/edilucia32512/184729472847/169540
 http://srv.cldplay.in:80/edilucia32512/184729472847/165426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 05
 http://srv.cldplay.in:80/edilucia32512/184729472847/165222
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Cam 01
-http://dnsmain.site:80/866582838/159759854/2443284
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Cam 02
-http://dnsmain.site:80/866582838/159759854/2443286
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Cam 03
-http://dnsmain.site:80/866582838/159759854/2443287
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="MP77 - A FAZENDA (BRASIL)",Cam 04
-http://dnsmain.site:80/866582838/159759854/2443288
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV 1 - A FAZENDA (BRASIL)",Cam 01
