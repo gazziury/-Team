@@ -7,6 +7,18 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 01
+http://svrhb.com:80/live/aleprado/3499990750/1154802.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 02
+http://svrhb.com:80/live/aleprado/3499990750/1154803.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 03
+http://svrhb.com:80/live/aleprado/3499990750/1154804.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 04
+http://svrhb.com:80/live/aleprado/3499990750/1154805.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 05
+http://svrhb.com:80/live/aleprado/3499990750/1154806.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 06
+http://svrhb.com:80/live/aleprado/3499990750/1154807.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 01
 http://techragdois.space:80/28439894/18383298/6270787.ts
@@ -24,20 +36,6 @@ http://techragdois.space:80/28439894/18383298/6290182.ts
 http://techragdois.space:80/28439894/18383298/6290183.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="BALCK - A FAZENDA (BRASIL)",Cam 08
 http://techragdois.space:80/28439894/18383298/6290184.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 01
-http://srv.cldplay.in:80/edilucia32512/184729472847/179430
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 02
-http://srv.cldplay.in:80/edilucia32512/184729472847/177437
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 03
-http://srv.cldplay.in:80/edilucia32512/184729472847/169540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 04
-http://srv.cldplay.in:80/edilucia32512/184729472847/165426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 05
-http://srv.cldplay.in:80/edilucia32512/184729472847/165222
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="PFSV 1 - A FAZENDA (BRASIL)",Cam 01
 http://fistfast.vip:80/hfelipe@gmail.com/Y5dupjb2frdtat/329714.ts
