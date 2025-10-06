@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_69.mkv
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_75.mkv
 http://series.tuxchannel.mx/series/velvet_el_nuevo_imperio/s_01_e_91.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_59.mkv
 
@@ -9911,6 +9911,16 @@ http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_67.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_68.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 069
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_69.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 070
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_70.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 071
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_72.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 072
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_73.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 073
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_74.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 074
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_75.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7e/8d/f27e8d966c371621e7122967b2deebfe.jpg" group-title="Sin miedo a la verdad T1",Cap. 01
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_01_e_01.mkv
