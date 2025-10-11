@@ -9,6 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_03.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_79.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_69.mkv
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_19.mkv
 
 
 
@@ -8743,6 +8744,45 @@ http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_78.mkv
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_79.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/EUC0csa.jpeg" group-title="Papás por conveniencia",Cap. 077
 http://series.tuxchannel.mx/series/papas_por_conveniencia/s_01_e_80.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 001
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 002
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 003
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 004
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 005
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 006
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 007
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 008
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 009
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 010
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 011
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_11.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 012
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 013
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 014
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 015
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_15.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 016
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_16.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 017
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_17.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 018
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_18.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 019
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_19.mkv
 
 #EXTINF:-1 tvg-logo="https://www.gannett-cdn.com/presto/2021/10/18/PPHXS/6d09cef1-88ee-4ec2-8ee1-7419d56fc587-parientes2.png" group-title="Parientes a la fuerza",Cap. 01
 http://series.tuxchannel.mx/series/parientes_a_la_fuerza/s_01_e_01.mkv
