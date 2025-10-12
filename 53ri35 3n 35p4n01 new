@@ -10247,6 +10247,23 @@ http://series.tuxchannel.mx/series/negociador/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="Negociador",Cap. 08
 http://series.tuxchannel.mx/series/negociador/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUoa2eSAWU2DU14bmvUOuM3Vhli.jpg" group-title="Néro",Cap. 01
+http://series.tuxchannel.mx/series/nero_the_assassin/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUoa2eSAWU2DU14bmvUOuM3Vhli.jpg" group-title="Néro",Cap. 02
+http://series.tuxchannel.mx/series/nero_the_assassin/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUoa2eSAWU2DU14bmvUOuM3Vhli.jpg" group-title="Néro",Cap. 03
+http://series.tuxchannel.mx/series/nero_the_assassin/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUoa2eSAWU2DU14bmvUOuM3Vhli.jpg" group-title="Néro",Cap. 04
+http://series.tuxchannel.mx/series/nero_the_assassin/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUoa2eSAWU2DU14bmvUOuM3Vhli.jpg" group-title="Néro",Cap. 05
+http://series.tuxchannel.mx/series/nero_the_assassin/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUoa2eSAWU2DU14bmvUOuM3Vhli.jpg" group-title="Néro",Cap. 06
+http://series.tuxchannel.mx/series/nero_the_assassin/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUoa2eSAWU2DU14bmvUOuM3Vhli.jpg" group-title="Néro",Cap. 07
+http://series.tuxchannel.mx/series/nero_the_assassin/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sUoa2eSAWU2DU14bmvUOuM3Vhli.jpg" group-title="Néro",Cap. 08
+http://series.tuxchannel.mx/series/nero_the_assassin/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/05/11/23/5226600.jpg" group-title="Next: Siguiente",Cap. 01
 http://series.tuxchannel.mx/series/next/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/05/11/23/5226600.jpg" group-title="Next: Siguiente",Cap. 02
