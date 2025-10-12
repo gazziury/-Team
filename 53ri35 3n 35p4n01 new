@@ -1281,6 +1281,23 @@ http://series.tuxchannel.mx/series/black_bird/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qu312pwM61NPTr7nexvovCClDNP.jpg" group-title="Black Bird: Confesiones de un asesino",Cap. 06
 http://series.tuxchannel.mx/series/black_bird/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCBLFjTyu5VYZ17t9AAOfMEiib1.jpg" group-title="Black Rabbit",Cap. 01
+http://series.tuxchannel.mx/series/black_rabbit/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCBLFjTyu5VYZ17t9AAOfMEiib1.jpg" group-title="Black Rabbit",Cap. 02
+http://series.tuxchannel.mx/series/black_rabbit/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCBLFjTyu5VYZ17t9AAOfMEiib1.jpg" group-title="Black Rabbit",Cap. 03
+http://series.tuxchannel.mx/series/black_rabbit/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCBLFjTyu5VYZ17t9AAOfMEiib1.jpg" group-title="Black Rabbit",Cap. 04
+http://series.tuxchannel.mx/series/black_rabbit/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCBLFjTyu5VYZ17t9AAOfMEiib1.jpg" group-title="Black Rabbit",Cap. 05
+http://series.tuxchannel.mx/series/black_rabbit/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCBLFjTyu5VYZ17t9AAOfMEiib1.jpg" group-title="Black Rabbit",Cap. 06
+http://series.tuxchannel.mx/series/black_rabbit/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCBLFjTyu5VYZ17t9AAOfMEiib1.jpg" group-title="Black Rabbit",Cap. 07
+http://series.tuxchannel.mx/series/black_rabbit/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bCBLFjTyu5VYZ17t9AAOfMEiib1.jpg" group-title="Black Rabbit",Cap. 08
+http://series.tuxchannel.mx/series/black_rabbit/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Black Summer T1",TRAILER
 https://archive.org/download/trailer-b-14-ck-5-umm-3-r/trailer%20B14CK%205UMM3R.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgIgdZv4GqmSb00qh8h6UJClpWA.jpg" group-title="Black Summer T1",Cap. 01
