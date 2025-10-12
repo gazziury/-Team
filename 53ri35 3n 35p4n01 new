@@ -8738,6 +8738,13 @@ http://series.tuxchannel.mx/series/las_hermanas_guerra/s_01_e_19.mkv
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/StNj1sc.jpeg" group-title="Las hermanas Guerra",Cap. 20
 http://series.tuxchannel.mx/series/las_hermanas_guerra/s_01_e_20.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nXze4Ya0DhcnF3qeypE0b7X1DZ5.jpg" group-title="Las maldiciones",Cap. 01
+http://series.tuxchannel.mx/series/las_maldiciones/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nXze4Ya0DhcnF3qeypE0b7X1DZ5.jpg" group-title="Las maldiciones",Cap. 02
+http://series.tuxchannel.mx/series/las_maldiciones/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nXze4Ya0DhcnF3qeypE0b7X1DZ5.jpg" group-title="Las maldiciones",Cap. 03
+http://series.tuxchannel.mx/series/las_maldiciones/s_01_e_03.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhekXJx8MCKWJPETh68jitvIMGn.jpg" group-title="Las muertas",Cap. 01
 http://series.tuxchannel.mx/series/las_muertas/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhekXJx8MCKWJPETh68jitvIMGn.jpg" group-title="Las muertas",Cap. 02
