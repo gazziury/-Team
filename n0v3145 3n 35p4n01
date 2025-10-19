@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_08.mkv
-http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_79.mkv
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_84.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_19.mkv
 
@@ -10004,6 +10004,16 @@ http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_77.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_78.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 078
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_79.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 079
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_80.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 080
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_81.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 081
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_82.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 082
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_83.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 083
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_84.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7e/8d/f27e8d966c371621e7122967b2deebfe.jpg" group-title="Sin miedo a la verdad T1",Cap. 01
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_01_e_01.mkv
