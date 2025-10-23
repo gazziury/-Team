@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/the_last_frontier/s_01_e_03.mkv ...alaska serán 10
 
-http://series.tuxchannel.mx/series/task/s_01_e_05.mkv ...son 7
+http://series.tuxchannel.mx/series/task/s_01_e_06.mkv ...son 7
 
 
 
@@ -12278,6 +12278,8 @@ http://series.tuxchannel.mx/series/task/s_01_e_03.mkv
 http://series.tuxchannel.mx/series/task/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4MX9CgZuclsMnMaq0faV24rDJV4.jpg" group-title="Task: Unidad especial",Cap. 05
 http://series.tuxchannel.mx/series/task/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4MX9CgZuclsMnMaq0faV24rDJV4.jpg" group-title="Task: Unidad especial",Cap. 06
+http://series.tuxchannel.mx/series/task/s_01_e_06.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aljh1P0GcllVvjVZStKkOcGihhf.jpg" group-title="Teacup",Cap. 01
 http://series.tuxchannel.mx/series/teacup/s_01_e_01.mkv
