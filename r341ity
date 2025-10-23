@@ -7,6 +7,12 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/La_Granja_VIP_Mexico_logo.png" group-title="La Granja VIP (Mexico)",Cam 01
+https://tv.nousiptv.com:8443/FJose20/908254/1261307
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/La_Granja_VIP_Mexico_logo.png" group-title="La Granja VIP (Mexico)",Cam 02
+https://tv.nousiptv.com:8443/FJose20/908254/1261307
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 01
 http://svrhb.com:80/live/aleprado/3499990750/1154802.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="SRV - A FAZENDA (BRASIL)",Cam 02
