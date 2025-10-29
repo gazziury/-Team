@@ -1,6 +1,262 @@
 #EXTM3U
 ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oDKbJFvnPyCk7pDX2xttSxXEWXW.jpg" group-title="PELICULAS 60 FPS",65: Al borde de la extinción
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/65%20AL%20BORDE%20DE%20LA%20EXTINCI%c3%93N/65Al%20borde%20de%20la%20extinci%c3%b3n%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bHyriLmcnbgLEEFnlfixKeKbyUk.jpg" group-title="PELICULAS 60 FPS",300
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/300%20%282006/300%20%282006%29%20x264%20BDRip%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gLigqjL5s59UvTcDXGgxL616RYy.jpg" group-title="PELICULAS 60 FPS",Adicción perfecta
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/Adicci%c3%b3n.perfecta.2023%2060fps/Adicci%c3%b3n.perfecta.2023.WEB-DL.AMZN.1080p.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qG1l1G2FZv4bhmbCQxklFrPmvs.jpg" group-title="PELICULAS 60 FPS",A.I.: Inteligencia artificial
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/I.A.%20INTELIGENCIA%20ARTIFICIAL/A.I.%20ARTIFICIAL%20INTELLIGENCE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fwmoeF44DXBk1tC30QFAiE0nwjT.jpg" group-title="PELICULAS 60 FPS",Avatar
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Avatar%20%282009%29/Avatar%20%282009%29%20Extended%2060FPS%20BDRIP%20x264%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rNJEgsgZObl5peJOT01zbwUyGN8.jpg" group-title="PELICULAS 60 FPS",Avatar: El camino del agua
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/Avatar%20The%20Way%20of%20Water%2060%20fps/Avatar-%20El%20camino%20del%20agua%20(2022)%201080p%2060FPS%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/sZVYVK1cyeCCxYbKuZJBlFiEZ9V.jpg" group-title="PELICULAS 60 FPS",Bad Boys 4
+http://15.235.51.60/contenido/PELICULAS%2060%20FPS/Bad%20Boys%20Ride%20or%20Die/Bad.Boys.Ride.or.Die.2024.1080p.WEB-DL.DD5.1.60FPS.H.264-Ochaco.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6g8rm53Xb13npBQvO9gUZB2pwsj.jpg" group-title="PELICULAS 60 FPS",Caroline y la puerta secreta
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Coraline%20y%20la%20puerta%20secreta/CORALINE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/astxPHvzGG29ICDQ3sSpDMoiR3p.jpg" group-title="PELICULAS 60 FPS",Cazafantasmas: El legado
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Ghostbusters%20El%20Legado%20%282021%29/Ghostbusters%20El%20Legado%20%282021%29%2060FPS%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ozVPHpq97yoyg3UrTndWRRmBCGF.jpg" group-title="PELICULAS 60 FPS",Chappie
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Chappie%20(2015/Chappie%20(2015)%2060FPS%20x264%201080p%20Dual.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8gzbxEFmOsq9Iku512ty5eMc9F.jpg" group-title="PELICULAS 60 FPS",Cloud Atlas
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/CLOUD%20ATLAS/CLOUD%20ATLAS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cXsMWqTapB8hLqosuIXWP35SwUq.jpg" group-title="PELICULAS 60 FPS",Conoces a Joe Black
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/CONOCES%20A%20JOE%20BLACK/MEET%20JOE%20BLACK.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xlG5OFzEb23YSVjvyH5rZXQuskl.jpg" group-title="PELICULAS 60 FPS",Creed III
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/CREED%20III%20(2023)%201080P%2060FPS/Creed%20III%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pp6LW19CX9clJ6eooH1NEUXUzwJ.jpg" group-title="PELICULAS 60 FPS",DC Liga de supermascotas
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/DC%20Liga%20de%20Supermascotas%20%282022%29/DC%20Liga%20de%20Supermascotas%20%282022%29%20WEB-DL%2060FPS%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hE1RjzpDI2B9hTuIBES93XkcMTj.jpg" group-title="PELICULAS 60 FPS",Desde el infierno
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/DESDE%20EL%20INFIERNO/FROM%20HELL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qMRu1CSxZRoDP1QpA9lnYhgEjCA.jpg" group-title="PELICULAS 60 FPS",Destino final 1
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/DESTINO%20FINAL/1/FINAL%20DESTINATION.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xRPyj78xaKRCaZCvUuuvDQbyQ1E.jpg" group-title="PELICULAS 60 FPS",Destino final 2
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/DESTINO%20FINAL/2/FINAL%20DESTINATION%202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1VXtgk1S64QywSF8cmEUafioeUV.jpg" group-title="PELICULAS 60 FPS",Destino final 3
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/DESTINO%20FINAL/3/FINAL%20DESTINATION%203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3olxzbvM9f7zoz7LWXzH5O6tz3u.jpg" group-title="PELICULAS 60 FPS",Destino final 4
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/DESTINO%20FINAL/4/FINAL%20DESTINATION%204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/97WREuFOTDKVtGvhpeiBPnNzOuE.jpg" group-title="PELICULAS 60 FPS",Destino final 5
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/DESTINO%20FINAL/5/FINAL%20DESTINATION%205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/iC6ExrQhb6FaWc9GqiKkYkpoJRR.jpg" group-title="PELICULAS 60 FPS",Dinosaurio
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/DINOSAURIO/DINOSAUR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eEE1NXwBdSzLYbCBKQJnGXhTZ3I.jpg" group-title="PELICULAS 60 FPS",Doctor Strange en el multiverso de la locura
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20%282022%29/Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20%282022%29%20IMAX%20WEB-DL%2060%20FPS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bMrlH8hcmugmuncjjqZrUEsHw6U.jpg" group-title="PELICULAS 60 FPS",Dragon Ball Super: Broly
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Dragon%20Ball%20Super%20Broly/Dragon%20Ball%20Super%20Broly%20%282018%29%2060FPS%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xv0wDph4eCmf7U5RFhHSyuPesx2.jpg" group-title="PELICULAS 60 FPS",Dragon Ball Z: Resurrection 'F'
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Dragon%20Ball%20Z%20-%20Resurrection%20'F/Dragon%20Ball%20Z%20-%20Resurrection%20'F'%20(2015)%20x264%201080p%2060%20fps%20BDRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/k95IwR62jttDIq5auKPP1kSr2ZL.jpg" group-title="PELICULAS 60 FPS",El cadaver de la novia
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20CADAVER%20DE%20LA%20NOVIA/CORPSE%20BRIDE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wRhtM4oFAViEvkzTYHZBd9TMk1d.jpg" group-title="PELICULAS 60 FPS",El Cascanueces y los cuatro reinos
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20CASCANUECES%20Y%20LOS%20CUATRO%20REINOS/THE%20NUTCRACKER%20AND%20THE%20FOUR%20REALMS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/g9pn3X2B9PicPLaYNlpjcNgNp0K.jpg" group-title="PELICULAS 60 FPS",El doble del diablo
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20DOBLE%20DEL%20DIABLO/THE%20DEVIL%27S%20DOUBLE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/nFyHahh8kadtR3nN8jsFpvgnneC.jpg" group-title="PELICULAS 60 FPS",El estrangulador de Boston
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/BOSTON%20STRANGLER%2060fps/BOSTON%20STRANGLER.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qMVGajQImQ9dsTpoY3eiDembVjf.jpg" group-title="PELICULAS 60 FPS",El extraño mucho de Jack
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20EXTRA%c3%91O%20MUNDO%20DE%20JACK/THE%20NIGHTMARE%20BEFORE%20CHRISTMAS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lpcfcGCs38fzRSH9WxInkrEBF1.jpg" group-title="PELICULAS 60 FPS",El gigante de hierro
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20GIGANTE%20DE%20HIERRO/THE%20IRON%20GIANT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/agcgaJ1ieNc972XWGBvsJkDxo08.jpg" group-title="PELICULAS 60 FPS",El gran truco
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/El%20Gran%20Truco.2006/El%20Gran%20Truco.2006.BDrip.60fps.1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/89VuEUkML4p2IPtOWE1M38jicH3.jpg" group-title="PELICULAS 60 FPS",El Hobbit 1
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20HOBBIT/EL%20HOBBIT%20UN%20VIAJE%20INESPERADO/THE%20HOBBIT%20AN%20UNEXPECTED%20JOURNEY.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5HaCxVy9Zk1fGkU9FvRRYGDRm2a.jpg" group-title="PELICULAS 60 FPS",El Hobbit 2
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20HOBBIT/EL%20HOBBIT%20LA%20DESOLACION%20DE%20SMAUG/THE%20HOBBIT%20THE%20DESOLATION%20OF%20SMAUG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/a299uBOug8syMZIkGYYORDyypqb.jpg" group-title="PELICULAS 60 FPS",El Hobbit 3
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20HOBBIT/EL%20HOBBIT%20LA%20BATALLA%20DE%20LOS%20CINCO%20EJERCITOS/THE%20HOBBIT%20THE%20BATTLE%20OF%20THE%20FIVE%20ARMIES.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9yULpdAff5T4nzwOYjsdU0iIkKb.jpg" group-title="PELICULAS 60 FPS",El hombre gris
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/THE%20GRAY%20MAN/THE%20GRAY%20MAN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qutqzbLrDWaxEZIyQnJyvbKlEp1.jpg" group-title="PELICULAS 60 FPS",El menú
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/The%20Menu/The%20Menu%20%282022%29%20x264%20WEB-DL%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bPYjum1fH24yU2f1exsq8nuHEG0.jpg" group-title="PELICULAS 60 FPS",El origen
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20ORIGEN/INCEPTION.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pRYq0Qozlwbo0F4wFrzq5o6epEX.jpg" group-title="PELICULAS 60 FPS",El pianista
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20PIANISTA/THE%20PIANIST.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3jd5LVxRfIr1qbTd41TkvlOGwtD.jpg" group-title="PELICULAS 60 FPS",El precio del mañana
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20PRECIO%20DEL%20MA%c3%91ANA/IN%20TIME%20%28OPEN%20MATTE%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xtGFXWUYy5eQA3FnFggAld0hml4.jpg" group-title="PELICULAS 60 FPS",El proyecto Adam
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/THE%20ADAM%20PROJECT/THE%20ADAM%20PROJECT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gxRM135fpi74UsANJ9VuA5P94l6.jpg" group-title="PELICULAS 60 FPS",El señor de la guerra
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/EL%20SE%c3%91OR%20DE%20LA%20GUERRA/LORD%20OF%20WAR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6ydhsPPznlsaU3QPX8DJdHab6IP.jpg" group-title="PELICULAS 60 FPS",El señor de los anillos 1
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/El%20Se%c3%b1or%20De%20Los%20Anillos/1/THE%20LORD%20OF%20THE%20RINGS%20THE%20FELLOWSHIP%20OF%20THE%20RING.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fdWTmXK0m5Epd8RIqDPRkIsV9o3.jpg" group-title="PELICULAS 60 FPS",El señor de los anillos 2
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/El%20Se%c3%b1or%20De%20Los%20Anillos/2/THE%20LORD%20OF%20THE%20RINGS%20THE%20TWO%20TOWERS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/w7QYxniLjhclOV49dbwlpzCUGcQ.jpg" group-title="PELICULAS 60 FPS",El señor de los anillos 3
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/El%20Se%c3%b1or%20De%20Los%20Anillos/3/THE%20LORD%20OF%20THE%20RINGS%20THE%20RETURN%20OF%20THE%20KING.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/r15UNZKvTYvlTCtKH1W41CPqMxN.jpg" group-title="PELICULAS 60 FPS",El teléfono negro
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Telefono%20negro%202021/El%20Tel%c3%a9fono%20Negro%20%282021%29%20h264%20BDRip%2060FPS%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pg5PaSq42VtI1S3rqDE3Rhsam8B.jpg" group-title="PELICULAS 60 FPS",Elvis
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/ELVIS%202022/ELVIS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cOKhMduAAXFrWwfbPcnOminABBo.jpg" group-title="PELICULAS 60 FPS",Elysium
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/ELYSIUM%2060FPS/ELYSIUM.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oF4wVpiQdnPd0FjnmJQGdKUtIGC.jpg" group-title="PELICULAS 60 FPS",Enemigos públicos
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/ENEMIGOS%20PUBLICOS/PUBLIC%20ENEMIES.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8laghCUoEKL2eBWv4GFcBQwIPEm.jpg" group-title="PELICULAS 60 FPS",Enredados
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/ENREDADOS/TANGLED.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/biKDeDDSNye8OVUU4G4tl2m2Eml.jpg" group-title="PELICULAS 60 FPS",Escalera al infierno
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/The%20Cellar%20%282022%29/The%20Cellar%20%282022%29%20x264%20BDRip%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qVbpypPmBW4BPNenDIfcDdFS5mC.jpg" group-title="PELICULAS 60 FPS",Eternals
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Eternals.2021/Eternals.2021.WEB-DL.1080p.60FPS.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4X7QogEo7IoKilrIoRovjZ3ollg.jpg" group-title="PELICULAS 60 FPS",Free guy
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Free%20Guy%20Tomando%20el%20control%20%282021/Free%20Guy%20Tomando%20el%20control%20%282021%29%2060FPS%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qAHa3FrqgP6LjygLWK7042cxhDE.jpg" group-title="PELICULAS 60 FPS",Frida
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/FRIDA/FRIDA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rQEifAiO5jxRkoTfaJdk6eOmxVc.jpg" group-title="PELICULAS 60 FPS",Frozen
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/frozen/FROZEN%20LAT%2060%20FPS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/79G94hE32Z6vQgQN7rjSC2Nwnfn.jpg" group-title="PELICULAS 60 FPS",Furia de Titanes
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Clash%20of%20the%20Titans/Clash%20of%20the%20Titans%20%282010%29%20x264%20BDRip%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/igmIHOjVeMaow1odq2yC3Wdjp0V.jpg" group-title="PELICULAS 60 FPS",Furiosa: De la saga Mad Max
+http://15.235.51.60/contenido/PELICULAS%2060%20FPS/Furiosa%20De%20la%20saga%20Mad%20Max/Furiosa%20De%20la%20saga%20Mad%20Max%20%282024%29%2060FPS%20Lat%20Cast.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bTtIGRxBB6DzaFybIxPEnNRTJKA.jpg" group-title="PELICULAS 60 FPS",Garfield: Fuera de casa
+http://15.235.51.60/contenido/PELICULAS%2060%20FPS/The%20Garfield%20Movie/The.Garfield.Movie.2024.1080p.WEB-DL.DDP5.1.60FPS.H.264-Ochaco.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1ecRyG1hR86CFuRCsNOoHUqqR9R.jpg" group-title="PELICULAS 60 FPS",Ghost
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/GHOST%20LA%20SOMBRA%20DEL%20AMOR/GHOST.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yPnmRPFzbWtbagkdMTIEL1Dd8eu.jpg" group-title="PELICULAS 60 FPS",Ghost rider
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Ghost%20Rider%20%282007%29/Ghost%20Rider%20%282007%29%20Open%20Matte%20264%20STARZ%20WEB-DL%201080p%2060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3kvaYbQPHAsKFatbgtH9cv8OkQK.jpg" group-title="PELICULAS 60 FPS",Godzilla: Minus one
+http://15.235.51.60/contenido/PELICULAS%2060%20FPS/Godzilla%20Minus%20One/Godzilla%20Minus%20One%20%282023%29%20HD%20BDRip%2060FPS%20Latino%20Castellano.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rE8ZuxaxlEQFXSVIWNaI4pxtEuO.jpg" group-title="PELICULAS 60 FPS",Godzilla x Kong: El nuevo imperio
+http://15.235.51.60/contenido/PELICULAS%2060%20FPS/Godzilla%20x%20Kong%20The%20New%20Empire/Godzilla%20x%20Kong%20The%20New%20Empire%20%282024%29%20HD%2060FPS%20Lat%20Cast.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/obyaNcaSYdP4kwN4RKeEZVikvCJ.jpg" group-title="PELICULAS 60 FPS",Gran Turismo
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/Gran%20Turismo%2060%20fps/Gran%20Turismo%20De%20jugador%20a%20corredor%20%282023%29%201080p%2060FPS%20WEB-DL%20Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/w9MWToWwQL3jQ6DIQFS15Qc4MSC.jpg" group-title="PELICULAS 60 FPS",Greyhound: En la mira del enemigo
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/GREYHOUND%20EN%20LA%20MIRA%20DEL%20ENEMIGO/GREYHOUND.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2FPsIykDnj6ZqlAWDWNMqEPGlYA.jpg" group-title="PELICULAS 60 FPS",Guardianes de las Galaxias 3
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/Guardians%20of%20the%20Galaxy%20Vol.%203%20%282023%29%2060/Guardianes%20de%20la%20galaxia%20Vol.%203%20%282023%29%201080p%2060FPS%20IMAX%20WEB-DL%20Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/f4fFdlT4tzDlWeGTXi0JRWwZ60w.jpg" group-title="PELICULAS 60 FPS",Halloween: El final
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Halloween%20Ends/Halloween%20Ends%20%282022%29%20PCOK%20x264%20WEB-DL%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tBkT0z0NjB2tmH5zprVHtyOCiTI.jpg" group-title="PELICULAS 60 FPS",Hannibal
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/HANNIBAL/HANNIBAL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/h9pZnMBxwR5VcFLfUHv8xK2rYOE.jpg" group-title="PELICULAS 60 FPS",Hannibal: El origen del mal
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/HANNIBAL%20EL%20ORIGEN%20DEL%20MAL/HANNIBAL%20RISING.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/iFlILv7Xawg0LBOXJr3mVP9gti6.jpg" group-title="PELICULAS 60 FPS",Hechizo de amor
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/HECHIZO%20DE%20AMOR/PRACTICAL%20MAGIC%20%28OPEN%20MATTE%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xNSb1Yis1z6bkwj4EXJwi2Ln4sq.jpg" group-title="PELICULAS 60 FPS",Hombres de honor
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/MEN%20OF%20HONOR%2060%20FPS/MEN%20OF%20HONOR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/iOhKWuqi5eHmtByZFhDcytt4jNt.jpg" group-title="PELICULAS 60 FPS",Hook
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/HOOK%20EL%20REGRESO%20DEL%20CAPITAN%20GARFIO/HOOK.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/sJSFUqKtzblapEVuGXTVJXSBTd7.jpg" group-title="PELICULAS 60 FPS",Indiana Jones 1
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/INDIANA%20JONES%20Y%20LOS%20CAZADORES%20DEL%20ARCA%20PERDIDA/INDIANA%20JONES%20AND%20THE%20RAIDERS%20OF%20THE%20LOST%20ARK.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xq81v7umW1UJccMrHsW67PzuZYA.jpg" group-title="PELICULAS 60 FPS",Indiana Jones 2
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/INDIANA%20JONES%20Y%20EL%20TEMPLO%20DE%20LA%20PERDICION/INDIANA%20JONES%20AND%20THE%20TEMPLE%20OF%20DOOM.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/it2FauMud6JHdIvQjopZLYAE7yA.jpg" group-title="PELICULAS 60 FPS",Indiana Jones 3
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/INDIANA%20JONES%20Y%20LA%20ULTIMA%20CRUZADA/INDIANA%20JONES%20AND%20THE%20LAST%20CRUSADE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bKhBS6yM8e75U56HsLmuLZLN9LH.jpg" group-title="PELICULAS 60 FPS",Indiana Jones 4
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/INDIANA%20JONES%20Y%20EL%20REINO%20DE%20LA%20CALAVERA%20DE%20CRISTAL/INDIANA%20JONES%20AND%20THE%20KINGDOM%20OF%20THE%20CRYSTAL%20SKULL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2OPKczbHJAMydaKbCv64hPU0nSa.jpg" group-title="PELICULAS 60 FPS",Insidious 1
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/LA%20NOCHE%20DEL%20DEMONIO/1/INSIDIOUS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4PTk8SkCwjajjNzpa2HnXFDyNoO.jpg" group-title="PELICULAS 60 FPS",Insidious 2
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/LA%20NOCHE%20DEL%20DEMONIO/2/INSIDIOUS%20CHAPTER%202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yHB0yaEW2EFtCW9c0VsyrXnfDjs.jpg" group-title="PELICULAS 60 FPS",Insidious 3
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/LA%20NOCHE%20DEL%20DEMONIO/3/INSIDIOUS%20CHAPTER%203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/rjVLtEvm41Q66fhDZUHcwLYYv8L.jpg" group-title="PELICULAS 60 FPS",Insidious 4
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/LA%20NOCHE%20DEL%20DEMONIO/4/INSIDIOUS%20THE%20LAST%20KEY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/dVbGeU5agxFGcJnL5hk4uO8W7i2.jpg" group-title="PELICULAS 60 FPS",James Brown: El rey del soul
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/JAMES%20BROWN%20EL%20REY%20DEL%20SOUL/GET%20ON%20UP.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/21D03cBlKO71TIUnZjae0QkDFKU.jpg" group-title="PELICULAS 60 FPS",John Wick 1
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/john%20wick/1/JOHN%20WICK.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ewYazly7SMWBmAqzv5hGrCW6w9v.jpg" group-title="PELICULAS 60 FPS",John Wick 2
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/john%20wick/2/JOHN%20WICK%20CHAPTER%20TWO.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/dVMrTdgSDgPV9KflPgFijyrkShb.jpg" group-title="PELICULAS 60 FPS",John Wick 3
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/john%20wick/3/JOHN%20WICK%20CHAPTER%203%20PARABELLUM.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/iFJODzPX14aKPLhpq7tRSiiymXI.jpg" group-title="PELICULAS 60 FPS",Jurassic World: Dominion
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Jurassic%20World%20Dominion%20%282022%29/Jurassic%20World%20Dominion%20%282022%29%20Extended%20Cut%2060FPS%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/isxjCw1lUMrOshWkRae9OHIW2D2.jpg" group-title="PELICULAS 60 FPS",Justicia implacable
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Wrath%20of%20Man/WRATH%20OF%20MAN%2060FPS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5jZeTJ03kOjOezATP0tY1FFQHGb.jpg" group-title="PELICULAS 60 FPS",La abuela
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/La%20abuela%20%282022%29/La%20abuela%20%282022%29%20264%20HMAX%20WEB-DL%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bIp7UbNKaBBxA9086jLCCRuXA6W.jpg" group-title="PELICULAS 60 FPS",La espada de los 47 Ronin
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Blade%20of%20the%2047%20Ronin%20%282022%29/Blade%20of%20the%2047%20Ronin%20%282022%29%20264%20BDRip%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg" group-title="PELICULAS 60 FPS",La exorcista 
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/LA%20EXORCISTA%2060fps/LA%20EXORCISTA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vsZi3ob6iuVyXeZpWIhhFxdYhvF.jpg" group-title="PELICULAS 60 FPS",La lista de Schindler
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/LA%20LISTA%20DE%20SCHINDLER/SCHINDLER%27S%20LIST.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/j5ECyivzMqQhRWH6vwwfnvaqA49.jpg" group-title="PELICULAS 60 FPS",La pasión de Cristo
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/La%20Pasi%c3%b3n%20de%20Cristo%20%282004%29/La%20Pasi%c3%b3n%20de%20Cristo%20%282004%29%2060FPS%20LATINO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/sV82LJpd8aPc3LXaSzRpYF9fMZ0.jpg" group-title="PELICULAS 60 FPS",La princesa y el sapo
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/LA%20PRINCESA%20Y%20EL%20SAPO/THE%20PRINCESS%20AND%20THE%20FROG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/cDBJpChyfkcbVe7WfSjIDAJhoC4.jpg" group-title="PELICULAS 60 FPS",La última profecía
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Left%20Behind%20%282014%29/Left%20Behind%20%282014%29%20x264%20BDRip%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ux8Wn7nLX3N9lFWoyzdy92C1jKl.jpg" group-title="PELICULAS 60 FPS",La vecina de al lado
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/THE%20GIRL%20NEXT%20DOOR/THE%20GIRL%20NEXT%20DOOR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vmpGdCRTsnYoTCpxWQL61lmwqjy.jpg" group-title="PELICULAS 60 FPS",La vida es bella
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/LA%20VIDA%20ES%20BELLA/LIFE%20IS%20BEAUTIFUL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oiYAT4YxlDtJhzD1FyiAdADbZyu.jpg" group-title="PELICULAS 60 FPS",Lightyear
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Lightyear%20%282022%29/Lightyear%20%282022%29%20WEB-DL%20IMAX%201080p%2060FPS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/p2SRpK4Q2xkek3yQjJG2RggPElJ.jpg" group-title="PELICULAS 60 FPS",Luther: Cae la noche
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/LUTHER%20CAE%20LA%20NOCHE/LUTHER%20THE%20FALLEN%20SUN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/A6lsJA6mT30TOOakbCKdtaEek2r.jpg" group-title="PELICULAS 60 FPS",M3gan
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/M3GAN%20%282022%29/M3GAN%20%282022%29%20264%20WEB-DL%201080p%2060%20fps%20es-lat%20en%20subt.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hLZKchHFAF6dSfo1tIStnmuTVJ3.jpg" group-title="PELICULAS 60 FPS",Milagros inesperados
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/MILAGROS%20INESPERADOS/THE%20GREEN%20MILE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/u54LDNksj5ubDkzCBk9sISfTKZj.jpg" group-title="PELICULAS 60 FPS",Minions: El origen de Gru
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Minions%20Nace%20un%20Villano%20%282022%29/Minions%20Nace%20un%20Villano%20%282022%29%20WEB-DL%201080p%2060FPS%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oj0JLEGhRxjaOYNxpdGIEENTERA.jpg" group-title="PELICULAS 60 FPS",Moana
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/MOANA/MOANA.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mQzEe5l08HXCIDm56OK2mvqmANF.jpg" group-title="PELICULAS 60 FPS",Nop
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/NOP/NOPE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/llv9gsqGnBgNpK9PfxhERJLdvpz.jpg" group-title="PELICULAS 60 FPS",Noticias del gran mundo
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/NOTICIAS%20DEL%20GRAN%20MUNDO/NEWS%20OF%20THE%20WORLD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3EDEjHRsBpaR2Z6xqtg2DVztBFC.jpg" group-title="PELICULAS 60 FPS",Paul
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/PAUL/PAUL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gOO1RZ6ps0br7idNtEuTc99oOBl.jpg" group-title="PELICULAS 60 FPS",Pinocho
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Pinocho%20%282022%29/Pinocho%20%282022%29%201080p%2060FPS%20WEB-DL%20Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/r92FcBj3c0j0fNyMn58TTtmEV17.jpg" group-title="PELICULAS 60 FPS",Predador: La presa
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Predator%20Prey%20%282022%29/Predator%20Prey%20%282022%29%20Star%20%2060FPS%20WEBDL%20x264%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yw8x2i3vaHZZzpvqvF75E8q2N6M.jpg" group-title="PELICULAS 60 FPS",Prueba de vida
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Proof%20of%20Life/Proof%20of%20Life%20%282000%29%20x264%20AMZN%20WEB-RIP%201080p%2060%20fps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zGutba8xgknUJsrGpkDLkmjLiqN.jpg" group-title="PELICULAS 60 FPS",Rápidos y furiosos 10
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/Fast%20X%2060FPS/R%c3%a1pidos%20y%20furiosos%20X%20%282023%29%201080p%2060FPS%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/4YXXGCKKybveUM0Diivi7mG0CaX.jpg" group-title="PELICULAS 60 FPS",Rascacielos
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/RASCACIELOS%20RESCATE%20EN%20LAS%20ALTURAS/SKYSCRAPER.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kMgibtauxureAwm0NPRz2IwIQ4E.jpg" group-title="PELICULAS 60 FPS",Ready player one
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/READY%20PLAYER%20ONE%20COMIENZA%20EL%20JUEGO/READY%20PLAYER%20ONE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uZWcRRyVBTs2j9sgUytXz1vzQWH.jpg" group-title="PELICULAS 60 FPS",Robando vidas
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/ROBANDO%20VIDAS/TAKING%20LIVES.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/opsLKs51WF4mal17T9r2VVBseLC.jpg" group-title="PELICULAS 60 FPS",Romeo y Julieta
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/Romeo%20y%20Juliet/ROMEO%20Y%20JULIET.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oi3lX5OkSUFJXUratkRcldOKIhm.jpg" group-title="PELICULAS 60 FPS",Scary movie 1
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/SCARY%20MOVIE/1/SCARY%20MOVIE1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wjSWaJtkJzcxOMAL9xmEgyBqd0G.jpg" group-title="PELICULAS 60 FPS",Scary movie 2
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/SCARY%20MOVIE/2/SCARY%20MOVIE%202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/k0N3W08N0afo65aoM5Iti6opNzL.jpg" group-title="PELICULAS 60 FPS",Scary movie 3
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/SCARY%20MOVIE/3/SCARY%20MOVIE%203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uagBsVnPlQtMNaGMDxbsmSjpEnS.jpg" group-title="PELICULAS 60 FPS",Scary movie 4
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/SCARY%20MOVIE/4/SCARY%20MOVIE%204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xnonAgRzIcIt2TyYXjBKYnMBEpb.jpg" group-title="PELICULAS 60 FPS",Scary movie 5
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/SCARY%20MOVIE/5/SCARY%20MOVIE%205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vhjim5Hq0zCuqvm5Z1keaK10T6k.jpg" group-title="PELICULAS 60 FPS",Shazam: La furia de los dioses
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/Shazam!%20Fury%20of%20the%20Gods/%c2%a1Shazam!%20La%20furia%20de%20los%20dioses.2023.WEB-DL.60FPS.1080p.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/iiushXlyuMb5ARyoYbeLJcEdIrd.jpg" group-title="PELICULAS 60 FPS",Sonic 2
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Sonic%20the%20Hedgehog%202%20%282022%29/Sonic%20the%20Hedgehog%202%20%282022%29%2060FPS%201080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xGKoNufp24HglTpbKJvlHFuvYAa.jpg" group-title="PELICULAS 60 FPS",Spider-Man sin camino a casa
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Spider%20Man%20%20Sin%20camino%20a%20casa%20%282021%29/Spider.Man60FPS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jkgkQtCoNVmmKDzKk3ccQRFkAER.jpg" group-title="PELICULAS 60 FPS",Sueño de libertad
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/SUE%c3%91OS%20DE%20FUGA/THE%20SHAWSHANK%20REDEMPTION.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tCcODG2u3vzhakA2PfVG4h5tUO9.jpg" group-title="PELICULAS 60 FPS",Sugar en aprietos
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/SUGAR%20EN%20APRIETOS%20%282022%29/Sugar%20en%20aprietos%20%282022%29%201080p%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wGwLMsUNsfwPAxUoDhGGk6d0ELz.jpg" group-title="PELICULAS 60 FPS",Super Mario Bros
+http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/Super%20Mario%20Bros.%20La%20pel%c3%adcula%20%282023%29%201080p%2060FPS/Super%20Mario%20Bros.%20La%20pel%c3%adcula%20%282023%29%201080p%2060FPS%20WEB-DL%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/2q0Aue17BiGasCCLn6s7sX71mDj.jpg" group-title="PELICULAS 60 FPS",Terremoto: La falla de San Andres
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/TERREMOTO%20LA%20FALLA%20DE%20SAN%20ANDRES/SAN%20ANDREAS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kwvqn0IyAulDrWfgrCzvprzEwJP.jpg" group-title="PELICULAS 60 FPS",Thor: Amor y trueno
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Thor.Love.and.Thunder.2022/Thor.Love.and.Thunder.2022.WEB-DL.60FPS.1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1hf3lz16WLxDBcHsYfebtP5H2Ts.jpg" group-title="PELICULAS 60 FPS",Top gun 1
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Top%20Gun%20Pasi%c3%b3n%20y%20Gloria%20%281986%29/Top%20Gun%20Pasi%c3%b3n%20y%20Gloria%20%281986%29%20REMASTERED%20BDRip%201080p%2060FPS%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uLDbbS5ohRFD2yDfA9o4sYX5OcQ.jpg" group-title="PELICULAS 60 FPS",Top gun 2
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Top%20Gun%20maverick/Top%20Gun%20Maverick%20%282022%29%20H264%20WEB-DL%2060FPS.IMAX.1080p%20Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/roCOtvsnx4VgrUu9TKRwKPtNKdG.jpg" group-title="PELICULAS 60 FPS",Valiente
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/VALIENTE/BRAVE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/m5HGwOz92gKrAAqZHkcMF09nXFm.jpg" group-title="PELICULAS 60 FPS",Viuda negra
+http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Black%20Widow%20%282022%29/Black%20Widow%20%282022%29%2060%20FPS%201080p%20BDRip%20Latino%20Castellano.mp4
+
+
 #EXTINF:-1 tvg-logo="http://i.ibb.co/C3fmCjk8/20250308-203943.jpg" group-title="TEAM VIP",PELICULAS GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/quABvAtl664L6ICbPV0FusghBs9.jpg" group-title="ESTRENOS ARCHIVE - 2025",Acto encubierto (2025)
@@ -21041,8 +21297,5 @@ http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1259812.mkv
 http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1259909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Motherland (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rE2UnEr9m8iLeuvWxaQyaNDKTHU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Motherland (2025)
 http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1260008.mkv
-
-
-
 
 
