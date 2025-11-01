@@ -8,9 +8,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_15.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_92.mkv
-http://series.tuxchannel.mx/series/amanecer/s_01_e_80.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_35.mkv
-
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_37.mkv
 
 
 
@@ -7074,6 +7073,81 @@ http://series.tuxchannel.mx/series/lo_que_la_vida_me_robo/s_01_e_195.mkv
 http://series.tuxchannel.mx/series/lo_que_la_vida_me_robo/s_01_e_196.mkv
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhHtfaqrGmpvgk6I6ARsqNcOoz9b.jpg" group-title="Lo que la vida me robó",Cap. 197
 http://series.tuxchannel.mx/series/lo_que_la_vida_me_robo/s_01_e_197.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 001
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 002
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 003
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 004
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 005
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 006
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 007
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 008
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 009
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 010
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_10.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 011
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_11.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 012
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_12.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 013
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_13.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 014
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_14.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 015
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_15.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 016
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_16.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 017
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_17.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 018
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_18.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 019
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_19.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 020
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 021
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_21.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 022
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_22.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 023
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 024
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 025
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 026
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 027
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 028
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_28.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 029
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 030
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_30.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 031
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_31.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 032
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_32.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 033
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_33.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 034
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_34.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 035
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_35.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 036
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_36.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 037
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_37.mkv
 
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2022/04/LOS-RICOS-TAMBIEN-LLORAN.png" group-title="Los ricos tambien lloran",Cap. 01
 http://series.tuxchannel.mx/series/los_ricos_tambien_lloran/s_01_e_01.mkv
