@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_15.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_92.mkv
-http://series.tuxchannel.mx/series/amanecer/s_01_e_74.mkv
+http://series.tuxchannel.mx/series/amanecer/s_01_e_80.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_24.mkv
 
 
@@ -346,6 +346,18 @@ http://series.tuxchannel.mx/series/amanecer/s_01_e_72.mkv
 http://series.tuxchannel.mx/series/amanecer/s_01_e_73.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 073
 http://series.tuxchannel.mx/series/amanecer/s_01_e_74.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 074
+http://series.tuxchannel.mx/series/amanecer/s_01_e_75.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 075
+http://series.tuxchannel.mx/series/amanecer/s_01_e_76.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 076
+http://series.tuxchannel.mx/series/amanecer/s_01_e_77.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 077
+http://series.tuxchannel.mx/series/amanecer/s_01_e_78.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 078
+http://series.tuxchannel.mx/series/amanecer/s_01_e_79.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lSPRgElD3bCqqgR8upkz3trilkI.jpg" group-title="Amanecer",Cap. 079
+http://series.tuxchannel.mx/series/amanecer/s_01_e_80.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rykqDB0AG4K7rt9plSTULUxDHok.jpg" group-title="A.Mar",Cap. 001
 http://series.tuxchannel.mx/series/amar/s_01_e_01.mkv
