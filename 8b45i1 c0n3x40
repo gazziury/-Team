@@ -2465,6 +2465,397 @@ http://popzed.sbs:80/live/sergion6783/snogueira99941/d7af2dc6-e016-4fd2-8854-5a6
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 6 HD" tvg-logo="https://icons.ipcdn4.com/wplay%20logo%20canais/wplay%20p3/a-fazenda-17.png" group-title="CANAIS",A Fazenda 6 HD
 http://popzed.sbs:80/live/sergion6783/snogueira99941/f78438d9-ead6-4a2b-806a-140286c64f76.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="(PT) 24 Kitchen HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/24%20Kitchen.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) 24 Kitchen HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/5bab059d-6366-4c23-ad29-30adb2512cd8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Afro Music SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/AFRO%20Music.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Afro Music SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ac3eef25-2676-4191-982a-71a08fdac8dd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Afro Music HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/AFRO%20Music.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Afro Music HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8cdf78db-ab2d-497e-b4f6-af409cbac299.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) ARTV" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20ARTV.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) ARTV
+http://popzed.sbs:80/live/sergion6783/snogueira99941/a2068bc8-5471-42c4-9d5d-8bac4ddafd63.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AXN HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0101_AXN.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AXN HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ffc52113-c54d-4b51-99b3-6e3027bf26d3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AXN Moveis SD" tvg-logo="https://inter.mazalemp.click/AXN%20MOVIES.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AXN Moveis SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/5c23c7e2-4a4f-4c0e-83de-26aba73c92e7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AXN FHD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0101_AXN.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AXN FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/77d3d9a4-9fd6-46db-9ab8-026b2f75fb4d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AXN Movies  HD" tvg-logo="https://inter.mazalemp.click/AXN%20MOVIES.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AXN Movies  HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/2e00746f-a8e3-41d1-89c1-f3d4d9528351.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AXN White SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/AXN%20White.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AXN White SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/cc8a343e-13e1-41a7-9a50-bc034a01f5c6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AXN White HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/AXN%20White.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AXN White HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9e290543-f7b2-4e8d-9e3e-9bf7acb67002.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Canal Panda" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/canal%20panda.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Canal Panda
+http://popzed.sbs:80/live/sergion6783/snogueira99941/e5d1a405-b8ea-4c14-9ed5-a5132affa93a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Canal Porto" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20Canal%20Porto.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Canal Porto
+http://popzed.sbs:80/live/sergion6783/snogueira99941/1d2e0a59-c299-455f-87ea-d5dead718d93.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Canal Q" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20Canal%20Q.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Canal Q
+http://popzed.sbs:80/live/sergion6783/snogueira99941/81168e18-1492-43fc-a28e-6fc3e0eb5196.m3u
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="(PT) Cartoon Network HD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/cnn-cartoon.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Cartoon Network HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9f825ae4-3357-4be8-8bd8-cca6e1d42c69.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Casa e Cozinha FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/Casa%20Cozinha.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Casa e Cozinha FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/50d77c2f-863f-446f-9c34-477e5e889566.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) CaçaVision HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20Cac╠ºaVision.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) CaçaVision HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/1d93bcf1-3401-4550-929d-2d1976b68665.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) CMTV SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/CMTV%20HD.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) CMTV SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/393e988f-53e6-49cc-b581-7e1904e1bccc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) CMTV HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/CMTV%20HD.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) CMTV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/1131b365-55c3-4dde-807a-b3a0b5651ed5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) CMTV FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/CMTV%20HD.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) CMTV FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/1416e95f-b3aa-4b82-8bdf-92d0d8dfefef.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) CNN" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0025_CNN-INTERNACIONAL.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) CNN
+http://popzed.sbs:80/live/sergion6783/snogueira99941/49cd417d-7827-47c2-ad20-a895d951c15e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Discovery Channel HD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0011_discovery-channel.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Discovery Channel HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9bcd64ca-a5bb-495b-b769-f4f74aebc8cf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Disney Channel HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0109_DISNEY-CHANNEL.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Disney Channel HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0985a112-b96f-4563-854d-e3f3d17515fc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Discovery Channel FHD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0011_discovery-channel.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Discovery Channel FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/640b306e-4c18-4d91-9334-73fd3cc6592e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Disney Júnior HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/Disney%20Junior.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Disney Júnior HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/3ecf1b9d-648b-4e5f-87e8-8f892844f292.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) E Entertainment" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0019_e!.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) E Entertainment
+http://popzed.sbs:80/live/sergion6783/snogueira99941/e2c67c1b-b07a-4cf4-9f27-48c23103c91f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) FOX" tvg-logo="https://inter.mazalemp.click/FOX.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) FOX
+http://popzed.sbs:80/live/sergion6783/snogueira99941/3186322d-c304-4c0e-9587-e73ba57e2a8a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox HD" tvg-logo="https://inter.mazalemp.click/FOX.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d22f81fb-7dc7-48e7-a53a-338693d1f6d4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox FHD" tvg-logo="https://inter.mazalemp.click/FOX.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9c9279e0-32dc-4fed-a707-14aa5f834fef.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox Comedy SD" tvg-logo="https://inter.mazalemp.click/FOX%20COMEDY.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox Comedy SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/861d0904-5e01-4f74-9219-a02d2476b460.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox Crime SD" tvg-logo="https://inter.mazalemp.click/FOX%20CRIME.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox Crime SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/a0672cf3-2781-4102-a5cc-d83216eeb9af.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox Comedy FHD" tvg-logo="https://inter.mazalemp.click/FOX%20COMEDY.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox Comedy FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d6a40e71-c8a5-4acb-8e63-5370134fe5e0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox Crime HD" tvg-logo="https://inter.mazalemp.click/FOX%20CRIME.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox Crime HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/263212d2-779b-432b-a552-ed362611a77c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox Crime FHD" tvg-logo="https://inter.mazalemp.click/FOX%20CRIME.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox Crime FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/5abe2954-55fb-4557-be75-077bc5514172.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox Life SD" tvg-logo="https://inter.mazalemp.click/FOX%20life.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox Life SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/b3ca2b1b-ff48-41a8-a750-6029bf80dc82.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Globo News FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0147_Globo-news.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Globo News FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/2445b9ac-9f1d-40d0-b574-f435f92dc49f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fox Life FHD" tvg-logo="https://inter.mazalemp.click/FOX%20life.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fox Life FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/918d7cb4-f8f9-43f1-a8b6-dbaab5e1d2dc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Globo FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Globo FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/99afb31e-23a9-4e64-9121-76e666768a5d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) HBO HD PT" tvg-logo="https://icons.ipcdn4.com/pasta%203/HBO.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) HBO HD PT
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9a8bf5d1-9781-4167-a40e-0f4e8ff47eb3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Historia HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)Historia.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Historia HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/093d705a-a958-4e10-86b9-ed320fc67fa3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Investigation Discovery" tvg-logo="https://icons.ipcdn4.com/pasta%203/Investigation%20Discovery.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Investigation Discovery
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ebdba4c3-f8fa-4380-a335-c4431ec349aa.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) JIM JAM" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20JIM%20JAM.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) JIM JAM
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d7622cbc-549c-41cb-9091-1ef41f8f221d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) M6 Music HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)M6%20MUSIC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) M6 Music HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0c75d23d-c598-4aae-8fa3-cc8fa5550c63.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) MCM Pop" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20MCM%20Pop.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) MCM Pop
+http://popzed.sbs:80/live/sergion6783/snogueira99941/89b89c9a-788e-4cad-bc43-e38ecd4f5ebc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) MTV Portugal HD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0061_mtv.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) MTV Portugal HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8d848efc-f770-4dc3-986a-c32080feed27.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) National Geographic SD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0069_NETGEO.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) National Geographic SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/1f2f20ed-70d4-4ff3-b89e-802c96b3df91.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) MTV Portugal FHD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0061_mtv.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) MTV Portugal FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/28e7fa25-8835-4f00-9b2f-c65e357d7aad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) National Geographic HD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0069_NETGEO.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) National Geographic HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/e84ac6ec-915a-406c-a1e1-4e1a6d8d13dd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) National Geographic FHD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0069_NETGEO.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) National Geographic FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/e190f95d-b848-4277-8317-c7ac679a1a9b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Nick JR HD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0004_NICK-JR.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Nick JR HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8a094beb-1be8-4db0-96e9-1ae2f58b4eb9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Nickelodeon HD" tvg-logo="https://plus.ipcdn4.com/_0000s_0000s_0000s_0113_NICK_resized.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Nickelodeon HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/4e21a6be-5213-4c25-b6f2-beeac72293ef.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Odisseia HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20Odisseia.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Odisseia HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/411be359-8e42-4faf-9532-1c8b7c761cad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Panda Biggs" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/panda%20bigs.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Panda Biggs
+http://popzed.sbs:80/live/sergion6783/snogueira99941/fbaf7d9a-e210-40c0-96f1-1196b5eca12c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) PFC" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/pfc.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) PFC
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0427f365-95f1-45df-944e-5c2a82751847.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP 3 SD" tvg-logo="https://plus.ipcdn4.com/atualizados/RTP%203.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP 3 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/f1508d29-7a8d-47c3-be61-14ccd4d42020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP 3 HD" tvg-logo="https://plus.ipcdn4.com/atualizados/RTP%203.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP 3 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/caa2c651-b424-444f-a86d-d63fea3da52b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP Arena" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20RTP%20Arena.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP Arena
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9fe820cc-3caf-48e5-8b03-845ee6c99e9f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SIC Caras SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20SIC%20Caras.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SIC Caras SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/4533bf26-a5dd-469a-b757-752d3513f602.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SIC SD" tvg-logo="https://plus.ipcdn4.com/atualizados/SIC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SIC SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/4bb62b95-e0d2-477b-8f25-8d419f7a188e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SIC HD" tvg-logo="https://plus.ipcdn4.com/atualizados/SIC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SIC HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/a9c00bdf-6748-4149-bd94-6c5d8dfcceb1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SIC Caras HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20SIC%20Caras.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SIC Caras HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/bb3f8ea0-027e-47dd-83eb-84a1ed9a36a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SIC Caras FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20SIC%20Caras.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SIC Caras FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/c2db1ea1-d21f-40b0-ad4e-df0a05601cbc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SIC FHD" tvg-logo="https://plus.ipcdn4.com/atualizados/SIC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SIC FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/b0cd785a-7daf-4a6c-811a-3215bb36353b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SIC Kids HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/SIC%20K.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SIC Kids HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/5a042f96-6bd7-4d21-8868-5872ee74e3f9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SIC Mulher HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20SIC%20Mulher.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SIC Mulher HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/145e4129-2628-404c-a260-6262bcc54655.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sic Noticias SD" tvg-logo="https://plus.ipcdn4.com/atualizados/SIC%20NOTICIAS.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Sic Noticias SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/45e53a3f-29a2-4268-b795-4797edfcfbf9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sic Noticias HD" tvg-logo="https://plus.ipcdn4.com/atualizados/SIC%20NOTICIAS.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Sic Noticias HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9a31f164-ab3a-4195-a66f-0b27054bbaa0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sic Noticias FHD" tvg-logo="https://plus.ipcdn4.com/atualizados/SIC%20NOTICIAS.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Sic Noticias FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/7533bb9c-db31-4270-8a41-d3cd90383254.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) SYFY" tvg-logo="https://inter.mazalemp.click/SYFY.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) SYFY
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0babd965-e263-4f09-abc6-8e1a35e3399e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24 SD" tvg-logo="https://plus.ipcdn4.com/atualizados/tvi.png" group-title="PORTUGAL CANAIS - (NOVO)",TVI 24 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8e7d28bd-9aec-4085-be88-d411c393a106.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI SD" tvg-logo="https://plus.ipcdn4.com/atualizados/tvi.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/c6817cea-8787-49fe-95dd-89f94ba52816.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI 24 HD" tvg-logo="https://plus.ipcdn4.com/atualizados/tvi.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI 24 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/cd88c26d-5bd7-44fc-9324-b8e54b69de29.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI Reality SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20TVI%20Reality.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI Reality SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9d0a6d19-7d08-4fa5-a642-5f0dcaebcc4a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI HD" tvg-logo="https://plus.ipcdn4.com/atualizados/tvi.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/cbb2df51-454b-4582-9184-5cc742021ce1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI Reality HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20TVI%20Reality.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI Reality HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/3ea21c58-e51a-4157-b2e4-72a3592bd5ed.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI FHD" tvg-logo="https://plus.ipcdn4.com/atualizados/tvi.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/4af370a5-1764-4ffd-b1da-f991ff40ae06.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI Reality FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20TVI%20Reality.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI Reality FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/db69ead0-d064-44f3-9f17-0a20ea974305.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) FOX Movies SD" tvg-logo="https://inter.mazalemp.click/FOX%20MOVIES.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) FOX Movies SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/dff43171-336d-4f74-9aae-fb5196d6863a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) FOX Movies HD" tvg-logo="https://inter.mazalemp.click/FOX%20MOVIES.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) FOX Movies HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/1a89df9e-bbb6-4763-ad76-b0cfed4ca27e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) FOX Movies FHD" tvg-logo="https://inter.mazalemp.click/FOX%20MOVIES.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) FOX Movies FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/df26a5e6-9fd2-4245-b7a2-33a8f7dc8d31.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP 1 SD" tvg-logo="https://plus.ipcdn4.com/atualizados/RTP%201.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP 1 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d657c522-ab00-47de-8c0b-ea63eeb19f7d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP 1 HD" tvg-logo="https://plus.ipcdn4.com/atualizados/RTP%201.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP 1 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/42a0851a-39d0-4c81-9e6f-43dd257f5ae6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP 1 FHD" tvg-logo="https://plus.ipcdn4.com/atualizados/RTP%201.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP 1 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/baf6219b-1442-4df7-9666-9811785a9fdb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP 2 SD" tvg-logo="https://plus.ipcdn4.com/atualizados/RTP%202.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP 2 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/49493be8-771d-4f64-8c1d-70a48b05028b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP 2 HD" tvg-logo="https://plus.ipcdn4.com/atualizados/RTP%202.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP 2 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/85966d7a-c304-4201-b93c-e370cd9c2c6b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP 2 FHD" tvg-logo="https://plus.ipcdn4.com/atualizados/RTP%202.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP 2 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8a9669cb-220f-45de-b126-0477dfc76648.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI 4K" tvg-logo="https://plus.ipcdn4.com/atualizados/tvi.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI 4K
+http://popzed.sbs:80/live/sergion6783/snogueira99941/51e2f66b-d3bb-4ca3-a673-0be3ac077059.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TV Record SD" tvg-logo="https://icons.ipcdn4.com/pasta%203/Record%20TV%20SP.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TV Record SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/432108b5-5585-4f9b-a45b-efdd2ca8b438.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TV Record HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/Record%20TV%20SP.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TV Record HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/f4d26e1d-5a32-4afc-b95b-e384b640a6a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP Africa SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/RTP%20A╠üfrica.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP Africa SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/cfc566e3-898f-40ba-b092-890d3f3de602.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP Africa HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/RTP%20A╠üfrica.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP Africa HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/f203cecc-3769-4a2d-b4b7-6cf5cfe0bd58.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TV Cine Top FHD" tvg-logo="https://inter.mazalemp.click/TVCINE%20TOP.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TV Cine Top FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8f6c8af6-7f7b-46c2-a2c7-a967198a6d2d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TV Cine Emotion FHD" tvg-logo="https://inter.mazalemp.click/TVCINE%20EMOTION_.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TV Cine Emotion FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/70f774aa-0237-4451-afa9-c959cb22524d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TV Cine Action FHD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TV Cine Action FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/6721b193-2c8a-43c8-a67c-66df51268f60.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TV Cine Edition FHD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TV Cine Edition FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ad03291e-84f2-4c6b-8e07-178993003899.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Nos Studios FHD" tvg-logo="https://inter.mazalemp.click/NOS%20STUDIO.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Nos Studios FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/dba44934-e419-48d6-a550-6f94121299d3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Hollywood FHD" tvg-logo="https://inter.mazalemp.click/HOLLYWOOD.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Hollywood FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/97adb12b-8830-4556-ab5b-4b3181a026a9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AMC SD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AMC SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/3f164300-ce23-47fa-8345-7538fa67d7ed.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AMC HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AMC HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/722992d7-3257-4130-a9a0-3aa9b5f36b55.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) AMC FHD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) AMC FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8fe4f879-26d0-4122-bbdb-62eb729a81de.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Cinemundo FHD" tvg-logo="https://inter.mazalemp.click/CINEMUNDO.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Cinemundo FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/2b004c2d-b189-4784-8270-562b1f3bbe6f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Baby TV HD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Baby TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/eb0b4edf-7ef3-46bf-997c-d49dd893d44f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical HD" tvg-logo="https://plus.ipcdn4.com/atualizados/SIC%20RADICAL.png" group-title="PORTUGAL CANAIS - (NOVO)",SIC Radical HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0fd12db7-c3a8-4a17-acb3-7f3c798d5ab9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) CBS Reality HD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) CBS Reality HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/9a5ad119-260d-45b3-9769-ec0bffde53ea.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TLC SD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0091_TLC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TLC SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/3a95e02a-38af-4600-b4e2-75c6d02a4a5f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TLC HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0091_TLC.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TLC HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/b876f6db-5b72-4b14-b82c-14eee22c4a16.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Mas Chic HD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Mas Chic HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/7e8c2e2a-158e-483c-bde3-680db523e19b.m3u
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="(PT) Food Network" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0016_FOOD-NETWORK.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Food Network
+http://popzed.sbs:80/live/sergion6783/snogueira99941/11ef8bd8-eb12-4824-896a-d5a2682325b5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Blaze FHD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Blaze FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/6cc1e1b1-3d82-4bfd-a799-bf078729d2a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Dog TV HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/DogTV.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Dog TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0ac1e147-3315-4466-b7b7-e6e49cc36e05.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP Açores HD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP Açores HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/096f80c9-910f-4d6b-ac1d-a0c71446743b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP Madeira HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/RTP%20MADEIRA.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP Madeira HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/c6f7e5c8-bb9d-49b0-bf6b-d61d6e3c2997.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) RTP Memoria HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/RTP%20Memo╠üria.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) RTP Memoria HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/5a0a703f-bdd7-4cb8-bb15-9938754adb4a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) NFL Network HD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) NFL Network HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/a37c2a48-b8c3-45ca-b808-75cd76c1dd1e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="PORTUGAL CANAIS - (NOVO)",TV Globo HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/fc742bbe-0391-43ec-8216-7f3bcfaada5e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) TVI Ficção" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) TVI Ficção
+http://popzed.sbs:80/live/sergion6783/snogueira99941/a7d7708d-9e78-49f5-82e4-00a77f172601.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fashion TV HD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0047_Fashon-tv.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Fashion TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/720694ea-4573-4845-9054-0a80249fd7f6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Toros TV HD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Toros TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/fe528661-bdea-4534-8748-d5049f9d2dc8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Campo Pequeno TV FHD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Campo Pequeno TV FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/96c94105-6f32-42b5-b888-899e3c526f2a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Caça & Pesca FHD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Caça & Pesca FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/3bcc292e-c7cd-4227-870f-671c1329d351.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Ginx HD" tvg-logo="https://inter.mazalemp.click/GINX%20ESPORTS.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Ginx HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/eecc2d3a-f4c0-4eb9-8055-cf9c6c8d69d2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) VH1 HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/VH1.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) VH1 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/7c608871-3df3-49c9-bfdc-b935dffbdffc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Trace Urban HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/Trace%20Urban.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Trace Urban HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/de1d6c42-b799-48f8-8ea2-35bc9f8eddc2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) MCM Top" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV3/(PT)%20MCM%20Pop.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) MCM Top
+http://popzed.sbs:80/live/sergion6783/snogueira99941/c19f4505-6db0-4f86-b295-919bfe54f933.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Mezzo Live" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Mezzo Live
+http://popzed.sbs:80/live/sergion6783/snogueira99941/1e00b30a-9d21-4bed-bbaa-14414ae67cdb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Zap Viva" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Zap Viva
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ad667c00-5a6c-4169-b79e-ed22dc845cd3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Kuriakos TV FHD" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Kuriakos TV FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ca0952f4-33f9-4aeb-9f1e-bf8488cdbc21.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Tpa International" tvg-logo="" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Tpa International
+http://popzed.sbs:80/live/sergion6783/snogueira99941/34128bb1-266d-41f8-bffe-449362bcee06.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) E! Entertainment" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0019_e!.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) E! Entertainment
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d40d0923-6dff-471f-86ad-d74f7172e537.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Nat Geo Wild HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/NatGeo%20Wild.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Nat Geo Wild HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/4691e381-304b-4d8e-bf86-f4ff3360a3bd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Nat Geo Wild FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/NatGeo%20Wild.png" group-title="PORTUGAL CANAIS - (NOVO)",(PT) Nat Geo Wild FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/733b8b8c-e06a-4f5e-ba09-41cbe84b6f0c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Zimbo" tvg-logo="https://icons.ipcdn4.com/pasta%203/tv-zimbo.png" group-title="PORTUGAL CANAIS - (NOVO)",PT: TV Zimbo
+http://popzed.sbs:80/live/sergion6783/snogueira99941/3a5076bc-c8bc-4332-8eb3-ae4bdc82f3b3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV + SD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV + SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d8a3d497-2f7b-4719-968d-0443e3338584.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV + HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV + HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/34ebc8b9-b2e8-40a4-9cb4-45f688299e10.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV + FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV + FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/7b2fecc1-ea6c-4b45-8170-44e63ea2ff62.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 1 SD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 1 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ff976d04-43bd-4c48-b9c9-52a84fa33423.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 1 HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 1 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/03e3f990-364a-45a2-92d1-d65175eebe4c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 1 FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 1 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/afcbc836-79db-46a3-8b49-13e95074814a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 2 SD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0181_Sportv-2.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 2 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/80961468-9fe5-4819-98d0-e78e695c319d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 2 HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0181_Sportv-2.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 2 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0b5c64a0-e81c-4463-9714-692320102634.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 2 FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0181_Sportv-2.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 2 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/fcaf9aed-9036-41e3-b0ee-dffc964913d9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 3 SD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0184_Sportv-3.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 3 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/31dca9d4-9f3a-4838-a8ea-936ecc090a4a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 3 HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0184_Sportv-3.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 3 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/99d29269-895b-4891-a86b-6e7a72c8d59a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 3 FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0184_Sportv-3.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 3 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/b9e127e2-ee5a-48ca-b07d-2f9361cd6950.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 4 SD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 4 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ca2c2168-c2d1-4211-a503-c395c9b19004.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 4 HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 4 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/dc31782f-025f-4af8-a03f-dfbc6deda07a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 4 FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 4 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/f679ab93-1967-4ec6-8053-13b56c7920f3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 5 SD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 5 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/abfa8354-844f-4328-8521-54d1ec33a442.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 5 HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 5 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/10332c76-db2f-409a-9666-17b328798eb3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 5 FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 5 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ee12c316-e63c-4024-9d36-a7f3c4683fde.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 6 SD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 6 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/00ae14ca-ff7c-471f-9a73-ca119ff49716.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 6 HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 6 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/04cd85c8-3346-455f-aa29-d3403a054eea.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV 6 FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV 6 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/fdd1f1d1-e665-4448-8bb8-4dcd467ad386.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV NBA HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0114_NBA-LEAGUE-PASS.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV NBA HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/077abc85-56c2-4f66-ba5d-542882f93bed.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sport TV NBA FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0114_NBA-LEAGUE-PASS.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sport TV NBA FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/22545bfb-1b87-4f2d-9388-bc6f64b75e5a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) F1 Oficial" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0190_f1.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) F1 Oficial
+http://popzed.sbs:80/live/sergion6783/snogueira99941/df0aaa2c-e960-4c10-937e-ce60bc05c959.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical FHD" tvg-logo="https://plus.ipcdn4.com/atualizados/SIC%20RADICAL.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",SIC Radical FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/e6c6728e-4bef-4751-a884-5754978dd96d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Motorvision TV HD" tvg-logo="https://inter.mazalemp.click/MOTORVISION%20TV.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Motorvision TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/1dd9454a-7b66-478a-a43f-c50a4e33a8e9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fuel TV HD" tvg-logo="https://inter.mazalemp.click/FUEL%20TV.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Fuel TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d1e7a89f-89ed-4ba5-bee0-c660c960bae6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Benfica TV HD" tvg-logo="https://inter.mazalemp.click/BENFICA.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Benfica TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/5698e119-356b-4469-826b-59e62dab26fe.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Benfica TV FHD" tvg-logo="https://inter.mazalemp.click/BENFICA.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Benfica TV FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0be63e1f-07aa-448f-b884-1e71aba02596.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) BTV SD" tvg-logo="https://plus.ipcdn4.com/atualizados/btv%20fhd.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) BTV SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/53417983-a549-4683-acb8-3540824087b7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) BTV HD" tvg-logo="https://plus.ipcdn4.com/atualizados/btv%20fhd.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) BTV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8428054d-5f1b-429f-b8ed-7e64ff31c5e1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) BTV FHD" tvg-logo="https://plus.ipcdn4.com/atualizados/btv%20fhd.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) BTV FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/ae5396f2-adea-423d-8b96-a1fb0f4074a9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) BTV 4k" tvg-logo="https://plus.ipcdn4.com/atualizados/btv%20fhd.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) BTV 4k
+http://popzed.sbs:80/live/sergion6783/snogueira99941/b9103900-0372-4a78-b339-7f9971dc1a96.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sporting TV SD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/sporting%20tv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sporting TV SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d0f78b16-9895-4937-bb68-24a89fd981da.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sporting TV HD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/sporting%20tv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sporting TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/8a353e39-c7f4-4129-b411-f50af52494e9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) A Bola TV SD" tvg-logo="https://inter.mazalemp.click/A%20BOLA%20TV.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) A Bola TV SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/785c339a-9575-4e47-bbce-8008c55fc770.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Sporting TV FHD" tvg-logo="https://img-logo.mazalemp.click/LogosCanaisV2/sporting%20tv.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Sporting TV FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d0a8db7d-8849-4021-ba1d-302afba57ade.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) A Bola TV HD" tvg-logo="https://inter.mazalemp.click/A%20BOLA%20TV.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) A Bola TV HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/38ec060a-d0aa-441d-9b99-67da67c6fc50.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) A Bola TV FHD" tvg-logo="https://inter.mazalemp.click/A%20BOLA%20TV.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) A Bola TV FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/07877ef2-d957-49ed-b49b-560bb270ae3b.m3u
+#EXTINF:-1 tvg-id="Canal21.br" tvg-name="Canal 11 SD" tvg-logo="https://inter.mazalemp.click/CANAL%2011.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",Canal 11 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/05b57540-1a1a-4437-9399-13f4a23ec07e.m3u
+#EXTINF:-1 tvg-id="Canal21.br" tvg-name="Canal 11 HD" tvg-logo="https://inter.mazalemp.click/CANAL%2011.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",Canal 11 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/70482a22-e8cf-4e76-928b-e733269dd380.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 1 SD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%201.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 1 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/d3ae53a4-8c99-4f09-bf42-3880e1ede2a4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 1 HD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%201.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 1 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/e140ddbc-ab19-462b-8cd8-7fb02bacd61e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 1 FHD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%201.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 1 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/28b16fd3-badf-4c53-9d88-bf43ee3c1e95.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 2 HD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%202.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 2 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/f4b4ae76-fa1a-4677-896f-c8a40a3ca5a2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 2 FHD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%202.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 2 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/b07063b6-d2da-4f69-8c28-07204d5d100c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 3 HD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%203.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 3 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/b1f23ab3-bbb2-4ccf-b6ac-448f3a1978ca.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 3 FHD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%203.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 3 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/fc3f159e-8327-44f1-b589-c1c749678b86.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 4 HD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%204.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 4 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/014ac8ba-e4fd-4a4d-a32f-9676ba5528ff.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 4 FHD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%204.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 4 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/f0521bb4-a8ca-45fc-9b96-ea77b5a03167.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 5 HD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%205.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 5 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/57ad4aa5-e5eb-4517-b59e-e0cf7c8bc9cb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 5 FHD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%205.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 5 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/69891868-49e3-410b-a625-aae2e93e4a2b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 6 HD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%206.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 6 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/57007295-fa86-4fc6-8cd4-e682ebf3dee3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eleven Sports 6 FHD" tvg-logo="https://inter.mazalemp.click/ELEVEN%20SPORTS%206.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eleven Sports 6 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/3cb61568-0a2f-4c71-986e-8cb213e19b9f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Combate HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0140_combate.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Combate HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/7a65c4c6-1453-4472-a7dc-bc442b0cde52.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Fight Network FHD" tvg-logo="" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Fight Network FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/206af19c-b29d-4a77-9c81-bfad427d632a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Combate FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0140_combate.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Combate FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/11f07125-906c-49ab-89ac-416abd88c024.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Red Bull TV FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0137_red-bull.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Red Bull TV FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/c3e43767-51f7-414c-8fe7-7ccb31819924.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eurosport 1 SD" tvg-logo="https://inter.mazalemp.click/EUROSPORT%201.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eurosport 1 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/91457300-5ea0-4bab-bc75-ff4412849113.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eurosport  1 HD" tvg-logo="https://inter.mazalemp.click/EUROSPORT%201.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eurosport  1 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/0540261f-cd94-4edf-b8cf-06529e03587f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD" tvg-logo="https://inter.mazalemp.click/EUROSPORT%201.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",Eurosport 1 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/35a15eca-28fb-45c6-8e1d-1e37aedac894.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eurosport 2 SD" tvg-logo="https://inter.mazalemp.click/EUROSPORT%202.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eurosport 2 SD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/145822ed-8ede-4617-9b59-f309a01c21db.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eurosport 2 HD" tvg-logo="https://inter.mazalemp.click/EUROSPORT%202.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eurosport 2 HD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/75731e4d-6bff-4110-9932-194f9fb56439.m3u
+#EXTINF:-1 tvg-id="" tvg-name="(PT) Eurosport 2 FHD" tvg-logo="https://inter.mazalemp.click/EUROSPORT%202.png" group-title="PORTUGAL CANAIS ESPORTIVOS - (NOVO)",(PT) Eurosport 2 FHD
+http://popzed.sbs:80/live/sergion6783/snogueira99941/f1dd165c-30db-4a8e-aaa8-69c690cb034b.m3u
+
 
 
 
