@@ -7,7 +7,6 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_27.mkv
-http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_92.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_35.mkv
 http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_37.mkv
 
@@ -10196,6 +10195,22 @@ http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_90.mkv
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_91.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 091
 http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_92.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 092
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_93.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 093
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_94.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 094
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_95.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 095
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_96.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 096
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_97.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 097
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_98.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 098
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_99.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ys1Y3G25PHFHpLU5IVkCEQJK8BP.jpg" group-title="Regalo de amor",Cap. 099
+http://series.tuxchannel.mx/series/regalo_de_amor/s_01_e_100.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f2/7e/8d/f27e8d966c371621e7122967b2deebfe.jpg" group-title="Sin miedo a la verdad T1",Cap. 01
 http://series.tuxchannel.mx/series/sin_miedo_a_la_verdad/s_01_e_01.mkv
