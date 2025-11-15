@@ -1,1004 +1,1009 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC- DISCOVERY EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-discovery-en-espanol.png" group-title="• MUNDO Y CULTURA",MYC- DISCOVERY EN ESPAÑOL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/56304
+https://tv.nousiptv.com:8443/RFarias/07122020/56304
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC - DISCOVERY CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY CHANNEL FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4069
+https://tv.nousiptv.com:8443/RFarias/07122020/4069
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MYC - DISCOVERY CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY CHANNEL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155807
+https://tv.nousiptv.com:8443/RFarias/07122020/1155807
 #EXTINF:-1 tvg-id="" tvg-name="MYC - DISCOVERY ID FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY ID FHD
-http://tv.nousiptv.com:80/Flaco1222/Miriam13/1156012
+https://tv.nousiptv.com:8443/RFarias/07122020/1156012
 #EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="MYC - DISCOVERY ID" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY ID
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4123
+https://tv.nousiptv.com:8443/RFarias/07122020/4123
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MYC - DISCOVERY HOME & HEALTH FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY HOME & HEALTH FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4070
+https://tv.nousiptv.com:8443/RFarias/07122020/4070
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MYC - DISCOVERY HOME & HEALTH" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY HOME & HEALTH
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155816
+https://tv.nousiptv.com:8443/RFarias/07122020/1155816
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MYC - DISCOVERY THEATER FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY THEATER FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4073
+https://tv.nousiptv.com:8443/RFarias/07122020/4073
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MYC - DISCOVERY THEATER" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY THEATER
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4119
+https://tv.nousiptv.com:8443/RFarias/07122020/4119
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MYC  - DISCOVERY WORLD FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="• MUNDO Y CULTURA",MYC  - DISCOVERY WORLD FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4076
+https://tv.nousiptv.com:8443/RFarias/07122020/4076
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="MYC - DISCOVERY WORLD" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY WORLD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155812
+https://tv.nousiptv.com:8443/RFarias/07122020/1155812
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.pa" tvg-name="MYC - DISCOVERY SCIENCE" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY SCIENCE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155818
+https://tv.nousiptv.com:8443/RFarias/07122020/1155818
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MYC - ANIMAL PLANET FHD" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="• MUNDO Y CULTURA",MYC - ANIMAL PLANET FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4067
+https://tv.nousiptv.com:8443/RFarias/07122020/4067
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MYC - ANIMAL PLANET" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="• MUNDO Y CULTURA",MYC - ANIMAL PLANET
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155797
+https://tv.nousiptv.com:8443/RFarias/07122020/1155797
 #EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MYC - HISTORY CHANEL FHD" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="• MUNDO Y CULTURA",MYC - HISTORY CHANEL FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4093
+https://tv.nousiptv.com:8443/RFarias/07122020/4093
 #EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="MYC - HISTORY CHANEL HD" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="• MUNDO Y CULTURA",MYC - HISTORY CHANEL HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155804
+https://tv.nousiptv.com:8443/RFarias/07122020/1155804
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="MYC - H2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="• MUNDO Y CULTURA",MYC - H2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4005
+https://tv.nousiptv.com:8443/RFarias/07122020/4005
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MYC - NATGEO FHD" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="• MUNDO Y CULTURA",MYC - NATGEO FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4097
+https://tv.nousiptv.com:8443/RFarias/07122020/4097
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MYC - NATGEO" tvg-logo="http://descargas.podzone.net/logos/-NATGEO.png" group-title="• MUNDO Y CULTURA",MYC - NATGEO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4126
+https://tv.nousiptv.com:8443/RFarias/07122020/4126
 #EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name="MYC - NATGEO MUNDO" tvg-logo="http://descargas.podzone.net/logos/-NATGEO-mundo.png" group-title="• MUNDO Y CULTURA",MYC - NATGEO MUNDO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3774
+https://tv.nousiptv.com:8443/RFarias/07122020/3774
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MYC - DISCOVERY TLC" tvg-logo="http://descargas.podzone.net/logos/-discovery-TLC.png" group-title="• MUNDO Y CULTURA",MYC - DISCOVERY TLC
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155820
+https://tv.nousiptv.com:8443/RFarias/07122020/1155820
 #EXTINF:-1 tvg-id="FilmAndArts.mx" tvg-name="MYC - FILM & ARTS" tvg-logo="http://descargas.podzone.net/logos/-film-&-arts.png" group-title="• MUNDO Y CULTURA",MYC - FILM & ARTS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3966
+https://tv.nousiptv.com:8443/RFarias/07122020/3966
 #EXTINF:-1 tvg-id="" tvg-name="MYC - HGTV HD" tvg-logo="http://descargas.podzone.net/logos/-HGTV.png" group-title="• MUNDO Y CULTURA",MYC - HGTV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155823
+https://tv.nousiptv.com:8443/RFarias/07122020/1155823
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="MYC - TLC FHD" tvg-logo="http://descargas.podzone.net/logos2/-TLC.png" group-title="• MUNDO Y CULTURA",MYC - TLC FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4074
+https://tv.nousiptv.com:8443/RFarias/07122020/4074
 #EXTINF:-1 tvg-id="" tvg-name="MYC - HISPAN TV" tvg-logo="http://descargas.podzone.net/logos/-hispan-tv.png" group-title="• MUNDO Y CULTURA",MYC - HISPAN TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33481
+https://tv.nousiptv.com:8443/RFarias/07122020/33481
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="MYC - RT ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-RT-espanol.png" group-title="• MUNDO Y CULTURA",MYC - RT ESPAÑOL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155802
+https://tv.nousiptv.com:8443/RFarias/07122020/1155802
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MYC - DW EN ESPANOL" tvg-logo="http://descargas.podzone.net/logos/-DW-en-espanol.png" group-title="• MUNDO Y CULTURA",MYC - DW EN ESPANOL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155821
+https://tv.nousiptv.com:8443/RFarias/07122020/1155821
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155888
+https://tv.nousiptv.com:8443/RFarias/07122020/1155888
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33469
+https://tv.nousiptv.com:8443/RFarias/07122020/33469
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43637
+https://tv.nousiptv.com:8443/RFarias/07122020/43637
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN 2 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155889
+https://tv.nousiptv.com:8443/RFarias/07122020/1155889
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155890
+https://tv.nousiptv.com:8443/RFarias/07122020/1155890
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43639
+https://tv.nousiptv.com:8443/RFarias/07122020/43639
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 4 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 SUR HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1118360
+https://tv.nousiptv.com:8443/RFarias/07122020/1118360
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="LD - ESPN 4 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 SUR SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18580
+https://tv.nousiptv.com:8443/RFarias/07122020/18580
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PREMIUM SUR FHD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="• LATINO DEPORTES •",LD - ESPN PREMIUM SUR FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7940
+https://tv.nousiptv.com:8443/RFarias/07122020/7940
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PREMIUM SUR HD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="• LATINO DEPORTES •",LD - ESPN PREMIUM SUR HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43638
+https://tv.nousiptv.com:8443/RFarias/07122020/43638
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN CHILE HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN CHILE HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1080110
+https://tv.nousiptv.com:8443/RFarias/07122020/1080110
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN CHILE SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN CHILE SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1080111
+https://tv.nousiptv.com:8443/RFarias/07122020/1080111
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 1 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 BRASIL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1159095
+https://tv.nousiptv.com:8443/RFarias/07122020/1159095
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 2 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 BRASIL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1159096
+https://tv.nousiptv.com:8443/RFarias/07122020/1159096
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 3 BRASIL " tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 BRASIL 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1159093
+https://tv.nousiptv.com:8443/RFarias/07122020/1159093
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="LD - ESPN 4 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 BRASIL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1147322
+https://tv.nousiptv.com:8443/RFarias/07122020/1147322
 #EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 6 BRASIL" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-espn-6-252x252.webp" group-title="• LATINO DEPORTES •",LD - ESPN 6 BRASIL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1159094
+https://tv.nousiptv.com:8443/RFarias/07122020/1159094
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN 1 MX" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 MX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155892
+https://tv.nousiptv.com:8443/RFarias/07122020/1155892
 #EXTINF:-1 tvg-id="Espn2.mx" tvg-name="LD - ESPN 2 MX HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 MX HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1118923
+https://tv.nousiptv.com:8443/RFarias/07122020/1118923
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="LD - ESPN 3 MX HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 MX HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155903
+https://tv.nousiptv.com:8443/RFarias/07122020/1155903
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN 4 MX" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 MX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4120
+https://tv.nousiptv.com:8443/RFarias/07122020/4120
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="LD - ESPN DEPORTES" tvg-logo="data:image/png;base64,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" group-title="• LATINO DEPORTES •",LD - ESPN DEPORTES
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155891
+https://tv.nousiptv.com:8443/RFarias/07122020/1155891
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="LD - FOX SPORTS 1 HD CHILE" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 HD CHILE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155912
+https://tv.nousiptv.com:8443/RFarias/07122020/1155912
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="LD - FOX SPORTS 1 SD (CHILE)" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 SD (CHILE)
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1095232
+https://tv.nousiptv.com:8443/RFarias/07122020/1095232
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="LD - FOX SPORTS 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 2 SUR HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/16139
+https://tv.nousiptv.com:8443/RFarias/07122020/16139
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="LD -  ESPN 7 SUR HD" tvg-logo="data:image/png;base64,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" group-title="• LATINO DEPORTES •",LD -  ESPN 7 SUR HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/42456
+https://tv.nousiptv.com:8443/RFarias/07122020/42456
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LD - FOX SPORTS 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 SUR HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33475
+https://tv.nousiptv.com:8443/RFarias/07122020/33475
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LD - FOX SPORTS 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 SUR SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43640
+https://tv.nousiptv.com:8443/RFarias/07122020/43640
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="LD - FOX SPORTS 1 HD MEX " tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 HD MEX 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156755
+https://tv.nousiptv.com:8443/RFarias/07122020/1156755
 #EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="LD - FOX SPORTS 2 HD MEX " tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 2 HD MEX 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156756
+https://tv.nousiptv.com:8443/RFarias/07122020/1156756
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="LD - FOX SPORTS 3 MX HD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 MX HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156757
+https://tv.nousiptv.com:8443/RFarias/07122020/1156757
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="LD - FOX SPORTS 3 MX" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 3 MX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4008
+https://tv.nousiptv.com:8443/RFarias/07122020/4008
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="LD - FOX SPORTS PREMIUM FHD (MX)" tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS PREMIUM FHD (MX)
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1126417
+https://tv.nousiptv.com:8443/RFarias/07122020/1126417
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1091366
+https://tv.nousiptv.com:8443/RFarias/07122020/1091366
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7863
+https://tv.nousiptv.com:8443/RFarias/07122020/7863
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33512
+https://tv.nousiptv.com:8443/RFarias/07122020/33512
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1091367
+https://tv.nousiptv.com:8443/RFarias/07122020/1091367
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/32882
+https://tv.nousiptv.com:8443/RFarias/07122020/32882
 #EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS 2 SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS 2 SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/32881
+https://tv.nousiptv.com:8443/RFarias/07122020/32881
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1091368
+https://tv.nousiptv.com:8443/RFarias/07122020/1091368
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/27879
+https://tv.nousiptv.com:8443/RFarias/07122020/27879
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS PLUS SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8520
+https://tv.nousiptv.com:8443/RFarias/07122020/8520
 #EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV FIGHT FHD " tvg-logo="http://descargas.podzone.net/logos/-Directv-fight.png" group-title="• LATINO DEPORTES •",LD - DIRECTV FIGHT FHD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155911
+https://tv.nousiptv.com:8443/RFarias/07122020/1155911
 #EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV MOTOR " tvg-logo="data:image/png;base64,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" group-title="• LATINO DEPORTES •",LD - DIRECTV MOTOR 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1166264
+https://tv.nousiptv.com:8443/RFarias/07122020/1166264
 #EXTINF:-1 tvg-id="" tvg-name="LD - GOL TV FHD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •",LD - GOL TV FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1092639
+https://tv.nousiptv.com:8443/RFarias/07122020/1092639
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-1.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 1
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1147316
+https://tv.nousiptv.com:8443/RFarias/07122020/1147316
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-2.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1147317
+https://tv.nousiptv.com:8443/RFarias/07122020/1147317
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-3.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 3
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1147318
+https://tv.nousiptv.com:8443/RFarias/07122020/1147318
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 4" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-4.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 4
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1147319
+https://tv.nousiptv.com:8443/RFarias/07122020/1147319
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 5" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-5.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 5
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1147320
+https://tv.nousiptv.com:8443/RFarias/07122020/1147320
 #EXTINF:-1 tvg-id="" tvg-name="LD - ELEVEN SPORTS 6" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-6.png" group-title="• LATINO DEPORTES •",LD - ELEVEN SPORTS 6
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1147321
+https://tv.nousiptv.com:8443/RFarias/07122020/1147321
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="LD - BEIN SPORTS Ñ HD " tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS Ñ HD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155904
+https://tv.nousiptv.com:8443/RFarias/07122020/1155904
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="LD - BEIN SPORTS SD" tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43187
+https://tv.nousiptv.com:8443/RFarias/07122020/43187
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="LD - GOL TV HD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •",LD - GOL TV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156009
+https://tv.nousiptv.com:8443/RFarias/07122020/1156009
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="LD - GOL TV SD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="• LATINO DEPORTES •",LD - GOL TV SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1092653
+https://tv.nousiptv.com:8443/RFarias/07122020/1092653
 #EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="LD - GOLF LATIN AMERICA" tvg-logo="http://descargas.podzone.net/logos/-golf-latin-america.png" group-title="• LATINO DEPORTES •",LD - GOLF LATIN AMERICA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33363
+https://tv.nousiptv.com:8443/RFarias/07122020/33363
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="• LATINO DEPORTES •",LD - TYC SPORTS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8247
+https://tv.nousiptv.com:8443/RFarias/07122020/8247
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="LD - TVC DEPORTES" tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title="• LATINO DEPORTES •",LD - TVC DEPORTES
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4139
+https://tv.nousiptv.com:8443/RFarias/07122020/4139
 #EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="LD - CLARO SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-claro-sports.png" group-title="• LATINO DEPORTES •",LD - CLARO SPORTS HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/12011
+https://tv.nousiptv.com:8443/RFarias/07122020/12011
 #EXTINF:-1 tvg-id="AymSports.mx" tvg-name="LD - AYM SPORTS" tvg-logo="http://descargas.podzone.net/logos/-AYM-sports.png" group-title="• LATINO DEPORTES •",LD - AYM SPORTS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156008
+https://tv.nousiptv.com:8443/RFarias/07122020/1156008
 #EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - TUDN DEPORTES FHD" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="• LATINO DEPORTES •",LD - TUDN DEPORTES FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3962
+https://tv.nousiptv.com:8443/RFarias/07122020/3962
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="LD - TUDN DEPORTES HD" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="• LATINO DEPORTES •",LD - TUDN DEPORTES HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4117
+https://tv.nousiptv.com:8443/RFarias/07122020/4117
 #EXTINF:-1 tvg-id="" tvg-name="LD - UNIVISION TUDN USA" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN USA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156010
+https://tv.nousiptv.com:8443/RFarias/07122020/1156010
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - UFC  NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-UFC-network.png" group-title="• LATINO DEPORTES •",LD - UFC  NETWORK FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4082
+https://tv.nousiptv.com:8443/RFarias/07122020/4082
 #EXTINF:-1 tvg-id="" tvg-name="LD - UFC LIVE HD" tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png" group-title="• LATINO DEPORTES •",LD - UFC LIVE HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53372
+https://tv.nousiptv.com:8443/RFarias/07122020/53372
 #EXTINF:-1 tvg-id="" tvg-name="LD - VIX LO MEJOR DE LIGA MX " tvg-logo="http://descargas.podzone.net/logos/-Vix.png" group-title="• LATINO DEPORTES •",LD - VIX LO MEJOR DE LIGA MX 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1158436
+https://tv.nousiptv.com:8443/RFarias/07122020/1158436
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="• CINE",CINE - HBO FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4112
+https://tv.nousiptv.com:8443/RFarias/07122020/4112
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO " tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="• CINE",CINE - HBO 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155792
+https://tv.nousiptv.com:8443/RFarias/07122020/1155792
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="• CINE",CINE - HBO 2 FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4095
+https://tv.nousiptv.com:8443/RFarias/07122020/4095
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="• CINE",CINE - HBO 2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155794
+https://tv.nousiptv.com:8443/RFarias/07122020/1155794
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO PLUS + FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="• CINE",CINE - HBO PLUS + FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4109
+https://tv.nousiptv.com:8443/RFarias/07122020/4109
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO PLUS +" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="• CINE",CINE - HBO PLUS +
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4003
+https://tv.nousiptv.com:8443/RFarias/07122020/4003
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="CINE - HBO SIGNATURE" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="• CINE",CINE - HBO SIGNATURE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155796
+https://tv.nousiptv.com:8443/RFarias/07122020/1155796
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="CINE - HBO XTREME FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="• CINE",CINE - HBO XTREME FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8226
+https://tv.nousiptv.com:8443/RFarias/07122020/8226
 #EXTINF:-1 tvg-id="" tvg-name="CINE - HBO XTREME" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="• CINE",CINE - HBO XTREME
-http://tv.nousiptv.com:80/beaiptv/ruiz1/44341
+https://tv.nousiptv.com:8443/RFarias/07122020/44341
 #EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP FHD" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="• CINE",CINE - HBO POP FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8246
+https://tv.nousiptv.com:8443/RFarias/07122020/8246
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="• CINE",CINE - HBO POP
-http://tv.nousiptv.com:80/beaiptv/ruiz1/47445
+https://tv.nousiptv.com:8443/RFarias/07122020/47445
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - HBO FAMILY " tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="• CINE",CINE - HBO FAMILY 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4017
+https://tv.nousiptv.com:8443/RFarias/07122020/4017
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO MUNDI" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="• CINE",CINE - HBO MUNDI
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1143815
+https://tv.nousiptv.com:8443/RFarias/07122020/1143815
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="• CINE",CINE - TNT FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4103
+https://tv.nousiptv.com:8443/RFarias/07122020/4103
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="• CINE",CINE - TNT
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4010
+https://tv.nousiptv.com:8443/RFarias/07122020/4010
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="• CINE",CINE - TNT SERIES FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4050
+https://tv.nousiptv.com:8443/RFarias/07122020/4050
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="• CINE",CINE - TNT SERIES
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156004
+https://tv.nousiptv.com:8443/RFarias/07122020/1156004
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - STAR CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="• CINE",CINE - STAR CHANNEL FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4022
+https://tv.nousiptv.com:8443/RFarias/07122020/4022
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - STAR CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png" group-title="• CINE",CINE - STAR CHANNEL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4121
+https://tv.nousiptv.com:8443/RFarias/07122020/4121
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL FHD" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="• CINE",CINE - CINECANAL FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4068
+https://tv.nousiptv.com:8443/RFarias/07122020/4068
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY FHD" tvg-logo="http://descargas.podzone.net/logos/-sony.png" group-title="• CINE",CINE - SONY FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4048
+https://tv.nousiptv.com:8443/RFarias/07122020/4048
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY MOVIES" tvg-logo="http://descargas.podzone.net/logos/-sony-movies.png" group-title="• CINE",CINE - SONY MOVIES
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1143816
+https://tv.nousiptv.com:8443/RFarias/07122020/1143816
 #EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="• CINE",CINE - PARAMOUNT NETWORK
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4065
+https://tv.nousiptv.com:8443/RFarias/07122020/4065
 #EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT NETWORK HD" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="• CINE",CINE - PARAMOUNT NETWORK HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155799
+https://tv.nousiptv.com:8443/RFarias/07122020/1155799
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC FHD" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="• CINE",CINE - AMC FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4085
+https://tv.nousiptv.com:8443/RFarias/07122020/4085
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC" tvg-logo="http://descargas.podzone.net/logos/-AMC.png" group-title="• CINE",CINE - AMC
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4118
+https://tv.nousiptv.com:8443/RFarias/07122020/4118
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="CINE - SPACE FHD" tvg-logo="https://i.pinimg.com/originals/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg" group-title="• CINE",CINE - SPACE FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4099
+https://tv.nousiptv.com:8443/RFarias/07122020/4099
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E FHD" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="• CINE",CINE - A&E FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4037
+https://tv.nousiptv.com:8443/RFarias/07122020/4037
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E" tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="• CINE",CINE - A&E
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156013
+https://tv.nousiptv.com:8443/RFarias/07122020/1156013
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN FHD" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="• CINE",CINE - AXN FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4038
+https://tv.nousiptv.com:8443/RFarias/07122020/4038
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="• CINE",CINE - AXN
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155784
+https://tv.nousiptv.com:8443/RFarias/07122020/1155784
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="• CINE",CINE - CINECANAL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155785
+https://tv.nousiptv.com:8443/RFarias/07122020/1155785
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX FHD" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="• CINE",CINE - CINEMAX FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4110
+https://tv.nousiptv.com:8443/RFarias/07122020/4110
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png" group-title="• CINE",CINE - CINEMAX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1068350
+https://tv.nousiptv.com:8443/RFarias/07122020/1068350
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX FHD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="• CINE",CINE - FX FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4044
+https://tv.nousiptv.com:8443/RFarias/07122020/4044
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="CINE - FX HD" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="• CINE",CINE - FX HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155789
+https://tv.nousiptv.com:8443/RFarias/07122020/1155789
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER FHD" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE",CINE - WARNER FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4053
+https://tv.nousiptv.com:8443/RFarias/07122020/4053
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://descargas.podzone.net/logos/-warner.png" group-title="• CINE",CINE - WARNER
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155808
+https://tv.nousiptv.com:8443/RFarias/07122020/1155808
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - SYFY FHD" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE",CINE - SYFY FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4049
+https://tv.nousiptv.com:8443/RFarias/07122020/4049
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - SYFY" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png" group-title="• CINE",CINE - SYFY
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3958
+https://tv.nousiptv.com:8443/RFarias/07122020/3958
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="CINE - TCM" tvg-logo="http://descargas.podzone.net/logos/-TCM.png" group-title="• CINE",CINE - TCM
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155806
+https://tv.nousiptv.com:8443/RFarias/07122020/1155806
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="• CINE",CINE - GOLDEN
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155790
+https://tv.nousiptv.com:8443/RFarias/07122020/1155790
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="CINE - GOLDEN EDGE" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png" group-title="• CINE",CINE - GOLDEN EDGE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155791
+https://tv.nousiptv.com:8443/RFarias/07122020/1155791
 #EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE",CINE - GOLDEN PREMIERE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4091
+https://tv.nousiptv.com:8443/RFarias/07122020/4091
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN PLUS" tvg-logo="http://descargas.podzone.net/logos/-golden.png" group-title="• CINE",CINE - GOLDEN PLUS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1148196
+https://tv.nousiptv.com:8443/RFarias/07122020/1148196
 #EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="CINE - GOLDEN PREMIERE 2" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png" group-title="• CINE",CINE - GOLDEN PREMIERE 2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1148844
+https://tv.nousiptv.com:8443/RFarias/07122020/1148844
 #EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula.png" group-title="• CINE",CINE - DE PELICULA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155786
+https://tv.nousiptv.com:8443/RFarias/07122020/1155786
 #EXTINF:-1 tvg-id="" tvg-name="CINE - DE PELICULA PLUS" tvg-logo="http://descargas.podzone.net/logos/-de-pelicula-plus.png" group-title="• CINE",CINE - DE PELICULA PLUS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155788
+https://tv.nousiptv.com:8443/RFarias/07122020/1155788
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - SUNDANCE TV" tvg-logo="http://descargas.podzone.net/logos/-sundance.png" group-title="• CINE",CINE - SUNDANCE TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4101
+https://tv.nousiptv.com:8443/RFarias/07122020/4101
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE - CINE LATINO" tvg-logo="http://descargas.podzone.net/logos/-cine-latino.png" group-title="• CINE",CINE - CINE LATINO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4136
+https://tv.nousiptv.com:8443/RFarias/07122020/4136
 #EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="http://descargas.podzone.net/logos/-cinema-dinamita.png" group-title="• CINE",CINE - CINEMA DINAMITA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4142
+https://tv.nousiptv.com:8443/RFarias/07122020/4142
 #EXTINF:-1 tvg-id="ClaroCinema.co" tvg-name="CINE - CLARO CINEMA" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png" group-title="• CINE",CINE - CLARO CINEMA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4145
+https://tv.nousiptv.com:8443/RFarias/07122020/4145
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CINE - PANICO TV HD" tvg-logo="http://descargas.podzone.net/logos/-panico-tv.png" group-title="• CINE",CINE - PANICO TV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7436
+https://tv.nousiptv.com:8443/RFarias/07122020/7436
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - TBS" tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="• CINE",CINE - TBS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4011
+https://tv.nousiptv.com:8443/RFarias/07122020/4011
 #EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="http://descargas.podzone.net/logos/-DHE.png" group-title="• CINE",CINE - DHE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/24180
+https://tv.nousiptv.com:8443/RFarias/07122020/24180
 #EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="http://descargas.podzone.net/logos/-europa-europa.png" group-title="• CINE",CINE - EUROPA EUROPA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33359
+https://tv.nousiptv.com:8443/RFarias/07122020/33359
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE CLASICO" tvg-logo="data:image/jpeg;base64,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" group-title="• CINE",CINE - CINE CLASICO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1161847
+https://tv.nousiptv.com:8443/RFarias/07122020/1161847
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DC UNIVERSE" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DC-UNIVERSE.png" group-title="• CINE",CINE - CINEMA DC UNIVERSE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1161848
+https://tv.nousiptv.com:8443/RFarias/07122020/1161848
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA DREAMWORKS" tvg-logo="http://descargas.podzone.net/logos2/-CINEMA-DREAMWORKS.png" group-title="• CINE",CINE - CINEMA DREAMWORKS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1161849
+https://tv.nousiptv.com:8443/RFarias/07122020/1161849
 #EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL FHD" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="• CINE",CINE - UNIVERSAL CHANNEL FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4054
+https://tv.nousiptv.com:8443/RFarias/07122020/4054
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="• CINE",CINE - MORBID TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33364
+https://tv.nousiptv.com:8443/RFarias/07122020/33364
 #EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-universal-channel.png" group-title="• CINE",CINE - UNIVERSAL CHANNEL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156005
+https://tv.nousiptv.com:8443/RFarias/07122020/1156005
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL FHD" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="• CINE",CINE - STUDIO UNIVERSAL FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4100
+https://tv.nousiptv.com:8443/RFarias/07122020/4100
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL" tvg-logo="http://descargas.podzone.net/logos/-studio-universal.png" group-title="• CINE",CINE - STUDIO UNIVERSAL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155803
+https://tv.nousiptv.com:8443/RFarias/07122020/1155803
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL REALITY" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png" group-title="• CINE",CINE - UNIVERSAL REALITY
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1119205
+https://tv.nousiptv.com:8443/RFarias/07122020/1119205
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CINEMA" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png" group-title="• CINE",CINE - UNIVERSAL CINEMA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1119206
+https://tv.nousiptv.com:8443/RFarias/07122020/1119206
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="• CINE",CINE - UNIVERSAL CRIME OESTE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1119200
+https://tv.nousiptv.com:8443/RFarias/07122020/1119200
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER OESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="• CINE",CINE - UNIVERSAL PREMIER OESTE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1119201
+https://tv.nousiptv.com:8443/RFarias/07122020/1119201
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL COMEDY" tvg-logo="http://descargas.podzone.net/logos/-universal-comedy.png" group-title="• CINE",CINE - UNIVERSAL COMEDY
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1119202
+https://tv.nousiptv.com:8443/RFarias/07122020/1119202
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL CRIME ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-crime.png" group-title="• CINE",CINE - UNIVERSAL CRIME ESTE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1119203
+https://tv.nousiptv.com:8443/RFarias/07122020/1119203
 #EXTINF:-1 tvg-id="" tvg-name="CINE - UNIVERSAL PREMIER ESTE" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png" group-title="• CINE",CINE - UNIVERSAL PREMIER ESTE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1119204
+https://tv.nousiptv.com:8443/RFarias/07122020/1119204
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="CINE - CINE BELICO" tvg-logo="data:image/jpeg;base64,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" group-title="• CINE",CINE - CINE BELICO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1147993
+https://tv.nousiptv.com:8443/RFarias/07122020/1147993
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - CINE MANIA" tvg-logo="http://descargas.podzone.net/logos/-cine-mania.png" group-title="• CINE",CINE - CINE MANIA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1148843
+https://tv.nousiptv.com:8443/RFarias/07122020/1148843
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE SUSPENSO" tvg-logo="data:image/jpeg;base64,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" group-title="• CINE",CINE - CINE SUSPENSO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155781
+https://tv.nousiptv.com:8443/RFarias/07122020/1155781
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE ESTELAR" tvg-logo="http://descargas.podzone.net/logos/-cine-estelar.png" group-title="• CINE",CINE - CINE ESTELAR
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156007
+https://tv.nousiptv.com:8443/RFarias/07122020/1156007
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA FAMILIA" tvg-logo="http://descargas.podzone.net/logos2/-CINE-FAMILIA.png" group-title="• CINE",CINE - CINEMA FAMILIA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156760
+https://tv.nousiptv.com:8443/RFarias/07122020/1156760
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MULTICINEMA" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - MULTICINEMA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1148845
+https://tv.nousiptv.com:8443/RFarias/07122020/1148845
 #EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="ENT - LIFETIME HD" tvg-logo="http://descargas.podzone.net/logos/-lifetime.png" group-title="• ENTRETENIMIENTO",ENT - LIFETIME HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155873
+https://tv.nousiptv.com:8443/RFarias/07122020/1155873
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT - E! ENTERTAINMENT FHD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO",ENT - E! ENTERTAINMENT FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4041
+https://tv.nousiptv.com:8443/RFarias/07122020/4041
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -  E! ENTERTAINMENT HD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO",ENT -  E! ENTERTAINMENT HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155867
+https://tv.nousiptv.com:8443/RFarias/07122020/1155867
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO",ENT - DISCOVERY TURBO FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4075
+https://tv.nousiptv.com:8443/RFarias/07122020/4075
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO",ENT - DISCOVERY TURBO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155871
+https://tv.nousiptv.com:8443/RFarias/07122020/1155871
 #EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT -  EL GARAGE HD" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO",ENT -  EL GARAGE HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155864
+https://tv.nousiptv.com:8443/RFarias/07122020/1155864
 #EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT - EL GARAGE TV" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO",ENT - EL GARAGE TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4016
+https://tv.nousiptv.com:8443/RFarias/07122020/4016
 #EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT - EL GOURMET FHD" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO",ENT - EL GOURMET FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4042
+https://tv.nousiptv.com:8443/RFarias/07122020/4042
 #EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT - EL GOURMET HD" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO",ENT - EL GOURMET HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155868
+https://tv.nousiptv.com:8443/RFarias/07122020/1155868
 #EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="ENT - FOOD NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4057
+https://tv.nousiptv.com:8443/RFarias/07122020/4057
 #EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="ENT - FOOD NETWORK" tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4146
+https://tv.nousiptv.com:8443/RFarias/07122020/4146
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT - COMEDY CENTRAL FHD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO",ENT - COMEDY CENTRAL FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4039
+https://tv.nousiptv.com:8443/RFarias/07122020/4039
 #EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ENT - Comedy Central HD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO",ENT - Comedy Central HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155872
+https://tv.nousiptv.com:8443/RFarias/07122020/1155872
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENT - DISTRITO COMEDIA FHD" tvg-logo="http://descargas.podzone.net/logos/-distrito-comedia.png" group-title="• ENTRETENIMIENTO",ENT - DISTRITO COMEDIA FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4040
+https://tv.nousiptv.com:8443/RFarias/07122020/4040
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT - WOBI TV FHD" tvg-logo="http://descargas.podzone.net/logos/-wobi-tv.png" group-title="• ENTRETENIMIENTO",ENT - WOBI TV FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4107
+https://tv.nousiptv.com:8443/RFarias/07122020/4107
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT -WOBI" tvg-logo="http://descargas.podzone.net/logos/-wobi-tv.png" group-title="• ENTRETENIMIENTO",ENT -WOBI
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4134
+https://tv.nousiptv.com:8443/RFarias/07122020/4134
 #EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV FHD" tvg-logo="http://descargas.podzone.net/logos/-hola-tv.png" group-title="• ENTRETENIMIENTO",ENT - HOLA TV FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4046
+https://tv.nousiptv.com:8443/RFarias/07122020/4046
 #EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV HD" tvg-logo="http://descargas.podzone.net/logos/-hola-tv.png" group-title="• ENTRETENIMIENTO",ENT - HOLA TV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155874
+https://tv.nousiptv.com:8443/RFarias/07122020/1155874
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ENT - MAS CHIC FHD" tvg-logo="http://descargas.podzone.net/logos/-MAS-chic.png" group-title="• ENTRETENIMIENTO",ENT - MAS CHIC FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4047
+https://tv.nousiptv.com:8443/RFarias/07122020/4047
 #EXTINF:-1 tvg-id="" tvg-name="ENT - EWTN" tvg-logo="http://descargas.podzone.net/logos/-EWTN.png" group-title="• ENTRETENIMIENTO",ENT - EWTN
-http://tv.nousiptv.com:80/beaiptv/ruiz1/34609
+https://tv.nousiptv.com:8443/RFarias/07122020/34609
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ENT - COCINA " tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="• ENTRETENIMIENTO",ENT - COCINA 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1153332
+https://tv.nousiptv.com:8443/RFarias/07122020/1153332
 #EXTINF:-1 tvg-id="" tvg-name="ENT - BITME" tvg-logo="http://descargas.podzone.net/logos/-bitme.png" group-title="• ENTRETENIMIENTO",ENT - BITME
-http://tv.nousiptv.com:80/beaiptv/ruiz1/47698
+https://tv.nousiptv.com:8443/RFarias/07122020/47698
 #EXTINF:-1 tvg-id="truTV.mx" tvg-name="ENT - TRU TV" tvg-logo="http://descargas.podzone.net/logos/-TRU-TV.png" group-title="• ENTRETENIMIENTO",ENT - TRU TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155879
+https://tv.nousiptv.com:8443/RFarias/07122020/1155879
 #EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF - BABY TV" tvg-logo="http://descargas.podzone.net/logos/-baby-tv.png" group-title="• INFANTILES •",INF - BABY TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3798
+https://tv.nousiptv.com:8443/RFarias/07122020/3798
 #EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF -  BABY TV HQ FHD" tvg-logo="http://descargas.podzone.net/logos/-baby-tv.png" group-title="• INFANTILES •",INF -  BABY TV HQ FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4116
+https://tv.nousiptv.com:8443/RFarias/07122020/4116
 #EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="INF - BABY FIRST FHD" tvg-logo="http://descargas.podzone.net/logos/-baby-first.png" group-title="• INFANTILES •",INF - BABY FIRST FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4088
+https://tv.nousiptv.com:8443/RFarias/07122020/4088
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - CARTOONITO FHD" tvg-logo="http://descargas.podzone.net/logos/-cartoonito.png" group-title="• INFANTILES •",INF - CARTOONITO FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4061
+https://tv.nousiptv.com:8443/RFarias/07122020/4061
 #EXTINF:-1 tvg-id="" tvg-name="INF - CARTOONITO HD" tvg-logo="http://descargas.podzone.net/logos/-cartoonito.png" group-title="• INFANTILES •",INF - CARTOONITO HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155854
+https://tv.nousiptv.com:8443/RFarias/07122020/1155854
 #EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="INF - TOONCAST FHD" tvg-logo="http://descargas.podzone.net/logos/-tooncast.png" group-title="• INFANTILES •",INF - TOONCAST FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4051
+https://tv.nousiptv.com:8443/RFarias/07122020/4051
 #EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="INF -  TOONCAST" tvg-logo="http://descargas.podzone.net/logos/-tooncast.png" group-title="• INFANTILES •",INF -  TOONCAST
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155861
+https://tv.nousiptv.com:8443/RFarias/07122020/1155861
 #EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="INF - NICKELODEON FHD" tvg-logo="http://descargas.podzone.net/logos/-nickelodeon.png" group-title="• INFANTILES •",INF - NICKELODEON FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4058
+https://tv.nousiptv.com:8443/RFarias/07122020/4058
 #EXTINF:-1 tvg-id="" tvg-name="INF - NICKELODEON HD" tvg-logo="http://descargas.podzone.net/logos/-nickelodeon.png" group-title="• INFANTILES •",INF - NICKELODEON HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155856
+https://tv.nousiptv.com:8443/RFarias/07122020/1155856
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF - DISCOVERY KIDS FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="• INFANTILES •",INF - DISCOVERY KIDS FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4072
+https://tv.nousiptv.com:8443/RFarias/07122020/4072
 #EXTINF:-1 tvg-id="" tvg-name="INF - DISCOVERY KIDS HD" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="• INFANTILES •",INF - DISCOVERY KIDS HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155851
+https://tv.nousiptv.com:8443/RFarias/07122020/1155851
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF - CARTOON NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="• INFANTILES •",INF - CARTOON NETWORK FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4063
+https://tv.nousiptv.com:8443/RFarias/07122020/4063
 #EXTINF:-1 tvg-id="" tvg-name="INF - CARTOON NETWORK" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="• INFANTILES •",INF - CARTOON NETWORK
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155850
+https://tv.nousiptv.com:8443/RFarias/07122020/1155850
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="INF - DISNEY CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-disney-channel.png" group-title="• INFANTILES •",INF - DISNEY CHANNEL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4004
+https://tv.nousiptv.com:8443/RFarias/07122020/4004
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF - DISNEY JR FHD" tvg-logo="http://descargas.podzone.net/logos/-DISNEY-JR.png" group-title="• INFANTILES •",INF - DISNEY JR FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4111
+https://tv.nousiptv.com:8443/RFarias/07122020/4111
 #EXTINF:-1 tvg-id="" tvg-name="INF  - DISNEY JR" tvg-logo="http://descargas.podzone.net/logos/-DISNEY-JR.png" group-title="• INFANTILES •",INF  - DISNEY JR
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1144260
+https://tv.nousiptv.com:8443/RFarias/07122020/1144260
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF - NICK JUNIOR" tvg-logo="http://descargas.podzone.net/logos2/-NICK-JUNIOR.png" group-title="• INFANTILES •",INF - NICK JUNIOR
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4194
+https://tv.nousiptv.com:8443/RFarias/07122020/4194
 #EXTINF:-1 tvg-id="" tvg-name="INF - BABY FIRST" tvg-logo="http://descargas.podzone.net/logos/-baby-first.png" group-title="• INFANTILES •",INF - BABY FIRST
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155858
+https://tv.nousiptv.com:8443/RFarias/07122020/1155858
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - TEEN NICK " tvg-logo="http://descargas.podzone.net/logos/-teennick.png" group-title="• INFANTILES •",INF - TEEN NICK 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4140
+https://tv.nousiptv.com:8443/RFarias/07122020/4140
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="CINP - STARZ IN BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-in-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ IN BLACK
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8126
+https://tv.nousiptv.com:8443/RFarias/07122020/8126
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="CINP - STARZ IN BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-in-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ IN BLACK
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8137
+https://tv.nousiptv.com:8443/RFarias/07122020/8137
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="CINP - STARZ ENCORE ACTION HD" tvg-logo="http://descargas.podzone.net/logos/-starz-encore-action.png" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE ACTION HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8128
+https://tv.nousiptv.com:8443/RFarias/07122020/8128
 #EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="CINP - STARZ ENCORE BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-encore-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE BLACK
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8127
+https://tv.nousiptv.com:8443/RFarias/07122020/8127
 #EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="CINP - STARZ KIDS & FAMILY" tvg-logo="http://descargas.podzone.net/logos/-starz-kids-&-family.png" group-title="•CINEMA PREMIUM•",CINP - STARZ KIDS & FAMILY
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8133
+https://tv.nousiptv.com:8443/RFarias/07122020/8133
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="CINP - STARZ COMEDY HD" tvg-logo="http://descargas.podzone.net/logos/-starz-comedy.png" group-title="•CINEMA PREMIUM•",CINP - STARZ COMEDY HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8135
+https://tv.nousiptv.com:8443/RFarias/07122020/8135
 #EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="CINP - STARZ CINEMA HD" tvg-logo="http://descargas.podzone.net/logos/-starz-cinema.png" group-title="•CINEMA PREMIUM•",CINP - STARZ CINEMA HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8136
+https://tv.nousiptv.com:8443/RFarias/07122020/8136
 #EXTINF:-1 tvg-id="" tvg-name="CINP - SHOWTIME BEYOND HD" tvg-logo="http://descargas.podzone.net/logos/-showtime-beyond.png" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME BEYOND HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8139
+https://tv.nousiptv.com:8443/RFarias/07122020/8139
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOTIME WEST HD" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOTIME WEST HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8141
+https://tv.nousiptv.com:8443/RFarias/07122020/8141
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOW TIME HD" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOW TIME HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8138
+https://tv.nousiptv.com:8443/RFarias/07122020/8138
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOWTIME EAST" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME EAST
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8140
+https://tv.nousiptv.com:8443/RFarias/07122020/8140
 #EXTINF:-1 tvg-id="MovieMax.us" tvg-name="CINP - MORE MAX HD" tvg-logo="http://descargas.podzone.net/logos/-more-max.png" group-title="•CINEMA PREMIUM•",CINP - MORE MAX HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8143
+https://tv.nousiptv.com:8443/RFarias/07122020/8143
 #EXTINF:-1 tvg-id="MovieMax.us" tvg-name="CINP - MOVIE MAX" tvg-logo="http://descargas.podzone.net/logos/movie-max.png" group-title="•CINEMA PREMIUM•",CINP - MOVIE MAX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8144
+https://tv.nousiptv.com:8443/RFarias/07122020/8144
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - MOVIEPLEX" tvg-logo="http://descargas.podzone.net/logos/-movieplex.png" group-title="•CINEMA PREMIUM•",CINP - MOVIEPLEX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8145
+https://tv.nousiptv.com:8443/RFarias/07122020/8145
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - INDIE PLEX" tvg-logo="http://descargas.podzone.net/logos/-indie-plex.png" group-title="•CINEMA PREMIUM•",CINP - INDIE PLEX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8142
+https://tv.nousiptv.com:8443/RFarias/07122020/8142
 #EXTINF:-1 tvg-id="OuterMax.us" tvg-name="CINP - OUTERMAX HD" tvg-logo="http://descargas.podzone.net/logos/-outermax.png" group-title="•CINEMA PREMIUM•",CINP - OUTERMAX HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8146
+https://tv.nousiptv.com:8443/RFarias/07122020/8146
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - RETROPLEX HD" tvg-logo="http://descargas.podzone.net/logos/-retroplex.png" group-title="•CINEMA PREMIUM•",CINP - RETROPLEX HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8147
+https://tv.nousiptv.com:8443/RFarias/07122020/8147
 #EXTINF:-1 tvg-id="MonteCarloTV.uy" tvg-name="URU - CANAL 4 HD" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU - CANAL 4 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8334
+https://tv.nousiptv.com:8443/RFarias/07122020/8334
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-name="URU - CANAL 4 SD" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU - CANAL 4 SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18261
+https://tv.nousiptv.com:8443/RFarias/07122020/18261
 #EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU - CANAL 10 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU - CANAL 10 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18567
+https://tv.nousiptv.com:8443/RFarias/07122020/18567
 #EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU - CANAL 10 FHD" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU - CANAL 10 FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155782
+https://tv.nousiptv.com:8443/RFarias/07122020/1155782
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE 12 HD" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE 12 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156212
+https://tv.nousiptv.com:8443/RFarias/07122020/1156212
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE 12 FHD" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE 12 FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18731
+https://tv.nousiptv.com:8443/RFarias/07122020/18731
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE 12 SD" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE 12 SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18578
+https://tv.nousiptv.com:8443/RFarias/07122020/18578
 #EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URU - TV CIUDAD HD" tvg-logo="http://descargas.podzone.net/logos/-tv-ciudad.png" group-title="URUGUAY",URU - TV CIUDAD HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/19352
+https://tv.nousiptv.com:8443/RFarias/07122020/19352
 #EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URU - TV CIUDAD SD" tvg-logo="http://descargas.podzone.net/logos/-tv-ciudad.png" group-title="URUGUAY",URU - TV CIUDAD SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/16136
+https://tv.nousiptv.com:8443/RFarias/07122020/16136
 #EXTINF:-1 tvg-id="" tvg-name="URU  - A+V " tvg-logo="http://descargas.podzone.net/logos/-AmasV.png" group-title="URUGUAY",URU  - A+V 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/51359
+https://tv.nousiptv.com:8443/RFarias/07122020/51359
 #EXTINF:-1 tvg-id="TelevisionNacionalUruguay.uy" tvg-name="URU - CANAL 5 URUGUAY " tvg-logo="http://descargas.podzone.net/logos/-canal-5-uruguay.png" group-title="URUGUAY",URU - CANAL 5 URUGUAY 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/19351
+https://tv.nousiptv.com:8443/RFarias/07122020/19351
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="URU - DIRECTV URUGUAY HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="URUGUAY",URU - DIRECTV URUGUAY HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156003
+https://tv.nousiptv.com:8443/RFarias/07122020/1156003
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="URU - ESPN URUGUAY HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="URUGUAY",URU - ESPN URUGUAY HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156002
+https://tv.nousiptv.com:8443/RFarias/07122020/1156002
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV HD" tvg-logo="http://descargas.podzone.net/logos/-VTV.png" group-title="URUGUAY",URU - VTV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3802
+https://tv.nousiptv.com:8443/RFarias/07122020/3802
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV SD" tvg-logo="http://descargas.podzone.net/logos/-VTV.png" group-title="URUGUAY",URU - VTV SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/22204
+https://tv.nousiptv.com:8443/RFarias/07122020/22204
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV Plus HD" tvg-logo="http://descargas.podzone.net/logos/-VTV-plus.png" group-title="URUGUAY",URU - VTV Plus HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/19354
+https://tv.nousiptv.com:8443/RFarias/07122020/19354
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV Plus SD" tvg-logo="http://descargas.podzone.net/logos/-VTV-plus.png" group-title="URUGUAY",URU - VTV Plus SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/52513
+https://tv.nousiptv.com:8443/RFarias/07122020/52513
 #EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 11 PUNTA DEL ESTE HD" tvg-logo="http://descargas.podzone.net/logos/-canal-11-punta-del-este.png" group-title="URUGUAY",URU - CANAL 11 PUNTA DEL ESTE HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1139100
+https://tv.nousiptv.com:8443/RFarias/07122020/1139100
 #EXTINF:-1 tvg-id="" tvg-name="URU - LA RED" tvg-logo="http://descargas.podzone.net/logos/-la-red.png" group-title="URUGUAY",URU - LA RED
-http://tv.nousiptv.com:80/beaiptv/ruiz1/35428
+https://tv.nousiptv.com:8443/RFarias/07122020/35428
 #EXTINF:-1 tvg-id="" tvg-name="URU - MAROÑAS ENTERTAIMENT " tvg-logo="http://descargas.podzone.net/logos/-maronas-entertaiment.png" group-title="URUGUAY",URU - MAROÑAS ENTERTAIMENT 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/31618
+https://tv.nousiptv.com:8443/RFarias/07122020/31618
 #EXTINF:-1 tvg-id="" tvg-name="URU - 1000 x HORA " tvg-logo="http://descargas.podzone.net/logos/-1000-x-hora.png" group-title="URUGUAY",URU - 1000 x HORA 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/34605
+https://tv.nousiptv.com:8443/RFarias/07122020/34605
 #EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 1" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 1
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155780
+https://tv.nousiptv.com:8443/RFarias/07122020/1155780
 #EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 2" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7943
+https://tv.nousiptv.com:8443/RFarias/07122020/7943
 #EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 3" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 3
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43600
+https://tv.nousiptv.com:8443/RFarias/07122020/43600
 #EXTINF:-1 tvg-id="" tvg-name="URU - GOL TV" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="URUGUAY",URU - GOL TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1137832
+https://tv.nousiptv.com:8443/RFarias/07122020/1137832
 #EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 4" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 4
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156974
+https://tv.nousiptv.com:8443/RFarias/07122020/1156974
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA UNO HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX - AZTECA UNO HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155859
+https://tv.nousiptv.com:8443/RFarias/07122020/1155859
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZTECA UNO HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX - AZTECA UNO HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4087
+https://tv.nousiptv.com:8443/RFarias/07122020/4087
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA UNO" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX - AZTECA UNO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155860
+https://tv.nousiptv.com:8443/RFarias/07122020/1155860
 #EXTINF:-1 tvg-id="" tvg-name="MX - UNO MVS TV" tvg-logo="http://descargas.podzone.net/logos/-uno-MVS-tv.png" group-title="MEXICO",MX - UNO MVS TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/6022
+https://tv.nousiptv.com:8443/RFarias/07122020/6022
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - EL CANAL DE LAS ESTRELLAS SUR" tvg-logo="http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png" group-title="MEXICO",MX - EL CANAL DE LAS ESTRELLAS SUR
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4030
+https://tv.nousiptv.com:8443/RFarias/07122020/4030
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX -  FORO TV HD" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX -  FORO TV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155869
+https://tv.nousiptv.com:8443/RFarias/07122020/1155869
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX -  FORO TV " tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX -  FORO TV 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155870
+https://tv.nousiptv.com:8443/RFarias/07122020/1155870
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MX - FORO TV" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX - FORO TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4029
+https://tv.nousiptv.com:8443/RFarias/07122020/4029
 #EXTINF:-1 tvg-id="5Nacional.mx" tvg-name="MX - CANAL 5 FHD" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="MEXICO",MX - CANAL 5 FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4028
+https://tv.nousiptv.com:8443/RFarias/07122020/4028
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="MEXICO",MX - CANAL 5 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155865
+https://tv.nousiptv.com:8443/RFarias/07122020/1155865
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CANAL 5" tvg-logo="http://descargas.podzone.net/logos/-canal-5-mx.png" group-title="MEXICO",MX - CANAL 5
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155866
+https://tv.nousiptv.com:8443/RFarias/07122020/1155866
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX - AZTECA 7 FHD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX - AZTECA 7 FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4027
+https://tv.nousiptv.com:8443/RFarias/07122020/4027
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7 HD" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX - AZTECA 7 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155862
+https://tv.nousiptv.com:8443/RFarias/07122020/1155862
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZTECA 7" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX - AZTECA 7
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155863
+https://tv.nousiptv.com:8443/RFarias/07122020/1155863
 #EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="MX - ADN 40" tvg-logo="http://descargas.podzone.net/logos/-ADN-40.png" group-title="MEXICO",MX - ADN 40
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4025
+https://tv.nousiptv.com:8443/RFarias/07122020/4025
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ CINEMA FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png" group-title="MEXICO",MX - AZ CINEMA FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4086
+https://tv.nousiptv.com:8443/RFarias/07122020/4086
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX - AZ CORAZON" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="MEXICO",MX - AZ CORAZON
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4026
+https://tv.nousiptv.com:8443/RFarias/07122020/4026
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - AZ MUNDO FHD" tvg-logo="http://descargas.podzone.net/logos/-AZ-mundo.png" group-title="MEXICO",MX - AZ MUNDO FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4055
+https://tv.nousiptv.com:8443/RFarias/07122020/4055
 #EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="MX - GALA TV" tvg-logo="http://descargas.podzone.net/logos/-gala-tv.png" group-title="MEXICO",MX - GALA TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4031
+https://tv.nousiptv.com:8443/RFarias/07122020/4031
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - NUEVE" tvg-logo="http://descargas.podzone.net/logos/-nueve.png" group-title="MEXICO",MX - NUEVE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155855
+https://tv.nousiptv.com:8443/RFarias/07122020/1155855
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV FHD" tvg-logo="http://descargas.podzone.net/logos/-once-tv.png" group-title="MEXICO",MX - ONCE TV FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4035
+https://tv.nousiptv.com:8443/RFarias/07122020/4035
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX - ONCE TV NIÑOS Y NIÑAS" tvg-logo="http://descargas.podzone.net/logos/-once-tv-ninos-y-ninas.png" group-title="MEXICO",MX - ONCE TV NIÑOS Y NIÑAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/47697
+https://tv.nousiptv.com:8443/RFarias/07122020/47697
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - MULTIMEDIOS MONTERREY FHD" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4033
+https://tv.nousiptv.com:8443/RFarias/07122020/4033
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - MULTIMEDIOS MONTERREY" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4125
+https://tv.nousiptv.com:8443/RFarias/07122020/4125
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - MULTIMEDIOS MONTERREY PLUS" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4034
+https://tv.nousiptv.com:8443/RFarias/07122020/4034
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA FHD" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX - TELEFORMULA FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4036
+https://tv.nousiptv.com:8443/RFarias/07122020/4036
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX - TELEFORMULA" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX - TELEFORMULA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4129
+https://tv.nousiptv.com:8443/RFarias/07122020/4129
 #EXTINF:-1 tvg-id="" tvg-name="MX - TELEVISA MTY" tvg-logo="http://descargas.podzone.net/logos/-televisa-MTY.png" group-title="MEXICO",MX - TELEVISA MTY
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4066
+https://tv.nousiptv.com:8443/RFarias/07122020/4066
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="MX - UNICABLE FHD" tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4052
+https://tv.nousiptv.com:8443/RFarias/07122020/4052
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - UNICABLE HD" tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155852
+https://tv.nousiptv.com:8443/RFarias/07122020/1155852
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - CORAZON HD " tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="MEXICO",MX - CORAZON HD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155857
+https://tv.nousiptv.com:8443/RFarias/07122020/1155857
 #EXTINF:-1 tvg-id="" tvg-name="MX - Comedy Central" tvg-logo="http://descargas.podzone.net/logos/-comedy-central-mx.png" group-title="MEXICO",MX - Comedy Central
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1158426
+https://tv.nousiptv.com:8443/RFarias/07122020/1158426
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX - UNICABLE " tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX - UNICABLE 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155853
+https://tv.nousiptv.com:8443/RFarias/07122020/1155853
 #EXTINF:-1 tvg-id="" tvg-name="MX - MILENIO TV " tvg-logo="http://descargas.podzone.net/logos/-milenio-tv.png" group-title="MEXICO",MX - MILENIO TV 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1158427
+https://tv.nousiptv.com:8443/RFarias/07122020/1158427
 #EXTINF:-1 tvg-id="TeleNovelasLatinAmerica.pa" tvg-name="MX - TLN TELENOVELAS" tvg-logo="http://descargas.podzone.net/logos/-TL-telenovelas.png" group-title="MEXICO",MX - TLN TELENOVELAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4130
+https://tv.nousiptv.com:8443/RFarias/07122020/4130
 #EXTINF:-1 tvg-id="" tvg-name="MX- IMAGEN TV FHD" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX- IMAGEN TV FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1124600
+https://tv.nousiptv.com:8443/RFarias/07122020/1124600
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MX - IMAGEN TV" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX - IMAGEN TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4149
+https://tv.nousiptv.com:8443/RFarias/07122020/4149
 #EXTINF:-1 tvg-id="" tvg-name="MX - TV UNAM" tvg-logo="http://descargas.podzone.net/logos/-tv-UNAM.png" group-title="MEXICO",MX - TV UNAM
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18574
+https://tv.nousiptv.com:8443/RFarias/07122020/18574
 #EXTINF:-1 tvg-id="" tvg-name="MX - INGENIO TV" tvg-logo="http://descargas.podzone.net/logos/-ingenio-tv.png" group-title="MEXICO",MX - INGENIO TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33358
+https://tv.nousiptv.com:8443/RFarias/07122020/33358
 #EXTINF:-1 tvg-id="" tvg-name="MX - TV MAS" tvg-logo="http://descargas.podzone.net/logos/-tv-mas.png" group-title="MEXICO",MX - TV MAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33365
+https://tv.nousiptv.com:8443/RFarias/07122020/33365
 #EXTINF:-1 tvg-id="" tvg-name="MX - TV UNAM" tvg-logo="http://descargas.podzone.net/logos/-CN6.png" group-title="MEXICO",MX - TV UNAM
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1160042
+https://tv.nousiptv.com:8443/RFarias/07122020/1160042
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="MX - TVC" tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title="MEXICO",MX - TVC
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4105
+https://tv.nousiptv.com:8443/RFarias/07122020/4105
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MX - TV4" tvg-logo="http://descargas.podzone.net/logos/-tv4.png" group-title="MEXICO",MX - TV4
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33367
+https://tv.nousiptv.com:8443/RFarias/07122020/33367
 #EXTINF:-1 tvg-id="" tvg-name="MX - AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png" group-title="MEXICO",MX - AFIZZIONADOS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8248
+https://tv.nousiptv.com:8443/RFarias/07122020/8248
 #EXTINF:-1 tvg-id="TDN.mx" tvg-name="MX - TUDN MX FHD" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png" group-title="MEXICO",MX - TUDN MX FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1105665
+https://tv.nousiptv.com:8443/RFarias/07122020/1105665
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - LA RED HD" tvg-logo="http://descargas.podzone.net/logos/-la-red-chile.png" group-title="CHILE",CHILE - LA RED HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/51823
+https://tv.nousiptv.com:8443/RFarias/07122020/51823
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHILE - CANAL 13 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-13.png" group-title="CHILE",CHILE - CANAL 13 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1145137
+https://tv.nousiptv.com:8443/RFarias/07122020/1145137
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHILE - CANAL 13 " tvg-logo="http://descargas.podzone.net/logos/-canal-13.png" group-title="CHILE",CHILE - CANAL 13 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3853
+https://tv.nousiptv.com:8443/RFarias/07122020/3853
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA HD" tvg-logo="http://descargas.podzone.net/logos/-mega.png" group-title="CHILE",CHILE - MEGA HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155841
+https://tv.nousiptv.com:8443/RFarias/07122020/1155841
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA" tvg-logo="http://descargas.podzone.net/logos/-mega.png" group-title="CHILE",CHILE - MEGA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155842
+https://tv.nousiptv.com:8443/RFarias/07122020/1155842
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CHILE - TVN HD" tvg-logo="http://descargas.podzone.net/logos/-TVN.png" group-title="CHILE",CHILE - TVN HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155826
+https://tv.nousiptv.com:8443/RFarias/07122020/1155826
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN" tvg-logo="http://descargas.podzone.net/logos/-TVN.png" group-title="CHILE",CHILE - TVN
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155817
+https://tv.nousiptv.com:8443/RFarias/07122020/1155817
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION HD " tvg-logo="http://descargas.podzone.net/logos/-chilevision.png" group-title="CHILE",CHILE - CHILEVISION HD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155835
+https://tv.nousiptv.com:8443/RFarias/07122020/1155835
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION" tvg-logo="http://descargas.podzone.net/logos/-chilevision.png" group-title="CHILE",CHILE - CHILEVISION
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155836
+https://tv.nousiptv.com:8443/RFarias/07122020/1155836
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CHILE - 13C FHD" tvg-logo="http://descargas.podzone.net/logos/-13C.png" group-title="CHILE",CHILE - 13C FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1091369
+https://tv.nousiptv.com:8443/RFarias/07122020/1091369
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CHILE - 13C HD" tvg-logo="http://descargas.podzone.net/logos/-13C.png" group-title="CHILE",CHILE - 13C HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1091370
+https://tv.nousiptv.com:8443/RFarias/07122020/1091370
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="CHILE - 24 HORAS" tvg-logo="http://descargas.podzone.net/logos/-24-horas.png" group-title="CHILE",CHILE - 24 HORAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/23237
+https://tv.nousiptv.com:8443/RFarias/07122020/23237
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - NTV HD" tvg-logo="http://descargas.podzone.net/logos/-NTV.png" group-title="CHILE",CHILE - NTV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/27103
+https://tv.nousiptv.com:8443/RFarias/07122020/27103
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TV+ HD" tvg-logo="http://descargas.podzone.net/logos/-TV+.png" group-title="CHILE",CHILE - TV+ HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/30700
+https://tv.nousiptv.com:8443/RFarias/07122020/30700
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TV+" tvg-logo="http://descargas.podzone.net/logos/-TV+.png" group-title="CHILE",CHILE - TV+
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1094403
+https://tv.nousiptv.com:8443/RFarias/07122020/1094403
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - ZONA LATINA" tvg-logo="http://descargas.podzone.net/logos/-zona-latina.png" group-title="CHILE",CHILE - ZONA LATINA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1141627
+https://tv.nousiptv.com:8443/RFarias/07122020/1141627
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - VIAX" tvg-logo="http://descargas.podzone.net/logos2/-VIAX-chile.png" group-title="CHILE",CHILE - VIAX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1142322
+https://tv.nousiptv.com:8443/RFarias/07122020/1142322
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - REC TV" tvg-logo="http://descargas.podzone.net/logos/-REC-TV.png" group-title="CHILE",CHILE - REC TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155840
+https://tv.nousiptv.com:8443/RFarias/07122020/1155840
 #EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="CHILE - TELETRAK HD" tvg-logo="http://descargas.podzone.net/logos/-teletrak.png" group-title="CHILE",CHILE - TELETRAK HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3854
+https://tv.nousiptv.com:8443/RFarias/07122020/3854
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - CNN CHILE" tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="CHILE",CHILE - CNN CHILE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155843
+https://tv.nousiptv.com:8443/RFarias/07122020/1155843
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - ESPN CHILE HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="CHILE",CHILE - ESPN CHILE HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1068348
+https://tv.nousiptv.com:8443/RFarias/07122020/1068348
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE - ESPN CHILE" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="CHILE",CHILE - ESPN CHILE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1117657
+https://tv.nousiptv.com:8443/RFarias/07122020/1117657
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE - TNT SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/16138
+https://tv.nousiptv.com:8443/RFarias/07122020/16138
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156014
+https://tv.nousiptv.com:8443/RFarias/07122020/1156014
 #EXTINF:-1 tvg-id="" tvg-name="CHILE-TNT SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE-TNT SPORTS FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1160041
+https://tv.nousiptv.com:8443/RFarias/07122020/1160041
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS 2 FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1129864
+https://tv.nousiptv.com:8443/RFarias/07122020/1129864
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS 2 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1129865
+https://tv.nousiptv.com:8443/RFarias/07122020/1129865
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - TNT SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE - TNT SPORTS 3
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1068349
+https://tv.nousiptv.com:8443/RFarias/07122020/1068349
 #EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="CHILE - ESTADIO TNT" tvg-logo="http://descargas.podzone.net/logos/-estadio-TNT.png" group-title="CHILE",CHILE - ESTADIO TNT
-http://tv.nousiptv.com:80/beaiptv/ruiz1/6979
+https://tv.nousiptv.com:8443/RFarias/07122020/6979
 #EXTINF:-1 tvg-id="" tvg-name="CHILE - CDO PREMIUM " tvg-logo="http://descargas.podzone.net/logos/-CDO-premium.png" group-title="CHILE",CHILE - CDO PREMIUM 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155837
+https://tv.nousiptv.com:8443/RFarias/07122020/1155837
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ECU - CANAL UNO FHD" tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="ECUADOR",ECU - CANAL UNO FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8083
+https://tv.nousiptv.com:8443/RFarias/07122020/8083
 #EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO SD" tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="ECUADOR",ECU - CANAL UNO SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53452
+https://tv.nousiptv.com:8443/RFarias/07122020/53452
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA FHD" tvg-logo="http://descargas.podzone.net/logos/-ecuavisa.png" group-title="ECUADOR",ECU - ECUAVISA FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53455
+https://tv.nousiptv.com:8443/RFarias/07122020/53455
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA SD" tvg-logo="http://descargas.podzone.net/logos/-ecuavisa.png" group-title="ECUADOR",ECU - ECUAVISA SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8084
+https://tv.nousiptv.com:8443/RFarias/07122020/8084
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS + FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU - DIRECTV SPORTS + FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53490
+https://tv.nousiptv.com:8443/RFarias/07122020/53490
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53462
+https://tv.nousiptv.com:8443/RFarias/07122020/53462
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU - DIRECTV SPORTS HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/23239
+https://tv.nousiptv.com:8443/RFarias/07122020/23239
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="ECU - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="ECUADOR",ECU - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53489
+https://tv.nousiptv.com:8443/RFarias/07122020/53489
 #EXTINF:-1 tvg-id="" tvg-name="ECU - EL CANAL DEL FÚTBOL FHD" tvg-logo="http://descargas.podzone.net/logos/-el-canal-del-futbol.png" group-title="ECUADOR",ECU - EL CANAL DEL FÚTBOL FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1092640
+https://tv.nousiptv.com:8443/RFarias/07122020/1092640
 #EXTINF:-1 tvg-id="" tvg-name="EC - EL CANAL DEL FÚTBOL HD" tvg-logo="http://descargas.podzone.net/logos/-el-canal-del-futbol.png" group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1086208
+https://tv.nousiptv.com:8443/RFarias/07122020/1086208
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - GOL TV FHD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="ECUADOR",ECU - GOL TV FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53381
+https://tv.nousiptv.com:8443/RFarias/07122020/53381
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - GOL TV HD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="ECUADOR",ECU - GOL TV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53491
+https://tv.nousiptv.com:8443/RFarias/07122020/53491
 #EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV SD" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="ECUADOR",ECU - GOL TV SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/25753
+https://tv.nousiptv.com:8443/RFarias/07122020/25753
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION FHD" tvg-logo="http://descargas.podzone.net/logos/-TC-television.png" group-title="ECUADOR",ECU - TC TELEVISION FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53458
+https://tv.nousiptv.com:8443/RFarias/07122020/53458
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION HD" tvg-logo="http://descargas.podzone.net/logos/-TC-television.png" group-title="ECUADOR",ECU - TC TELEVISION HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7533
+https://tv.nousiptv.com:8443/RFarias/07122020/7533
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS FHD" tvg-logo="http://descargas.podzone.net/logos/-teleamazonas.png" group-title="ECUADOR",ECU - TELEAMAZONAS FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7532
+https://tv.nousiptv.com:8443/RFarias/07122020/7532
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS SD" tvg-logo="http://descargas.podzone.net/logos/-teleamazonas.png" group-title="ECUADOR",ECU - TELEAMAZONAS SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53459
+https://tv.nousiptv.com:8443/RFarias/07122020/53459
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ECU - GAMAVISIÓN FHD" tvg-logo="http://descargas.podzone.net/logos/-gamavision.png" group-title="ECUADOR",ECU - GAMAVISIÓN FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53456
+https://tv.nousiptv.com:8443/RFarias/07122020/53456
 #EXTINF:-1 tvg-id="" tvg-name="ECU - ECUADOR TV HD" tvg-logo="http://descargas.podzone.net/logos/-ecuador-tv.png" group-title="ECUADOR",ECU - ECUADOR TV HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53453
+https://tv.nousiptv.com:8443/RFarias/07122020/53453
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - CNT SPORTS / GOL TV" tvg-logo="http://descargas.podzone.net/logos/-CNT-sportsgol.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7471
+https://tv.nousiptv.com:8443/RFarias/07122020/7471
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS" tvg-logo="http://descargas.podzone.net/logos/-RTS.png" group-title="ECUADOR",ECU - RTS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7534
+https://tv.nousiptv.com:8443/RFarias/07122020/7534
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS SD" tvg-logo="http://descargas.podzone.net/logos/-RTS.png" group-title="ECUADOR",ECU - RTS SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53457
+https://tv.nousiptv.com:8443/RFarias/07122020/53457
 #EXTINF:-1 tvg-id="" tvg-name="ECU - PPV ECUADOR" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="ECUADOR",ECU - PPV ECUADOR
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1118922
+https://tv.nousiptv.com:8443/RFarias/07122020/1118922
 #EXTINF:-1 tvg-id="" tvg-name="ECU - TVC FHD" tvg-logo="http://descargas.podzone.net/logos/-TVC-ecuador.png" group-title="ECUADOR",ECU - TVC FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53460
+https://tv.nousiptv.com:8443/RFarias/07122020/53460
 #EXTINF:-1 tvg-id="" tvg-name="ECU - OROMAR TV" tvg-logo="http://descargas.podzone.net/logos/-oromar.png" group-title="ECUADOR",ECU - OROMAR TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155849
+https://tv.nousiptv.com:8443/RFarias/07122020/1155849
 #EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG - EL TRECE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA",ARG - EL TRECE ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/51070
+https://tv.nousiptv.com:8443/RFarias/07122020/51070
 #EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG - EL TRECE" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA",ARG - EL TRECE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7431
+https://tv.nousiptv.com:8443/RFarias/07122020/7431
 #EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG - EL NUEVE" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA",ARG - EL NUEVE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155825
+https://tv.nousiptv.com:8443/RFarias/07122020/1155825
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG - TELEFE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA",ARG - TELEFE ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/51071
+https://tv.nousiptv.com:8443/RFarias/07122020/51071
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA",ARG - TELEFE 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155824
+https://tv.nousiptv.com:8443/RFarias/07122020/1155824
 #EXTINF:-1 tvg-id="" tvg-name="ARG - AMERICA HD " tvg-logo="http://descargas.podzone.net/logos/-america.png" group-title="ARGENTINA",ARG - AMERICA HD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155829
+https://tv.nousiptv.com:8443/RFarias/07122020/1155829
 #EXTINF:-1 tvg-id="" tvg-name="ARG - AMERICA SD" tvg-logo="http://descargas.podzone.net/logos/-america.png" group-title="ARGENTINA",ARG - AMERICA SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155830
+https://tv.nousiptv.com:8443/RFarias/07122020/1155830
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="ARG - A24 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA",ARG - A24 ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/51073
+https://tv.nousiptv.com:8443/RFarias/07122020/51073
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="ARG - A24 " tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA",ARG - A24 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155831
+https://tv.nousiptv.com:8443/RFarias/07122020/1155831
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG - TV PUBLICA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA",ARG - TV PUBLICA ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8183
+https://tv.nousiptv.com:8443/RFarias/07122020/8183
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG - TV PUBLICA " tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA",ARG - TV PUBLICA 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155822
+https://tv.nousiptv.com:8443/RFarias/07122020/1155822
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="ARG - TN" tvg-logo="http://descargas.podzone.net/logos/-TN-argentina.png" group-title="ARGENTINA",ARG - TN
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18766
+https://tv.nousiptv.com:8443/RFarias/07122020/18766
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="ARG - C5N HD " tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",ARG - C5N HD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155832
+https://tv.nousiptv.com:8443/RFarias/07122020/1155832
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="ARG - C5N" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",ARG - C5N
-http://tv.nousiptv.com:80/beaiptv/ruiz1/17901
+https://tv.nousiptv.com:8443/RFarias/07122020/17901
 #EXTINF:-1 tvg-id="TelpinTV.ar" tvg-name="ARG - CRONICA" tvg-logo="http://descargas.podzone.net/logos/-cronica.png" group-title="ARGENTINA",ARG - CRONICA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4188
+https://tv.nousiptv.com:8443/RFarias/07122020/4188
 #EXTINF:-1 tvg-id="" tvg-name="ARG - NET TV HD " tvg-logo="http://descargas.podzone.net/logos/-NET-tv.png" group-title="ARGENTINA",ARG - NET TV HD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155827
+https://tv.nousiptv.com:8443/RFarias/07122020/1155827
 #EXTINF:-1 tvg-id="Channel26.ar" tvg-name="ARG - CANAL 26" tvg-logo="http://descargas.podzone.net/logos/-canal-26.png" group-title="ARGENTINA",ARG - CANAL 26
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155833
+https://tv.nousiptv.com:8443/RFarias/07122020/1155833
 #EXTINF:-1 tvg-id="" tvg-name="ARG - ORBE 21" tvg-logo="http://descargas.podzone.net/logos/-ORBE21.png" group-title="ARGENTINA",ARG - ORBE 21
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1161240
+https://tv.nousiptv.com:8443/RFarias/07122020/1161240
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - CIUDAD MAGAZINE" tvg-logo="http://descargas.podzone.net/logos/-ciudad-magazine.png" group-title="ARGENTINA",ARG - CIUDAD MAGAZINE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3787
+https://tv.nousiptv.com:8443/RFarias/07122020/3787
 #EXTINF:-1 tvg-id="" tvg-name="ARG - LN+" tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA",ARG - LN+
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7976
+https://tv.nousiptv.com:8443/RFarias/07122020/7976
 #EXTINF:-1 tvg-id="" tvg-name="ARG - VOLVER" tvg-logo="http://descargas.podzone.net/logos/-volver.png" group-title="ARGENTINA",ARG - VOLVER
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7978
+https://tv.nousiptv.com:8443/RFarias/07122020/7978
 #EXTINF:-1 tvg-id="" tvg-name="ARG - ENCUENTRO" tvg-logo="http://descargas.podzone.net/logos/-encuentro.png" group-title="ARGENTINA",ARG - ENCUENTRO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7974
+https://tv.nousiptv.com:8443/RFarias/07122020/7974
 #EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ARG - EL GARAGE TV" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="ARGENTINA",ARG - EL GARAGE TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7975
+https://tv.nousiptv.com:8443/RFarias/07122020/7975
 #EXTINF:-1 tvg-id="" tvg-name="ARG - CINE AR" tvg-logo="http://descargas.podzone.net/logos/-cine-AR.png" group-title="ARGENTINA",ARG - CINE AR
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7981
+https://tv.nousiptv.com:8443/RFarias/07122020/7981
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="ARG - DEPORTV" tvg-logo="http://descargas.podzone.net/logos/-deportv.png" group-title="ARGENTINA",ARG - DEPORTV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29348
+https://tv.nousiptv.com:8443/RFarias/07122020/29348
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG - TYC SPORTS 2" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG - TYC SPORTS 2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/49525
+https://tv.nousiptv.com:8443/RFarias/07122020/49525
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG - TYC SPORTS HD" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG - TYC SPORTS HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155819
+https://tv.nousiptv.com:8443/RFarias/07122020/1155819
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG - TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG - TYC SPORTS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43633
+https://tv.nousiptv.com:8443/RFarias/07122020/43633
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TNT SPORTS HD " tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="ARGENTINA",ARG - TNT SPORTS HD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155814
+https://tv.nousiptv.com:8443/RFarias/07122020/1155814
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG - ESPN 1 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="ARGENTINA",ARG - ESPN 1 ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1090736
+https://tv.nousiptv.com:8443/RFarias/07122020/1090736
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG - ESPN 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="ARGENTINA",ARG - ESPN 1
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1090737
+https://tv.nousiptv.com:8443/RFarias/07122020/1090737
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ARG - ESPN 2 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="ARGENTINA",ARG - ESPN 2 ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1089695
+https://tv.nousiptv.com:8443/RFarias/07122020/1089695
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ARG - ESPN 2" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="ARGENTINA",ARG - ESPN 2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1089694
+https://tv.nousiptv.com:8443/RFarias/07122020/1089694
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG - ESPN PREMIUM ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="ARGENTINA",ARG - ESPN PREMIUM ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8330
+https://tv.nousiptv.com:8443/RFarias/07122020/8330
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG - ESPN PREMIUM" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="ARGENTINA",ARG - ESPN PREMIUM
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4193
+https://tv.nousiptv.com:8443/RFarias/07122020/4193
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG - FOX SPORTS 1 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="ARGENTINA",ARG - FOX SPORTS 1 ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1090738
+https://tv.nousiptv.com:8443/RFarias/07122020/1090738
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG - FOX SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="ARGENTINA",ARG - FOX SPORTS 1
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1090739
+https://tv.nousiptv.com:8443/RFarias/07122020/1090739
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="ARG - FOX SPORTS 2 FHD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="ARGENTINA",ARG - FOX SPORTS 2 FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1090741
+https://tv.nousiptv.com:8443/RFarias/07122020/1090741
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="ARG - FOX SPORTS 2 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="ARGENTINA",ARG - FOX SPORTS 2 ᴴᴰ
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1090740
+https://tv.nousiptv.com:8443/RFarias/07122020/1090740
 #EXTINF:-1 tvg-id="" tvg-name="COL - SEÑAL COLOMBIA" tvg-logo="http://descargas.podzone.net/logos/-Senal-colombia.png" group-title="COLOMBIA",COL - SEÑAL COLOMBIA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155811
+https://tv.nousiptv.com:8443/RFarias/07122020/1155811
 #EXTINF:-1 tvg-id="" tvg-name="COL - RCN FHD" tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="COLOMBIA",COL - RCN FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155793
+https://tv.nousiptv.com:8443/RFarias/07122020/1155793
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="COL - RCN HD" tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="COLOMBIA",COL - RCN HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4002
+https://tv.nousiptv.com:8443/RFarias/07122020/4002
 #EXTINF:-1 tvg-id="" tvg-name="COL- RCN SD" tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="COLOMBIA",COL- RCN SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1087192
+https://tv.nousiptv.com:8443/RFarias/07122020/1087192
 #EXTINF:-1 tvg-id="CanalUno.co" tvg-name="COL - CANAL UNO FHD" tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="COLOMBIA",COL - CANAL UNO FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1066863
+https://tv.nousiptv.com:8443/RFarias/07122020/1066863
 #EXTINF:-1 tvg-id="" tvg-name="COL - CARACOL HD " tvg-logo="http://descargas.podzone.net/logos/-caracol.png" group-title="COLOMBIA",COL - CARACOL HD 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155783
+https://tv.nousiptv.com:8443/RFarias/07122020/1155783
 #EXTINF:-1 tvg-id="" tvg-name="COL - CARACOL SD" tvg-logo="http://descargas.podzone.net/logos/-caracol.png" group-title="COLOMBIA",COL - CARACOL SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155787
+https://tv.nousiptv.com:8443/RFarias/07122020/1155787
 #EXTINF:-1 tvg-id="" tvg-name="COL - RCN NOVELAS " tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="COLOMBIA",COL - RCN NOVELAS 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155809
+https://tv.nousiptv.com:8443/RFarias/07122020/1155809
 #EXTINF:-1 tvg-id="" tvg-name="COL - NTN 24" tvg-logo="http://descargas.podzone.net/logos/-NTN-24.png" group-title="COLOMBIA",COL - NTN 24
-http://tv.nousiptv.com:80/beaiptv/ruiz1/41815
+https://tv.nousiptv.com:8443/RFarias/07122020/41815
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="COL - TELECARIBE HD" tvg-logo="http://descargas.podzone.net/logos/-telecaribe.png" group-title="COLOMBIA",COL - TELECARIBE HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43625
+https://tv.nousiptv.com:8443/RFarias/07122020/43625
 #EXTINF:-1 tvg-id="" tvg-name="COL - TELEPACIFICO" tvg-logo="http://descargas.podzone.net/logos/-telepacifico.png" group-title="COLOMBIA",COL - TELEPACIFICO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/47693
+https://tv.nousiptv.com:8443/RFarias/07122020/47693
 #EXTINF:-1 tvg-id="" tvg-name="COL - TELEANTIOQUIA " tvg-logo="http://descargas.podzone.net/logos/-teleantioquia.png" group-title="COLOMBIA",COL - TELEANTIOQUIA 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155801
+https://tv.nousiptv.com:8443/RFarias/07122020/1155801
 #EXTINF:-1 tvg-id="" tvg-name="COL - CABLE NOTICIAS" tvg-logo="http://descargas.podzone.net/logos/-cable-noticias.png" group-title="COLOMBIA",COL - CABLE NOTICIAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155805
+https://tv.nousiptv.com:8443/RFarias/07122020/1155805
 #EXTINF:-1 tvg-id="Telecafe.co" tvg-name="COL - TELECAFE" tvg-logo="http://descargas.podzone.net/logos/-telecafe.png" group-title="COLOMBIA",COL - TELECAFE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155810
+https://tv.nousiptv.com:8443/RFarias/07122020/1155810
 #EXTINF:-1 tvg-id="" tvg-name="COL - CITY TV " tvg-logo="http://descargas.podzone.net/logos/-city-tv.png" group-title="COLOMBIA",COL - CITY TV 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155813
+https://tv.nousiptv.com:8443/RFarias/07122020/1155813
 #EXTINF:-1 tvg-id="" tvg-name="COL - WIN + FUTBOL  FHD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL - WIN + FUTBOL  FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/16724
+https://tv.nousiptv.com:8443/RFarias/07122020/16724
 #EXTINF:-1 tvg-id="" tvg-name="COL - WIN + FUTBOL  HD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL - WIN + FUTBOL  HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/54738
+https://tv.nousiptv.com:8443/RFarias/07122020/54738
 #EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL - WIN SPORTS + SD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/16723
+https://tv.nousiptv.com:8443/RFarias/07122020/16723
 #EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS FHD" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL - WIN SPORTS FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1155795
+https://tv.nousiptv.com:8443/RFarias/07122020/1155795
 #EXTINF:-1 tvg-id="" tvg-name="COL - ESPN COLOMBIA HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="COLOMBIA",COL - ESPN COLOMBIA HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1119288
+https://tv.nousiptv.com:8443/RFarias/07122020/1119288
 #EXTINF:-1 tvg-id="" tvg-name="BRA - TV BRASIL" tvg-logo="http://descargas.podzone.net/logos/-tv-brasil.png" group-title="BRASIL",BRA - TV BRASIL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7769
+https://tv.nousiptv.com:8443/RFarias/07122020/7769
 #EXTINF:-1 tvg-id="" tvg-name="BRA - SBT" tvg-logo="http://descargas.podzone.net/logos/-SBT.png" group-title="BRASIL",BRA - SBT
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7768
+https://tv.nousiptv.com:8443/RFarias/07122020/7768
 #EXTINF:-1 tvg-id="" tvg-name="BRA - GLOBO HD" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA - GLOBO HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7772
+https://tv.nousiptv.com:8443/RFarias/07122020/7772
 #EXTINF:-1 tvg-id="" tvg-name="BRA - TV GLOBO FHD" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA - TV GLOBO FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7773
+https://tv.nousiptv.com:8443/RFarias/07122020/7773
 #EXTINF:-1 tvg-id="" tvg-name="BRA - GLOBO BRASILIA HD" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA - GLOBO BRASILIA HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43623
+https://tv.nousiptv.com:8443/RFarias/07122020/43623
 #EXTINF:-1 tvg-id="" tvg-name="BRA - GLOBO RIO HD" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA - GLOBO RIO HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43624
+https://tv.nousiptv.com:8443/RFarias/07122020/43624
 #EXTINF:-1 tvg-id="" tvg-name="BRA - GLOBO NEWS" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA - GLOBO NEWS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7771
+https://tv.nousiptv.com:8443/RFarias/07122020/7771
 #EXTINF:-1 tvg-id="" tvg-name="BRA - GLOBO NEWS" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA - GLOBO NEWS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7774
+https://tv.nousiptv.com:8443/RFarias/07122020/7774
 #EXTINF:-1 tvg-id="" tvg-name="BRA - GLOBO RBS POA FHD" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA - GLOBO RBS POA FHD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1168227
+https://tv.nousiptv.com:8443/RFarias/07122020/1168227
 #EXTINF:-1 tvg-id="" tvg-name="BRA - MEGAPIX" tvg-logo="http://descargas.podzone.net/logos/-megapix.png" group-title="BRASIL",BRA - MEGAPIX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8324
+https://tv.nousiptv.com:8443/RFarias/07122020/8324
 #EXTINF:-1 tvg-id="" tvg-name="BRA - WOOHOO" tvg-logo="http://descargas.podzone.net/logos/-woohoo.png" group-title="BRASIL",BRA - WOOHOO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8327
+https://tv.nousiptv.com:8443/RFarias/07122020/8327
 #EXTINF:-1 tvg-id="" tvg-name="BRA - ARTE 1" tvg-logo="http://descargas.podzone.net/logos/-arte1.png" group-title="BRASIL",BRA - ARTE 1
-http://tv.nousiptv.com:80/beaiptv/ruiz1/8328
+https://tv.nousiptv.com:8443/RFarias/07122020/8328
 #EXTINF:-1 tvg-id="" tvg-name="BRA - CNN BRASIL" tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="BRASIL",BRA - CNN BRASIL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18553
+https://tv.nousiptv.com:8443/RFarias/07122020/18553
 #EXTINF:-1 tvg-id="" tvg-name="BRA - BAND NEW" tvg-logo="http://descargas.podzone.net/logos/-band-new.png" group-title="BRASIL",BRA - BAND NEW
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29329
+https://tv.nousiptv.com:8443/RFarias/07122020/29329
 #EXTINF:-1 tvg-id="" tvg-name="BRA - BAND SPORT" tvg-logo="http://descargas.podzone.net/logos/-band-sports.png" group-title="BRASIL",BRA - BAND SPORT
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29330
+https://tv.nousiptv.com:8443/RFarias/07122020/29330
 #EXTINF:-1 tvg-id="" tvg-name="BRA - BAND SPORTS" tvg-logo="http://descargas.podzone.net/logos/-band-sports.png" group-title="BRASIL",BRA - BAND SPORTS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/17186
+https://tv.nousiptv.com:8443/RFarias/07122020/17186
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="BRA - BAND NOTICIAS" tvg-logo="http://descargas.podzone.net/logos/-band-new.png" group-title="BRASIL",BRA - BAND NOTICIAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29331
+https://tv.nousiptv.com:8443/RFarias/07122020/29331
 #EXTINF:-1 tvg-id="" tvg-name="BRA - RECORD" tvg-logo="http://descargas.podzone.net/logos/-record-PB.png" group-title="BRASIL",BRA - RECORD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/44841
+https://tv.nousiptv.com:8443/RFarias/07122020/44841
 #EXTINF:-1 tvg-id="" tvg-name="BRA - VIVA" tvg-logo="http://descargas.podzone.net/logos/-viva.png" group-title="BRASIL",BRA - VIVA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1117624
+https://tv.nousiptv.com:8443/RFarias/07122020/1117624
 #EXTINF:-1 tvg-id="" tvg-name="BRA - TELECINE FUN" tvg-logo="http://descargas.podzone.net/logos/-telecine-fun.png" group-title="BRASIL",BRA - TELECINE FUN
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7783
+https://tv.nousiptv.com:8443/RFarias/07122020/7783
 #EXTINF:-1 tvg-id="" tvg-name="BRA - TELECINE PREMIUM HD" tvg-logo="http://descargas.podzone.net/logos/-telecine-premium.png" group-title="BRASIL",BRA - TELECINE PREMIUM HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7782
+https://tv.nousiptv.com:8443/RFarias/07122020/7782
 #EXTINF:-1 tvg-id="" tvg-name="BRA - TELECINE CULT" tvg-logo="http://descargas.podzone.net/logos/-telecine-cult.png" group-title="BRASIL",BRA - TELECINE CULT
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7781
+https://tv.nousiptv.com:8443/RFarias/07122020/7781
 #EXTINF:-1 tvg-id="" tvg-name="BRA - TELECINE ACTION" tvg-logo="http://descargas.podzone.net/logos/-telecine-action.png" group-title="BRASIL",BRA - TELECINE ACTION
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7780
+https://tv.nousiptv.com:8443/RFarias/07122020/7780
 #EXTINF:-1 tvg-id="" tvg-name="BRA - MAIS GLOBOSAT" tvg-logo="http://descargas.podzone.net/logos/-mais-globosat.png" group-title="BRASIL",BRA - MAIS GLOBOSAT
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7777
+https://tv.nousiptv.com:8443/RFarias/07122020/7777
 #EXTINF:-1 tvg-id="" tvg-name="BRA - FUTURA" tvg-logo="http://descargas.podzone.net/logos/-futura.png" group-title="BRASIL",BRA - FUTURA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7776
+https://tv.nousiptv.com:8443/RFarias/07122020/7776
 #EXTINF:-1 tvg-id="" tvg-name="BRA - RECORD PB" tvg-logo="http://descargas.podzone.net/logos/-record-PB.png" group-title="BRASIL",BRA - RECORD PB
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7770
+https://tv.nousiptv.com:8443/RFarias/07122020/7770
 #EXTINF:-1 tvg-id="" tvg-name="BRA - ELEVEN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-1.png" group-title="BRASIL",BRA - ELEVEN SPORTS 1
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18542
+https://tv.nousiptv.com:8443/RFarias/07122020/18542
 #EXTINF:-1 tvg-id="" tvg-name="BRA - CONMEBOL TV" tvg-logo="http://descargas.podzone.net/logos/-conmebol.png" group-title="BRASIL",BRA - CONMEBOL TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18549
+https://tv.nousiptv.com:8443/RFarias/07122020/18549
 #EXTINF:-1 tvg-id="" tvg-name="BRA - COMBATE" tvg-logo="http://descargas.podzone.net/logos/-combate.png" group-title="BRASIL",BRA - COMBATE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18566
+https://tv.nousiptv.com:8443/RFarias/07122020/18566
 #EXTINF:-1 tvg-id="" tvg-name="BRA - ESPN 6 BRASIL" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-espn-6-252x252.webp" group-title="BRASIL",BRA - ESPN 6 BRASIL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1095615
+https://tv.nousiptv.com:8443/RFarias/07122020/1095615
 #EXTINF:-1 tvg-id="" tvg-name="BRA - ESPN" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="BRASIL",BRA - ESPN
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7784
+https://tv.nousiptv.com:8443/RFarias/07122020/7784
 #EXTINF:-1 tvg-id="" tvg-name="BRA -  AMAZON PRIME 01" tvg-logo="http://descargas.podzone.net/logos/-amazon-prime.png" group-title="BRASIL",BRA -  AMAZON PRIME 01
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1154246
+https://tv.nousiptv.com:8443/RFarias/07122020/1154246
 #EXTINF:-1 tvg-id="" tvg-name="BRA - SPORTV" tvg-logo="http://descargas.podzone.net/logos/-sportv.png" group-title="BRASIL",BRA - SPORTV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7791
+https://tv.nousiptv.com:8443/RFarias/07122020/7791
 #EXTINF:-1 tvg-id="" tvg-name="BRA - SPORTV 2" tvg-logo="http://descargas.podzone.net/logos/-sportv.png" group-title="BRASIL",BRA - SPORTV 2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7792
+https://tv.nousiptv.com:8443/RFarias/07122020/7792
 #EXTINF:-1 tvg-id="" tvg-name="BRA - SPORTV 3" tvg-logo="http://descargas.podzone.net/logos/-sportv.png" group-title="BRASIL",BRA - SPORTV 3
-http://tv.nousiptv.com:80/beaiptv/ruiz1/53171
+https://tv.nousiptv.com:8443/RFarias/07122020/53171
 #EXTINF:-1 tvg-id="" tvg-name="BRA - FOX SPORTS 2 BR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="BRASIL",BRA - FOX SPORTS 2 BR
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7786
+https://tv.nousiptv.com:8443/RFarias/07122020/7786
 #EXTINF:-1 tvg-id="" tvg-name="BRA - FOX SPORTS BR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="BRASIL",BRA - FOX SPORTS BR
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7785
+https://tv.nousiptv.com:8443/RFarias/07122020/7785
 #EXTINF:-1 tvg-id="" tvg-name="BRA - FISH TV" tvg-logo="http://descargas.podzone.net/logos/-fish-tv.png" group-title="BRASIL",BRA - FISH TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/7779
+https://tv.nousiptv.com:8443/RFarias/07122020/7779
 #EXTINF:-1 tvg-id="" tvg-name="BRA - FASHION BOX" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - FASHION BOX
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29340
+https://tv.nousiptv.com:8443/RFarias/07122020/29340
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM CLUBES" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM CLUBES
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29199
+https://tv.nousiptv.com:8443/RFarias/07122020/29199
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM CLUBES EXTRA" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM CLUBES EXTRA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29338
+https://tv.nousiptv.com:8443/RFarias/07122020/29338
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM 1" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM 1
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29339
+https://tv.nousiptv.com:8443/RFarias/07122020/29339
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM 2" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM 2
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29332
+https://tv.nousiptv.com:8443/RFarias/07122020/29332
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM 3" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM 3
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29333
+https://tv.nousiptv.com:8443/RFarias/07122020/29333
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM 4" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM 4
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29334
+https://tv.nousiptv.com:8443/RFarias/07122020/29334
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM 5" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM 5
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29335
+https://tv.nousiptv.com:8443/RFarias/07122020/29335
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM 6" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM 6
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29336
+https://tv.nousiptv.com:8443/RFarias/07122020/29336
 #EXTINF:-1 tvg-id="" tvg-name="BRA - PREM 7" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA - PREM 7
-http://tv.nousiptv.com:80/beaiptv/ruiz1/29337
+https://tv.nousiptv.com:8443/RFarias/07122020/29337
 #EXTINF:-1 tvg-id="Galavision.us" tvg-name="LAT - GALAVISION HD" tvg-logo="http://descargas.podzone.net/logos/-galavision.png" group-title="LATINOS [USA]",LAT - GALAVISION HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3793
+https://tv.nousiptv.com:8443/RFarias/07122020/3793
 #EXTINF:-1 tvg-id="CNNEspanol.us" tvg-name="LAT - CNN EN ESPAÑOL" tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="LATINOS [USA]",LAT - CNN EN ESPAÑOL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/4014
+https://tv.nousiptv.com:8443/RFarias/07122020/4014
 #EXTINF:-1 tvg-id="" tvg-name="LAT - CNN USA" tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="LATINOS [USA]",LAT - CNN USA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/33360
+https://tv.nousiptv.com:8443/RFarias/07122020/33360
 #EXTINF:-1 tvg-id="" tvg-name="LAT - ESTRELLA TV" tvg-logo="http://descargas.podzone.net/logos/-estrella-tv.png" group-title="LATINOS [USA]",LAT - ESTRELLA TV
-http://tv.nousiptv.com:80/beaiptv/ruiz1/41188
+https://tv.nousiptv.com:8443/RFarias/07122020/41188
 #EXTINF:-1 tvg-id="" tvg-name="LAT - CBS BOSTON" tvg-logo="http://descargas.podzone.net/logos/-CBS.png" group-title="LATINOS [USA]",LAT - CBS BOSTON
-http://tv.nousiptv.com:80/beaiptv/ruiz1/45550
+https://tv.nousiptv.com:8443/RFarias/07122020/45550
 #EXTINF:-1 tvg-id="" tvg-name="LAT - FOX BOSTON" tvg-logo="http://descargas.podzone.net/logos/-FOX.png" group-title="LATINOS [USA]",LAT - FOX BOSTON
-http://tv.nousiptv.com:80/beaiptv/ruiz1/45552
+https://tv.nousiptv.com:8443/RFarias/07122020/45552
 #EXTINF:-1 tvg-id="" tvg-name="LAT - NBC  BOSTON" tvg-logo="http://descargas.podzone.net/logos/-NBC.png" group-title="LATINOS [USA]",LAT - NBC  BOSTON
-http://tv.nousiptv.com:80/beaiptv/ruiz1/45551
+https://tv.nousiptv.com:8443/RFarias/07122020/45551
 #EXTINF:-1 tvg-id="" tvg-name="LAT - AMERICA TEVE" tvg-logo="http://descargas.podzone.net/logos/-america-teve.png" group-title="LATINOS [USA]",LAT - AMERICA TEVE
-http://tv.nousiptv.com:80/beaiptv/ruiz1/48119
+https://tv.nousiptv.com:8443/RFarias/07122020/48119
 #EXTINF:-1 tvg-id="" tvg-name="LAT - PASIONES" tvg-logo="http://descargas.podzone.net/logos/-pasiones.png" group-title="LATINOS [USA]",LAT - PASIONES
-http://tv.nousiptv.com:80/beaiptv/ruiz1/49168
+https://tv.nousiptv.com:8443/RFarias/07122020/49168
 #EXTINF:-1 tvg-id="" tvg-name="LAT-USA-PASIONES(2)" tvg-logo="http://descargas.podzone.net/logos/-pasiones.png" group-title="LATINOS [USA]",LAT-USA-PASIONES(2)
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1085156
+https://tv.nousiptv.com:8443/RFarias/07122020/1085156
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION DALLAS" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION DALLAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18559
+https://tv.nousiptv.com:8443/RFarias/07122020/18559
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION SAN FRANCISCO" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION SAN FRANCISCO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18560
+https://tv.nousiptv.com:8443/RFarias/07122020/18560
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION LAS VEGAS" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION LAS VEGAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18563
+https://tv.nousiptv.com:8443/RFarias/07122020/18563
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION LOS ANGELES" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION LOS ANGELES
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18564
+https://tv.nousiptv.com:8443/RFarias/07122020/18564
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION DENVER" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION DENVER
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18565
+https://tv.nousiptv.com:8443/RFarias/07122020/18565
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION NOTICIAS" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION NOTICIAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18568
+https://tv.nousiptv.com:8443/RFarias/07122020/18568
 #EXTINF:-1 tvg-id="" tvg-name="LAT- UNIVISION ATLANTA" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT- UNIVISION ATLANTA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/56303
+https://tv.nousiptv.com:8443/RFarias/07122020/56303
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION TELENOVELAS" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION TELENOVELAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1090591
+https://tv.nousiptv.com:8443/RFarias/07122020/1090591
 #EXTINF:-1 tvg-id="" tvg-name="LAT - Univision New York HD" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - Univision New York HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156211
+https://tv.nousiptv.com:8443/RFarias/07122020/1156211
 #EXTINF:-1 tvg-id="" tvg-name="LAT - Univision Miami HD" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - Univision Miami HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156213
+https://tv.nousiptv.com:8443/RFarias/07122020/1156213
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="LAT - UNIMAS DALLAS" tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="LATINOS [USA]",LAT - UNIMAS DALLAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3795
+https://tv.nousiptv.com:8443/RFarias/07122020/3795
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="LAT - UNIVISION HD" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION HD
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3796
+https://tv.nousiptv.com:8443/RFarias/07122020/3796
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIVISION CHICAGO" tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="LATINOS [USA]",LAT - UNIVISION CHICAGO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/47679
+https://tv.nousiptv.com:8443/RFarias/07122020/47679
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LAT - TELEMUNDO INTERNACIONAL" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO INTERNACIONAL
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43189
+https://tv.nousiptv.com:8443/RFarias/07122020/43189
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="LAT - TELEMUNDO BOSTON" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO BOSTON
-http://tv.nousiptv.com:80/beaiptv/ruiz1/3794
+https://tv.nousiptv.com:8443/RFarias/07122020/3794
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO DENVER" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO DENVER
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18570
+https://tv.nousiptv.com:8443/RFarias/07122020/18570
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO LAS VEGAS" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO LAS VEGAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18775
+https://tv.nousiptv.com:8443/RFarias/07122020/18775
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO HOUSTON" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO HOUSTON
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18776
+https://tv.nousiptv.com:8443/RFarias/07122020/18776
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO PHILADELPHIA " tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO PHILADELPHIA 
-http://tv.nousiptv.com:80/beaiptv/ruiz1/43289
+https://tv.nousiptv.com:8443/RFarias/07122020/43289
 #EXTINF:-1 tvg-id="" tvg-name="LAT- TELEMUNDO TAMPA" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT- TELEMUNDO TAMPA
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1070040
+https://tv.nousiptv.com:8443/RFarias/07122020/1070040
 #EXTINF:-1 tvg-id="" tvg-name="LAT- TELEMUNDO ORLANDO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT- TELEMUNDO ORLANDO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1118963
+https://tv.nousiptv.com:8443/RFarias/07122020/1118963
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO MIAMI" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO MIAMI
-http://tv.nousiptv.com:80/beaiptv/ruiz1/1156210
+https://tv.nousiptv.com:8443/RFarias/07122020/1156210
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 39 DALLAS" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 39 DALLAS
-http://tv.nousiptv.com:80/beaiptv/ruiz1/30216
+https://tv.nousiptv.com:8443/RFarias/07122020/30216
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 44 CHICAGO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 44 CHICAGO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/30215
+https://tv.nousiptv.com:8443/RFarias/07122020/30215
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 47 NEW YORK" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 47 NEW YORK
-http://tv.nousiptv.com:80/beaiptv/ruiz1/30213
+https://tv.nousiptv.com:8443/RFarias/07122020/30213
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 48 SAN FRANCISCO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 48 SAN FRANCISCO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18780
+https://tv.nousiptv.com:8443/RFarias/07122020/18780
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 60 SAN ANTONIO" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 60 SAN ANTONIO
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18777
+https://tv.nousiptv.com:8443/RFarias/07122020/18777
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 51 MIAMI" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 51 MIAMI
-http://tv.nousiptv.com:80/beaiptv/ruiz1/18779
+https://tv.nousiptv.com:8443/RFarias/07122020/18779
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="LAT - TELEMUNDO 52 LOS ANGELES" tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="LATINOS [USA]",LAT - TELEMUNDO 52 LOS ANGELES
 http://tv.nousiptv.com:80/beaiptv/ruiz1/18778
 #EXTINF:-1 tvg-id="" tvg-name="LAT - UNIMAS DENVER" tvg-logo="http://descargas.podzone.net/logos/-unimas.png" group-title="LATINOS [USA]",LAT - UNIMAS DENVER
@@ -2111,6 +2116,8 @@ http://tv.nousiptv.com:80/beaiptv/ruiz1/1241356
 http://tv.nousiptv.com:80/beaiptv/ruiz1/1241357
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINE CIENCIA FICCION" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - CINE CIENCIA FICCION
 http://tv.nousiptv.com:80/beaiptv/ruiz1/1242145
+
+
 
 
 
