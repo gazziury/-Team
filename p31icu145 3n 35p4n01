@@ -1,6 +1,9 @@
 #EXTM3U
 ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 
+#EXTINF:-1 tvg-logo="http://i.ibb.co/C3fmCjk8/20250308-203943.jpg" group-title="TEAM VIP",PELICULAS GRATIS
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oDKbJFvnPyCk7pDX2xttSxXEWXW.jpg" group-title="PELICULAS 60 FPS",65: Al borde de la extinción
 http://15.235.51.60/server2/contenido/PELICULAS%2060%20FPS/65%20AL%20BORDE%20DE%20LA%20EXTINCI%c3%93N/65Al%20borde%20de%20la%20extinci%c3%b3n%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/bHyriLmcnbgLEEFnlfixKeKbyUk.jpg" group-title="PELICULAS 60 FPS",300
@@ -257,8 +260,6 @@ http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/VALIENTE/BRAVE.
 http://15.235.51.60/server3/contenido/peliculas/ESTRENOS%2060FPS/Black%20Widow%20%282022%29/Black%20Widow%20%282022%29%2060%20FPS%201080p%20BDRip%20Latino%20Castellano.mp4
 
 
-#EXTINF:-1 tvg-logo="http://i.ibb.co/C3fmCjk8/20250308-203943.jpg" group-title="TEAM VIP",PELICULAS GRATIS
-http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/quABvAtl664L6ICbPV0FusghBs9.jpg" group-title="ESTRENOS ARCHIVE - 2025",Acto encubierto (2025)
 https://archive.org/download/blanca-nieves-2025/Acto%20encubierto%20%282025%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3r35450xYomrCvPbFxr0MhYk5q7.jpg" group-title="ESTRENOS ARCHIVE - 2025",Ad Vitam (2025)
@@ -555,6 +556,64 @@ https://archive.org/download/velocidad-salvaje-2025-latino/velocidad-salvaje-202
 https://archive.org/download/velocidad-total-2024-latino/velocidad-total-2024-%5Blatino%5D.mp4
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/8DkQBVesn5ihgYSD66JE7gigzGt.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Las locuras (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1268623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fQZZFyDrNFpY3dUM3WHhFNLrb9T.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cacería de brujas (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1268622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/o2QyUuFQlOq8YQFXmpCpeA80xHt.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La mano que mece la cuna (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1268497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/wtpGUNxWamYoFQJ5w0IjBLrNrdt.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El encanto del champán (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1268496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pse0tr4V9TuDRrokEl94jUFOUEC.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Frankie y los monstruos (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1268409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mIN2Pgn4T6TpjuDtlhMPCAw5Bvo.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cuando el cielo se equivoca (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1268405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/iuImmWCCyvME2PdlU4pimb7HYuv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Belén (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1268400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5R38PY1mvRBIpGGxYSzZyY9ug6j.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los Rose (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1268399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/t0KdUpILovTrRichArniV8UJwbC.jpg" group-title="VOD - ESTRENOS Y RECIENTES",En sueños (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1267017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eSILGQEGCTHsJFLUKc353FgIpaY.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Roofman: Un buen ladrón (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lBNYwSx2PD2VHvTYXANvXfOWIlc.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Una batalla tras otra (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9ukKdQeUBjY6wBd2kXpWVLcf3qt.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Una navidad ex-cepcional (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hcjYvv4k9qs0lDG1Q3GIglT30IW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Antes de la luna llena (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zao5ClXRMY9mqabkPtXdsux6MVn.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Juego de niños (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/b2Qw3YQodqwe5xm4NBfUbsU3sbB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Depredador: Tierras salvajes (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The dogs: Manada voraz (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tP0jp9DKKf6z56ZIMv0OekgYBID.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Bunker: Sin salida (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/97vYeFSClZkFfeRV8dExtwwILeM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Padre no hay mas que uno 5 (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1266225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hIuSAf0u3iwHGvtu8z2F0yuTBIs.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Prisionero de guerra (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1265827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/jJId1jo46922s58Pfwk0xSly0Ic.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Frankenstein (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1265825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/57Q4K8OjMlnHDIhcuoIMsZL1S2I.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Una noche en Zoopolis (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1265632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/gddGuXY0BG9H4BMdsYhDdxaw43K.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Animales peligrosos (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1265631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hZSjha0qirQ0IJr3cQGr7tTEmg5.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Teléfono negro 2 (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1264907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/pqwXYCitSyM2GL4CQLK3GjWkns3.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Good boy (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1264791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/okFnkGSLsKE5PPMUPifXY0uyzOt.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hedda (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1264116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fKzk14lYY3DPjsRPge0AYzpA3eB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Maldita suerte (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1264115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/90jJmRRNmWeWd7Hiuk6RwYHIZbM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La hermanastra fea (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1264001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/oWbQVFNkzJfe0zKbGdk9ZTT1pzr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Edén (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1263820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hR18APuo7AgxouSn9HArQsmKTob.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Una casa llena de dinamita (2025)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1263819.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kFHNjboCJACXpLPt25LjRVC77Hx.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amores compartidos (2025)
 http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1262991.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7jX22rAdamY6MRe2wEAPiQRFvGX.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Afterburn: Zona cero (2025)
@@ -21297,5 +21356,10 @@ http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1259812.mkv
 http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1259909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Motherland (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rE2UnEr9m8iLeuvWxaQyaNDKTHU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Motherland (2025)
 http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1260008.mkv
+
+
+
+
+
 
 
