@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_41.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_60.mkv
-http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_54.mkv
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_60.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_15.mkv
 
 
@@ -7233,6 +7233,18 @@ http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_52.mkv
 http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_53.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 054
 http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_54.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 055
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_55.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 056
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_56.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 057
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_57.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 058
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_58.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 059
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_59.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k3dGAfWNvr23FQl5e8yDGxv847T.jpg" group-title="Los hilos del pasado",Cap. 060
+http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_60.mkv
 
 #EXTINF:-1 tvg-logo="https://telemicro.com.do/wp-content/uploads/2022/04/LOS-RICOS-TAMBIEN-LLORAN.png" group-title="Los ricos tambien lloran",Cap. 01
 http://series.tuxchannel.mx/series/los_ricos_tambien_lloran/s_01_e_01.mkv
