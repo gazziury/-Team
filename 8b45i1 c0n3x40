@@ -351,9 +351,62 @@ http://209.14.88.42:80/live/10203470/68892705/3425469.ts
 http://209.14.88.42:80/live/10203470/68892705/3425470.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="HBO",HBO XTREME SD
 http://209.14.88.42:80/live/10203470/68892705/3425471.ts
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="INFANTIL",CARTOON NETWORK FHD
+http://209.14.88.42:80/live/10203470/68892705/3425308.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="INFANTIL",CARTOON NETWORK HD
+http://209.14.88.42:80/live/10203470/68892705/3425309.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="INFANTIL",CARTOON NETWORK SD
+http://209.14.88.42:80/live/10203470/68892705/3425310.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIL",CARTOONITO FHD
+http://209.14.88.42:80/live/10203470/68892705/3425311.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIL",CARTOONITO HD
+http://209.14.88.42:80/live/10203470/68892705/3425312.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIL",CARTOONITO SD
+http://209.14.88.42:80/live/10203470/68892705/3425313.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/1176px-Discovery_Kids_2021_2D_Gradient.svg.png" group-title="INFANTIL",DISCOVERY KIDS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425314.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/1176px-Discovery_Kids_2021_2D_Gradient.svg.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://209.14.88.42:80/live/10203470/68892705/3425315.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/1176px-Discovery_Kids_2021_2D_Gradient.svg.png" group-title="INFANTIL",DISCOVERY KIDS SD
+http://209.14.88.42:80/live/10203470/68892705/3425316.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/DumDum_logo.svg/1200px-DumDum_logo.svg.png" group-title="INFANTIL",DUM DUM FHD
+http://209.14.88.42:80/live/10203470/68892705/3425336.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/DumDum_logo.svg/1200px-DumDum_logo.svg.png" group-title="INFANTIL",DUM DUM HD
+http://209.14.88.42:80/live/10203470/68892705/3425337.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/DumDum_logo.svg/1200px-DumDum_logo.svg.png" group-title="INFANTIL",DUM DUM SD
+http://209.14.88.42:80/live/10203470/68892705/3425338.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Gloob_Logo.svg" group-title="INFANTIL",GLOOB FHD
+http://209.14.88.42:80/live/10203470/68892705/3425317.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Gloob_Logo.svg" group-title="INFANTIL",GLOOB HD
+http://209.14.88.42:80/live/10203470/68892705/3425318.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="INFANTIL",GLOOBINHO FHD
+http://209.14.88.42:80/live/10203470/68892705/3425320.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/2560px-Gloobinho_logo.svg.png" group-title="INFANTIL",GLOOBINHO HD
+http://209.14.88.42:80/live/10203470/68892705/3425321.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg" group-title="INFANTIL",NICK FHD
+http://209.14.88.42:80/live/10203470/68892705/3425324.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg" group-title="INFANTIL",NICK HD
+http://209.14.88.42:80/live/10203470/68892705/3425325.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg" group-title="INFANTIL",NICK SD
+http://209.14.88.42:80/live/10203470/68892705/3425329.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1088px-Nick_Jr._logo_2023.svg.png" group-title="INFANTIL",NICK JR FHD
+http://209.14.88.42:80/live/10203470/68892705/3425328.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1088px-Nick_Jr._logo_2023.svg.png" group-title="INFANTIL",NICK JR HD
+http://209.14.88.42:80/live/10203470/68892705/3425326.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/1088px-Nick_Jr._logo_2023.svg.png" group-title="INFANTIL",NICK JR SD
+http://209.14.88.42:80/live/10203470/68892705/3425327.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIL",RA TIM BUM FHD
+http://209.14.88.42:80/live/10203470/68892705/3425334.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIL",RA TIM BUM HD
+http://209.14.88.42:80/live/10203470/68892705/3425335.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIL",RA TIM BUM SD
+http://209.14.88.42:80/live/10203470/68892705/3425330.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST FHD
+http://209.14.88.42:80/live/10203470/68892705/3425331.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST HD
+http://209.14.88.42:80/live/10203470/68892705/3425332.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST SD
+http://209.14.88.42:80/live/10203470/68892705/3425333.ts
 
 
 
