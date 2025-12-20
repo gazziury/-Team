@@ -521,7 +521,7 @@ http://209.14.88.42:80/live/10203470/68892705/3425591.ts
 http://209.14.88.42:80/live/10203470/68892705/3425592.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="VARIEDADES",OFF SD
 http://209.14.88.42:80/live/10203470/68892705/3425593.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/play-tv-logo-png_seeklogo-244065.png" group-title="VARIEDADES",PLAY TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logofic/images/f/f9/Playtv.png/revision/latest?cb=20200518115119&path-prefix=pt-br" group-title="VARIEDADES",PLAY TV HD
 http://209.14.88.42:80/live/10203470/68892705/3425594.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sabor_%26_Arte.png" group-title="VARIEDADES",SABOR & ARTE HD
 http://209.14.88.42:80/live/10203470/68892705/3425598.ts
@@ -541,12 +541,24 @@ http://209.14.88.42:80/live/10203470/68892705/3425605.ts
 http://209.14.88.42:80/live/10203470/68892705/3425612.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://woohoo.com.br/wp-content/uploads/2023/07/woohoo-horizontal-3-2-1.png" group-title="VARIEDADES",WOOHOO SD
 http://209.14.88.42:80/live/10203470/68892705/3425613.ts
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
+http://209.14.88.42:80/live/10203470/68892705/3425493.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="RELIGIOSOS",CANÇÃO NOVA SD
+http://209.14.88.42:80/live/10203470/68892705/3425494.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mitv.com.br/public/93508-2024-08-20.png" group-title="RELIGIOSOS",MI TV SD
+http://209.14.88.42:80/live/10203470/68892705/3425495.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" group-title="RELIGIOSOS",REDE GOSPEL SD
+http://209.14.88.42:80/live/10203470/68892705/3425497.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/860px-Rede_Vida_logo.png" group-title="RELIGIOSOS",REDE VIDA HD
+http://209.14.88.42:80/live/10203470/68892705/3425500.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png" group-title="RELIGIOSOS",RIT HD
+http://209.14.88.42:80/live/10203470/68892705/3425502.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV APARECIDA HD
+http://209.14.88.42:80/live/10203470/68892705/3425505.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
+http://209.14.88.42:80/live/10203470/68892705/3425508.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV_Pai_Eterno_2024.png" group-title="RELIGIOSOS",TV PAI ETERNO HD
+http://209.14.88.42:80/live/10203470/68892705/3425510.ts
 
 
 
