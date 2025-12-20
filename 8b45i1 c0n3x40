@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png" group-title="GLOBO",GLOBO BH FHD
 http://209.14.88.42:80/live/10203470/68892705/3425134.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png" group-title="GLOBO",GLOBO BH HD
@@ -304,16 +303,54 @@ http://209.14.88.42:80/live/10203470/68892705/3425490.ts
 http://209.14.88.42:80/live/10203470/68892705/3425491.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rede_Telecine_vertical_logo.svg/2560px-Rede_Telecine_vertical_logo.svg.png" group-title="TELECINE",TELECINE TOUCH SD
 http://209.14.88.42:80/live/10203470/68892705/3425492.ts
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="HBO",HBO FHD
+http://209.14.88.42:80/live/10203470/68892705/3425457.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="HBO",HBO HD
+http://209.14.88.42:80/live/10203470/68892705/3425458.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="HBO",HBO SD
+http://209.14.88.42:80/live/10203470/68892705/3425465.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="HBO",HBO 2 FHD
+http://209.14.88.42:80/live/10203470/68892705/3425451.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="HBO",HBO 2 HD
+http://209.14.88.42:80/live/10203470/68892705/3425452.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="HBO",HBO 2 SD
+http://209.14.88.42:80/live/10203470/68892705/3425453.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/991px-HBO_Family.svg.png" group-title="HBO",HBO FAMILY FHD
+http://209.14.88.42:80/live/10203470/68892705/3425454.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/991px-HBO_Family.svg.png" group-title="HBO",HBO FAMILY HD
+http://209.14.88.42:80/live/10203470/68892705/3425455.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/991px-HBO_Family.svg.png" group-title="HBO",HBO FAMILY SD
+http://209.14.88.42:80/live/10203470/68892705/3425456.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" group-title="HBO",HBO MUNDI FHD
+http://209.14.88.42:80/live/10203470/68892705/3425459.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" group-title="HBO",HBO MUNDI HD
+http://209.14.88.42:80/live/10203470/68892705/3425460.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" group-title="HBO",HBO MUNDI SD
+http://209.14.88.42:80/live/10203470/68892705/3425461.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="HBO",HBO + FHD
+http://209.14.88.42:80/live/10203470/68892705/3425472.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="HBO",HBO + HD
+http://209.14.88.42:80/live/10203470/68892705/3425473.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="HBO",HBO + SD
+http://209.14.88.42:80/live/10203470/68892705/3425474.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="HBO",HBO POP FHD
+http://209.14.88.42:80/live/10203470/68892705/3425462.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="HBO",HBO POP HD
+http://209.14.88.42:80/live/10203470/68892705/3425463.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="HBO",HBO POP SD
+http://209.14.88.42:80/live/10203470/68892705/3425464.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE FHD
+http://209.14.88.42:80/live/10203470/68892705/3425466.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE HD
+http://209.14.88.42:80/live/10203470/68892705/3425467.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE SD
+http://209.14.88.42:80/live/10203470/68892705/3425468.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="HBO",HBO XTREME FHD
+http://209.14.88.42:80/live/10203470/68892705/3425469.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="HBO",HBO XTREME HD
+http://209.14.88.42:80/live/10203470/68892705/3425470.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="HBO",HBO XTREME SD
+http://209.14.88.42:80/live/10203470/68892705/3425471.ts
 
 
 
