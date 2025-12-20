@@ -407,6 +407,146 @@ http://209.14.88.42:80/live/10203470/68892705/3425331.ts
 http://209.14.88.42:80/live/10203470/68892705/3425332.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST SD
 http://209.14.88.42:80/live/10203470/68892705/3425333.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1200px-BandNewsTV2024.svg.png" group-title="NOTICIAS",BAND NEWS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425351.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1200px-BandNewsTV2024.svg.png" group-title="NOTICIAS",BAND NEWS HD
+http://209.14.88.42:80/live/10203470/68892705/3425352.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/1200px-BandNewsTV2024.svg.png" group-title="NOTICIAS",BAND NEWS SD
+http://209.14.88.42:80/live/10203470/68892705/3425353.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/2560px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL HD
+http://209.14.88.42:80/live/10203470/68892705/3425355.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/2560px-CNN_Brasil.svg.png" group-title="NOTICIAS",CNN BRASIL SD
+http://209.14.88.42:80/live/10203470/68892705/3425356.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="NOTICIAS",CNN INTERNACIONAL FHD
+http://209.14.88.42:80/live/10203470/68892705/3425357.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="NOTICIAS",CNN INTERNACIONAL HD
+http://209.14.88.42:80/live/10203470/68892705/3425358.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="NOTICIAS",CNN INTERNACIONAL SD
+http://209.14.88.42:80/live/10203470/68892705/3425359.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="NOTICIAS",GLOBO NEWS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425360.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://209.14.88.42:80/live/10203470/68892705/3425361.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="NOTICIAS",GLOBO NEWS SD
+http://209.14.88.42:80/live/10203470/68892705/3425362.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425363.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+http://209.14.88.42:80/live/10203470/68892705/3425364.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="NOTICIAS",JOVEM PAN NEWS SD
+http://209.14.88.42:80/live/10203470/68892705/3425365.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/2560px-Record_News_logo_2023.svg.png" group-title="NOTICIAS",RECORD NEWS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425369.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/2560px-Record_News_logo_2023.svg.png" group-title="NOTICIAS",RECORD NEWS HD
+http://209.14.88.42:80/live/10203470/68892705/3425370.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/2560px-Record_News_logo_2023.svg.png" group-title="NOTICIAS",RECORD NEWS SD
+http://209.14.88.42:80/live/10203470/68892705/3425371.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="VARIEDADES",ARTE 1 FHD
+http://209.14.88.42:80/live/10203470/68892705/3425551.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="VARIEDADES",ARTE 1 HD
+http://209.14.88.42:80/live/10203470/68892705/3425552.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_of_Bis.svg" group-title="VARIEDADES",BIS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425553.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_of_Bis.svg" group-title="VARIEDADES",BIS SD
+http://209.14.88.42:80/live/10203470/68892705/3425555.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="VARIEDADES",COMEDY CENTRAL SD
+http://209.14.88.42:80/live/10203470/68892705/3425558.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_of_Curta%21.svg" group-title="VARIEDADES",CURTA FHD
+http://209.14.88.42:80/live/10203470/68892705/3425559.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_of_Curta%21.svg" group-title="VARIEDADES",CURTA HD
+http://209.14.88.42:80/live/10203470/68892705/3425560.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_of_Curta%21.svg" group-title="VARIEDADES",CURTA SD
+http://209.14.88.42:80/live/10203470/68892705/3425561.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="VARIEDADES",E! FHD
+http://209.14.88.42:80/live/10203470/68892705/3425562.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="VARIEDADES",E! SD
+http://209.14.88.42:80/live/10203470/68892705/3425564.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg" group-title="VARIEDADES",FASHION TV FHD
+http://209.14.88.42:80/live/10203470/68892705/3425565.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg" group-title="VARIEDADES",FASHION TV HD
+http://209.14.88.42:80/live/10203470/68892705/3425566.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="VARIEDADES",FOOD NETWORK FHD
+http://209.14.88.42:80/live/10203470/68892705/3425567.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="VARIEDADES",FOOD NETWORK HD
+http://209.14.88.42:80/live/10203470/68892705/3425568.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="VARIEDADES",FOOD NETWORK SD
+http://209.14.88.42:80/live/10203470/68892705/3425569.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1200px-Globoplay_Novelas.svg.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425607.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1200px-Globoplay_Novelas.svg.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS HD
+http://209.14.88.42:80/live/10203470/68892705/3425608.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Globoplay_Novelas.svg/1200px-Globoplay_Novelas.svg.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS SD
+http://209.14.88.42:80/live/10203470/68892705/3425610.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT FHD
+http://209.14.88.42:80/live/10203470/68892705/3425570.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT HD
+http://209.14.88.42:80/live/10203470/68892705/3425571.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT SD
+http://209.14.88.42:80/live/10203470/68892705/3425572.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME FHD
+http://209.14.88.42:80/live/10203470/68892705/3425573.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME HD
+http://209.14.88.42:80/live/10203470/68892705/3425574.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="VARIEDADES",LIFETIME SD
+http://209.14.88.42:80/live/10203470/68892705/3425575.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg" group-title="VARIEDADES",MODO VIAGEM FHD
+http://209.14.88.42:80/live/10203470/68892705/3425576.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg" group-title="VARIEDADES",MODO VIAGEM HD
+http://209.14.88.42:80/live/10203470/68892705/3425577.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg" group-title="VARIEDADES",MODO VIAGEM SD
+http://209.14.88.42:80/live/10203470/68892705/3425578.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="VARIEDADES",MTV HD
+http://209.14.88.42:80/live/10203470/68892705/3425581.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="VARIEDADES",MTV SD
+http://209.14.88.42:80/live/10203470/68892705/3425584.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="VARIEDADES",MTV 00s SD
+http://209.14.88.42:80/live/10203470/68892705/3425585.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1078px-MTV_Live_2021_logo.svg.png" group-title="VARIEDADES",MTV LIVE FHD
+http://209.14.88.42:80/live/10203470/68892705/3425582.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1078px-MTV_Live_2021_logo.svg.png" group-title="VARIEDADES",MTV LIVE HD
+http://209.14.88.42:80/live/10203470/68892705/3425583.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2560px-Multishow_logo_red_2012.svg.png" group-title="VARIEDADES",MULTISHOW FHD
+http://209.14.88.42:80/live/10203470/68892705/3425586.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2560px-Multishow_logo_red_2012.svg.png" group-title="VARIEDADES",MULTISHOW HD
+http://209.14.88.42:80/live/10203470/68892705/3425587.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2560px-Multishow_logo_red_2012.svg.png" group-title="VARIEDADES",MULTISHOW SD
+http://209.14.88.42:80/live/10203470/68892705/3425588.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="VARIEDADES",MUSIC BOX FHD
+http://209.14.88.42:80/live/10203470/68892705/3425589.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="VARIEDADES",MUSIC BOX HD
+http://209.14.88.42:80/live/10203470/68892705/3425590.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="VARIEDADES",OFF FHD
+http://209.14.88.42:80/live/10203470/68892705/3425591.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="VARIEDADES",OFF HD
+http://209.14.88.42:80/live/10203470/68892705/3425592.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="VARIEDADES",OFF SD
+http://209.14.88.42:80/live/10203470/68892705/3425593.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/play-tv-logo-png_seeklogo-244065.png" group-title="VARIEDADES",PLAY TV HD
+http://209.14.88.42:80/live/10203470/68892705/3425594.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sabor_%26_Arte.png" group-title="VARIEDADES",SABOR & ARTE HD
+http://209.14.88.42:80/live/10203470/68892705/3425598.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="VARIEDADES",TERRA VIVA FHD
+http://209.14.88.42:80/live/10203470/68892705/3425600.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="VARIEDADES",TERRA VIVA HD
+http://209.14.88.42:80/live/10203470/68892705/3425601.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/960px-Logo_TNT_Novelas.png" group-title="VARIEDADES",TNT NOVELAS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425602.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/960px-Logo_TNT_Novelas.png" group-title="VARIEDADES",TNT NOVELAS HD
+http://209.14.88.42:80/live/10203470/68892705/3425603.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="VARIEDADES",TRAVEL BOX FHD
+http://209.14.88.42:80/live/10203470/68892705/3425606.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="VARIEDADES",TRAVEL BOX HD
+http://209.14.88.42:80/live/10203470/68892705/3425605.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://woohoo.com.br/wp-content/uploads/2023/07/woohoo-horizontal-3-2-1.png" group-title="VARIEDADES",WOOHOO HD
+http://209.14.88.42:80/live/10203470/68892705/3425612.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://woohoo.com.br/wp-content/uploads/2023/07/woohoo-horizontal-3-2-1.png" group-title="VARIEDADES",WOOHOO SD
+http://209.14.88.42:80/live/10203470/68892705/3425613.ts
+
+
+
+
+
+
 
 
 
