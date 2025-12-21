@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_49.mkv
-http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_60.mkv
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_65.mkv
 http://series.tuxchannel.mx/series/los_hilos_del_pasado/s_01_e_60.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_23.mkv
 
@@ -9143,6 +9143,16 @@ http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_58.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_59.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 060
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_60.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 061
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_61.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 062
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_62.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 063
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_63.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 064
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_64.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg" group-title="Papás por siempre",Cap. 065
+http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_65.mkv
 
 #EXTINF:-1 tvg-logo="https://www.gannett-cdn.com/presto/2021/10/18/PPHXS/6d09cef1-88ee-4ec2-8ee1-7419d56fc587-parientes2.png" group-title="Parientes a la fuerza",Cap. 01
 http://series.tuxchannel.mx/series/parientes_a_la_fuerza/s_01_e_01.mkv
