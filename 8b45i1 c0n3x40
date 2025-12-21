@@ -693,23 +693,30 @@ http://209.14.88.42:80/live/10203470/68892705/3425540.ts
 http://209.14.88.42:80/live/10203470/68892705/3425541.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="SPORTV",SPORTV 3 SD
 http://209.14.88.42:80/live/10203470/68892705/3425542.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="DISNEY +",DISNEY + HD
+http://209.14.88.42:80/live/10203470/68892705/3425004.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" group-title="PARAMOUNT +",PARAMOUNT + 1 HD
+http://209.14.88.42:80/live/10203470/68892705/3425379.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" group-title="PARAMOUNT +",PARAMOUNT + 1 HD
+http://209.14.88.42:80/live/10203470/68892705/3425380.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" group-title="PARAMOUNT +",PARAMOUNT + 2 HD
+http://209.14.88.42:80/live/10203470/68892705/3425381.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" group-title="PARAMOUNT +",PARAMOUNT + 2 HD
+http://209.14.88.42:80/live/10203470/68892705/3425382.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SportyNet.png" group-title="SPORTYNET",SPORTYNET 1 HD
+http://209.14.88.42:80/live/10203470/68892705/3424999.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SportyNet.png" group-title="SPORTYNET",SPORTYNET 2 HD
+http://209.14.88.42:80/live/10203470/68892705/3425000.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SportyNet.png" group-title="SPORTYNET",SPORTYNET 3 HD
+http://209.14.88.42:80/live/10203470/68892705/3425001.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SportyNet.png" group-title="SPORTYNET",SPORTYNET 4 HD
+http://209.14.88.42:80/live/10203470/68892705/3425002.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Caz%C3%A9_TV_logo.png" group-title="CAZE TV",CAZE TV 1 HD
+http://209.14.88.42:80/live/10203470/68892705/3424985.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Caz%C3%A9_TV_logo.png" group-title="CAZE TV",CAZE TV 2 HD
+http://209.14.88.42:80/live/10203470/68892705/3424986.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="UFC FIGHT PASS",UFC FIGHT PASS HD
+http://209.14.88.42:80/live/10203470/68892705/3425548.ts
 
 
 
