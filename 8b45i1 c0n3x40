@@ -673,6 +673,26 @@ http://209.14.88.42:80/live/10203470/68892705/3425057.ts
 http://209.14.88.42:80/live/10203470/68892705/3425058.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="ESPN",ESPN 6 SD
 http://209.14.88.42:80/live/10203470/68892705/3425059.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="SPORTV",SPORTV 1 FHD
+http://209.14.88.42:80/live/10203470/68892705/3425543.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="SPORTV",SPORTV 1 HD
+http://209.14.88.42:80/live/10203470/68892705/3425544.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="SPORTV",SPORTV 1 HD
+http://209.14.88.42:80/live/10203470/68892705/3425545.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="SPORTV",SPORTV 1 SD
+http://209.14.88.42:80/live/10203470/68892705/3425546.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="SPORTV",SPORTV 2 FHD
+http://209.14.88.42:80/live/10203470/68892705/3425537.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="SPORTV",SPORTV 2 HD
+http://209.14.88.42:80/live/10203470/68892705/3425538.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="SPORTV",SPORTV 2 SD
+http://209.14.88.42:80/live/10203470/68892705/3425539.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="SPORTV",SPORTV 3 FHD
+http://209.14.88.42:80/live/10203470/68892705/3425540.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="SPORTV",SPORTV 3 HD
+http://209.14.88.42:80/live/10203470/68892705/3425541.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="SPORTV",SPORTV 3 SD
+http://209.14.88.42:80/live/10203470/68892705/3425542.ts
 
 
 
