@@ -559,6 +559,37 @@ http://209.14.88.42:80/live/10203470/68892705/3425505.ts
 http://209.14.88.42:80/live/10203470/68892705/3425508.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV_Pai_Eterno_2024.png" group-title="RELIGIOSOS",TV PAI ETERNO HD
 http://209.14.88.42:80/live/10203470/68892705/3425510.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/BandSports_logo_2024.png" group-title="ESPORTES",BAND SPORTS FHD
+http://209.14.88.42:80/live/10203470/68892705/3425066.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/BandSports_logo_2024.png" group-title="ESPORTES",BAND SPORTS HD
+http://209.14.88.42:80/live/10203470/68892705/3425067.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/BandSports_logo_2024.png" group-title="ESPORTES",BAND SPORTS SD
+http://209.14.88.42:80/live/10203470/68892705/3425068.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE FHD
+http://209.14.88.42:80/live/10203470/68892705/3425069.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE HD
+http://209.14.88.42:80/live/10203470/68892705/3425070.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="ESPORTES",COMBATE SD
+http://209.14.88.42:80/live/10203470/68892705/3425071.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1024px-Fish_TV_logo_2022.svg.png" group-title="ESPORTES",FISH TV FHD
+http://209.14.88.42:80/live/10203470/68892705/3425072.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1024px-Fish_TV_logo_2022.svg.png" group-title="ESPORTES",FISH TV HD
+http://209.14.88.42:80/live/10203470/68892705/3425073.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1024px-Fish_TV_logo_2022.svg.png" group-title="ESPORTES",FISH TV SD
+http://209.14.88.42:80/live/10203470/68892705/3425074.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DAZN_F1_2024_logo.svg" group-title="ESPORTES",FORMULA 1 TV HD
+http://209.14.88.42:80/live/10203470/68892705/3425076.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712" group-title="ESPORTES",RED BULL TV HD
+http://209.14.88.42:80/live/10203470/68892705/3425079.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="ESPORTES",TNT SPORTS PREMIUM HD
+http://209.14.88.42:80/live/10203470/68892705/3425080.ts
+
+
+
+
+
+
+
 
 
 
