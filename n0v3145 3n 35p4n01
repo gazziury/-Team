@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_49.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_65.mkv
-http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_23.mkv
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_29.mkv
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/09/24/17/07/4704719.jpg" group-title="100 días para enamorarnos T1",Cap. 01
@@ -8438,6 +8438,18 @@ http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_20.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_22.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 022
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 023
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 024
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 025
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 026
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 027
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_28.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 028
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_29.mkv
 
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Oucr97cxCOHqZOFw4i4AR7xNHHs=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/74FLNCOU75C67KBFF5OVIB7LSY.jpg" group-title="Mujer de nadie",Cap. 01
 http://series.tuxchannel.mx/series/mujer_de_nadie/s_01_e_01.mkv
