@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_49.mkv
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_53.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_65.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_29.mkv
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_09.mkv
@@ -2258,6 +2258,14 @@ http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_47.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_48.mkv
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 049
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_49.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 050
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_50.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 051
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_51.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 052
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_52.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 053
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_53.mkv
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/4e/Dise%C3%B1ando_tu_amor.jpg/1200px-Dise%C3%B1ando_tu_amor.jpg" group-title="Diseñando tu amor",Cap. 001
 http://series.tuxchannel.mx/series/disenando_tu_amor/s_01_e_01.mkv
