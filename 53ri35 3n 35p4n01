@@ -7365,6 +7365,19 @@ http://series.tuxchannel.mx/series/hysteria/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nesEfbxsOuFg08O28oZgJq89N2b.jpg" group-title="Hysteria",Cap. 08
 http://series.tuxchannel.mx/series/hysteria/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6kj6B4cO817Em99K7ZQnshLmGQe.jpg" group-title="I love L.A.",Cap. 01
+http://series.tuxchannel.mx/series/i_love_la/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6kj6B4cO817Em99K7ZQnshLmGQe.jpg" group-title="I love L.A.",Cap. 02
+http://series.tuxchannel.mx/series/i_love_la/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6kj6B4cO817Em99K7ZQnshLmGQe.jpg" group-title="I love L.A.",Cap. 03
+http://series.tuxchannel.mx/series/i_love_la/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6kj6B4cO817Em99K7ZQnshLmGQe.jpg" group-title="I love L.A.",Cap. 04
+http://series.tuxchannel.mx/series/i_love_la/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6kj6B4cO817Em99K7ZQnshLmGQe.jpg" group-title="I love L.A.",Cap. 05
+http://series.tuxchannel.mx/series/i_love_la/s_01_e_05.mkvk#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6kj6B4cO817Em99K7ZQnshLmGQe.jpg" group-title="I love L.A.",Cap. 06vhttp://series.tuxchannel.mx/series/i_love_la/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6kj6B4cO817Em99K7ZQnshLmGQe.jpg" group-title="I love L.A.",Cap. 07
+http://series.tuxchannel.mx/series/i_love_la/s_01_e_07.mkvk#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6kj6B4cO817Em99K7ZQnshLmGQe.jpg" group-title="I love L.A.",Cap. 08vhttp://series.tuxchannel.mx/series/i_love_la/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Inconcebible",TRAILER
 https://archive.org/download/trailer-1nc-0nc-3b-1bl-3/trailer%201nc0nc3b1bl3.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/07/19/09/22/2582740.jpg" group-title="Inconcebible",Cap. 01
