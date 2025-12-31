@@ -6,6 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/landman/s_02_e_07.mkv... landman 2 10
 
 http://series.tuxchannel.mx/series/alls_fair/s_01_e_09.mkv... todo vale 10
 
@@ -8682,26 +8683,41 @@ http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mninoticias.com/wp-content/uploads/2022/12/a66c693b-c41e-f130-03cb-681f397faeb1-1.jpg" group-title="La mujer del Diablo T3",Cap. 10
 http://series.tuxchannel.mx/series/la_mujer_del_diablo/s_03_e_10.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 01
 http://series.tuxchannel.mx/series/landman/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 02
 http://series.tuxchannel.mx/series/landman/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 03
 http://series.tuxchannel.mx/series/landman/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 04
 http://series.tuxchannel.mx/series/landman/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 05
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 05
 http://series.tuxchannel.mx/series/landman/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 06
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 06
 http://series.tuxchannel.mx/series/landman/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 07
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 07
 http://series.tuxchannel.mx/series/landman/s_01_e_07.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 08
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 08
 http://series.tuxchannel.mx/series/landman/s_01_e_08.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 09
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 09
 http://series.tuxchannel.mx/series/landman/s_01_e_09.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman",Cap. 10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sAvPBC27Vyt1VcsWbtvP2BVmc11.jpg" group-title="Landman T1",Cap. 10
 http://series.tuxchannel.mx/series/landman/s_01_e_10.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 01
+http://series.tuxchannel.mx/series/landman/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 02
+http://series.tuxchannel.mx/series/landman/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 03
+http://series.tuxchannel.mx/series/landman/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 04
+http://series.tuxchannel.mx/series/landman/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 05
+http://series.tuxchannel.mx/series/landman/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 06
+http://series.tuxchannel.mx/series/landman/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 07
+http://series.tuxchannel.mx/series/landman/s_02_e_07.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La Negociadora",TRAILER
 https://archive.org/download/trailer-l-4-n-3g-0c-14d-0r-4/trailer%20L4%20N3g0c14d0r4.mp4
