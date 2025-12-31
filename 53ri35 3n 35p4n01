@@ -4735,6 +4735,19 @@ http://series.tuxchannel.mx/series/young_wallander/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/26/09/34/0918873.jpg" group-title="El joven Wallander T1",Cap. 06
 http://series.tuxchannel.mx/series/young_wallander/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l5IvHXSkW6rHS0o0MnQ5hyFRojQ.jpg" group-title="El juego de Gracie Darling",Cap. 01
+http://series.tuxchannel.mx/series/playing_gracie_darling/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l5IvHXSkW6rHS0o0MnQ5hyFRojQ.jpg" group-title="El juego de Gracie Darling",Cap. 02
+http://series.tuxchannel.mx/series/playing_gracie_darling/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l5IvHXSkW6rHS0o0MnQ5hyFRojQ.jpg" group-title="El juego de Gracie Darling",Cap. 03
+http://series.tuxchannel.mx/series/playing_gracie_darling/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l5IvHXSkW6rHS0o0MnQ5hyFRojQ.jpg" group-title="El juego de Gracie Darling",Cap. 04
+http://series.tuxchannel.mx/series/playing_gracie_darling/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l5IvHXSkW6rHS0o0MnQ5hyFRojQ.jpg" group-title="El juego de Gracie Darling",Cap. 05
+http://series.tuxchannel.mx/series/playing_gracie_darling/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l5IvHXSkW6rHS0o0MnQ5hyFRojQ.jpg" group-title="El juego de Gracie Darling",Cap. 06
+http://series.tuxchannel.mx/series/playing_gracie_darling/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El juego de las llaves T1",TRAILER
 https://archive.org/download/trailer-3l-ju-3g-0-d-3-l-45-ll-4v-35-1/trailer%203l%20Ju3g0%20d3%20l45%20Ll4v35%20%201.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/08/30/05/46/1670961.jpg" group-title="El juego de las llaves T1",Cap. 01
