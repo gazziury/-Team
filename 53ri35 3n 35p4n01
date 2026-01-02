@@ -8851,6 +8851,32 @@ http://series.tuxchannel.mx/series/la_palma/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqhAqIvldpgtgPYoGfmZsS8igCx.jpg" group-title="La Palma",Cap. 04
 http://series.tuxchannel.mx/series/la_palma/s_01_e_04.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/JA0raDPScMAgfYSx6pjsKgUIf6.jpg" group-title="La paz de Marsella T1",Cap. 01
+http://series.tuxchannel.mx/series/pax_massilia/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/JA0raDPScMAgfYSx6pjsKgUIf6.jpg" group-title="La paz de Marsella T1",Cap. 02
+http://series.tuxchannel.mx/series/pax_massilia/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/JA0raDPScMAgfYSx6pjsKgUIf6.jpg" group-title="La paz de Marsella T1",Cap. 03
+http://series.tuxchannel.mx/series/pax_massilia/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/JA0raDPScMAgfYSx6pjsKgUIf6.jpg" group-title="La paz de Marsella T1",Cap. 04
+http://series.tuxchannel.mx/series/pax_massilia/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/JA0raDPScMAgfYSx6pjsKgUIf6.jpg" group-title="La paz de Marsella T1",Cap. 05
+http://series.tuxchannel.mx/series/pax_massilia/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/JA0raDPScMAgfYSx6pjsKgUIf6.jpg" group-title="La paz de Marsella T1",Cap. 06
+http://series.tuxchannel.mx/series/pax_massilia/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSD8o5dx827Jpkd2DAUiiovkDnd.jpg" group-title="La paz de Marsella T2",Cap. 01
+http://series.tuxchannel.mx/series/pax_massilia/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSD8o5dx827Jpkd2DAUiiovkDnd.jpg" group-title="La paz de Marsella T2",Cap. 02
+http://series.tuxchannel.mx/series/pax_massilia/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSD8o5dx827Jpkd2DAUiiovkDnd.jpg" group-title="La paz de Marsella T2",Cap. 03
+http://series.tuxchannel.mx/series/pax_massilia/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSD8o5dx827Jpkd2DAUiiovkDnd.jpg" group-title="La paz de Marsella T2",Cap. 04
+http://series.tuxchannel.mx/series/pax_massilia/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSD8o5dx827Jpkd2DAUiiovkDnd.jpg" group-title="La paz de Marsella T2",Cap. 05
+http://series.tuxchannel.mx/series/pax_massilia/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSD8o5dx827Jpkd2DAUiiovkDnd.jpg" group-title="La paz de Marsella T2",Cap. 06
+http://series.tuxchannel.mx/series/pax_massilia/s_02_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La periferia",TRAILER
 https://archive.org/download/14-p-3r-1f-3r-14/14%20p3r1f3r14.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/09/09/11/28/2882022.jpg" group-title="La periferia",Cap. 01
