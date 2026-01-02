@@ -40,6 +40,23 @@ http://series.tuxchannel.mx/series/good_boy/s_01_e_15.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg" group-title="Buen chico",Cap. 16
 http://series.tuxchannel.mx/series/good_boy/s_01_e_16.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k2Cq9MTWMPoc5oCyvHIgxxy8Yp8.jpg" group-title="Cashman",Cap. 01
+http://series.tuxchannel.mx/series/cashman/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k2Cq9MTWMPoc5oCyvHIgxxy8Yp8.jpg" group-title="Cashman",Cap. 02
+http://series.tuxchannel.mx/series/cashman/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k2Cq9MTWMPoc5oCyvHIgxxy8Yp8.jpg" group-title="Cashman",Cap. 03
+http://series.tuxchannel.mx/series/cashman/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k2Cq9MTWMPoc5oCyvHIgxxy8Yp8.jpg" group-title="Cashman",Cap. 04
+http://series.tuxchannel.mx/series/cashman/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k2Cq9MTWMPoc5oCyvHIgxxy8Yp8.jpg" group-title="Cashman",Cap. 05
+http://series.tuxchannel.mx/series/cashman/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k2Cq9MTWMPoc5oCyvHIgxxy8Yp8.jpg" group-title="Cashman",Cap. 06
+http://series.tuxchannel.mx/series/cashman/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k2Cq9MTWMPoc5oCyvHIgxxy8Yp8.jpg" group-title="Cashman",Cap. 07
+http://series.tuxchannel.mx/series/cashman/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k2Cq9MTWMPoc5oCyvHIgxxy8Yp8.jpg" group-title="Cashman",Cap. 08
+http://series.tuxchannel.mx/series/cashman/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f1t4we9liPkv4MsINQLCh3rRqWh.jpg" group-title="Desenmascarado",Cap. 01
 http://series.tuxchannel.mx/series/teurigeo/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f1t4we9liPkv4MsINQLCh3rRqWh.jpg" group-title="Desenmascarado",Cap. 02
