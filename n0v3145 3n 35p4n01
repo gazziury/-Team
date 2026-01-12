@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_63.mkv
 http://series.tuxchannel.mx/series/papas_por_siempre/s_01_e_80.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_45.mkv
-http://series.tuxchannel.mx/series/domenica_montero/s_01_e_22.mkv
+http://series.tuxchannel.mx/series/domenica_montero/s_01_e_24.mkv
 
 
 
@@ -2572,6 +2572,10 @@ http://series.tuxchannel.mx/series/domenica_montero/s_01_e_20.mkv
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_21.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg" group-title="Doménica Montero",Cap. 022
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_22.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg" group-title="Doménica Montero",Cap. 023
+http://series.tuxchannel.mx/series/domenica_montero/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sxMG0R9HTHvJvyTHYNP9Ij55YxS.jpg" group-title="Doménica Montero",Cap. 024
+http://series.tuxchannel.mx/series/domenica_montero/s_01_e_24.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/i6zwenRLASRRKTklSW4r1IAiLKP.jpg" group-title="El amor invencible",Cap. 01
 http://series.tuxchannel.mx/series/el_amor_invencible/s_01_e_01.mkv
