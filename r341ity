@@ -6,58 +6,58 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="http://i.ibb.co/C3fmCjk8/20250308-203943.jpg" group-title="TEAM VIP",REALITY GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 01
-http://209.14.88.42:80/10203470/68892705/3800440.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 02
-http://209.14.88.42:80/10203470/68892705/4681016.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 03
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Mozaico
 http://209.14.88.42:80/10203470/68892705/4681017.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 04
-http://209.14.88.42:80/10203470/68892705/4681018.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 05
-http://209.14.88.42:80/10203470/68892705/4681019.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 06
-http://209.14.88.42:80/10203470/68892705/4681020.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 07
-http://209.14.88.42:80/10203470/68892705/4681021.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 08
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto branco | Piscina
 http://209.14.88.42:80/10203470/68892705/4795361.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 09
-http://209.14.88.42:80/10203470/68892705/4795362.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 10
-http://209.14.88.42:80/10203470/68892705/4795363.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Acompanhe a casa 1
+http://209.14.88.42:80/10203470/68892705/3800440.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Acompanhe a casa 2
+http://209.14.88.42:80/10203470/68892705/4681016.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cozinha 1
+http://209.14.88.42:80/10203470/68892705/4681018.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cozinha 2
 http://209.14.88.42:80/10203470/68892705/4795364.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cam 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto Sonho de eternidade
+http://209.14.88.42:80/10203470/68892705/4681019.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto Sonho de voar 1
+http://209.14.88.42:80/10203470/68892705/4681020.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto Sonho de voar 2
+http://209.14.88.42:80/10203470/68892705/4681021.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto Sonho do grande amor
+http://209.14.88.42:80/10203470/68892705/4795363.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Academia Nivea
+http://209.14.88.42:80/10203470/68892705/4795362.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Banheiro Super Cimed
 http://209.14.88.42:80/10203470/68892705/4795365.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 01
-http://209.14.88.42:80/21163657/11596613/3800440.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 02
-http://209.14.88.42:80/21163657/11596613/4681016.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Mozaico
 http://209.14.88.42:80/21163657/11596613/4681017.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 04
-http://209.14.88.42:80/21163657/11596613/4681018.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 05
-http://209.14.88.42:80/21163657/11596613/4681019.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 06
-http://209.14.88.42:80/21163657/11596613/4681020.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 07
-http://209.14.88.42:80/21163657/11596613/4681021.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 08
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Quarto branco | Piscina
 http://209.14.88.42:80/21163657/11596613/4795361.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 09
-http://209.14.88.42:80/21163657/11596613/4795362.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 10
-http://209.14.88.42:80/21163657/11596613/4795363.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Acompanhe a casa 1
+http://209.14.88.42:80/21163657/11596613/3800440.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Acompanhe a casa 2
+http://209.14.88.42:80/21163657/11596613/4681016.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cozinha 1
+http://209.14.88.42:80/21163657/11596613/4681018.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cozinha 2
 http://209.14.88.42:80/21163657/11596613/4795364.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Cam 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Quarto Sonho de eternidade
+http://209.14.88.42:80/21163657/11596613/4681019.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Quarto Sonho de voar 1
+http://209.14.88.42:80/21163657/11596613/4681020.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Quarto Sonho de voar 2
+http://209.14.88.42:80/21163657/11596613/4681021.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Quarto Sonho do grande amor
+http://209.14.88.42:80/21163657/11596613/4795363.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Academia Nivea
+http://209.14.88.42:80/21163657/11596613/4795362.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",Banheiro Super Cimed
 http://209.14.88.42:80/21163657/11596613/4795365.ts
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="STAK - BBB 26 (BRASIL)",Mozaico
