@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/hijack/s_02_e_01.mkv... Hijack 2 son 8
+
 http://series.tuxchannel.mx/series/the_pitt/s_02_e_01.mkv... The Pitt 2 son 15
 
 http://series.tuxchannel.mx/series/fallout/s_02_e_05.mkv... fallout 2  son 8
@@ -7219,20 +7221,23 @@ http://series.tuxchannel.mx/series/hightown/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/09/30/20/15/0670554.jpg" group-title="Hightown",Cap. 08
 http://series.tuxchannel.mx/series/hightown/s_01_e_08.mkv
 
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire",Cap. 01
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire T1",Cap. 01
 http://series.tuxchannel.mx/series/hijack/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire",Cap. 02
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire T1",Cap. 02
 http://series.tuxchannel.mx/series/hijack/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire",Cap. 03
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire T1",Cap. 03
 http://series.tuxchannel.mx/series/hijack/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire",Cap. 04
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire T1",Cap. 04
 http://series.tuxchannel.mx/series/hijack/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire",Cap. 05
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire T1",Cap. 05
 http://series.tuxchannel.mx/series/hijack/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire",Cap. 06
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire T1",Cap. 06
 http://series.tuxchannel.mx/series/hijack/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire",Cap. 07
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FszDEqqarPi3YqiPLevm7LObYrDJ.jpg" group-title="Hijack: Secuestro en el aire T1",Cap. 07
 http://series.tuxchannel.mx/series/hijack/s_01_e_07.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dErpPdQgf0YpYAflQTMocS8QXDF.jpg" group-title="Hijack: Secuestro en el aire T2",Cap. 01
+http://series.tuxchannel.mx/series/hijack/s_02_e_01.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4WRrWmk5BJhlBOFEK0VWWFxamqU.jpg" group-title="Hija del fuego: La venganza de la bastarda",Cap. 01
 http://series.tuxchannel.mx/series/hija_del_fuego_la_venganza_de_la_bastarda/s_01_e_01.mkv
