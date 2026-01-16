@@ -312,6 +312,13 @@ http://series.tuxchannel.mx/series/ad_vitam/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bdewtzc43nRpX3hMS9G8SnIZssG.jpg" group-title="Ad vitam",Cap. 06
 http://series.tuxchannel.mx/series/ad_vitam/s_01_e_06.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mgJmjLXMNiQC8XPWJ4WidEwEA78.jpg" group-title="Agatha Christie: Las siete esferas",Cap. 01
+http://series.tuxchannel.mx/series/agatha_christies_seven_dials/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mgJmjLXMNiQC8XPWJ4WidEwEA78.jpg" group-title="Agatha Christie: Las siete esferas",Cap. 02
+http://series.tuxchannel.mx/series/agatha_christies_seven_dials/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mgJmjLXMNiQC8XPWJ4WidEwEA78.jpg" group-title="Agatha Christie: Las siete esferas",Cap. 03
+http://series.tuxchannel.mx/series/agatha_christies_seven_dials/s_01_e_03.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg" group-title="Agatha en todas partes",Cap. 01
 http://series.tuxchannel.mx/series/agatha_all_along/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg" group-title="Agatha en todas partes",Cap. 02
