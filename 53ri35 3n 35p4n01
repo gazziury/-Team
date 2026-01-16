@@ -6,6 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/the_pitt/s_02_e_01.mkv... The Pitt 2 son 15
 
 http://series.tuxchannel.mx/series/fallout/s_02_e_05.mkv... fallout 2  son 8
 
@@ -13514,9 +13515,12 @@ http://series.tuxchannel.mx/series/the_pitt/s_01_e_12.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhm9MtKbswH0lSJY3uieKjuucwM.jpg" group-title="The Pitt",Cap. 13
 http://series.tuxchannel.mx/series/the_pitt/s_01_e_13.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhm9MtKbswH0lSJY3uieKjuucwM.jpg" group-title="The Pitt",Cap. 14
-https://www.innovatv.store/contenido/SERIES/The%20Pitt/lat/The.Pitt.S01E14.720p.WEBRip.Dual.Latino.mp4
+http://series.tuxchannel.mx/series/the_pitt/s_01_e_14.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhm9MtKbswH0lSJY3uieKjuucwM.jpg" group-title="The Pitt",Cap. 15
 http://series.tuxchannel.mx/series/the_pitt/s_01_e_15.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bfMQViOTxatAT0r0W2DgsiI8iA.jpg" group-title="The Pitt T2",Cap. 01
+http://series.tuxchannel.mx/series/the_pitt/s_02_e_01.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/08/15/59/1199991.jpg" group-title="The Rook",Cap. 01
 http://series.tuxchannel.mx/series/the_rook/s_01_e_01.mkv
