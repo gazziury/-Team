@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/a_knight_of_the_seven_kingdoms/s_01_e_01.mkv... el caballero de los siete reinos son 6
+
 http://series.tuxchannel.mx/series/hijack/s_02_e_01.mkv... Hijack 2 son 8
 
 http://series.tuxchannel.mx/series/the_pitt/s_02_e_02.mkv... The Pitt 2 son 15
@@ -3735,6 +3737,9 @@ http://series.tuxchannel.mx/series/el_buki_las_letras_de_mi_historia/s_01_e_02.m
 http://series.tuxchannel.mx/series/el_buki_las_letras_de_mi_historia/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ldWArnkH18oBDaOosGTpcCpRAQ.jpg" group-title="El Buki: Las letras de mi historia",Cap. 04
 http://series.tuxchannel.mx/series/el_buki_las_letras_de_mi_historia/s_01_e_04.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2sddK6rP3VaoETfa7ADE2KCkfpj.jpg" group-title="El caballero de los siete reinos",Cap. 01
+http://series.tuxchannel.mx/series/a_knight_of_the_seven_kingdoms/s_01_e_01.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kZUz8WRhVAedZHnHvxmtSiDhync.jpg" group-title="El camino estrecho al norte profundo",Cap. 01
 http://series.tuxchannel.mx/series/the_narrow_road_to_the_deep_north/s_01_e_01.mkv
