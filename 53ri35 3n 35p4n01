@@ -16,8 +16,6 @@ http://series.tuxchannel.mx/series/fallout/s_02_e_06.mkv... fallout 2  son 8
 
 http://series.tuxchannel.mx/series/spartacus_house_of_ashur/s_01_e_07.mkv... spartacus 10
 
-http://series.tuxchannel.mx/series/landman/s_02_e_09.mkv... landman 2 10
-
 http://series.tuxchannel.mx/series/alls_fair/s_01_e_09.mkv... todo vale 10
 
 http://series.tuxchannel.mx/series/task/s_01_e_06.mkv ...son 7
@@ -8875,6 +8873,8 @@ http://series.tuxchannel.mx/series/landman/s_02_e_07.mkv
 http://series.tuxchannel.mx/series/landman/s_02_e_08.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 09
 http://series.tuxchannel.mx/series/landman/s_02_e_09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u4Fmxbvn8rrrF60YVuzwEmtFwEL.jpg" group-title="Landman T2",Cap. 10
+http://series.tuxchannel.mx/series/landman/s_02_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="La Negociadora",TRAILER
 https://archive.org/download/trailer-l-4-n-3g-0c-14d-0r-4/trailer%20L4%20N3g0c14d0r4.mp4
