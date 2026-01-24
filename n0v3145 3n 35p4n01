@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_04.mkv
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_19.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_68.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_50.mkv
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_29.mkv
@@ -6438,6 +6438,36 @@ http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_02.mkv
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_03.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 04
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_04.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 05
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_05.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 06
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_06.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 07
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_07.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 08
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_08.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 09
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_09.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 10
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_10.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 11
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_11.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 12
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_12.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 13
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_13.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 14
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_14.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 15
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_15.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 16
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_16.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 17
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_17.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 18
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_18.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Queen_of_Flow_season_3_poster.jpg" group-title="La reina del flow T3",Cap. 19
+http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_19.mkv
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/BV7th4Ty/20250304-203930.jpg" group-title="Las hijas de la señora García",Cap. 001
 http://series.tuxchannel.mx/series/las_hijas_de_la_senora_garcia/s_01_e_01.mkv
