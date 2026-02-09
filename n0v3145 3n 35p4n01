@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_19.mkv
-http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_76.mkv
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_83.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_58.mkv
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_37.mkv
 
@@ -2312,6 +2312,18 @@ http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_74.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_75.mkv
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 076
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_76.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 077
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_78.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 078
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_79.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 079
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_80.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 080
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_81.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 081
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_82.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 082
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_83.mkv
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/4e/Dise%C3%B1ando_tu_amor.jpg/1200px-Dise%C3%B1ando_tu_amor.jpg" group-title="Diseñando tu amor",Cap. 001
 http://series.tuxchannel.mx/series/disenando_tu_amor/s_01_e_01.mkv
