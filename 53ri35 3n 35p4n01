@@ -14,7 +14,7 @@ http://series.tuxchannel.mx/series/the_pitt/s_02_e_05.mkv... The Pitt 2 son 15
 
 http://series.tuxchannel.mx/series/fallout/   son 8
 
-http://series.tuxchannel.mx/series/spartacus_house_of_ashur/s_01_e_07.mkv... spartacus 10
+http://series.tuxchannel.mx/series/spartacus_house_of_ashur/spartacus 10
 
 http://series.tuxchannel.mx/series/alls_fair/s_01_e_09.mkv... todo vale 10
 
@@ -12548,6 +12548,12 @@ http://series.tuxchannel.mx/series/spartacus_house_of_ashur/s_01_e_05.mkv
 http://series.tuxchannel.mx/series/spartacus_house_of_ashur/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mHPZqSXMOQLoQUEhQN6HQ2g4qfw.jpg" group-title="Spartacus: La casa de Ashur",Cap. 07
 http://series.tuxchannel.mx/series/spartacus_house_of_ashur/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mHPZqSXMOQLoQUEhQN6HQ2g4qfw.jpg" group-title="Spartacus: La casa de Ashur",Cap. 08
+http://series.tuxchannel.mx/series/spartacus_house_of_ashur/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mHPZqSXMOQLoQUEhQN6HQ2g4qfw.jpg" group-title="Spartacus: La casa de Ashur",Cap. 09
+http://series.tuxchannel.mx/series/spartacus_house_of_ashur/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mHPZqSXMOQLoQUEhQN6HQ2g4qfw.jpg" group-title="Spartacus: La casa de Ashur",Cap. 10
+http://series.tuxchannel.mx/series/spartacus_house_of_ashur/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/17/11/50/2314671.jpg" group-title="Spinning Out: Girando",Cap. 01
 http://series.tuxchannel.mx/series/spinning_out/s_01_e_01.mkv
