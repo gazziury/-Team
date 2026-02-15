@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_40.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_87.mkv
-http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_60.mkv
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_43.mkv
 http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_05.mkv
 
@@ -8772,6 +8772,14 @@ http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_63.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_64.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 062
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_65.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 063
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_66.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 064
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_67.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 065
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_68.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 066
+http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_69.mkv
 
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/Oucr97cxCOHqZOFw4i4AR7xNHHs=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/74FLNCOU75C67KBFF5OVIB7LSY.jpg" group-title="Mujer de nadie",Cap. 01
 http://series.tuxchannel.mx/series/mujer_de_nadie/s_01_e_01.mkv
