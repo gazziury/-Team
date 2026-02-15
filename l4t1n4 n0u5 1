@@ -385,9 +385,9 @@ http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/558
 http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/557
 #EXTINF:-1 tvg-id="" tvg-name="DEP• VTV UR (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »3«
 http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/556
-#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV URU - VTV+ UR (HD) »1«" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/02/TAVI_Directv-tenfield-vtv-1.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV URU - VTV+ UR (HD) »1«" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/02/TAVI_Directv-tenfield-vtv-1.png" group-title="→ DEPORTES LATINOS ←",DIRECTV URU - VTV+ UR (HD) »1«
 http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/560
-#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV URU - VTV+ UR (HD) »2«" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/02/TAVI_Directv-tenfield-vtv-1.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV URU - VTV+ UR (HD) »2«" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/02/TAVI_Directv-tenfield-vtv-1.png" group-title="→ DEPORTES LATINOS ←",DIRECTV URU - VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/559
 #EXTINF:-1 tvg-id="" tvg-name="DEP• M. DEPORTES ES (HD)" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
 http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/550
@@ -8255,6 +8255,12 @@ http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/253530
 http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/253657
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA" tvg-logo="https://beinxtraespanol.com/videos/video-poster.png" group-title="→ USA DEPORTES ←",BEIN SPORTS XTRA
 http://tvhomesmart.xyz:8080/947341371tv/9g6k9h/254185
+
+
+
+
+
+
 
 
 
