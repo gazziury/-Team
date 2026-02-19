@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_02_e_01.mkv... serán 12
+
 http://series.tuxchannel.mx/series/cross/s_02_e_03.mkv... son 8
 
 http://series.tuxchannel.mx/series/star_trek_starfleet_academy/s_01_e_06.mkv... Star trek academia de la flota estelar son 10
@@ -2304,18 +2306,21 @@ http://series.tuxchannel.mx/series/most_beautiful_thing/s_01_e_06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5NDTN6SQ5jv95hRdkLppDrBgp0K.jpg" group-title="Coisa mais linda",Cap. 07
 http://series.tuxchannel.mx/series/most_beautiful_thing/s_01_e_07.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate",Cap. 01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate T1",Cap. 01
 http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate",Cap. 02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate T1",Cap. 02
 http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate",Cap. 03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate T1",Cap. 03
 http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate",Cap. 04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate T1",Cap. 04
 http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate",Cap. 05
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate T1",Cap. 05
 http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate",Cap. 06
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fG1ZgiDxnKPzVNGMq83Za0gciSh.jpg" group-title="Como agua para chocolate T1",Cap. 06
 http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2pyW4cVyD1QjEWx9MtbQHtbqCvk.jpg" group-title="Como agua para chocolate T2",Cap. 01
+http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_02_e_01.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Como arruinar la Navidad: La boda",TRAILER
 https://archive.org/download/trailer-c-0m-0-c-4rg-4rs-3-l-45-n-4v-1d-4d-35-l-4-b-0d-4/trailer%20C0m0%20c4rg4rs3%20l45%20N4v1d4d35%20L4%20b0d4.mp4
