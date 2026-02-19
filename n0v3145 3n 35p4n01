@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_40.mkv
-http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_87.mkv
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_89.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_69.mkv
 http://series.tuxchannel.mx/series/domenica_montero/s_01_e_47.mkv
 http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_09.mkv
@@ -2332,6 +2332,10 @@ http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_85.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_86.mkv
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 086
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_87.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 087
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_88.mkv
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/471a68cdd17ed4d57594ae6ccb40a676.jpg" group-title="Dinastía Casillas",Cap. 088
+http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_89.mkv
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/4e/Dise%C3%B1ando_tu_amor.jpg/1200px-Dise%C3%B1ando_tu_amor.jpg" group-title="Diseñando tu amor",Cap. 001
 http://series.tuxchannel.mx/series/disenando_tu_amor/s_01_e_01.mkv
