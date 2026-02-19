@@ -10,7 +10,7 @@ http://series.tuxchannel.mx/series/cross/s_02_e_03.mkv... son 8
 
 http://series.tuxchannel.mx/series/star_trek_starfleet_academy/s_01_e_06.mkv... Star trek academia de la flota estelar son 10
 
-http://series.tuxchannel.mx/series/a_knight_of_the_seven_kingdoms/s_01_e_04.mkv... el caballero de los siete reinos son 6
+http://series.tuxchannel.mx/series/a_knight_of_the_seven_kingdoms/s_01_e_05.mkv... el caballero de los siete reinos son 6
 
 http://series.tuxchannel.mx/series/hijack/s_02_e_05.mkv... Hijack 2 son 8
 
@@ -3750,6 +3750,8 @@ http://series.tuxchannel.mx/series/a_knight_of_the_seven_kingdoms/s_01_e_02.mkv
 http://series.tuxchannel.mx/series/a_knight_of_the_seven_kingdoms/s_01_e_03.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2sddK6rP3VaoETfa7ADE2KCkfpj.jpg" group-title="El caballero de los siete reinos",Cap. 04
 http://series.tuxchannel.mx/series/a_knight_of_the_seven_kingdoms/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2sddK6rP3VaoETfa7ADE2KCkfpj.jpg" group-title="El caballero de los siete reinos",Cap. 05
+http://series.tuxchannel.mx/series/a_knight_of_the_seven_kingdoms/s_01_e_05.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kZUz8WRhVAedZHnHvxmtSiDhync.jpg" group-title="El camino estrecho al norte profundo",Cap. 01
 http://series.tuxchannel.mx/series/the_narrow_road_to_the_deep_north/s_01_e_01.mkv
