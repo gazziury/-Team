@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/como_agua_para_chocolate/s_02_e_02.mkv... serán 12
 
-http://series.tuxchannel.mx/series/cross/s_02_e_03.mkv... son 8
+http://series.tuxchannel.mx/series/cross/s_02_e_04.mkv... son 8
 
 http://series.tuxchannel.mx/series/star_trek_starfleet_academy/s_01_e_06.mkv... Star trek academia de la flota estelar son 10
 
@@ -2571,6 +2571,8 @@ http://series.tuxchannel.mx/series/cross/s_02_e_01.mkv
 http://series.tuxchannel.mx/series/cross/s_02_e_02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/keAiOjOIGI3NKlJt3mhCx69ftFU.jpg" group-title="Cross T2",Cap. 03
 http://series.tuxchannel.mx/series/cross/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/keAiOjOIGI3NKlJt3mhCx69ftFU.jpg" group-title="Cross T2",Cap. 04
+http://series.tuxchannel.mx/series/cross/s_02_e_04.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Cruel Summer: Verano cruel",TRAILER
 https://archive.org/download/trailer-cru-3l-summ-3r/trailer%20Cru3l%20Summ3r.mp4
