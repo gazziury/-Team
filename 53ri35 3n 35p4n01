@@ -14298,6 +14298,17 @@ http://series.tuxchannel.mx/series/treadstone/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/25/10/23/1847069.jpg" group-title="Treadstone",Cap. 10
 http://series.tuxchannel.mx/series/treadstone/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Tremembé T1",Cap. 01
+http://series.tuxchannel.mx/series/tremembe/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Tremembé T1",Cap. 02
+http://series.tuxchannel.mx/series/tremembe/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Tremembé T1",Cap. 03
+http://series.tuxchannel.mx/series/tremembe/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Tremembé T1",Cap. 04
+http://series.tuxchannel.mx/series/tremembe/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg" group-title="Tremembé T1",Cap. 05
+http://series.tuxchannel.mx/series/tremembe/s_01_e_05.mkv
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 01
 http://series.tuxchannel.mx/series/triada/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2023/2/w1280/xwZVZCXUq2ir54zYtfHtJgyf1Hy.jpg" group-title="Tríada",Cap. 02
