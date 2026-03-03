@@ -7,8 +7,8 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="ZONADIGITAL - GH 26 (ARGENTINA)",Gran Hermano
-http://zonadigital.uno:80//live/Derek/Derek1234/2325363.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="DP LATINO - GH 26 (ARGENTINA)",Gran Hermano
+http://dplatino.net:80//live/18383jeu8/2342re898/453157.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB26: ACOMPANHE A CASA" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",ACOMPANHE A CASA 1
