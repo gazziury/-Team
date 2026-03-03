@@ -10,30 +10,31 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="ZONADIGITAL - GH 26 (ARGENTINA)",Gran Hermano
 http://zonadigital.uno:80//live/Derek/Derek1234/2325363.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Mozaico
-http://209.14.88.42:80/10203470/68892705/4681017.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto branco | Piscina
-http://209.14.88.42:80/10203470/68892705/4795361.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Acompanhe a casa 1
-http://209.14.88.42:80/10203470/68892705/3800440.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Acompanhe a casa 2
-http://209.14.88.42:80/10203470/68892705/4681016.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cozinha 1
-http://209.14.88.42:80/10203470/68892705/4681018.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Cozinha 2
-http://209.14.88.42:80/10203470/68892705/4795364.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto Sonho de eternidade
-http://209.14.88.42:80/10203470/68892705/4681019.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto Sonho de voar 1
-http://209.14.88.42:80/10203470/68892705/4681020.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto Sonho de voar 2
-http://209.14.88.42:80/10203470/68892705/4681021.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Quarto Sonho do grande amor
-http://209.14.88.42:80/10203470/68892705/4795363.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Academia Nivea
-http://209.14.88.42:80/10203470/68892705/4795362.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="CONEXAO - BBB 26 (BRASIL)",Banheiro Super Cimed
-http://209.14.88.42:80/10203470/68892705/4795365.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: ACOMPANHE A CASA" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",ACOMPANHE A CASA 1
+http://play.listapro.top:80/93440381/72673736/3925670
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: ACOMPANHE A CASA 2" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",ACOMPANHE A CASA 2
+http://play.listapro.top:80/93440381/72673736/3925671
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: ACOMPANHE A CASA 3" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",ACOMPANHE A CASA 3
+http://play.listapro.top:80/93440381/72673736/3925672
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: QUARTO SONHO DE ETERNIDADE" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",QUARTO SONHO DE ETERNIDADE
+http://play.listapro.top:80/93440381/72673736/3925673
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: QUARTO SONHO DE VOAR" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",QUARTO SONHO DE VOAR
+http://play.listapro.top:80/93440381/72673736/3925674
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: QUARTO SONHO DE GRANDE AMOR" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",QUARTO SONHO DE GRANDE AMOR
+http://play.listapro.top:80/93440381/72673736/3925675
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: COZINHA" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",COZINHA
+http://play.listapro.top:80/93440381/72673736/3925676
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: BANHEIRO SUPER CIMED" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",BANHEIRO SUPER CIMED
+http://play.listapro.top:80/93440381/72673736/3925677
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: SALA SONHO DE SER MILIONARIO" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",SALA SONHO DE SER MILIONARIO
+http://play.listapro.top:80/93440381/72673736/3925678
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: ACOMPANHE A CASA" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",ACOMPANHE A CASA
+http://play.listapro.top:80/93440381/72673736/3925679
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: ACADEMIA NIVEA" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",ACADEMIA NIVEA
+http://play.listapro.top:80/93440381/72673736/3925680
+#EXTINF:-1 tvg-id="" tvg-name="BBB26: MOSAICO" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" group-title="CONEXAO - BBB 26 (BRASIL)",MOSAICO
+http://play.listapro.top:80/93440381/72673736/3925681
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" group-title="OFFICE - BBB 26 (BRASIL)",01
