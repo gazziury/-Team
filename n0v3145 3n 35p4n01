@@ -9,8 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 http://series.tuxchannel.mx/series/la_reina_del_flow/s_03_e_40.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_89.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_81.mkv
-http://series.tuxchannel.mx/series/domenica_montero/s_01_e_50.mkv
-http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_15.mkv
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_25.mkv
 
 
 
@@ -4729,6 +4728,24 @@ http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_13.mkv
 http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_14.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 015
 http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_15.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 016
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_17.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 017
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_18.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 018
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_19.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 019
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 020
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_21.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 021
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_22.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 022
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 023
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wyumt3DAtHs9X8siZsopH7FjKLl.jpg" group-title="Hermanas: Un amor compartido",Cap. 024
+http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_25.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/5adCPn5cthQcTN1q1e45gYD6v3Z.jpg" group-title="Imperio de mentiras",Cap. 01
 http://series.tuxchannel.mx/series/imperio_de_mentiras/s_01_e_01.mkv
