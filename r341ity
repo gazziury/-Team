@@ -7,8 +7,43 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="DP LATINO - GH 26 (ARGENTINA)",Gran Hermano
-http://dplatino.net:80//live/Orlando1202T/Bedoya1981P/453157.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Principal
+https://tv.nousiptv.com:8443/mparodi/6900/1285296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Cam 1
+https://tv.nousiptv.com:8443/mparodi/6900/1285661
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Cam 2
+https://tv.nousiptv.com:8443/mparodi/6900/1285662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Cam 3
+https://tv.nousiptv.com:8443/mparodi/6900/1285663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Multicámara
+https://tv.nousiptv.com:8443/mparodi/6900/1285664
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Principal" tvg-logo="" group-title="La casa de los Famosos (COLOMBIA)",La casa de los Famosos Principal
+https://tv.nousiptv.com:8443/mparodi/6900/1277394
+#EXTINF:-1 tvg-id="" tvg-name="Sala" tvg-logo="" group-title="•EL GRAN HERMANO•",Sala
+https://tv.nousiptv.com:8443/mparodi/6900/1277395
+#EXTINF:-1 tvg-id="" tvg-name="Comedor" tvg-logo="" group-title="•EL GRAN HERMANO•",Comedor
+https://tv.nousiptv.com:8443/mparodi/6900/1277396
+#EXTINF:-1 tvg-id="" tvg-name="Calma" tvg-logo="" group-title="•EL GRAN HERMANO•",Calma
+https://tv.nousiptv.com:8443/mparodi/6900/1277397
+#EXTINF:-1 tvg-id="" tvg-name="Tormenta" tvg-logo="" group-title="•EL GRAN HERMANO•",Tormenta
+https://tv.nousiptv.com:8443/mparodi/6900/1277398
+#EXTINF:-1 tvg-id="" tvg-name="Beauti" tvg-logo="" group-title="•EL GRAN HERMANO•",Beauti
+https://tv.nousiptv.com:8443/mparodi/6900/1277399
+#EXTINF:-1 tvg-id="" tvg-name="baños" tvg-logo="" group-title="•EL GRAN HERMANO•",baños
+https://tv.nousiptv.com:8443/mparodi/6900/1277400
+
+
+
+
 
 
 
