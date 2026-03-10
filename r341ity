@@ -7,43 +7,34 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Principal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA)",PRINCIPAL
 https://tv.nousiptv.com:8443/mparodi/6900/1285296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Cam 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA)",CAM 1
 https://tv.nousiptv.com:8443/mparodi/6900/1285661
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Cam 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA)",CAM 2
 https://tv.nousiptv.com:8443/mparodi/6900/1285662
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Cam 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA)",CAM 3
 https://tv.nousiptv.com:8443/mparodi/6900/1285663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="El gran hermano (ARGENTINA)",Gran Hermano Multicámara
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA)",MULTICÁMARA
 https://tv.nousiptv.com:8443/mparodi/6900/1285664
 
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="La casa de los Famosos (COLOMBIA)",La casa de los Famosos Principal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",PRINCIPAL
 https://tv.nousiptv.com:8443/mparodi/6900/1277394
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="La casa de los Famosos (COLOMBIA)",La casa de los Famosos Sala
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",SALA
 https://tv.nousiptv.com:8443/mparodi/6900/1277395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="La casa de los Famosos (COLOMBIA)",La casa de los Famosos Comedor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",COMEDOR
 https://tv.nousiptv.com:8443/mparodi/6900/1277396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="La casa de los Famosos (COLOMBIA)",La casa de los Famosos Calma
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",CALMA
 https://tv.nousiptv.com:8443/mparodi/6900/1277397
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="La casa de los Famosos (COLOMBIA)",La casa de los Famosos Tormenta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",TORMENTA
 https://tv.nousiptv.com:8443/mparodi/6900/1277398
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="La casa de los Famosos (COLOMBIA)",La casa de los Famosos Beauty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",BEAUTY
 https://tv.nousiptv.com:8443/mparodi/6900/1277399
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="La casa de los Famosos (COLOMBIA)",La casa de los Famosos baños
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",BAÑOS
 https://tv.nousiptv.com:8443/mparodi/6900/1277400
-
-
-
-
 
 
 
