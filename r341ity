@@ -52,6 +52,9 @@ https://tv.nousiptv.com:8443/mparodi/6900/1277398
 https://tv.nousiptv.com:8443/mparodi/6900/1277399
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/LCDFCOL.png/revision/latest?cb=20251016232604" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",BAÑOS
 https://tv.nousiptv.com:8443/mparodi/6900/1277400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Canal_RCN_logo_%282%29.svg" group-title="LA CASA DE LOS FAMOSOS (COLOMBIA)",RCN (VIVO)
+https://tv.nousiptv.com:8443/live/mparodi/6900/1087192.ts
+
 
 
 
