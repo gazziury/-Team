@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_18.mkv
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_10.mkv
-http://series.tuxchannel.mx/series/mi_rival/s_01_e_05.mkv
+http://series.tuxchannel.mx/series/mi_rival/s_01_e_10.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_89.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_81.mkv
 http://series.tuxchannel.mx/series/hermanas_un_amor_compartido/s_01_e_25.mkv
@@ -8822,6 +8822,16 @@ http://series.tuxchannel.mx/series/mi_rival/s_01_e_03.mkv
 http://series.tuxchannel.mx/series/mi_rival/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 005
 http://series.tuxchannel.mx/series/mi_rival/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 006
+http://series.tuxchannel.mx/series/mi_rival/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 007
+http://series.tuxchannel.mx/series/mi_rival/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 008
+http://series.tuxchannel.mx/series/mi_rival/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 009
+http://series.tuxchannel.mx/series/mi_rival/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cZVOZl7Xx2G1BdKC1Apx2GxobcO.jpg" group-title="Mi rival",Cap. 010
+http://series.tuxchannel.mx/series/mi_rival/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v79ifn3vf3Ms2LXahn3Si3RIAMV.jpg" group-title="Mi verdad oculta",Cap. 001
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_01.mkv
