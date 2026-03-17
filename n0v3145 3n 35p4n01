@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_18.mkv
-http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_05.mkv
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_10.mkv
 http://series.tuxchannel.mx/series/mi_rival/s_01_e_05.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_89.mkv
 http://series.tuxchannel.mx/series/mi_verdad_oculta/s_01_e_81.mkv
@@ -1825,6 +1825,16 @@ http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_03.mkv
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_04.mkv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 005
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 006
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 007
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 008
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_08.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 009
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_09.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 010
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/3/w1280/ewjLqzw6OtiGkTBOmmq0jGexBSa.jpg" group-title="Corazon guerrero",Cap. 001
 http://series.tuxchannel.mx/series/corazon_guerrero/s_01_e_01.mkv
