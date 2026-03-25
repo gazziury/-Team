@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/rooster/s_01_e_01.mkv... serán 10
+http://series.tuxchannel.mx/series/rooster/s_01_e_03.mkv... serán 10
 
 http://series.tuxchannel.mx/series/outlander/s_08_e_02.mkv... serán 8
 
@@ -12190,6 +12190,10 @@ http://series.tuxchannel.mx/series/robin_hood/s_01_e_10.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gzH7ZI7U0DipQeHyzIUeqJSuZ0b.jpg" group-title="Rooster",Cap. 01
 http://series.tuxchannel.mx/series/rooster/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gzH7ZI7U0DipQeHyzIUeqJSuZ0b.jpg" group-title="Rooster",Cap. 02
+http://series.tuxchannel.mx/series/rooster/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gzH7ZI7U0DipQeHyzIUeqJSuZ0b.jpg" group-title="Rooster",Cap. 03
+http://series.tuxchannel.mx/series/rooster/s_01_e_03.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/9/w1280/qIF53PuAJB0SE37IuPe77xCBuse.jpg" group-title="Santo",Cap. 01
 http://series.tuxchannel.mx/series/santo/s_01_e_01.mkv
