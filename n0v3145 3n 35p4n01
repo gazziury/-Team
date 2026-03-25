@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 
-http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_18.mkv
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_24.mkv
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_10.mkv
 http://series.tuxchannel.mx/series/mi_rival/s_01_e_10.mkv
 http://series.tuxchannel.mx/series/dinastia_casillas/s_01_e_89.mkv
@@ -7169,6 +7169,18 @@ http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_16.mkv
 http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_17.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 017
 http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_18.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 018
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_19.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 019
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 020
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_21.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 021
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_22.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 022
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_23.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 023
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_24.mkv
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhHtfaqrGmpvgk6I6ARsqNcOoz9b.jpg" group-title="Lo que la vida me robó",Cap. 001
 http://series.tuxchannel.mx/series/lo_que_la_vida_me_robo/s_01_e_01.mkv
