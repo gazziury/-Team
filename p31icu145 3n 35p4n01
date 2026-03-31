@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kutdTXxqWJ7KYmnll8nSrtWWsCR.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Proyecto Salvación (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1292725.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Held (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8NqVX14i0d9gmKsZFcTRa8xuac.jpg" group-title="VOD - TERROR",Held (2020)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1118283.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cómo me enamoré de un gánster (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y8y7Zfi2mFFDnb0SEJeKMYpCbT.jpg" group-title="VOD - CRIMEN",Cómo me enamoré de un gánster (2022)
@@ -21195,8 +21197,6 @@ https://tv.nousiptv.com:8443/Janet1234/Deerpark5678/1288461
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1288463.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dead Man's Wire (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg" group-title="VOD - CRIMEN",Dead Man's Wire (2025)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1288464.mkv
-
-
 
 
 
