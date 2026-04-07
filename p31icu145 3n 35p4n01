@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/vhXKsLPWNksflKNlH7YYWaXYqPe.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Dolly (2026) SUB
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1294889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9xn8505FVyyxv6DFwM5tcYyzEY8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Sobran las palabras (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1294888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hH4zYtjNh31nXqNdKJ2Kgm8Lu5.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Pizza movie (2026) SUB
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1294887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/B1T4YXBS4B5TR2fVFOomCKXRuc.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El último gigante (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1294580.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ov0Wqu2I8EzaV1zuoaTnAnHVejY.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cumbres borrascosas (2026)
 http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1294241.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/g8mqgFDbKQkroaRqEVLQTYeCbKD.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La virgen de la tosquera (2026)
@@ -21209,10 +21217,4 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1287743.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1288463.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dead Man's Wire (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg" group-title="VOD - CRIMEN",Dead Man's Wire (2025)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1288464.mkv
-
-
-
-
-
-
 
