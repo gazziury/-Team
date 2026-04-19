@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/xAxD7bSny1ahmyu06uHybSAyC2D.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Venganza (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1296771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMGM0MzgtNGUzZi00NWM2LWI3ZWEtMGYxMzg5ZTNiZDMwXkEyXkFqcGc@._V1_.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La caja azul (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1296770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/tvnceqseqYzoxLZODILA5LGS7dZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Undertone (2026) SUB
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1296531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7Vb5GZzM0pBhPz5bYNNCSHw0jF7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Balls up: Con un par (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1296523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yudrCgdohOjpswePBchpMtBFdCl.jpg" group-title="VOD - ESTRENOS Y RECIENTES",No te olvidaré (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1296315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6RmUnKyBfLu6MfC7sya2WXjyVut.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Super Mario Galaxy: La película (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1296002.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Psycho killer (2026) SUB
 http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1295770.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Outcome (2026)
@@ -21233,10 +21245,6 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1287743.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1288463.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dead Man's Wire (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg" group-title="VOD - CRIMEN",Dead Man's Wire (2025)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1288464.mkv
-
-
-
-
 
 
 
