@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/mQUo46RRXT5Aih7YrnwT5xkoq9l.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Michael (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1298184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6BE6NAQhav7ZPubK2pcdo5zWs5T.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Te van a matar (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1298183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/6bd8BquJKVac49sP8YRGbNuK64S.jpg" group-title="VOD - ESTRENOS Y RECIENTES",911: Llamada infernal (2026)
+http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1298181.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hermanos bajo fuego (2026) SUB
 http://tv.nousiptv.com:80/movie/Janet1234/Deerpark5678/1297909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/ucXrqfzusp2wSQ4NO83Pm2i3lu8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Protector (2026) SUB
@@ -2849,7 +2855,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094406.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094407.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los olvidados (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43P6TrUiRUdd8aC4Z6KjaBz0fnA.jpg" group-title="VOD - ACCION",Los olvidados (2015)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094408.mkv
-#EXTINF:-1 tvg-id="" tvg-name="6 Days (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e01r20rKS4J8bZCWqxhYrmNSGKE.jpg" group-title="VOD - ACCION",6 Days (2008)
+#EXTINF:-1 tvg-id="" tvg-name="6 Days (2008)" tvg-logo="https://image.tmdb.org/t/p/original/yRbC0uRj1RDmF0JLon83il2dkR0.jpg" group-title="VOD - ACCION",6 Days
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094409.mkv
 #EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" group-title="VOD - ACCION",6 en la sombra (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094410.mkv
@@ -2871,7 +2877,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094420.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094422.mkv
 #EXTINF:-1 tvg-id="" tvg-name="30 minutos o menos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOHbTyE3wDKu2ExhsfhGZQOIVUm.jpg" group-title="VOD - ACCION",30 minutos o menos (2011)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094423.mkv
-#EXTINF:-1 tvg-id="" tvg-name="47 Ronin (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p63IJpNPIyj7CMTugkmaEBuMv6.jpg" group-title="VOD - ACCION",47 Ronin (1962)
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronin (1962)" tvg-logo="https://image.tmdb.org/t/p/original/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="VOD - ACCION",47 Ronin
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094424.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Límite: 48 horas (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smU9fN3AJzB4KJijlu0F46dLqOQ.jpg" group-title="VOD - ACCION",Límite: 48 horas (1982)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094425.mkv
@@ -2925,7 +2931,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094450.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094451.mkv
 #EXTINF:-1 tvg-id="" tvg-name="American Ultra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi2MCDYvrZQPf1uXyvfVYPE57Mz.jpg" group-title="VOD - ACCION",American Ultra (2015)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094452.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anaconda (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj0ZYr2ZvAFT0uPuBdaLb9yYZQv.jpg" group-title="VOD - ACCION",Anaconda (1997)
+#EXTINF:-1 tvg-id="" tvg-name="Anaconda (1997)" tvg-logo="https://image.tmdb.org/t/p/original/33NysOnLpLZY0ewHTcfpalzAsRG.jpg" group-title="VOD - ACCION",Anaconda (1997)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094453.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Anacondas: La cacería por la orquídea sangrienta (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph64l6cJSfSiQwIKK9JbzQpWBy3.jpg" group-title="VOD - ACCION",Anacondas: La cacería por la orquídea sangrienta (2004)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094454.mkv
@@ -3157,7 +3163,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094582.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094583.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Justicia letal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PJX9HEBlCm2onoaTc3vOJdJl95.jpg" group-title="VOD - ACCION",Justicia letal (2015)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cobra (1925)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWiYKuqtCOvSYa4XdizqJViYsZK.jpg" group-title="VOD - ACCION",Cobra (1925)
+#EXTINF:-1 tvg-id="" tvg-name="Cobra (1925)" tvg-logo="https://image.tmdb.org/t/p/original/rCN9c1NfxjfgMkTPFATOzUkNEyg.jpg" group-title="VOD - ACCION",Cobra 
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094585.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Código negro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbT6u0CN8oh08x4vf7roQun0qMG.jpg" group-title="VOD - ACCION",Código negro (2007)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094586.mkv
@@ -3183,7 +3189,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094595.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094596.mkv
 #EXTINF:-1 tvg-id="" tvg-name="commandos  2 (2017)" tvg-logo="https://image.tmdb.org/t/p/original/9RZfZxIqyom7XVtXlHKnlNezZua.jpg" group-title="VOD - ACCION",Commando  2 (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094597.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Commitment (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBlOTAzYzQtOWU4ZS00ZjY2LWEzYjAtZDE5NjRiY2UzNzRjXkEyXkFqcGdeQXVyNjkwNDc1MTE@._V1_QL75_UY281_CR186,0,190,281_.jpg" group-title="VOD - ACCION",Commitment (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Commitment (2017)" tvg-logo="https://image.tmdb.org/t/p/original/ybM400b3vesnoNzOlTlAmHeEYPq.jpg" group-title="VOD - ACCION",Commitment 
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094598.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Conan, el bárbaro (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HfgL0bvp1ThIJDgpNwHlOXAd3Z.jpg" group-title="VOD - ACCION",Conan, el bárbaro (1982)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094600.mkv
@@ -3285,7 +3291,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094656.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094658.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Muere otro día (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmpgo09w8qQ8rhbA3q22PYpJcmz.jpg" group-title="VOD - ACCION",Muere otro día (2002)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Distrito 11 (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFUNK6M1H9mnXwIxvzNw74bLn4E.jpg" group-title="VOD - ACCION",Distrito 11 (1963)
+#EXTINF:-1 tvg-id="" tvg-name="Distrito 11 (1963)" tvg-logo="https://image.tmdb.org/t/p/original/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg" group-title="VOD - ACCION",Distrito 9
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Divergente (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t36b9yHx1JbrkcpaWPatcDLtEYu.jpg" group-title="VOD - ACCION",Divergente (2014)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094661.mkv
@@ -3295,7 +3301,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094662.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094663.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Django: La otra cara (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcuHdnVtAOsbvE93bN9MhiBVF0J.jpg" group-title="VOD - ACCION",Django: La otra cara (2002)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094664.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Django: Sangre de mi sangre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/az0ZOKUmmSTp1JxZM5DJbE0gLKv.jpg" group-title="VOD - ACCION",Django: Sangre de mi sangre (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Django: Sangre de mi sangre (2018)" tvg-logo="https://image.tmdb.org/t/p/original/vNBMtAKgYsqHAA5GfyKyMerG9au.jpg" group-title="VOD - ACCION",Django: Sangre de mi sangre (2018)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094665.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Domino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5oswpgpukI3sg2L49jY0ITVz4O.jpg" group-title="VOD - ACCION",Domino (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094667.mkv
@@ -3383,11 +3389,11 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094714.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094715.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fabricated City (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsC2AKvwgZzkYbWrBnq1TvvcUCm.jpg" group-title="VOD - ACCION",Fabricated City (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Face-Off (1971)" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FiZTg4MWEtZTgzMS00ZDBjLWI2YWEtYjZkZmU3YWFlZDllXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_FMjpg_UX1000_.jpg" group-title="VOD - ACCION",Face-Off (1971)
+#EXTINF:-1 tvg-id="" tvg-name="Face-Off (1971)" tvg-logo="https://image.tmdb.org/t/p/original/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg" group-title="VOD - ACCION",Face-Off (1997)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094717.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Caza legal (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nQbYCTuFHRe2N8RMIVumIConTf.jpg" group-title="VOD - ACCION",Caza legal (1995)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fantastic Four (1994)" tvg-logo="https://image.tmdb.org/t/p/original/701B35IcbEFeI9WvFDBtRjrl3b.jpg" group-title="VOD - ACCION",The Fantastic Four (1994)
+#EXTINF:-1 tvg-id="" tvg-name="The Fantastic Four (1994)" tvg-logo="https://image.tmdb.org/t/p/original/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg" group-title="VOD - ACCION",The Fantastic Four (2005)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094719.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fatal Fury 2: La nueva batalla (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DDEjUlogcZ6P0EpEdNi0fCcQ1N.jpg" group-title="VOD - ACCION",Fatal Fury 2: La nueva batalla (1993)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094720.mkv
@@ -3421,7 +3427,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094735.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094736.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fuego negro (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXQQHVTAfn5emTEVm4uqUsE4FIJ.jpg" group-title="VOD - ACCION",Fuego negro (2020)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094737.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Furia (1936)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/socUVAOmU2A4HU8O5eo98DGKh9a.jpg" group-title="VOD - ACCION",Furia (1936)
+#EXTINF:-1 tvg-id="" tvg-name="Furia (1936)" tvg-logo="https://image.tmdb.org/t/p/original/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg" group-title="VOD - ACCION",Fury
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094738.mkv
 #EXTINF:-1 tvg-id="" tvg-name="G.I. Joe: La venganza (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHgwWPga7CMlpXYkIBqT5HOL3s0.jpg" group-title="VOD - ACCION",G.I. Joe: La venganza (2013)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094739.mkv
@@ -3463,7 +3469,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094757.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094758.mkv
 #EXTINF:-1 tvg-id="" tvg-name="James Bond contra Goldfinger (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lDytIehZXJUD56K0XbwpfQoVnZ.jpg" group-title="VOD - ACCION",James Bond contra Goldfinger (1964)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gone in 60 Seconds (1974)" tvg-logo="https://i.pinimg.com/736x/2a/ed/2d/2aed2d602aff8ca23fb8747cf086101c--japanese-poster-movie-posters.jpg" group-title="VOD - ACCION",Gone in 60 Seconds (1974)
+#EXTINF:-1 tvg-id="" tvg-name="Gone in 60 Seconds (1974)" tvg-logo="https://image.tmdb.org/t/p/original/fToQDmkBtiXYGh9xfgAh3gpo6GZ.jpg" group-title="VOD - ACCION",Gone in 60 Seconds (2000)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094760.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Confidential Assignment (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61ZXVq9I2nzC9kcgTga7DYPegeG.jpg" group-title="VOD - ACCION",Confidential Assignment (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094761.mkv
@@ -3485,7 +3491,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094768.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094769.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guardianes del día (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDMUHIanrtvejBFVfYDHMfX4DIY.jpg" group-title="VOD - ACCION",Guardianes del día (2006)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy: Inferno (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/av3SDyIo9uLj0S5usoUcRGgz6vg.jpg" group-title="VOD - ACCION",Guardians of the Galaxy: Inferno (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy: Inferno (2017)" tvg-logo="https://image.tmdb.org/t/p/original/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="VOD - ACCION",Guardians of the Galaxy
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094771.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia Vol. 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="VOD - UNIVERSO MARVEL",Guardianes de la galaxia Vol. 2 (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094772.mkv
@@ -3525,13 +3531,11 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094791.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094792.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Hitman (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qehXRfmOXJQn9vubPjQIf1H7s2U.jpg" group-title="VOD - ACCION",The Hitman (1991)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094793.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hombre sin sombra (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ak3TC031woiDZbXIJVhz7w1d0cL.jpg" group-title="VOD - ACCION",El hombre sin sombra (2000)
-https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094794.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hollow Point (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLbcqa8YnO2Qz4ggflhwglwXI8R.jpg" group-title="VOD - ACCION",Hollow Point (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094795.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hombres de honor (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hO3jsfq2aa1jbE1p41okla9bEJ4.jpg" group-title="VOD - ACCION",Hombres de honor (2000)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094796.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Hombre de Negro (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otoP1PvGKmInNpOQkCkxTYDn42g.jpg" group-title="VOD - ACCION",El Hombre de Negro (2011)
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre de Negro (2011)" tvg-logo="https://image.tmdb.org/t/p/original/rcVJtZCGnp39obbDKYred2mT9sE.jpg" group-title="VOD - ACCION",Hombres de Negro 3
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094797.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Homefront (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdsf3MYbPozNg6ios3ZryiJIvdH.jpg" group-title="VOD - ACCION",Homefront (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094800.mkv
@@ -3603,7 +3607,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094834.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094835.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Invasión del mundo: batalla Los Ángeles" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video/v4/e8/28/ec/e828ec17-df4e-1c1c-9aff-25200818d47c/source/1200x630bb.jpg" group-title="VOD - ACCION",Invasión del mundo: batalla Los Ángeles
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Invasion, U.S.A. (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH8KcG5FgdhXzhCvJRdJcOXts6F.jpg" group-title="VOD - ACCION",Invasion, U.S.A. (1952)
+#EXTINF:-1 tvg-id="" tvg-name="Invasion, U.S.A. (1952)" tvg-logo="https://image.tmdb.org/t/p/original/mE5dSRTKW1dzV7D0pgP8sMxyIa9.jpg" group-title="VOD - ACCION",Invasion, U.S.A. (1985)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094837.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man 3 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqtY20PGAScpeXReJouYx0CgTpi.jpg" group-title="VOD - ACCION",Ip Man 3 (2015)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094838.mkv
@@ -3611,7 +3615,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094838.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094839.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man 4: El final (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg" group-title="VOD - ACCION",Ip Man 4: El final (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: La pelea final (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXu7mcHr46pg3MTqUUtpsw4rggI.jpg" group-title="VOD - ACCION",Ip Man: La pelea final (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man: La pelea final (2013)" tvg-logo="https://image.tmdb.org/t/p/original/kuxgXz8kenALs9TEvSwAkCTAnY4.jpg" group-title="VOD - ACCION",Ip Man: La pelea final (2013)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094841.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg" group-title="VOD - UNIVERSO MARVEL",Iron Man (2008)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094842.mkv
@@ -3623,7 +3627,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094844.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094845.mkv
 #EXTINF:-1 tvg-id="" tvg-name="It Came from the Desert (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZsLtCJW1eJabOxlZrZfaalGIki.jpg" group-title="VOD - ACCION",It Came from the Desert (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Impacto inminente (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjto3zbasNrpwQvHK4SzWwSecIG.jpg" group-title="VOD - ACCION",Impacto inminente (1996)
+#EXTINF:-1 tvg-id="" tvg-name="Impacto inminente (1996)" tvg-logo="https://image.tmdb.org/t/p/original/2Xs8jaxPN7kfmX2VefohWUiRd5W.jpg" group-title="VOD - ACCION",Impacto inminente (1996)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094847.mkv
 #EXTINF:-1 tvg-id="" tvg-name="jackie chans police story 1985" tvg-logo="https://i.pinimg.com/736x/3d/b0/96/3db096542e6d80ea3cf19810ea16be2b.jpg" group-title="VOD - ACCION",jackie chans police story 1985
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094848.mkv
@@ -3675,7 +3679,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094876.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094877.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Superagente K-9 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aroGPuJTZ6hz0okkQr39JwDFHJN.jpg" group-title="VOD - ACCION",Superagente K-9 (1989)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094878.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kakushi toride no san-akunin 1958" tvg-logo="https://i.pinimg.com/originals/d5/b0/68/d5b068300e10ceab67fa073625066ee4.jpg" group-title="VOD - ACCION",kakushi toride no san-akunin 1958
+#EXTINF:-1 tvg-id="" tvg-name="kakushi toride no san-akunin 1958" tvg-logo="https://image.tmdb.org/t/p/original/olO4vMPKNIJQxhJh54TPQFwKpad.jpg" group-title="VOD - ACCION",kakushi toride no san-akunin 1958
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094879.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Karate Kid 2" tvg-logo="https://image.tmdb.org/t/p/original/k0OwgRR6PNu7h3SiqpCbRdZWNaG.jpg" group-title="VOD - SAGAS",The Karate Kid 2
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094880.mkv
@@ -3741,7 +3745,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094909.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094910.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mira, la chica del tren (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqjH0lXsxxc8eJnIOSzK5rGkWdt.jpg" group-title="VOD - ACCION",Mira, la chica del tren (2021)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094911.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Colonial" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81soGtr6v5L._AC_SL1500_.jpg" group-title="VOD - ACCION",La Colonial
+#EXTINF:-1 tvg-id="" tvg-name="La Colonial" tvg-logo="https://image.tmdb.org/t/p/original/4M5fkXYzhjLZdY28ob2iVlh8FgW.jpg" group-title="VOD - ACCION",La Colonia
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin frenos (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFoiuMB6chsjfMfMPWZIRrHDvOw.jpg" group-title="VOD - ACCION",Sin frenos (2012)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094917.mkv
@@ -3763,12 +3767,8 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094925.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La noche más oscura (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMIvov9d0Vse2rcJLtBg4zzS9Rl.jpg" group-title="VOD - ACCION",La noche más oscura (2012)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094927.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La edad peligrosa (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NgA5E2hJ5WDqc57mlmFhVHUuWf.jpg" group-title="VOD - ACCION",La edad peligrosa (1950)
-https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094928.mkv
 #EXTINF:-1 tvg-id="" tvg-name="la suma de todos los miedos" tvg-logo="https://image.tmdb.org/t/p/original/AlaXmSoTpAo7dkf5KG2nQEOGvzc.jpg" group-title="VOD - ACCION",La suma de todos los miedos
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La última carta (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ammgA5VHXZ4jSPgEtdrWpYhfHi2.jpg" group-title="VOD - ACCION",La última carta (1969)
-https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094937.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Warrior (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg" group-title="VOD - ACCION",Warrior (2011)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094938.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El escuadrón vigilante (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffC1PVoC4Uj8L0CAFps8kFqRm1b.jpg" group-title="VOD - ACCION",El escuadrón vigilante (2016)
@@ -3783,15 +3783,15 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094942.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094943.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lara Croft: Tomb Raider (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg" group-title="VOD - ACCION",Lara Croft: Tomb Raider (2001)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094944.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Larceny (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aBwgvoWkHEgsKyJkI1AltcPzs0.jpg" group-title="VOD - ACCION",Larceny (1948)
+#EXTINF:-1 tvg-id="" tvg-name="Larceny (1948)" tvg-logo="https://image.tmdb.org/t/p/original/qUviwREBPSuST9DQ243hKaUbhgR.jpg" group-title="VOD - ACCION",Larceny
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094946.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las apariencias engañan (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SI0MSAFnBQDgX5OMbVXWfkMv5O.jpg" group-title="VOD - ACCION",Las apariencias engañan (1983)
+#EXTINF:-1 tvg-id="" tvg-name="Las apariencias engañan (1983)" tvg-logo="https://image.tmdb.org/t/p/original/s8kMFBVK5Wm3s4QXM9tvsUl7IiZ.jpg" group-title="VOD - ACCION",Las apariencias engañan
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094947.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvQx4oiEHAKS4seauOlFgUDoBod.jpg" group-title="VOD - ACCION",Las crónicas de Riddick (2004)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094948.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gurren Lagann: Las luces en el cielo son estrellas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28mU2qCSqYlqnNNHsfYD4Wg3A6y.jpg" group-title="VOD - ACCION",Gurren Lagann: Las luces en el cielo son estrellas (2009)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094949.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Last Man Standing (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDoGcma6PXerIIzPPm0qgVKXm1u.jpg" group-title="VOD - ACCION",Last Man Standing (1987)
+#EXTINF:-1 tvg-id="" tvg-name="Last Man Standing (1987)" tvg-logo="https://image.tmdb.org/t/p/original/4yBM8DZmX5cGWAEIO6w9nCycJMe.jpg" group-title="VOD - ACCION",Last Man Standing (1996)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Latte y la piedra mágica (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5B36DEulWanKgXUEscrEEs2bTfP.jpg" group-title="VOD - ACCION",Latte y la piedra mágica (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094951.mkv
@@ -3811,7 +3811,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094961.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094962.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Line Walker 2: Espía invisible (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4yzPH9lhJbGaV0ZkvWWKTF3gGi.jpg" group-title="VOD - ACCION",Line Walker 2: Espía invisible (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094963.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Live or Let Die (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fffvRk8xPuLlGYQWCDSXpzDvqok.jpg" group-title="VOD - ACCION",Live or Let Die (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Live or Let Die (2021)" tvg-logo="https://image.tmdb.org/t/p/original/4i88LrZEaQ8iJohlw6BBx3ypX5q.jpg" group-title="VOD - ACCION",007 Live and Let Die
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094964.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Viviendo y muriendo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6fnlbV9jeNbwBvGJsmW3ZGFug.jpg" group-title="VOD - ACCION",Viviendo y muriendo (2007)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094965.mkv
@@ -3859,15 +3859,15 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094989.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094990.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Moonraker (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyisfNtn0cmQA4e39H9VCa5CkN6.jpg" group-title="VOD - ACCION",Moonraker (1979)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094991.mkv
-#EXTINF:-1 tvg-id="" tvg-name="National Treasure 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPmDLlo1xTzxnYiClP96khPAu6z.jpg" group-title="VOD - ACCION",National Treasure 3
+#EXTINF:-1 tvg-id="" tvg-name="National Treasure 3" tvg-logo="https://image.tmdb.org/t/p/original/uMwVJE8VOgohYeeDwOtMKYUh1yC.jpg" group-title="VOD - ACCION",National Treasure 2
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094992.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Natural Born Zombie Killers (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1LRyaEZOhTcMsDszc8cS3U21iE.jpg" group-title="VOD - ACCION",Natural Born Zombie Killers (1998)
+#EXTINF:-1 tvg-id="" tvg-name="Natural Born Zombie Killers (1998)" tvg-logo="https://image.tmdb.org/t/p/original/lEUfxyi2o4T7J9cqGG0D5UEJlzT.jpg" group-title="VOD - ACCION",Natural Born Zombie Killers (1998)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094994.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Next (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw1IecF6ii74rUbsPO1O0k43qGa.jpg" group-title="VOD - ACCION",Next (2007)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094996.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Legión de héroes (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21lqkTHnVHZG4uuJL26Qeqltgbq.jpg" group-title="VOD - ACCION",Legión de héroes (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nighthawks (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHxIZP7hyEaKKVzncXUTYO72Z7v.jpg" group-title="VOD - ACCION",Nighthawks (1978)
+#EXTINF:-1 tvg-id="" tvg-name="Nighthawks (1978)" tvg-logo="https://image.tmdb.org/t/p/original/2QgpCgOmlgvOPMMC0OrgCv5EKIf.jpg" group-title="VOD - ACCION",Nighthawks (1981)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094998.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nikita, dura de matar (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rt1tMhK6AeO4462lwi9wJZorWF.jpg" group-title="VOD - ACCION",Nikita, dura de matar (1990)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1094999.mkv
@@ -3877,7 +3877,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095000.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095001.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ahora me ves 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg" group-title="VOD - ACCION",Ahora me ves 2 (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095002.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La cuadrilla de los once (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDJzbzmcv02ZqutDr2MwredPN0y.jpg" group-title="VOD - ACCION",La cuadrilla de los once (1960)
+#EXTINF:-1 tvg-id="" tvg-name="La cuadrilla de los once (1960)" tvg-logo="https://image.tmdb.org/t/p/original/5mVcFFaavt6Md66tNZFSvnVrzEq.jpg" group-title="VOD - ACCION",La nueva gran estafa
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ocean's Twelve (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guLJDVIqumv9C4iEpuuzqZIhEi1.jpg" group-title="VOD - ACCION",Ocean's Twelve (2004)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095004.mkv
@@ -3927,7 +3927,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095027.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095028.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Redcon-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVPrWngVJ2cfYAncBedQty69Dlf.jpg" group-title="VOD - ACCION",Redcon-1 (2018)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095029.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amanecer rojo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyvt5wKEGFtg6oKHG1JjW31tAAX.jpg" group-title="VOD - ACCION",Amanecer rojo (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Amanecer rojo (2012)" tvg-logo="https://image.tmdb.org/t/p/original/7Z1NgiJ3cq5tasdfKVuAmcJpXyK.jpg" group-title="VOD - ACCION",Amanecer rojo (1984)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095030.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Danko: Calor rojo (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCLR9iQS3dRo8mYnq2I73EK9KEf.jpg" group-title="VOD - ACCION",Danko: Calor rojo (1988)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095031.mkv
@@ -3935,11 +3935,11 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095031.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095032.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El imperio del fuego (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKevdQnQxn6Z9qHVSiCxhMdmO9J.jpg" group-title="VOD - ACCION",El imperio del fuego (2002)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Return of the Dragon (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwK6Pgtdp3HE9MYDC1mn5Bj8cFp.jpg" group-title="VOD - ACCION",Return of the Dragon (1974)
+#EXTINF:-1 tvg-id="" tvg-name="Return of the Dragon (1974)" tvg-logo="https://image.tmdb.org/t/p/original/2WSZgq3CjsZewAD9DNdQKlvMdyl.jpg" group-title="VOD - ACCION",Return of the Dragon (1972)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095034.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La venganza del Ninja (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCPPXAbhJ70M1uMC0rmsfSDzhzQ.jpg" group-title="VOD - ACCION",La venganza del Ninja (1983)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Road House (1934)" tvg-logo="https://www.vicpine.co.uk/road-house-1934-large.jpg" group-title="VOD - ACCION",Road House (1934)
+#EXTINF:-1 tvg-id="" tvg-name="Road House (1934)" tvg-logo="https://image.tmdb.org/t/p/original/60VHW8heV11uLSCnkjk6iGRQatA.jpg" group-title="VOD - ACCION",Road House (1989)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095037.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Duro de matar (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nh10S5XVmIOTEgHIR9H3g7nfY5l.jpg" group-title="VOD - ACCION",Duro de matar (1995)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095038.mkv
@@ -3961,9 +3961,9 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095046.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095047.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shutter Island (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap0iZ0CRNCsrK6kUfWLA6HJwu2K.jpg" group-title="VOD - ACCION",Shutter Island (2010)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Silver Streak (1934)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HVLPJaW5dpHcyaV5iI6RHA7AdA.jpg" group-title="VOD - ACCION",The Silver Streak (1934)
+#EXTINF:-1 tvg-id="" tvg-name="The Silver Streak (1934)" tvg-logo="https://image.tmdb.org/t/p/original/gY1a4k9dalGx83D7TJ2C76xBprS.jpg" group-title="VOD - ACCION",Silver Streak (1976)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin City" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uESwrxLV2505cgidOGirTwyfVGf.jpg" group-title="VOD - ACCION",Sin City
+#EXTINF:-1 tvg-id="" tvg-name="Sin City" tvg-logo="https://image.tmdb.org/t/p/original/i66G50wATMmPrvpP95f0XP6ZdVS.jpg" group-title="VOD - ACCION",Sin City (2005)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095050.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sniper: El legado (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLKWTvPADfHxszfxbn0gjIsOQgb.jpg" group-title="VOD - ACCION",Sniper: El legado (2014)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095052.mkv
@@ -3979,7 +3979,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095056.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095057.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stretch (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoMVrQV1foM1dFqrOPmhDizkFM3.jpg" group-title="VOD - ACCION",Stretch (2011)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Suicide Squad (1935)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BIJPvVBACNNw4g8u7AXMLMMpy.jpg" group-title="VOD - ACCION",Suicide Squad (1935)
+#EXTINF:-1 tvg-id="" tvg-name="Suicide Squad (1935)" tvg-logo="https://image.tmdb.org/t/p/original/e7eKh77oZ6dccVzNN69WBlnkwrE.jpg" group-title="VOD - ACCION",Suicide Squad (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095059.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escuadrón suicida (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ymhU7NclJr29MpZnBQbJurYbuc.jpg" group-title="VOD - UNIVERSO DC",Escuadrón suicida (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095060.mkv
@@ -4035,8 +4035,6 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095090.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095091.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El ultimátum de Bourne (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OIp3IY2KZO6DehQ29gDW5RRgqs.jpg" group-title="VOD - ACCION",El ultimátum de Bourne (2007)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095092.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Cold Light of Day (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTrHdnAYTuEusGGlE27B0v0e3ID.jpg" group-title="VOD - ACCION",The Cold Light of Day (1996)
-https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095093.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Collection (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxUasHKoR8dtInQiXNUknOqi6Ao.jpg" group-title="VOD - ACCION",The Collection (2012)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095094.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Condemned (2013)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcxZDdiYjQtNzViOS00NmM5LWI2NzgtMjhiNjJjM2Q2NDcyXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_FMjpg_UX1000_.jpg" group-title="VOD - ACCION",The Condemned (2013)
@@ -4059,19 +4057,19 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095104.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095105.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los mercenarios (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzo8OdPVx6kFotHlM3OvdwUzVZt.jpg" group-title="VOD - ACCION",Los mercenarios (2010)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095107.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fantastic Four (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uqcgIYHnwpXwOwNKoeceMWdA7M.jpg" group-title="VOD - ACCION",The Fantastic Four (1994)
+#EXTINF:-1 tvg-id="" tvg-name="The Fantastic Four (1994)" tvg-logo="https://image.tmdb.org/t/p/original/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg" group-title="VOD - ACCION",The Fantastic Four (2015)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095108.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Fatal Raid (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vWqRab0UbFvSAMvWE4D7LYpcub.jpg" group-title="VOD - ACCION",The Fatal Raid (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095109.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El quinto elemento (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2IFRKmD0nLaJOaILGKHdF31bKy.jpg" group-title="VOD - ACCION",El quinto elemento (1997)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095110.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Finest Hours (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/250YNnD82wcR7MDcML4Nt4Bz4pQ.jpg" group-title="VOD - ACCION",The Finest Hours (1964)
+#EXTINF:-1 tvg-id="" tvg-name="The Finest Hours (1964)" tvg-logo="https://image.tmdb.org/t/p/original/6UG91TJ4DKI6FGdqXZfDBeRZHX8.jpg" group-title="VOD - ACCION",The Finest Hours (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095112.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El reino prohibido (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg" group-title="VOD - ACCION",El reino prohibido (2008)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Foreigner (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ishkoNaEcV2yxAMpHtxYHjki3Ji.jpg" group-title="VOD - ACCION",The Foreigner (1978)
+#EXTINF:-1 tvg-id="" tvg-name="The Foreigner (1978)" tvg-logo="https://image.tmdb.org/t/p/original/85w7jR5QX946tEzr6WDRhz2yISn.jpg" group-title="VOD - ACCION",The Foreigner (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095114.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fugitive (1910)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWUuzAIAAhmZ2uMP9gqUuzhhRXK.jpg" group-title="VOD - ACCION",The Fugitive (1910)
+#EXTINF:-1 tvg-id="" tvg-name="The Fugitive (1910)" tvg-logo="https://image.tmdb.org/t/p/original/eOFjZMYYx9T8JuV0gm2ezEw0rdl.jpg" group-title="VOD - ACCION",The Fugitive (1993)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095115.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Gentlemen: Los señores de la mafia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvfQp5hUNKRUDAE7HMQdwGNl7Fs.jpg" group-title="VOD - ACCION",The Gentlemen: Los señores de la mafia (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095116.mkv
@@ -4079,7 +4077,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095116.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095117.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guardianes de alta mar (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6hXSlsnAShEJ7M63wweyDbhv0r.jpg" group-title="VOD - ACCION",Guardianes de alta mar (2006)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095118.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Gunman (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS2TLuTBrBSQm24422vk8ISQxDC.jpg" group-title="VOD - ACCION",The Gunman (1952)
+#EXTINF:-1 tvg-id="" tvg-name="The Gunman (1952)" tvg-logo="https://image.tmdb.org/t/p/original/lnUozDnDANTsDYEdsNsHC6b8IiS.jpg" group-title="VOD - ACCION",The Gunman (2015)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095119.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Hard Way (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBJkvzm4vg2UZqbtkAq3Ch7VgM8.jpg" group-title="VOD - ACCION",The Hard Way (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095120.mkv
@@ -4125,7 +4123,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095140.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095141.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Inside 'The Living Daylights' (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meQTLM1Sd36kpYVrPcghhhqjfZq.jpg" group-title="VOD - ACCION",Inside 'The Living Daylights' (2000)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095142.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enter the Lone Ranger (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2GU7VdBhdbaPPQwCXtE6fwmjqq.jpg" group-title="VOD - ACCION",Enter the Lone Ranger (1949)
+#EXTINF:-1 tvg-id="" tvg-name="Enter the Lone Ranger (1949)" tvg-logo="https://image.tmdb.org/t/p/original/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg" group-title="VOD - ACCION",El Llanero Solitario (2013)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095143.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6O0HVrDerhMxIY0djzPDetgzrB.jpg" group-title="VOD - ACCION",El señor de los anillos (1978)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095144.mkv
@@ -4165,13 +4163,13 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095160.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095161.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Negotiator (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e46ydGXmMqb62sVi0C3oYt97FcO.jpg" group-title="VOD - ACCION",The Negotiator (1994)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Net (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO2TXRNfDxkyM48nEvs3Ni0FTsK.jpg" group-title="VOD - ACCION",The Net (1953)
+#EXTINF:-1 tvg-id="" tvg-name="The Net (1953)" tvg-logo="https://image.tmdb.org/t/p/original/tMyZl9Sl2t75d2BTG977S5B9GUP.jpg" group-title="VOD - ACCION",La red (1995)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095163.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dos buenos tipos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgMpKQMKyS7oYmPffKyyOv0VqyT.jpg" group-title="VOD - ACCION",Dos buenos tipos (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095164.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La vieja guardia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzYP4eiDmBoVztMUmWtKqMZcUGN.jpg" group-title="VOD - ACCION",La vieja guardia (2020)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The One (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca9kj9JV4bIaHtr17JxjNJMBGk.jpg" group-title="VOD - ACCION",The One (2011)
+#EXTINF:-1 tvg-id="" tvg-name="The One (2011)" tvg-logo="https://image.tmdb.org/t/p/original/dhTgtlmGSMGtxQy8ooQoVsYhwkN.jpg" group-title="VOD - ACCION",El único (2001)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095166.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El extranjero (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzCyzP0FwzprnbFxWapmoL2MLO7.jpg" group-title="VOD - ACCION",El extranjero (2014)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095167.mkv
@@ -4199,7 +4197,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095178.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095179.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Sentinelle (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPveiKaj9ujkGbqfQLIHDetRkqW.jpg" group-title="VOD - ACCION",La Sentinelle (1992)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El efecto sombra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbqgL4Qn7g816eY1Tv1GKILq8q4.jpg" group-title="VOD - ACCION",El efecto sombra (2017)
+#EXTINF:-1 tvg-id="" tvg-name="El efecto sombra (2017)" tvg-logo="https://image.tmdb.org/t/p/original/in6p8c9ceTs1wDDkaVwXBXIsjQi.jpg" group-title="VOD - ACCION",El efecto sombra (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095181.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jarhead 3: El Asedio (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loKu83BUfImj7LplnFIrEzGjjLO.jpg" group-title="VOD - ACCION",Jarhead 3: El Asedio (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095182.mkv
@@ -4211,7 +4209,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095184.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095186.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Tournament (1974)" tvg-logo="https://www.themoviedb.org/t/p/original/kklTCKqSCEwgKM1XfPFveTI9s9M.jpg" group-title="VOD - ACCION",The Tournament (1974)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El coloso en llamas (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5OOPzncdTzQCYciaOmgoMUlrD2.jpg" group-title="VOD - ACCION",El coloso en llamas (1974)
+#EXTINF:-1 tvg-id="" tvg-name="El coloso en llamas (1974)" tvg-logo="https://image.tmdb.org/t/p/original/lWuGfYqd2cSRyfr7FNAYKh859dR.jpg" group-title="VOD - ACCION",Infierno en la torre (1974)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095188.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Transporter (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEiyyNU0CVZBgmH08l3GMgw4BfZ.jpg" group-title="VOD - ACCION",Transporter (2002)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095189.mkv
@@ -4221,7 +4219,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095190.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095191.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Wall (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/470L4b8erR58cWBpwJwcHZcbqi.jpg" group-title="VOD - ACCION",The Wall (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095192.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Gypsy Warriors (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu6MeQX39EgJ6LXG67GfoA3IeL8.jpg" group-title="VOD - ACCION",The Gypsy Warriors (1978)
+#EXTINF:-1 tvg-id="" tvg-name="The Gypsy Warriors (1978)" tvg-logo="https://image.tmdb.org/t/p/original/sjN9IZHmRHZmpxvQYYYFNQ22Pch.jpg" group-title="VOD - ACCION",The Warriors (1979)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095193.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El camino del guerrero (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkXo3NZhx2cASS1cjMKnsjJ1ftI.jpg" group-title="VOD - ACCION",El camino del guerrero (2010)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095194.mkv
@@ -4233,7 +4231,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095196.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095198.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Torque: Rodando al límite (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjk5FQWR9NNYiMBHz99hcSoW7ct.jpg" group-title="VOD - ACCION",Torque: Rodando al límite (2004)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095200.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Total Recall(ed) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOlb9WLetYE14cvHID8Oz8nFADu.jpg" group-title="VOD - ACCION",Total Recall(ed) (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Total Recall(ed) (2021)" tvg-logo="https://image.tmdb.org/t/p/original/hVUxVVzZ0WvvPIpKwsMPMDOQyqi.jpg" group-title="VOD - ACCION",El vengador del futuro (2012)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095201.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Training Day (Día de entrenamiento) - 2001" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFcQY6Uti3zi7vqBglEURwNrayT.jpg" group-title="VOD - ACCION",Training Day (Día de entrenamiento) - 2001
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095202.mkv
@@ -4249,7 +4247,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095206.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095207.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El protegido (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="VOD - ACCION",El protegido (2000)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095208.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Under Siege (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eO6OLiAarJ0w4kcJq8m7w7dqn6.jpg" group-title="VOD - ACCION",Under Siege (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Under Siege (1986)" tvg-logo="https://image.tmdb.org/t/p/original/myHxm9p8fhEsXyaLO6DawYJKolg.jpg" group-title="VOD - ACCION",Alerta máxima (1992)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095209.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alerta máxima 2 (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40iMlM2WtCmpsPRbL6gVTiTKI7.jpg" group-title="VOD - ACCION",Alerta máxima 2 (1995)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095210.mkv
@@ -4259,7 +4257,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095212.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095213.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin perdón (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhcVwMko4DbSELZapIQv4mmdPKY.jpg" group-title="VOD - ACCION",Sin perdón (1992)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Unstoppable (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAm57OOimYHVd6kKBBzHt4JDCUj.jpg" group-title="VOD - ACCION",Unstoppable (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Unstoppable (2013)" tvg-logo="https://image.tmdb.org/t/p/original/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg" group-title="VOD - ACCION",Imparable (2010)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095215.mkv
 #EXTINF:-1 tvg-id="" tvg-name="U.S. Marshals (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SSxjmKZCklIOMRJnE4enaAgqig.jpg" group-title="VOD - ACCION",U.S. Marshals (1998)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095216.mkv
@@ -4283,7 +4281,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095225.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095226.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Jungle (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xa2pI7NwOY4gRLxc5qAO79qwHaD.jpg" group-title="VOD - ACCION",Kung Fu Jungle (2014)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095227.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Young Guns (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZlTrBClAmSIPwCmfzJNmf6KmgY.jpg" group-title="VOD - ACCION",The Young Guns (1956)
+#EXTINF:-1 tvg-id="" tvg-name="The Young Guns (1956)" tvg-logo="https://image.tmdb.org/t/p/original/3AgCq7xY1rHRAAn0iVcnNr2OWL.jpg" group-title="VOD - ACCION",Jóvenes pistoleros (1988)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095228.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guardianes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuWtgYKs9EsKQHIv3mJTBbFZddi.jpg" group-title="VOD - ACCION",Guardianes (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1095230.mkv
@@ -8461,7 +8459,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097519.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097520.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tJMeknwCcrUgwi3sEVsGTWt2ex.jpg" group-title="VOD - AVENTURA",Cazadores de sombras: Ciudad de hueso (2013)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097521.mkv
-#EXTINF:-1 tvg-id="" tvg-name="chaman el ultimo guerrero" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ5MjE1OTAtODcwYi00YTY3LWE3ZTktZDViNTk4ZmNiNmEzXkEyXkFqcGdeQXVyMjU5MzI0NQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD - AVENTURA",chaman el ultimo guerrero
+#EXTINF:-1 tvg-id="" tvg-name="chaman el ultimo guerrero" tvg-logo="https://image.tmdb.org/t/p/original/q43vktSDQbILyUL2PmGI8ZaUezd.jpg" group-title="VOD - AVENTURA",chaman el ultimo guerrero
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097522.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chinese Zodiac: La armadura de Dios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjIccIjA4XpiOBtDdtoYAen062.jpg" group-title="VOD - AVENTURA",Chinese Zodiac: La armadura de Dios (2012)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097523.mkv
@@ -8483,11 +8481,11 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097530.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097531.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Conan, el destructor (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vwtQwywduJfG50SrxlhalpXsUx.jpg" group-title="VOD - AVENTURA",Conan, el destructor (1984)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Les conquistadores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCAN4Tl4mDPBIFhytj4VbF4pXLS.jpg" group-title="VOD - AVENTURA",Les conquistadores
+#EXTINF:-1 tvg-id="" tvg-name="Les conquistadores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCAN4Tl4mDPBIFhytj4VbF4pXLS.jpg" group-title="VOD - AVENTURA",Los conquistadores
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097533.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elegidos para el triunfo (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngbsLqSDXMYt2i3k4exBjx2LGVP.jpg" group-title="VOD - AVENTURA",Elegidos para el triunfo (1993)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="corazon de dragon 3" tvg-logo="https://th.bing.com/th/id/OIP.AxNHaG1TRif2cwsU7v-T9wHaLG?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",corazon de dragon 3
+#EXTINF:-1 tvg-id="" tvg-name="corazon de dragon 3" tvg-logo="https://image.tmdb.org/t/p/original/qPiyMWZHlRGgQ54roaraS3iJR12.jpg" group-title="VOD - AVENTURA",corazon de dragon 3
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097535.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Narnia: El león, la bruja y el armario (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9WMcPeguI4pmwULmB6LqzPyj1v.jpg" group-title="VOD - SAGAS",Las crónicas de Narnia: El león, la bruja y el armario (2005)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097536.mkv
@@ -8497,7 +8495,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097537.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097538.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cuenta conmigo (1986)" tvg-logo="https://th.bing.com/th/id/R.f7db183f8207f065a80e304c170117b9?rik=vI8H8w4nOeUVBg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-CpwQyZmh9l8%2fUHaPPxPEsCI%2fAAAAAAAAB44%2f6XwihVZPE6Q%2fs1600%2fCuenta%252520conmigo.jpg&ehk=UMR8wqOQowc2EzZ7IWdByZBu90Fy5BviyR%2bxNjoWKqI%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",Cuenta conmigo (1986)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097539.mkv
-#EXTINF:-1 tvg-id="" tvg-name="dan machi the movie" tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2018/06/Poster_Danmachi_peli-1-768x1100.jpg" group-title="VOD - AVENTURA",dan machi the movie
+#EXTINF:-1 tvg-id="" tvg-name="dan machi the movie" tvg-logo="https://image.tmdb.org/t/p/original/i1Vc5fRIb5rTC817QTjNceOYoCm.jpg" group-title="VOD - AVENTURA",dan machi the movie
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097540.mkv
 #EXTINF:-1 tvg-id="" tvg-name="danza con lobos" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/07/02/40/3461958.jpg" group-title="VOD - AVENTURA",danza con lobos
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097541.mkv
@@ -8529,7 +8527,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097555.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097556.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dinosaurio (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg" group-title="VOD - AVENTURA",Dinosaurio (2000)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="dino time 2012" tvg-logo="https://th.bing.com/th/id/OIP.mtnPuBfcZqv_ixb58_U2nQAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",dino time 2012
+#EXTINF:-1 tvg-id="" tvg-name="dino time 2012" tvg-logo="https://image.tmdb.org/t/p/original/pzOkddFfLexWtTozMMvPDUNe0AK.jpg" group-title="VOD - AVENTURA",dino time 2012
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097558.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Divergente (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t36b9yHx1JbrkcpaWPatcDLtEYu.jpg" group-title="VOD - AVENTURA",Divergente (2014)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097559.mkv
@@ -8537,9 +8535,9 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097559.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097560.mkv
 #EXTINF:-1 tvg-id="" tvg-name="dolittle 2020" tvg-logo="https://image.tmdb.org/t/p/original/6ll0CP1o1pa99yntJUrwiEl8XD5.jpg" group-title="VOD - AVENTURA",dolittle 2020
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="donde esta el dragon" tvg-logo="https://th.bing.com/th/id/OIP.fgR6ZXMOtvMbyf_JhhIX-AHaLH?w=1280&h=1920&rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",donde esta el dragon
+#EXTINF:-1 tvg-id="" tvg-name="donde esta el dragon" tvg-logo="https://image.tmdb.org/t/p/original/m5aWg68nrpHAKx6m6Daau11EaJP.jpg" group-title="VOD - AVENTURA",donde esta el dragon
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="donne-moi des ailes 2019" tvg-logo="https://th.bing.com/th/id/OIP.OW64ZElLbsL7xvd9FSjoCAHaJ4?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",donne-moi des ailes 2019
+#EXTINF:-1 tvg-id="" tvg-name="donne-moi des ailes 2019" tvg-logo="https://image.tmdb.org/t/p/original/lboXHR1VQYwTfEZCcgFlZePP2Mc.jpg" group-title="VOD - AVENTURA",donne-moi des ailes 2019
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Doom (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fITzPnmagU97nF455DOBSa5Bgg.jpg" group-title="VOD - AVENTURA",Doom (2005)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097564.mkv
@@ -8553,7 +8551,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097568.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097569.mkv
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball z battle of gods 2013" tvg-logo="https://www.themoviedb.org/t/p/original/eHPAJ7lHFSryvDt6ih7REHNh2QI.jpg" group-title="VOD - AVENTURA",dragon ball z battle of gods 2013
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="dragon ball z bojack unbound 1993" tvg-logo="https://th.bing.com/th/id/OIP.RrVLtBR7sDlP0UrL7BMuKwAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",dragon ball z bojack unbound 1993
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball z bojack unbound 1993" tvg-logo="https://image.tmdb.org/t/p/original/iihTK9Af8G1ZzBjkIIAV4qQMkzF.jpg" group-title="VOD - AVENTURA",dragon ball z bojack unbound 1993
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097571.mkv
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball z fukkatsu no f 2015" tvg-logo="https://th.bing.com/th/id/R.a155c8a0842cc7d430dd8b3cd4f7c746?rik=1WoIk50NKeNHfg&riu=http%3a%2f%2fwww.filmfad.com%2fwp-content%2fuploads%2f2015%2f03%2fDBZ-1-Fukkatsu-no-F-FilmFad.com_.jpg&ehk=0fFVrXiPJLjnCbR1B%2feT5J%2fvqImiCkj4smnXS73Cvr8%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",dragon ball z fukkatsu no f 2015
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097572.mkv
@@ -8579,7 +8577,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097582.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097583.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El cuaderno de Sara (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0UTCila9xN5XqYVDHafHClskKW.jpg" group-title="VOD - AVENTURA",El cuaderno de Sara (2018)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="elephant 2020" tvg-logo="https://cdn.traileraddict.com/content/disneynature/elephant-2020-poster.jpg" group-title="VOD - AVENTURA",elephant 2020
+#EXTINF:-1 tvg-id="" tvg-name="elephant 2020" tvg-logo="https://image.tmdb.org/t/p/original/wvRbUiOuqedyDmwToErkp7wuFCv.jpg" group-title="VOD - AVENTURA",elephant 2020
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097586.mkv
 #EXTINF:-1 tvg-id="" tvg-name="el hechizo del aguila" tvg-logo="https://1.bp.blogspot.com/_NNS6r_z4aeg/TSpZdfEpzvI/AAAAAAAATaE/3SfPQs1v6Mk/s1600/ladyhawke+1985+dvd+cover.jpg" group-title="VOD - AVENTURA",el hechizo del aguila
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097588.mkv
@@ -8589,7 +8587,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097589.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097590.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Paletero (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLAS4FUfmskwJwIoFs23U3tEpnE.jpg" group-title="VOD - AVENTURA",El Paletero (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097591.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El patriota (1928)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9L5mhObh42jRHBBtHZ2J7eC4RTt.jpg" group-title="VOD - AVENTURA",El patriota (1928)
+#EXTINF:-1 tvg-id="" tvg-name="El patriota (1928)" tvg-logo="https://image.tmdb.org/t/p/original/cizgIaq65fpq2Ft08dPmZtUxDYv.jpg" group-title="VOD - AVENTURA",El patriota 
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097592.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El príncipe de Persia: Las arenas del tiempo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhATwS2BVbVvu5ltv8F1aodLTPE.jpg" group-title="VOD - AVENTURA",El príncipe de Persia: Las arenas del tiempo (2010)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097593.mkv
@@ -8635,7 +8633,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097614.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097615.mkv
 #EXTINF:-1 tvg-id="" tvg-name="finding nemo 2003" tvg-logo="https://th.bing.com/th/id/OIP.hfXtSQ1beyz0femcLhebWAHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",finding nemo 2003
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="finding ohana 2021" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk2NDhmNDgtNzQ2ZS00YzU1LTljNjgtY2ZjM2M3OTVlNTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD - AVENTURA",finding ohana 2021
+#EXTINF:-1 tvg-id="" tvg-name="finding ohana 2021" tvg-logo="https://image.tmdb.org/t/p/original/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg" group-title="VOD - AVENTURA",finding ohana 2021
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097617.mkv
 #EXTINF:-1 tvg-id="" tvg-name="First Man (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pssF3UjE7vVgR6z35XFmQz9L44q.jpg" group-title="VOD - AVENTURA",First Man (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097618.mkv
@@ -8649,7 +8647,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097621.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097622.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Furia de titanes (1981)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71oJhAbhCsL._SL1177_.jpg" group-title="VOD - AVENTURA",Furia de titanes (1981)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097623.mkv
-#EXTINF:-1 tvg-id="" tvg-name="gekijoban urutoraman jido tsunagu ze negai ultraman jido 2018" tvg-logo="https://th.bing.com/th/id/OIP.mDbRAs4euwGD5Vao09uP4QHaLG?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",gekijoban urutoraman jido tsunagu ze negai ultraman jido 2018
+#EXTINF:-1 tvg-id="" tvg-name="gekijoban urutoraman jido tsunagu ze negai ultraman jido 2018" tvg-logo="https://image.tmdb.org/t/p/original/1BeeMq1Ul6ic7gjGOCr2lcmJVXZ.jpg" group-title="VOD - AVENTURA",gekijoban urutoraman jido tsunagu ze negai ultraman jido 2018
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097624.mkv
 #EXTINF:-1 tvg-id="" tvg-name="george of the jungle 2 2003" tvg-logo="https://media.senscritique.com/media/000019860020/source_big/George_de_la_Jungle_2.jpg" group-title="VOD - AVENTURA",george of the jungle 2 2003
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097625.mkv
@@ -8667,7 +8665,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097633.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097635.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guardianes de la tumba (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/nZrJlQCMN9aHZwmL3y0n2TVktkt.jpg" group-title="VOD - AVENTURA",Guardianes de la tumba (2018)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097636.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy: Inferno (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ0YzEyNWQtNGJiMi00NTAxLThkNDctNGY2ODkzYWMxZmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD - AVENTURA",Guardians of the Galaxy: Inferno (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy: Inferno (2017)" tvg-logo="https://image.tmdb.org/t/p/original/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="VOD - AVENTURA",Guardians of the Galaxy
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097637.mkv
 #EXTINF:-1 tvg-id="" tvg-name="guardians of the galaxy vol 2" tvg-logo="https://th.bing.com/th/id/OIP.4hfC8HaZjJVfnk3hoshUaQHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",guardians of the galaxy vol 2
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097638.mkv
@@ -8683,9 +8681,9 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097652.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097653.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hercules (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q9Ic0Q4vMcs2AbTE640fRuB0Qe.jpg" group-title="VOD - AVENTURA",Hercules (2014)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="hidalgo 2004" tvg-logo="https://th.bing.com/th/id/R.b9a9f7598f77db9678042f2cc7d7ee83?rik=dmZAhGSaQK02Wg&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",hidalgo 2004
+#EXTINF:-1 tvg-id="" tvg-name="hidalgo 2004" tvg-logo="https://image.tmdb.org/t/p/original/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg" group-title="VOD - AVENTURA",hidalgo 2004
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Highlander" tvg-logo="https://th.bing.com/th/id/OIP.T-oHjuneUtvf2lDmMfh2PwHaKo?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",Highlander
+#EXTINF:-1 tvg-id="" tvg-name="Highlander" tvg-logo="https://image.tmdb.org/t/p/original/8Z8dptJEypuLoOQro1WugD855YE.jpg" group-title="VOD - AVENTURA",Highlander
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097656.mkv
 #EXTINF:-1 tvg-id="" tvg-name="highlander II the quickening" tvg-logo="https://th.bing.com/th/id/OIP.L7gNZJiD7q8TjOEDlmg-ZgAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",highlander II the quickening
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097657.mkv
@@ -8693,7 +8691,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097657.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097658.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Holmes & Watson (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61JOUNb35q6NRYoX4wgnrO3E3EH.jpg" group-title="VOD - AVENTURA",Holmes & Watson (2018)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="homeward bound the incredible journey" tvg-logo="https://th.bing.com/th/id/R.9ba54fd0bd8bbb96e0e034d2a5c48a6f?rik=lQhgKiUEBUShLg&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",homeward bound the incredible journey
+#EXTINF:-1 tvg-id="" tvg-name="homeward bound the incredible journey" tvg-logo="https://image.tmdb.org/t/p/original/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg" group-title="VOD - AVENTURA",homeward bound the incredible journey
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Querida Encogi a los Niños" tvg-logo="https://imgmedia.larepublica.pe/640x838/larepublica/migration/images/Z3J4ENMJLRECTI5BI7NMI54J7E.webp" group-title="VOD - AVENTURA",Querida Encogi a los Niños
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097661.mkv
@@ -8701,11 +8699,11 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097661.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097663.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hostiles (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="VOD - AVENTURA",Hostiles (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097664.mkv
-#EXTINF:-1 tvg-id="" tvg-name="how to train your dragon the hidden world 2018" tvg-logo="https://th.bing.com/th/id/OIP.o2eIWJ1dg-HyTcauA187KwHaLu?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",how to train your dragon the hidden world 2018
+#EXTINF:-1 tvg-id="" tvg-name="how to train your dragon the hidden world 2018" tvg-logo="https://image.tmdb.org/t/p/original/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="VOD - AVENTURA",how to train your dragon the hidden world 2018
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097665.mkv
 #EXTINF:-1 tvg-id="" tvg-name="hundraaringen 2" tvg-logo="https://th.bing.com/th/id/OIP._rmD4m3jPsm2X9cmTn_yugHaKe?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",hundraaringen 2
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097666.mkv
-#EXTINF:-1 tvg-id="" tvg-name="hunt for the wilderpeople" tvg-logo="https://th.bing.com/th/id/R.3dec4285718f6f0a9859f0a7f23bd7e4?rik=TtzZzyfdBvvL8w&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",hunt for the wilderpeople
+#EXTINF:-1 tvg-id="" tvg-name="hunt for the wilderpeople" tvg-logo="https://image.tmdb.org/t/p/original/hkmz9rxgcweizXNElozGeKwmAJE.jpg" group-title="VOD - AVENTURA",hunt for the wilderpeople
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097667.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el reino de la calavera de cristal - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGG1Ljd0ULYHOegN8Qm3r1ndXhE.jpg" group-title="VOD - SAGAS",Indiana Jones y el reino de la calavera de cristal - 2008
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097668.mkv
@@ -8719,7 +8717,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097673.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097674.mkv
 #EXTINF:-1 tvg-id="" tvg-name="inuyasha the movie affections touching across time 2001" tvg-logo="https://www.themoviedb.org/t/p/original/8N1EsafpP8vLDht6dosdaf735Ej.jpg" group-title="VOD - AVENTURA",inuyasha the movie affections touching across time 2001
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="invader zim enter the florpus 2019" tvg-logo="https://th.bing.com/th/id/OIP.3o0p4fWlpfspa0Vy05OO4AHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",invader zim enter the florpus 2019
+#EXTINF:-1 tvg-id="" tvg-name="invader zim enter the florpus 2019" tvg-logo="https://image.tmdb.org/t/p/original/lYy5EBxl8cwpyejcy85LgSdf34m.jpg" group-title="VOD - AVENTURA",invader zim enter the florpus 2019
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097676.mkv
 #EXTINF:-1 tvg-id="" tvg-name="jack londons white fang" tvg-logo="https://th.bing.com/th/id/R.3efc2dacd91319edbca6ee103662038d?rik=HVqB651Hb2H0Rw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-x8963YfEg5k%2fVOuqZ83MU8I%2fAAAAAAAAS_0%2fYzs7_LBh6uE%2fs1600%2fwhitefang.jpg&ehk=P87%2f0B71%2b6ybvHWo5RB3t1OV7QEvetf46vveOY7TZg8%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",jack londons white fang
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097677.mkv
@@ -8745,7 +8743,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097686.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097687.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (Parque Jurásico) (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="VOD - SAGAS",Jurassic Park (Parque Jurásico) (1993)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097688.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kaijuu no kodomo 2019" tvg-logo="https://th.bing.com/th/id/OIP.hdNej_mvgmbO-Dh_svWp9wHaKf?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",kaijuu no kodomo 2019
+#EXTINF:-1 tvg-id="" tvg-name="kaijuu no kodomo 2019" tvg-logo="https://image.tmdb.org/t/p/original/9Fch8X5C5yW2srPVBiq6LNRvwd.jpg" group-title="VOD - AVENTURA",kaijuu no kodomo 2019
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097692.mkv
 #EXTINF:-1 tvg-id="" tvg-name="keplers dream 2017" tvg-logo="https://worldfilmgeek.files.wordpress.com/2017/11/keplersdream.jpg" group-title="VOD - AVENTURA",keplers dream 2017
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097694.mkv
@@ -8767,13 +8765,13 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097701.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097702.mkv
 #EXTINF:-1 tvg-id="" tvg-name="knight and day" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a7JmOBMNj5erYTgt4u1mQgvHItu.jpg" group-title="VOD - AVENTURA",knight and day
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097703.mkv
-#EXTINF:-1 tvg-id="" tvg-name="knights of badassdom" tvg-logo="https://th.bing.com/th/id/R.401afffd48158908ad1f530bfac7983b?rik=NIoE3JFox0zKoQ&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",knights of badassdom
+#EXTINF:-1 tvg-id="" tvg-name="knights of badassdom" tvg-logo="https://image.tmdb.org/t/p/original/7TP8E4nTqT0SFkwlj2kYRfMRwfH.jpg" group-title="VOD - AVENTURA",knights of badassdom
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kong skull island" tvg-logo="https://th.bing.com/th/id/OIP.7YiKVvnLKo04R3_KG3qeEQHaJ4?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",kong skull island
+#EXTINF:-1 tvg-id="" tvg-name="kong skull island" tvg-logo="https://image.tmdb.org/t/p/original/3jvAfm6caSLkDeJKsfbC1ttdLAE.jpg" group-title="VOD - AVENTURA",kong skull island
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097705.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJlyA7f4kMus9xK1ZUzq98rwcmz.jpg" group-title="VOD - AVENTURA",Kung Fu Yoga (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097706.mkv
-#EXTINF:-1 tvg-id="" tvg-name="la bruja de los cabellos blancos" tvg-logo="https://th.bing.com/th/id/R.f588e75429d755773af2a857f3e15ef1?rik=9wqvTbJA571ZLA&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",la bruja de los cabellos blancos
+#EXTINF:-1 tvg-id="" tvg-name="la bruja de los cabellos blancos" tvg-logo="https://image.tmdb.org/t/p/original/wsKijqhCPcIh80DKm07C1bfONMG.jpg" group-title="VOD - AVENTURA",la bruja de los cabellos blancos
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097707.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Labyrinth" tvg-logo="https://i1.wp.com/www.my-sf.com/wp-content/uploads/2016/01/Labyrinth-poster.jpeg?fit=1249%2C1713&ssl=1" group-title="VOD - AVENTURA",The Labyrinth
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097708.mkv
@@ -8789,7 +8787,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097716.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097717.mkv
 #EXTINF:-1 tvg-id="" tvg-name="la leyenda del diamante 2017" tvg-logo="https://th.bing.com/th/id/OIP.4F6aGSgi9mjNcXbmhzrWWwAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",la leyenda del diamante 2017
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="la leyenda del jinete sin cabeza" tvg-logo="https://www.elsotano.com/imagenes/7502275/750227567168.JPG" group-title="VOD - AVENTURA",la leyenda del jinete sin cabeza
+#EXTINF:-1 tvg-id="" tvg-name="la leyenda del jinete sin cabeza" tvg-logo="https://image.tmdb.org/t/p/original/7DgCv4sOScbIo99VPcTXk7C4UQD.jpg" group-title="VOD - AVENTURA",la leyenda del jinete sin cabeza
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097719.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Odisea (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1C8IaftKueVq3ayANjhJ4hT7hns.jpg" group-title="VOD - AVENTURA",La Odisea (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097720.mkv
@@ -8839,7 +8837,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097748.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="los siete pecados capitales prisioneros del cielo" tvg-logo="https://th.bing.com/th/id/OIP.44dKeme5yM3pYLi_4Q7inwHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",los siete pecados capitales prisioneros del cielo
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="lost in space 1998" tvg-logo="https://th.bing.com/th/id/R.a11106b6ac71e46cae4990ac5b91e9ca?rik=yJG7DyHE2hjvXQ&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",lost in space 1998
+#EXTINF:-1 tvg-id="" tvg-name="lost in space 1998" tvg-logo="https://image.tmdb.org/t/p/original/fCocPDUFuKswY2GxDdfYsT9BXMd.jpg" group-title="VOD - AVENTURA",lost in space 1998
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097751.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los viajes de Gulliver (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AdbmSYBu1N70vx8ytkRRhLyD3l.jpg" group-title="VOD - AVENTURA",Los viajes de Gulliver (1983)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097752.mkv
@@ -8909,7 +8907,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097784.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097785.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Noticias del gran mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW1V0lNs7LSM8VFVjyFslrk7NbK.jpg" group-title="VOD - AVENTURA",Noticias del gran mundo (2020)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097786.mkv
-#EXTINF:-1 tvg-id="" tvg-name="next gen" tvg-logo="https://th.bing.com/th/id/R.68948106629af0accdbc46455de749ce?rik=rfyjndVjSvm50Q&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",next gen
+#EXTINF:-1 tvg-id="" tvg-name="next gen" tvg-logo="https://image.tmdb.org/t/p/original/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg" group-title="VOD - AVENTURA",next gen
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097787.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Noah (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNVZ4ZZ5DgO9V0ylUCnP05iKJsq.jpg" group-title="VOD - AVENTURA",Noah (2014)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097788.mkv
@@ -9017,7 +9015,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097841.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097842.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lupin III: El castillo de Cagliostro (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pIZhSNcKSSc0u9venlWcGhaA7V.jpg" group-title="VOD - AVENTURA",Lupin III: El castillo de Cagliostro (1979)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samson and Delilah (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5BD4rNvGthCZSoJzJsIO8bQJhA.jpg" group-title="VOD - AVENTURA",Samson and Delilah (2009)
+#EXTINF:-1 tvg-id="" tvg-name="Samson and Delilah (2009)" tvg-logo="https://image.tmdb.org/t/p/original/d2AHCe6WzvshD7ucKuUWgugExjc.jpg" group-title="VOD - AVENTURA",Samson and Delilah 
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097844.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Santana (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg" group-title="VOD - ACCION",Santana (2020)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097845.mkv
@@ -9147,7 +9145,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097911.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El puente sobre el río Kwai (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uKyonXIGiVub5RtJKaPgGevlI.jpg" group-title="VOD - ACCION",El puente sobre el río Kwai (1957)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097913.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Count of Monte Cristo (1913)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCNOpymNqWo1RSXKucAkkFQ0o8B.jpg" group-title="VOD - ACCION",The Count of Monte Cristo (1913)
+#EXTINF:-1 tvg-id="" tvg-name="The Count of Monte Cristo (1913)" tvg-logo="https://image.tmdb.org/t/p/original/aoKzR82lgcle1NmlayZ9wURhwFa.jpg" group-title="VOD - ACCION",El conde de Montecristo (2002)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097915.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los decentes (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei8hui2aB2vqVID3UxxAu4lulaI.jpg" group-title="VOD - ACCION",Los decentes (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097917.mkv
@@ -9155,13 +9153,13 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097917.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097918.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Last Descent (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqmxWYRLXhZorcZmnGCTZIRkaHg.jpg" group-title="VOD - ACCION",The Last Descent (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Eagle (1918)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ae7UlYdL8WdEHVHmR1cf29P7wuq.jpg" group-title="VOD - ACCION",The Eagle (1918)
+#EXTINF:-1 tvg-id="" tvg-name="The Eagle (1918)" tvg-logo="https://image.tmdb.org/t/p/original/mbsdwO4lfIARqt35VVTM0UlYkhZ.jpg" group-title="VOD - ACCION",La legión del Aguila (2011)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097920.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Edge (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svzWrChqH8uDTMzTBAfwTI1pyAX.jpg" group-title="VOD - ACCION",The Edge (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Finest Hours (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/250YNnD82wcR7MDcML4Nt4Bz4pQ.jpg" group-title="VOD - ACCION",The Finest Hours (1964)
+#EXTINF:-1 tvg-id="" tvg-name="The Finest Hours (1964)" tvg-logo="https://image.tmdb.org/t/p/original/2XfgkgvneHVONkSJGynDadPNWl3.jpg" group-title="VOD - ACCION",Horas contadas (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El vuelo del Fénix (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTLtQdW2rbFHOFvpw2nNUdv3Fbn.jpg" group-title="VOD - ACCION",El vuelo del Fénix (1965)
+#EXTINF:-1 tvg-id="" tvg-name="El vuelo del Fénix (1965)" tvg-logo="https://image.tmdb.org/t/p/original/8cpSS5HsR2nTfHi8NMKK8muM0u2.jpg" group-title="VOD - ACCION",El vuelo del Fénix (1965)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097923.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3NM5Lk7iIUI03ImIbH7Ihn8J7w.jpg" group-title="VOD - ACCION",Los Picapiedra (1994)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097924.mkv
@@ -9199,7 +9197,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097942.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097943.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The King (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klNTYggqlNmaydWLYWvpPu9mVam.jpg" group-title="VOD - ACCION",The King (2019)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097944.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Last of the Mohicans (1920)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eJhlJazUfO7erhAzChYrfX34tE.jpg" group-title="VOD - ACCION",The Last of the Mohicans (1920)
+#EXTINF:-1 tvg-id="" tvg-name="The Last of the Mohicans (1920)" tvg-logo="https://image.tmdb.org/t/p/original/vXFllKrGvrquUHR6Z57jHCgSUJ6.jpg" group-title="VOD - ACCION",El último de los mohicanos (1992)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097945.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mifune: The Last Samurai (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbw2XCXizwMu1YahePTLFX4LrJK.jpg" group-title="VOD - ACCION",Mifune: The Last Samurai (2016)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097946.mkv
@@ -9213,19 +9211,19 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097949.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Inside 'The Living Daylights' (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meQTLM1Sd36kpYVrPcghhhqjfZq.jpg" group-title="VOD - ACCION",Inside 'The Living Daylights' (2000)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097952.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Enter the Lone Ranger (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2GU7VdBhdbaPPQwCXtE6fwmjqq.jpg" group-title="VOD - ACCION",Enter the Lone Ranger (1949)
+#EXTINF:-1 tvg-id="" tvg-name="Enter the Lone Ranger (1949)" tvg-logo="https://image.tmdb.org/t/p/original/j2ZyS1EnkWZDmviwtu8UsTUzBtc.jpg" group-title="VOD - ACCION",El Llanero Solitario (2013)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097953.mkv
 #EXTINF:-1 tvg-id="" tvg-name="the lord of the rings" tvg-logo="https://th.bing.com/th/id/OIP.3QgVSHiqx8jGSf4-64zNCgHaK_?rs=1&pid=ImgDetMain" group-title="VOD - ACCION",the lord of the rings
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097954.mkv
 #EXTINF:-1 tvg-id="" tvg-name="the lord of the rings the fellowship of the ring" tvg-logo="https://th.bing.com/th/id/R.84e406df9c9292eb20dea838d27d86e5?rik=agTpyv%2blL5K%2fOA&pid=ImgRaw&r=0" group-title="VOD - ACCION",the lord of the rings the fellowship of the ring
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097955.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Losers (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sACpCXxQY06j6E8WkvDuHwkbEVC.jpg" group-title="VOD - ACCION",The Losers (1963)
+#EXTINF:-1 tvg-id="" tvg-name="The Losers (1963)" tvg-logo="https://image.tmdb.org/t/p/original/8LQbYFfCSIhxx7HdPI2tlGyvTHu.jpg" group-title="VOD - ACCION",Los perdedores (2010)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097958.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Lost City of D (2022)" tvg-logo="https://th.bing.com/th/id/R.d967cd5a1e953f0570a65ee868d7ceea?rik=QFR7%2fxpFLNdvyQ&pid=ImgRaw&r=0" group-title="VOD - ACCION",The Lost City of D (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Lost City of D (2022)" tvg-logo="https://image.tmdb.org/t/p/original/mu4A882Ew1ng04GFTRVZrViJBZ0.jpg" group-title="VOD - ACCION",Z la ciudad perdida (2017)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097959.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Lost Viking (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gFHSGKV5EZxJe6d6qsROpAiBgQ.jpg" group-title="VOD - ACCION",The Lost Viking (2018)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097960.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Man in the Iron Mask (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TslLkfynIwGKFr69s9ElOo7HT3.jpg" group-title="VOD - ACCION",The Man in the Iron Mask (1998)
+#EXTINF:-1 tvg-id="" tvg-name="The Man in the Iron Mask (1998)" tvg-logo="https://image.tmdb.org/t/p/original/bSKCpuBWbCSyjHAnUSjXMIPhjQx.jpg" group-title="VOD - ACCION",El hombre de la máscara de hierro (1998)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097962.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hombre que mató a Don Quijote (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TqXxziTk8zaTE5xzNWdBBzu53J.jpg" group-title="VOD - ACCION",El hombre que mató a Don Quijote (2018)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097963.mkv
@@ -9257,7 +9255,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097976.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097977.mkv
 #EXTINF:-1 tvg-id="" tvg-name="the physician" tvg-logo="https://m.media-amazon.com/images/I/91GTuF0Mp3L.jpg" group-title="VOD - ACCION",the physician
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097978.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La aventura del Poseidón (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3Ozx85FSgiHZl1LgmxhRMkVTSz.jpg" group-title="VOD - ACCION",La aventura del Poseidón (1972)
+#EXTINF:-1 tvg-id="" tvg-name="La aventura del Poseidón (1972)" tvg-logo="https://image.tmdb.org/t/p/original/jinHRdnVq6ZjgL8gFINbHXsmC8E.jpg" group-title="VOD - ACCION",La aventura del Poseidón (1972)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097979.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El príncipe de Egipto (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKY3R88Tod1tlj4QfpudqKpXKC0.jpg" group-title="VOD - ACCION",El príncipe de Egipto (1998)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1097980.mkv
@@ -9303,13 +9301,13 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1098000.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1098001.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los tres mosqueteros (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKMB498JwFzKiEfcJ5Vao8A1no7.jpg" group-title="VOD - ANIMACION",Los tres mosqueteros (2011)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1098002.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Time Machine (1949)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVhNWMxZjktNjhiZS00MzhjLTk5ODUtNjNhYTFkZWUyNDZjXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg" group-title="VOD - ACCION",The Time Machine (1949)
+#EXTINF:-1 tvg-id="" tvg-name="The Time Machine (1949)" tvg-logo="https://image.tmdb.org/t/p/original/inlKGOjGq6R2JDl0q4hlmwKepYs.jpg" group-title="VOD - ACCION",La máquina del tiempo (2002)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1098003.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El camino del guerrero (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkXo3NZhx2cASS1cjMKnsjJ1ftI.jpg" group-title="VOD - ACCION",El camino del guerrero (2010)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1098004.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El maestro del agua (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izgxihtqAFM3Z9DGBNXrgCVa2xt.jpg" group-title="VOD - ACCION",El maestro del agua (2014)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1098005.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Wizard of Oz (1933)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5sfxM2sDv7SwMh4GAGLgLOSl8R.jpg" group-title="VOD - ACCION",The Wizard of Oz (1933)
+#EXTINF:-1 tvg-id="" tvg-name="The Wizard of Oz (1933)" tvg-logo="https://image.tmdb.org/t/p/original/y0rK92qT5ftgveVAKn2hHr4FKT7.jpg" group-title="VOD - ACCION",El mago de Oz (1939)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1098006.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Año uno (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RdmUfWqmt7SnYaBR89NoYTVQZc.jpg" group-title="VOD - ACCION",Año uno (2009)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1098008.mkv
@@ -12261,7 +12259,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1099553.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1099554.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La maldición de Damien (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRia8oAQHOxpDTEGnTExsibROU.jpg" group-title="VOD - SUSPENSO",La maldición de Damien (1978)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1099555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ladronas de Almas (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTI2YjEwOGMtMmIwYi00OWU2LThkM2UtYjQyNzI4NWNmOGFmXkEyXkFqcGdeQXVyMjcyMTkwOQ@@._V1_.jpg" group-title="VOD - TERROR",Ladronas de Almas (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Ladronas de Almas (2015)" tvg-logo="https://image.tmdb.org/t/p/original/j5xJwhFzWxN9Z9f7VSESc6bitgh.jpg" group-title="VOD - TERROR",Ladronas de Almas (2015)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1099556.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La marca del demonio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg" group-title="VOD - TERROR",La marca del demonio (2020)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1099557.mkv
@@ -14921,7 +14919,7 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1123211.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1123212.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Sadness - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhjLvPWcdFoCatk8rMhOYfAT44Q.jpg" group-title="VOD - ACCION",The Sadness - 2021
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1123255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Salem’s Lot (2004)" tvg-logo="https://unsoloclic.info/wp-content/uploads/2021/02/MV5BMTQzMzQ2Nzg5M15BMl5BanBnXkFtZTYwOTU1Mjk2._V1_FMjpg_UX404_1.jpg" group-title="VOD - TERROR",Salem’s Lot (2004)
+#EXTINF:-1 tvg-id="" tvg-name="Salem’s Lot (2004)" tvg-logo="https://image.tmdb.org/t/p/original/aJ3srEFuZWUlFiOBBueujrC7lj6.jpg" group-title="VOD - TERROR",Salem’s Lot (2004)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1123507.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Salem’s Lot (1979)" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F046%2F792%2Fel-misterio-de-salems-lot-1.jpg&nuevoancho=690&medio=abc" group-title="VOD - TERROR",Salem’s Lot (1979)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1123560.mkv
@@ -21259,6 +21257,11 @@ https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1287743.mkv
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1288463.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dead Man's Wire (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg" group-title="VOD - CRIMEN",Dead Man's Wire (2025)
 https://tv.nousiptv.com:8443/movie/Janet1234/Deerpark5678/1288464.mkv
+
+
+
+
+
 
 
 
