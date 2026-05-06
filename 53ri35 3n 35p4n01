@@ -5488,6 +5488,23 @@ http://series.tuxchannel.mx/series/el_presidente/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/05/13/17/09/5151015.jpg" group-title="El Presidente",Cap. 08
 http://series.tuxchannel.mx/series/el_presidente/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsKWS6BwdKbS9nrE38V0500TKoX.jpg" group-title="El profe T1",Cap. 01
+http://series.tuxchannel.mx/series/recale/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsKWS6BwdKbS9nrE38V0500TKoX.jpg" group-title="El profe T1",Cap. 02
+http://series.tuxchannel.mx/series/recale/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsKWS6BwdKbS9nrE38V0500TKoX.jpg" group-title="El profe T1",Cap. 03
+http://series.tuxchannel.mx/series/recale/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsKWS6BwdKbS9nrE38V0500TKoX.jpg" group-title="El profe T1",Cap. 04
+http://series.tuxchannel.mx/series/recale/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsKWS6BwdKbS9nrE38V0500TKoX.jpg" group-title="El profe T1",Cap. 05
+http://series.tuxchannel.mx/series/recale/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsKWS6BwdKbS9nrE38V0500TKoX.jpg" group-title="El profe T1",Cap. 06
+http://series.tuxchannel.mx/series/recale/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsKWS6BwdKbS9nrE38V0500TKoX.jpg" group-title="El profe T1",Cap. 07
+http://series.tuxchannel.mx/series/recale/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsKWS6BwdKbS9nrE38V0500TKoX.jpg" group-title="El profe T1",Cap. 08
+http://series.tuxchannel.mx/series/recale/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El Reino",TRAILER
 https://archive.org/download/trailer-3l-r-31n-0_202209/trailer%203l%20R31n0.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/12/14/4668713.jpg" group-title="El Reino",Cap. 01
