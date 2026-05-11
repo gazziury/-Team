@@ -1,7 +1,5 @@
 #EXTM3U
 
-http://turbocdn.sbs/live/8826852/2672534/91749.m3u
-
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA SD" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA SD
 http://turbocdn.sbs/live/8826852/2672534/91749.m3u
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA HD" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA HD
@@ -14,205 +12,205 @@ http://turbocdn.sbs/live/8826852/2672534/1562105.m3u
 http://turbocdn.sbs/live/8826852/2672534/1579815.m3u
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E HD
 http://turbocdn.sbs/live/8826852/2672534/1579816.m3u
-
-
-
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1036357.m3u
+http://turbocdn.sbs/live/8826852/2672534/1036357.m3u
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E FHD H265
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1579817.m3u
+http://turbocdn.sbs/live/8826852/2672534/1579817.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A&E FHD 4K" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E FHD 4K
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1562106.m3u
+http://turbocdn.sbs/live/8826852/2672534/1562106.m3u
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0090_TNT.png" group-title="Canais | Brasil",TNT SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1190.m3u
+http://turbocdn.sbs/live/8826852/2672534/1190.m3u
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0090_TNT.png" group-title="Canais | Brasil",TNT HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/900560.m3u
+http://turbocdn.sbs/live/8826852/2672534/900560.m3u
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0090_TNT.png" group-title="Canais | Brasil",TNT FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1192.m3u
+http://turbocdn.sbs/live/8826852/2672534/1192.m3u
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0090_TNT.png" group-title="Canais | Brasil",TNT FHD H265
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1193.m3u
+http://turbocdn.sbs/live/8826852/2672534/1193.m3u
 #EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series SD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0089_TNT-S%C3%89RIES.png" group-title="Canais | Brasil",TNT Series SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1194.m3u
+http://turbocdn.sbs/live/8826852/2672534/1194.m3u
 #EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series HD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0089_TNT-S%C3%89RIES.png" group-title="Canais | Brasil",TNT Series HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1195.m3u
+http://turbocdn.sbs/live/8826852/2672534/1195.m3u
 #EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0089_TNT-S%C3%89RIES.png" group-title="Canais | Brasil",TNT Series FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1196.m3u
+http://turbocdn.sbs/live/8826852/2672534/1196.m3u
 #EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series FHD H265" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0089_TNT-S%C3%89RIES.png" group-title="Canais | Brasil",TNT Series FHD H265
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1197.m3u
+http://turbocdn.sbs/live/8826852/2672534/1197.m3u
 #EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas SD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0088_TNT-NOVELAS.png" group-title="Canais | Brasil",TNT Novelas SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/602.m3u
+http://turbocdn.sbs/live/8826852/2672534/602.m3u
 #EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas HD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0088_TNT-NOVELAS.png" group-title="Canais | Brasil",TNT Novelas HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/603.m3u
+http://turbocdn.sbs/live/8826852/2672534/603.m3u
 #EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0088_TNT-NOVELAS.png" group-title="Canais | Brasil",TNT Novelas FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/604.m3u
+http://turbocdn.sbs/live/8826852/2672534/604.m3u
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0091_TLC.png" group-title="Canais | Brasil",TLC SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/109.m3u
+http://turbocdn.sbs/live/8826852/2672534/109.m3u
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0091_TLC.png" group-title="Canais | Brasil",TLC HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/110.m3u
+http://turbocdn.sbs/live/8826852/2672534/110.m3u
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0091_TLC.png" group-title="Canais | Brasil",TLC FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/111.m3u
+http://turbocdn.sbs/live/8826852/2672534/111.m3u
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0094_SPACE.png" group-title="Canais | Brasil",Space SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1201.m3u
+http://turbocdn.sbs/live/8826852/2672534/1201.m3u
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0094_SPACE.png" group-title="Canais | Brasil",Space HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1202.m3u
+http://turbocdn.sbs/live/8826852/2672534/1202.m3u
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0094_SPACE.png" group-title="Canais | Brasil",Space FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1203.m3u
+http://turbocdn.sbs/live/8826852/2672534/1203.m3u
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD H265" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0094_SPACE.png" group-title="Canais | Brasil",Space FHD H265
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1204.m3u
+http://turbocdn.sbs/live/8826852/2672534/1204.m3u
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MegaPix SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0096_MEGA-PIX.png" group-title="Canais | Brasil",MegaPix SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1198.m3u
+http://turbocdn.sbs/live/8826852/2672534/1198.m3u
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0096_MEGA-PIX.png" group-title="Canais | Brasil",Megapix HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1199.m3u
+http://turbocdn.sbs/live/8826852/2672534/1199.m3u
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0096_MEGA-PIX.png" group-title="Canais | Brasil",Megapix FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1200.m3u
+http://turbocdn.sbs/live/8826852/2672534/1200.m3u
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0097_CINEMAX.png" group-title="Canais | Brasil",Cinemax SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1217.m3u
+http://turbocdn.sbs/live/8826852/2672534/1217.m3u
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0097_CINEMAX.png" group-title="Canais | Brasil",Cinemax HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1218.m3u
+http://turbocdn.sbs/live/8826852/2672534/1218.m3u
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0097_CINEMAX.png" group-title="Canais | Brasil",Cinemax FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1219.m3u
+http://turbocdn.sbs/live/8826852/2672534/1219.m3u
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD H265" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0097_CINEMAX.png" group-title="Canais | Brasil",Cinemax FHD H265
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1220.m3u
+http://turbocdn.sbs/live/8826852/2672534/1220.m3u
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0098_SONY.png" group-title="Canais | Brasil",Canal Sony SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1209.m3u
+http://turbocdn.sbs/live/8826852/2672534/1209.m3u
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0098_SONY.png" group-title="Canais | Brasil",Canal Sony HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1210.m3u
+http://turbocdn.sbs/live/8826852/2672534/1210.m3u
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0098_SONY.png" group-title="Canais | Brasil",Canal Sony FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1211.m3u
+http://turbocdn.sbs/live/8826852/2672534/1211.m3u
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD H265" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0098_SONY.png" group-title="Canais | Brasil",Canal Sony FHD H265
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1212.m3u
+http://turbocdn.sbs/live/8826852/2672534/1212.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 1 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 1 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614304.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614304.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 1 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 1 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614305.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614305.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 1 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 1 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614306.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614306.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 2 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 2 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614309.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614309.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 2 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 2 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614308.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614308.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 2 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 2 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614307.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614307.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 3 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 3 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614312.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614312.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 3 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 3 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614311.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614311.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 3 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 3 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1614310.m3u
+http://turbocdn.sbs/live/8826852/2672534/1614310.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 4 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 4 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1048547.m3u
+http://turbocdn.sbs/live/8826852/2672534/1048547.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 4 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 4 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1048548.m3u
+http://turbocdn.sbs/live/8826852/2672534/1048548.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 4 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 4 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1048550.m3u
+http://turbocdn.sbs/live/8826852/2672534/1048550.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 5 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 5 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1048551.m3u
+http://turbocdn.sbs/live/8826852/2672534/1048551.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 5 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 5 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1048552.m3u
+http://turbocdn.sbs/live/8826852/2672534/1048552.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 5 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 5 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1048553.m3u
+http://turbocdn.sbs/live/8826852/2672534/1048553.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 6 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 6 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049099.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049099.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 6 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 6 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049101.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049101.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 6 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 6 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049102.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049102.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 7 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 7 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049103.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049103.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 7 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 7 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049104.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049104.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 7 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 7 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049106.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049106.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 8 SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 8 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049116.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049116.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 8 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 8 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049117.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049117.m3u
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime 8 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/primevideo.png" group-title="Canais | Brasil",Amazon Prime 8 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1049118.m3u
+http://turbocdn.sbs/live/8826852/2672534/1049118.m3u
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="Canais | Brasil",AMC SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/779466.m3u
+http://turbocdn.sbs/live/8826852/2672534/779466.m3u
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="Canais | Brasil",AMC HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/779467.m3u
+http://turbocdn.sbs/live/8826852/2672534/779467.m3u
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="Canais | Brasil",AMC FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1213.m3u
+http://turbocdn.sbs/live/8826852/2672534/1213.m3u
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC LEG SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="Canais | Brasil",AMC LEG SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/129788.m3u
+http://turbocdn.sbs/live/8826852/2672534/129788.m3u
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC LEG HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="Canais | Brasil",AMC LEG HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/130263.m3u
+http://turbocdn.sbs/live/8826852/2672534/130263.m3u
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC LEG FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0102_AMC.png" group-title="Canais | Brasil",AMC LEG FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/343619.m3u
+http://turbocdn.sbs/live/8826852/2672534/343619.m3u
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0066_animal-planet.png" group-title="Canais | Brasil",Animal Planet SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1010.m3u
+http://turbocdn.sbs/live/8826852/2672534/1010.m3u
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0066_animal-planet.png" group-title="Canais | Brasil",Animal Planet HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1577381.m3u
+http://turbocdn.sbs/live/8826852/2672534/1577381.m3u
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0066_animal-planet.png" group-title="Canais | Brasil",Animal Planet FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1013.m3u
+http://turbocdn.sbs/live/8826852/2672534/1013.m3u
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD H265" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0066_animal-planet.png" group-title="Canais | Brasil",Animal Planet FHD H265
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1011.m3u
+http://turbocdn.sbs/live/8826852/2672534/1011.m3u
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0064_ARTE1.png" group-title="Canais | Brasil",Arte 1 SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1014.m3u
+http://turbocdn.sbs/live/8826852/2672534/1014.m3u
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0064_ARTE1.png" group-title="Canais | Brasil",Arte 1 HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1015.m3u
+http://turbocdn.sbs/live/8826852/2672534/1015.m3u
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0064_ARTE1.png" group-title="Canais | Brasil",Arte 1 FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1016.m3u
+http://turbocdn.sbs/live/8826852/2672534/1016.m3u
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0101_AXN.png" group-title="Canais | Brasil",AXN SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1156.m3u
+http://turbocdn.sbs/live/8826852/2672534/1156.m3u
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0101_AXN.png" group-title="Canais | Brasil",AXN HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1157.m3u
+http://turbocdn.sbs/live/8826852/2672534/1157.m3u
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0101_AXN.png" group-title="Canais | Brasil",AXN FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1158.m3u
+http://turbocdn.sbs/live/8826852/2672534/1158.m3u
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0101_AXN.png" group-title="Canais | Brasil",AXN FHD H265
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1159.m3u
+http://turbocdn.sbs/live/8826852/2672534/1159.m3u
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/85465.m3u
+http://turbocdn.sbs/live/8826852/2672534/85465.m3u
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/85464.m3u
+http://turbocdn.sbs/live/8826852/2672534/85464.m3u
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band SP SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/85466.m3u
+http://turbocdn.sbs/live/8826852/2672534/85466.m3u
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band SP HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/831592.m3u
+http://turbocdn.sbs/live/8826852/2672534/831592.m3u
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band SP FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/831593.m3u
+http://turbocdn.sbs/live/8826852/2672534/831593.m3u
 #EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band RJ SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/831594.m3u
+http://turbocdn.sbs/live/8826852/2672534/831594.m3u
 #EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band RJ HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/831595.m3u
+http://turbocdn.sbs/live/8826852/2672534/831595.m3u
 #EXTINF:-1 tvg-id="Bandrj.br" tvg-name="Band RJ FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band RJ FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/831596.m3u
+http://turbocdn.sbs/live/8826852/2672534/831596.m3u
 #EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band MG SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band MG SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/343573.m3u
+http://turbocdn.sbs/live/8826852/2672534/343573.m3u
 #EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band MG HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band MG HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/588084.m3u
+http://turbocdn.sbs/live/8826852/2672534/588084.m3u
 #EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band MG FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band MG FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/129699.m3u
+http://turbocdn.sbs/live/8826852/2672534/129699.m3u
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band Campinas SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Campinas SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/835847.m3u
+http://turbocdn.sbs/live/8826852/2672534/835847.m3u
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band Campinas HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Campinas HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/835848.m3u
+http://turbocdn.sbs/live/8826852/2672534/835848.m3u
 #EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band Campinas FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Campinas FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/835849.m3u
+http://turbocdn.sbs/live/8826852/2672534/835849.m3u
 #EXTINF:-1 tvg-id="Bandba.br" tvg-name="Band Bahia HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Bahia HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/797199.m3u
+http://turbocdn.sbs/live/8826852/2672534/797199.m3u
 #EXTINF:-1 tvg-id="Bandrs.br" tvg-name="Band RS SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band RS SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/796770.m3u
+http://turbocdn.sbs/live/8826852/2672534/796770.m3u
 #EXTINF:-1 tvg-id="Bandrs.br" tvg-name="Band RS HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band RS HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/796769.m3u
+http://turbocdn.sbs/live/8826852/2672534/796769.m3u
 #EXTINF:-1 tvg-id="Bandrs.br" tvg-name="Band RS FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band RS FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/796768.m3u
+http://turbocdn.sbs/live/8826852/2672534/796768.m3u
 #EXTINF:-1 tvg-id="Banddf.br" tvg-name="Band Brasilia HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Brasilia HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/130272.m3u
+http://turbocdn.sbs/live/8826852/2672534/130272.m3u
 #EXTINF:-1 tvg-id="Banddf.br" tvg-name="Band Brasilia FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Brasilia FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/9.m3u
+http://turbocdn.sbs/live/8826852/2672534/9.m3u
 #EXTINF:-1 tvg-id="Bandce.br" tvg-name="Band CE HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band CE HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/874474.m3u
+http://turbocdn.sbs/live/8826852/2672534/874474.m3u
 #EXTINF:-1 tvg-id="Bandce.br" tvg-name="Band CE FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band CE FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/874473.m3u
+http://turbocdn.sbs/live/8826852/2672534/874473.m3u
 #EXTINF:-1 tvg-id="Bandpe.br" tvg-name="Band TV Tribuna Recife HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band TV Tribuna Recife HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/878449.m3u
+http://turbocdn.sbs/live/8826852/2672534/878449.m3u
 #EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band Uberlandia FHD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Uberlandia FHD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1570781.m3u
+http://turbocdn.sbs/live/8826852/2672534/1570781.m3u
 #EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band Uberlandia HD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Uberlandia HD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1570782.m3u
+http://turbocdn.sbs/live/8826852/2672534/1570782.m3u
+
+
+
 #EXTINF:-1 tvg-id="Bandmg.br" tvg-name="Band Uberlandia SD" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Uberlandia SD
 http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/1570783.m3u
 #EXTINF:-1 tvg-id="Bandpr.br" tvg-name="Band Curitiba HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | Brasil",Band Curitiba HD
