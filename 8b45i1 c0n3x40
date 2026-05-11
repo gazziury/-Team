@@ -1,6 +1,9 @@
 #EXTM3U
+
+http://turbocdn.sbs/live/8826852/2672534/91749.m3u
+
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA SD" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA SD
-http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/91749.m3u
+http://turbocdn.sbs/live/5856140/6215848/91749.m3u
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA HD" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA HD
 http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs/live/5856140/6215848/91750.m3u
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA FHD
