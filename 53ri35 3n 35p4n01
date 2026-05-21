@@ -2106,18 +2106,33 @@ http://series.tuxchannel.mx/series/trying/s_02_e_06.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/i60GHCNKIXncadHwf0INXhyHm2E.jpg" group-title="Ciclos T2",Cap. 07
 http://series.tuxchannel.mx/series/trying/s_02_e_07.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel",Cap. 01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel T1",Cap. 01
 http://series.tuxchannel.mx/series/citadel/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel",Cap. 02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel T1",Cap. 02
 http://series.tuxchannel.mx/series/citadel/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel",Cap. 03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel T1",Cap. 03
 http://series.tuxchannel.mx/series/citadel/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel",Cap. 04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel T1",Cap. 04
 http://series.tuxchannel.mx/series/citadel/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel",Cap. 05
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel T1",Cap. 05
 http://series.tuxchannel.mx/series/citadel/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel",Cap. 06
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg" group-title="Citadel T1",Cap. 06
 http://series.tuxchannel.mx/series/citadel/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg" group-title="Citadel T2",Cap. 01
+http://series.tuxchannel.mx/series/citadel/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg" group-title="Citadel T2",Cap. 02
+http://series.tuxchannel.mx/series/citadel/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg" group-title="Citadel T2",Cap. 03
+http://series.tuxchannel.mx/series/citadel/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg" group-title="Citadel T2",Cap. 04
+http://series.tuxchannel.mx/series/citadel/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg" group-title="Citadel T2",Cap. 05
+http://series.tuxchannel.mx/series/citadel/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg" group-title="Citadel T2",Cap. 06
+http://series.tuxchannel.mx/series/citadel/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg" group-title="Citadel T2",Cap. 07
+http://series.tuxchannel.mx/series/citadel/s_02_e_07.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lzZ9J2FOsaq1DCuD7k2f4ogbXdD.jpg" group-title="Citadel: Honey bunny",Cap. 01
 http://series.tuxchannel.mx/series/citadel_honey_bunny/s_01_e_01.mkv
