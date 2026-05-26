@@ -8,15 +8,15 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",PRINCIPAL
-
+http://flowzy.work:8080/beto970333823/beto0704/584116
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 1
-
+http://flowzy.work:8080/beto970333823/beto0704/584122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 2
-
+http://flowzy.work:8080/beto970333823/beto0704/584123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 3
-
+http://flowzy.work:8080/beto970333823/beto0704/584124
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",MULTICÁMARA
-
+http://flowzy.work:8080/beto970333823/beto0704/584120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/330px-Telefe_%28nuevo_logo%29.png" group-title="EL GRAN HERMANO (ARGENTINA) 1",TELEFE (VIVO)
 
 
