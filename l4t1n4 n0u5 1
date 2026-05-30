@@ -600,7 +600,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/290
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTvqWgpY/Efu5mUQ.png" group-title="→ PERÚ ←", PE• ANTARES TV (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250
 
-#EXTINF:-1 tvg-logo="https://monterrico.edu.pe/wp-content/uploads/2020/12/Logo-Monterrico.png" group-title="→ PERÚ ←", PE• MONTERRICO TV (HD)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Monterrico_TV_HD_%28Logo%29.jpg/revision/latest?cb=20210404162639&path-prefix=es" group-title="→ PERÚ ←", PE• MONTERRICO TV (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/272
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwRtJshK/cultura-24.png" group-title="→ PERÚ ←", PE• CULTURA 24 TV (HD)
@@ -684,10 +684,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/347
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="→ COLOMBIA ←", COL• TELECARIBE (HD) »2«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/354
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←", COL• CABLE NOTICIAS (HD) »1«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/3840px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←", COL• CABLE NOTICIAS (HD) »1«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/326
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←", COL• CABLE NOTICIAS (HD) »2«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/3840px-Cable_Noticias_logo.svg.png" group-title="→ COLOMBIA ←", COL• CABLE NOTICIAS (HD) »2«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/327
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ COLOMBIA ←", COL• NTN 24 (HD) »1«
@@ -720,7 +720,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/330
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="→ COLOMBIA ←", COL• CANAL TRO (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/329
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="→ COLOMBIA ←", COL• CITY TV (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/3840px-Citytv_logo.svg.png" group-title="→ COLOMBIA ←", COL• CITY TV (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/337
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="→ COLOMBIA ←", COL• EL TRECE (HD)
@@ -729,10 +729,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/338
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqGHPQ0C/Telecaf-logo-svg.png" group-title="→ COLOMBIA ←", COL• TELECAFE (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/352
 
-#EXTINF:-1 tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="→ COLOMBIA ←", COL• CANAL CAPITAL (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1280px-2020_Canal_Capital_logo.svg.png" group-title="→ COLOMBIA ←", COL• CANAL CAPITAL (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/328
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/2560px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←", COL• SENAL COLOMBIA (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/3840px-Se%C3%B1al_Colombia_logo.svg.png" group-title="→ COLOMBIA ←", COL• SEÑAL COLOMBIA (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/350
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="→ FÚTBOL COLOMBIA ←", COL• WIN SPORTS+ (HD) »1«
