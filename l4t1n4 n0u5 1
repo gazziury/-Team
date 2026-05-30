@@ -1044,7 +1044,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/208
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ CINE & SERIES ←", C/S• STARZ EDGE (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/209
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE & SERIES ←", C/S• STARZ ENCORE BLACK (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Encore_Black.png" group-title="→ CINE & SERIES ←", C/S• STARZ ENCORE BLACK (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/210
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ CINE & SERIES ←", C/S• STARZ ENCORE CLASSIC (HD)
@@ -1053,7 +1053,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/211
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ CINE & SERIES ←", C/S• STARZ ENCORE FAMILY (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/212
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE & SERIES ←", C/S• STARZ ENCORE (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1280px-Starz_Encore_Logo_2022.svg.png" group-title="→ CINE & SERIES ←", C/S• STARZ ENCORE (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/213
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ CINE & SERIES ←", C/S• STARZ ENCORE SUSPENSE (HD)
@@ -1062,7 +1062,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/214
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ CINE & SERIES ←", C/S• STARZ ENCORE WESTERN (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/215
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE & SERIES ←", C/S• STARZ (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="→ CINE & SERIES ←", C/S• STARZ (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/216
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ CINE & SERIES ←", C/S• STARZ WEST (HD)
@@ -1080,13 +1080,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/220
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←", C/S• STUDIO UNIVERSAL (HD) »4«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/221
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE & SERIES ←", C/S• SYFY (HD) »1«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="→ CINE & SERIES ←", C/S• SYFY (HD) »1«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/222
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE & SERIES ←", C/S• SYFY (HD) »2«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="→ CINE & SERIES ←", C/S• SYFY (HD) »2«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/223
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE & SERIES ←", C/S• SYFY (HD) »3«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="→ CINE & SERIES ←", C/S• SYFY (HD) »3«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/224
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←", C/S• TNT NOVELAS (HD) »1«
