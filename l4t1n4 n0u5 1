@@ -3759,28 +3759,21 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/12361
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←", ES | DAZN 2 FHD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12362
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HCV5jWdXQAAuJdb.jpg" group-title="→ URUGUAY ←", URU | DSPORTS PREMIUM HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Logo_de_DSports_Uruguay_Premium.svg/revision/latest/scale-to-width-down/300?cb=20260204133226&path-prefix=es" group-title="→ URUGUAY ←", URU | DSPORTS URUGUAY PREMIUM HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/558
-
-#EXTINF:-1 tvg-logo="http://185.39.50.222:36995/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="→ URUGUAY ←", URU | VTV + HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ URUGUAY ←", URU | VTV + HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61927
-
-#EXTINF:-1 tvg-logo="http://185.39.50.222:36995/images/d6e9b1f5db6b50803ed48a27ce847dbb.jpg" group-title="→ URUGUAY ←", URU | Canal 4
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61931
-
-#EXTINF:-1 tvg-logo="http://185.39.50.222:36995/images/d6e9b1f5db6b50803ed48a27ce847dbb.jpg" group-title="→ URUGUAY ←", URU | Canal 4 HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61933
-
-#EXTINF:-1 tvg-logo="http://185.39.50.222:36995/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="→ URUGUAY ←", URU | VTV + FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ URUGUAY ←", URU | VTV + FHD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61936
-
-#EXTINF:-1 tvg-logo="http://185.39.50.222:36995/images/994885929acc206bb7d3a9f9eb4987e9.png" group-title="→ URUGUAY ←", URU | VTV FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61941
-
-#EXTINF:-1 tvg-logo="http://185.39.50.222:36995/images/8c146dc3cc009b876ab48e07d1496f17.png" group-title="→ URUGUAY ←", URU | VTV PLUS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ URUGUAY ←", URU | VTV PLUS HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61950
-
-#EXTINF:-1 tvg-logo="http://185.39.50.222:36995/images/d6e9b1f5db6b50803ed48a27ce847dbb.jpg" group-title="→ URUGUAY ←", URU | Canal 4 *
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="→ URUGUAY ←", URU | VTV FHD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61941
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="→ URUGUAY ←", URU | Canal 4
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61931
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="→ URUGUAY ←", URU | Canal 4 HD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61933
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="→ URUGUAY ←", URU | Canal 4 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61952
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ PARAGUAY ←", LA_SD:SUR_PARAGUAY:UNICANAL
