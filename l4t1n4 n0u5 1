@@ -147,16 +147,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/83
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LJ8cFGZ/t13-radio.png" group-title="→ CHILE ←", CL• T13 RADIO (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/85
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• EVENTOS 1 (HD) Colo-Colo vs Deportes Concepción
+#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• EVENTOS 1 (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20203
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• EVENTOS 2 (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20220
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• EVENTOS 3 (HD) Colo-Colo vs Deportes Concepción
+#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• EVENTOS 3 (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20233
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• EVENTOS 4 (HD) Colo-Colo vs Deportes Concepción
+#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• EVENTOS 4 (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20285
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• EVENTOS 5 (HD)
@@ -168,7 +168,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/20374
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2rsh3BY/1280px-UFC-Fight-Pass-Logo.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• UFC FIGHT PASS (HD) »2«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20430
 
-#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91306_ll_h3_aa.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• WWE NETWORK (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• WWE NETWORK (HD) »1«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20509
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• WWE NETWORK (HD) »2«
@@ -183,13 +183,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/20693
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• COMBATE (HD) »2«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20694
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• DIRECTV SPORTS FIGHT (HD)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/DSports_Fight_2022.svg/revision/latest?cb=20241003235751" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• DIRECTV SPORTS FIGHT (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20350
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• THE FIGHT NETWORK (HD) »2«
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• FIGHT NETWORK (HD) »2«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/21185
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• THE FIGHT NETWORK (HD) »3«
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="→ PPV EVENTOS Y DEPORTES ←", PPV• FIGHT NETWORK (HD) »3«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/21186
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←", DEP• TNT SPORTS AR (HD) »1«
