@@ -2982,43 +2982,37 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/57239
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/250px-Logo_Tennis_Channel.svg.png" group-title="→ TENIS (EVENTOS) ←", TENIS CHANNEL 4
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57240
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrgcTfdM/wim.png" group-title="→ TENIS (EVENTOS) ←", TENIS WIMBLEDON 1
-http://23.153.217.158:8080/975428933tv1/j57upxsw/55317
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrgcTfdM/wim.png" group-title="→ TENIS (EVENTOS) ←", TENIS WIMBLEDON 2
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57052
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="→ MÉXICO II ←", MX || Nat Geo SD  | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="→ MÉXICO II ←", Nat Geo
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59394
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" group-title="→ MÉXICO II ←", MX || FX SD Lat 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/960px-FX_Logo_2023.svg.png" group-title="→ MÉXICO II ←", FX
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59395
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="→ MÉXICO II ←", MX || Nat Geo | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="→ MÉXICO II ←", Nat Geo
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59398
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" group-title="→ MÉXICO II ←", MX || FX SD Lat
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/960px-FX_Logo_2023.svg.png" group-title="→ MÉXICO II ←", FX
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59399
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1237444962121396226/hkrvwCFW_400x400.jpg" group-title="→ MÉXICO II ←", MX || Mexiquense SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Mexiquense2020b.png/revision/latest?cb=20210414173621&path-prefix=es" group-title="→ MÉXICO II ←", Mexiquense
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59403
 
-#EXTINF:-1 tvg-logo="https://prensaescenario.files.wordpress.com/2019/08/image005-12.jpg" group-title="→ MÉXICO II ←", MX || El Gourmet SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/1280px-El_Gourmet_logo.svg.png" group-title="→ MÉXICO II ←", El Gourmet
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59404
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_lifetime_m.png" group-title="→ MÉXICO II ←", MX || Life Time SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ MÉXICO II ←", Lifetime
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59406
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="→ MÉXICO II ←", MX || Studio Universal SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="→ MÉXICO II ←", Studio Universal
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59407
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1237444962121396226/hkrvwCFW_400x400.jpg" group-title="→ MÉXICO II ←", MX || Mexiquense HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Mexiquense2020b.png/revision/latest?cb=20210414173621&path-prefix=es" group-title="→ MÉXICO II ←", Mexiquense
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59408
 
-#EXTINF:-1 tvg-logo="https://prensaescenario.files.wordpress.com/2019/08/image005-12.jpg" group-title="→ MÉXICO II ←", MX || El Gourmet HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/1280px-El_Gourmet_logo.svg.png" group-title="→ MÉXICO II ←", El Gourmet
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59409
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8AegVdL.jpg" group-title="→ MÉXICO II ←", MX || BANDAMAX SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png" group-title="→ MÉXICO II ←", BANDAMAX
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59411
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="→ MÉXICO II ←", MX || Telehit SD
