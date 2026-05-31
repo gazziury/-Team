@@ -3081,22 +3081,22 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59440
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="→ MÉXICO II ←", Discovery World
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59441
 
-#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/history-logo.jpg" group-title="→ MÉXICO II ←", MX || HISTORY SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png" group-title="→ MÉXICO II ←", HISTORY
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59442
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="→ MÉXICO II ←", MX || Discovery Theater SD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/3840px-2015_Discovery_theater_HD_logo.svg.png" group-title="→ MÉXICO II ←", Discovery Theater
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59443
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ywzBaS0.jpg" group-title="→ MÉXICO II ←", MX || Cartoon Network SD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="→ MÉXICO II ←", Cartoon Network
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59446
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kFAuE83BamQ/hqdefault.jpg" group-title="→ MÉXICO II ←", MX || Nick SD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="→ MÉXICO II ←", Nick
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59448
 
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1159.1405279210.png" group-title="→ MÉXICO II ←", MX || NickMusic SD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/NickMusic_Purple.svg" group-title="→ MÉXICO II ←", Nick Music
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59449
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/585381689427423232/f3LQu_Nb_400x400.png" group-title="→ MÉXICO II ←", MX || DISNEY CHANNEL SD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="→ MÉXICO II ←", DISNEY CHANNEL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59450
 
 #EXTINF:-1 tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="→ MÉXICO II ←", MX || Nick Jr. SD | Infantil
