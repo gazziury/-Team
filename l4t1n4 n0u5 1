@@ -3108,22 +3108,22 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59452
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/TNT_Novelas_2025.svg" group-title="→ MÉXICO II ←", TNT Novelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59453
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HFjeGWh.jpg" group-title="→ MÉXICO II ←", MX || DISTRITO COMEDIA SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/250px-DistritoComediaLOGO2018.png" group-title="→ MÉXICO II ←", DISTRITO COMEDIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59454
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lscs3M6.jpg" group-title="→ MÉXICO II ←", MX || Garage TV SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest?cb=20210525001851&path-prefix=es" group-title="→ MÉXICO II ←", Garage TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59456
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="→ MÉXICO II ←", MX || Tnt Series SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/3840px-TNT_Series_2025.svg.png" group-title="→ MÉXICO II ←", Tnt Series
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59457
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png" group-title="→ MÉXICO II ←", MX || SyFy SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/USA_Network_2020.svg" group-title="→ MÉXICO II ←", USA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59458
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cXBxi2F.jpg" group-title="→ MÉXICO II ←", MX || E! SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="→ MÉXICO II ←", E!
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59459
 
-#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/08/tlc-logo.jpg" group-title="→ MÉXICO II ←", MX || TLC SD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/3840px-TLC_Logo.svg.png" group-title="→ MÉXICO II ←", TLC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59460
 
 #EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/DiscoveryTurbo.png" group-title="→ MÉXICO II ←", MX || Discovery TURBO SD | Cultural
