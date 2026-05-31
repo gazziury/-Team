@@ -2865,12 +2865,6 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/24845
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="→ MÉXICO ←", TNT Series
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24853
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:MTV 90s
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24882
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:MTV 00s
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24883
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:A+ 7.2
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24885
 
