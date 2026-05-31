@@ -3126,13 +3126,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59459
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/3840px-TLC_Logo.svg.png" group-title="→ MÉXICO II ←", TLC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59460
 
-#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/DiscoveryTurbo.png" group-title="→ MÉXICO II ←", MX || Discovery TURBO SD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/3840px-Discovery_Turbo_logo.svg.png" group-title="→ MÉXICO II ←", Discovery TURBO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59461
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UE8u1PZ.jpg" group-title="→ MÉXICO II ←", MX || Investigation Discovery SD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="→ MÉXICO II ←", Investigation Discovery
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59463
 
-#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2016/01/Star-HD.jpg" group-title="→ MÉXICO II ←", MX || Star Tve SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Star_TVE_2026.svg" group-title="→ MÉXICO II ←", Star Tve
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59464
 
 #EXTINF:-1 tvg-logo="http://mylatinotv.com:8080/images/mexico/tv4.png" group-title="→ MÉXICO II ←", MX || Tv 4 (GTO)
