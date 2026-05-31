@@ -1539,10 +1539,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/433
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", CUL• HISTORY CHANNEL (HD) »4«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/434
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png" group-title="→ CULTURA ←", CUL• H2 (HD) »1«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/3840px-History2_logo_%282022%29.svg.png" group-title="→ CULTURA ←", CUL• H2 (HD) »1«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/429
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png" group-title="→ CULTURA ←", CUL• H2 (HD) »2«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/3840px-History2_logo_%282022%29.svg.png" group-title="→ CULTURA ←", CUL• H2 (HD) »2«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/430
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", CUL• NAT GEO »1«
@@ -2658,7 +2658,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/54476
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="→ ZAPPING CHILE ←", HISTORY (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54481
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="→ ZAPPING CHILE ←", HISTORY 2 (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/3840px-History2_logo_%282022%29.svg.png" group-title="→ ZAPPING CHILE ←", HISTORY 2 (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54482
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="→ ZAPPING CHILE ←", DISCOVERY CHANNEL (HD)
