@@ -1248,7 +1248,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/666
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Edge HD_1080P
 http://23.153.217.158:8080/975428933tv1/j57upxsw/667
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Black HD_1080P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Encore_Black.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Black HD_1080P
 http://23.153.217.158:8080/975428933tv1/j57upxsw/668
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Classic HD_1080P
@@ -1257,7 +1257,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/669
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Family HD_1080P
 http://23.153.217.158:8080/975428933tv1/j57upxsw/670
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ STARZ CINEMA ←", CINE| Starz Encore HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1280px-Starz_Encore_Logo_2022.svg.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/671
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Suspense HD_1080P
@@ -1266,7 +1266,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/672
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Western HD_1080P
 http://23.153.217.158:8080/975428933tv1/j57upxsw/673
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ STARZ CINEMA ←", CINE| Starz HD_1080P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="→ STARZ CINEMA ←", CINE| Starz HD_1080P
 http://23.153.217.158:8080/975428933tv1/j57upxsw/674
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz West HD_1080P
