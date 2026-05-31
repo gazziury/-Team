@@ -3099,13 +3099,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59449
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="→ MÉXICO II ←", DISNEY CHANNEL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59450
 
-#EXTINF:-1 tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="→ MÉXICO II ←", MX || Nick Jr. SD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="→ MÉXICO II ←", Nick
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59451
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgRE9F0.png" group-title="→ MÉXICO II ←", MX || Disney Jr. SD | Infantil
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png" group-title="→ MÉXICO II ←", Disney Jr
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59452
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yxd84ywm" group-title="→ MÉXICO II ←", MX || TBS SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/TNT_Novelas_2025.svg" group-title="→ MÉXICO II ←", TNT Novelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59453
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HFjeGWh.jpg" group-title="→ MÉXICO II ←", MX || DISTRITO COMEDIA SD
