@@ -2811,61 +2811,58 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/54944
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Documentales
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54957
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX:Cartoonito
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png" group-title="→ MÉXICO ←", Cartoonito
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24773
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:MTV Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="→ MÉXICO ←", MTV Hits
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24778
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="→ MÉXICO ←", AXN
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24781
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Az Cinema
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg" group-title="→ MÉXICO ←", Az Cinema
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24783
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Az Clic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TV_Azteca_Clic_logo.svg/3840px-TV_Azteca_Clic_logo.svg.png" group-title="→ MÉXICO ←", Az Clic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24784
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Az Corazón
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/250px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="→ MÉXICO ←", Az Corazón
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24785
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Azteca Uno
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="→ MÉXICO ←", Azteca Uno
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24787
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Bloomberg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/3840px-Bloomberg_logo.svg.png" group-title="→ MÉXICO ←", Bloomberg
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24792
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Cinecanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="→ MÉXICO ←", Cinecanal
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24800
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:CNN en Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="→ MÉXICO ←", CNN en Español
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24801
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Discovery Civilization
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24805
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Discovery Turbo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/3840px-Discovery_Turbo_logo.svg.png" group-title="→ MÉXICO ←", Discovery Turbo
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24810
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:DW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="→ MÉXICO ←", DW
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24813
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="→ MÉXICO ←", ESPN
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24815
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:ESPN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="→ MÉXICO ←", ESPN 2
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24816
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:Golf Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="→ MÉXICO ←", Golf Channel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24827
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:NTN24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ MÉXICO ←", NTN24
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24837
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:TBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TBS_logo_2016.svg" group-title="→ MÉXICO ←", TBS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24845
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:TNT Series
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="→ MÉXICO ←", TNT Series
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24853
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_SD_MEX2:MTV 90s
