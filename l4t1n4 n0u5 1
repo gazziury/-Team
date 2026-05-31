@@ -2001,38 +2001,62 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/47268
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png" group-title="→ MÚSICA ←", MX | Concert Channel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47270
 
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/4fdff5332de9c642a9b50c6aa75935d6.png" group-title="→ ARGENTINA ←", Argentina - America FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", Argentina - America FHD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15814
 
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/4fdff5332de9c642a9b50c6aa75935d6.png" group-title="→ ARGENTINA ←", Argentina - America HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", Argentina - America HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15815
 
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/98fbdf39bd78e3d90dc6d335e3956bc9.png" group-title="→ ARGENTINA ←", Argentina - Canal 26 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", *ARG_SD:AMERICA TV
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61561
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/3840px-Canal_26_logo_%282022%29.svg.png" group-title="→ ARGENTINA ←", Argentina - Canal 26 HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15840
 
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/f56e446755ef85cafd3d7f68c619b2d2.png" group-title="→ ARGENTINA ←", Argentina - El Nueve HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="→ ARGENTINA ←", Argentina - El Nueve HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15881
 
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/65759551abad6cb24ee8e410036cb72e.png" group-title="→ ARGENTINA ←", Argentina - El Trece HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="→ ARGENTINA ←", Argentina - El Trece HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15905
 
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/65759551abad6cb24ee8e410036cb72e.png" group-title="→ ARGENTINA ←", Argentina - El Trece SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="→ ARGENTINA ←", Argentina - El Trece SD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16158
 
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ARGENTINA ←", Argentina - TV Publica FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="→ ARGENTINA ←", Argentina - TV Publica FHD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16159
 
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ARGENTINA ←", Argentina - TV Publica HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="→ ARGENTINA ←", Argentina - TV Publica HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16160
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hh0F9D6/FOXSPORTSPREMIUM.jpg" group-title="→ ARGENTINA ←", Argentina - Fox Sports Premium HQ.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="→ ARGENTINA ←", Argentina - ESPN Premium
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16161
 
-#EXTINF:-1 tvg-logo="https://cl.images.search.yahoo.com/search/images;_ylt=AwrFQ6uzhphkNX0zo_xjfgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=canal+TN&fr2=piv-web&type=E210CL885G0&fr=mcafee#id=9&iurl=https%3A%2F%2Fwww.ipuntotv.com%2FIMAGES%2FTN%2520logo%2520nuevo.png&action=click" group-title="→ ARGENTINA ←", ARG: TN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="→ ARGENTINA ←", ARG: TN HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16397
 
-#EXTINF:-1 tvg-logo="https://cl.images.search.yahoo.com/search/images;_ylt=AwrFQ6uzhphkNX0zo_xjfgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=canal+TN&fr2=piv-web&type=E210CL885G0&fr=mcafee#id=9&iurl=https%3A%2F%2Fwww.ipuntotv.com%2FIMAGES%2FTN%2520logo%2520nuevo.png&action=click" group-title="→ ARGENTINA ←", ARG: TN SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="→ ARGENTINA ←", ARG: TN SD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16477
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Argentina - Telefe SD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/53225
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Argentina - Telefe HD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/53226
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Argentina|| TELEFE HD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61544
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Argentina|| Telefe
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61546
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Argentina|| TELEFE
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61547
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe HD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61548
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", ARG: Telefe HD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61549
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Venevision_Plus_Logo_2016.png" group-title="→ VENEZUELA ←", Venevision Plus
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23173
@@ -2525,12 +2549,6 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/24143
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Km5cMWb/Univision-2019.png" group-title="→ USA ←", USA | Univision Denver
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24144
-
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/772cff44a570f0c7f2b0fdf0803d9842.png" group-title="→ ARGENTINA ←", Argentina - Telefe SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/53225
-
-#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/772cff44a570f0c7f2b0fdf0803d9842.png" group-title="→ ARGENTINA ←", Argentina - Telefe HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/53226
 
 #EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/nick_jrp.png" group-title="→ ZAPPING CHILE ←", ZCL• NICK JR (HD)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54428
@@ -3719,24 +3737,6 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/60359
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="→ ESPAÑA DAZN ←", DAZN 3 HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60361
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ARGENTINA ←", Argentina|| TELEFE HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61544
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ee087e31-a99a-4bcd-a2ea-411028f12a48_m.jpg" group-title="→ ARGENTINA ←", Argentina|| Telefe  (Argentina)
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61546
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ARGENTINA ←", Argentina|| TELEFE  :)
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61547
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ ARGENTINA ←", TelefeHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61548
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", ARG: Telefe HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61549
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ ARGENTINA ←", *ARG_SD:AMERICA TV
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61561
 
 #EXTINF:-1 tvg-logo="https://channelstore.roku.com/es-gt/details/93ea4813b18fadf50246f47009ffb0be:4968f5a5f89cbb8306d467cc85915eb8/motogp" group-title="→ ESPAÑA DAZN ←", ES | DAZN GP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12361
