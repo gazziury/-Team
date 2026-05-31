@@ -2445,7 +2445,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/12453
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←", ES:TVE LA 2 HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12454
 
-#EXTINF:-1 tvg-logo="1 mes por € 6.99 3 meses por € 14.99 6 meses por € 29.99 1 año por € 49.99" group-title="→ ESPAÑA ←", ES:TVE LA 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1280px-Logo_RTVE.svg.png" group-title="→ ESPAÑA ←", ES:RTVE HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12455
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA ←", ES:MOVISTAR COMEDIA HD HEVC
