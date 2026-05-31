@@ -1290,10 +1290,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/596
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←", ENT| El Gourmet HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/598
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Food Network
 http://23.153.217.158:8080/975428933tv1/j57upxsw/599
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Food Network OP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Food Network OP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/600
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| El Garage TV
@@ -1308,34 +1308,34 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/604
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Telemundo Internacional HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/605
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| LIFETIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| LIFETIME
 http://23.153.217.158:8080/975428933tv1/j57upxsw/606
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Lifetime OP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Lifetime OP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/607
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Lifetime HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Lifetime HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/608
 
-#EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="→ ENTRETENIMIENTO ←", ENT| LA_Univision HD.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="→ ENTRETENIMIENTO ←", ENT| LA_Univision HD.
 http://23.153.217.158:8080/975428933tv1/j57upxsw/609
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png" group-title="→ ENTRETENIMIENTO ←", ENT| Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←", ENT| Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/611
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png" group-title="→ ENTRETENIMIENTO ←", ENT| Tlnovelas HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←", ENT| Tlnovelas HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/612
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_tlenovelas.png" group-title="→ ENTRETENIMIENTO ←", ENT | Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←", ENT | Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269133
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_tlenovelas.png" group-title="→ ENTRETENIMIENTO ←", ENT | Tlnovelas FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←", ENT | Tlnovelas FHD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269134
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Entretenimiento/ent_univision_telenovelas.png" group-title="→ ENTRETENIMIENTO ←", ENT | Univision Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT | Univision Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269135
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ ENTRETENIMIENTO ←", USA**:UNIVISION TLNOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ ENTRETENIMIENTO ←", USA**:UNIVISION TLNOVELAS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269139
 
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←", ENT| CANAL COCINA
@@ -1344,28 +1344,28 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/613
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←", ENT| Cocina TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/614
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3
 http://23.153.217.158:8080/975428933tv1/j57upxsw/617
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3 HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/618
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3 HD OP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3 HD OP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/619
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="→ ENTRETENIMIENTO ←", ENT| Caza y Pesca HD
+#EXTINF:-1 tvg-logo="https://greattunarace.org/wp-content/uploads/2018/05/logo-caza-y-pesca.png" group-title="→ ENTRETENIMIENTO ←", ENT| Caza y Pesca HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/620
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/622
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/623
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/624
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/625
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←", ENT| E! Entertainment
@@ -1386,19 +1386,19 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/631
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←", ENT| Las Estrellas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/633
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←", MEX| Distrito Comedia .
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←", MEX| Distrito Comedia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/634
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←", MEX| Distrito Comedia
 http://23.153.217.158:8080/975428933tv1/j57upxsw/635
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia
 http://23.153.217.158:8080/975428933tv1/j57upxsw/636
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia HQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia HQ
 http://23.153.217.158:8080/975428933tv1/j57upxsw/637
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/638
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDjhxH7c/Zoo-Moo-logo.png" group-title="→ INFANTILES ←", INF• ZOOMOO (HD)
