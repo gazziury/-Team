@@ -2970,22 +2970,22 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/55351
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Mega-tv-logo2.svg" group-title="→ PUERTO RICO ←", Mega TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55346
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="→ TENIS (EVENTOS) ←", TENIS• CHANNEL (HD) »1«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/250px-Logo_Tennis_Channel.svg.png" group-title="→ TENIS (EVENTOS) ←", TENIS CHANNEL 1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57053
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="→ TENIS (EVENTOS) ←", TENIS• CHANNEL (HD) »2«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/250px-Logo_Tennis_Channel.svg.png" group-title="→ TENIS (EVENTOS) ←", TENIS CHANNEL 2
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57054
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="→ TENIS (EVENTOS) ←", TENIS• CHANNEL (HD) »3«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/250px-Logo_Tennis_Channel.svg.png" group-title="→ TENIS (EVENTOS) ←", TENIS CHANNEL 3
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57239
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="→ TENIS (EVENTOS) ←", TENIS• CHANNEL (HD) »4«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/250px-Logo_Tennis_Channel.svg.png" group-title="→ TENIS (EVENTOS) ←", TENIS CHANNEL 4
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57240
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrgcTfdM/wim.png" group-title="→ TENIS (EVENTOS) ←", TENIS• WIMBLEDON (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrgcTfdM/wim.png" group-title="→ TENIS (EVENTOS) ←", TENIS WIMBLEDON 1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55317
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrgcTfdM/wim.png" group-title="→ TENIS (EVENTOS) ←", TENIS• WIMBLEDON (HD) »4«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrgcTfdM/wim.png" group-title="→ TENIS (EVENTOS) ←", TENIS WIMBLEDON 2
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57052
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="→ MÉXICO II ←", MX || Nat Geo SD  | Cultural
