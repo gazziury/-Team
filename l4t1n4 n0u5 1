@@ -2946,32 +2946,29 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/55059
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg" group-title="→ MÉXICO ←", Azteca Corazon
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55061
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKkqm4ENIgNL_6gvIVhB96LikPygjW9WoHP2SiMAne3C8Vgv96&usqp=CAU" group-title="→ PUERTO RICO ←", PR | Mega TV
-http://23.153.217.158:8080/975428933tv1/j57upxsw/55336
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/5da3bec60717f088832606bf5fcae0d5.jpg" group-title="→ PUERTO RICO ←", PR | WIPR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="→ PUERTO RICO ←", WIPR
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55338
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/2c60d1b93cc3e5d5981d16a166e19b9d.jpg" group-title="→ PUERTO RICO ←", PR | WAPA 2
-http://23.153.217.158:8080/975428933tv1/j57upxsw/55339
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/9ea2aa21da28e6ca57fa6b4d629fb856.jpg" group-title="→ PUERTO RICO ←", PR | Teleonce Puerto Rico
-http://23.153.217.158:8080/975428933tv1/j57upxsw/55341
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_746.png?rhtdsg4DpRQ_neH.HIZZK8RK1yQM_DJu&itok=akroq0c7" group-title="→ PUERTO RICO ←", PR | Wapa America
-http://23.153.217.158:8080/975428933tv1/j57upxsw/55343
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_746.png?rhtdsg4DpRQ_neH.HIZZK8RK1yQM_DJu&itok=akroq0c7" group-title="→ PUERTO RICO ←", PR | Wapa America*
-http://23.153.217.158:8080/975428933tv1/j57upxsw/55344
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/0dfd8be75237bbf5064c1ce11038610d.jpg" group-title="→ PUERTO RICO ←", PR | Wipr *
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="→ PUERTO RICO ←", WIPR
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55345
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/cdfce5c1eff5dc2c2d1f13994f5c4fab.jpeg" group-title="→ PUERTO RICO ←", PR | Mega TV *
-http://23.153.217.158:8080/975428933tv1/j57upxsw/55346
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/WAPA_2_Deportes_%282%29.jpg" group-title="→ PUERTO RICO ←", WAPA 2
+http://23.153.217.158:8080/975428933tv1/j57upxsw/55339
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/21277d21b87c497de024dd9f0f1d8628.jpg" group-title="→ PUERTO RICO ←", PR | Univision Puerto Rico *
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Teleonce_Logo_2021.svg" group-title="→ PUERTO RICO ←", Teleonce
+http://23.153.217.158:8080/975428933tv1/j57upxsw/55341
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/3840px-WAPA-TV_logo.svg.png" group-title="→ PUERTO RICO ←", Wapa tv
+http://23.153.217.158:8080/975428933tv1/j57upxsw/55343
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/3840px-WAPA-TV_logo.svg.png" group-title="→ PUERTO RICO ←", Wapa tv
+http://23.153.217.158:8080/975428933tv1/j57upxsw/55344
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/3840px-WAPA-TV_logo.svg.png" group-title="→ PUERTO RICO ←", Wapa tv
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55351
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Mega-tv-logo2.svg" group-title="→ PUERTO RICO ←", Mega TV
+http://23.153.217.158:8080/975428933tv1/j57upxsw/55346
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tQ1xdNW/tennis-channel.png" group-title="→ TENIS (EVENTOS) ←", TENIS• CHANNEL (HD) »1«
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57053
