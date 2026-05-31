@@ -2907,23 +2907,20 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/24915
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="→ MÉXICO ←", ESPN
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24916
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:Foro TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="→ MÉXICO ←", Foro TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24918
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:Star Channel HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/StarTV2020.svg" group-title="→ MÉXICO ←", Star Channel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24920
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:Hola TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ MÉXICO ←", Hola TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24926
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:Imagen TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="→ MÉXICO ←", Imagen TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24927
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:MTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png" group-title="→ MÉXICO ←", MTV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24929
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:MTV Live HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24931
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:RMS HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24938
