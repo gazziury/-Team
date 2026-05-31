@@ -3051,16 +3051,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59427
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="→ MÉXICO II ←", AMC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59429
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1237444962121396226/hkrvwCFW_400x400.jpg" group-title="→ MÉXICO II ←", MX || Mexiquense SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Mexiquense2020b.png/revision/latest?cb=20210414173621&path-prefix=es" group-title="→ MÉXICO II ←", Mexiquense
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59430
 
-#EXTINF:-1 tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/TNT.jpg" group-title="→ MÉXICO II ←", MX || TNT SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="→ MÉXICO II ←", TNT
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59431
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="→ MÉXICO II ←", MX || CINECANAL SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="→ MÉXICO II ←", CINECANAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59432
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AA8LuGq.jpg" group-title="→ MÉXICO II ←", MX || Wobi SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="→ MÉXICO II ←", Wobi
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59434
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y2pkm83w" group-title="→ MÉXICO II ←", MX || HGTV | Cultural
