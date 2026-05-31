@@ -1983,37 +1983,22 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/23064
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision San Francisco (us_lat)
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23065
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ←", Vevo '80s
-http://23.153.217.158:8080/975428933tv1/j57upxsw/47248
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ←", Vevo '90s
-http://23.153.217.158:8080/975428933tv1/j57upxsw/47249
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/622c4768e44946746c298b4d9b5247fc.png" group-title="→ MÚSICA ←", Vevo Pop
-http://23.153.217.158:8080/975428933tv1/j57upxsw/47253
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/5875c143144283b8794f1c50931c666f.png" group-title="→ MÚSICA ←", US | BET Her
-http://23.153.217.158:8080/975428933tv1/j57upxsw/47257
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/60d49b81612a945497688bed45f1a567.png" group-title="→ MÚSICA ←", US | MTV 2
-http://23.153.217.158:8080/975428933tv1/j57upxsw/47259
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/f206137df2297b6ac4aa1bbc3792068e.png" group-title="→ MÚSICA ←", US | VH1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/3840px-VH1_logonew.svg.png" group-title="→ MÚSICA ←", US | VH1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47262
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/cdffee5bd2dec34279b05391fb6a4e7e.png" group-title="→ MÚSICA ←", MX | Bandamax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png" group-title="→ MÚSICA ←", MX | Bandamax
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47263
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/edcea732d2d2b21734c42162e7ecb152.png" group-title="→ MÚSICA ←", MX | MTV Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="→ MÚSICA ←", MX | MTV Hits
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47266
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/1a6b08b672357c90d94036cf9d3a3bee.png" group-title="→ MÚSICA ←", MX | MTV Classics
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1280px-MTV_Classic_2021.svg.png" group-title="→ MÚSICA ←", MX | MTV Classics
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47267
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/5825f3b2cd0eedb0fc8ff03f93d58143.jpg" group-title="→ MÚSICA ←", MX | Telehit
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="→ MÚSICA ←", MX | Telehit
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47268
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/ec9fea4dc767664e26d9e19193605853.png" group-title="→ MÚSICA ←", MX | Concert Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png" group-title="→ MÚSICA ←", MX | Concert Channel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47270
 
 #EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/4fdff5332de9c642a9b50c6aa75935d6.png" group-title="→ ARGENTINA ←", Argentina - America FHD
