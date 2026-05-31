@@ -3063,22 +3063,22 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59432
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="→ MÉXICO II ←", Wobi
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59434
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y2pkm83w" group-title="→ MÉXICO II ←", MX || HGTV | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1280px-HGTV_2010.svg.png" group-title="→ MÉXICO II ←", HGTV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59435
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="→ MÉXICO II ←", MX || Discovery SCI SD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ MÉXICO II ←", Discovery Science
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59436
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oQmyEn.jpg" group-title="→ MÉXICO II ←", MX || NAT GEO SD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="→ MÉXICO II ←", NAT GEO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59438
 
-#EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png" group-title="→ MÉXICO II ←", MX || Discovery H&H HD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/3840px-Discovery_Home_%26_Health_logo.svg.png" group-title="→ MÉXICO II ←", Discovery H&H
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59439
 
-#EXTINF:-1 tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" group-title="→ MÉXICO II ←", MX || Discovery Channel SD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="→ MÉXICO II ←", Discovery Channel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59440
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/746351117177479168/MkxvzVVF_400x400.jpg" group-title="→ MÉXICO II ←", MX || Discovery World SD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="→ MÉXICO II ←", Discovery World
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59441
 
 #EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/history-logo.jpg" group-title="→ MÉXICO II ←", MX || HISTORY SD
