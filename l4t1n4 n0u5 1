@@ -2922,31 +2922,28 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/24927
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png" group-title="→ MÉXICO ←", MTV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24929
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:RMS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="→ MÉXICO ←", Telehit
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24938
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:TNT Series HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="→ MÉXICO ←", TNT Series
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24946
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:TVC Deportes HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TVC_Deportes_2015.png" group-title="→ MÉXICO ←", TVC Deportes
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24950
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:MTV 00s
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24955
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO ←", LA_HD_MEX2:De Película Plus HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest/scale-to-width-down/175?cb=20210129162928&path-prefix=es" group-title="→ MÉXICO ←", De Película Plus
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24978
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ MÉXICO ←", MX || Azteca Corazon SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg" group-title="→ MÉXICO ←", Azteca Corazon
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55056
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="→ MÉXICO ←", MX || Cinema SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg" group-title="→ MÉXICO ←", Cinema
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55057
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ MÉXICO ←", MX || Azteca Corazon SD.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg" group-title="→ MÉXICO ←", Azteca Corazon
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55059
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ MÉXICO ←", MX || Azteca Corazon HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg" group-title="→ MÉXICO ←", Azteca Corazon
 http://23.153.217.158:8080/975428933tv1/j57upxsw/55061
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKkqm4ENIgNL_6gvIVhB96LikPygjW9WoHP2SiMAne3C8Vgv96&usqp=CAU" group-title="→ PUERTO RICO ←", PR | Mega TV
