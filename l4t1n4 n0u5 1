@@ -3974,6 +3974,12 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236341
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236342
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236362
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236363
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", NAT GEO WILD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236344
 
@@ -4000,12 +4006,6 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236357
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_canal-cocina.svg" group-title="→ DOCUMENTAL ESPAÑA ←", CANAL COCINA 4K 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236358
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7qrtJf/Historia-2022-Spain.jpg" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236362
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7qrtJf/Historia-2022-Spain.jpg" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236363
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", NATIONAL GEOGRAPHIC HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236364
