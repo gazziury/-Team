@@ -3953,6 +3953,12 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236335
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMC_Living.svg/3840px-AMC_Living.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", AMC LIVING 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236336
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMC_Living.svg/3840px-AMC_Living.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", AMC LIVING 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236360
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMC_Living.svg/3840px-AMC_Living.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", AMC LIVING 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236361
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="→ DOCUMENTAL ESPAÑA ←", M+ DOCUMENTALES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236337
 
@@ -3994,12 +4000,6 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236357
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_canal-cocina.svg" group-title="→ DOCUMENTAL ESPAÑA ←", CANAL COCINA 4K 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236358
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/502txcPv/Captura-de-pantalla-2024-01-26-103347.png" group-title="→ DOCUMENTAL ESPAÑA ←", CANAL DECASA FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236360
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/502txcPv/Captura-de-pantalla-2024-01-26-103347.png" group-title="→ DOCUMENTAL ESPAÑA ←", CANAL DE CASA 4K UHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236361
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mg7qrtJf/Historia-2022-Spain.jpg" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236362
