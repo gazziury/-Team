@@ -3977,10 +3977,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236348
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", NEOX 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236349
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13h2Pm8n/Divinity-2012.png" group-title="→ DOCUMENTAL ESPAÑA ←", DIVINITY FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="→ DOCUMENTAL ESPAÑA ←", DIVINITY 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236350
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13h2Pm8n/Divinity-2012.png" group-title="→ DOCUMENTAL ESPAÑA ←", DIVINITY HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="→ DOCUMENTAL ESPAÑA ←", DIVINITY 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236351
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="→ DOCUMENTAL ESPAÑA ←", BUEN VIAJE! HD
