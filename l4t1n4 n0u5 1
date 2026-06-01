@@ -4103,16 +4103,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236403
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0DZszxK/Warner-TV-France-2021-svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", WARNER TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236404
 
-#EXTINF:-1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="→ CINE Y SERIES ESPAÑA  ←", TCM HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TCM_logo.svg" group-title="→ CINE Y SERIES ESPAÑA  ←", TCM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236406
 
-#EXTINF:-1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="→ CINE Y SERIES ESPAÑA  ←", TCM FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TCM_logo.svg" group-title="→ CINE Y SERIES ESPAÑA  ←", TCM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236407
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HssBJM9X/Canal-Hollywood.png" group-title="→ CINE Y SERIES ESPAÑA  ←", HOLLYWOOD HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_Hollywood_2026.svg/revision/latest/scale-to-width-down/200?cb=20260601103034" group-title="→ CINE Y SERIES ESPAÑA  ←", HOLLYWOOD 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236410
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HssBJM9X/Canal-Hollywood.png" group-title="→ CINE Y SERIES ESPAÑA  ←", HOLLYWOOD FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_Hollywood_2026.svg/revision/latest/scale-to-width-down/200?cb=20260601103034" group-title="→ CINE Y SERIES ESPAÑA  ←", HOLLYWOOD 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236411
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h437r7q9/Dream-Works-Channel-Logo-svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", DREAMWORKS HD
