@@ -4172,6 +4172,24 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236432
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="→ CINE Y SERIES ESPAÑA  ←", MYTIME MOVIE NETWORK
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236437
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" group-title="→ CINE Y SERIES ESPAÑA  ←", BABY TV 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236522
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" group-title="→ CINE Y SERIES ESPAÑA  ←", BABY TV 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236523
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="→ CINE Y SERIES ESPAÑA  ←", NICK JUNIOR 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236526
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="→ CINE Y SERIES ESPAÑA  ←", NICK JUNIOR 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236527
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg" group-title="→ CINE Y SERIES ESPAÑA  ←", NICKELODEON 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236528
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg" group-title="→ CINE Y SERIES ESPAÑA  ←", NICKELODEON 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236529
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA TDT ←", ES | LA 1 SD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236478
 
@@ -4267,30 +4285,6 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236520
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA TDT ←", ES | Trece HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236521
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ES : BABY TV SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236522
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ES : BABY TV HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236523
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ES : DISNEY JUNIOR SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236524
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ES : DISNEY JUNIOR HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236525
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GdZ5DBF/NICKJR.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ES : NICK JUNIOR SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236526
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GdZ5DBF/NICKJR.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ES : NICK JUNIOR HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236527
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ES : NICKELODEON SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236528
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ES : NICKELODEON HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236529
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA TDT ←", ES | CLAN TVE HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236535
