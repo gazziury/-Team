@@ -4244,10 +4244,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236538
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" group-title="→ ESPAÑA TDT ←", REAL MADRID TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236539
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecuadortv.png" group-title="→ ECUADOR ←", ECU | Ecuador TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="MÉXICO", Canal 44
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250858
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecuadortv.png" group-title="→ ECUADOR ←", ECU | Ecuador TV HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="MÉXICO", Canal 44
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250859
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←", ECU | Ecuavisa HD Quito
