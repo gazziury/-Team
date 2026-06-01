@@ -4202,22 +4202,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236485
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA TDT ←", 24 Horas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236491
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA TDT ←", ES | BeMad SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236492
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA TDT ←", ES | BeMad HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA TDT ←", BeMad 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236493
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA TDT ←", ES | Divinity SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236494
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA TDT ←", ES | Divinity HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA TDT ←", Divinity 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236495
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="→ ESPAÑA TDT ←", ES | DKiss HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Dkiss.png/revision/latest?cb=20160521194529" group-title="→ ESPAÑA TDT ←", DKiss 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236497
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="→ ESPAÑA TDT ←", ES | Dmax HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/3840px-DMAX_Spain_2023_Logo.svg.png" group-title="→ ESPAÑA TDT ←", Dmax 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236499
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" group-title="→ ESPAÑA TDT ←", ES | El Toro TV SD
