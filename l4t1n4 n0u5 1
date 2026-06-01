@@ -3306,37 +3306,34 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59566
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/960px-Unicable_logo.svg.png" group-title="→ MÉXICO II ←", Unicable
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59567
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cHGfy69.jpg" group-title="→ MÉXICO II ←", MX || Comedy Central HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="→ MÉXICO II ←", Comedy Central
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59568
 
-#EXTINF:-1 tvg-logo="https://fontmeme.com/images/Bloomberg-Television-Logo.jpg" group-title="→ MÉXICO II ←", MX || Bloomberg HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59569
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/80nOxut.png" group-title="→ MÉXICO II ←", MX || TVO SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/TVA_Sports_Logo.svg" group-title="→ MÉXICO II ←", TVA Sports
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59570
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/80nOxut.png" group-title="→ MÉXICO II ←", MX || TVO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/TVA_Sports_Logo.svg" group-title="→ MÉXICO II ←", TVA Sports
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59571
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="→ MÉXICO II ←", MX || TeenNick  HD | Infantil
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/The_DreamWorks_Channel.svg/revision/latest?cb=20220201015821&path-prefix=es" group-title="→ MÉXICO II ←", Dreamworks
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59573
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y2fulzrv" group-title="→ MÉXICO II ←", MX || Food Network HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ MÉXICO II ←", Food Network
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59574
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804763122330275840/rjSNplz1_400x400.jpg" group-title="→ MÉXICO II ←", MX || Canal 26 Aguascalientes HD
+#EXTINF:-1 tvg-logo="https://irobox.com.mx/img/canales/36canal26.png" group-title="→ MÉXICO II ←", Canal 26 Aguascalientes
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59575
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="→ MÉXICO II ←", MX || Axn HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="→ MÉXICO II ←", Axn
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59576
 
-#EXTINF:-1 tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2015/11/10/80BBD3A5-3843-4BCE-AA2D-8064DC738680/default.jpg" group-title="→ MÉXICO II ←", MX || A3 Series Internacional HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="→ MÉXICO II ←", A3Series
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59577
 
-#EXTINF:-1 tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png" group-title="→ MÉXICO II ←", MX || A&E HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/3840px-A%26E-Network-Logo.svg.png" group-title="→ MÉXICO II ←", A&E
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59578
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pa9bcy0.png" group-title="→ MÉXICO II ←", MX || Latin American sports LAS
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png" group-title="→ MÉXICO II ←", Latin American Sports
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59579
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="→ MÉXICO II ←", MX || Studio Universal HD
