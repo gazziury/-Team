@@ -4076,13 +4076,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236388
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ CINE Y SERIES ESPAÑA  ←", M+  SERIES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236389
 
-#EXTINF:-1 tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="→ CINE Y SERIES ESPAÑA  ←", A3SERIES
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236394
-
-#EXTINF:-1 tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="→ CINE Y SERIES ESPAÑA  ←", A3SERIES HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", A3SERIES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236395
 
-#EXTINF:-1 tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="→ CINE Y SERIES ESPAÑA  ←", A3SERIES FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", A3SERIES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236396
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0GXgVt2/AXN-Movies-logo.png" group-title="→ CINE Y SERIES ESPAÑA  ←", AXN MOVIE HD
