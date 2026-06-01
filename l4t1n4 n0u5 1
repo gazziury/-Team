@@ -3192,28 +3192,19 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59495
 #EXTINF:-1 tvg-logo="https://manualdeimagen.canal22.org.mx/img/logo-color-cuadrado.png" group-title="→ MÉXICO II ←", Canal 22
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59497
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="→ MÉXICO II ←", MX || NU9VE SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/NU9VE_2018.svg" group-title="→ MÉXICO II ←", NU9VE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59498
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Foro_TV_2016_NewLogo.jpg" group-title="→ MÉXICO II ←", MX || Foro Tv SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Foro_TV_2020.svg/960px-Foro_TV_2020.svg.png" group-title="→ MÉXICO II ←", Foro Tv
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59501
 
-#EXTINF:-1 tvg-logo="https://images.produ.com/noticias/0816/big-lasEstrellas.jpg" group-title="→ MÉXICO II ←", MX || Las Estrellas SD Opc. 4
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59502
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PBBQlwy.jpg" group-title="→ MÉXICO II ←", MX || Bandamax SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Bandamax_logo_2020.png/revision/latest?cb=20201024013340&path-prefix=es" group-title="→ MÉXICO II ←", Bandamax
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59504
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="→ MÉXICO II ←", MX || Telehit
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59505
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="→ MÉXICO II ←", MX || Telehit HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59510
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-dw-espano.jpg" group-title="→ MÉXICO II ←", MX || DW HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="→ MÉXICO II ←", DW
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59512
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89YGlxB.png" group-title="→ MÉXICO II ←", MX || AyM Sports HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/6/63/AYMSports21logo.png/revision/latest?cb=20210821051314&path-prefix=es" group-title="→ MÉXICO II ←", AyM Sports
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59513
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IPssYz.png" group-title="→ MÉXICO II ←", Dep|| Espn 2 HD | Mexico
