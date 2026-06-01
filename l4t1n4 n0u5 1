@@ -3968,6 +3968,12 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236338
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="→ DOCUMENTAL ESPAÑA ←", DISCOVERY 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236340
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="→ DOCUMENTAL ESPAÑA ←", DISCOVERY 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236368
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="→ DOCUMENTAL ESPAÑA ←", DISCOVERY 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236369
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236341
 
@@ -3982,6 +3988,9 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236363
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", NAT GEO WILD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236344
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", NAT GEO WILD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/236367
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", NEOX  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236348
@@ -4012,18 +4021,6 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236364
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", NATIONAL GEOGRAPHIC 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236365
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", NATIONAL GEOGRAPHIC WILD HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236366
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", NATIONAL GEOGRAPHIC WILD FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236367
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx7nff3Z/Discovery-Channel-2019.png" group-title="→ DOCUMENTAL ESPAÑA ←", DISCOVERY CHANNEL  HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236368
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx7nff3Z/Discovery-Channel-2019.png" group-title="→ DOCUMENTAL ESPAÑA ←", DISCOVERY CHANNEL FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236369
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="→ DOCUMENTAL ESPAÑA ←", ODISEA HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236370
