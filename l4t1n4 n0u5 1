@@ -4169,13 +4169,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236431
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/960px-XTRM_Espa%C3%B1a.png" group-title="→ CINE Y SERIES ESPAÑA  ←", XTRM
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236432
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COMEDY CENTRAL HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236433
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COMEDY CENTRAL FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236434
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MZtzRjt/site-logo.png" group-title="→ CINE Y SERIES ESPAÑA  ←", MyTIME MOVIE NETWORK
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png" group-title="→ CINE Y SERIES ESPAÑA  ←", MYTIME MOVIE NETWORK
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236437
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA TDT ←", ES | LA 1 SD
