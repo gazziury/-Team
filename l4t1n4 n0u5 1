@@ -3968,16 +3968,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236341
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236342
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] NAT GEO WILD HD 720P
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236343
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] NAT GEO WILD HD 1080P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", NAT GEO WILD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236344
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d19b1zTR/neox.png" group-title="→ DOCUMENTAL ESPAÑA ←", NEOX  HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", NEOX  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236348
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d19b1zTR/neox.png" group-title="→ DOCUMENTAL ESPAÑA ←", NEOX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", NEOX 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236349
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13h2Pm8n/Divinity-2012.png" group-title="→ DOCUMENTAL ESPAÑA ←", DIVINITY FHD
