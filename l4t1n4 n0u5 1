@@ -3941,16 +3941,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236331
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTdKZYCx/iberalia512-1.png" group-title="→ DOCUMENTAL ESPAÑA ←", IBERALIA ORIGINAL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236332
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYM6YBBG/DMax-Espa-a-svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] DMAX HD 1080P
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYM6YBBG/DMax-Espa-a-svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", DMAX
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236333
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8yvFGdg/descarga.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] ODISEA HD 1080P
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8yvFGdg/descarga.png" group-title="→ DOCUMENTAL ESPAÑA ←", ODISEA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236334
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8yvFGdg/descarga.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] ODISEA UHD 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8yvFGdg/descarga.png" group-title="→ DOCUMENTAL ESPAÑA ←", ODISEA 4K
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236335
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/canaldecasa.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] CANAL DECASA SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMC_Living.svg/3840px-AMC_Living.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", AMC LIVING 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236336
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] M+ DOCUMENTALES HD 720P
