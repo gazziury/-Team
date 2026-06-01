@@ -3207,22 +3207,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59512
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/6/63/AYMSports21logo.png/revision/latest?cb=20210821051314&path-prefix=es" group-title="→ MÉXICO II ←", AyM Sports
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59513
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2IPssYz.png" group-title="→ MÉXICO II ←", Dep|| Espn 2 HD | Mexico
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="→ MÉXICO II ←", Espn 2
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59514
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-3-hd_m.png" group-title="→ MÉXICO II ←", Dep|| Espn 3 HD | Mexico
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59515
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tcm_m.png" group-title="→ MÉXICO II ←", MX || TCM SD.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/250px-TCM_Latam_logo.svg.png" group-title="→ MÉXICO II ←", TCM
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59516
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wcIcl0U.jpg" group-title="→ MÉXICO II ←", MX || Morbido TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/M%C3%B3rbido_TV.png/revision/latest?cb=20210527220851&path-prefix=es" group-title="→ MÉXICO II ←", Morbido TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59518
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d6/6b/b5/d66bb576495837a6336a136895c0ee31--bein-sports-fox-sports.jpg" group-title="→ MÉXICO II ←", MX || SPACE HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59519
-
-#EXTINF:-1 tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/TNT.jpg" group-title="→ MÉXICO II ←", MX || TNT HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="→ MÉXICO II ←", TNT
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59521
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="→ MÉXICO II ←", MX || Cinema HD
