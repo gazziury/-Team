@@ -4049,17 +4049,14 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236375
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cartoon_network_modified_logo.PNG/1280px-Cartoon_network_modified_logo.PNG" group-title="→ CINE Y SERIES ESPAÑA  ←", CARTOON NETWORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236378
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/3840px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ACCION por M+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/3840px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←",M+ ACCION
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236379
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/3840px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", ACCION por M+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/3840px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←",M+ ACCION
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236380
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rc6X9fY/Comedia-por-Movistar-Plus-2023.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COMEDIA por M+ HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rc6X9fY/Comedia-por-Movistar-Plus-2023.png" group-title="→ CINE Y SERIES ESPAÑA  ←",M+ COMEDIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236381
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rc6X9fY/Comedia-por-Movistar-Plus-2023.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COMEDIA por M+ FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236382
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="→ CINE Y SERIES ESPAÑA  ←", DRAMA por M+
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236383
