@@ -3246,28 +3246,22 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59534
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Cartoon_Network.svg" group-title="→ MÉXICO II ←", Cartoon Network
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59535
 
-#EXTINF:-1 tvg-logo="https://www.conecta.es/images/noticias/VIACOM/Nickelodeon.jpg" group-title="→ MÉXICO II ←", MX || Nickelodeon SD | Infantil
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59536
-
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1159.1405279210.png" group-title="→ MÉXICO II ←", MX || NickMusic HD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/NickMusic.svg" group-title="→ MÉXICO II ←", NickMusic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59538
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/585381689427423232/f3LQu_Nb_400x400.png" group-title="→ MÉXICO II ←", MX || DISNEY CHANNEL HD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="→ MÉXICO II ←", DISNEY CHANNEL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59539
 
-#EXTINF:-1 tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="→ MÉXICO II ←", MX || Nick Jr. HD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Nick_Jr._logo_2023.svg" group-title="→ MÉXICO II ←", Nick Jr
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59540
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgRE9F0.png" group-title="→ MÉXICO II ←", MX || Disney Jr. HD | Infantil
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="→ MÉXICO II ←", Disney Jr
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59541
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/__2gkr01rYEc/SfprsAUsqgI/AAAAAAAAEEA/A-PhYB0PQMg/s400/DK-Logo-2009_cmyk_FINAL__3658502.jpg" group-title="→ MÉXICO II ←", MX || Discovery Kids HD | Infantil
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59542
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yxd84ywm" group-title="→ MÉXICO II ←", MX || TBS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/TNT_Novelas_2025.svg/revision/latest/scale-to-width-down/300?cb=20250916210038" group-title="→ MÉXICO II ←", TNT Novelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59544
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lscs3M6.jpg" group-title="→ MÉXICO II ←", MX || Garage TV SD
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/139-1393003_el-garage-tv-garage-tv-logo.png" group-title="→ MÉXICO II ←", Garage TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59546
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="→ MÉXICO II ←", MX || TNT Series
