@@ -4250,25 +4250,24 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/250858
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-44-Guadalajara-en-vivo-Online.png" group-title="MÉXICO", Canal 44
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250859
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←", ECU | Ecuavisa HD Quito
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="→ ECUADOR ←", Ecuavisa Quito
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250860
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←", ECU | Ecuavisa FHD Quito
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="→ ECUADOR ←", Ecuavisa Quito
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250861
-
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←", ECU | Ecuavisa Guayaquil  ᵗᵛᵐ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="→ ECUADOR ←", Ecuavisa Quito
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250862
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="→ ECUADOR ←", ECU | Ecuavisa HD Guayaquil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="→ ECUADOR ←", Ecuavisa Guayaquil
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250863
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/gmavision.png" group-title="→ ECUADOR ←", ECU | Gamavision  ᵗᵛᵐ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="→ ECUADOR ←", Gamavision
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250864
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/gmavision.png" group-title="→ ECUADOR ←", ECU | Gamavision HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="→ ECUADOR ←", Gamavision 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250865
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/gmavision.png" group-title="→ ECUADOR ←", ECU | Gamavision FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="→ ECUADOR ←", Gamavision 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250866
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/EC/oromar.png" group-title="→ ECUADOR ←", ECU | Oromar
