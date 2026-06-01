@@ -4121,16 +4121,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236412
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/The_DreamWorks_Channel.svg/revision/latest?cb=20220201015821&path-prefix=es" group-title="→ CINE Y SERIES ESPAÑA  ←", DREAMWORKS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236413
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqKLZBh9/Logo-bom-svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", BOM CINE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1280px-Logo-bom.svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", BOM CINE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236414
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqKLZBh9/Logo-bom-svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←", BOM CINE FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236415
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSCThLtJ/LOGO-COSMO.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COSMOS HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COSMO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236416
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSCThLtJ/LOGO-COSMO.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COSMO FHD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COSMO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236417
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="→ CINE Y SERIES ESPAÑA  ←", SYFY HD
