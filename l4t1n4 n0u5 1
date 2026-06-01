@@ -3606,14 +3606,14 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/60358
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←", DAZN 2 FHD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60359
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←", ES | DAZN 2 FHD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/12362
+
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="→ ESPAÑA DAZN ←", DAZN 3 HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60361
 
-#EXTINF:-1 tvg-logo="https://channelstore.roku.com/es-gt/details/93ea4813b18fadf50246f47009ffb0be:4968f5a5f89cbb8306d467cc85915eb8/motogp" group-title="→ ESPAÑA DAZN ←", ES | DAZN GP
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/2/motogp-logo-png_seeklogo-626226.png" group-title="→ ESPAÑA DAZN ←", ES | DAZN MotoGP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12361
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←", ES | DAZN 2 FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/12362
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Logo_de_DSports_Uruguay_Premium.svg/revision/latest/scale-to-width-down/300?cb=20260204133226&path-prefix=es" group-title="→ URUGUAY ←", URU | DSPORTS URUGUAY PREMIUM HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/558
