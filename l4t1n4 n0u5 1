@@ -4270,14 +4270,11 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/250865
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="→ ECUADOR ←", Gamavision 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250866
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/oromar.png" group-title="→ ECUADOR ←", ECU | Oromar
+#EXTINF:-1 tvg-logo="https://oromartv.myshopify.com/cdn/shop/files/Logo_Oeomar_Transparente_HD_2x_588ad61b-8151-4280-a64d-a18bc27d0168.png?v=1770069739&width=500" group-title="→ ECUADOR ←", Oromar
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250869
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/rts.png" group-title="→ ECUADOR ←", ECU | RTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="→ ECUADOR ←", RTS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250870
-
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/rts.png" group-title="→ ECUADOR ←", ECU | RTS  ᵗᵛᵐ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/250871
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/EC/rtu.png" group-title="→ ECUADOR ←", ECU | RTU
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250873
