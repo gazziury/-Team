@@ -3264,52 +3264,46 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59544
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/139-1393003_el-garage-tv-garage-tv-logo.png" group-title="→ MÉXICO II ←", Garage TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59546
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="→ MÉXICO II ←", MX || TNT Series
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/3840px-TNT_Series_2025.svg.png" group-title="→ MÉXICO II ←", TNT Series
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59547
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png" group-title="→ MÉXICO II ←", MX || Investigation Discovery HD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="→ MÉXICO II ←", Investigation Discovery
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59548
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png" group-title="→ MÉXICO II ←", MX || SyFy HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="→ MÉXICO II ←", USA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59549
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cXBxi2F.jpg" group-title="→ MÉXICO II ←", MX || E! HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="→ MÉXICO II ←", E!
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59550
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_new_c.png" group-title="→ MÉXICO II ←", MX || Star HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Star_logo.svg" group-title="→ MÉXICO II ←", Star
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59551
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="→ MÉXICO II ←", MX || AZ Corazon HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/250px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="→ MÉXICO II ←", AZ Corazon
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59552
 
-#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/08/tlc-logo.jpg" group-title="→ MÉXICO II ←", MX || TLC HD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/3840px-Discovery_Turbo_logo.svg.png" group-title="→ MÉXICO II ←", Discovery Turbo
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59553
 
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="→ MÉXICO II ←", MX || Animal Planet HD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/3840px-2018_Animal_Planet_logo.svg.png" group-title="→ MÉXICO II ←", Animal Planet
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59554
 
-#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2016/01/Star-HD.jpg" group-title="→ MÉXICO II ←", MX || Star Tve HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Star_TVE_2026.svg" group-title="→ MÉXICO II ←", Star Tve
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59556
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YSNzvpM.png" group-title="→ MÉXICO II ←", MX || Canal del Congreso SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59560
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ACIVJBb.png" group-title="→ MÉXICO II ←", MX || A+ SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/A%2B_2021.png" group-title="→ MÉXICO II ←", A+
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59561
 
-#EXTINF:-1 tvg-logo="https://radionotas.com/wp-content/uploads/2017/04/Multimedios.jpg" group-title="→ MÉXICO II ←", MX || Multimedios HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59563
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ACIVJBb.png" group-title="→ MÉXICO II ←", MX || A+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/A%2B_2021.png" group-title="→ MÉXICO II ←", A+
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59564
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png" group-title="→ MÉXICO II ←", MX || Mas Chic HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/AMC_Series_2025_2.png/revision/latest/scale-to-width-down/220?cb=20250927151709&path-prefix=es" group-title="→ MÉXICO II ←", AMC Series
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59565
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nHPCYaN.png" group-title="→ MÉXICO II ←", MX || Hola TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1280px-%C2%A1HOLA%21TVlogo.jpg" group-title="→ MÉXICO II ←", Hola TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59566
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="→ MÉXICO II ←", MX || Unicable HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/960px-Unicable_logo.svg.png" group-title="→ MÉXICO II ←", Unicable
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59567
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cHGfy69.jpg" group-title="→ MÉXICO II ←", MX || Comedy Central HD
