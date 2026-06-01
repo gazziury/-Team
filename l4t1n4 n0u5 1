@@ -3671,64 +3671,58 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/63183
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="→ EL SALVADOR ←", Canal 19
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63185
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE UNIVERSAL ←", Universal Channel HD (lat) ᶜˡᵃᵉˢᵛ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/65188
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE UNIVERSAL ←", Universal Comedy HD (lat) ᶜˡᵃᵉˢᵛ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/65189
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE UNIVERSAL ←", Universal Crime Este HD (lat) ᶜˡᵃᵉˢᵛ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/65190
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE UNIVERSAL ←", Universal Crime Oeste HD (lat) ᶜˡᵃᵉˢᵛ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/65191
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE UNIVERSAL ←", Universal Premiere Este HD (lat) ᶜˡᵃᵉˢᵛ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/65192
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE UNIVERSAL ←", Universal Reality HD (lat) ᶜˡᵃᵉˢᵛ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/65194
-
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_channel.png" group-title="→ CINE UNIVERSAL ←", Universal TV (lat)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="→ CINE UNIVERSAL ←", Universal TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65195
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_channel.png" group-title="→ CINE UNIVERSAL ←", Universal TV HD (lat)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="→ CINE UNIVERSAL ←", Universal TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65196
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_channel.png" group-title="→ CINE UNIVERSAL ←", Universal TV FHD (lat)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="→ CINE UNIVERSAL ←", Universal TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65197
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_cinema.png" group-title="→ CINE UNIVERSAL ←", Universal Cinema HD (lat)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="→ CINE UNIVERSAL ←", Universal Cinema 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65199
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_cinema.png" group-title="→ CINE UNIVERSAL ←", Universal Cinema FHD (lat)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest/scale-to-width-down/250?cb=20220311031932" group-title="→ CINE UNIVERSAL ←", Universal Cinema 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65200
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_comedy.png" group-title="→ CINE UNIVERSAL ←", Universal Comedy HD (lat)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="→ CINE UNIVERSAL ←", Universal Comedy
+http://23.153.217.158:8080/975428933tv1/j57upxsw/65189
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="→ CINE UNIVERSAL ←", Universal Comedy
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65202
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_comedy.png" group-title="→ CINE UNIVERSAL ←", Universal Comedy FHD (lat)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="→ CINE UNIVERSAL ←", Universal Comedy
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65203
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_crime.png" group-title="→ CINE UNIVERSAL ←", Universal Crime HD (lat)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest/scale-to-width-down/250?cb=20220311032018" group-title="→ CINE UNIVERSAL ←", Universal Crime  
+http://23.153.217.158:8080/975428933tv1/j57upxsw/65190
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest/scale-to-width-down/250?cb=20220311032018" group-title="→ CINE UNIVERSAL ←", Universal Crime  
+http://23.153.217.158:8080/975428933tv1/j57upxsw/65191
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest/scale-to-width-down/250?cb=20220311032018" group-title="→ CINE UNIVERSAL ←", Universal Crime 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65205
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_crime.png" group-title="→ CINE UNIVERSAL ←", Universal Crime FHD (lat)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest/scale-to-width-down/250?cb=20220311032018" group-title="→ CINE UNIVERSAL ←", Universal Crime 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65206
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_premiere.png" group-title="→ CINE UNIVERSAL ←", Universal Premiere HD (lat)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="→ CINE UNIVERSAL ←", Universal Premiere  
+http://23.153.217.158:8080/975428933tv1/j57upxsw/65192
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="→ CINE UNIVERSAL ←", Universal Premiere 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65208
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_premiere.png" group-title="→ CINE UNIVERSAL ←", Universal Premiere FHD (lat)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="→ CINE UNIVERSAL ←", Universal Premiere 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65209
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_reality.png" group-title="→ CINE UNIVERSAL ←", Universal Reality (lat)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Universal_Reality.svg/1280px-Universal_Reality.svg.png" group-title="→ CINE UNIVERSAL ←", Universal Reality
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65210
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_reality.png" group-title="→ CINE UNIVERSAL ←", Universal Reality HD (lat)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Universal_Reality.svg/1280px-Universal_Reality.svg.png" group-title="→ CINE UNIVERSAL ←", Universal Reality
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65211
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/universal_reality.png" group-title="→ CINE UNIVERSAL ←", Universal Reality FHD (lat)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Universal_Reality.svg/1280px-Universal_Reality.svg.png" group-title="→ CINE UNIVERSAL ←", Universal Reality
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65212
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/logos/pe_golden_l.png" group-title="→ CINE GOLDEN ←", Golden (lat)
