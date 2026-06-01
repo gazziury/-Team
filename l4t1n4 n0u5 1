@@ -3171,28 +3171,25 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59481
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png/revision/latest?cb=20210422144418" group-title="→ MÉXICO II ←", Baby tv
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59485
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/948281240762896384/2ITqZ7Sq_400x400.jpg" group-title="→ MÉXICO II ←", MX || TELERITMO SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Teleritmo_2023.png/revision/latest/scale-to-width-down/241?cb=20250324000228" group-title="→ MÉXICO II ←", TELERITMO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59486
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="→ MÉXICO II ←", MX || AL JAZZERA SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="→ MÉXICO II ←", AL JAZZERA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59487
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EHrkCCY.png" group-title="→ MÉXICO II ←", MX || Las Estrellas SD Opc. 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ MÉXICO II ←", Las Estrellas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59488
 
-#EXTINF:-1 tvg-logo="https://images.produ.com/noticias/0816/big-lasEstrellas.jpg" group-title="→ MÉXICO II ←", MX || Las Estrellas SD Opc. 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ MÉXICO II ←", Las Estrellas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59489
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="→ MÉXICO II ←", MX || NU9VE HD opc1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/NU9VE_2018.svg" group-title="→ MÉXICO II ←", NU9VE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59490
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="→ MÉXICO II ←", MX || Film & Arts SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59494
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="→ MÉXICO II ←", MX || Europa Europa SD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-YhENRPmcyhhgjis6GpCXjdvh-kqD7y-Wtaw7cjWvQ&s=10" group-title="→ MÉXICO II ←", Europa Europa
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59495
 
-#EXTINF:-1 tvg-logo="https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg" group-title="→ MÉXICO II ←", MX || CANAL Once SD
+#EXTINF:-1 tvg-logo="https://manualdeimagen.canal22.org.mx/img/logo-color-cuadrado.png" group-title="→ MÉXICO II ←", Canal 22
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59497
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="→ MÉXICO II ←", MX || NU9VE SD
