@@ -3902,28 +3902,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/68655
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png" group-title="→ GALAVISIÓN ←", Galavision MIAMI 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/68657
 
-#EXTINF:-1 tvg-logo="http://boxdigital.xyz:8080/images/8a6d1b6bec4ab1a2e9b0f7c938fe089d.png" group-title="→ UNIVISION ←", UNI - UNIVISION TLENOVELAS
-http://23.153.217.158:8080/975428933tv1/j57upxsw/68661
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ GUATEMALA ←", Azteca TV (gua) ᶜˡᵃ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/69396
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ GUATEMALA ←", Canal Antigua (gua) ᶜˡᵃ
-http://23.153.217.158:8080/975428933tv1/j57upxsw/69403
-
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/canal3_super_canal.png" group-title="→ GUATEMALA ←", ɢᴛ | Canal 3
-http://23.153.217.158:8080/975428933tv1/j57upxsw/69410
-
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/televisiete-gt.png" group-title="→ GUATEMALA ←", ɢᴛ | Canal 7
-http://23.153.217.158:8080/975428933tv1/j57upxsw/69411
-
-#EXTINF:-1 tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/canal-antigua-gt.png" group-title="→ GUATEMALA ←", ɢᴛ | Canal Antigua
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CanalAntigua2016Wordmark.png" group-title="→ GUATEMALA ←", Canal Antigua
 http://23.153.217.158:8080/975428933tv1/j57upxsw/69412
 
-#EXTINF:-1 tvg-logo="https://tvaztecaguate.com/wp-content/uploads/2022/02/Tv-Azteca-Guate.png" group-title="→ GUATEMALA ←", ɢᴛ | Canal Azteca
-http://23.153.217.158:8080/975428933tv1/j57upxsw/69413
-
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/guatevision-gt.png" group-title="→ GUATEMALA ←", ɢᴛ | Guatevision
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Guatevisi%C3%B3n2024.svg/revision/latest/scale-to-width-down/250?cb=20240515015057&path-prefix=es" group-title="→ GUATEMALA ←", Guatevision
 http://23.153.217.158:8080/975428933tv1/j57upxsw/69414
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJKwpwSh/Captura-de-pantalla-2024-02-01-134427-removebg-preview.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] CAZAVISION HD1080P
