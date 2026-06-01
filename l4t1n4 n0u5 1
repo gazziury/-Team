@@ -3953,19 +3953,19 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236335
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMC_Living.svg/3840px-AMC_Living.svg.png" group-title="→ DOCUMENTAL ESPAÑA ←", AMC LIVING 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236336
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] M+ DOCUMENTALES HD 720P
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="→ DOCUMENTAL ESPAÑA ←", M+ DOCUMENTALES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236337
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] M+ DOCUMENTALES HD 1080P
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="→ DOCUMENTAL ESPAÑA ←", M+ DOCUMENTALES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236338
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] DISCOVERY HD 1080P
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="→ DOCUMENTAL ESPAÑA ←", DISCOVERY 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236340
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] HISTORIA HD 720P
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236341
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] HISTORIA HD 1080P
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tg2fRSj4/Historia-2022-Spain.png" group-title="→ DOCUMENTAL ESPAÑA ←", HISTORIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236342
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="→ DOCUMENTAL ESPAÑA ←", [ES] NAT GEO WILD HD 720P
