@@ -3159,25 +3159,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59473
 #EXTINF:-1 tvg-logo="https://irobox.com.mx/img/canales/36canal26.png" group-title="→ MÉXICO II ←", Canal 26 Aguascalientes
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59478
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="→ MÉXICO II ←", MX || Axn HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="→ MÉXICO II ←", Axn
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59479
 
-#EXTINF:-1 tvg-logo="https://www.festivalclaca.cat/imgfv/m/230-2302907_universal-studios-png-logo-universal-pictures-vector-logo.png" group-title="→ MÉXICO II ←", MX || UNIVERSAL SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Universal_TV_logo.svg/revision/latest/scale-to-width-down/284?cb=20200116225925&path-prefix=es" group-title="→ MÉXICO II ←", UNIVERSAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59480
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EHrkCCY.png" group-title="→ MÉXICO II ←", MX || Las Estrellas SD Opc. 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ MÉXICO II ←", Las Estrellas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59481
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Me5uVci.jpg" group-title="→ MÉXICO II ←", MX || WARNER HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59482
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7g9XVbC.jpg" group-title="→ MÉXICO II ←", MX || Sony SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59483
-
-#EXTINF:-1 tvg-logo="http://tv.iptvboss.net/ch_logo/ANTENA3HD.png" group-title="→ MÉXICO II ←", MX || ANTENA3 SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59484
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="→ MÉXICO II ←", MX || Baby First SD | Mexico
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png/revision/latest?cb=20210422144418" group-title="→ MÉXICO II ←", Baby tv
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59485
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/948281240762896384/2ITqZ7Sq_400x400.jpg" group-title="→ MÉXICO II ←", MX || TELERITMO SD
