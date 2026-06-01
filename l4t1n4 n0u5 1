@@ -4070,14 +4070,11 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236385
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS2Kn06H/Cl-sicos-por-Movistar-Plus-2023-Logo-svg.png" group-title="→ CINE Y SERIES ESPAÑA  ←",M+ CLASICOS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236386
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ CINE Y SERIES ESPAÑA  ←", M+ SERIES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ CINE Y SERIES ESPAÑA  ←", M+ SERIES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236388
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ CINE Y SERIES ESPAÑA  ←", M+  SERIES FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ CINE Y SERIES ESPAÑA  ←", M+  SERIES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236389
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ CINE Y SERIES ESPAÑA  ←", M+ SERIES HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236390
 
 #EXTINF:-1 tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="→ CINE Y SERIES ESPAÑA  ←", A3SERIES
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236394
