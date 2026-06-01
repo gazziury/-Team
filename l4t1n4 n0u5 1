@@ -3378,7 +3378,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59601
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ MÉXICO II ←", Univision Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59602
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="→ MÉXICO II ←", Multimedios
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="→ MÉXICO II ←", Multimedios 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59603
 
 #EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="→ MÉXICO II ←", RTQ
@@ -3399,55 +3399,43 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59612
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2651547125/b510504a50015e2d8739bdd93b214c4b_400x400.jpeg" group-title="→ MÉXICO II ←", Telemar
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59613
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Gph2AU38X3glWG60j7XYzHBYjU3Absx-rEbF3hyw39CqCD1FP88oHQ-7zXzK8Cy-nKKs892M0g=s88-c-k-c0x00ffffff-no-rj" group-title="→ MÉXICO II ←", MX || Televisa Laguna
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="→ MÉXICO II ←", Multimedios 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59619
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AGIKgqMquKsngjEi1y9o5oe7P-HpDTdL1RpTcLFrbkcZ=s88-c-k-c0x00ffffff-no-rj" group-title="→ MÉXICO II ←", MX || Canal 6 Guadalajara
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="→ MÉXICO II ←", Canal 6 Guadalajara
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59620
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/8TJBp_rW0UR6C6VYZVy-vCevh9uKzcQlB7HnDD8PwjsTGJNf2OrjTcujbuY6sDwF8KJT9b_rag=s88-c-k-c0x00ffffff-no-rj" group-title="→ MÉXICO II ←", MX ||  Televisa Morelos
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59621
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a057f6d-f43c-4384-af72-8276c8545859_m.jpg" group-title="→ MÉXICO II ←", MX || NTN24 SD Opc 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ MÉXICO II ←", NTN24
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59626
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QmPIrhM.png" group-title="→ MÉXICO II ←", MX || IMAGEN TV SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Grupo_Imagen_Multimedia.2016.png" group-title="→ MÉXICO II ←", IMAGEN TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59627
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_milenio-tv_m.png" group-title="→ MÉXICO II ←", MX || Milenio TV SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="→ MÉXICO II ←", Milenio TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59629
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZrjzeT0.jpg" group-title="→ MÉXICO II ←", MX || Fox News
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59632
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QmPIrhM.png" group-title="→ MÉXICO II ←", MX || Imagen Tv HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Grupo_Imagen_Multimedia.2016.png" group-title="→ MÉXICO II ←", Imagen Tv
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59633
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Foro_TV_2016_NewLogo.jpg" group-title="→ MÉXICO II ←", MX || Foro TV HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nplus-foro-mx.svg" group-title="→ MÉXICO II ←", Foro TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59635
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7o5ZUJl.jpg" group-title="→ MÉXICO II ←", MX || CNN en Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="→ MÉXICO II ←", CNN en Español
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59637
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0a057f6d-f43c-4384-af72-8276c8545859_m.jpg" group-title="→ MÉXICO II ←", MX || NTN24 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="→ MÉXICO II ←", NTN24
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59639
 
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-hln.png" group-title="→ MÉXICO II ←", MX || HLN HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59640
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_milenio-tv_m.png" group-title="→ MÉXICO II ←", MX || Milenio TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="→ MÉXICO II ←", Milenio TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59641
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7o5ZUJl.jpg" group-title="→ MÉXICO II ←", MX || CNN en Español Opc 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="→ MÉXICO II ←", CNN en Español
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59642
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="→ MÉXICO II ←", MX || Formula Noticias SD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="→ MÉXICO II ←", Formula Noticias
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59644
 
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-hln.png" group-title="→ MÉXICO II ←", MX || HLN HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59646
-
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/5/5690.1489549372.png" group-title="→ MÉXICO II ←", CGTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/3840px-CGTN.svg.png" group-title="→ MÉXICO II ←", CGTN
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59647
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←", M+  LA LIGA SD
