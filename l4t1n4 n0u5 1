@@ -3615,7 +3615,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/60361
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/2/motogp-logo-png_seeklogo-626226.png" group-title="→ ESPAÑA DAZN ←",DAZN Moto GP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12361
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Logo_de_DSports_Uruguay_Premium.svg/revision/latest/scale-to-width-down/300?cb=20260204133226&path-prefix=es" group-title="→ URUGUAY ←", DSPORTS URUGUAY PREMIUM HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Logo_de_DSports_Uruguay_Premium.svg/revision/latest/scale-to-width-down/300?cb=20260204133226&path-prefix=es" group-title="→ URUGUAY ←", DSPORTS URUGUAY PREMIUM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/558
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ URUGUAY ←", VTV + 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61927
@@ -3659,16 +3659,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/61970
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="→ PARAGUAY ←", C9N
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61974
 
-#EXTINF:-1 tvg-logo="http://offshore.lat:36995/images/b7701f0d3b1229e95a4ced3f8d9f7c8c.png" group-title="→ EL SALVADOR ←", EL SALVADOR | Canal 21 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="→ EL SALVADOR ←", Canal 21 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63172
 
-#EXTINF:-1 tvg-logo="http://offshore.lat:36995/images/9f2c2853547ba58c455d5022ffc7c07b.jpeg" group-title="→ EL SALVADOR ←", EL SALVADOR | Canal 19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="→ EL SALVADOR ←", Canal 19
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63178
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ EL SALVADOR ←", EL SALVADOR | CANAL 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CANAL_DOCE_EST%C3%81_CON_VOS.png/1280px-CANAL_DOCE_EST%C3%81_CON_VOS.png" group-title="→ EL SALVADOR ←", Canal 12
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63183
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ EL SALVADOR ←", EL SALVADOR | Canal 19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="→ EL SALVADOR ←", Canal 19
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63185
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ CINE UNIVERSAL ←", Universal Channel HD (lat) ᶜˡᵃᵉˢᵛ
