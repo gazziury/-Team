@@ -4160,13 +4160,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236428
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YZ8HgvV/DARK.png" group-title="→ CINE Y SERIES ESPAÑA  ←", DARK
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236429
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T32vQQvw/320px-Somos.png" group-title="→ CINE Y SERIES ESPAÑA  ←", SOMOS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T32vQQvw/320px-Somos.png" group-title="→ CINE Y SERIES ESPAÑA  ←", SOMOS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236430
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRTJ58j/Xtrm-2021.png" group-title="→ CINE Y SERIES ESPAÑA  ←", XTRM HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/960px-XTRM_Espa%C3%B1a.png" group-title="→ CINE Y SERIES ESPAÑA  ←", XTRM
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236431
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTRTJ58j/Xtrm-2021.png" group-title="→ CINE Y SERIES ESPAÑA  ←", XTRM FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/960px-XTRM_Espa%C3%B1a.png" group-title="→ CINE Y SERIES ESPAÑA  ←", XTRM
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236432
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ CINE Y SERIES ESPAÑA  ←", COMEDY CENTRAL HD
