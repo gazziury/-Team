@@ -3150,25 +3150,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59469
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/AMCSeries.svg/revision/latest/scale-to-width-down/220?cb=20251101164605&path-prefix=es" group-title="→ MÉXICO II ←", AMC Series 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59470
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nHPCYaN.png" group-title="→ MÉXICO II ←", MX || Hola TV SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59471
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="→ MÉXICO II ←", MX || Unicable SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1920px-Unicable_logo.svg.png" group-title="→ MÉXICO II ←", Unicable
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59472
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cHGfy69.jpg" group-title="→ MÉXICO II ←", MX || Comedy Central HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="→ MÉXICO II ←", Comedy Central
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59473
 
-#EXTINF:-1 tvg-logo="http://mylatinotv.com:8080/images/mexico/tvcd.png" group-title="→ MÉXICO II ←", Dep|| TVCD SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59474
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tvc_m.png" group-title="→ MÉXICO II ←", MX || TVC SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59475
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="→ MÉXICO II ←", MX || TeenNick SD | Infantil
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59477
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804763122330275840/rjSNplz1_400x400.jpg" group-title="→ MÉXICO II ←", MX || Canal 26 Aguascalientes SD
+#EXTINF:-1 tvg-logo="https://irobox.com.mx/img/canales/36canal26.png" group-title="→ MÉXICO II ←", Canal 26 Aguascalientes
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59478
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="→ MÉXICO II ←", MX || Axn HD
