@@ -3219,37 +3219,31 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59518
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="→ MÉXICO II ←", TNT
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59521
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="→ MÉXICO II ←", MX || Cinema HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="→ MÉXICO II ←", Cinemax
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59522
 
-#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="→ MÉXICO II ←", MX || INGENIO TV SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/VibraTV.png/revision/latest?cb=20131030220447" group-title="→ MÉXICO II ←", Vibra TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59523
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y2pkm83w" group-title="→ MÉXICO II ←", MX || HGTV HD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="→ MÉXICO II ←", HGTV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59525
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_lifetime_m.png" group-title="→ MÉXICO II ←", MX || Life Time HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ MÉXICO II ←", Lifetime
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59527
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png" group-title="→ MÉXICO II ←", MX || Discovery H&H HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59529
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="→ MÉXICO II ←", MX || Discovery Channel HD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="→ MÉXICO II ←", Discovery Channel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59530
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/746351117177479168/MkxvzVVF_400x400.jpg" group-title="→ MÉXICO II ←", MX || Discovery World HD | Cultural
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="→ MÉXICO II ←", Discovery World
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59531
 
-#EXTINF:-1 tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/history-logo.jpg" group-title="→ MÉXICO II ←", MX || History HD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="→ MÉXICO II ←", History
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59532
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="→ MÉXICO II ←", MX || Discovery Theater HD | Cultural
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59533
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vSRh21.jpg" group-title="→ MÉXICO II ←", MX || Tooncast HD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tooncast_logo_%282%29.svg/3840px-Tooncast_logo_%282%29.svg.png" group-title="→ MÉXICO II ←", Tooncast
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59534
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ywzBaS0.jpg" group-title="→ MÉXICO II ←", MX || Cartoon Network HD | Infantil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Cartoon_Network.svg" group-title="→ MÉXICO II ←", Cartoon Network
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59535
 
 #EXTINF:-1 tvg-logo="https://www.conecta.es/images/noticias/VIACOM/Nickelodeon.jpg" group-title="→ MÉXICO II ←", MX || Nickelodeon SD | Infantil
