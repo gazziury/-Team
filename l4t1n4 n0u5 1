@@ -4214,61 +4214,34 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236497
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/3840px-DMAX_Spain_2023_Logo.svg.png" group-title="→ ESPAÑA TDT ←", Dmax 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236499
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" group-title="→ ESPAÑA TDT ←", ES | El Toro TV SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236500
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" group-title="→ ESPAÑA TDT ←", ES | El Toro TV HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236501
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="→ ESPAÑA TDT ←", ES | Energy SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236502
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="→ ESPAÑA TDT ←", ES | Energy HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="→ ESPAÑA TDT ←", Energy
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236503
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" group-title="→ ESPAÑA TDT ←", ES | FDF SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236504
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" group-title="→ ESPAÑA TDT ←", ES | Mega SD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236508
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" group-title="→ ESPAÑA TDT ←", ES | Mega HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236509
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="→ ESPAÑA TDT ←", ES | Neox SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="→ ESPAÑA TDT ←", Neox 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236512
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="→ ESPAÑA TDT ←", ES | Neox HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236513
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA TDT ←", ES | Nova SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA TDT ←", Nova 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236514
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA TDT ←", ES | Nova HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236515
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" group-title="→ ESPAÑA TDT ←", ES | TEN SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" group-title="→ ESPAÑA TDT ←", TEN 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236518
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" group-title="→ ESPAÑA TDT ←", ES | TEN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" group-title="→ ESPAÑA TDT ←", TEN 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236519
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA TDT ←", ES | Trece HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA TDT ←", Trece 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236520
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA TDT ←", ES | Trece HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA TDT ←", Trece
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236521
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA TDT ←", ES | CLAN TVE HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236535
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" group-title="→ ESPAÑA TDT ←", ES | PARAMOUNT NETWORK SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuevo_Logo_de_Squirrel_2_en_2026.svg/960px-Nuevo_Logo_de_Squirrel_2_en_2026.svg.png" group-title="→ ESPAÑA TDT ←", SQUIRREL DOS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236536
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" group-title="→ ESPAÑA TDT ←", ES | REAL MADRID TV SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" group-title="→ ESPAÑA TDT ←", REAL MADRID TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236538
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" group-title="→ ESPAÑA TDT ←", ES | REAL MADRID TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" group-title="→ ESPAÑA TDT ←", REAL MADRID TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236539
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecuadortv.png" group-title="→ ECUADOR ←", ECU | Ecuador TV
