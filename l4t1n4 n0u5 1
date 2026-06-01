@@ -3336,80 +3336,68 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/59578
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png" group-title="→ MÉXICO II ←", Latin American Sports
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59579
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="→ MÉXICO II ←", MX || Studio Universal HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="→ MÉXICO II ←", Studio Universal
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59580
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ollTjB8.jpg" group-title="→ MÉXICO II ←", MX || Fox HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Star_logo.svg" group-title="→ MÉXICO II ←", Star
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59581
 
-#EXTINF:-1 tvg-logo="http://tv.iptvboss.net/ch_logo/ANTENA3HD.png" group-title="→ MÉXICO II ←", MX || ANTENA3 HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59582
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="→ MÉXICO II ←", MX || Baby First HD | Mexico
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/BabyFirstTV-Logo-2014.png" group-title="→ MÉXICO II ←", Baby First
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59583
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s4GUt3y.png" group-title="→ MÉXICO II ←", MX || Fox News HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1280px-Fox_News_Channel_logo.svg.png" group-title="→ MÉXICO II ←", Fox News
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59586
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="→ MÉXICO II ←", MX || NU9VE HD 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NU9VE_2018.svg/1280px-NU9VE_2018.svg.png" group-title="→ MÉXICO II ←", NU9VE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59587
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="→ MÉXICO II ←", MX || Formula Noticias
+#EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand4.png" group-title="→ MÉXICO II ←", Formula Noticias
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59590
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="→ MÉXICO II ←", MX || Film & Arts HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/film_and_arts_lam.png" group-title="→ MÉXICO II ←", Film & Arts
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59592
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="→ MÉXICO II ←", MX || Europa Europa SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Europa_Europa_2016.svg/revision/latest?cb=20210517132923&path-prefix=es" group-title="→ MÉXICO II ←", Europa Europa
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59593
 
-#EXTINF:-1 tvg-logo="https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg" group-title="→ MÉXICO II ←", MX || CANAL Once HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-22-mexico-mx.png" group-title="→ MÉXICO II ←", CANAL 22
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59594
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="→ MÉXICO II ←", MX || NU9VE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NU9VE_2018.svg/1280px-NU9VE_2018.svg.png" group-title="→ MÉXICO II ←", NU9VE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59595
 
-#EXTINF:-1 tvg-logo="https://images.produ.com/noticias/0816/big-lasEstrellas.jpg" group-title="→ MÉXICO II ←", MX || Las Estrellas HD #1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ MÉXICO II ←", Las Estrellas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59598
 
-#EXTINF:-1 tvg-logo="http://mylatinotv.com:8080/images/mexico/adrenalina.png" group-title="→ MÉXICO II ←", Dep|| Adrenalina Sports.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logo_Adrenalina-%2820q6%29.png/1280px-Logo_Adrenalina-%2820q6%29.png" group-title="→ MÉXICO II ←", Adrenalina Sports
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59599
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1mEtGWt.png" group-title="→ MÉXICO II ←", MX || Televisa Tijuana
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59600
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cOv9h92.png" group-title="→ MÉXICO II ←", MX || Bitme SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" group-title="→ MÉXICO II ←", Bitme
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59601
 
-#EXTINF:-1 tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2017/07/Univision_tlnovelas_logo_image-768x529.jpg" group-title="→ MÉXICO II ←", MX || Univision Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ MÉXICO II ←", Univision Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59602
 
-#EXTINF:-1 tvg-logo="https://radionotas.com/wp-content/uploads/2017/04/Multimedios.jpg" group-title="→ MÉXICO II ←", MX || Multimedios HD Mty
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg" group-title="→ MÉXICO II ←", Multimedios
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59603
 
-#EXTINF:-1 tvg-logo="https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg" group-title="→ MÉXICO II ←", MX | Canal Once
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59604
-
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="→ MÉXICO II ←", MX || RTQ Queretaro
+#EXTINF:-1 tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="→ MÉXICO II ←", RTQ
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59606
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpZKLaqtpkBdDl9ODE4TWeREZDLMhc15LIm-A9zLbLQ9QqHK27&usqp=CAU" group-title="→ MÉXICO II ←", MX || Telemax Hermosillo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="→ MÉXICO II ←", Telemax Hermosillo
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59607
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjzC6ip0W5pkGXJieY93L8Qw3bFGYANvGepR8rGXFsPd-rsHkO&usqp=CAU" group-title="→ MÉXICO II ←", MX || Teleritmo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Teleritmo_2023.png/revision/latest/scale-to-width-down/241?cb=20250324000228" group-title="→ MÉXICO II ←", Teleritmo
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59608
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/canal14.png.8e09339834d7a51b01ca91078439fab1.png" group-title="→ MÉXICO II ←", MX || Canal 14 SPR Noticias
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1280px-Logo_Canal_14_M%C3%A9xico.svg.png" group-title="→ MÉXICO II ←", Canal 14
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59611
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3635878963/ff092b7a1f0b6ed1b4a75d98a4c86360_400x400.jpeg" group-title="→ MÉXICO II ←", Estrella TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="→ MÉXICO II ←", Estrella TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59612
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ MÉXICO II ←", MX || Telemar
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2651547125/b510504a50015e2d8739bdd93b214c4b_400x400.jpeg" group-title="→ MÉXICO II ←", Telemar
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59613
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/PQX5irkyGuWRV65CjGinx5t75hEqULpjGWb-mR5Sm1W3YvH8mtniNwaLR7vIYEnJxcbym69tZx4=s48-c-k-c0x00ffffff-no-rj" group-title="→ MÉXICO II ←", MX || Canal 23 Televisa Ensenada
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59616
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Gph2AU38X3glWG60j7XYzHBYjU3Absx-rEbF3hyw39CqCD1FP88oHQ-7zXzK8Cy-nKKs892M0g=s88-c-k-c0x00ffffff-no-rj" group-title="→ MÉXICO II ←", MX || Televisa Laguna
 http://23.153.217.158:8080/975428933tv1/j57upxsw/59619
