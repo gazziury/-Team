@@ -4145,16 +4145,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/236421
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="→ CINE Y SERIES ESPAÑA  ←", AMC 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236422
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZHWk0V7/images.png" group-title="→ CINE Y SERIES ESPAÑA  ←", AMC BREAK HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236423
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZHWk0V7/images.png" group-title="→ CINE Y SERIES ESPAÑA  ←", AMC BREAK FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/236424
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvtyWrnR/AMC-Crime-Print.png" group-title="→ CINE Y SERIES ESPAÑA  ←", AMC CRIME SD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="→ CINE Y SERIES ESPAÑA  ←", AMC CRIME
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236425
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="→ CINE Y SERIES ESPAÑA  ←", AMC  CRIME FHD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="→ CINE Y SERIES ESPAÑA  ←", AMC  CRIME 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/236426
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YZ8HgvV/DARK.png" group-title="→ CINE Y SERIES ESPAÑA  ←", DARK HD
