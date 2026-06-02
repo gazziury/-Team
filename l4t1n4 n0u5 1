@@ -4276,16 +4276,16 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/250869
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="→ ECUADOR ←", RTS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250870
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/rtu.png" group-title="→ ECUADOR ←", ECU | RTU
+#EXTINF:-1 tvg-logo="https://canalrtu.tv/wp-content/uploads/2024/06/00000_00136-1.png" group-title="→ ECUADOR ←", RTU
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250873
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/tccanal.png" group-title="→ ECUADOR ←", ECU | TC  ᵗᵛᵐ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png/revision/latest?cb=20200214015701" group-title="→ ECUADOR ←", TC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250874
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/tccanal.png" group-title="→ ECUADOR ←", ECU | TC HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png/revision/latest?cb=20200214015701" group-title="→ ECUADOR ←", TC 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250875
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/tccanal.png" group-title="→ ECUADOR ←", ECU | TC FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png/revision/latest?cb=20200214015701" group-title="→ ECUADOR ←", TC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250876
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/EC/teleamazonas.png" group-title="→ ECUADOR ←", ECU | Teleamazonas HD
