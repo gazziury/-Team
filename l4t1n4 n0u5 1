@@ -826,260 +826,175 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/12021
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12022
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/2/cinema-logo-png_seeklogo-482329.png" group-title="CINEMA PPV LATINOS", Cinema 37 PPV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12023
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ STARZ CINEMA ←", Starz Cinema 
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="STARZ CINEMA", Starz Cinema 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/664
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="→ STARZ CINEMA ←", Starz East 
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="STARZ CINEMA", Starz East 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/666
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ STARZ CINEMA ←", Starz Edge 
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="STARZ CINEMA", Starz Edge 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/667
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Encore_Black.png" group-title="→ STARZ CINEMA ←", Starz Encore Black 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Encore_Black.png" group-title="STARZ CINEMA", Starz Encore Black 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/668
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ STARZ CINEMA ←", Starz Encore Classic 
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="STARZ CINEMA", Starz Encore Classic 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/669
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ STARZ CINEMA ←", Starz Encore Family 
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="STARZ CINEMA", Starz Encore Family 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/670
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1280px-Starz_Encore_Logo_2022.svg.png" group-title="→ STARZ CINEMA ←", Starz Encore
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1280px-Starz_Encore_Logo_2022.svg.png" group-title="STARZ CINEMA", Starz Encore
 http://23.153.217.158:8080/975428933tv1/j57upxsw/671
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ STARZ CINEMA ←", Starz Encore Suspense 
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="STARZ CINEMA", Starz Encore Suspense 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/672
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ STARZ CINEMA ←", Starz Encore Western 
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="STARZ CINEMA", Starz Encore Western 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/673
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="→ STARZ CINEMA ←", Starz 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="STARZ CINEMA", Starz 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/674
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ STARZ CINEMA ←", Starz West 
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="STARZ CINEMA", Starz West 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/675
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",  Pasiones
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="ENTRETENIMIENTO",  Pasiones
 http://23.153.217.158:8080/975428933tv1/j57upxsw/590
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",  Pasiones 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="ENTRETENIMIENTO",  Pasiones 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/591
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",  Pasiones 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="ENTRETENIMIENTO",  Pasiones 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/592
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←",  GLITZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="ENTRETENIMIENTO",  GLITZ
 http://23.153.217.158:8080/975428933tv1/j57upxsw/593
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",  El GOURMET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="ENTRETENIMIENTO",  El GOURMET
 http://23.153.217.158:8080/975428933tv1/j57upxsw/596
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",  El Gourmet 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="ENTRETENIMIENTO",  El Gourmet 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/598
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",  Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ENTRETENIMIENTO",  Food Network
 http://23.153.217.158:8080/975428933tv1/j57upxsw/599
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",  Food Network 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ENTRETENIMIENTO",  Food Network 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/600
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←",  Garage TV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="ENTRETENIMIENTO",  Garage TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/602
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←",  Garage TV 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="ENTRETENIMIENTO",  Garage TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/603
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←",  Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="ENTRETENIMIENTO",  Telemundo Internacional
 http://23.153.217.158:8080/975428933tv1/j57upxsw/604
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←",  Telemundo Internacional 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="ENTRETENIMIENTO",  Telemundo Internacional 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/605
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←",  Lifetime 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="ENTRETENIMIENTO",  Lifetime 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/606
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←",  Lifetime 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="ENTRETENIMIENTO",  Lifetime 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/607
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←",  Lifetime 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="ENTRETENIMIENTO",  Lifetime 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/608
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="→ ENTRETENIMIENTO ←",  Univision 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="ENTRETENIMIENTO",  Univision 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/609
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←",  Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="ENTRETENIMIENTO",  Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/611
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←",  Tlnovelas 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="ENTRETENIMIENTO",  Tlnovelas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/612
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←",  Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="ENTRETENIMIENTO",  Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269133
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←",  Tlnovelas 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="ENTRETENIMIENTO",  Tlnovelas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269134
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ ENTRETENIMIENTO ←",  Univision Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="ENTRETENIMIENTO",  Univision Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269135
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ ENTRETENIMIENTO ←", Univision Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="ENTRETENIMIENTO", Univision Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269139
-
-#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←",  CANAL COCINA
+#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",  CANAL COCINA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/613
-
-#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←", Canal Cocina 
+#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO", Canal Cocina 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/614
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←",  Antena 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="ENTRETENIMIENTO",  Antena 3
 http://23.153.217.158:8080/975428933tv1/j57upxsw/617
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←",  Antena 3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="ENTRETENIMIENTO",  Antena 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/618
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←",  Antena 3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="ENTRETENIMIENTO",  Antena 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/619
-
-#EXTINF:-1 tvg-logo="https://greattunarace.org/wp-content/uploads/2018/05/logo-caza-y-pesca.png" group-title="→ ENTRETENIMIENTO ←",  Caza y Pesca HD
+#EXTINF:-1 tvg-logo="https://greattunarace.org/wp-content/uploads/2018/05/logo-caza-y-pesca.png" group-title="ENTRETENIMIENTO",  Caza y Pesca HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/620
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←",  Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="ENTRETENIMIENTO",  Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/622
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←",  Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="ENTRETENIMIENTO",  Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/623
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←",  Más Chic 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="ENTRETENIMIENTO",  Más Chic 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/624
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←",  Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="ENTRETENIMIENTO",  Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/625
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",  E! Entertainment
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="ENTRETENIMIENTO",  E! Entertainment
 http://23.153.217.158:8080/975428933tv1/j57upxsw/627
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",  E! Entertainment HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="ENTRETENIMIENTO",  E! Entertainment HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/628
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",  E! Entertainment
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="ENTRETENIMIENTO",  E! Entertainment
 http://23.153.217.158:8080/975428933tv1/j57upxsw/629
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←",  HOLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="ENTRETENIMIENTO",  HOLA TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/630
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←",  Hola TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="ENTRETENIMIENTO",  Hola TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/631
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",  Las Estrellas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="ENTRETENIMIENTO",  Las Estrellas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/633
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←",  Distrito Comedia 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",  Distrito Comedia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/634
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←",  Distrito Comedia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO",  Distrito Comedia
 http://23.153.217.158:8080/975428933tv1/j57upxsw/635
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",  Rai Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="ENTRETENIMIENTO",  Rai Italia
 http://23.153.217.158:8080/975428933tv1/j57upxsw/636
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",  Rai Italia 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="ENTRETENIMIENTO",  Rai Italia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/637
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",  Rai Italia 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="ENTRETENIMIENTO",  Rai Italia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/638
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDjhxH7c/Zoo-Moo-logo.png" group-title="→ INFANTILES ←",  ZOOMOO 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDjhxH7c/Zoo-Moo-logo.png" group-title="INFANTILES",  ZOOMOO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61604
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMhZrT0h/Semillitas-logo.png" group-title="→ INFANTILES ←",  SEMILLITAS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMhZrT0h/Semillitas-logo.png" group-title="INFANTILES",  SEMILLITAS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61602
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bQtRpYM/Pakapaka.png" group-title="→ INFANTILES ←",  PAKAPAKA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bQtRpYM/Pakapaka.png" group-title="INFANTILES",  PAKAPAKA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61601
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",  BABY TV 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="INFANTILES",  BABY TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/372
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",  BABY FIRST 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="INFANTILES",  BABY FIRST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/370
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←", BABY FIRST 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="INFANTILES", BABY FIRST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/371
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png" group-title="→ INFANTILES ←", NICKELODEON CLÁSICO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png" group-title="INFANTILES", NICKELODEON CLÁSICO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61590
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ INFANTILES ←", TEEN NICK 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="INFANTILES", TEEN NICK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/396
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←", NICKELODEON 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="INFANTILES", NICKELODEON 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/390
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", NICK JR. 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="INFANTILES", NICK JR. 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/393
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", NICK JR. 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="INFANTILES", NICK JR. 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/394
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", NICK JR. 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="INFANTILES", NICK JR. 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/392
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", CARTOONITO 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="INFANTILES", CARTOONITO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61600
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", CARTOONITO 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="INFANTILES", CARTOONITO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61603
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", CARTOONITO 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="INFANTILES", CARTOONITO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61599
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="INFANTILES", CARTOON NETWORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/373
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="INFANTILES", CARTOON NETWORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/374
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="INFANTILES", CARTOON NETWORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/375
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←", DISNEY JR 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="INFANTILES", DISNEY JR 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/385
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", DISCOVERY KIDS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="INFANTILES", DISCOVERY KIDS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/376
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", DISCOVERY KIDS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="INFANTILES", DISCOVERY KIDS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/377
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", DISCOVERY KIDS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="INFANTILES", DISCOVERY KIDS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/378
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←",DISNEY CHANNEL 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="INFANTILES",DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/382
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←", DISNEY CHANNEL 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="INFANTILES", DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/383
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←", DISNEY CHANNEL 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="INFANTILES", DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/384
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", TOONCAST 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="INFANTILES", TOONCAST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/399
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", TOONCAST 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="INFANTILES", TOONCAST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/398
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", TOONCAST 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="INFANTILES", TOONCAST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/397
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", DREAMWORKS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="INFANTILES", DREAMWORKS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61598
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", DREAMWORKS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="INFANTILES", DREAMWORKS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61597
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", DREAMWORKS 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="INFANTILES", DREAMWORKS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61596
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="→ CULTURA ←", LOVE NATURE
