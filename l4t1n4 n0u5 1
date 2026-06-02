@@ -2434,44 +2434,38 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/12361
 
 
 
-#EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-1.png" group-title="→ PARAGUAY ←", UNICANAL
+#EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-1.png" group-title="PARAGUAY", UNICANAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61962
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="→ PARAGUAY ←", TELEFUTURO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="PARAGUAY", TELEFUTURO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61963
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="→ PARAGUAY ←", SUR TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="PARAGUAY", SUR TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61964
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/RPC_Televisi%C3%B3n_2021.svg/revision/latest/scale-to-width-down/250?cb=20250109011835" group-title="→ PARAGUAY ←", RPC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/RPC_Televisi%C3%B3n_2021.svg/revision/latest/scale-to-width-down/250?cb=20250109011835" group-title="PARAGUAY", RPC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61966
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest/scale-to-width-down/188?cb=20201020230413&path-prefix=es" group-title="→ PARAGUAY ←", PARAVISION
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest/scale-to-width-down/188?cb=20201020230413&path-prefix=es" group-title="PARAGUAY", PARAVISION
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61967
-
-#EXTINF:-1 tvg-logo="https://imgur.com/CaA7l86.png" group-title="→ PARAGUAY ←", MEGA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/CaA7l86.png" group-title="PARAGUAY", MEGA TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61968
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png" group-title="→ PARAGUAY ←", NOTICIAS PY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png" group-title="PARAGUAY", NOTICIAS PY
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61969
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png" group-title="→ PARAGUAY ←", LA TELE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png" group-title="PARAGUAY", LA TELE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61970
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="→ PARAGUAY ←", C9N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="PARAGUAY", C9N
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61974
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="→ EL SALVADOR ←", Canal 21 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="EL SALVADOR", Canal 21 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63172
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="→ EL SALVADOR ←", Canal 19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="EL SALVADOR", Canal 19
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63178
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CANAL_DOCE_EST%C3%81_CON_VOS.png/1280px-CANAL_DOCE_EST%C3%81_CON_VOS.png" group-title="→ EL SALVADOR ←", Canal 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CANAL_DOCE_EST%C3%81_CON_VOS.png/1280px-CANAL_DOCE_EST%C3%81_CON_VOS.png" group-title="EL SALVADOR", Canal 12
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63183
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="→ EL SALVADOR ←", Canal 19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="EL SALVADOR", Canal 19
 http://23.153.217.158:8080/975428933tv1/j57upxsw/63185
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="→ CINE UNIVERSAL ←", Universal TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/65195
