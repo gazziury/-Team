@@ -1682,20 +1682,15 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/12471
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12476
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2dc5DnM/ETB-Basque-2022-logo-svg.png" group-title="ESPAÑA", ETB Basque
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12485
-
-#EXTINF:-1 tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2025/11/cdn-deportes-online-cdn-sportmax-en-vivo.jpg" group-title="→ REPÚBLICA DOMINICANA ←", CDN Deportes 
+#EXTINF:-1 tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2025/11/cdn-deportes-online-cdn-sportmax-en-vivo.jpg" group-title="REPÚBLICA DOMINICANA", CDN Deportes 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/31299
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/DigitalQuince2018.png/revision/latest?cb=20220725023016&path-prefix=es" group-title="→ REPÚBLICA DOMINICANA ←", DIGITAL 15
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/DigitalQuince2018.png/revision/latest?cb=20220725023016&path-prefix=es" group-title="REPÚBLICA DOMINICANA", DIGITAL 15
 http://23.153.217.158:8080/975428933tv1/j57upxsw/31301
-
-#EXTINF:-1 tvg-logo="https://attachment.tapatalk-cdn.com/48241/201912/0_90a3d53292e0db006844613aa50f4fdc.png" group-title="→ REPÚBLICA DOMINICANA ←", TELEUNIVERSO
+#EXTINF:-1 tvg-logo="https://attachment.tapatalk-cdn.com/48241/201912/0_90a3d53292e0db006844613aa50f4fdc.png" group-title="REPÚBLICA DOMINICANA", TELEUNIVERSO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/31305
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemicro_1998.png" group-title="→ REPÚBLICA DOMINICANA ←", TELEMICRO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Telemicro_1998.png" group-title="REPÚBLICA DOMINICANA", TELEMICRO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/31306
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png" group-title="→ REPÚBLICA DOMINICANA ←", ANTENA  7
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png" group-title="REPÚBLICA DOMINICANA", ANTENA  7
 http://23.153.217.158:8080/975428933tv1/j57upxsw/31308
 
 
