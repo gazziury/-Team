@@ -1080,32 +1080,23 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/415
 http://23.153.217.158:8080/975428933tv1/j57upxsw/416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="CULTURA", DISCOVERY SCIENCE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/417
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←", 24 HORAS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="NOTICIAS", 24 HORAS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/676
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←", 24 HORAS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="NOTICIAS", 24 HORAS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/677
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", CNN ESPANOL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="NOTICIAS", CNN ESPANOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/680
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", CNN ESPANOL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="NOTICIAS", CNN ESPANOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/681
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", CNN ESPANOL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="NOTICIAS", CNN ESPANOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/682
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", CNN ESPANOL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="NOTICIAS", CNN ESPANOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/683
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="→ NOTICIAS ←", CNN CHILE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="NOTICIAS", CNN CHILE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/684
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="→ NOTICIAS ←", CNN INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="NOTICIAS", CNN INTERNACIONAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/688
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="→ NOTICIAS ←", CNN INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="NOTICIAS", CNN INTERNACIONAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/689
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision East 
