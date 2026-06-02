@@ -1396,34 +1396,25 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/61546
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61547
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", Telefe 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61548
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", Telefe 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61549
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Ve_Plus_2017.png" group-title="VENEZUELA", Venevision Plus
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23173
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png" group-title="→ VENEZUELA ←", Venevision
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png" group-title="VENEZUELA", Venevision
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23174
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="→ VENEZUELA ←", Globovision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="VENEZUELA", Globovision
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23175
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Meridiano_Televisi%C3%B3n.png" group-title="→ VENEZUELA ←", Meridiano TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Meridiano_Televisi%C3%B3n.png" group-title="VENEZUELA", Meridiano TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23176
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tlt-la-tele-tuya-logo-EF4E1CF083-seeklogo.com.png" group-title="→ VENEZUELA ←", TLT
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tlt-la-tele-tuya-logo-EF4E1CF083-seeklogo.com.png" group-title="VENEZUELA", TLT
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23177
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="→ VENEZUELA ←", Telesur
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png" group-title="VENEZUELA", Telesur
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23178
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="→ VENEZUELA ←", Tves
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA", Tves
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23180
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="→ VENEZUELA ←", Ivc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="VENEZUELA", Ivc
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23187
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png" group-title="→ VENEZUELA ←", Televen
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png" group-title="VENEZUELA", Televen
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23188
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←", BEIN LALIGA 1
