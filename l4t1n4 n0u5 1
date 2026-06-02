@@ -4288,17 +4288,14 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/250875
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TCtelevision2020.png/revision/latest?cb=20200214015701" group-title="→ ECUADOR ←", TC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250876
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/teleamazonas.png" group-title="→ ECUADOR ←", ECU | Teleamazonas HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="→ ECUADOR ←", Teleamazonas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250878
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/teleamazonas.png" group-title="→ ECUADOR ←", ECU | Teleamazonas FHD Guayaquil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="→ ECUADOR ←", Teleamazonas Guayaquil
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250879
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/televicentro.png" group-title="→ ECUADOR ←", ECU | Televicentro  ᵗᵛᵐ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest/scale-to-width-down/1200?cb=20230215230242&path-prefix=es" group-title="→ ECUADOR ←", Televicentro
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250881
-
-#EXTINF:-1 tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←", ECU | ECDF FHD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/250885
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ivc.png" group-title="→ VENEZUELA 2  ←", VENEZUELA | IVC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250998
