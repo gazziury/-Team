@@ -506,6 +506,22 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/366
 http://23.153.217.158:8080/975428933tv1/j57upxsw/367
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="FÚTBOL COLOMBIA", WIN SPORTS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/369
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Logo_de_DSports_Uruguay_Premium.svg/revision/latest/scale-to-width-down/300?cb=20260204133226&path-prefix=es" group-title="URUGUAY", DSPORTS URUGUAY PREMIUM 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/558
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY", VTV + 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61927
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY", VTV + 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61936
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY", VTV +
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61950
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="URUGUAY", VTV 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61941
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", Canal 4
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61931
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", Canal 4 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61933
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", Canal 4 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61952
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="CINE & SERIES", A&E 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/100
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="CINE & SERIES", A&E 
@@ -2411,22 +2427,12 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/60361
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/2/motogp-logo-png_seeklogo-626226.png" group-title="ESPAÑA DAZN",DAZN Moto GP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12361
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Logo_de_DSports_Uruguay_Premium.svg/revision/latest/scale-to-width-down/300?cb=20260204133226&path-prefix=es" group-title="→ URUGUAY ←", DSPORTS URUGUAY PREMIUM 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/558
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ URUGUAY ←", VTV + 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61927
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ URUGUAY ←", VTV + 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61936
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ URUGUAY ←", VTV +
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61950
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="→ URUGUAY ←", VTV 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61941
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="→ URUGUAY ←", Canal 4
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61931
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="→ URUGUAY ←", Canal 4 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61933
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="→ URUGUAY ←", Canal 4 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61952
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://media.unicanal.com.py/2021/11/logo-1.png" group-title="→ PARAGUAY ←", UNICANAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61962
