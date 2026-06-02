@@ -2299,6 +2299,8 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/57239
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/250px-Logo_Tennis_Channel.svg.png" group-title="TENIS", TENIS CHANNEL 4
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57240
 
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LA LIGA", M+  LA LIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60235
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LA LIGA", M+ LA LIGA 
@@ -2365,33 +2367,33 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/60315
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60317
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60318
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/960px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA DEPORTES", ED• M+ VAMOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/960px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA DEPORTES", M+ VAMOS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60324
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", M+ DEPORTES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/25795
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", M+ DEPORTES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/25800
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", M+ DEPORTES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/25801
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="ESPAÑA DEPORTES", M+ DEPORTES 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60331
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="ESPAÑA DEPORTES", M+ DEPORTES 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60332
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="ESPAÑA DEPORTES", M+ DEPORTES 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60333
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="ESPAÑA DEPORTES", M+ DEPORTES 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60334
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="ESPAÑA DEPORTES", M+ DEPORTES 4 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60336
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="ESPAÑA DEPORTES", ED• M+ ELLAS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="ESPAÑA DEPORTES", M+ ELLAS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60340
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="ESPAÑA DEPORTES", ED• M+ ELLAS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="ESPAÑA DEPORTES", M+ ELLAS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60341
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="ESPAÑA DEPORTES", ED• M+ GOLF 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="ESPAÑA DEPORTES", M+ GOLF 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60343
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="ESPAÑA DEPORTES", ED• M+ GOLF 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="ESPAÑA DEPORTES", M+ GOLF 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60344
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA DEPORTES", ED• M+ GOLF 2 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA DEPORTES", M+ GOLF 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60348
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="ESPAÑA DAZN", DAZN F1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60349
