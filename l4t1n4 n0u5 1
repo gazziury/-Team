@@ -1,103 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="CHILE", TVN 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/38
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="CHILE", TVN 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/37
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="CHILE", TVN 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/35
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="CHILE",  MEGA 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/43
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="CHILE", MEGA 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/42
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="CHILE", MEGA 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/41
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="CHILE", MEGA 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/40
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE", CHV 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/46
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE", CHV 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/45
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="CHILE", CANAL 13 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/51
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="CHILE", CANAL 13 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/50
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="CHILE", CANAL 13 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/49
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="CHILE", CANAL 13
-http://23.153.217.158:8080/975428933tv1/j57upxsw/48
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XBpx2J/13c.png" group-title="CHILE", 13C
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XBpx2J/13c.png" group-title="CHILE", 13C
-http://23.153.217.158:8080/975428933tv1/j57upxsw/56
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XBpx2J/13c.png" group-title="CHILE", 13C 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57273
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XBpx2J/13c.png" group-title="CHILE", 13C
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57274
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="CHILE", TV+
-http://23.153.217.158:8080/975428933tv1/j57upxsw/62
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="CHILE", TV+
-http://23.153.217.158:8080/975428933tv1/j57upxsw/61
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="CHILE", TV+
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57262
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="CHILE", 24 HORAS
-http://23.153.217.158:8080/975428933tv1/j57upxsw/78
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="CHILE", 24 HORAS
-http://23.153.217.158:8080/975428933tv1/j57upxsw/77
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="CHILE", 24 HORAS
-http://23.153.217.158:8080/975428933tv1/j57upxsw/32
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="CHILE", 24 HORAS
-http://23.153.217.158:8080/975428933tv1/j57upxsw/31
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="CHILE", CNN CHILE 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/34
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="CHILE", CNN CHILE 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/33
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="CHILE", CNN CHILE 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57268
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="CHILE", CNN CHILE
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57269
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png" group-title="CHILE", ZONA LATINA
-http://23.153.217.158:8080/975428933tv1/j57upxsw/70
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png" group-title="CHILE", ZONA LATINA 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/75
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png" group-title="CHILE", ZONA LATINA
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57270
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="CHILE", ETC
-http://23.153.217.158:8080/975428933tv1/j57upxsw/65
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="CHILE", ETC
-http://23.153.217.158:8080/975428933tv1/j57upxsw/66
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" group-title="CHILE", LA REC TV
-http://23.153.217.158:8080/975428933tv1/j57upxsw/60
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" group-title="CHILE", LA REC TV
-http://23.153.217.158:8080/975428933tv1/j57upxsw/59
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" group-title="CHILE", LA REC TV
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57277
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png" group-title="CHILE", LA RED
-http://23.153.217.158:8080/975428933tv1/j57upxsw/53
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE", TV CHILE
-http://23.153.217.158:8080/975428933tv1/j57upxsw/56870
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE", TV CHILE
-http://23.153.217.158:8080/975428933tv1/j57upxsw/56871
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE", TV CHILE
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57260
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE", TV CHILE 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57261
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="CHILE", TELETRAK 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/68
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="CHILE", TELETRAK 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/69
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="CHILE", TELETRAK
-http://23.153.217.158:8080/975428933tv1/j57upxsw/57272
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF2xwwqp/viax.png" group-title="CHILE", VIA-X 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/64
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF2xwwqp/viax.png" group-title="CHILE", VIA-X 
-http://23.153.217.158:8080/975428933tv1/j57upxsw/63
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhnPVVth/13t.png" group-title="CHILE", 13 TELESERIES
-http://23.153.217.158:8080/975428933tv1/j57upxsw/82
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxQL7N24/t13.png" group-title="CHILE", T13
-http://23.153.217.158:8080/975428933tv1/j57upxsw/83
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LJ8cFGZ/t13-radio.png" group-title="CHILE", T13 RADIO
-http://23.153.217.158:8080/975428933tv1/j57upxsw/85
 #EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",  EVENTOS 1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/20203
 #EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",  EVENTOS 2
@@ -306,6 +208,104 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/580
 http://23.153.217.158:8080/975428933tv1/j57upxsw/551
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnB141sf/pngegg-1.png" group-title="DEPORTES LATINOS", RED BULL TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/584
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="CHILE", TVN 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/38
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="CHILE", TVN 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/37
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrLhsHcG/tvn.png" group-title="CHILE", TVN 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/35
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="CHILE",  MEGA 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/43
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="CHILE", MEGA 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/42
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="CHILE", MEGA 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/41
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHz0t4yc/mega.png" group-title="CHILE", MEGA 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/40
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE", CHV 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/46
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE", CHV 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/45
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="CHILE", CANAL 13 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/51
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="CHILE", CANAL 13 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/50
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="CHILE", CANAL 13 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/49
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png" group-title="CHILE", CANAL 13
+http://23.153.217.158:8080/975428933tv1/j57upxsw/48
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XBpx2J/13c.png" group-title="CHILE", 13C
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XBpx2J/13c.png" group-title="CHILE", 13C
+http://23.153.217.158:8080/975428933tv1/j57upxsw/56
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XBpx2J/13c.png" group-title="CHILE", 13C 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57273
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0XBpx2J/13c.png" group-title="CHILE", 13C
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57274
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="CHILE", TV+
+http://23.153.217.158:8080/975428933tv1/j57upxsw/62
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="CHILE", TV+
+http://23.153.217.158:8080/975428933tv1/j57upxsw/61
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFM1qHr6/tv.png" group-title="CHILE", TV+
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57262
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="CHILE", 24 HORAS
+http://23.153.217.158:8080/975428933tv1/j57upxsw/78
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="CHILE", 24 HORAS
+http://23.153.217.158:8080/975428933tv1/j57upxsw/77
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="CHILE", 24 HORAS
+http://23.153.217.158:8080/975428933tv1/j57upxsw/32
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="CHILE", 24 HORAS
+http://23.153.217.158:8080/975428933tv1/j57upxsw/31
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="CHILE", CNN CHILE 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/34
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="CHILE", CNN CHILE 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/33
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="CHILE", CNN CHILE 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57268
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="CHILE", CNN CHILE
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57269
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png" group-title="CHILE", ZONA LATINA
+http://23.153.217.158:8080/975428933tv1/j57upxsw/70
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png" group-title="CHILE", ZONA LATINA 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/75
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png" group-title="CHILE", ZONA LATINA
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57270
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="CHILE", ETC
+http://23.153.217.158:8080/975428933tv1/j57upxsw/65
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="CHILE", ETC
+http://23.153.217.158:8080/975428933tv1/j57upxsw/66
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" group-title="CHILE", LA REC TV
+http://23.153.217.158:8080/975428933tv1/j57upxsw/60
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" group-title="CHILE", LA REC TV
+http://23.153.217.158:8080/975428933tv1/j57upxsw/59
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" group-title="CHILE", LA REC TV
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57277
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png" group-title="CHILE", LA RED
+http://23.153.217.158:8080/975428933tv1/j57upxsw/53
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE", TV CHILE
+http://23.153.217.158:8080/975428933tv1/j57upxsw/56870
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE", TV CHILE
+http://23.153.217.158:8080/975428933tv1/j57upxsw/56871
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE", TV CHILE
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57260
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE", TV CHILE 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57261
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="CHILE", TELETRAK 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/68
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="CHILE", TELETRAK 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png" group-title="CHILE", TELETRAK
+http://23.153.217.158:8080/975428933tv1/j57upxsw/57272
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF2xwwqp/viax.png" group-title="CHILE", VIA-X 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/64
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF2xwwqp/viax.png" group-title="CHILE", VIA-X 
+http://23.153.217.158:8080/975428933tv1/j57upxsw/63
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhnPVVth/13t.png" group-title="CHILE", 13 TELESERIES
+http://23.153.217.158:8080/975428933tv1/j57upxsw/82
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxQL7N24/t13.png" group-title="CHILE", T13
+http://23.153.217.158:8080/975428933tv1/j57upxsw/83
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LJ8cFGZ/t13-radio.png" group-title="CHILE", T13 RADIO
+http://23.153.217.158:8080/975428933tv1/j57upxsw/85
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBÓL CHILE", FUTBÓL CHILENO I 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/86
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBÓL CHILE", FUTBÓL CHILENO I 
