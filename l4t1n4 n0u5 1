@@ -1848,44 +1848,31 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/54400
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54419
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbqZGL7n/zona-latina-blanco.png" group-title="CHILE", ZONA LATINA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/56873
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Accion
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Accion
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54682
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Comedia 1
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Comedia 1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54686
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Comedia 2
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Comedia 2
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54687
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Ficcion
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Ficcion
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54690
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Infantil Sagas
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Infantil Sagas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54694
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Romance
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Romance
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54699
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Terror
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Terror
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54700
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Terror
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Terror
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54701
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Zombis
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Zombis
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54702
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Accion 1
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Accion 1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54937
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Accion 2
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Accion 2
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54938
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Cine Familiar
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Cine Familiar
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54944
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="→ CINE 24/7 ←", Documentales
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/247-logo.png" group-title="CINE 24/7", Documentales
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54957
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png" group-title="→ MÉXICO ←", Cartoonito
