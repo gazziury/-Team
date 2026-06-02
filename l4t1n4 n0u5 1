@@ -1348,82 +1348,58 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/24142
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24143
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Km5cMWb/Univision-2019.png" group-title="USA", Univision Denver
 http://23.153.217.158:8080/975428933tv1/j57upxsw/24144
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/3840px-VH1_logonew.svg.png" group-title="→ MÚSICA ←", VH1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/3840px-VH1_logonew.svg.png" group-title="MÚSICA", VH1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47262
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png" group-title="→ MÚSICA ←", Bandamax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png" group-title="MÚSICA", Bandamax
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47263
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="→ MÚSICA ←", MTV Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="MÚSICA", MTV Hits
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47266
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1280px-MTV_Classic_2021.svg.png" group-title="→ MÚSICA ←", MTV Classics
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1280px-MTV_Classic_2021.svg.png" group-title="MÚSICA", MTV Classics
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47267
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="→ MÚSICA ←", Telehit
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="MÚSICA", Telehit
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47268
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png" group-title="→ MÚSICA ←", Concert Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png" group-title="MÚSICA", Concert Channel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47270
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", America 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="ARGENTINA", America 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15814
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", America 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="ARGENTINA", America 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15815
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", AMERICA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="ARGENTINA", AMERICA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61561
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/3840px-Canal_26_logo_%282022%29.svg.png" group-title="→ ARGENTINA ←", Canal 26 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/3840px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA", Canal 26 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15840
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="→ ARGENTINA ←", El Nueve 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA", El Nueve 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15881
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="→ ARGENTINA ←", El Trece 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="ARGENTINA", El Trece 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15905
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="→ ARGENTINA ←", El Trece 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="ARGENTINA", El Trece 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16158
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="→ ARGENTINA ←", TV Publica
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", TV Publica
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16159
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="→ ARGENTINA ←", TV Publica 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", TV Publica 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16160
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="→ ARGENTINA ←", ESPN Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="ARGENTINA", ESPN Premium
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16161
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="→ ARGENTINA ←", TN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA", TN 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16397
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="→ ARGENTINA ←", TN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA", TN 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16477
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", Telefe 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/53225
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", Telefe 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/53226
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", TELEFE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61544
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", Telefe
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61546
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61547
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", Telefe 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61548
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61549
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Ve_Plus_2017.png" group-title="→ VENEZUELA ←", Venevision Plus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Ve_Plus_2017.png" group-title="VENEZUELA", Venevision Plus
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23173
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/Venevision-en-vivo-Online.png" group-title="→ VENEZUELA ←", Venevision
