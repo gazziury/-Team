@@ -1322,7 +1322,32 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/23063
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23064
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="USA", Galavision San Francisco 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23065
-
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="USA", Telemundo San francisco
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23423
+#EXTINF:-1 tvg-logo="https://media.telemundo51.com/2019/09/TLMD_51_On_Dark@3x.png" group-title="USA", Telemundo Miami
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23426
+#EXTINF:-1 tvg-logo="https://www.nbcuproyectoinnovacion.com/wp-content/themes/project-innovation/assets/img/pi_tlmd_la_2x.png" group-title="USA", Telemundo Los Angeles
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23427
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="USA", Telemundo Las Vegas
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23428
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="USA", Telemundo Houston
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23429
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="USA", Telemundo Fresno
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23430
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="USA", Telemundo Dallas
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23431
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="USA", Telemundo Chicago.
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23432
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="USA", Telemundo Boston
+http://23.153.217.158:8080/975428933tv1/j57upxsw/23433
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg" group-title="USA", Bitme HD
+http://23.153.217.158:8080/975428933tv1/j57upxsw/24141
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/3840px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA", Unimas Los Angeles
+http://23.153.217.158:8080/975428933tv1/j57upxsw/24142
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Km5cMWb/Univision-2019.png" group-title="USA", Univision Los Angeles
+http://23.153.217.158:8080/975428933tv1/j57upxsw/24143
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Km5cMWb/Univision-2019.png" group-title="USA", Univision Denver
+http://23.153.217.158:8080/975428933tv1/j57upxsw/24144
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/3840px-VH1_logonew.svg.png" group-title="→ MÚSICA ←", VH1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47262
 
@@ -1839,44 +1864,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/31306
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png" group-title="→ REPÚBLICA DOMINICANA ←", ANTENA  7
 http://23.153.217.158:8080/975428933tv1/j57upxsw/31308
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ USA ←", Telemundo San francisco
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23423
 
-#EXTINF:-1 tvg-logo="https://media.telemundo51.com/2019/09/TLMD_51_On_Dark@3x.png" group-title="→ USA ←", Telemundo Miami
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23426
-
-#EXTINF:-1 tvg-logo="https://www.nbcuproyectoinnovacion.com/wp-content/themes/project-innovation/assets/img/pi_tlmd_la_2x.png" group-title="→ USA ←", Telemundo Los Angeles
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23427
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ USA ←", Telemundo Las Vegas
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23428
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ USA ←", Telemundo Houston
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23429
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ USA ←", Telemundo Fresno
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23430
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ USA ←", Telemundo Dallas
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23431
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ USA ←", Telemundo Chicago.
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23432
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ USA ←", Telemundo Boston
-http://23.153.217.158:8080/975428933tv1/j57upxsw/23433
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg" group-title="→ USA ←", Bitme HD
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24141
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/3840px-Logo_UniM%C3%A1s_2021.svg.png" group-title="→ USA ←", Unimas Los Angeles
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24142
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Km5cMWb/Univision-2019.png" group-title="→ USA ←", Univision Los Angeles
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24143
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Km5cMWb/Univision-2019.png" group-title="→ USA ←", Univision Denver
-http://23.153.217.158:8080/975428933tv1/j57upxsw/24144
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Nick_Jr._logo_2023.svg" group-title="→ ZAPPING CHILE ←", NICK JR 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/54428
