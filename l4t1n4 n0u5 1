@@ -4297,25 +4297,22 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/250879
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest/scale-to-width-down/1200?cb=20230215230242&path-prefix=es" group-title="→ ECUADOR ←", Televicentro
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250881
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ivc.png" group-title="→ VENEZUELA 2  ←", VENEZUELA | IVC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="VENEZUELA", IVC
 http://23.153.217.158:8080/975428933tv1/j57upxsw/250998
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Bolivia/atb_bo.png" group-title="→ BOLIVIA ←", BO | ATB
+#EXTINF:-1 tvg-logo="https://www.atb.com.bo/wp-content/uploads/2026/04/logo_2026-movil.png" group-title="→ BOLIVIA ←", ATB
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269125
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Bolivia/bolivision_bo.png" group-title="→ BOLIVIA ←", BO | Bolivision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" group-title="→ BOLIVIA ←", Bolivision
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269128
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="→ BOLIVIA ←", BO | Unitel La Paz
-http://23.153.217.158:8080/975428933tv1/j57upxsw/269129
-
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Bolivia/reduno_bo.png" group-title="→ BOLIVIA ←", BO | Red Uno La Paz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1280px-Uno_logo.svg.png" group-title="→ BOLIVIA ←", Red Uno
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269130
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Bolivia/rtp_bo.png" group-title="→ BOLIVIA ←", BO | RTP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="→ BOLIVIA ←", RTP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269131
 
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Bolivia/unitel_bo.png" group-title="→ BOLIVIA ←", BO | Unitel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/UNITEL2011.png/revision/latest/scale-to-width-down/284?cb=20160719232827" group-title="→ BOLIVIA ←", Unitel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269132
 
 
