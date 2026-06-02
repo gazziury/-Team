@@ -2292,181 +2292,124 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/57054
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57239
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Tennis_Channel.svg/250px-Logo_Tennis_Channel.svg.png" group-title="TENIS", TENIS CHANNEL 4
 http://23.153.217.158:8080/975428933tv1/j57upxsw/57240
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←", M+  LA LIGA 
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LA LIGA", M+  LA LIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60235
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←", M+ LA LIGA 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LA LIGA", M+ LA LIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60237
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←", M+ LA LIGA 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LA LIGA", M+ LA LIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60238
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←", DAZN LALIGA  
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN", DAZN LALIGA  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60244
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←", M+LA LIGA 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LA LIGA", M+LA LIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60245
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8bnKBps/MLIG1.png" group-title="→ ESPAÑA LA LIGA ←", M+  LA LIGA 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bnKBps/MLIG1.png" group-title="ESPAÑA LA LIGA", M+  LA LIGA 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60249
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCDG3Z3/MLIG2.png" group-title="→ ESPAÑA LA LIGA ←", M+ LALIGA 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCDG3Z3/MLIG2.png" group-title="ESPAÑA LA LIGA", M+ LALIGA 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60252
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←", DAZN LALIGA 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN", DAZN LALIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60262
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←", DAZN LALIGA 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN", DAZN LALIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60263
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←", DAZN LALIGA 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN", DAZN LALIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60264
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←", DAZN LA LIGA 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA DAZN", DAZN LA LIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60265
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA DAZN ←", DAZN LALIGA 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="ESPAÑA DAZN", DAZN LALIGA 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60267
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA DAZN ←", DAZN LALIGA 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="ESPAÑA DAZN", DAZN LALIGA 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60268
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA DAZN ←", DAZN LALIGA 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="ESPAÑA DAZN", DAZN LALIGA 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60269
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA CAMPEONES 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA CAMPEONES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60279
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA CAMPEONES 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA CAMPEONES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60280
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA CAMPEONES 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA CAMPEONES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60283
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA CAMPEONES 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA CAMPEONES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60287
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA DE CAMPEONES 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60305
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA DE CAMPEONES 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60290
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA DE CAMPEONES 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60291
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA DE CAMPEONES 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60292
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZytRB0/CHAP3.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA DE CAMPEONES 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZytRB0/CHAP3.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 4
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60293
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZytRB0/CHAP3.png" group-title="→ ESPAÑA LIGA DE CAMPEONES ←", M+ LIGA DE CAMPEONES 4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZytRB0/CHAP3.png" group-title="ESPAÑA LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 4 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60294
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←", LA LIGA TV HYPERMOTION  
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60309
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←", LA LIGA TV HYPERMOTION  
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60310
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←", LA LIGA TV HYPERMOTION 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60312
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="→ ESPAÑA LA LIGA ←", LA LIGA TV HYPERMOTION 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60313
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="→ ESPAÑA LA LIGA ←", LA LIGA TV HYPERMOTION 2 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60314
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="→ ESPAÑA LA LIGA ←", LALIGA TV HYPERMOTION 2 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="ESPAÑA LA LIGA", LALIGA TV HYPERMOTION 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60316
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="→ ESPAÑA LA LIGA ←", LA LIGA TV HYPERMOTION 2 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60315
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="→ ESPAÑA LA LIGA ←", LA LIGA TV HYPERMOTION 3 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60317
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="→ ESPAÑA LA LIGA ←", LA LIGA TV HYPERMOTION 3 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="ESPAÑA LA LIGA", LA LIGA TV HYPERMOTION 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60318
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/960px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ VAMOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/960px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA DEPORTES", ED• M+ VAMOS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60324
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ DEPORTES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/25795
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ DEPORTES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/25800
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ DEPORTES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/25801
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ DEPORTES 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60331
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ DEPORTES 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60332
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ DEPORTES 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60333
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ DEPORTES 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60334
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ DEPORTES 4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="ESPAÑA DEPORTES", ED• M+ DEPORTES 4 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60336
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ ELLAS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="ESPAÑA DEPORTES", ED• M+ ELLAS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60340
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ ELLAS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="ESPAÑA DEPORTES", ED• M+ ELLAS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60341
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ GOLF 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="ESPAÑA DEPORTES", ED• M+ GOLF 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60343
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ GOLF 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="ESPAÑA DEPORTES", ED• M+ GOLF 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60344
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="→ ESPAÑA DEPORTES ←", ED• M+ GOLF 2 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA DEPORTES", ED• M+ GOLF 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60348
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←", DAZN F1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="ESPAÑA DAZN", DAZN F1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60349
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←", DAZN F1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="ESPAÑA DAZN", DAZN F1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60350
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←", DAZN F1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="ESPAÑA DAZN", DAZN F1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60351
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA DAZN ←", DAZN  F1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="ESPAÑA DAZN", DAZN  F1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60353
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="→ ESPAÑA DAZN ←", DAZN 1 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="ESPAÑA DAZN", DAZN 1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60354
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="→ ESPAÑA DAZN ←", DAZN 1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="ESPAÑA DAZN", DAZN 1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60356
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←", DAZN 2 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="ESPAÑA DAZN", DAZN 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60357
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←", DAZN 2 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="ESPAÑA DAZN", DAZN 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60358
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←", DAZN 2 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="ESPAÑA DAZN", DAZN 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60359
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="→ ESPAÑA DAZN ←", DAZN 2 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="ESPAÑA DAZN", DAZN 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12362
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="→ ESPAÑA DAZN ←", DAZN 3 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="ESPAÑA DAZN", DAZN 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/60361
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/2/motogp-logo-png_seeklogo-626226.png" group-title="→ ESPAÑA DAZN ←",DAZN Moto GP
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/2/motogp-logo-png_seeklogo-626226.png" group-title="ESPAÑA DAZN",DAZN Moto GP
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12361
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Logo_de_DSports_Uruguay_Premium.svg/revision/latest/scale-to-width-down/300?cb=20260204133226&path-prefix=es" group-title="→ URUGUAY ←", DSPORTS URUGUAY PREMIUM 
