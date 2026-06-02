@@ -474,10 +474,10 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/89
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="→ FUTBÓL CHILE ←", FUTBÓL CHILENO II
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61274
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←", TNT SPORTS PREMIUM 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←", TNT SPORTS PREMIUM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/96
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←", TNT SPORTS PREMIUM 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←", TNT SPORTS PREMIUM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/97
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←", TNT SPORTS 
@@ -507,7 +507,7 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/248240
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←", TNT SPORTS PREMIUM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/247844
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←", TNT SPORTS PREMIUM 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←", TNT SPORTS PREMIUM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/248243
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZFt8kVG/america.png" group-title="→ PERÚ ←", AMERICA TV 
@@ -1239,481 +1239,481 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/12022
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/2/cinema-logo-png_seeklogo-482329.png" group-title="→ CINEMA PPV LATINOS ←", Cinema 37 PPV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12023
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Cinema HD_1080P
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ STARZ CINEMA ←", Starz Cinema 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/664
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz East HD_1080P
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="→ STARZ CINEMA ←", Starz East 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/666
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Edge HD_1080P
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ STARZ CINEMA ←", Starz Edge 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/667
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Encore_Black.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Black HD_1080P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Encore_Black.png" group-title="→ STARZ CINEMA ←", Starz Encore Black 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/668
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Classic HD_1080P
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ STARZ CINEMA ←", Starz Encore Classic 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/669
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Family HD_1080P
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ STARZ CINEMA ←", Starz Encore Family 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/670
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1280px-Starz_Encore_Logo_2022.svg.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/1280px-Starz_Encore_Logo_2022.svg.png" group-title="→ STARZ CINEMA ←", Starz Encore
 http://23.153.217.158:8080/975428933tv1/j57upxsw/671
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Suspense HD_1080P
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ STARZ CINEMA ←", Starz Encore Suspense 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/672
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz Encore Western HD_1080P
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ STARZ CINEMA ←", Starz Encore Western 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/673
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="→ STARZ CINEMA ←", CINE| Starz HD_1080P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="→ STARZ CINEMA ←", Starz 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/674
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ STARZ CINEMA ←", CINE| Starz West HD_1080P
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ STARZ CINEMA ←", Starz West 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/675
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Pasiones
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",  Pasiones
 http://23.153.217.158:8080/975428933tv1/j57upxsw/590
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Pasiones TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",  Pasiones 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/591
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Pasiones OP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",  Pasiones 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/592
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| GLITZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←",  GLITZ
 http://23.153.217.158:8080/975428933tv1/j57upxsw/593
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←", ENT| El GOURMET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",  El GOURMET
 http://23.153.217.158:8080/975428933tv1/j57upxsw/596
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←", ENT| El Gourmet HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",  El Gourmet 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/598
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",  Food Network
 http://23.153.217.158:8080/975428933tv1/j57upxsw/599
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Food Network OP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",  Food Network 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/600
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| El Garage TV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←",  Garage TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/602
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Garage TV HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←",  Garage TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/603
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←",  Telemundo Internacional
 http://23.153.217.158:8080/975428933tv1/j57upxsw/604
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←", ENT| Telemundo Internacional HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←",  Telemundo Internacional 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/605
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| LIFETIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←",  Lifetime 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/606
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Lifetime OP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←",  Lifetime 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/607
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Lifetime HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="→ ENTRETENIMIENTO ←",  Lifetime 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/608
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="→ ENTRETENIMIENTO ←", ENT| LA_Univision HD.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="→ ENTRETENIMIENTO ←",  Univision 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/609
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←", ENT| Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←",  Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/611
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←", ENT| Tlnovelas HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←",  Tlnovelas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/612
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←", ENT | Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←",  Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269133
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←", ENT | Tlnovelas FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="→ ENTRETENIMIENTO ←",  Tlnovelas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269134
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT | Univision Tlnovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ ENTRETENIMIENTO ←",  Univision Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269135
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ ENTRETENIMIENTO ←", USA**:UNIVISION TLNOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="→ ENTRETENIMIENTO ←", Univision Tlnovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/269139
 
-#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←", ENT| CANAL COCINA
+#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←",  CANAL COCINA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/613
 
-#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←", ENT| Cocina TV
+#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←", Canal Cocina 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/614
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←",  Antena 3
 http://23.153.217.158:8080/975428933tv1/j57upxsw/617
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←",  Antena 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/618
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT| Antena 3 HD OP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1280px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="→ ENTRETENIMIENTO ←",  Antena 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/619
 
-#EXTINF:-1 tvg-logo="https://greattunarace.org/wp-content/uploads/2018/05/logo-caza-y-pesca.png" group-title="→ ENTRETENIMIENTO ←", ENT| Caza y Pesca HD
+#EXTINF:-1 tvg-logo="https://greattunarace.org/wp-content/uploads/2018/05/logo-caza-y-pesca.png" group-title="→ ENTRETENIMIENTO ←",  Caza y Pesca HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/620
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←",  Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/622
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←",  Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/623
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←",  Más Chic 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/624
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←", ENT| Más Chic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="→ ENTRETENIMIENTO ←",  Más Chic
 http://23.153.217.158:8080/975428933tv1/j57upxsw/625
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←", ENT| E! Entertainment
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",  E! Entertainment
 http://23.153.217.158:8080/975428933tv1/j57upxsw/627
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←", ENT| E! Entertainment HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",  E! Entertainment HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/628
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←", ENT| E! Entertainment
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",  E! Entertainment
 http://23.153.217.158:8080/975428933tv1/j57upxsw/629
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←", ENT| HOLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←",  HOLA TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/630
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←", ENT| Hola TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←",  Hola TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/631
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←", ENT| Las Estrellas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",  Las Estrellas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/633
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←", MEX| Distrito Comedia 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←",  Distrito Comedia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/634
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←", MEX| Distrito Comedia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←",  Distrito Comedia
 http://23.153.217.158:8080/975428933tv1/j57upxsw/635
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",  Rai Italia
 http://23.153.217.158:8080/975428933tv1/j57upxsw/636
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia HQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",  Rai Italia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/637
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←", ENT: Rai Italia HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",  Rai Italia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/638
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDjhxH7c/Zoo-Moo-logo.png" group-title="→ INFANTILES ←", INF• ZOOMOO (HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDjhxH7c/Zoo-Moo-logo.png" group-title="→ INFANTILES ←",  ZOOMOO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61604
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMhZrT0h/Semillitas-logo.png" group-title="→ INFANTILES ←", INF• SEMILLITAS (HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMhZrT0h/Semillitas-logo.png" group-title="→ INFANTILES ←",  SEMILLITAS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61602
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bQtRpYM/Pakapaka.png" group-title="→ INFANTILES ←", INF• PAKAPAKA (HD)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bQtRpYM/Pakapaka.png" group-title="→ INFANTILES ←",  PAKAPAKA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61601
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←", INF• BABY TV (HD)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",  BABY TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/372
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←", INF• BABY FIRST (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",  BABY FIRST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/370
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←", INF• BABY FIRST (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←", BABY FIRST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/371
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png" group-title="→ INFANTILES ←", INF• NICKELODEON CLÁSICO (HD)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png" group-title="→ INFANTILES ←", NICKELODEON CLÁSICO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61590
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ INFANTILES ←", INF• TEEN NICK (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ INFANTILES ←", TEEN NICK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/396
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←", INF• NICKELODEON (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←", NICKELODEON 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/390
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", INF• NICK JR. (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", NICK JR. 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/393
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", INF• NICK JR. (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", NICK JR. 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/394
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", INF• NICK JR. (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←", NICK JR. 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/392
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", INF• CARTOONITO (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", CARTOONITO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61600
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", INF• CARTOONITO (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", CARTOONITO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61603
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", INF• CARTOONITO (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←", CARTOONITO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61599
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", INF• CARTOON NETWORK (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", CARTOON NETWORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/373
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", INF• CARTOON NETWORK (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", CARTOON NETWORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/374
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", INF• CARTOON NETWORK (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←", CARTOON NETWORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/375
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←", INF• DISNEY JR (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←", DISNEY JR 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/385
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", INF• DISCOVERY KIDS (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", DISCOVERY KIDS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/376
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", INF• DISCOVERY KIDS (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", DISCOVERY KIDS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/377
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", INF• DISCOVERY KIDS (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←", DISCOVERY KIDS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/378
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←", INF• DISNEY CHANNEL (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←",DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/382
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←", INF• DISNEY CHANNEL (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←", DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/383
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←", INF• DISNEY CHANNEL (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←", DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/384
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", INF• TOONCAST (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", TOONCAST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/399
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", INF• TOONCAST (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", TOONCAST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/398
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", INF• TOONCAST (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←", TOONCAST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/397
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", INF• DREAMWORKS (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", DREAMWORKS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61598
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", INF• DREAMWORKS (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", DREAMWORKS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61597
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", INF• DREAMWORKS (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←", DREAMWORKS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61596
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="→ CULTURA ←", CUL• LOVE NATURE (HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="→ CULTURA ←", LOVE NATURE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/451
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png" group-title="→ CULTURA ←", CUL• TRU TV (HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png" group-title="→ CULTURA ←", TRU TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/450
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←", CUL• EL GOURMET (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←", EL GOURMET 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/427
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←", CUL• EL GOURMET (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←", EL GOURMET 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/428
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←", CUL• TLC (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←", TLC 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/447
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←", CUL• TLC (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←", TLC 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/448
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←", CUL• TLC (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←", TLC 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/449
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←", CUL• ANIMAL PLANET (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←", ANIMAL PLANET 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/402
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←", CUL• ANIMAL PLANET (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←", ANIMAL PLANET 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/403
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←", CUL• ANIMAL PLANET (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←", ANIMAL PLANET 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/404
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←", CUL• ANIMAL PLANET (HD) »4«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←", ANIMAL PLANET 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/405
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", CUL• HISTORY CHANNEL (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", HISTORY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/431
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", CUL• HISTORY CHANNEL (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", HISTORY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/432
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", CUL• HISTORY CHANNEL (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", HISTORY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/433
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", CUL• HISTORY CHANNEL (HD) »4«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←", HISTORY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/434
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/3840px-History2_logo_%282022%29.svg.png" group-title="→ CULTURA ←", CUL• H2 (HD) »1«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/3840px-History2_logo_%282022%29.svg.png" group-title="→ CULTURA ←", H2
 http://23.153.217.158:8080/975428933tv1/j57upxsw/429
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/3840px-History2_logo_%282022%29.svg.png" group-title="→ CULTURA ←", CUL• H2 (HD) »2«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/3840px-History2_logo_%282022%29.svg.png" group-title="→ CULTURA ←", H2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/430
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", CUL• NAT GEO »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", NAT GEO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/442
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", CUL• NAT GEO »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", NAT GEO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/443
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", CUL• NAT GEO (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", NAT GEO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/440
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", CUL• NAT GEO (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", NAT GEO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/444
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", CUL• NAT GEO (HD) »4«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←", NAT GEO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/445
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2DMS9HY/Discovery-Civilization-logo-svg.png" group-title="→ CULTURA ←", CUL• DISCOVERY CIVILIZATION (HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2DMS9HY/Discovery-Civilization-logo-svg.png" group-title="→ CULTURA ←", DISCOVERY CIVILIZATION
 http://23.153.217.158:8080/975428933tv1/j57upxsw/409
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="→ CULTURA ←", CUL• DISCOVERY THEATER (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="→ CULTURA ←", DISCOVERY THEATER 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/418
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="→ CULTURA ←", CUL• DISCOVERY THEATER (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="→ CULTURA ←", DISCOVERY THEATER 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/419
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←", CUL• DISCOVERY CHANNEL (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←", DISCOVERY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/406
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←", CUL• DISCOVERY CHANNEL (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←", DISCOVERY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/407
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←", CUL• DISCOVERY TURBO (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←", DISCOVERY TURBO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/420
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←", CUL• DISCOVERY TURBO (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←", DISCOVERY TURBO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/421
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←", CUL• DISCOVERY TURBO (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←", DISCOVERY TURBO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/422
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←", CUL• DISCOVERY WORLD (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←", DISCOVERY WORLD 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/423
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←", CUL• DISCOVERY WORLD (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←", DISCOVERY WORLD 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/424
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="→ CULTURA ←", CUL• DISCOVERY INVESTIGATION (HD) »1«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="→ CULTURA ←", DISCOVERY INVESTIGATION 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/437
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="→ CULTURA ←", CUL• DISCOVERY INVESTIGATION (HD) »2«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="→ CULTURA ←", DISCOVERY INVESTIGATION 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/438
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="→ CULTURA ←", CUL• DISCOVERY INVESTIGATION (HD) »3«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="→ CULTURA ←", DISCOVERY INVESTIGATION 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/439
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←", CUL• DISCOVERY H&H (HD) »1«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←", DISCOVERY H&H 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/410
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←", CUL• DISCOVERY H&H (HD) »2«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←", DISCOVERY H&H 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/411
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←", CUL• DISCOVERY H&H (HD) »3«
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←", DISCOVERY H&H 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/412
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ CULTURA ←", CUL• DISCOVERY SCIENCE (HD) »1«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ CULTURA ←", DISCOVERY SCIENCE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/414
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ CULTURA ←", CUL• DISCOVERY SCIENCE (HD) »2«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ CULTURA ←", DISCOVERY SCIENCE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/415
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ CULTURA ←", CUL• DISCOVERY SCIENCE (HD) »3«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ CULTURA ←", DISCOVERY SCIENCE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/416
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ CULTURA ←", CUL• DISCOVERY SCIENCE (HD) »4«
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="→ CULTURA ←", DISCOVERY SCIENCE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/417
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←", NT: 24 HORASᴴᴰ ⁽ᵒᵖ¹⁾
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←", 24 HORAS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/676
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←", NT: 24 HORASᴴᴰ ⁽ᵒᵖ²⁾
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png" group-title="→ NOTICIAS ←", 24 HORAS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/677
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ¹⁾
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", CNN ESPANOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/680
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ²⁾
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", CNN ESPANOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/681
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ³⁾
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", CNN ESPANOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/682
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", NT: CNN ESPANOLᴴᴰ ⁽ᵒᵖ⁴⁾
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xY9dR8g/cnnespanol.png" group-title="→ NOTICIAS ←", CNN ESPANOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/683
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="→ NOTICIAS ←", NT: CNN CHILEᴴᴰ ⁽ᵒᵖ¹⁾
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60gfzQ0/cnnchile.png" group-title="→ NOTICIAS ←", CNN CHILE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/684
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="→ NOTICIAS ←", NT: CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ³⁾
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="→ NOTICIAS ←", CNN INTERNACIONAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/688
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="→ NOTICIAS ←", NT: CNN INTERNACIONALᴴᴰ ⁽ᵒᵖ⁴⁾
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="→ NOTICIAS ←", CNN INTERNACIONAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/689
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision East HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision East 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22919
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Fresno HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Fresno 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22920
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Houston HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Houston 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22921
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Los Angeles HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Los Angeles 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22922
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Las Vegas HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Las Vegas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22923
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision New York HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision New York 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22925
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Philadelphia HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Philadelphia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22926
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Phoenix HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Phoenix 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22927
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Sacramento HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Sacramento 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22928
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision San Antonio HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision San Antonio 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22930
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision San Francisco HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision San Francisco 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22931
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision West HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision West 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22932
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", GALAVISION ATLANTA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", GALAVISION ATLANTA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22933
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision MIAMI HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision MIAMI 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22935
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION MIAMI HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION MIAMI 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22936
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION NEW YORK HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION NEW YORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22937
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION DALLAS TX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION DALLAS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22938
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION (KAKW-AUSTIN)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION AUSTIN
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22939
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION (KDTV-SAN FRANCISCO-OAK-SAN JOSE)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION SAN FRANCISCO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22940
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION (WLTV-MIAMI-FT. LAUDERDALE)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION MIAMI
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22942
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION (WQHS-CLEVELAND-AKRON CANTON)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION CLEVELAND
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22943
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION (WUVP-PHILADELPHIA PA)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION PHILADELPHIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22944
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION (WXTV-NEW YORK NY)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION NEW YORK
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22945
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION ATLANTA
@@ -1731,13 +1731,13 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/22950
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION NETWORK
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22951
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", TX | SAN ANTONIO | UNIVISION KWEX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION SAN ANTONIO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22952
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION BOSTON
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22953
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", CA | HANFORD | UNIVISION KFTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION HANFORD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22954
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION WASHINGTON
@@ -1788,274 +1788,274 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/22970
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION WEST
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22972
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION: HANFORD | KFTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION HANFORD 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22973
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION: LOCAL | IL | Joliet | 35 WGBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIVISION LOCAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22974
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS (KFSF-SAN FRANCISCO-OAK-SAN JOSE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS SAN FRANCISCO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22975
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS (WFPA-PHILADELPHIA PA)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS PHILADELPHIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22976
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS (WXFT-CHICAGO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS CHICAGO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22977
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS NEW YORK HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS NEW YORK 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22978
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS (KFPH-PHOENIX (PRESCOTT) AZ)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS PHOENIX
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22979
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS (KFTR-LOS ANGELES CA)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS LOS ANGELES
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22980
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS (KSTR-DALLAS-FT WORTH TX)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS DALLAS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22981
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS (KTFO-AUSTIN TX)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS AUSTIN
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22982
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS (WAMI-MIAMI-FT. LAUDERDALE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS MIAMI
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22983
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UniMas West
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22984
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Cleveland HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Cleveland 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22985
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS PHILADELPHIA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS PHILADELPHIA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22987
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS 31 (KTFO) Austin | HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS Austin 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22988
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Colorado  HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Colorado  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22989
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS EAST HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS EAST 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22990
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Houston  HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Houston  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22991
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Las Vegas HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Las Vegas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22992
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22993
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS SACRAMENTO HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS SACRAMENTO 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22994
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS San Antonio HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS San Antonio 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22995
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS TUCSON  HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS TUCSON  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22996
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS  Fresno  HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS  Fresno  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22997
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS  Miami  HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS  Miami  
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22998
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS ARIZONA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/22999
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS Boston MA WUTF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", UNIMAS Boston 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23000
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Tucson (KFTU) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Tucson 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23021
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas San Antonio (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas San Antonio 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23022
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Philadelphia (WXFT) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Philadelphia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23023
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Dallas (KSTR) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Dallas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23024
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas New York (WFUT) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas New York 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23025
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Miami (WAMI) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Miami 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23026
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Los Angeles (KFTR) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Los Angeles
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23027
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Austin (KTFO) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Austin 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23028
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Sacramento (KATFK) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Sacramento 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23029
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Atlanta (WUVG) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Atlanta 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23030
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Phoenix (KFPH) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Phoenix 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23032
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Chicago (WXFT) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88gkFbH/unias.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Unimas Chicago 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23033
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Boston (WUNI) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Boston 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23034
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Colorado (KVSN) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Colorado 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23035
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Denver (KCEC) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Denver 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23036
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Tlenovelas (UNITLN) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Tlenovelas
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23038
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Los Angeles (KMEX) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Los Angeles 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23039
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Houston (KXLN) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Houston
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23040
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Austin (KAKW)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Austin 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23041
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Network (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Network 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23042
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Dallas (KUVN) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Dallas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23043
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Atlanta (WUVG) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Atlanta 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23045
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Miami (WLTV) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Miami 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23046
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision New York (WXTV) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision New York 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23047
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision San Francisco (KDTV) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision San Francisco 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23048
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Philadelphia (WUPV) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Philadelphia 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23050
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Phoenix (WXTV) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Phoenix 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23051
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Nashville (WLLC) (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP606jW/UNICIS.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Univision Nashville 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23052
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision New York (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision New York 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23054
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Atlanta (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Atlanta 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23056
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Fresno (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Fresno
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23057
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23058
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Las Vegas (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Las Vegas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23059
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Phoenix (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Phoenix 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23061
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Raleight (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Raleight 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23062
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Salt Lake (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision Salt Lake 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23063
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision San Antonio
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23064
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision San Francisco (us_lat)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png" group-title="→ UNIMAS-UNIVISION-GALAVISION ←", Galavision San Francisco 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23065
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/3840px-VH1_logonew.svg.png" group-title="→ MÚSICA ←", US | VH1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/3840px-VH1_logonew.svg.png" group-title="→ MÚSICA ←", VH1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47262
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png" group-title="→ MÚSICA ←", MX | Bandamax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bandamax_2017-2020.png" group-title="→ MÚSICA ←", Bandamax
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47263
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="→ MÚSICA ←", MX | MTV Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="→ MÚSICA ←", MTV Hits
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47266
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1280px-MTV_Classic_2021.svg.png" group-title="→ MÚSICA ←", MX | MTV Classics
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/1280px-MTV_Classic_2021.svg.png" group-title="→ MÚSICA ←", MTV Classics
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47267
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="→ MÚSICA ←", MX | Telehit
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="→ MÚSICA ←", Telehit
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47268
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png" group-title="→ MÚSICA ←", MX | Concert Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png" group-title="→ MÚSICA ←", Concert Channel
 http://23.153.217.158:8080/975428933tv1/j57upxsw/47270
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", Arg America FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", America 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15814
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", Arg America HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", America 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15815
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", ARG AMERICA SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Logotipo_de_America_TV.svg" group-title="→ ARGENTINA ←", AMERICA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61561
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/3840px-Canal_26_logo_%282022%29.svg.png" group-title="→ ARGENTINA ←", Arg Canal 26 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/3840px-Canal_26_logo_%282022%29.svg.png" group-title="→ ARGENTINA ←", Canal 26 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15840
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="→ ARGENTINA ←", Arg El Nueve HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="→ ARGENTINA ←", El Nueve 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15881
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="→ ARGENTINA ←", Arg El Trece HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="→ ARGENTINA ←", El Trece 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/15905
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="→ ARGENTINA ←", Arg El Trece SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="→ ARGENTINA ←", El Trece 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16158
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="→ ARGENTINA ←", Arg TV Publica FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="→ ARGENTINA ←", TV Publica
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16159
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="→ ARGENTINA ←", Arg TV Publica HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1280px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="→ ARGENTINA ←", TV Publica 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16160
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="→ ARGENTINA ←", Arg ESPN Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1280px-ESPN_Premium_logo.svg.png" group-title="→ ARGENTINA ←", ESPN Premium
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16161
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="→ ARGENTINA ←", ARG TN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="→ ARGENTINA ←", TN 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16397
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="→ ARGENTINA ←", ARG TN SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="→ ARGENTINA ←", TN 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/16477
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Arg Telefe SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/53225
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Arg Telefe HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/53226
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Arg TELEFE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", TELEFE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61544
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Arg Telefe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61546
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Arg TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", TELEFE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61547
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Arg Telefe HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61548
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", ARG Telefe HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="→ ARGENTINA ←", Telefe HD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/61549
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Ve_Plus_2017.png" group-title="→ VENEZUELA ←", Venevision Plus
@@ -2085,403 +2085,403 @@ http://23.153.217.158:8080/975428933tv1/j57upxsw/23187
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Televen-TV-en-directo-Online.png" group-title="→ VENEZUELA ←", Televen
 http://23.153.217.158:8080/975428933tv1/j57upxsw/23188
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←", ES:BEIN LALIGA 1HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←", BEIN LALIGA 1
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12300
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←", ES:BEIN SPORTS LA LIGA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←", BEIN SPORTS LA LIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12301
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA ←", ES:MOVISTAR DEPORTE 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA ←", MOVISTAR DEPORTE 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12302
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="→ ESPAÑA ←", ES:MOVISTAR DEPORTE 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" group-title="→ ESPAÑA ←", MOVISTAR DEPORTE 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12303
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA ←", ES:DAZN LA LIGA 2 TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="→ ESPAÑA ←", DAZN LA LIGA 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12304
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←", ES:BEIN SPORTS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="→ ESPAÑA ←", BEIN SPORTS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12305
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", ES:MOVISTAR LA LIGA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", MOVISTAR LA LIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12306
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", ES:MOVISTAR DEPORTES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", MOVISTAR DEPORTES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12307
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←", ES:MOVISTAR ACCION HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←", MOVISTAR ACCION 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12308
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA ←", ES:MOVISTAR DRAMA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA ←", MOVISTAR DRAMA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12309
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←", ES:COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←", COMEDY CENTRAL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12311
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA ←", ES: MOVISTAR CINE ESPAÑOL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA ←", MOVISTAR CINE ESPAÑOL
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12313
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA ←", ES:AXN MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA ←", AXN MOVIES
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12320
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA ←", ES:NICKELODEON
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA ←", NICKELODEON
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12322
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" group-title="→ ESPAÑA ←", ES:CALLE 13 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" group-title="→ ESPAÑA ←", CALLE 13 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12323
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←", ES:Fox
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←", Fox
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12324
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="→ ESPAÑA ←", ES:Neox HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" group-title="→ ESPAÑA ←", Neox 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12326
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="→ ESPAÑA ←", ES:Energy HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" group-title="→ ESPAÑA ←", Energy 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12327
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA ←", ES:CLAN TVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA ←", CLAN TVE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12329
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" group-title="→ ESPAÑA ←", ES:Telecinco HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" group-title="→ ESPAÑA ←", Telecinco 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12330
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA ←", ES:Cuatro HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA ←", Cuatro 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12331
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA ←", ES:Antena 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA ←", Antena 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12332
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←", ES:La 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←", La 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12333
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA ←", ES:La 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA ←", La 1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12334
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA ←", ES:LA 1 HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="→ ESPAÑA ←", LA 1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12335
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←", ES:WARNER HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←", WARNER 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12336
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="→ ESPAÑA ←", ES:#VAMOS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="→ ESPAÑA ←", VAMOS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12338
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA ←", ES:MOVISTAR SERIES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA ←", MOVISTAR SERIES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12339
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←", ES:24 HORAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←", 24 HORAS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12340
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←", ES:DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←", DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12341
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←", ES:ACCION HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←", ACCION 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12342
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←", ES:IBERALIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←", IBERALIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12343
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zXCLxtt/HIST.png" group-title="→ ESPAÑA ←", ES:HISTORIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXCLxtt/HIST.png" group-title="→ ESPAÑA ←", HISTORIA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12344
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", ES:MOVISTAR DEPORTES FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", MOVISTAR DEPORTES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12345
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" group-title="→ ESPAÑA ←", ES:MOVISTAR SUSPENSE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" group-title="→ ESPAÑA ←", MOVISTAR SUSPENSE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12347
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rmvhsK3/M1SD.png" group-title="→ ESPAÑA ←", ES:DAZN 1 SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmvhsK3/M1SD.png" group-title="→ ESPAÑA ←", DAZN 1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12348
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←", ES:Odisea HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←", Odisea 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12349
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", ES:Movistar LaLiga HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", Movistar LaLiga 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12350
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" group-title="→ ESPAÑA ←", ES:COSMO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" group-title="→ ESPAÑA ←", COSMO
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12351
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA ←", ES:MOVISTAR DRAMA HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" group-title="→ ESPAÑA ←", MOVISTAR DRAMA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12352
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", ES:MOVISTAR DEPORTESHD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", MOVISTAR DEPORTES
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12353
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqW00RS/LIGBAR.png" group-title="→ ESPAÑA ←", ES:LA LIGA TV BAR 1 [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqW00RS/LIGBAR.png" group-title="→ ESPAÑA ←", LA LIGA TV BAR
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12354
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA ←", ES:HOLLYWOODHD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA ←", HOLLYWOOD
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12355
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←", ES:FOX HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←", FOX 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12357
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C6NBF0L/ESP.png" group-title="→ ESPAÑA ←", ES:EUROSPORT 1 HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6NBF0L/ESP.png" group-title="→ ESPAÑA ←", EUROSPORT 1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12358
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←", ES:COMEDY CENTRAL HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←", COMEDY CENTRAL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12359
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="→ ESPAÑA ←", ES:#VAMOS HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" group-title="→ ESPAÑA ←", VAMOS 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12360
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA ←", ES:AMC BREAK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA ←", AMC BREAK
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12365
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" group-title="→ ESPAÑA ←", ES:BABY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" group-title="→ ESPAÑA ←", BABY TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12366
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" group-title="→ ESPAÑA ←", ES:MOVISTAR ORIGINALES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" group-title="→ ESPAÑA ←", MOVISTAR ORIGINALES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12367
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←", ES:24 Horas HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←", 24 Horas 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12368
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MPXTDdd/ATRESS.png" group-title="→ ESPAÑA ←", ES:A3 Series HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPXTDdd/ATRESS.png" group-title="→ ESPAÑA ←", A3Series 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12369
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", ES:MOVISTAR LALIGA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", MOVISTAR LALIGA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12370
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MRzq0f4/BL.png" group-title="→ ESPAÑA ←", ES:BLOOMBERG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MRzq0f4/BL.png" group-title="→ ESPAÑA ←", BLOOMBERG
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12371
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←", ES:MOVISTAR GOLF HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←", MOVISTAR GOLF
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12372
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←", ES:CANAL ODISEA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←", ODISEA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12373
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jvhmDR/CANSUR.png" group-title="→ ESPAÑA ←", ES:CANAL SUR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jvhmDR/CANSUR.png" group-title="→ ESPAÑA ←", CANAL SUR
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12374
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DVwmC0m/CYM.png" group-title="→ ESPAÑA ←", ES:AMC CRIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DVwmC0m/CYM.png" group-title="→ ESPAÑA ←", AMC CRIME
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12375
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0C4srzC/DCR.png" group-title="→ ESPAÑA ←", ES:DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0C4srzC/DCR.png" group-title="→ ESPAÑA ←", DISCOVERY 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12376
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="→ ESPAÑA ←", ES:DMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" group-title="→ ESPAÑA ←", DMAX
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12377
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GCgcy78/TVGAL.png" group-title="→ ESPAÑA ←", ES:GALICIA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GCgcy78/TVGAL.png" group-title="→ ESPAÑA ←",GALICIA TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12379
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", ES:Movistar LaLiga
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", Movistar LaLiga
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12380
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA ←", ES:MOVISTAR DEPORTES 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="→ ESPAÑA ←", MOVISTAR DEPORTES 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12382
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA ←", ES:MOVISTAR COMEDIA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA ←", MOVISTAR COMEDIA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12383
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA ←", ES:MOVISTAR SERIE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" group-title="→ ESPAÑA ←", MOVISTAR SERIE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12384
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/St6Dg05/torole.png" group-title="→ ESPAÑA ←", ES:TOROLE TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/St6Dg05/torole.png" group-title="→ ESPAÑA ←", TOROLE TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12392
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA ←", ES:TRECE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" group-title="→ ESPAÑA ←", TRECE TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12393
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←", ES:TVE 24H
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" group-title="→ ESPAÑA ←", TVE 24H
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12394
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" group-title="→ ESPAÑA ←", ES:Teledeporte HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" group-title="→ ESPAÑA ←", Teledeporte 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12395
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" group-title="→ ESPAÑA ←", ES:MADRID TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" group-title="→ ESPAÑA ←", MADRID TV 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12396
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA ←", ES:DAZN F1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" group-title="→ ESPAÑA ←", DAZN F1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12397
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←", ES:MOVISTAR GOLF FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" group-title="→ ESPAÑA ←", MOVISTAR GOLF 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12398
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", ES:Movistar Deportes HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", Movistar Deportes 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12399
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←", ES:IBERALIA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" group-title="→ ESPAÑA ←", IBERALIA TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12400
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" group-title="→ ESPAÑA ←", ES:GOL PLAY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" group-title="→ ESPAÑA ←", GOL PLAY
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12401
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" group-title="→ ESPAÑA ←", ES:MEZZO LIVE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" group-title="→ ESPAÑA ←", MEZZO LIVE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12405
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" group-title="→ ESPAÑA ←", ES:Mega HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" group-title="→ ESPAÑA ←", Mega 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12406
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←", ES:FOX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" group-title="→ ESPAÑA ←", FOX 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12408
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" group-title="→ ESPAÑA ←", ES:FDF HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" group-title="→ ESPAÑA ←", FDF 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12409
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="→ ESPAÑA ←", ES:DKISS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" group-title="→ ESPAÑA ←", DKISS
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12410
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA ←", ES:Divinity HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA ←", Divinity 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12411
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←", ES:DISNEY CHANEL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←", DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12412
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA ←", ES:DIVINITY SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" group-title="→ ESPAÑA ←", DIVINITY 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12413
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" group-title="→ ESPAÑA ←", ES:Disney Jr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" group-title="→ ESPAÑA ←", Disney Jr
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12414
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GM66GvR/DECASA.png" group-title="→ ESPAÑA ←", ES:CANAL DECASA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM66GvR/DECASA.png" group-title="→ ESPAÑA ←", CANAL DECASA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12415
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←", ES:Comedy Central HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" group-title="→ ESPAÑA ←", Comedy Central 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12417
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA ←", ES:CLAN TVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" group-title="→ ESPAÑA ←", CLAN TVE
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12419
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" group-title="→ ESPAÑA ←", ES:Caza y Pesca HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" group-title="→ ESPAÑA ←", Caza y Pesca 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12420
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" group-title="→ ESPAÑA ←", ES:CALLE 13 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" group-title="→ ESPAÑA ←", CALLE 13 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12421
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA ←", ES:AMC BREAK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="→ ESPAÑA ←", AMC BREAK
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12422
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA ←", ES:Be Mad HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" group-title="→ ESPAÑA ←", Be Mad 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12423
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA ←", ES:AXN MOVIES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="→ ESPAÑA ←", AXN MOVIES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12425
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CH7Fr1q/AXN.png" group-title="→ ESPAÑA ←", ES:AXN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CH7Fr1q/AXN.png" group-title="→ ESPAÑA ←", AXN 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12426
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bPwWv5J/ARAGTV.png" group-title="→ ESPAÑA ←", ES:ARAGON TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bPwWv5J/ARAGTV.png" group-title="→ ESPAÑA ←", ARAGON TV
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12427
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3f0jppr/AMC.png" group-title="→ ESPAÑA ←", ES:AMC HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3f0jppr/AMC.png" group-title="→ ESPAÑA ←", AMC 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12428
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA ←", ES:Nova HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" group-title="→ ESPAÑA ←", Nova 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12429
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" group-title="→ ESPAÑA ←", ES:Boing HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" group-title="→ ESPAÑA ←", Boing 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12430
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA ←", ES:HOLLYWOOD HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" group-title="→ ESPAÑA ←", HOLLYWOOD 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12431
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRTVnt5/XTRM.png" group-title="→ ESPAÑA ←", ES:XTRM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRTVnt5/XTRM.png" group-title="→ ESPAÑA ←", XTRM
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12432
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PT2Rthq/BUENV.png" group-title="→ ESPAÑA ←", ES:BUEN VIAJE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT2Rthq/BUENV.png" group-title="→ ESPAÑA ←", BUEN VIAJE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12433
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←", ES:WARNER SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="→ ESPAÑA ←", WARNER 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12434
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" group-title="→ ESPAÑA ←", ES:TELEMADRID HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" group-title="→ ESPAÑA ←", TELEMADRID 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12435
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" group-title="→ ESPAÑA ←", ES:TCM HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" group-title="→ ESPAÑA ←", TCM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12436
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" group-title="→ ESPAÑA ←", ES:SYFY HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" group-title="→ ESPAÑA ←", SYFY 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12437
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vh9Qz0V/SUNDAN.png" group-title="→ ESPAÑA ←", ES:SUNDANCE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vh9Qz0V/SUNDAN.png" group-title="→ ESPAÑA ←", SUNDANCE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12438
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" group-title="→ ESPAÑA ←", ES:PARAMOUNT NETWORK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" group-title="→ ESPAÑA ←", PARAMOUNT NETWORK
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12439
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←", ES:ODISEA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" group-title="→ ESPAÑA ←", ODISEA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12441
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA ←", ES:NICKELODEON HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" group-title="→ ESPAÑA ←", NICKELODEON 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12442
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GdZ5DBF/NICKJR.png" group-title="→ ESPAÑA ←", ES:NICK JUNIOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GdZ5DBF/NICKJR.png" group-title="→ ESPAÑA ←", NICK JUNIOR
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12443
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" group-title="→ ESPAÑA ←", ES:NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" group-title="→ ESPAÑA ←", NAT GEO WILD 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12444
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cwt5sVk/NATGEO.png" group-title="→ ESPAÑA ←", ES:NAT GEOGRAPHIC HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cwt5sVk/NATGEO.png" group-title="→ ESPAÑA ←", NAT GEOGRAPHIC 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12445
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fDHQk0m/MTV.png" group-title="→ ESPAÑA ←", ES:MTV ESPAÑA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDHQk0m/MTV.png" group-title="→ ESPAÑA ←", MTV ESPAÑA
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12446
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="→ ESPAÑA ←", ES:MOVISTAR CINE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" group-title="→ ESPAÑA ←", MOVISTAR CINE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12447
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA ←", ES:MOVISTAR CINE ESPAÑOL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" group-title="→ ESPAÑA ←", MOVISTAR CINE ESPAÑOL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12448
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←", ES:DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="→ ESPAÑA ←", DISNEY CHANNEL 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12449
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←", ES:MOVISTAR ACCION HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" group-title="→ ESPAÑA ←", MOVISTAR ACCION 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12450
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" group-title="→ ESPAÑA ←", ES:La Sexta HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" group-title="→ ESPAÑA ←", La Sexta 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12451
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA ←", ES:Cuatro HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" group-title="→ ESPAÑA ←", Cuatro 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12452
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA ←", ES:Antena 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" group-title="→ ESPAÑA ←", Antena 3 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12453
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←", ES:TVE LA 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" group-title="→ ESPAÑA ←", LA 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12454
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1280px-Logo_RTVE.svg.png" group-title="→ ESPAÑA ←", ES:RTVE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1280px-Logo_RTVE.svg.png" group-title="→ ESPAÑA ←", RTVE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12455
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA ←", ES:MOVISTAR COMEDIA HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" group-title="→ ESPAÑA ←", MOVISTAR COMEDIA 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12457
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="→ ESPAÑA ←", ES:MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="→ ESPAÑA ←", MOVISTAR LIGA CAMPEONES 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12458
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="→ ESPAÑA ←", ES:MOVISTAR LIGA CAMPEONES HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" group-title="→ ESPAÑA ←", MOVISTAR LIGA CAMPEONES 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12459
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" group-title="→ ESPAÑA ←", ES:MEZZO LIVE HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" group-title="→ ESPAÑA ←", MEZZO LIVE 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12460
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" group-title="→ ESPAÑA ←", ES:NATIONAL GEO WILD HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" group-title="→ ESPAÑA ←", NATIONAL GEO WILD 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12461
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" group-title="→ ESPAÑA ←", ES:SYFY HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" group-title="→ ESPAÑA ←", SYFY 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12462
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" group-title="→ ESPAÑA ←", ES:TCM HD HEVC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" group-title="→ ESPAÑA ←", TCM 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12463
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", ES:Movistar LaLiga
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" group-title="→ ESPAÑA ←", Movistar LaLiga
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12465
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", ES:Movistar Deportes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="→ ESPAÑA ←", Movistar Deportes
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12470
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/df6vD3x/ETB1.png" group-title="→ ESPAÑA ←", ES:ETB 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/df6vD3x/ETB1.png" group-title="→ ESPAÑA ←", ETB 1 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12471
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z22CRth/ETB2.png" group-title="→ ESPAÑA ←", ES:ETB 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z22CRth/ETB2.png" group-title="→ ESPAÑA ←", ETB 2 
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12476
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2dc5DnM/ETB-Basque-2022-logo-svg.png" group-title="→ ESPAÑA ←", ES:ETB Basque
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dc5DnM/ETB-Basque-2022-logo-svg.png" group-title="→ ESPAÑA ←", ETB Basque
 http://23.153.217.158:8080/975428933tv1/j57upxsw/12485
 
 #EXTINF:-1 tvg-logo="https://cdndeportes.com.do/wp-content/uploads/2025/11/cdn-deportes-online-cdn-sportmax-en-vivo.jpg" group-title="→ REPÚBLICA DOMINICANA ←", CDN Deportes 
