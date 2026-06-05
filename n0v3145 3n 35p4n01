@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_13.mkv
-http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_62.mkv
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_66.mkv
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_63.mkv
 
 
@@ -7481,6 +7481,14 @@ http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_60.mkv
 http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_61.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 060
 http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_62.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 061
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_63.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 062
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_64.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 063
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_65.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXuKbM1rskx3zMrGfIYPl3EsSSo.jpg" group-title="Lobo, morir matando",Cap. 064
+http://series.tuxchannel.mx/series/lobo_morir_matando/s_01_e_66.mkv
 
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FhHtfaqrGmpvgk6I6ARsqNcOoz9b.jpg" group-title="Lo que la vida me robó",Cap. 001
 http://series.tuxchannel.mx/series/lo_que_la_vida_me_robo/s_01_e_01.mkv
