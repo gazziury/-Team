@@ -9,7 +9,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_35.mkv
 http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_24.mkv
-http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_73.mkv
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_80.mkv final
 
 
 
@@ -1953,6 +1953,20 @@ http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_71.mkv
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_72.mkv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 070
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_73.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 071
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_74.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 072
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_75.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 073
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_76.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 074
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_77.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 075
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_78.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 076
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_79.mkv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/9/9c/Corazon-de-oro.jpg" group-title="Corazón de oro",Cap. 077
+http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_80.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/3/w1280/ewjLqzw6OtiGkTBOmmq0jGexBSa.jpg" group-title="Corazon guerrero",Cap. 001
 http://series.tuxchannel.mx/series/corazon_guerrero/s_01_e_01.mkv
