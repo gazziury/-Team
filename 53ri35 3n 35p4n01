@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_01.mkv
+
 http://series.tuxchannel.mx/series/cape_fear/s_01_e_03.mkv... Cabo de miedo son 10
 
 http://series.tuxchannel.mx/series/dutton_ranch/s_01_e_06.mkv... Rancho Dutton son 9
@@ -7090,6 +7092,9 @@ http://series.tuxchannel.mx/series/house_of_the_dragon/s_02_e_06.mkv
 http://series.tuxchannel.mx/series/house_of_the_dragon/s_02_e_07.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2fCKA6rqbcjoq1c2dmDTE4cG4Hm.jpg" group-title="Game of Thrones: La casa del dragon T2",Cap. 08
 http://series.tuxchannel.mx/series/house_of_the_dragon/s_02_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wSvDQN6tZR4VzDDZD3MUPIghVjC.jpg" group-title="Game of Thrones: La casa del dragon T3",Cap. 01
+http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_01.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Gangs of London T1",TRAILER
 https://archive.org/download/trailer-g-4ng-5-0f-l-0nd-0n/trailer%20G4ng5%200f%20l0nd0n.mp4
