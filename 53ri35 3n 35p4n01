@@ -10,7 +10,7 @@ http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_01.mkv
 
 http://series.tuxchannel.mx/series/cape_fear/s_01_e_05.mkv... Cabo de miedo son 10
 
-http://series.tuxchannel.mx/series/dutton_ranch/s_01_e_06.mkv... Rancho Dutton son 9
+http://series.tuxchannel.mx/series/dutton_ranch/s_01_e_08.mkv... Rancho Dutton son 9
 
 http://series.tuxchannel.mx/series/from/s_04_e_08.mkv... 10
 
@@ -12263,6 +12263,10 @@ http://series.tuxchannel.mx/series/dutton_ranch/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/dutton_ranch/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4KTqlq5jwt53LoZdP8ui33TpFaq.jpg" group-title="Rancho Dutton",Cap. 06
 http://series.tuxchannel.mx/series/dutton_ranch/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4KTqlq5jwt53LoZdP8ui33TpFaq.jpg" group-title="Rancho Dutton",Cap. 07
+http://series.tuxchannel.mx/series/dutton_ranch/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4KTqlq5jwt53LoZdP8ui33TpFaq.jpg" group-title="Rancho Dutton",Cap. 08
+http://series.tuxchannel.mx/series/dutton_ranch/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d9f6ab_cd044ec59ee24187a2fe2159a8dd38b8~mv2.jpg/v1/fill/w_970,h_1500,al_c,q_85,enc_auto/d9f6ab_cd044ec59ee24187a2fe2159a8dd38b8~mv2.jpg" group-title="Rápidos y furiosos: Espías al volante",Cap. 01
 http://series.tuxchannel.mx/series/fast_and_furious_spy_racers/s_01_e_01.mkv
