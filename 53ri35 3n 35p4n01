@@ -7884,6 +7884,19 @@ http://series.tuxchannel.mx/series/hit_and_run/s_01_e_08.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/03/13/48/2109207.jpg" group-title="Hit and Run: Tira y corre",Cap. 09
 http://series.tuxchannel.mx/series/hit_and_run/s_01_e_09.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg" group-title="Hit viral",Cap. 01
+http://series.tuxchannel.mx/series/viral_hit/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg" group-title="Hit viral",Cap. 02
+http://series.tuxchannel.mx/series/viral_hit/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg" group-title="Hit viral",Cap. 03
+http://series.tuxchannel.mx/series/viral_hit/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg" group-title="Hit viral",Cap. 04
+http://series.tuxchannel.mx/series/viral_hit/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg" group-title="Hit viral",Cap. 05
+http://series.tuxchannel.mx/series/viral_hit/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg" group-title="Hit viral",Cap. 06
+http://series.tuxchannel.mx/series/viral_hit/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Hollywood",TRAILER
 https://archive.org/download/trailer-h-0llyw-00d/trailer%20H0llyw00d.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/02/20/16/20/3885422.jpg" group-title="Hollywood",Cap. 01
