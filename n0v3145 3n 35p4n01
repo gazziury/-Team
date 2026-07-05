@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_45.mkv
-http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_24.mkv
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_34.mkv
 http://series.tuxchannel.mx/series/corazon_de_oro/s_01_e_80.mkv final
 
 
@@ -4725,6 +4725,26 @@ http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_22.mkv
 http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_23.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 24
 http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_24.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 25
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_25.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 26
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_26.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 27
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_27.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 28
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_28.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 29
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 30
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_30.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 31
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_31.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 32
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_32.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 33
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_33.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUUN9WDPM2vhy1IshGL3qscm5qp.jpg" group-title="Guardián de mi vida",Cap. 34
+http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_34.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/22/10/14/11/55/1823859.jpg" group-title="Hasta que la plata nos separe",Cap. 01
 http://series.tuxchannel.mx/series/hasta_que_la_plata_nos_separe/s_01_e_01.mkv
