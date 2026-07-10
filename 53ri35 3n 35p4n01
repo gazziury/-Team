@@ -4646,6 +4646,23 @@ http://series.tuxchannel.mx/series/the_man_in_the_high_castle/s_03_e_09.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/08/27/12/36/1270759.jpg" group-title="El hombre en el castillo T3",Cap. 10
 http://series.tuxchannel.mx/series/the_man_in_the_high_castle/s_03_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg" group-title="El hombre vapor",Cap. 01
+http://series.tuxchannel.mx/series/human_vapor/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg" group-title="El hombre vapor",Cap. 02
+http://series.tuxchannel.mx/series/human_vapor/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg" group-title="El hombre vapor",Cap. 03
+http://series.tuxchannel.mx/series/human_vapor/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg" group-title="El hombre vapor",Cap. 04
+http://series.tuxchannel.mx/series/human_vapor/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg" group-title="El hombre vapor",Cap. 05
+http://series.tuxchannel.mx/series/human_vapor/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg" group-title="El hombre vapor",Cap. 06
+http://series.tuxchannel.mx/series/human_vapor/s_01_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg" group-title="El hombre vapor",Cap. 07
+http://series.tuxchannel.mx/series/human_vapor/s_01_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg" group-title="El hombre vapor",Cap. 08
+http://series.tuxchannel.mx/series/human_vapor/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="El inocente",TRAILER
 https://archive.org/download/trailer-3l-1n-0c-3nt-3/trailer%203l%201n0c3nt3.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/03/04/11/50/3801262.jpg" group-title="El inocente",Cap. 01
