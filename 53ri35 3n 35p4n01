@@ -10125,6 +10125,19 @@ http://series.tuxchannel.mx/series/away/s_01_e_09.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/21/13/30/0440016.jpg" group-title="Lejos",Cap. 10
 http://series.tuxchannel.mx/series/away/s_01_e_10.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 01
+http://series.tuxchannel.mx/series/legends/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 02
+http://series.tuxchannel.mx/series/legends/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 03
+http://series.tuxchannel.mx/series/legends/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 04
+http://series.tuxchannel.mx/series/legends/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 05
+http://series.tuxchannel.mx/series/legends/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 06
+http://series.tuxchannel.mx/series/legends/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Locke & Key T1",TRAILER
 https://archive.org/download/l-0ck-3-k-3y/L0ck3%20%26%20K3y.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/12/05/09/25/0003465.jpg" group-title="Locke & Key T1",Cap. 01
