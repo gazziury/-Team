@@ -1178,22 +1178,39 @@ http://series.tuxchannel.mx/series/barbaren/s_02_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/prelP9dK7ixoPgQCVr1bcdQYS90.jpg" group-title="Barbaros T2",Cap. 06
 http://series.tuxchannel.mx/series/barbaren/s_02_e_06.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava",Cap. 01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava T1",Cap. 01
 http://series.tuxchannel.mx/series/barrabrava/s_01_e_01.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava",Cap. 02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava T1",Cap. 02
 http://series.tuxchannel.mx/series/barrabrava/s_01_e_02.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava",Cap. 03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava T1",Cap. 03
 http://series.tuxchannel.mx/series/barrabrava/s_01_e_03.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava",Cap. 04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava T1",Cap. 04
 http://series.tuxchannel.mx/series/barrabrava/s_01_e_04.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava",Cap. 05
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava T1",Cap. 05
 http://series.tuxchannel.mx/series/barrabrava/s_01_e_05.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava",Cap. 06
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava T1",Cap. 06
 http://series.tuxchannel.mx/series/barrabrava/s_01_e_06.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava",Cap. 07
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava T1",Cap. 07
 http://series.tuxchannel.mx/series/barrabrava/s_01_e_07.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava",Cap. 08
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barrabrava T1",Cap. 08
 http://series.tuxchannel.mx/series/barrabrava/s_01_e_08.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pD506HeSt1XemVU386hCyMfOedz.jpg" group-title="Barrabrava T2",Cap. 01
+http://series.tuxchannel.mx/series/barrabrava/s_02_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pD506HeSt1XemVU386hCyMfOedz.jpg" group-title="Barrabrava T2",Cap. 02
+http://series.tuxchannel.mx/series/barrabrava/s_02_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pD506HeSt1XemVU386hCyMfOedz.jpg" group-title="Barrabrava T2",Cap. 03
+http://series.tuxchannel.mx/series/barrabrava/s_02_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pD506HeSt1XemVU386hCyMfOedz.jpg" group-title="Barrabrava T2",Cap. 04
+http://series.tuxchannel.mx/series/barrabrava/s_02_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pD506HeSt1XemVU386hCyMfOedz.jpg" group-title="Barrabrava T2",Cap. 05
+http://series.tuxchannel.mx/series/barrabrava/s_02_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pD506HeSt1XemVU386hCyMfOedz.jpg" group-title="Barrabrava T2",Cap. 06
+http://series.tuxchannel.mx/series/barrabrava/s_02_e_06.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pD506HeSt1XemVU386hCyMfOedz.jpg" group-title="Barrabrava T2",Cap. 07
+http://series.tuxchannel.mx/series/barrabrava/s_02_e_07.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pD506HeSt1XemVU386hCyMfOedz.jpg" group-title="Barrabrava T2",Cap. 08
+http://series.tuxchannel.mx/series/barrabrava/s_02_e_08.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/46MsHi3ZWCwZD2jBvUlJ0AmnA71.jpg" group-title="Bebé reno",Cap. 01
 http://series.tuxchannel.mx/series/baby_reindeer/s_01_e_01.mkv
