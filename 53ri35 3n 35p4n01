@@ -10624,6 +10624,19 @@ http://series.tuxchannel.mx/series/the_irregulars/s_01_e_07.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/16/10/04/3822139.jpg" group-title="Los irregulares",Cap. 08
 http://series.tuxchannel.mx/series/the_irregulars/s_01_e_08.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg" group-title="Los no elegidos",Cap. 01
+http://series.tuxchannel.mx/series/unchosen/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg" group-title="Los no elegidos",Cap. 02
+http://series.tuxchannel.mx/series/unchosen/s_01_e_02.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg" group-title="Los no elegidos",Cap. 03
+http://series.tuxchannel.mx/series/unchosen/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg" group-title="Los no elegidos",Cap. 04
+http://series.tuxchannel.mx/series/unchosen/s_01_e_04.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg" group-title="Los no elegidos",Cap. 05
+http://series.tuxchannel.mx/series/unchosen/s_01_e_05.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg" group-title="Los no elegidos",Cap. 06
+http://series.tuxchannel.mx/series/unchosen/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg" group-title="Los ojos de Wakanda",Cap. 01
 http://series.tuxchannel.mx/series/eyes_of_wakanda/s_01_e_01.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg" group-title="Los ojos de Wakanda",Cap. 02
