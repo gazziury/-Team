@@ -692,9 +692,9 @@ http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7648
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7650
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="LATINA",TELEFE
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="LATINA",VTV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="LATINA",VTV URU
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7618
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png" group-title="LATINA",VTV PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_VTV_Plus_nuevo.png/1200px-Logo_VTV_Plus_nuevo.png" group-title="LATINA",VTV PLUS URU
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7619
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="LATINA",WILLAX
 http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7633
