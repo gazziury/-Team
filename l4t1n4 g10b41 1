@@ -10,11 +10,11 @@ http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7236
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg" group-title="LATINA",CANAL DE LAS ESTRELLAS HD
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/8412
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINA",CINECANAL
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7357
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINA",CINECANAL HD
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7090
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINA",CINECANAL FHD
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7219
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7337
