@@ -1,69 +1,73 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC 
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7187
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7187
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC HD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7029
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7029
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="LATINA",AMC FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7236
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7236
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg" group-title="LATINA",AZ CINEMA
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7034
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg" group-title="LATINA",CANAL DE LAS ESTRELLAS HD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8412
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8412
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7357
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7357
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL HD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7090
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7090
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="LATINA",CINECANAL FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7219
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7219
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7337
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7337
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX HD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7091
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7091
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7220
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7220
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Pop_2015_Red.svg" group-title="USA",POP
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7356
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7356
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_m1il2uGPwFEmHlqAZTaPhpSY-oEuPgV-YR8FQqWNL7lv-Ev2CDFe_2zV9G4P5bpkNWUVj83zxKqUguDBYbgxC6gan0CBYgPoSX2NbgXI1BdFtWQdGIblZi4T0QGKC-f_UhK_qhMpYCE/s0/depelicula-2021.png" group-title="LATINA",DE PELICULA HD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7194
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7194
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_m1il2uGPwFEmHlqAZTaPhpSY-oEuPgV-YR8FQqWNL7lv-Ev2CDFe_2zV9G4P5bpkNWUVj83zxKqUguDBYbgxC6gan0CBYgPoSX2NbgXI1BdFtWQdGIblZi4T0QGKC-f_UhK_qhMpYCE/s0/depelicula-2021.png" group-title="LATINA",DE PELICULA FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7278
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7278
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="LATINA",DE PELICULA PLUS HD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7099
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7099
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="LATINA",DE PELICULA PLUS FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7279
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7279
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/640px-Canal_DHE_logo.svg.png" group-title="LATINA",DHE
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7477
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7477
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="LATINA",EUROPA EUROPA
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7190
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7190
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="LATINA",FX  
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7332
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7332
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="LATINA",FX HD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7119
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7119
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="LATINA",FX FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7223
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7223
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="LATINA",FILM & ARTS
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7191
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7191
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="LATINA",GOLDEN 
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7174
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7174
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="LATINA",GOLDEN FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8452
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8452
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/330px-Golden_Edge_Logo_2020.png" group-title="LATINA",GOLDEN EDGE 
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7123
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7123
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/330px-Golden_Edge_Logo_2020.png" group-title="LATINA",GOLDEN EDGE FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/8464
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/8464
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2qFlFV3NZaCw7URyeIuFi33_TBrG-OI-Frm4dok3ci1UaZ4Ev5CKduyScYpz7l4tmxw-JCIeXBajM2pw5Oyqc5MFYTOrThlhdnzaxriIMA5z7i1dXnzYWRzcGMlru-yixvdaZPVrIJsPVfYqgE7dG25meRHex8etzoyvVIEUDWWUqzPazJJvmKMN6/s1600/golden-plus.png" group-title="LATINA",GOLDEN PLUS
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7124
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7124
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2qFlFV3NZaCw7URyeIuFi33_TBrG-OI-Frm4dok3ci1UaZ4Ev5CKduyScYpz7l4tmxw-JCIeXBajM2pw5Oyqc5MFYTOrThlhdnzaxriIMA5z7i1dXnzYWRzcGMlru-yixvdaZPVrIJsPVfYqgE7dG25meRHex8etzoyvVIEUDWWUqzPazJJvmKMN6/s1600/golden-plus.png" group-title="LATINA",GOLDEN PLUS FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7224
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7224
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="LATINA",SONY MOVIES
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7359
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7359
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/Paramount_Channel.svg" group-title="LATINA",PARAMOUNT CHANNEL 
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7360
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7360
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/Paramount_Channel.svg" group-title="LATINA",PARAMOUNT CHANNEL HD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7180
+http://api.nerdtv.xyz:80/Rubi1326/Gutierre2/7180
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/59/Paramount_Channel.svg" group-title="LATINA",PARAMOUNT CHANNEL FHD
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7238
+http://api.nerdtv.xyz:80
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png" group-title="LATINA",PANICO 
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/7478
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/2048px-Sony_Channel_Logo_2019.svg.png" group-title="LATINA",SONY CHANNEL
