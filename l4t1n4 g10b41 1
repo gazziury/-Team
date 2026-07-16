@@ -16,11 +16,11 @@ http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7357
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7090
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LATINA",CINECANAL FHD
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7219
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="LATINA",CINEMAX
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7337
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="LATINA",CINEMAX HD
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7091
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="LATINA",CINEMAX FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="LATINA",CINEMAX FHD
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7220
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Pop_2015_Red.svg" group-title="USA",POP
 http://api.nerdtv.xyz:80/NadiaSan/Sa011622/7356
