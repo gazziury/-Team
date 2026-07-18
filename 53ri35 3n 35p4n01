@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/the_westies/s_01_e_02.mkv... 8
+
 http://series.tuxchannel.mx/series/sugar/s_02_e_05.mkv... 8
 
 http://series.tuxchannel.mx/series/silo/s_03_e_03.mkv... 10
@@ -10787,6 +10789,11 @@ http://series.tuxchannel.mx/series/the_last_czars/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/the_last_czars/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/06/30/04/15/3559775.jpg" group-title="Los ultimos Zares",Cap. 06
 http://series.tuxchannel.mx/series/the_last_czars/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ouIOP8G3EYIgQPwV2o7kqmCHZK.jpg" group-title="Los Westies",Cap. 01
+http://series.tuxchannel.mx/series/the_westies/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ouIOP8G3EYIgQPwV2o7kqmCHZK.jpg" group-title="Los Westies",Cap. 02
+http://series.tuxchannel.mx/series/the_westies/s_01_e_02.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 01
 http://series.tuxchannel.mx/series/lupin/s_01_e_01.mkv
