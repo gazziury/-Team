@@ -10,7 +10,7 @@ http://series.tuxchannel.mx/series/sugar/s_02_e_05.mkv... 8
 
 http://series.tuxchannel.mx/series/silo/s_03_e_03.mkv... 10
 
-http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_03.mkv... 8
+http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_04.mkv... 8
 
 http://series.tuxchannel.mx/series/cape_fear/s_01_e_07.mkv... Cabo de miedo 10
 
@@ -7441,6 +7441,8 @@ http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_01.mkv
 http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wSvDQN6tZR4VzDDZD3MUPIghVjC.jpg" group-title="Game of Thrones: La casa del dragon T3",Cap. 03
 http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wSvDQN6tZR4VzDDZD3MUPIghVjC.jpg" group-title="Game of Thrones: La casa del dragon T3",Cap. 04
+http://series.tuxchannel.mx/series/house_of_the_dragon/s_03_e_04.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Gangs of London T1",TRAILER
 https://archive.org/download/trailer-g-4ng-5-0f-l-0nd-0n/trailer%20G4ng5%200f%20l0nd0n.mp4
