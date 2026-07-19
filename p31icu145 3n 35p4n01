@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg" group-title="ESTRENOS 2026",Deseo (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661735.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/1gHygrBcGU2dL9DHcvnj4FJc8pF.jpg" group-title="ESTRENOS 2026",No entrar (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661732.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/7rPJWJNmIPHSppjLMGqjzwpkOs6.jpg" group-title="ESTRENOS 2026",Abuela tremenda (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661729.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/AnNQDqCXcdJrWknQtbBIlvMDboE.jpg" group-title="ESTRENOS 2026",23.000 vidas (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661723.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5lpbVRg99l3VkYyXOiZraNgNlXv.jpg" group-title="ESTRENOS 2026",Descendientes: Un malvado país de las maravillas (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661720.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uvfBXtJ1EB3asfpJcQCN9g9Eijf.jpg" group-title="ESTRENOS 2026",La ironía del amor (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661569.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fSSsjV7hvVS6gBaP9Sua5DEFaEh.jpg" group-title="ESTRENOS 2026",Yo antes de ser yo (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661557.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="ESTRENOS 2026",La muerte de Robin Hood (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661394.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qox5OvknYs1XJqw3aS3d9CvSEKO.jpg" group-title="ESTRENOS 2026",Papá a cargo (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661343.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/82GKBbN5ovZJiz5H2dSbDBrHcJ2.jpg" group-title="ESTRENOS 2026",Golden Kamuy: Asalto a la prisión de Abashiri (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661340.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/amqNq4a3cugpf48nfpZFJwnFzbb.jpg" group-title="ESTRENOS 2026",Susana y Elvira: Sin plan B (2026)
+http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/661272.mp4
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Boulevard (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg" group-title="ESTRENOS 2026",Boulevard (2026)
 http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/660949.mp4
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Miguel 脕ngel Blanco: Las 48 horas que lo cambiaron todo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg" group-title="ESTRENOS 2026",Miguel 脕ngel Blanco: Las 48 horas que lo cambiaron todo (2026)
@@ -36591,14 +36614,6 @@ http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/2165.avi
 http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/2162.mkv
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Living Daylights SD LAT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIngn15zT32wWd2sg5MNdfVCBE2.jpg" group-title="ACCI脫N",The Living Daylights SD LAT
 http://livetv-plus.com:8880/movie/AlonsoLeon/RHSWQ/2161.mkv
-
-
-
-
-
-
-
-
 
 
 
