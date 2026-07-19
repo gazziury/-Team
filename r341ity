@@ -23,68 +23,20 @@ http://daleplaytv.vip:80/live/prf140823/ydsnhfjfmc/453157.ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",PRINCIPAL
+http://daleplaytv.vip:80/live/prf140823/ydsnhfjfmc/454926.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 1
+http://daleplaytv.vip:80/live/prf140823/ydsnhfjfmc/454927.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 2
+http://daleplaytv.vip:80/live/prf140823/ydsnhfjfmc/454928.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 3
+http://daleplaytv.vip:80/live/prf140823/ydsnhfjfmc/454929.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",MULTICÁMARA
+http://daleplaytv.vip:80/live/prf140823/ydsnhfjfmc/454930.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",EXTRA
+http://daleplaytv.vip:80/live/prf140823/ydsnhfjfmc/453157.ts
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 1
-http://18feitisaria86.org:80/875616/sF5zw8/376244.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 2
-http://18feitisaria86.org:80/875616/sF5zw8/376248.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 3
-http://18feitisaria86.org:80/875616/sF5zw8/376258.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 4
-http://18feitisaria86.org:80/875616/sF5zw8/376280.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 5
-http://18feitisaria86.org:80/875616/sF5zw8/376281.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 6
-http://18feitisaria86.org:80/875616/sF5zw8/376282.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 7
-http://18feitisaria86.org:80/875616/sF5zw8/376286.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 1",CAM 8
-http://18feitisaria86.org:80/875616/sF5zw8/376287.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CASA DO PATRÃO (BRASIL) 1",RECORD (VIVO)
-http://18feitisaria86.org:80/875616/sF5zw8/96522.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 1
-http://18feitisaria86.org:80/speed690690/100200300Ab/376244.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 2
-http://18feitisaria86.org:80/speed690690/100200300Ab/376248.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 3
-http://18feitisaria86.org:80/speed690690/100200300Ab/376258.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 4
-http://18feitisaria86.org:80/speed690690/100200300Ab/376280.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 5
-http://18feitisaria86.org:80/speed690690/100200300Ab/376281.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 6
-http://18feitisaria86.org:80/speed690690/100200300Ab/376282.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 7
-http://18feitisaria86.org:80/speed690690/100200300Ab/376286.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 2",CAM 8
-http://18feitisaria86.org:80/speed690690/100200300Ab/376287.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CASA DO PATRÃO (BRASIL) 2",RECORD (VIVO)
-http://18feitisaria86.org:80/speed690690/100200300Ab/96522.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 1
-http://18feitisaria86.org:80/acacio200z/102030eE/376244.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 2
-http://18feitisaria86.org:80/acacio200z/102030eE/376248.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 3
-http://18feitisaria86.org:80/acacio200z/102030eE/376258.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 4
-http://18feitisaria86.org:80/acacio200z/102030eE/376280.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 5
-http://18feitisaria86.org:80/acacio200z/102030eE/376281.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 6
-http://18feitisaria86.org:80/acacio200z/102030eE/376282.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 7
-http://18feitisaria86.org:80/acacio200z/102030eE/376286.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/47/Casadopatrao.jpg" group-title="CASA DO PATRÃO (BRASIL) 3",CAM 8
-http://18feitisaria86.org:80/acacio200z/102030eE/376287.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CASA DO PATRÃO (BRASIL) 3",RECORD (VIVO)
-http://18feitisaria86.org:80/acacio200z/102030eE/96522.ts
 
 
 
