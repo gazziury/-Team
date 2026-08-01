@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_17.mkv
-http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_55.mkv
+http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_60.mkv
 http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_47.mkv
 http://series.tuxchannel.mx/series/el_renacer_de_luna/s_01_e_23.mkv
 
@@ -12732,6 +12732,16 @@ http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_53.mkv
 http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_54.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kEOWlaH0pf606pg14j93rYVreSP.jpg" group-title="Tan cerca de tí, nace el amor",Cap. 55
 http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_55.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kEOWlaH0pf606pg14j93rYVreSP.jpg" group-title="Tan cerca de tí, nace el amor",Cap. 56
+http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_56.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kEOWlaH0pf606pg14j93rYVreSP.jpg" group-title="Tan cerca de tí, nace el amor",Cap. 57
+http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_57.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kEOWlaH0pf606pg14j93rYVreSP.jpg" group-title="Tan cerca de tí, nace el amor",Cap. 58
+http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_58.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kEOWlaH0pf606pg14j93rYVreSP.jpg" group-title="Tan cerca de tí, nace el amor",Cap. 59
+http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_59.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kEOWlaH0pf606pg14j93rYVreSP.jpg" group-title="Tan cerca de tí, nace el amor",Cap. 60
+http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_60.mkv
 
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2021/1/w1280/fSwxsb921cb9KozWVBjq4IYSdEU.jpg" group-title="Te acuerdas de mí",Cap. 01
 http://series.tuxchannel.mx/series/te_acuerdas_de_mi/s_01_e_01.mkv
