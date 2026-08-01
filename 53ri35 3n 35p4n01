@@ -8,7 +8,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 http://series.tuxchannel.mx/series/stuart_fails_to_save_the_universe/s_01_e_02.mkv... 10
 
-http://series.tuxchannel.mx/series/lucky/s_01_e_03.mkv... 7
+http://series.tuxchannel.mx/series/lucky/s_01_e_04.mkv... 7
 
 http://series.tuxchannel.mx/series/the_westies/s_01_e_03.mkv... los del lado oeste 8
 
@@ -10839,6 +10839,8 @@ http://series.tuxchannel.mx/series/lucky/s_01_e_01.mkv
 http://series.tuxchannel.mx/series/lucky/s_01_e_02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 03
 http://series.tuxchannel.mx/series/lucky/s_01_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 04
+http://series.tuxchannel.mx/series/lucky/s_01_e_04.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 01
 http://series.tuxchannel.mx/series/lupin/s_01_e_01.mkv
