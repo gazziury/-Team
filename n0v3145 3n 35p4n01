@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_29.mkv
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_34.mkv
 http://series.tuxchannel.mx/series/tan_cerca_de_ti_nace_el_amor/s_01_e_75.mkv
 http://series.tuxchannel.mx/series/guardian_de_mi_vida/s_01_e_65.mkv
 http://series.tuxchannel.mx/series/el_renacer_de_luna/s_01_e_40.mkv
@@ -4464,6 +4464,16 @@ http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_27.mkv
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_28.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uPHoLHFvgv2umWLiLJIihSIUfX6.jpg" group-title="El señor de los cielos T10",Cap. 28
 http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uPHoLHFvgv2umWLiLJIihSIUfX6.jpg" group-title="El señor de los cielos T10",Cap. 29
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_30.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uPHoLHFvgv2umWLiLJIihSIUfX6.jpg" group-title="El señor de los cielos T10",Cap. 30
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_31.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uPHoLHFvgv2umWLiLJIihSIUfX6.jpg" group-title="El señor de los cielos T10",Cap. 31
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_32.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uPHoLHFvgv2umWLiLJIihSIUfX6.jpg" group-title="El señor de los cielos T10",Cap. 32
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_33.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uPHoLHFvgv2umWLiLJIihSIUfX6.jpg" group-title="El señor de los cielos T10",Cap. 33
+http://series.tuxchannel.mx/series/el%20senor%20de%20los%20cielos/s_10_e_34.mkv
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/03/11/12/1800318.jpg" group-title="Falsa identidad",Cap. 01
 http://series.tuxchannel.mx/series/falsa_identidad/s_01_e_01.mkv
