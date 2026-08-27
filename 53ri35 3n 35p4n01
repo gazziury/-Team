@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/reacher/s_04_e_03.mkv... 8
+http://series.tuxchannel.mx/series/reacher/s_04_e_04.mkv... 8
 
 http://series.tuxchannel.mx/series/lioness/s_03_e_02.mkv... 8
 
@@ -13202,6 +13202,8 @@ http://series.tuxchannel.mx/series/reacher/s_04_e_01.mkv
 http://series.tuxchannel.mx/series/reacher/s_04_e_02.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg" group-title="Reacher T4",Cap. 03
 http://series.tuxchannel.mx/series/reacher/s_04_e_03.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg" group-title="Reacher T4",Cap. 04
+http://series.tuxchannel.mx/series/reacher/s_04_e_04.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fXVlnJpDuneAHvHzr4jJoq1f8WV.jpg" group-title="Recuerdos de un amor",Cap. 01
 http://series.tuxchannel.mx/series/aski_hatirla/s_01_e_01.mkv
