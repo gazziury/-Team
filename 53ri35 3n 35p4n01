@@ -6,6 +6,8 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+http://series.tuxchannel.mx/series/lanterns/s_01_e_02.mkv... 8
+
 http://series.tuxchannel.mx/series/reacher/s_04_e_05.mkv... 8
 
 http://series.tuxchannel.mx/series/lioness/s_03_e_04.mkv... 8
@@ -10480,6 +10482,11 @@ http://series.tuxchannel.mx/series/legends/s_01_e_04.mkv
 http://series.tuxchannel.mx/series/legends/s_01_e_05.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 06
 http://series.tuxchannel.mx/series/legends/s_01_e_06.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gpC7h43xPMEV3goYMQShfJbTtLq.jpg" group-title="Linternas",Cap. 01
+http://series.tuxchannel.mx/series/lanterns/s_01_e_01.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gpC7h43xPMEV3goYMQShfJbTtLq.jpg" group-title="Linternas",Cap. 02
+http://series.tuxchannel.mx/series/lanterns/s_01_e_02.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/302055082210211.png" group-title="Locke & Key T1",TRAILER
 https://archive.org/download/l-0ck-3-k-3y/L0ck3%20%26%20K3y.mp4
