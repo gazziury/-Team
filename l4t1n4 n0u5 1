@@ -385,624 +385,627 @@ http://23.137.84.107:8443/robertogarci4/017261/7436
 http://23.137.84.107:8443/robertogarci4/017261/24180
 #EXTINF:-1 tvg-id="" tvg-name="CINE - NETFLIX PELICULAS" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - NETFLIX PELICULAS
 http://23.137.84.107:8443/robertogarci4/017261/1235129
-
-
-
-
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - TBS" tvg-logo="http://descargas.podzone.net/logos/-TBS.png" group-title="• CINE",CINE - TBS
-https://23.137.84.107:8443/robertogarci4/017261/4011
+http://23.137.84.107:8443/robertogarci4/017261/4011
 #EXTINF:-1 tvg-id="" tvg-name="CINE - CINEMA MARVEL STUDIOS" tvg-logo="http://descargas.podzone.net/logos/-cinema-marvel-studios.png" group-title="• CINE",CINE - CINEMA MARVEL STUDIOS
-https://23.137.84.107:8443/robertogarci4/017261/44728
+http://23.137.84.107:8443/robertogarci4/017261/44728
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - SYFY USA" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - SYFY USA
-https://23.137.84.107:8443/robertogarci4/017261/1278193
+http://23.137.84.107:8443/robertogarci4/017261/1278193
 #EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="http://descargas.podzone.net/logos/-morbid-tv.png" group-title="• CINE",CINE - MORBID TV
-https://23.137.84.107:8443/robertogarci4/017261/33364
+http://23.137.84.107:8443/robertogarci4/017261/33364
 #EXTINF:-1 tvg-id="" tvg-name="CINE - FMH MOVIES" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - FMH MOVIES
-https://23.137.84.107:8443/robertogarci4/017261/1288459
+http://23.137.84.107:8443/robertogarci4/017261/1288459
 #EXTINF:-1 tvg-id="" tvg-name="CINE - FMH FAMILY" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJsAAABZCAMAAAAen6YBAAAAn1BMVEUAAAD///8ukTs4sUkzo0InfDIHFglOTk6QkJB1dXX5+fkFBQXe3t64uLhWVlYsjTkzoEJjY2OFhYVvb281NTUfYSjS0tIYTSCAgIAaGho1qEQOLBIUFBQ9PT0NDQ0sLCyurq5ERETl5eWamprExMTj4+MiIiLu7u6kpKQhaCoGEghnZ2cLIw8YGBgcWiUnJycqhDYIGgojby0ofzQRNRXd0qLWAAAC+ElEQVRoge2Ya3eiMBBAJ7ZWwsOtkbKyVRCkQNdu3df//22bB2BAWoG6LT1n7iecScJtCGFSAARBEARBEARBEARBPi1GGzOIiquVddIjKFuFMP2iuNHSbbGBkDYMoOUlPemxK1MzmE4UNbeW2H9yM8NGhxkZjRvx6k91HY/IjbBa++0xMQI3stGaL7T4GNzsoGqdZh/htl9ouDU3sqtaJ+Qj3Br7WM2NW7RHx+AWr2UwNEfoRrYiZnlkjG5kwWOMjNMtS2HTCHG3ybXi8e7IbRF7upwb0zlUbtUKSwKbNGIz+HaluNYoQlf35R1Oq4W+bo0ZKd0cp4xVaoZdtergRuPmV6+NKEkGuPlZI+dZfdxkZfC6m8jOiTnAjXerYbrQx40ROzots3TC2P4x1A3yWmoFvdwS7aPSDr/TfLBb8KBlEqufmyf+mFfxnW0w2A0i7YkeQHeb3Cqevx4pY08d3SSvu9GlRlpzA6Ny20PN7fzeexG3F/Ze6VZtbfJXH7dZTBwq3gWXbVl4EJcuXRx2271lLfN8zjM+peqZbiiVn+01pW53N3DVj8zv65YXY8vhTF4zi5EzsS3lcuOkcmxfuqUmrxtBvNqm38MNVvLHHPq60YzYjmPxFWsaVJQKcuRsJS69VUwy6+jGl46Z8mnLlGJnN1mC5NDbrVhvnqyygrhwcyHggmKVkVRz41a5mAZz3csNDmZZxA1ws4iaCqNwk/sQHzkUZ5GjGywJCblgdXjq6Mb7ReVlb7eUqM6RcrOh2JPXDTf+NdyuSFbOQWc3OB5ohsybnAumuxmnbuIhm9qm09ntyJD1ZltyWs64ibNSJifh5nF6/z5uvBpx5vOEnHWblf+AeZ5Mfr6PW/Fl8c66GSRWa+fuzW6PU8V3LVuPLZl6haJdkkch48tuw8TM7Bk/VwaMpeAzFoDMgNh+l2qUX7///AWroHF/64X4udzbyMnD5Qe9DGFRTIwRR77Oo2SjjsGjJDE7nMgQBEEQBEEQBEEQBPkU/APOgEAxt5jO0gAAAABJRU5ErkJggg==" group-title="• CINE",CINE - FMH FAMILY
-https://23.137.84.107:8443/robertogarci4/017261/1290745
+http://23.137.84.107:8443/robertogarci4/017261/1290745
 #EXTINF:-1 tvg-id="" tvg-name="CINE - FMH KIDS" tvg-logo="data:image/png;base64,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" group-title="• CINE",CINE - FMH KIDS
-https://23.137.84.107:8443/robertogarci4/017261/1290746
+http://23.137.84.107:8443/robertogarci4/017261/1290746
 #EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="ENT - LIFETIME HD" tvg-logo="http://descargas.podzone.net/logos/-lifetime.png" group-title="• ENTRETENIMIENTO",ENT - LIFETIME HD
-https://23.137.84.107:8443/robertogarci4/017261/1155873
+http://23.137.84.107:8443/robertogarci4/017261/1155873
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT - E! ENTERTAINMENT FHD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO",ENT - E! ENTERTAINMENT FHD
-https://23.137.84.107:8443/robertogarci4/017261/4041
+http://23.137.84.107:8443/robertogarci4/017261/4041
 #EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -  E! ENTERTAINMENT HD" tvg-logo="http://descargas.podzone.net/logos/-E!-entertainment.png" group-title="• ENTRETENIMIENTO",ENT -  E! ENTERTAINMENT HD
-https://23.137.84.107:8443/robertogarci4/017261/1155867
+http://23.137.84.107:8443/robertogarci4/017261/1155867
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO",ENT - DISCOVERY TURBO FHD
-https://23.137.84.107:8443/robertogarci4/017261/4075
+http://23.137.84.107:8443/robertogarci4/017261/4075
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT - DISCOVERY TURBO" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="• ENTRETENIMIENTO",ENT - DISCOVERY TURBO
-https://23.137.84.107:8443/robertogarci4/017261/1155871
+http://23.137.84.107:8443/robertogarci4/017261/1155871
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ENT -  EL GARAGE HD" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO",ENT -  EL GARAGE HD
-https://23.137.84.107:8443/robertogarci4/017261/1155864
+http://23.137.84.107:8443/robertogarci4/017261/1155864
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ENT - EL GARAGE TV" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="• ENTRETENIMIENTO",ENT - EL GARAGE TV
-https://23.137.84.107:8443/robertogarci4/017261/4016
+http://23.137.84.107:8443/robertogarci4/017261/4016
 #EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT - EL GOURMET FHD" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO",ENT - EL GOURMET FHD
-https://23.137.84.107:8443/robertogarci4/017261/4042
+http://23.137.84.107:8443/robertogarci4/017261/4042
 #EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT - EL GOURMET HD" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png" group-title="• ENTRETENIMIENTO",ENT - EL GOURMET HD
-https://23.137.84.107:8443/robertogarci4/017261/1155868
+http://23.137.84.107:8443/robertogarci4/017261/1155868
 #EXTINF:-1 tvg-id="" tvg-name="ENT - Kanal D Drama HD" tvg-logo="data:image/jpeg;base64,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" group-title="• ENTRETENIMIENTO",ENT - Kanal D Drama HD
-https://23.137.84.107:8443/robertogarci4/017261/1167673
+http://23.137.84.107:8443/robertogarci4/017261/1167673
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ENT - COCINA " tvg-logo="http://descargas.podzone.net/logos/-cocina.png" group-title="• ENTRETENIMIENTO",ENT - COCINA 
-https://23.137.84.107:8443/robertogarci4/017261/1153332
+http://23.137.84.107:8443/robertogarci4/017261/1153332
 #EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="ENT - FOOD NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK FHD
-https://23.137.84.107:8443/robertogarci4/017261/4057
+http://23.137.84.107:8443/robertogarci4/017261/4057
 #EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="ENT - FOOD NETWORK" tvg-logo="http://descargas.podzone.net/logos/-food-network.png" group-title="• ENTRETENIMIENTO",ENT - FOOD NETWORK
-https://23.137.84.107:8443/robertogarci4/017261/4146
+http://23.137.84.107:8443/robertogarci4/017261/4146
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT - COMEDY CENTRAL FHD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO",ENT - COMEDY CENTRAL FHD
-https://23.137.84.107:8443/robertogarci4/017261/4039
+http://23.137.84.107:8443/robertogarci4/017261/4039
 #EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ENT - Comedy Central HD" tvg-logo="http://descargas.podzone.net/logos/-comedy-central.png" group-title="• ENTRETENIMIENTO",ENT - Comedy Central HD
-https://23.137.84.107:8443/robertogarci4/017261/1155872
+http://23.137.84.107:8443/robertogarci4/017261/1155872
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="ENT - DISTRITO COMEDIA FHD" tvg-logo="http://descargas.podzone.net/logos/-distrito-comedia.png" group-title="• ENTRETENIMIENTO",ENT - DISTRITO COMEDIA FHD
-https://23.137.84.107:8443/robertogarci4/017261/4040
+http://23.137.84.107:8443/robertogarci4/017261/4040
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT - WOBI TV FHD" tvg-logo="http://descargas.podzone.net/logos/-wobi-tv.png" group-title="• ENTRETENIMIENTO",ENT - WOBI TV FHD
-https://23.137.84.107:8443/robertogarci4/017261/4107
+http://23.137.84.107:8443/robertogarci4/017261/4107
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT -WOBI" tvg-logo="http://descargas.podzone.net/logos/-wobi-tv.png" group-title="• ENTRETENIMIENTO",ENT -WOBI
-https://23.137.84.107:8443/robertogarci4/017261/4134
+http://23.137.84.107:8443/robertogarci4/017261/4134
 #EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV FHD" tvg-logo="http://descargas.podzone.net/logos/-hola-tv.png" group-title="• ENTRETENIMIENTO",ENT - HOLA TV FHD
-https://23.137.84.107:8443/robertogarci4/017261/4046
+http://23.137.84.107:8443/robertogarci4/017261/4046
 #EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV HD" tvg-logo="http://descargas.podzone.net/logos/-hola-tv.png" group-title="• ENTRETENIMIENTO",ENT - HOLA TV HD
-https://23.137.84.107:8443/robertogarci4/017261/1155874
+http://23.137.84.107:8443/robertogarci4/017261/1155874
 #EXTINF:-1 tvg-id="" tvg-name="ENT - EWTN" tvg-logo="http://descargas.podzone.net/logos/-EWTN.png" group-title="• ENTRETENIMIENTO",ENT - EWTN
-https://23.137.84.107:8443/robertogarci4/017261/34609
+http://23.137.84.107:8443/robertogarci4/017261/34609
 #EXTINF:-1 tvg-id="truTV.mx" tvg-name="ENT - TRU TV" tvg-logo="http://descargas.podzone.net/logos/-TRU-TV.png" group-title="• ENTRETENIMIENTO",ENT - TRU TV
-https://23.137.84.107:8443/robertogarci4/017261/1155879
+http://23.137.84.107:8443/robertogarci4/017261/1155879
 #EXTINF:-1 tvg-id="" tvg-name="ENT - BITME" tvg-logo="http://descargas.podzone.net/logos/-bitme.png" group-title="• ENTRETENIMIENTO",ENT - BITME
-https://23.137.84.107:8443/robertogarci4/017261/47698
+http://23.137.84.107:8443/robertogarci4/017261/47698
 #EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF -  BABY TV HQ FHD" tvg-logo="http://descargas.podzone.net/logos/-baby-tv.png" group-title="• INFANTILES •",INF -  BABY TV HQ FHD
-https://23.137.84.107:8443/robertogarci4/017261/4116
+http://23.137.84.107:8443/robertogarci4/017261/4116
 #EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF - BABY TV" tvg-logo="http://descargas.podzone.net/logos/-baby-tv.png" group-title="• INFANTILES •",INF - BABY TV
-https://23.137.84.107:8443/robertogarci4/017261/3798
+http://23.137.84.107:8443/robertogarci4/017261/3798
 #EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="INF - BABY FIRST FHD" tvg-logo="http://descargas.podzone.net/logos/-baby-first.png" group-title="• INFANTILES •",INF - BABY FIRST FHD
-https://23.137.84.107:8443/robertogarci4/017261/4088
+http://23.137.84.107:8443/robertogarci4/017261/4088
 #EXTINF:-1 tvg-id="" tvg-name="INF - BABY FIRST" tvg-logo="http://descargas.podzone.net/logos/-baby-first.png" group-title="• INFANTILES •",INF - BABY FIRST
-https://23.137.84.107:8443/robertogarci4/017261/1155858
+http://23.137.84.107:8443/robertogarci4/017261/1155858
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - CARTOONITO FHD" tvg-logo="http://descargas.podzone.net/logos/-cartoonito.png" group-title="• INFANTILES •",INF - CARTOONITO FHD
-https://23.137.84.107:8443/robertogarci4/017261/4061
+http://23.137.84.107:8443/robertogarci4/017261/4061
 #EXTINF:-1 tvg-id="" tvg-name="INF - CARTOONITO HD" tvg-logo="http://descargas.podzone.net/logos/-cartoonito.png" group-title="• INFANTILES •",INF - CARTOONITO HD
-https://23.137.84.107:8443/robertogarci4/017261/1155854
+http://23.137.84.107:8443/robertogarci4/017261/1155854
 #EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="INF -  TOONCAST" tvg-logo="http://descargas.podzone.net/logos/-tooncast.png" group-title="• INFANTILES •",INF -  TOONCAST
-https://23.137.84.107:8443/robertogarci4/017261/1155861
+http://23.137.84.107:8443/robertogarci4/017261/1155861
 #EXTINF:-1 tvg-id="" tvg-name="INF - Movistar DISNEY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh2ejLw4gqRAxt2x8uilV2oV7JH1SxqYiS6w&s" group-title="• INFANTILES •",INF - Movistar DISNEY
-https://23.137.84.107:8443/robertogarci4/017261/1219850
+http://23.137.84.107:8443/robertogarci4/017261/1219850
 #EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="INF - TOONCAST FHD" tvg-logo="http://descargas.podzone.net/logos/-tooncast.png" group-title="• INFANTILES •",INF - TOONCAST FHD
-https://23.137.84.107:8443/robertogarci4/017261/4051
+http://23.137.84.107:8443/robertogarci4/017261/4051
 #EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="INF - NICKELODEON FHD" tvg-logo="http://descargas.podzone.net/logos/-nickelodeon.png" group-title="• INFANTILES •",INF - NICKELODEON FHD
-https://23.137.84.107:8443/robertogarci4/017261/4058
+http://23.137.84.107:8443/robertogarci4/017261/4058
 #EXTINF:-1 tvg-id="" tvg-name="INF - NICKELODEON HD" tvg-logo="http://descargas.podzone.net/logos/-nickelodeon.png" group-title="• INFANTILES •",INF - NICKELODEON HD
-https://23.137.84.107:8443/robertogarci4/017261/1155856
+http://23.137.84.107:8443/robertogarci4/017261/1155856
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF - DISCOVERY KIDS FHD" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="• INFANTILES •",INF - DISCOVERY KIDS FHD
-https://23.137.84.107:8443/robertogarci4/017261/4072
+http://23.137.84.107:8443/robertogarci4/017261/4072
 #EXTINF:-1 tvg-id="" tvg-name="INF - DISCOVERY KIDS HD" tvg-logo="http://descargas.podzone.net/logos/-discovery-kids.png" group-title="• INFANTILES •",INF - DISCOVERY KIDS HD
-https://23.137.84.107:8443/robertogarci4/017261/1155851
+http://23.137.84.107:8443/robertogarci4/017261/1155851
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF - CARTOON NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="• INFANTILES •",INF - CARTOON NETWORK FHD
-https://23.137.84.107:8443/robertogarci4/017261/4063
+http://23.137.84.107:8443/robertogarci4/017261/4063
 #EXTINF:-1 tvg-id="" tvg-name="INF - CARTOON NETWORK" tvg-logo="http://descargas.podzone.net/logos/-cartoon-network.png" group-title="• INFANTILES •",INF - CARTOON NETWORK
-https://23.137.84.107:8443/robertogarci4/017261/1155850
+http://23.137.84.107:8443/robertogarci4/017261/1155850
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="INF - DISNEY CHANNEL" tvg-logo="http://descargas.podzone.net/logos/-disney-channel.png" group-title="• INFANTILES •",INF - DISNEY CHANNEL
-https://23.137.84.107:8443/robertogarci4/017261/4004
+http://23.137.84.107:8443/robertogarci4/017261/4004
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF - DISNEY JR FHD" tvg-logo="http://descargas.podzone.net/logos/-DISNEY-JR.png" group-title="• INFANTILES •",INF - DISNEY JR FHD
-https://23.137.84.107:8443/robertogarci4/017261/4111
+http://23.137.84.107:8443/robertogarci4/017261/4111
 #EXTINF:-1 tvg-id="" tvg-name="INF  - DISNEY JR" tvg-logo="http://descargas.podzone.net/logos/-DISNEY-JR.png" group-title="• INFANTILES •",INF  - DISNEY JR
-https://23.137.84.107:8443/robertogarci4/017261/1144260
+http://23.137.84.107:8443/robertogarci4/017261/1144260
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF - NICK JUNIOR" tvg-logo="http://descargas.podzone.net/logos2/-NICK-JUNIOR.png" group-title="• INFANTILES •",INF - NICK JUNIOR
-https://23.137.84.107:8443/robertogarci4/017261/4194
+http://23.137.84.107:8443/robertogarci4/017261/4194
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - TEEN NICK " tvg-logo="http://descargas.podzone.net/logos/-teennick.png" group-title="• INFANTILES •",INF - TEEN NICK 
-https://23.137.84.107:8443/robertogarci4/017261/4140
+http://23.137.84.107:8443/robertogarci4/017261/4140
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="CINP - STARZ IN BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-in-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ IN BLACK
-https://23.137.84.107:8443/robertogarci4/017261/8137
+http://23.137.84.107:8443/robertogarci4/017261/8137
 #EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="CINP - STARZ ENCORE BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-encore-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE BLACK
-https://23.137.84.107:8443/robertogarci4/017261/8127
+http://23.137.84.107:8443/robertogarci4/017261/8127
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="CINP - STARZ ENCORE ACTION HD" tvg-logo="http://descargas.podzone.net/logos/-starz-encore-action.png" group-title="•CINEMA PREMIUM•",CINP - STARZ ENCORE ACTION HD
-https://23.137.84.107:8443/robertogarci4/017261/8128
+http://23.137.84.107:8443/robertogarci4/017261/8128
 #EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="CINP - STARZ KIDS & FAMILY" tvg-logo="http://descargas.podzone.net/logos/-starz-kids-&-family.png" group-title="•CINEMA PREMIUM•",CINP - STARZ KIDS & FAMILY
-https://23.137.84.107:8443/robertogarci4/017261/8133
+http://23.137.84.107:8443/robertogarci4/017261/8133
 #EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="CINP - STARZ CINEMA HD" tvg-logo="http://descargas.podzone.net/logos/-starz-cinema.png" group-title="•CINEMA PREMIUM•",CINP - STARZ CINEMA HD
-https://23.137.84.107:8443/robertogarci4/017261/8136
+http://23.137.84.107:8443/robertogarci4/017261/8136
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="CINP - STARZ COMEDY HD" tvg-logo="http://descargas.podzone.net/logos/-starz-comedy.png" group-title="•CINEMA PREMIUM•",CINP - STARZ COMEDY HD
-https://23.137.84.107:8443/robertogarci4/017261/8135
+http://23.137.84.107:8443/robertogarci4/017261/8135
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="CINP - STARZ IN BLACK" tvg-logo="http://descargas.podzone.net/logos/-starz-in-black.png" group-title="•CINEMA PREMIUM•",CINP - STARZ IN BLACK
-https://23.137.84.107:8443/robertogarci4/017261/8126
+http://23.137.84.107:8443/robertogarci4/017261/8126
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOW TIME HD" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOW TIME HD
-https://23.137.84.107:8443/robertogarci4/017261/8138
+http://23.137.84.107:8443/robertogarci4/017261/8138
 #EXTINF:-1 tvg-id="" tvg-name="CINP - SHOWTIME BEYOND HD" tvg-logo="http://descargas.podzone.net/logos/-showtime-beyond.png" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME BEYOND HD
-https://23.137.84.107:8443/robertogarci4/017261/8139
+http://23.137.84.107:8443/robertogarci4/017261/8139
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOWTIME EAST" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME EAST
-https://23.137.84.107:8443/robertogarci4/017261/8140
+http://23.137.84.107:8443/robertogarci4/017261/8140
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOTIME WEST HD" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOTIME WEST HD
-https://23.137.84.107:8443/robertogarci4/017261/8141
+http://23.137.84.107:8443/robertogarci4/017261/8141
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - MORE MAX HD" tvg-logo="http://descargas.podzone.net/logos/-more-max.png" group-title="•CINEMA PREMIUM•",CINP - MORE MAX HD
-https://23.137.84.107:8443/robertogarci4/017261/8143
+http://23.137.84.107:8443/robertogarci4/017261/8143
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - OUTERMAX HD" tvg-logo="http://descargas.podzone.net/logos/-outermax.png" group-title="•CINEMA PREMIUM•",CINP - OUTERMAX HD
-https://23.137.84.107:8443/robertogarci4/017261/8146
+http://23.137.84.107:8443/robertogarci4/017261/8146
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - INDIE PLEX" tvg-logo="http://descargas.podzone.net/logos/-indie-plex.png" group-title="•CINEMA PREMIUM•",CINP - INDIE PLEX
-https://23.137.84.107:8443/robertogarci4/017261/8142
+http://23.137.84.107:8443/robertogarci4/017261/8142
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - RETROPLEX HD" tvg-logo="http://descargas.podzone.net/logos/-retroplex.png" group-title="•CINEMA PREMIUM•",CINP - RETROPLEX HD
-https://23.137.84.107:8443/robertogarci4/017261/8147
+http://23.137.84.107:8443/robertogarci4/017261/8147
 #EXTINF:-1 tvg-id="" tvg-name="URU │ CANAL 10 ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU │ CANAL 10 ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1218122
+http://23.137.84.107:8443/robertogarci4/017261/1218122
 #EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU │ CANAL 10 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU │ CANAL 10 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/18567
+http://23.137.84.107:8443/robertogarci4/017261/18567
 #EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU │ CANAL 10 FHD" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU │ CANAL 10 FHD
-https://23.137.84.107:8443/robertogarci4/017261/1155782
+http://23.137.84.107:8443/robertogarci4/017261/1155782
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU │ TELE 12 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU │ TELE 12 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1156212
+http://23.137.84.107:8443/robertogarci4/017261/1156212
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU │ TELE 12 FHD" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU │ TELE 12 FHD
-https://23.137.84.107:8443/robertogarci4/017261/18731
+http://23.137.84.107:8443/robertogarci4/017261/18731
 #EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU │ TELE 12 ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU │ TELE 12 ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/18578
+http://23.137.84.107:8443/robertogarci4/017261/18578
 #EXTINF:-1 tvg-id="MonteCarloTV.uy" tvg-name="URU │ CANAL 4 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU │ CANAL 4 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/8334
+http://23.137.84.107:8443/robertogarci4/017261/8334
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-name="URU │ CANAL 4 ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU │ CANAL 4 ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/18261
+http://23.137.84.107:8443/robertogarci4/017261/18261
 #EXTINF:-1 tvg-id="" tvg-name="URU │ DIRECTV PREMIUM" tvg-logo="http://descargas.podzone.net/Logos3/001.png" group-title="URUGUAY",URU │ DIRECTV PREMIUM
-https://23.137.84.107:8443/robertogarci4/017261/1274599
+http://23.137.84.107:8443/robertogarci4/017261/1274599
 #EXTINF:-1 tvg-id="" tvg-name="URU │ DIRECTV SPORTS" tvg-logo="http://descargas.podzone.net/Logos3/005.png" group-title="URUGUAY",URU │ DIRECTV SPORTS
-https://23.137.84.107:8443/robertogarci4/017261/1274600
+http://23.137.84.107:8443/robertogarci4/017261/1274600
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="URU │ ESPN URUGUAY ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="URUGUAY",URU │ ESPN URUGUAY ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1156002
+http://23.137.84.107:8443/robertogarci4/017261/1156002
 #EXTINF:-1 tvg-id="" tvg-name="URU │ ESPN URUGUAY" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="URUGUAY",URU │ ESPN URUGUAY
-https://23.137.84.107:8443/robertogarci4/017261/1240256
+http://23.137.84.107:8443/robertogarci4/017261/1240256
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU │ VTV Futbol" tvg-logo="http://descargas.podzone.net/logos/-VTV-plus.png" group-title="URUGUAY",URU │ VTV Futbol
-https://23.137.84.107:8443/robertogarci4/017261/19354
+http://23.137.84.107:8443/robertogarci4/017261/19354
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU │ VTV Plus " tvg-logo="http://descargas.podzone.net/logos/-VTV-plus.png" group-title="URUGUAY",URU │ VTV Plus 
-https://23.137.84.107:8443/robertogarci4/017261/52513
+http://23.137.84.107:8443/robertogarci4/017261/52513
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU │ VTV ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-VTV.png" group-title="URUGUAY",URU │ VTV ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/3802
+http://23.137.84.107:8443/robertogarci4/017261/3802
 #EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU │ VTV ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-VTV.png" group-title="URUGUAY",URU │ VTV ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/22204
+http://23.137.84.107:8443/robertogarci4/017261/22204
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="URU │ DIRECTV URUGUAY ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="URUGUAY",URU │ DIRECTV URUGUAY ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1156003
+http://23.137.84.107:8443/robertogarci4/017261/1156003
 #EXTINF:-1 tvg-id="" tvg-name="URU │ DIRECTV URUGUAY ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="URUGUAY",URU │ DIRECTV URUGUAY ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1237806
+http://23.137.84.107:8443/robertogarci4/017261/1237806
 #EXTINF:-1 tvg-id="TelevisionNacionalUruguay.uy" tvg-name="URU │ CANAL 5 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-canal-5-uruguay.png" group-title="URUGUAY",URU │ CANAL 5 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/19351
+http://23.137.84.107:8443/robertogarci4/017261/19351
 #EXTINF:-1 tvg-id="" tvg-name="URU │ CANAL 5 ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-canal-5-uruguay.png" group-title="URUGUAY",URU │ CANAL 5 ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1272153
+http://23.137.84.107:8443/robertogarci4/017261/1272153
 #EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URU │ TV CIUDAD ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-tv-ciudad.png" group-title="URUGUAY",URU │ TV CIUDAD ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/19352
+http://23.137.84.107:8443/robertogarci4/017261/19352
 #EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URU │ TV CIUDAD ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-tv-ciudad.png" group-title="URUGUAY",URU │ TV CIUDAD ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/16136
+http://23.137.84.107:8443/robertogarci4/017261/16136
 #EXTINF:-1 tvg-id="" tvg-name="URU │ LA RED" tvg-logo="http://descargas.podzone.net/logos/-la-red.png" group-title="URUGUAY",URU │ LA RED
-https://23.137.84.107:8443/robertogarci4/017261/35428
+http://23.137.84.107:8443/robertogarci4/017261/35428
 #EXTINF:-1 tvg-id="" tvg-name="URU │ FIX Eventos ᴴᴰ" tvg-logo="http://descargas.podzone.net/Logos3/008.png" group-title="URUGUAY",URU │ FIX Eventos ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1236616
+http://23.137.84.107:8443/robertogarci4/017261/1236616
 #EXTINF:-1 tvg-id="" tvg-name="URU │ PPV URUGUAY 1" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU │ PPV URUGUAY 1
-https://23.137.84.107:8443/robertogarci4/017261/1155780
+http://23.137.84.107:8443/robertogarci4/017261/1155780
 #EXTINF:-1 tvg-id="" tvg-name="URU │ PPV URUGUAY 2" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU │ PPV URUGUAY 2
-https://23.137.84.107:8443/robertogarci4/017261/7943
+http://23.137.84.107:8443/robertogarci4/017261/7943
 #EXTINF:-1 tvg-id="" tvg-name="URU │ PPV URUGUAY 3" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU │ PPV URUGUAY 3
-https://23.137.84.107:8443/robertogarci4/017261/43600
+http://23.137.84.107:8443/robertogarci4/017261/43600
 #EXTINF:-1 tvg-id="" tvg-name="URU │ PPV URUGUAY 4" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU │ PPV URUGUAY 4
-https://23.137.84.107:8443/robertogarci4/017261/1253787
+http://23.137.84.107:8443/robertogarci4/017261/1253787
 #EXTINF:-1 tvg-id="" tvg-name="URU │ PPV URUGUAY 5 (COPA AUF)" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU │ PPV URUGUAY 5 (COPA AUF)
-https://23.137.84.107:8443/robertogarci4/017261/1284624
+http://23.137.84.107:8443/robertogarci4/017261/1284624
 #EXTINF:-1 tvg-id="" tvg-name="URU │ CANAL 11 PUNTA DEL ESTE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-canal-11-punta-del-este.png" group-title="URUGUAY",URU │ CANAL 11 PUNTA DEL ESTE ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1139100
+http://23.137.84.107:8443/robertogarci4/017261/1139100
 #EXTINF:-1 tvg-id="" tvg-name="URU │ CANAL 11 Las Piedras" tvg-logo="http://descargas.podzone.net/Logos3/004.png" group-title="URUGUAY",URU │ CANAL 11 Las Piedras
-https://23.137.84.107:8443/robertogarci4/017261/1219849
+http://23.137.84.107:8443/robertogarci4/017261/1219849
 #EXTINF:-1 tvg-id="" tvg-name="URU │ CANAL 7 PUNTA " tvg-logo="http://descargas.podzone.net/Logos3/003.png" group-title="URUGUAY",URU │ CANAL 7 PUNTA 
-https://23.137.84.107:8443/robertogarci4/017261/1195549
+http://23.137.84.107:8443/robertogarci4/017261/1195549
 #EXTINF:-1 tvg-id="" tvg-name="URU │ CANAL 8 ARTIGAS " tvg-logo="http://descargas.podzone.net/Logos3/011.png" group-title="URUGUAY",URU │ CANAL 8 ARTIGAS 
-https://23.137.84.107:8443/robertogarci4/017261/1197331
+http://23.137.84.107:8443/robertogarci4/017261/1197331
 #EXTINF:-1 tvg-id="" tvg-name="URU │ TELE 8 MERCEDES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTNxBrE3hAeAzHKDKVbHXL3Pe43x13QLIug&s" group-title="URUGUAY",URU │ TELE 8 MERCEDES
-https://23.137.84.107:8443/robertogarci4/017261/1195552
+http://23.137.84.107:8443/robertogarci4/017261/1195552
 #EXTINF:-1 tvg-id="" tvg-name="URU │ FLORIDA TELEVISIÓN COLOR" tvg-logo="http://descargas.podzone.net/Logos3/009.png" group-title="URUGUAY",URU │ FLORIDA TELEVISIÓN COLOR
-https://23.137.84.107:8443/robertogarci4/017261/1257242
+http://23.137.84.107:8443/robertogarci4/017261/1257242
 #EXTINF:-1 tvg-id="" tvg-name="URU │ CARDINAL TV" tvg-logo="http://descargas.podzone.net/Logos3/002.png" group-title="URUGUAY",URU │ CARDINAL TV
-https://23.137.84.107:8443/robertogarci4/017261/1219848
+http://23.137.84.107:8443/robertogarci4/017261/1219848
 #EXTINF:-1 tvg-id="" tvg-name="URU  │ A+V " tvg-logo="http://descargas.podzone.net/logos/-AmasV.png" group-title="URUGUAY",URU  │ A+V 
-https://23.137.84.107:8443/robertogarci4/017261/51359
+http://23.137.84.107:8443/robertogarci4/017261/51359
 #EXTINF:-1 tvg-id="" tvg-name="URU │ MAROÑAS ENTERTAIMENT " tvg-logo="http://descargas.podzone.net/logos/-maronas-entertaiment.png" group-title="URUGUAY",URU │ MAROÑAS ENTERTAIMENT 
-https://23.137.84.107:8443/robertogarci4/017261/31618
+http://23.137.84.107:8443/robertogarci4/017261/31618
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX │ AZTECA UNO ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX │ AZTECA UNO ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4087
+http://23.137.84.107:8443/robertogarci4/017261/4087
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ AZTECA UNO ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX │ AZTECA UNO ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155859
+http://23.137.84.107:8443/robertogarci4/017261/1155859
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ AZTECA UNO" tvg-logo="http://descargas.podzone.net/logos/-azteca-uno.png" group-title="MEXICO",MX │ AZTECA UNO
-https://23.137.84.107:8443/robertogarci4/017261/1155860
+http://23.137.84.107:8443/robertogarci4/017261/1155860
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="MX │ AZTECA 7 ᵁᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX │ AZTECA 7 ᵁᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4027
+http://23.137.84.107:8443/robertogarci4/017261/4027
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ AZTECA 7 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX │ AZTECA 7 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155862
+http://23.137.84.107:8443/robertogarci4/017261/1155862
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ AZTECA 7" tvg-logo="http://descargas.podzone.net/logos/-azteca-7.png" group-title="MEXICO",MX │ AZTECA 7
-https://23.137.84.107:8443/robertogarci4/017261/1155863
+http://23.137.84.107:8443/robertogarci4/017261/1155863
 #EXTINF:-1 tvg-id="" tvg-name="MX │ IMAGEN TV ᵁᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX │ IMAGEN TV ᵁᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1124600
+http://23.137.84.107:8443/robertogarci4/017261/1124600
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MX │ IMAGEN TV" tvg-logo="http://descargas.podzone.net/logos/-imagen-tv.png" group-title="MEXICO",MX │ IMAGEN TV
-https://23.137.84.107:8443/robertogarci4/017261/4149
+http://23.137.84.107:8443/robertogarci4/017261/4149
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ FORO TV ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX │ FORO TV ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155869
+http://23.137.84.107:8443/robertogarci4/017261/1155869
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ FORO TV " tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX │ FORO TV 
-https://23.137.84.107:8443/robertogarci4/017261/1155870
+http://23.137.84.107:8443/robertogarci4/017261/1155870
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MX │ FORO TV" tvg-logo="http://descargas.podzone.net/logos/-foro-tv.png" group-title="MEXICO",MX │ FORO TV
-https://23.137.84.107:8443/robertogarci4/017261/4029
+http://23.137.84.107:8443/robertogarci4/017261/4029
 #EXTINF:-1 tvg-id="Proyecto40.mx" tvg-name="MX - ADN 40" tvg-logo="http://descargas.podzone.net/logos/-ADN-40.png" group-title="MEXICO",MX - ADN 40
-https://23.137.84.107:8443/robertogarci4/017261/4025
+http://23.137.84.107:8443/robertogarci4/017261/4025
 #EXTINF:-1 tvg-id="" tvg-name="MX │ MILENIO TV " tvg-logo="http://descargas.podzone.net/logos/-milenio-tv.png" group-title="MEXICO",MX │ MILENIO TV 
-https://23.137.84.107:8443/robertogarci4/017261/1158427
+http://23.137.84.107:8443/robertogarci4/017261/1158427
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ NUEVE" tvg-logo="http://descargas.podzone.net/logos/-nueve.png" group-title="MEXICO",MX │ NUEVE
-https://23.137.84.107:8443/robertogarci4/017261/1155855
+http://23.137.84.107:8443/robertogarci4/017261/1155855
 #EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="MX │ GALA TV" tvg-logo="http://descargas.podzone.net/logos/-gala-tv.png" group-title="MEXICO",MX │ GALA TV
-https://23.137.84.107:8443/robertogarci4/017261/4031
+http://23.137.84.107:8443/robertogarci4/017261/4031
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="MX │ UNICABLE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX │ UNICABLE ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4052
+http://23.137.84.107:8443/robertogarci4/017261/4052
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ UNICABLE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX │ UNICABLE ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155852
+http://23.137.84.107:8443/robertogarci4/017261/1155852
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ UNICABLE " tvg-logo="http://descargas.podzone.net/logos/-unicable.png" group-title="MEXICO",MX │ UNICABLE 
-https://23.137.84.107:8443/robertogarci4/017261/1155853
+http://23.137.84.107:8443/robertogarci4/017261/1155853
 #EXTINF:-1 tvg-id="" tvg-name="MX │ TNT NOVELAS" tvg-logo="http://descargas.podzone.net/Logos3/033.png" group-title="MEXICO",MX │ TNT NOVELAS
-https://23.137.84.107:8443/robertogarci4/017261/1193467
+http://23.137.84.107:8443/robertogarci4/017261/1193467
 #EXTINF:-1 tvg-id="TeleNovelasLatinAmerica.pa" tvg-name="MX │ TLN TELENOVELAS" tvg-logo="http://descargas.podzone.net/logos/-TL-telenovelas.png" group-title="MEXICO",MX │ TLN TELENOVELAS
-https://23.137.84.107:8443/robertogarci4/017261/4130
+http://23.137.84.107:8443/robertogarci4/017261/4130
 #EXTINF:-1 tvg-id="" tvg-name="MX │ Comedy Central" tvg-logo="http://descargas.podzone.net/logos/-comedy-central-mx.png" group-title="MEXICO",MX │ Comedy Central
-https://23.137.84.107:8443/robertogarci4/017261/1158426
+http://23.137.84.107:8443/robertogarci4/017261/1158426
 #EXTINF:-1 tvg-id="" tvg-name="MX │AFIZZIONADOS" tvg-logo="http://descargas.podzone.net/logos/-afizzionados.png" group-title="MEXICO",MX │AFIZZIONADOS
-https://23.137.84.107:8443/robertogarci4/017261/8248
+http://23.137.84.107:8443/robertogarci4/017261/8248
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ MULTIMEDIOS MONTERREY ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX │ MULTIMEDIOS MONTERREY ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4033
+http://23.137.84.107:8443/robertogarci4/017261/4033
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ MULTIMEDIOS MONTERREY PLUS" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX │ MULTIMEDIOS MONTERREY PLUS
-https://23.137.84.107:8443/robertogarci4/017261/4034
+http://23.137.84.107:8443/robertogarci4/017261/4034
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ MULTIMEDIOS MONTERREY" tvg-logo="http://descargas.podzone.net/logos/-multimedios-monterrey.png" group-title="MEXICO",MX │ MULTIMEDIOS MONTERREY
-https://23.137.84.107:8443/robertogarci4/017261/4125
+http://23.137.84.107:8443/robertogarci4/017261/4125
 #EXTINF:-1 tvg-id="" tvg-name="MX │ TELEVISA MTY" tvg-logo="http://descargas.podzone.net/logos/-televisa-MTY.png" group-title="MEXICO",MX │ TELEVISA MTY
-https://23.137.84.107:8443/robertogarci4/017261/4066
+http://23.137.84.107:8443/robertogarci4/017261/4066
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX │ TELEFORMULA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX │ TELEFORMULA ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4036
+http://23.137.84.107:8443/robertogarci4/017261/4036
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX │ TELEFORMULA" tvg-logo="http://descargas.podzone.net/logos/-teleformula.png" group-title="MEXICO",MX │ TELEFORMULA
-https://23.137.84.107:8443/robertogarci4/017261/4129
+http://23.137.84.107:8443/robertogarci4/017261/4129
 #EXTINF:-1 tvg-id="" tvg-name="MX │ UNO MVS TV" tvg-logo="http://descargas.podzone.net/logos/-uno-MVS-tv.png" group-title="MEXICO",MX │ UNO MVS TV
-https://23.137.84.107:8443/robertogarci4/017261/6022
+http://23.137.84.107:8443/robertogarci4/017261/6022
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="MX │ TVC" tvg-logo="http://descargas.podzone.net/logos/-tvc.png" group-title="MEXICO",MX │ TVC
-https://23.137.84.107:8443/robertogarci4/017261/4105
+http://23.137.84.107:8443/robertogarci4/017261/4105
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ AZ CINEMA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-AZ-cinema.png" group-title="MEXICO",MX │ AZ CINEMA ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4086
+http://23.137.84.107:8443/robertogarci4/017261/4086
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX │ AZ MUNDO ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-AZ-mundo.png" group-title="MEXICO",MX │ AZ MUNDO ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4055
+http://23.137.84.107:8443/robertogarci4/017261/4055
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="MX│CORAZON ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="MEXICO",MX│CORAZON ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155857
+http://23.137.84.107:8443/robertogarci4/017261/1155857
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX │ AZ CORAZON" tvg-logo="http://descargas.podzone.net/logos/-AZ-corazon.png" group-title="MEXICO",MX │ AZ CORAZON
-https://23.137.84.107:8443/robertogarci4/017261/4026
+http://23.137.84.107:8443/robertogarci4/017261/4026
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX │ ONCE TV ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-once-tv.png" group-title="MEXICO",MX │ ONCE TV ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4035
+http://23.137.84.107:8443/robertogarci4/017261/4035
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="MX │ ONCE TV NIÑOS Y NIÑAS" tvg-logo="http://descargas.podzone.net/logos/-once-tv-ninos-y-ninas.png" group-title="MEXICO",MX │ ONCE TV NIÑOS Y NIÑAS
-https://23.137.84.107:8443/robertogarci4/017261/47697
+http://23.137.84.107:8443/robertogarci4/017261/47697
 #EXTINF:-1 tvg-id="" tvg-name="MX │ TV UNAM" tvg-logo="http://descargas.podzone.net/logos/-CN6.png" group-title="MEXICO",MX │ TV UNAM
-https://23.137.84.107:8443/robertogarci4/017261/1160042
+http://23.137.84.107:8443/robertogarci4/017261/1160042
 #EXTINF:-1 tvg-id="" tvg-name="MX │ TV UNAM" tvg-logo="http://descargas.podzone.net/logos/-tv-UNAM.png" group-title="MEXICO",MX │ TV UNAM
-https://23.137.84.107:8443/robertogarci4/017261/18574
+http://23.137.84.107:8443/robertogarci4/017261/18574
 #EXTINF:-1 tvg-id="" tvg-name="MX │ INGENIO TV" tvg-logo="http://descargas.podzone.net/logos/-ingenio-tv.png" group-title="MEXICO",MX │ INGENIO TV
-https://23.137.84.107:8443/robertogarci4/017261/33358
+http://23.137.84.107:8443/robertogarci4/017261/33358
 #EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="MX │ TV4" tvg-logo="http://descargas.podzone.net/logos/-tv4.png" group-title="MEXICO",MX │ TV4
-https://23.137.84.107:8443/robertogarci4/017261/33367
+http://23.137.84.107:8443/robertogarci4/017261/33367
 #EXTINF:-1 tvg-id="" tvg-name="MX │ TV MAS" tvg-logo="http://descargas.podzone.net/logos/-tv-mas.png" group-title="MEXICO",MX │ TV MAS
 https://23.137.84.107:8443/robertogarci4/017261/33365
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ MEGA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-mega.png" group-title="CHILE",CHILE │ MEGA ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155841
+http://23.137.84.107:8443/robertogarci4/017261/1155841
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ MEGA" tvg-logo="http://descargas.podzone.net/logos/-mega.png" group-title="CHILE",CHILE │ MEGA
-https://23.137.84.107:8443/robertogarci4/017261/1155842
+http://23.137.84.107:8443/robertogarci4/017261/1155842
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ MEGA 2" tvg-logo="http://descargas.podzone.net/Logos3/032.png" group-title="CHILE",CHILE │ MEGA 2
-https://23.137.84.107:8443/robertogarci4/017261/1167424
+http://23.137.84.107:8443/robertogarci4/017261/1167424
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ CHILEVISION ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-chilevision.png" group-title="CHILE",CHILE │ CHILEVISION ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155835
+http://23.137.84.107:8443/robertogarci4/017261/1155835
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ CHILEVISION" tvg-logo="http://descargas.podzone.net/logos/-chilevision.png" group-title="CHILE",CHILE │ CHILEVISION
-https://23.137.84.107:8443/robertogarci4/017261/1155836
+http://23.137.84.107:8443/robertogarci4/017261/1155836
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHILE │ CANAL 13 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-canal-13.png" group-title="CHILE",CHILE │ CANAL 13 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1145137
+http://23.137.84.107:8443/robertogarci4/017261/1145137
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="CHILE │ CANAL 13 " tvg-logo="http://descargas.podzone.net/logos/-canal-13.png" group-title="CHILE",CHILE │ CANAL 13 
-https://23.137.84.107:8443/robertogarci4/017261/3853
+http://23.137.84.107:8443/robertogarci4/017261/3853
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="CHILE │ TVN ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TVN.png" group-title="CHILE",CHILE │ TVN ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155826
+http://23.137.84.107:8443/robertogarci4/017261/1155826
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TVN" tvg-logo="http://descargas.podzone.net/logos/-TVN.png" group-title="CHILE",CHILE │ TVN
-https://23.137.84.107:8443/robertogarci4/017261/1155817
+http://23.137.84.107:8443/robertogarci4/017261/1155817
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TVN 3" tvg-logo="http://descargas.podzone.net/Logos3/038.png" group-title="CHILE",CHILE │ TVN 3
-https://23.137.84.107:8443/robertogarci4/017261/1170103
+http://23.137.84.107:8443/robertogarci4/017261/1170103
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS PREMIUM ᴴᴰ" tvg-logo="http://descargas.podzone.net/Logos3/039.png" group-title="CHILE",CHILE │ TNT SPORTS PREMIUM ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1232148
+http://23.137.84.107:8443/robertogarci4/017261/1232148
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS PREMIUM ˢᴰ" tvg-logo="http://descargas.podzone.net/Logos3/039.png" group-title="CHILE",CHILE │ TNT SPORTS PREMIUM ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1232147
+http://23.137.84.107:8443/robertogarci4/017261/1232147
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE │ TNT SPORTS ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1160041
+http://23.137.84.107:8443/robertogarci4/017261/1160041
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS ᴴᴰ" tvg-logo="http://descargas.podzone.net/Logos3/037.png" group-title="CHILE",CHILE │ TNT SPORTS ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1232146
+http://23.137.84.107:8443/robertogarci4/017261/1232146
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE │ TNT SPORTS ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1156014
+http://23.137.84.107:8443/robertogarci4/017261/1156014
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS ˢᴰ" tvg-logo="http://descargas.podzone.net/Logos3/037.png" group-title="CHILE",CHILE │ TNT SPORTS ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1232145
+http://23.137.84.107:8443/robertogarci4/017261/1232145
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE │ TNT SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE │ TNT SPORTS
-https://23.137.84.107:8443/robertogarci4/017261/16138
+http://23.137.84.107:8443/robertogarci4/017261/16138
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS 2 ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE │ TNT SPORTS 2 ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1129864
+http://23.137.84.107:8443/robertogarci4/017261/1129864
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS 2 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE │ TNT SPORTS 2 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1129865
+http://23.137.84.107:8443/robertogarci4/017261/1129865
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TNT SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="CHILE",CHILE │ TNT SPORTS 3
-https://23.137.84.107:8443/robertogarci4/017261/1068349
+http://23.137.84.107:8443/robertogarci4/017261/1068349
 #EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="CHILE │ ESTADIO TNT" tvg-logo="http://descargas.podzone.net/logos/-estadio-TNT.png" group-title="CHILE",CHILE │ ESTADIO TNT
-https://23.137.84.107:8443/robertogarci4/017261/6979
+http://23.137.84.107:8443/robertogarci4/017261/6979
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ ESPN CHILE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="CHILE",CHILE │ ESPN CHILE ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1068348
+http://23.137.84.107:8443/robertogarci4/017261/1068348
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE │ ESPN CHILE" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="CHILE",CHILE │ ESPN CHILE
-https://23.137.84.107:8443/robertogarci4/017261/1117657
+http://23.137.84.107:8443/robertogarci4/017261/1117657
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ CNN CHILE" tvg-logo="http://descargas.podzone.net/logos/-CNN.png" group-title="CHILE",CHILE │ CNN CHILE
-https://23.137.84.107:8443/robertogarci4/017261/1155843
+http://23.137.84.107:8443/robertogarci4/017261/1155843
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="CHILE │ 24 HORAS" tvg-logo="http://descargas.podzone.net/logos/-24-horas.png" group-title="CHILE",CHILE │ 24 HORAS
-https://23.137.84.107:8443/robertogarci4/017261/23237
+http://23.137.84.107:8443/robertogarci4/017261/23237
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ ADN TV" tvg-logo="http://descargas.podzone.net/Logos3/036.png" group-title="CHILE",CHILE │ ADN TV
-https://23.137.84.107:8443/robertogarci4/017261/1179875
+http://23.137.84.107:8443/robertogarci4/017261/1179875
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TV+ ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TV+.png" group-title="CHILE",CHILE │ TV+ ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/30700
+http://23.137.84.107:8443/robertogarci4/017261/30700
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ TV+" tvg-logo="http://descargas.podzone.net/logos/-TV+.png" group-title="CHILE",CHILE │ TV+
-https://23.137.84.107:8443/robertogarci4/017261/1094403
+http://23.137.84.107:8443/robertogarci4/017261/1094403
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ LA RED ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-la-red-chile.png" group-title="CHILE",CHILE │ LA RED ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/51823
+http://23.137.84.107:8443/robertogarci4/017261/51823
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ UCV" tvg-logo="http://descargas.podzone.net/Logos3/035.png" group-title="CHILE",CHILE │ UCV
-https://23.137.84.107:8443/robertogarci4/017261/1179876
+http://23.137.84.107:8443/robertogarci4/017261/1179876
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CHILE │ 13C ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-13C.png" group-title="CHILE",CHILE │ 13C ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1091369
+http://23.137.84.107:8443/robertogarci4/017261/1091369
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="CHILE │ 13C ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-13C.png" group-title="CHILE",CHILE │ 13C ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1091370
+http://23.137.84.107:8443/robertogarci4/017261/1091370
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ NTV ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-NTV.png" group-title="CHILE",CHILE │ NTV ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/27103
+http://23.137.84.107:8443/robertogarci4/017261/27103
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ REC TV" tvg-logo="http://descargas.podzone.net/logos/-REC-TV.png" group-title="CHILE",CHILE │ REC TV
-https://23.137.84.107:8443/robertogarci4/017261/1155840
+http://23.137.84.107:8443/robertogarci4/017261/1155840
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ CDO PREMIUM " tvg-logo="http://descargas.podzone.net/logos/-CDO-premium.png" group-title="CHILE",CHILE │ CDO PREMIUM 
-https://23.137.84.107:8443/robertogarci4/017261/1155837
+http://23.137.84.107:8443/robertogarci4/017261/1155837
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ CDO Premium 1" tvg-logo="http://descargas.podzone.net/Logos3/040.png" group-title="CHILE",CHILE │ CDO Premium 1
-https://23.137.84.107:8443/robertogarci4/017261/1277393
+http://23.137.84.107:8443/robertogarci4/017261/1277393
 #EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="CHILE │ TELETRAK ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-teletrak.png" group-title="CHILE",CHILE │ TELETRAK ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/3854
+http://23.137.84.107:8443/robertogarci4/017261/3854
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ ZONA LATINA" tvg-logo="http://descargas.podzone.net/logos/-zona-latina.png" group-title="CHILE",CHILE │ ZONA LATINA
-https://23.137.84.107:8443/robertogarci4/017261/1141627
+http://23.137.84.107:8443/robertogarci4/017261/1141627
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ VIAX" tvg-logo="http://descargas.podzone.net/logos2/-VIAX-chile.png" group-title="CHILE",CHILE │ VIAX
-https://23.137.84.107:8443/robertogarci4/017261/1142322
+http://23.137.84.107:8443/robertogarci4/017261/1142322
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ SOLO TV" tvg-logo="https://making.cl/Logo-SoloTV1024x1024.png" group-title="CHILE",CHILE │ SOLO TV
-https://23.137.84.107:8443/robertogarci4/017261/1300989
+http://23.137.84.107:8443/robertogarci4/017261/1300989
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ Canal 9 Bío Bío" tvg-logo="http://descargas.podzone.net/Logos3/043.png" group-title="CHILE",CHILE │ Canal 9 Bío Bío
-https://23.137.84.107:8443/robertogarci4/017261/1179877
+http://23.137.84.107:8443/robertogarci4/017261/1179877
 #EXTINF:-1 tvg-id="" tvg-name="CHILE │ Portalfoxmix TV" tvg-logo="http://descargas.podzone.net/Logos3/034.png" group-title="CHILE",CHILE │ Portalfoxmix TV
-https://23.137.84.107:8443/robertogarci4/017261/1179874
+http://23.137.84.107:8443/robertogarci4/017261/1179874
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU │ ECUAVISA ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ecuavisa.png" group-title="ECUADOR",ECU │ ECUAVISA ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53455
+http://23.137.84.107:8443/robertogarci4/017261/53455
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU │ ECUAVISA ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-ecuavisa.png" group-title="ECUADOR",ECU │ ECUAVISA ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/8084
+http://23.137.84.107:8443/robertogarci4/017261/8084
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU │ TC TELEVISION ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TC-television.png" group-title="ECUADOR",ECU │ TC TELEVISION ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53458
+http://23.137.84.107:8443/robertogarci4/017261/53458
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU │ TC TELEVISION ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TC-television.png" group-title="ECUADOR",ECU │ TC TELEVISION ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/7533
+http://23.137.84.107:8443/robertogarci4/017261/7533
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU │ TELEAMAZONAS ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-teleamazonas.png" group-title="ECUADOR",ECU │ TELEAMAZONAS ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/7532
+http://23.137.84.107:8443/robertogarci4/017261/7532
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU │ TELEAMAZONAS ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-teleamazonas.png" group-title="ECUADOR",ECU │ TELEAMAZONAS ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53459
+http://23.137.84.107:8443/robertogarci4/017261/53459
 #EXTINF:-1 tvg-id="" tvg-name="ECU │ EL CANAL DEL FÚTBOL ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-el-canal-del-futbol.png" group-title="ECUADOR",ECU │ EL CANAL DEL FÚTBOL ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1092640
+http://23.137.84.107:8443/robertogarci4/017261/1092640
 #EXTINF:-1 tvg-id="" tvg-name="ECU │ EL CANAL DEL FÚTBOL ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-el-canal-del-futbol.png" group-title="ECUADOR",ECU │ EL CANAL DEL FÚTBOL ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1086208
+http://23.137.84.107:8443/robertogarci4/017261/1086208
 #EXTINF:-1 tvg-id="" tvg-name="ECU │ PPV ECUADOR" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="ECUADOR",ECU │ PPV ECUADOR
-https://23.137.84.107:8443/robertogarci4/017261/1118922
+http://23.137.84.107:8443/robertogarci4/017261/1118922
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU │ DIRECTV SPORTS ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU │ DIRECTV SPORTS ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53462
+http://23.137.84.107:8443/robertogarci4/017261/53462
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU │ DIRECTV SPORTS ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU │ DIRECTV SPORTS ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/23239
+http://23.137.84.107:8443/robertogarci4/017261/23239
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU │ DIRECTV SPORTS + ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="ECUADOR",ECU │ DIRECTV SPORTS + ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53490
+http://23.137.84.107:8443/robertogarci4/017261/53490
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ECU │ DIRECTV SPORTS 2 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="ECUADOR",ECU │ DIRECTV SPORTS 2 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53489
+http://23.137.84.107:8443/robertogarci4/017261/53489
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU │ CNT SPORTS / GOL TV" tvg-logo="http://descargas.podzone.net/logos/-CNT-sportsgol.png" group-title="ECUADOR",ECU │ CNT SPORTS / GOL TV
-https://23.137.84.107:8443/robertogarci4/017261/7471
+http://23.137.84.107:8443/robertogarci4/017261/7471
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU │ RTS" tvg-logo="http://descargas.podzone.net/logos/-RTS.png" group-title="ECUADOR",ECU │ RTS
-https://23.137.84.107:8443/robertogarci4/017261/7534
+http://23.137.84.107:8443/robertogarci4/017261/7534
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU │ RTS ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-RTS.png" group-title="ECUADOR",ECU │ RTS ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53457
+http://23.137.84.107:8443/robertogarci4/017261/53457
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ECU │ CANAL UNO ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="ECUADOR",ECU │ CANAL UNO ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/8083
+http://23.137.84.107:8443/robertogarci4/017261/8083
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ECU │ CANAL UNO ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="ECUADOR",ECU │ CANAL UNO ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53452
+http://23.137.84.107:8443/robertogarci4/017261/53452
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ECU │ GAMAVISIÓN ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-gamavision.png" group-title="ECUADOR",ECU │ GAMAVISIÓN ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53456
+http://23.137.84.107:8443/robertogarci4/017261/53456
 #EXTINF:-1 tvg-id="" tvg-name="ECU │ TVC ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TVC-ecuador.png" group-title="ECUADOR",ECU │ TVC ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53460
+http://23.137.84.107:8443/robertogarci4/017261/53460
 #EXTINF:-1 tvg-id="" tvg-name="ECU │ ECUADOR TV ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ecuador-tv.png" group-title="ECUADOR",ECU │ ECUADOR TV ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/53453
+http://23.137.84.107:8443/robertogarci4/017261/53453
 #EXTINF:-1 tvg-id="" tvg-name="ECU │ OROMAR TV" tvg-logo="http://descargas.podzone.net/logos/-oromar.png" group-title="ECUADOR",ECU │ OROMAR TV
-https://23.137.84.107:8443/robertogarci4/017261/1155849
+http://23.137.84.107:8443/robertogarci4/017261/1155849
 #EXTINF:-1 tvg-id="" tvg-name="ECU │ Zapping Sports Ecuador (Solo Eventos LigaPro)" tvg-logo="http://descargas.podzone.net/Logos3/041.png" group-title="ECUADOR",ECU │ Zapping Sports Ecuador (Solo Eventos LigaPro)
-https://23.137.84.107:8443/robertogarci4/017261/1217789
+http://23.137.84.107:8443/robertogarci4/017261/1217789
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG │ TELEFE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA",ARG │ TELEFE ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/51071
+http://23.137.84.107:8443/robertogarci4/017261/51071
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG │ TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA",ARG │ TELEFE 
-https://23.137.84.107:8443/robertogarci4/017261/1155824
+http://23.137.84.107:8443/robertogarci4/017261/1155824
 #EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG │ EL TRECE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA",ARG │ EL TRECE ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/51070
+http://23.137.84.107:8443/robertogarci4/017261/51070
 #EXTINF:-1 tvg-id="El13.ar" tvg-name="ARG │ EL TRECE" tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA",ARG │ EL TRECE
-https://23.137.84.107:8443/robertogarci4/017261/7431
+http://23.137.84.107:8443/robertogarci4/017261/7431
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ Gran hermano generación dorada" tvg-logo="data:image/jpeg;base64,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" group-title="ARGENTINA",ARG │ Gran hermano generación dorada
-https://23.137.84.107:8443/robertogarci4/017261/1285296
+http://23.137.84.107:8443/robertogarci4/017261/1285296
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ Generacion dorada Experiencia Multicámara" tvg-logo="data:image/jpeg;base64,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" group-title="ARGENTINA",ARG │ Generacion dorada Experiencia Multicámara
-https://23.137.84.107:8443/robertogarci4/017261/1285664
+http://23.137.84.107:8443/robertogarci4/017261/1285664
 #EXTINF:-1 tvg-id="" tvg-name="ARG │  Generación dorada Cámara 1" tvg-logo="data:image/jpeg;base64,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" group-title="ARGENTINA",ARG │  Generación dorada Cámara 1
-https://23.137.84.107:8443/robertogarci4/017261/1285661
+http://23.137.84.107:8443/robertogarci4/017261/1285661
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ Generación dorada Cámara 2" tvg-logo="data:image/jpeg;base64,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" group-title="ARGENTINA",ARG │ Generación dorada Cámara 2
-https://23.137.84.107:8443/robertogarci4/017261/1285662
+http://23.137.84.107:8443/robertogarci4/017261/1285662
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ Generación dorada Camara 3" tvg-logo="data:image/jpeg;base64,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" group-title="ARGENTINA",ARG │ Generación dorada Camara 3
-https://23.137.84.107:8443/robertogarci4/017261/1285663
+http://23.137.84.107:8443/robertogarci4/017261/1285663
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ AMERICA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-america.png" group-title="ARGENTINA",ARG │ AMERICA ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155829
+http://23.137.84.107:8443/robertogarci4/017261/1155829
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ AMERICA ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-america.png" group-title="ARGENTINA",ARG │ AMERICA ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155830
+http://23.137.84.107:8443/robertogarci4/017261/1155830
 #EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG │ EL NUEVE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA",ARG │ EL NUEVE ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/51072
+http://23.137.84.107:8443/robertogarci4/017261/51072
 #EXTINF:-1 tvg-id="Canal9.ar" tvg-name="ARG │ EL NUEVE" tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA",ARG │ EL NUEVE
-https://23.137.84.107:8443/robertogarci4/017261/1155825
+http://23.137.84.107:8443/robertogarci4/017261/1155825
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG │ ESPN PREMIUM ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="ARGENTINA",ARG │ ESPN PREMIUM ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/8330
+http://23.137.84.107:8443/robertogarci4/017261/8330
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG │ ESPN PREMIUM" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="ARGENTINA",ARG │ ESPN PREMIUM
-https://23.137.84.107:8443/robertogarci4/017261/4193
+http://23.137.84.107:8443/robertogarci4/017261/4193
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ TNT SPORTS ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="ARGENTINA",ARG │ TNT SPORTS ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155814
+http://23.137.84.107:8443/robertogarci4/017261/1155814
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="ARG │ TNT SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TNT-sports.png" group-title="ARGENTINA",ARG │ TNT SPORTS
-https://23.137.84.107:8443/robertogarci4/017261/33457
+http://23.137.84.107:8443/robertogarci4/017261/33457
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG │ TYC SPORTS ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG │ TYC SPORTS ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155819
+http://23.137.84.107:8443/robertogarci4/017261/1155819
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG │ TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG │ TYC SPORTS
-https://23.137.84.107:8443/robertogarci4/017261/43633
+http://23.137.84.107:8443/robertogarci4/017261/43633
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG │ TYC SPORTS INTERNACIONAL" tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="ARGENTINA",ARG │ TYC SPORTS INTERNACIONAL
-https://23.137.84.107:8443/robertogarci4/017261/49525
+http://23.137.84.107:8443/robertogarci4/017261/49525
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG │ ESPN 1 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="ARGENTINA",ARG │ ESPN 1 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1090736
+http://23.137.84.107:8443/robertogarci4/017261/1090736
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG │ ESPN 1" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="ARGENTINA",ARG │ ESPN 1
-https://23.137.84.107:8443/robertogarci4/017261/1090737
+http://23.137.84.107:8443/robertogarci4/017261/1090737
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ARG │ ESPN 2 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="ARGENTINA",ARG │ ESPN 2 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1089695
+http://23.137.84.107:8443/robertogarci4/017261/1089695
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ARG │ ESPN 2" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="ARGENTINA",ARG │ ESPN 2
-https://23.137.84.107:8443/robertogarci4/017261/1089694
+http://23.137.84.107:8443/robertogarci4/017261/1089694
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG │ FOX SPORTS 1 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="ARGENTINA",ARG │ FOX SPORTS 1 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1090738
+http://23.137.84.107:8443/robertogarci4/017261/1090738
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG │ FOX SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="ARGENTINA",ARG │ FOX SPORTS 1
-https://23.137.84.107:8443/robertogarci4/017261/1090739
+http://23.137.84.107:8443/robertogarci4/017261/1090739
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="ARG │ FOX SPORTS 2 ᵁᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="ARGENTINA",ARG │ FOX SPORTS 2 ᵁᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1090741
+http://23.137.84.107:8443/robertogarci4/017261/1090741
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="ARG │ FOX SPORTS 2 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="ARGENTINA",ARG │ FOX SPORTS 2 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1090740
+http://23.137.84.107:8443/robertogarci4/017261/1090740
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ FOX SPORTS 3" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="ARGENTINA",ARG │ FOX SPORTS 3
-https://23.137.84.107:8443/robertogarci4/017261/1234882
+http://23.137.84.107:8443/robertogarci4/017261/1234882
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="ARG │ TN" tvg-logo="http://descargas.podzone.net/logos/-TN-argentina.png" group-title="ARGENTINA",ARG │ TN
-https://23.137.84.107:8443/robertogarci4/017261/18766
+http://23.137.84.107:8443/robertogarci4/017261/18766
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="ARG │ C5N ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",ARG │ C5N ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155832
+http://23.137.84.107:8443/robertogarci4/017261/1155832
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="ARG │ C5N" tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA",ARG │ C5N
-https://23.137.84.107:8443/robertogarci4/017261/17901
+http://23.137.84.107:8443/robertogarci4/017261/17901
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="ARG │ A24 ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA",ARG │ A24 ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/51073
+http://23.137.84.107:8443/robertogarci4/017261/51073
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="ARG │ A24 " tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA",ARG │ A24 
-https://23.137.84.107:8443/robertogarci4/017261/1155831
+http://23.137.84.107:8443/robertogarci4/017261/1155831
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ LN+" tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA",ARG │ LN+
-https://23.137.84.107:8443/robertogarci4/017261/7976
+http://23.137.84.107:8443/robertogarci4/017261/7976
 #EXTINF:-1 tvg-id="TelpinTV.ar" tvg-name="ARG │ CRONICA" tvg-logo="http://descargas.podzone.net/logos/-cronica.png" group-title="ARGENTINA",ARG │ CRONICA
-https://23.137.84.107:8443/robertogarci4/017261/4188
+http://23.137.84.107:8443/robertogarci4/017261/4188
 #EXTINF:-1 tvg-id="Channel26.ar" tvg-name="ARG │ CANAL 26" tvg-logo="http://descargas.podzone.net/logos/-canal-26.png" group-title="ARGENTINA",ARG │ CANAL 26
-https://23.137.84.107:8443/robertogarci4/017261/1155833
+http://23.137.84.107:8443/robertogarci4/017261/1155833
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG │ TV PUBLICA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA",ARG │ TV PUBLICA ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/8183
+http://23.137.84.107:8443/robertogarci4/017261/8183
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="ARG │ TV PUBLICA " tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA",ARG │ TV PUBLICA 
-https://23.137.84.107:8443/robertogarci4/017261/1155822
+http://23.137.84.107:8443/robertogarci4/017261/1155822
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ NET TV ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-NET-tv.png" group-title="ARGENTINA",ARG │ NET TV ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155827
+http://23.137.84.107:8443/robertogarci4/017261/1155827
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ NET TV" tvg-logo="http://descargas.podzone.net/logos/-NET-tv.png" group-title="ARGENTINA",ARG │ NET TV
-https://23.137.84.107:8443/robertogarci4/017261/23229
+http://23.137.84.107:8443/robertogarci4/017261/23229
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="ARG │ DEPORTV" tvg-logo="http://descargas.podzone.net/logos/-deportv.png" group-title="ARGENTINA",ARG │ DEPORTV
-https://23.137.84.107:8443/robertogarci4/017261/29348
+http://23.137.84.107:8443/robertogarci4/017261/29348
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG │ CIUDAD MAGAZINE" tvg-logo="http://descargas.podzone.net/logos/-ciudad-magazine.png" group-title="ARGENTINA",ARG │ CIUDAD MAGAZINE
-https://23.137.84.107:8443/robertogarci4/017261/3787
+http://23.137.84.107:8443/robertogarci4/017261/3787
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ VOLVER" tvg-logo="http://descargas.podzone.net/logos/-volver.png" group-title="ARGENTINA",ARG │ VOLVER
-https://23.137.84.107:8443/robertogarci4/017261/7978
+http://23.137.84.107:8443/robertogarci4/017261/7978
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ CINE AR" tvg-logo="http://descargas.podzone.net/logos/-cine-AR.png" group-title="ARGENTINA",ARG │ CINE AR
-https://23.137.84.107:8443/robertogarci4/017261/7981
+http://23.137.84.107:8443/robertogarci4/017261/7981
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ ENCUENTRO" tvg-logo="http://descargas.podzone.net/logos/-encuentro.png" group-title="ARGENTINA",ARG │ ENCUENTRO
-https://23.137.84.107:8443/robertogarci4/017261/7974
+http://23.137.84.107:8443/robertogarci4/017261/7974
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG │ EL GARAGE TV" tvg-logo="http://descargas.podzone.net/logos/-el-garage.png" group-title="ARGENTINA",ARG │ EL GARAGE TV
-https://23.137.84.107:8443/robertogarci4/017261/7975
+http://23.137.84.107:8443/robertogarci4/017261/7975
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ ORBE 21" tvg-logo="http://descargas.podzone.net/logos/-ORBE21.png" group-title="ARGENTINA",ARG │ ORBE 21
-https://23.137.84.107:8443/robertogarci4/017261/1161240
+http://23.137.84.107:8443/robertogarci4/017261/1161240
 #EXTINF:-1 tvg-id="" tvg-name="ARG │ AIRE SANTA FE " tvg-logo="http://descargas.podzone.net/Logos3/042.png" group-title="ARGENTINA",ARG │ AIRE SANTA FE 
-https://23.137.84.107:8443/robertogarci4/017261/1170897
+http://23.137.84.107:8443/robertogarci4/017261/1170897
 #EXTINF:-1 tvg-id="" tvg-name="COL │ CARACOL ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-caracol.png" group-title="COLOMBIA",COL │ CARACOL ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155783
+http://23.137.84.107:8443/robertogarci4/017261/1155783
 #EXTINF:-1 tvg-id="" tvg-name="COL │ CARACOL ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-caracol.png" group-title="COLOMBIA",COL │ CARACOL ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155787
+http://23.137.84.107:8443/robertogarci4/017261/1155787
 #EXTINF:-1 tvg-id="" tvg-name="COL │ RCN ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="COLOMBIA",COL │ RCN ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155793
+http://23.137.84.107:8443/robertogarci4/017261/1155793
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="COL │ RCN ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="COLOMBIA",COL │ RCN ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/4002
+http://23.137.84.107:8443/robertogarci4/017261/4002
 #EXTINF:-1 tvg-id="" tvg-name="COL│ RCN ᴴᴰ " tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="COLOMBIA",COL│ RCN ᴴᴰ 
-https://23.137.84.107:8443/robertogarci4/017261/1087192
+http://23.137.84.107:8443/robertogarci4/017261/1087192
 #EXTINF:-1 tvg-id="" tvg-name="COL │ WIN + FUTBOL ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL │ WIN + FUTBOL ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/16724
+http://23.137.84.107:8443/robertogarci4/017261/16724
 #EXTINF:-1 tvg-id="" tvg-name="COL │ WIN + FUTBOL ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL │ WIN + FUTBOL ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/54738
+http://23.137.84.107:8443/robertogarci4/017261/54738
 #EXTINF:-1 tvg-id="" tvg-name="COL │ WIN SPORTS + ˢᴰ" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL │ WIN SPORTS + ˢᴰ
-https://23.137.84.107:8443/robertogarci4/017261/16723
+http://23.137.84.107:8443/robertogarci4/017261/16723
 #EXTINF:-1 tvg-id="" tvg-name="COL │ WIN SPORTS ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-win-sports.png" group-title="COLOMBIA",COL │ WIN SPORTS ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155795
+http://23.137.84.107:8443/robertogarci4/017261/1155795
 #EXTINF:-1 tvg-id="" tvg-name="COL │ RCN NOVELAS " tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="COLOMBIA",COL │ RCN NOVELAS 
-https://23.137.84.107:8443/robertogarci4/017261/1155809
+http://23.137.84.107:8443/robertogarci4/017261/1155809
 #EXTINF:-1 tvg-id="" tvg-name="COL │ ESPN COLOMBIA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="COLOMBIA",COL │ ESPN COLOMBIA ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1119288
+http://23.137.84.107:8443/robertogarci4/017261/1119288
 #EXTINF:-1 tvg-id="CanalUno.co" tvg-name="COL │ CANAL UNO ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="COLOMBIA",COL │ CANAL UNO ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1066863
+http://23.137.84.107:8443/robertogarci4/017261/1066863
 #EXTINF:-1 tvg-id="" tvg-name="COL │ NTN 24" tvg-logo="http://descargas.podzone.net/logos/-NTN-24.png" group-title="COLOMBIA",COL │ NTN 24
-https://23.137.84.107:8443/robertogarci4/017261/41815
+http://23.137.84.107:8443/robertogarci4/017261/41815
 #EXTINF:-1 tvg-id="" tvg-name="COL │ CITY TV ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-city-tv.png" group-title="COLOMBIA",COL │ CITY TV ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155813
+http://23.137.84.107:8443/robertogarci4/017261/1155813
 #EXTINF:-1 tvg-id="" tvg-name="COL │ CABLE NOTICIAS" tvg-logo="http://descargas.podzone.net/logos/-cable-noticias.png" group-title="COLOMBIA",COL │ CABLE NOTICIAS
-https://23.137.84.107:8443/robertogarci4/017261/1155805
+http://23.137.84.107:8443/robertogarci4/017261/1155805
 #EXTINF:-1 tvg-id="" tvg-name="COL │ SEÑAL COLOMBIA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-Senal-colombia.png" group-title="COLOMBIA",COL │ SEÑAL COLOMBIA ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1155811
+http://23.137.84.107:8443/robertogarci4/017261/1155811
 #EXTINF:-1 tvg-id="" tvg-name="COL │ TELEANTIOQUIA " tvg-logo="http://descargas.podzone.net/logos/-teleantioquia.png" group-title="COLOMBIA",COL │ TELEANTIOQUIA 
-https://23.137.84.107:8443/robertogarci4/017261/1155801
+http://23.137.84.107:8443/robertogarci4/017261/1155801
 #EXTINF:-1 tvg-id="" tvg-name="COL │ TELEPACIFICO" tvg-logo="http://descargas.podzone.net/logos/-telepacifico.png" group-title="COLOMBIA",COL │ TELEPACIFICO
-https://23.137.84.107:8443/robertogarci4/017261/47693
+http://23.137.84.107:8443/robertogarci4/017261/47693
 #EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="COL │ TELECARIBE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-telecaribe.png" group-title="COLOMBIA",COL │ TELECARIBE ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/43625
+http://23.137.84.107:8443/robertogarci4/017261/43625
 #EXTINF:-1 tvg-id="Telecafe.co" tvg-name="COL │ TELECAFE" tvg-logo="http://descargas.podzone.net/logos/-telecafe.png" group-title="COLOMBIA",COL │ TELECAFE
-https://23.137.84.107:8443/robertogarci4/017261/1155810
+http://23.137.84.107:8443/robertogarci4/017261/1155810
 #EXTINF:-1 tvg-id="" tvg-name="COL │ CARACOL INTERNACIONAL  ᴴᴰ" tvg-logo="http://descargas.podzone.net/Logos3/049.png" group-title="COLOMBIA",COL │ CARACOL INTERNACIONAL  ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1208182
+http://23.137.84.107:8443/robertogarci4/017261/1208182
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ TV GLOBO ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA │ TV GLOBO ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/7773
+http://23.137.84.107:8443/robertogarci4/017261/7773
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ GLOBO ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA │ GLOBO ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/7772
+http://23.137.84.107:8443/robertogarci4/017261/7772
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ GLOBO RBS POA ᶠᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA │ GLOBO RBS POA ᶠᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/1168227
+http://23.137.84.107:8443/robertogarci4/017261/1168227
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ GLOBO RIO ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA │ GLOBO RIO ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/43624
+http://23.137.84.107:8443/robertogarci4/017261/43624
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ GLOBO BRASILIA ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-globo.png" group-title="BRASIL",BRA │ GLOBO BRASILIA ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/43623
+http://23.137.84.107:8443/robertogarci4/017261/43623
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ Globo TV Gazeta Sul ES  ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-woohoo.png" group-title="BRASIL",BRA │ Globo TV Gazeta Sul ES  ᴴᴰ
-https://23.137.84.107:8443/robertogarci4/017261/8327
+http://23.137.84.107:8443/robertogarci4/017261/8327
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ SBT" tvg-logo="http://descargas.podzone.net/logos/-SBT.png" group-title="BRASIL",BRA │ SBT
-https://23.137.84.107:8443/robertogarci4/017261/7768
+http://23.137.84.107:8443/robertogarci4/017261/7768
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ RECORD" tvg-logo="http://descargas.podzone.net/logos/-record-PB.png" group-title="BRASIL",BRA │ RECORD
-https://23.137.84.107:8443/robertogarci4/017261/44841
+http://23.137.84.107:8443/robertogarci4/017261/44841
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ RECORD PB" tvg-logo="http://descargas.podzone.net/logos/-record-PB.png" group-title="BRASIL",BRA │ RECORD PB
-https://23.137.84.107:8443/robertogarci4/017261/7770
+http://23.137.84.107:8443/robertogarci4/017261/7770
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM 1" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM 1
-https://23.137.84.107:8443/robertogarci4/017261/29339
+http://23.137.84.107:8443/robertogarci4/017261/29339
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM CLUBES" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM CLUBES
-https://23.137.84.107:8443/robertogarci4/017261/29199
+http://23.137.84.107:8443/robertogarci4/017261/29199
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM CLUBES EXTRA" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM CLUBES EXTRA
-https://23.137.84.107:8443/robertogarci4/017261/29338
+http://23.137.84.107:8443/robertogarci4/017261/29338
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM 2" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM 2
-https://23.137.84.107:8443/robertogarci4/017261/29332
+http://23.137.84.107:8443/robertogarci4/017261/29332
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM 3" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM 3
-https://23.137.84.107:8443/robertogarci4/017261/29333
+http://23.137.84.107:8443/robertogarci4/017261/29333
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM 4" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM 4
-https://23.137.84.107:8443/robertogarci4/017261/29334
+http://23.137.84.107:8443/robertogarci4/017261/29334
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM 5" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM 5
-https://23.137.84.107:8443/robertogarci4/017261/29335
+http://23.137.84.107:8443/robertogarci4/017261/29335
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM 6" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM 6
-https://23.137.84.107:8443/robertogarci4/017261/29336
+http://23.137.84.107:8443/robertogarci4/017261/29336
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ PREM 7" tvg-logo="http://descargas.podzone.net/logos/-prem-clubes.png" group-title="BRASIL",BRA │ PREM 7
-https://23.137.84.107:8443/robertogarci4/017261/29337
+http://23.137.84.107:8443/robertogarci4/017261/29337
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ SPORTV" tvg-logo="http://descargas.podzone.net/logos/-sportv.png" group-title="BRASIL",BRA │ SPORTV
-https://23.137.84.107:8443/robertogarci4/017261/7791
+http://23.137.84.107:8443/robertogarci4/017261/7791
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ SPORTV 2" tvg-logo="http://descargas.podzone.net/logos/-sportv.png" group-title="BRASIL",BRA │ SPORTV 2
-https://23.137.84.107:8443/robertogarci4/017261/7792
+http://23.137.84.107:8443/robertogarci4/017261/7792
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ SPORTV 3" tvg-logo="http://descargas.podzone.net/logos/-sportv.png" group-title="BRASIL",BRA │ SPORTV 3
-https://23.137.84.107:8443/robertogarci4/017261/53171
+http://23.137.84.107:8443/robertogarci4/017261/53171
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ ESPN" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="BRASIL",BRA │ ESPN
-https://23.137.84.107:8443/robertogarci4/017261/7784
+http://23.137.84.107:8443/robertogarci4/017261/7784
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ ESPN 2 " tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="BRASIL",BRA │ ESPN 2 
-https://23.137.84.107:8443/robertogarci4/017261/1159097
+http://23.137.84.107:8443/robertogarci4/017261/1159097
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ ESPN 3 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="BRASIL",BRA │ ESPN 3 BRASIL
-https://23.137.84.107:8443/robertogarci4/017261/1245773
+http://23.137.84.107:8443/robertogarci4/017261/1245773
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ ESPN 4" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="BRASIL",BRA │ ESPN 4
-https://23.137.84.107:8443/robertogarci4/017261/1159099
+http://23.137.84.107:8443/robertogarci4/017261/1159099
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ FOX SPORTS BR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="BRASIL",BRA │ FOX SPORTS BR
-https://23.137.84.107:8443/robertogarci4/017261/7785
+http://23.137.84.107:8443/robertogarci4/017261/7785
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ FOX SPORTS 2 BR" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="BRASIL",BRA │ FOX SPORTS 2 BR
-https://23.137.84.107:8443/robertogarci4/017261/7786
+http://23.137.84.107:8443/robertogarci4/017261/7786
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ CONMEBOL TV" tvg-logo="http://descargas.podzone.net/logos/-conmebol.png" group-title="BRASIL",BRA │ CONMEBOL TV
-https://23.137.84.107:8443/robertogarci4/017261/18549
+http://23.137.84.107:8443/robertogarci4/017261/18549
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ ELEVEN SPORTS 1" tvg-logo="http://descargas.podzone.net/logos/-eleven-sports-1.png" group-title="BRASIL",BRA │ ELEVEN SPORTS 1
 https://23.137.84.107:8443/robertogarci4/017261/18542
 #EXTINF:-1 tvg-id="" tvg-name="BRA │ BAND SPORT" tvg-logo="http://descargas.podzone.net/logos/-band-sports.png" group-title="BRASIL",BRA │ BAND SPORT
