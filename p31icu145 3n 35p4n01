@@ -1,4 +1,15 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Carrera contra el tiempo (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Just play dead (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/s2g8wLNs6G5XYa5ivfUNuWbQTKQ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Canelones (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fSPbxVI1q5sCS4fegzoFByzE749.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Punto de inflexión: Generación 11S (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yng4wYjB9cjX7np9c9YqfJjX52o.jpg" group-title="VOD - ESTRENOS Y RECIENTES",LEGO Star Wars: The Mandalorian (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312005.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Zeta (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Zeta (2026)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1291331.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Held (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8NqVX14i0d9gmKsZFcTRa8xuac.jpg" group-title="VOD - TERROR",Held (2020)
@@ -969,7 +980,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093214.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093215.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los siete magníficos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6fvtfBKs83iVT9EZDcRPWLXCRU.jpg" group-title="VOD - CRIMEN",Los siete magníficos (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093216.mkv
-#EXTINF:-1 tvg-id="" tvg-name="sospechosos habituales" tvg-logo="https://cdn.sincroguia.tv/uploads/programs/s/o/s/sospechosos-habituales-poster-948_SPA-88_V.jpg" group-title="VOD - CRIMEN",sospechosos habituales
+#EXTINF:-1 tvg-id="" tvg-name="sospechosos habituales" tvg-logo="https://image.tmdb.org/t/p/original/zI2ESVtVBJTo68aWuwCku78q4dZ.jpg" group-title="VOD - CRIMEN",Sospechosos habituales
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093217.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El caso Slevin - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDxaXrWtJIZqzU0rLR8mS3kEWsC.jpg" group-title="VOD - CRIMEN",El caso Slevin - 2006
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093218.mkv
@@ -997,7 +1008,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093228.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093229.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Escuadrón rojo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiORLnBsGcVcqIibkGBE213zAyh.jpg" group-title="VOD - CRIMEN",Escuadrón rojo (2012)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093230.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nature: River of No Return (2012)" tvg-logo="https://th.bing.com/th/id/OIP.KRdcEfvs_54zmq43HiByDgAAAA?rs=1&pid=ImgDetMain" group-title="VOD - CRIMEN",Nature: River of No Return (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Nature: River of No Return (2012)" tvg-logo="https://image.tmdb.org/t/p/original/tOHDOt73AxgO50Tv52L1jCORW8g.jpg" group-title="VOD - CRIMEN",Nature: River of No Return (2012)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093231.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Camino a la perdición (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48OfCE2uM2pWWGXquaDPqOt3QT5.jpg" group-title="VOD - CRIMEN",Camino a la perdición (2002)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093232.mkv
@@ -1169,9 +1180,9 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093317.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093318.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Boogie, el Aceitoso (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rom0NoTExJcBWSf1TqzUV5sgYdb.jpg" group-title="VOD - ANIMACION",Boogie, el Aceitoso (2009)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears y el gran secreto (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rom0NoTExJcBWSf1TqzUV5sgYdb.jpg" group-title="VOD - ANIMACION",Boonie Bears y el gran secreto (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears y el gran secreto (2016)" tvg-logo="https://image.tmdb.org/t/p/original/l1Dbx1PkO3SPgsYyf0C8QqoL6X1.jpg" group-title="VOD - ANIMACION",Boonie Bears y el gran secreto (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los 1001 cuentos de Bugs Bunny - 1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rom0NoTExJcBWSf1TqzUV5sgYdb.jpg" group-title="VOD - ANIMACION",Los 1001 cuentos de Bugs Bunny - 1982
+#EXTINF:-1 tvg-id="" tvg-name="Los 1001 cuentos de Bugs Bunny - 1982" tvg-logo="https://image.tmdb.org/t/p/original/cYknJKuyRPdnnS1tw45cxxhcGfY.jpg" group-title="VOD - ANIMACION",Los 1001 cuentos de Bugs Bunny - 1982
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093321.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sakura, cazadora de cartas: La carta sellada - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fENtxORZW3b232oqfhQfYRtYGCs.jpg" group-title="VOD - ANIMACION",Sakura, cazadora de cartas: La carta sellada - 2000
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093322.mkv
@@ -1293,7 +1304,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093383.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093384.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Final Fantasy VII: Advent Children (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTOQBC1yMvO7cc6dnqnHKq9IUnN.jpg" group-title="VOD - ANIMACION",Final Fantasy VII: Advent Children (2005)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093385.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Final Fantasy XV Live at Abbey Road Studios Concert (2016)" tvg-logo="https://www.pcgameres.com/upload/portal/20210223/2a559100f82c70fc7e6404999e27c6c9.png" group-title="VOD - ANIMACION",Final Fantasy XV Live at Abbey Road Studios Concert (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Final Fantasy XV Live at Abbey Road Studios Concert (2016)" tvg-logo="https://image.tmdb.org/t/p/original/9MQls35G7vd13myqkwxUBwto4QH.jpg" group-title="VOD - ANIMACION",Final Fantasy XV Live at Abbey Road Studios Concert (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093386.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Buscando a Nemo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" group-title="VOD - ANIMACION",Buscando a Nemo (2003)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093387.mkv
@@ -1363,7 +1374,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093418.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093419.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El invasor Zim y el portal mágico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N4TQZ8Cgmr2U7UlJiUFmtEx8OY.jpg" group-title="VOD - ANIMACION",El invasor Zim y el portal mágico (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093420.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man & Hulk - Héroes Unidos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3N4TQZ8Cgmr2U7UlJiUFmtEx8OY.jpg" group-title="VOD - ANIMACION",Iron Man & Hulk - Héroes Unidos (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man & Hulk - Héroes Unidos (2013)" tvg-logo="https://image.tmdb.org/t/p/original/xCBBQMPxXsqIlZUAbpeSo1SVj6R.jpg" group-title="VOD - ANIMACION",Iron Man & Hulk - Héroes Unidos (2013)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093422.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La mecánica del corazón (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FxgKRI2eIfgxGQfSej211wjl4O.jpg" group-title="VOD - ANIMACION",La mecánica del corazón (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093423.mkv
@@ -1445,7 +1456,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093462.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093463.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lava (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEIIFRKlqtdsWyGdSmNoH1apZHt.jpg" group-title="VOD - ANIMACION",Lava (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093464.mkv
-#EXTINF:-1 tvg-id="" tvg-name="lego dc batman family matters 2019" tvg-logo="https://th.bing.com/th/id/OIP.ibRmbyzrpo1bt3GVIDNOGAAAAA?rs=1&pid=ImgDetMain" group-title="VOD - ANIMACION",lego dc batman family matters 2019
+#EXTINF:-1 tvg-id="" tvg-name="lego dc batman family matters 2019" tvg-logo="https://image.tmdb.org/t/p/original/rA5bdwbzEAKfvjHRzza6Q3r0otq.jpg" group-title="VOD - ANIMACION",lego dc batman family matters 2019
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093465.mkv
 #EXTINF:-1 tvg-id="" tvg-name="lego dc comics super heroes aquaman rage of atlantis" tvg-logo="https://th.bing.com/th/id/OIP.OGkg06wXIRbSehJhXdFXwwHaJY?rs=1&pid=ImgDetMain" group-title="VOD - ANIMACION",lego dc comics super heroes aquaman rage of atlantis
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093466.mkv
@@ -1577,7 +1588,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093533.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093534.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pokémon Ranger y el Templo del Mar (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE0zfocmuvtaFERg2q8IOypdTh5.jpg" group-title="VOD - ANIMACION",Pokémon Ranger y el Templo del Mar (2006)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093535.mkv
-#EXTINF:-1 tvg-id="" tvg-name="pokemon mewtwo strikes back evolution 2019" tvg-logo="https://th.bing.com/th/id/R.5a3ee18c60a8e8cfc55f4dac166bca0a?rik=WT9IJrzBGEs7ZQ&pid=ImgRaw&r=0" group-title="VOD - ANIMACION",pokemon mewtwo strikes back evolution 2019
+#EXTINF:-1 tvg-id="" tvg-name="pokemon mewtwo strikes back evolution 2019" tvg-logo="https://image.tmdb.org/t/p/original/xlO50h3EX1w99KGztTzsjQBwPfs.jpg" group-title="VOD - ANIMACION",pokemon mewtwo strikes back evolution 2019
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093536.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pokemon: la película (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeskMWlroIsPR9AllXLW2H6Gev0.jpg" group-title="VOD - ANIMACION",Pokemon: la película (1998)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093537.mkv
@@ -1625,7 +1636,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093560.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093561.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los caballeros del Zodiaco: Los guerreros de la última Guerra Santa (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDf8JcPAK3sKXi5GHspBLWiLmd0.jpg" group-title="VOD - ANIMACION",Los caballeros del Zodiaco: Los guerreros de la última Guerra Santa (1989)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="sala samobojcow hejter 2020" tvg-logo="https://www.taniaksiazka.co.uk/96632-large_default/sala-samobojcow-hejter-dvd-jan-komasa.jpg" group-title="VOD - ANIMACION",sala samobojcow hejter 2020
+#EXTINF:-1 tvg-id="" tvg-name="sala samobojcow hejter 2020" tvg-logo="https://image.tmdb.org/t/p/original/fX3XYJZLumDtTfncHY233Cwiorj.jpg" group-title="VOD - ANIMACION",sala samobojcow hejter 2020
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Samurai Cop (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOlz0kpxlLY5xixyDYpcYUi2SJy.jpg" group-title="VOD - ANIMACION",Samurai Cop (1991)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093564.mkv
@@ -1653,7 +1664,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093576.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093577.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Espías con disfraz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2xcicPNXzNex47EYOfw45Dl1o0.jpg" group-title="VOD - ANIMACION",Espías con disfraz (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093578.mkv
-#EXTINF:-1 tvg-id="" tvg-name="spycies 2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkxZDIzOTgtMmM3ZC00NWRjLWJlNWYtNGVlMjZkODRiYTgwXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg" group-title="VOD - ANIMACION",spycies 2019
+#EXTINF:-1 tvg-id="" tvg-name="spycies 2019" tvg-logo="https://image.tmdb.org/t/p/original/tzvDjwsviMp6mdkNnnxhO3oIDUv.jpg" group-title="VOD - ANIMACION",spycies 2019
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093579.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Steamboy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkxyymylJejDXBgYZ8K0rYWznEf.jpg" group-title="VOD - ANIMACION",Steamboy (2004)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093580.mkv
@@ -1769,7 +1780,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093637.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093638.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja: Un héroe fuera del agua (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5aphafm6OEcAq4jwOs5Ml9F384.jpg" group-title="VOD - ANIMACION",Bob Esponja: Un héroe fuera del agua (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093639.mkv
-#EXTINF:-1 tvg-id="" tvg-name="the super saiyan Is son goku 1991" tvg-logo="https://pelisnext.com/wp-content/uploads/2018/01/1k5eOnBvzuOe1p9sjcXx6vQMYMt.jpg" group-title="VOD - ANIMACION",the super saiyan Is son goku 1991
+#EXTINF:-1 tvg-id="" tvg-name="the super saiyan Is son goku 1991" tvg-logo="https://image.tmdb.org/t/p/original/iCySGAWNMk0BETBGAK3xNOKTkX5.jpg" group-title="VOD - ANIMACION",the super saiyan Is son goku 1991
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093640.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La princesa Cisne: una boda real (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJaNBADFKRiMys8DiGemrLGYd9U.jpg" group-title="VOD - ANIMACION",La princesa Cisne: una boda real (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093641.mkv
@@ -1817,7 +1828,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093663.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093664.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Virus Tropical (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnKNQN77eN9qkk44Dqz7BLuhPDI.jpg" group-title="VOD - ANIMACION",Virus Tropical (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093665.mkv
-#EXTINF:-1 tvg-id="" tvg-name="volki i ovtsy khod sviney 2019" tvg-logo="https://th.bing.com/th/id/OIP.L8aYEI2rt34XJk-sPOH7MgHaLH?rs=1&pid=ImgDetMain" group-title="VOD - ANIMACION",volki i ovtsy khod sviney 2019
+#EXTINF:-1 tvg-id="" tvg-name="volki i ovtsy khod sviney 2019" tvg-logo="https://image.tmdb.org/t/p/original/sVizGmUr06F8LrVXt6nEYrmwmos.jpg" group-title="VOD - ANIMACION",volki i ovtsy khod sviney 2019
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093666.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Wallace y Gromit: La maldición de las verduras (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7p4KL3yuXRvQgr9w9wpjqJpMNu5.jpg" group-title="VOD - ANIMACION",Wallace y Gromit: La maldición de las verduras (2005)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093667.mkv
@@ -1829,7 +1840,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093669.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093670.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Wonder Woman: Linaje (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1SBqj0fn1j72ST5i1jauWo3swT.jpg" group-title="VOD - ANIMACION",Wonder Woman: Linaje (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="xiong chumo 2014" tvg-logo="https://th.bing.com/th/id/R.ec0d4ff3a6cc26e04e40fd8009a2f0ae?rik=IK2jIpT9DvCrlw&riu=http%3a%2f%2fgnula.nu%2fwp-content%2fuploads%2f2016%2f06%2fXiong_chumo_poster_ingles.jpg&ehk=VFYQ9EqCKrV773%2fdZ5bDtOxP1r5Lb8cv%2ffkVrQ5dorA%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - ANIMACION",xiong chumo 2014
+#EXTINF:-1 tvg-id="" tvg-name="xiong chumo 2014" tvg-logo="https://image.tmdb.org/t/p/original/cbGkto2Q3j9iTq2iLwmvXpRVgTv.jpg" group-title="VOD - ANIMACION",xiong chumo 2014
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093672.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Leyenda del Rey Mono: El Regreso del Héroe (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apcVnxYbk8Z6bIBbQQG8Sf9veiR.jpg" group-title="VOD - ANIMACION",La Leyenda del Rey Mono: El Regreso del Héroe (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093673.mkv
@@ -1869,7 +1880,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093898.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093899.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TjvIO8ZJPKrMKXEjOVGNSzuO6q.jpg" group-title="VOD - UNIVERSO MARVEL",Pantera Negra (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blood and Bone China (2012)" tvg-logo="https://th.bing.com/th/id/OIP.zE3m6wVoFDc4_d6wHNtQbAHaK-?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",Blood and Bone China (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Blood and Bone China (2012)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxMDUwNDYxM15BMl5BanBnXkFtZTcwNTI0NDI3Nw@@._V1_.jpg" group-title="VOD - AVENTURA",Blood and Bone China (2012)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093901.mkv
 #EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: Dos héroes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwLuZhDcLbtC8VKW8Z2xnNKTsAJ.jpg" group-title="VOD - AVENTURA",My Hero Academia: Dos héroes (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093902.mkv
@@ -1943,7 +1954,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1093938.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093939.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Get Street Smart: A Kid's Guide to Stranger Dangers (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySXHwfVPgDZG2au9a8xqNWwdIpn.jpg" group-title="VOD - AVENTURA",Get Street Smart: A Kid's Guide to Stranger Dangers (1995)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093940.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Girl Gone Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ5OTI2ZGItNWJmYi00MTlkLTkwODQtMzk2YTk4YjFmM2FiXkEyXkFqcGdeQXVyMTE0NTc5OTM4._V1_FMjpg_UX1000_.jpg" group-title="VOD - AVENTURA",Girl Gone Bad
+#EXTINF:-1 tvg-id="" tvg-name="Girl Gone Bad" tvg-logo="https://image.tmdb.org/t/p/original/2GV86puP0Ny1SnhyLd9vnU8DSps.jpg" group-title="VOD - AVENTURA",Girl Gone Bad
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093941.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Muérete bonita (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtV18jcYTaHw32WnVCT6IDIglA3.jpg" group-title="VOD - AVENTURA",Muérete bonita (1999)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1093942.mkv
@@ -2359,7 +2370,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094174.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094175.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sky Captain y el mundo del mañana (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LY0ePluR8NUf3maGG2FS2CWHm8.jpg" group-title="VOD - AVENTURA",Sky Captain y el mundo del mañana (2004)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Skyline: la invasión (2010)" tvg-logo="https://th.bing.com/th/id/OIP.pdYB-pW84fmocmYf0145kgAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",Skyline: la invasión (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Skyline: la invasión (2010)" tvg-logo="https://image.tmdb.org/t/p/original/8QpvbnNrtzijlwiM0bFVeilc6lc.jpg" group-title="VOD - AVENTURA",Skyline: la invasión (2010)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094177.mkv
 #EXTINF:-1 tvg-id="" tvg-name="skIn trade" tvg-logo="https://flxt.tmsimg.com/assets/p11496649_p_v8_ay.jpg" group-title="VOD - AVENTURA",skIn trade
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094178.mkv
@@ -2455,7 +2466,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094224.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094225.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En tierra hostil (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMzapRL8iTqF6oDUY04a2tVU5S4.jpg" group-title="VOD - AVENTURA",En tierra hostil (2008)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un hombre diferente (2003)" tvg-logo="https://img.repelis.id/cover/un-hombre-diferente.jpg" group-title="VOD - AVENTURA",Un hombre diferente (2003)
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre diferente (2003)" tvg-logo="https://image.tmdb.org/t/p/original/yh3pWqUBaWTtVHbJEarGcZC2hy9.jpg" group-title="VOD - AVENTURA",Un hombre diferente (2003)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094353.mkv
 #EXTINF:-1 tvg-id="" tvg-name="zombieland open matte (2019)" tvg-logo="https://image.tmdb.org/t/p/original/lviGAxNdWHhcfUirCDgTaktCnj3.jpg" group-title="VOD - AVENTURA",zombieland open matte (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094401.mkv
@@ -2505,7 +2516,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094373.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094372.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Voces de la Calle (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mihZMsEgbexzFtEpG4dm9F2Hkmb.jpg" group-title="VOD - AVENTURA",Voces de la Calle (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094371.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viktor (2015)" tvg-logo="https://th.bing.com/th/id/R.0c2b0a4458ab324419bd636f2d527ede?rik=Oqcrvl6Tv30P%2fw&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",Viktor (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Viktor (2015)" tvg-logo="https://image.tmdb.org/t/p/original/kO2GLFSzhFi3FEvfKz5XXwMBedc.jpg" group-title="VOD - AVENTURA",Viktor (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094370.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Viking Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkUxVISgn7eSX19JWoe5d35HW7u.jpg" group-title="VOD - AVENTURA",Viking Blood (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094369.mkv
@@ -2579,7 +2590,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094280.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094279.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monuments Men (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6JxDxd7a3vFUNmUBTS5Laf5PsL.jpg" group-title="VOD - AVENTURA",Monuments Men (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Seeking the Monkey King (2011)" tvg-logo="https://th.bing.com/th/id/OIP.peZBNKDH4lbwhKcnJAG4kQHaKV?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",Seeking the Monkey King (2011)
+#EXTINF:-1 tvg-id="" tvg-name="Seeking the Monkey King (2011)" tvg-logo="https://image.tmdb.org/t/p/original/3tKL8CAj9zFCdhd6RA7u2T1HUTl.jpg" group-title="VOD - AVENTURA",Seeking the Monkey King (2011)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094277.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El corredor del laberinto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egKi4jZKKVZzR8NaaNjEwMpEgHs.jpg" group-title="VOD - AVENTURA",El corredor del laberinto (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094276.mkv
@@ -2591,7 +2602,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094273.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094272.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Man from Nowhere (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3GsLQQw6XNKEOb4JzXKRj3J41V.jpg" group-title="VOD - AVENTURA",The Man from Nowhere (2021)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094271.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Losers (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sACpCXxQY06j6E8WkvDuHwkbEVC.jpg" group-title="VOD - AVENTURA",The Losers (1963)
+#EXTINF:-1 tvg-id="" tvg-name="The Losers (2010)" tvg-logo="https://image.tmdb.org/t/p/original/pE4XSgQlj3DFUmUxHx97KqV02PX.jpg" group-title="VOD - AVENTURA",The Losers (2010)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094270.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Legion (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ssoBXQOxNhrsGJoM6Tcvm57V79.jpg" group-title="VOD - AVENTURA",The Legion (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094269.mkv
@@ -2613,7 +2624,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094262.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094260.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El gángster, el policía y el diablo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9rByfNAkGJuXOSQLQ6UpUfGTOQ.jpg" group-title="VOD - AVENTURA",El gángster, el policía y el diablo (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094259.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kingdom of Blood (2014)" tvg-logo="https://th.bing.com/th/id/R.d45f991d4711aecf9c12f0e4aa642a86?rik=UxH2scWT7qThJw&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",Kingdom of Blood (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom of Blood (2014)" tvg-logo="https://image.tmdb.org/t/p/original/vv3dYYdVhSRUOsRlqFpJaOf0NVZ.jpg" group-title="VOD - AVENTURA",Kingdom of Blood (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094258.mkv
 #EXTINF:-1 tvg-id="" tvg-name="the four 2 (2013)" tvg-logo="https://www.themoviedb.org/t/p/original/cJnmtA2udzJVMv6eywMWaQEQdPW.jpg" group-title="VOD - AVENTURA",the four 2 (2013)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094257.mkv
@@ -2765,7 +2776,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094406.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094407.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los olvidados (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43P6TrUiRUdd8aC4Z6KjaBz0fnA.jpg" group-title="VOD - ACCION",Los olvidados (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094408.mkv
-#EXTINF:-1 tvg-id="" tvg-name="6 Days (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e01r20rKS4J8bZCWqxhYrmNSGKE.jpg" group-title="VOD - ACCION",6 Days (2008)
+#EXTINF:-1 tvg-id="" tvg-name="6 Days (2008)" tvg-logo="https://image.tmdb.org/t/p/original/yRbC0uRj1RDmF0JLon83il2dkR0.jpg" group-title="VOD - ACCION",6 Days (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094409.mkv
 #EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" group-title="VOD - ACCION",6 en la sombra (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094410.mkv
@@ -2787,7 +2798,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094420.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094422.mkv
 #EXTINF:-1 tvg-id="" tvg-name="30 minutos o menos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOHbTyE3wDKu2ExhsfhGZQOIVUm.jpg" group-title="VOD - ACCION",30 minutos o menos (2011)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094423.mkv
-#EXTINF:-1 tvg-id="" tvg-name="47 Ronin (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p63IJpNPIyj7CMTugkmaEBuMv6.jpg" group-title="VOD - ACCION",47 Ronin (1962)
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronin (1962)" tvg-logo="https://image.tmdb.org/t/p/original/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="VOD - ACCION",47 Ronin (2013)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094424.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Límite: 48 horas (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smU9fN3AJzB4KJijlu0F46dLqOQ.jpg" group-title="VOD - ACCION",Límite: 48 horas (1982)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094425.mkv
@@ -2801,7 +2812,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094428.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094430.mkv
 #EXTINF:-1 tvg-id="" tvg-name="3000 miles to graceland (2001)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1YTZlYTItZDQ4Mi00NTM4LTljMGQtYzJiNjdjZGFkNGU4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="VOD - ACCION",3000 miles to graceland (2001)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094431.mkv
-#EXTINF:-1 tvg-id="" tvg-name="abgeschnitten 2018" tvg-logo="https://gfx.videobuster.de/archive/v/cQr-3I47acL0NQjqersmvBAcz0lMkawryUyRjA1JTJGaW1hmSUyRmpwZWclMkbtymLdMGP4OWPKOWRkyrwyZDhkYdjpNC5qcGcmcj137zg/abgeschnitten.jpg" group-title="VOD - ACCION",abgeschnitten 2018
+#EXTINF:-1 tvg-id="" tvg-name="abgeschnitten 2018" tvg-logo="https://image.tmdb.org/t/p/original/927kgdzuNNHX6wubSbqi50kZse0.jpg" group-title="VOD - ACCION",abgeschnitten 2018
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094432.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Accident man (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYWAwmbx3lG3ssoWYl69GOtsYDU.jpg" group-title="VOD - ACCION",Accident man (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094433.mkv
@@ -2847,7 +2858,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094453.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094454.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Objetivo: Washington D.C. (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg" group-title="VOD - ACCION",Objetivo: Washington D.C. (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094455.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Animal World (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5FGXm5fyRLcTcfu80r4RI8JpnT.jpg" group-title="VOD - ACCION",The Animal World (1956)
+#EXTINF:-1 tvg-id="" tvg-name="The Animal World (1956)" tvg-logo="https://image.tmdb.org/t/p/original/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg" group-title="VOD - ACCION",The Animal World (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094456.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Anna (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg" group-title="VOD - ACCION",Anna (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094457.mkv
@@ -2889,7 +2900,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094476.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094477.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vengadores: Infinity War (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" group-title="VOD - ACCION",Vengadores: Infinity War (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094478.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Advengers open matte" tvg-logo="https://miro.medium.com/v2/resize:fit:1358/1*KVCs_C43w4HSucTBPXmYSQ.png" group-title="VOD - ACCION",Advengers open matte
+#EXTINF:-1 tvg-id="" tvg-name="Advengers open matte" tvg-logo="https://image.tmdb.org/t/p/original/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="VOD - ACCION",Avengers
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094479.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A View to a Kill: Featurette" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JpR8QL3SgyK9Y4jYbJZ0DWJ340.jpg" group-title="VOD - ACCION",A View to a Kill: Featurette
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094480.mkv
@@ -2943,7 +2954,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094507.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094508.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman vs. las Tortugas Ninja (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgBBB3Auky610UPhWdb0hBnwQzM.jpg" group-title="VOD - ACCION",Batman vs. las Tortugas Ninja (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094510.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Battlefield Earth: Evolution & Creation (2000)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFhOGJiZDYtMTVjYi00ZjBiLWE0NGQtMjdhMTIyMDRhYWNhXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg" group-title="VOD - ACCION",Battlefield Earth: Evolution & Creation (2000)
+#EXTINF:-1 tvg-id="" tvg-name="Battlefield Earth: Evolution & Creation (2000)" tvg-logo="https://image.tmdb.org/t/p/original/wXCRuBHdJ5aTFQdsuGJFXNdo79T.jpg" group-title="VOD - ACCION",Battlefield Earth: Evolution & Creation (2000)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094512.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Battleship (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcl4O9QFgCExpJ0y5jBl8LKbdBW.jpg" group-title="VOD - ACCION",Battleship (2012)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094513.mkv
@@ -2957,7 +2968,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094516.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094517.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ciudad sin ley (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5MIbqxuQfQRtzGxg5UUTAxHfsM.jpg" group-title="VOD - ACCION",Ciudad sin ley (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094518.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Best Friends (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVdHPyF548pjl7EdMYE00K7ts3T.jpg" group-title="VOD - ACCION",Best Friends (1975)
+#EXTINF:-1 tvg-id="" tvg-name="Best Friends (1975)" tvg-logo="https://image.tmdb.org/t/p/original/k0sKiTc8awvbWyZES7RInThL4Kw.jpg" group-title="VOD - ACCION",Best Friends 
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094519.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Big Game (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPytx8xclrZckzHVUtuFHO8iSOA.jpg" group-title="VOD - ACCION",Big Game (2008)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094520.mkv
@@ -2969,7 +2980,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094522.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094523.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El último rey (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGSrcBefZyl9g6LlzuwtW73mH7u.jpg" group-title="VOD - ACCION",El último rey (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094524.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkConpJqAQ15Z7hbfNgUoowEnTB.jpg" group-title="VOD - ACCION",Black and Blue (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/original/m2Te3fGkYo4NcifsxEJBSTTklBc.jpg" group-title="VOD - ACCION",Black and Blue (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094525.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Blackhats (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1NDUyMzk5NV5BMl5BanBnXkFtZTgwOTk1NzUxMzE@._V1_.jpg" group-title="VOD - ACCION",Blackhats (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094526.mkv
@@ -2995,7 +3006,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094537.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094538.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Sokh7DazDAxGOpt0ln9soTTET.jpg" group-title="VOD - ACCION",Bloodshot (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094539.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Blue Streak (1971)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNmMDZhODUtYWUyYy00YjNmLTllNTYtNTI3ZjAwNzZlNmM0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX1000_.jpg" group-title="VOD - ACCION",Blue Streak (1971)
+#EXTINF:-1 tvg-id="" tvg-name="Blue Streak (1971)" tvg-logo="https://image.tmdb.org/t/p/original/jek2osBtFhzU6Hjj7yp1egOtbqO.jpg" group-title="VOD - ACCION",Blue Streak (1999)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094541.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Disparo letal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xmolySs5h0qm0oxlbvRGDOVGNe.jpg" group-title="VOD - ACCION",Disparo letal (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094542.mkv
@@ -3015,13 +3026,13 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094549.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094550.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bronx (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg" group-title="VOD - ACCION",Bronx (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094551.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bulletproof (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWF0T4mZCC848ZbI3MfyH2pwCJs.jpg" group-title="VOD - ACCION",Bulletproof (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof (2020)" tvg-logo="https://image.tmdb.org/t/p/original/uGILkFnRrpdiNtDaHeekGZSn5o5.jpg" group-title="VOD - ACCION",Bulletproof (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094552.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El monje (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1igPGF1k45Z1YlKZ0Zx3E4XvG9G.jpg" group-title="VOD - ACCION",El monje (2003)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Bullet in the Head (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmwYv8vIGlQQo5sZCWuTo8bhFmy.jpg" group-title="VOD - ACCION",A Bullet in the Head (1990)
+#EXTINF:-1 tvg-id="" tvg-name="A Bullet in the Head (1990)" tvg-logo="https://image.tmdb.org/t/p/original/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg" group-title="VOD - ACCION",Bullet in the Head (2012)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094554.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Burn Out (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Syk3aavoOpFjZhH5MamYnJruIA.jpg" group-title="VOD - ACCION",Burn Out (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Burn Out (2017)" tvg-logo="https://image.tmdb.org/t/p/original/AirnkvaqUCrWBHDSrnaHlrRpswG.jpg" group-title="VOD - ACCION",Burn Out (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094555.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bushwick (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMGcxUu3hiOyVlk0K9gnAIfVCG1.jpg" group-title="VOD - ACCION",Bushwick (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094556.mkv
@@ -3073,7 +3084,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094582.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094583.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Justicia letal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PJX9HEBlCm2onoaTc3vOJdJl95.jpg" group-title="VOD - ACCION",Justicia letal (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cobra (1925)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWiYKuqtCOvSYa4XdizqJViYsZK.jpg" group-title="VOD - ACCION",Cobra (1925)
+#EXTINF:-1 tvg-id="" tvg-name="Cobra (1925)" tvg-logo="https://image.tmdb.org/t/p/original/jCxfbTh8JvJil5edhNywxaTHoWv.jpg" group-title="VOD - ACCION",Cobra (1986)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094585.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Código negro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbT6u0CN8oh08x4vf7roQun0qMG.jpg" group-title="VOD - ACCION",Código negro (2007)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094586.mkv
@@ -3083,13 +3094,13 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094587.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094588.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Venganza bajo cero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfZClfVlLJI6RWjKlMBiuvosYEy.jpg" group-title="VOD - ACCION",Venganza bajo cero (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094589.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cold War (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H70eANgYPGQsi1CggY4gfcHI8J.jpg" group-title="VOD - ACCION",Cold War (1951)
+#EXTINF:-1 tvg-id="" tvg-name="Cold War (1951)" tvg-logo="https://image.tmdb.org/t/p/original/zFiHdFJHppW43xmsnS8whzYnVQ8.jpg" group-title="VOD - ACCION",Cold War (2012)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094590.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cold War II (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al9AKsVBz12UztMCoc1jniRPZbh.jpg" group-title="VOD - ACCION",Cold War II (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094591.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Collateral (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gR596R86b7LV9E5sF0hoHv6Y13F.jpg" group-title="VOD - ACCION",Collateral (2004)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094592.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Collateral Damage (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kscpQb3Q3k8zDZW70BCPZisWRjc.jpg" group-title="VOD - ACCION",Collateral Damage (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Collateral Damage (2021)" tvg-logo="https://image.tmdb.org/t/p/original/rALb2pU8QQGIlYdHezB2F5kwecI.jpg" group-title="VOD - ACCION",Collateral Damage (2021)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094593.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Collide" tvg-logo="https://image.tmdb.org/t/p/original/7WqR10HKafhzE9LXEYg0AtM4J6O.jpg" group-title="VOD - ACCION",Collide
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094594.mkv
@@ -3097,9 +3108,9 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094594.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094595.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Comando (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTPYPtzJvbjYlw5bNjc0A92NrEd.jpg" group-title="VOD - ACCION",Comando (1985)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094596.mkv
-#EXTINF:-1 tvg-id="" tvg-name="commandos  2 (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFiZjY4NjMtNjgzNS00MWZjLTk1YTUtYjVkMjRiZmMyNmQyL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="VOD - ACCION",commandos  2 (2017)
+#EXTINF:-1 tvg-id="" tvg-name="commandos  2 (2017)" tvg-logo="https://image.tmdb.org/t/p/original/9RZfZxIqyom7XVtXlHKnlNezZua.jpg" group-title="VOD - ACCION",Commando  2 (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094597.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Commitment (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBlOTAzYzQtOWU4ZS00ZjY2LWEzYjAtZDE5NjRiY2UzNzRjXkEyXkFqcGdeQXVyNjkwNDc1MTE@._V1_QL75_UY281_CR186,0,190,281_.jpg" group-title="VOD - ACCION",Commitment (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Commitment (2017)" tvg-logo="https://image.tmdb.org/t/p/original/ybM400b3vesnoNzOlTlAmHeEYPq.jpg" group-title="VOD - ACCION",Commitment
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094598.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Conan, el bárbaro (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HfgL0bvp1ThIJDgpNwHlOXAd3Z.jpg" group-title="VOD - ACCION",Conan, el bárbaro (1982)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094600.mkv
@@ -3123,7 +3134,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094609.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094610.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Crank: Alto voltaje (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25H2JzYmsBG5869h0bxkShDyov1.jpg" group-title="VOD - ACCION",Crank: Alto voltaje (2009)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cross  (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU3MWRhMjItZDA0Yy00OWQ3LWI1MzYtZmJhYWZhNjRkYWRiXkEyXkFqcGdeQXVyNjUyNDkyMjQ@._V1_UY1200_CR117,0,630,1200_AL_.jpg" group-title="VOD - ACCION",Cross  (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Cross  (2020)" tvg-logo="https://image.tmdb.org/t/p/original/u8EqTKzNMzxSVVONvOQWchTzd7c.jpg" group-title="VOD - ACCION",Cross  (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094612.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cross Wars (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDJ2Mq18XhCsgQw9LQMpoSGWWPZ.jpg" group-title="VOD - ACCION",Cross Wars (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094613.mkv
@@ -3197,7 +3208,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094656.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094658.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Muere otro día (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmpgo09w8qQ8rhbA3q22PYpJcmz.jpg" group-title="VOD - ACCION",Muere otro día (2002)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Distrito 11 (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFUNK6M1H9mnXwIxvzNw74bLn4E.jpg" group-title="VOD - ACCION",Distrito 11 (1963)
+#EXTINF:-1 tvg-id="" tvg-name="Distrito 11 (1963)" tvg-logo="https://image.tmdb.org/t/p/original/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg" group-title="VOD - ACCION",Distrito 9
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094660.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Divergente (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t36b9yHx1JbrkcpaWPatcDLtEYu.jpg" group-title="VOD - ACCION",Divergente (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094661.mkv
@@ -3237,7 +3248,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1094679.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094680.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Al filo de la oscuridad (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfqBRWRdHNNaCTnq5nUljGnCmxL.jpg" group-title="VOD - ACCION",Al filo de la oscuridad (2010)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094681.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Edge of Tomorrow: Weapons of the Future (2014)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjYyY2Y1M2EtNWM5Ni00ODRhLWE2MmYtNTQyMDU4NzQ0OWRjXkEyXkFqcGdeQXVyMjA3NzQyMA@@._V1_FMjpg_UX1000_.jpg" group-title="VOD - ACCION",Edge of Tomorrow: Weapons of the Future (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Edge of Tomorrow: Weapons of the Future (2014)" tvg-logo="https://image.tmdb.org/t/p/original/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg" group-title="VOD - ACCION",Edge of Tomorrow: Weapons of the Future (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094682.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El ataque del tiburón de dos cabezas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyKDKlex5RqBjx3OatVpTAfeAkD.jpg" group-title="VOD - ACCION",El ataque del tiburón de dos cabezas (2012)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1094683.mkv
@@ -4209,7 +4220,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1095238.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1095239.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Consejos de una canguro para cazar monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJvuUUhHM3FtoXL0qlHPtsfwq8n.jpg" group-title="VOD - CIENCIA FICCION",Consejos de una canguro para cazar monstruos (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1095240.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abigail (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rNWxdsUYDsDxHrEc3OmXZVdKwJ.jpg" group-title="VOD - CIENCIA FICCION",Abigail (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (2019)" tvg-logo="https://image.tmdb.org/t/p/original/5Ggf38fEAhOCdgvfLOfUcfEQTQT.jpg" group-title="VOD - CIENCIA FICCION",Abigail (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1095241.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Absolutamente todo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dV1aYFiTEnV9Hjco38bKE4ANRTq.jpg" group-title="VOD - CIENCIA FICCION",Absolutamente todo (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1095242.mkv
@@ -8329,7 +8340,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097519.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097520.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cazadores de sombras: Ciudad de hueso (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tJMeknwCcrUgwi3sEVsGTWt2ex.jpg" group-title="VOD - AVENTURA",Cazadores de sombras: Ciudad de hueso (2013)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097521.mkv
-#EXTINF:-1 tvg-id="" tvg-name="chaman el ultimo guerrero" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ5MjE1OTAtODcwYi00YTY3LWE3ZTktZDViNTk4ZmNiNmEzXkEyXkFqcGdeQXVyMjU5MzI0NQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD - AVENTURA",chaman el ultimo guerrero
+#EXTINF:-1 tvg-id="" tvg-name="chaman el ultimo guerrero" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdiZDk1YTEtODc5OC00NWZmLThkNDMtYWEyMDA2MDBhYjlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD - AVENTURA",chaman el ultimo guerrero
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097522.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Chinese Zodiac: La armadura de Dios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbjIccIjA4XpiOBtDdtoYAen062.jpg" group-title="VOD - AVENTURA",Chinese Zodiac: La armadura de Dios (2012)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097523.mkv
@@ -8355,7 +8366,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097532.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097533.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elegidos para el triunfo (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngbsLqSDXMYt2i3k4exBjx2LGVP.jpg" group-title="VOD - AVENTURA",Elegidos para el triunfo (1993)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="corazon de dragon 3" tvg-logo="https://th.bing.com/th/id/OIP.AxNHaG1TRif2cwsU7v-T9wHaLG?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",corazon de dragon 3
+#EXTINF:-1 tvg-id="" tvg-name="corazon de dragon 3" tvg-logo="https://image.tmdb.org/t/p/original/qPiyMWZHlRGgQ54roaraS3iJR12.jpg" group-title="VOD - AVENTURA",corazon de dragon 3
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097535.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Las crónicas de Narnia: El león, la bruja y el armario (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9WMcPeguI4pmwULmB6LqzPyj1v.jpg" group-title="VOD - SAGAS",Las crónicas de Narnia: El león, la bruja y el armario (2005)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097536.mkv
@@ -8365,7 +8376,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097537.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097538.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cuenta conmigo (1986)" tvg-logo="https://th.bing.com/th/id/R.f7db183f8207f065a80e304c170117b9?rik=vI8H8w4nOeUVBg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-CpwQyZmh9l8%2fUHaPPxPEsCI%2fAAAAAAAAB44%2f6XwihVZPE6Q%2fs1600%2fCuenta%252520conmigo.jpg&ehk=UMR8wqOQowc2EzZ7IWdByZBu90Fy5BviyR%2bxNjoWKqI%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",Cuenta conmigo (1986)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097539.mkv
-#EXTINF:-1 tvg-id="" tvg-name="dan machi the movie" tvg-logo="https://cdn.atomix.vg/wp-content/uploads/2018/06/Poster_Danmachi_peli-1-768x1100.jpg" group-title="VOD - AVENTURA",dan machi the movie
+#EXTINF:-1 tvg-id="" tvg-name="dan machi the movie" tvg-logo="https://image.tmdb.org/t/p/original/i1Vc5fRIb5rTC817QTjNceOYoCm.jpg" group-title="VOD - AVENTURA",dan machi the movie
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097540.mkv
 #EXTINF:-1 tvg-id="" tvg-name="danza con lobos" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/07/02/40/3461958.jpg" group-title="VOD - AVENTURA",danza con lobos
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097541.mkv
@@ -8375,13 +8386,13 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097542.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097545.mkv
 #EXTINF:-1 tvg-id="" tvg-name="death rase 2050" tvg-logo="https://oyster.ignimgs.com/wordpress/stg.ign.com/2016/10/death-race.jpeg" group-title="VOD - AVENTURA",death rase 2050
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097546.mkv
-#EXTINF:-1 tvg-id="" tvg-name="deathstroke knights and dragons 2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ4MzUyZDQtNmY0OC00ZjUyLTljZDMtYTYwM2U1ZjE3MTE3XkEyXkFqcGdeQXVyNDU4NzA4NDk@._V1_.jpg" group-title="VOD - AVENTURA",deathstroke knights and dragons 2020
+#EXTINF:-1 tvg-id="" tvg-name="deathstroke knights and dragons 2020" tvg-logo="https://image.tmdb.org/t/p/original/vFIHbiy55smzi50RmF8LQjmpGcx.jpg" group-title="VOD - AVENTURA",deathstroke knights and dragons 2020
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097547.mkv
 #EXTINF:-1 tvg-id="" tvg-name="der kleine drache kokosnuss auf in den dschungel 2018" tvg-logo="https://th.bing.com/th/id/OIP.q5aeOAAkZ9naxahMQC4YTQHaKd?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",der kleine drache kokosnuss auf in den dschungel 2018
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097548.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Destined to Ride (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/wGOkZLH4vApt24ZFyt4xVZvefWd.jpg" group-title="VOD - AVENTURA",Destined to Ride (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097549.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Destruction: Los Angeles (2017)" tvg-logo="https://th.bing.com/th/id/R.f9c1acef60ae3443848ba631db268531?rik=F9fHbneU6vVSTQ&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",Destruction: Los Angeles (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Destruction: Los Angeles (2017)" tvg-logo="https://image.tmdb.org/t/p/original/xbxpYjTrOgbQTtPrgdpl3EOu75q.jpg" group-title="VOD - AVENTURA",Destruction: Los Angeles (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097550.mkv
 #EXTINF:-1 tvg-id="" tvg-name="detective pikachu 2019" tvg-logo="https://th.bing.com/th/id/OIP.uFvq-n1clG3d_FSYIimEWgHaKt?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",detective pikachu 2019
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097551.mkv
@@ -8397,15 +8408,15 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097555.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097556.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dinosaurio (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg" group-title="VOD - AVENTURA",Dinosaurio (2000)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="dino time 2012" tvg-logo="https://th.bing.com/th/id/OIP.mtnPuBfcZqv_ixb58_U2nQAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",dino time 2012
+#EXTINF:-1 tvg-id="" tvg-name="dino time 2012" tvg-logo="https://image.tmdb.org/t/p/original/pzOkddFfLexWtTozMMvPDUNe0AK.jpg" group-title="VOD - AVENTURA",dino time 2012
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097558.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Divergente (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t36b9yHx1JbrkcpaWPatcDLtEYu.jpg" group-title="VOD - AVENTURA",Divergente (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097559.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Zhivago (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewV2RlSlMs5jRKVlFNHZ9u8t6Ms.jpg" group-title="VOD - AVENTURA",Doctor Zhivago (1965)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="donde esta el dragon" tvg-logo="https://th.bing.com/th/id/OIP.fgR6ZXMOtvMbyf_JhhIX-AHaLH?w=1280&h=1920&rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",donde esta el dragon
+#EXTINF:-1 tvg-id="" tvg-name="donde esta el dragon" tvg-logo="https://image.tmdb.org/t/p/original/gNMHtcmU8PbXj3B0ORuPbO2uHOW.jpg" group-title="VOD - AVENTURA",donde esta el dragon
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="donne-moi des ailes 2019" tvg-logo="https://th.bing.com/th/id/OIP.OW64ZElLbsL7xvd9FSjoCAHaJ4?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",donne-moi des ailes 2019
+#EXTINF:-1 tvg-id="" tvg-name="donne-moi des ailes 2019" tvg-logo="https://image.tmdb.org/t/p/original/lboXHR1VQYwTfEZCcgFlZePP2Mc.jpg" group-title="VOD - AVENTURA",donne-moi des ailes 2019
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097563.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Doom (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fITzPnmagU97nF455DOBSa5Bgg.jpg" group-title="VOD - AVENTURA",Doom (2005)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097564.mkv
@@ -8419,7 +8430,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097568.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097569.mkv
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball z battle of gods 2013" tvg-logo="https://www.themoviedb.org/t/p/original/eHPAJ7lHFSryvDt6ih7REHNh2QI.jpg" group-title="VOD - AVENTURA",dragon ball z battle of gods 2013
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="dragon ball z bojack unbound 1993" tvg-logo="https://th.bing.com/th/id/OIP.RrVLtBR7sDlP0UrL7BMuKwAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",dragon ball z bojack unbound 1993
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball z bojack unbound 1993" tvg-logo="https://image.tmdb.org/t/p/original/iihTK9Af8G1ZzBjkIIAV4qQMkzF.jpg" group-title="VOD - AVENTURA",dragon ball z bojack unbound 1993
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097571.mkv
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball z fukkatsu no f 2015" tvg-logo="https://th.bing.com/th/id/R.a155c8a0842cc7d430dd8b3cd4f7c746?rik=1WoIk50NKeNHfg&riu=http%3a%2f%2fwww.filmfad.com%2fwp-content%2fuploads%2f2015%2f03%2fDBZ-1-Fukkatsu-no-F-FilmFad.com_.jpg&ehk=0fFVrXiPJLjnCbR1B%2feT5J%2fvqImiCkj4smnXS73Cvr8%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",dragon ball z fukkatsu no f 2015
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097572.mkv
@@ -8445,7 +8456,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097582.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097583.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El cuaderno de Sara (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0UTCila9xN5XqYVDHafHClskKW.jpg" group-title="VOD - AVENTURA",El cuaderno de Sara (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="elephant 2020" tvg-logo="https://cdn.traileraddict.com/content/disneynature/elephant-2020-poster.jpg" group-title="VOD - AVENTURA",elephant 2020
+#EXTINF:-1 tvg-id="" tvg-name="elephant 2020" tvg-logo="https://image.tmdb.org/t/p/original/wvRbUiOuqedyDmwToErkp7wuFCv.jpg" group-title="VOD - AVENTURA",elephant 2020
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097586.mkv
 #EXTINF:-1 tvg-id="" tvg-name="el hechizo del aguila" tvg-logo="https://1.bp.blogspot.com/_NNS6r_z4aeg/TSpZdfEpzvI/AAAAAAAATaE/3SfPQs1v6Mk/s1600/ladyhawke+1985+dvd+cover.jpg" group-title="VOD - AVENTURA",el hechizo del aguila
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097588.mkv
@@ -8455,7 +8466,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097589.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097590.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Paletero (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLAS4FUfmskwJwIoFs23U3tEpnE.jpg" group-title="VOD - AVENTURA",El Paletero (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097591.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El patriota (1928)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9L5mhObh42jRHBBtHZ2J7eC4RTt.jpg" group-title="VOD - AVENTURA",El patriota (1928)
+#EXTINF:-1 tvg-id="" tvg-name="El patriota (2000)" tvg-logo="https://image.tmdb.org/t/p/original/cizgIaq65fpq2Ft08dPmZtUxDYv.jpg" group-title="VOD - AVENTURA",El patriota (2000)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097592.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El príncipe de Persia: Las arenas del tiempo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhATwS2BVbVvu5ltv8F1aodLTPE.jpg" group-title="VOD - AVENTURA",El príncipe de Persia: Las arenas del tiempo (2010)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097593.mkv
@@ -8475,7 +8486,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097599.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097600.mkv
 #EXTINF:-1 tvg-id="" tvg-name="el vuelo del ave fenix" tvg-logo="https://th.bing.com/th/id/R.55b950224e04df1d423deba94d75770d?rik=r0bAA3W8s5uUjw&riu=http%3a%2f%2fes.web.img2.acsta.net%2fr_1280_720%2fmedias%2fnmedia%2f18%2f91%2f99%2f32%2f20207725.jpg&ehk=FzChuIIiwjsdnV4rZN3xXSEFEsYzWrhXAWtiK49%2fl%2fM%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",el vuelo del ave fenix
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097601.mkv
-#EXTINF:-1 tvg-id="" tvg-name="ember la ciudad perdida" tvg-logo="https://th.bing.com/th/id/OIP.3pd5E4gJBtgN8dXcTWOg0AAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",ember la ciudad perdida
+#EXTINF:-1 tvg-id="" tvg-name="ember la ciudad perdida" tvg-logo="https://image.tmdb.org/t/p/original/wyTWhz4hwlJTnbQ39XznHAV7C3y.jpg" group-title="VOD - AVENTURA",Ember la ciudad perdida
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097602.mkv
 #EXTINF:-1 tvg-id="" tvg-name="enchantimals secrets of snowy valley 2020" tvg-logo="https://th.bing.com/th/id/OIP.NZZDd9uJlXHhEZ0dz4bu1AHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",enchantimals secrets of snowy valley 2020
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097603.mkv
@@ -8501,7 +8512,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097614.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097615.mkv
 #EXTINF:-1 tvg-id="" tvg-name="finding nemo 2003" tvg-logo="https://th.bing.com/th/id/OIP.hfXtSQ1beyz0femcLhebWAHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",finding nemo 2003
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097616.mkv
-#EXTINF:-1 tvg-id="" tvg-name="finding ohana 2021" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk2NDhmNDgtNzQ2ZS00YzU1LTljNjgtY2ZjM2M3OTVlNTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD - AVENTURA",finding ohana 2021
+#EXTINF:-1 tvg-id="" tvg-name="finding ohana 2021" tvg-logo="https://image.tmdb.org/t/p/original/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg" group-title="VOD - AVENTURA",Finding Ohana 2021
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097617.mkv
 #EXTINF:-1 tvg-id="" tvg-name="First Man (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pssF3UjE7vVgR6z35XFmQz9L44q.jpg" group-title="VOD - AVENTURA",First Man (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097618.mkv
@@ -8513,7 +8524,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097620.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097621.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Inside 'From Russia with Love' (2000)" tvg-logo="https://www.ethaicd.com/cdimage/b27735.jpg" group-title="VOD - AVENTURA",Inside 'From Russia with Love' (2000)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097622.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Furia de titanes (1981)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71oJhAbhCsL._SL1177_.jpg" group-title="VOD - AVENTURA",Furia de titanes (1981)
+#EXTINF:-1 tvg-id="" tvg-name="Furia de titanes (1981)" tvg-logo="https://image.tmdb.org/t/p/original/mDxnGaNjW0ZsDgFCgYSi75tUpch.jpg" group-title="VOD - AVENTURA",Furia de titanes (1981)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097623.mkv
 #EXTINF:-1 tvg-id="" tvg-name="gekijoban urutoraman jido tsunagu ze negai ultraman jido 2018" tvg-logo="https://th.bing.com/th/id/OIP.mDbRAs4euwGD5Vao09uP4QHaLG?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",gekijoban urutoraman jido tsunagu ze negai ultraman jido 2018
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097624.mkv
@@ -8521,9 +8532,9 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097624.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097625.mkv
 #EXTINF:-1 tvg-id="" tvg-name="george of the jungle 1997" tvg-logo="https://th.bing.com/th/id/OIP.i779r5bwZWyH6ESYKIlkfQHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",george of the jungle 1997
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097626.mkv
-#EXTINF:-1 tvg-id="" tvg-name="goldfinger 007" tvg-logo="https://th.bing.com/th/id/R.0592ed2b74092389d3ec51876a469883?rik=zzPHN3KTNrzalw&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",goldfinger 007
+#EXTINF:-1 tvg-id="" tvg-name="goldfinger 007" tvg-logo="https://image.tmdb.org/t/p/original/knGY8IxwAKXiWXsPbYbhQWqiQCK.jpg" group-title="VOD - AVENTURA",Goldfinger 007
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097630.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Life Gone With The Wind (2019)" tvg-logo="https://api.time.com/wp-content/uploads/2014/12/life-gone-with-the-wind-front-cover.jpg?quality=85&w=1452" group-title="VOD - AVENTURA",Life Gone With The Wind (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Life Gone With The Wind (2019)" tvg-logo="https://image.tmdb.org/t/p/original/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg" group-title="VOD - AVENTURA",Gone With The Wind
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097631.mkv
 #EXTINF:-1 tvg-id="" tvg-name="goosebumps" tvg-logo="https://th.bing.com/th/id/OIP.6tJ0DaUdxPIXccnzNyvkUgHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",goosebumps
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097632.mkv
@@ -8533,7 +8544,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097633.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097635.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guardianes de la tumba (2018)" tvg-logo="https://www.themoviedb.org/t/p/original/nZrJlQCMN9aHZwmL3y0n2TVktkt.jpg" group-title="VOD - AVENTURA",Guardianes de la tumba (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097636.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy: Inferno (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ0YzEyNWQtNGJiMi00NTAxLThkNDctNGY2ODkzYWMxZmZkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD - AVENTURA",Guardians of the Galaxy: Inferno (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy: Inferno (2017)" tvg-logo="https://image.tmdb.org/t/p/original/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="VOD - AVENTURA",Guardians of the Galaxy (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097637.mkv
 #EXTINF:-1 tvg-id="" tvg-name="guardians of the galaxy vol 2" tvg-logo="https://th.bing.com/th/id/OIP.4hfC8HaZjJVfnk3hoshUaQHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",guardians of the galaxy vol 2
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097638.mkv
@@ -8549,29 +8560,29 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097652.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097653.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hercules (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q9Ic0Q4vMcs2AbTE640fRuB0Qe.jpg" group-title="VOD - AVENTURA",Hercules (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="hidalgo 2004" tvg-logo="https://th.bing.com/th/id/R.b9a9f7598f77db9678042f2cc7d7ee83?rik=dmZAhGSaQK02Wg&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",hidalgo 2004
+#EXTINF:-1 tvg-id="" tvg-name="hidalgo 2004" tvg-logo="https://image.tmdb.org/t/p/original/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg" group-title="VOD - AVENTURA",Hidalgo 2004
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Highlander" tvg-logo="https://th.bing.com/th/id/OIP.T-oHjuneUtvf2lDmMfh2PwHaKo?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",Highlander
+#EXTINF:-1 tvg-id="" tvg-name="Highlander" tvg-logo="https://image.tmdb.org/t/p/original/8Z8dptJEypuLoOQro1WugD855YE.jpg" group-title="VOD - AVENTURA",Highlander
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097656.mkv
-#EXTINF:-1 tvg-id="" tvg-name="highlander II the quickening" tvg-logo="https://th.bing.com/th/id/OIP.L7gNZJiD7q8TjOEDlmg-ZgAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",highlander II the quickening
+#EXTINF:-1 tvg-id="" tvg-name="highlander II the quickening" tvg-logo="https://image.tmdb.org/t/p/original/qxKeykPNGbKAK0DJijMUaZ5cVPo.jpg" group-title="VOD - AVENTURA",Highlander II: The quickening
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097657.mkv
 #EXTINF:-1 tvg-id="" tvg-name="High Life (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NpLEwYjqVcr7SgDh2KkiaWR3J4.jpg" group-title="VOD - AVENTURA",High Life (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097658.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Holmes & Watson (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61JOUNb35q6NRYoX4wgnrO3E3EH.jpg" group-title="VOD - AVENTURA",Holmes & Watson (2018)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="homeward bound the incredible journey" tvg-logo="https://th.bing.com/th/id/R.9ba54fd0bd8bbb96e0e034d2a5c48a6f?rik=lQhgKiUEBUShLg&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",homeward bound the incredible journey
+#EXTINF:-1 tvg-id="" tvg-name="homeward bound the incredible journey" tvg-logo="https://image.tmdb.org/t/p/original/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg" group-title="VOD - AVENTURA",Homeward bound the incredible journey
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Querida Encogi a los Niños" tvg-logo="https://imgmedia.larepublica.pe/640x838/larepublica/migration/images/Z3J4ENMJLRECTI5BI7NMI54J7E.webp" group-title="VOD - AVENTURA",Querida Encogi a los Niños
+#EXTINF:-1 tvg-id="" tvg-name="Querida Encogi a los Niños" tvg-logo="https://image.tmdb.org/t/p/original/omQOzahi2NIeiYznNxHFDvNbvo6.jpg" group-title="VOD - AVENTURA",Querida encogí a los niños
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097661.mkv
 #EXTINF:-1 tvg-id="" tvg-name="hook 1991" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/Hook-Movie-Poster.jpg" group-title="VOD - AVENTURA",hook 1991
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097663.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hostiles (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="VOD - AVENTURA",Hostiles (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097664.mkv
-#EXTINF:-1 tvg-id="" tvg-name="how to train your dragon the hidden world 2018" tvg-logo="https://th.bing.com/th/id/OIP.o2eIWJ1dg-HyTcauA187KwHaLu?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",how to train your dragon the hidden world 2018
+#EXTINF:-1 tvg-id="" tvg-name="how to train your dragon the hidden world 2018" tvg-logo="https://image.tmdb.org/t/p/original/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="VOD - AVENTURA",How to train your dragon the hidden world 2018
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097665.mkv
 #EXTINF:-1 tvg-id="" tvg-name="hundraaringen 2" tvg-logo="https://th.bing.com/th/id/OIP._rmD4m3jPsm2X9cmTn_yugHaKe?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",hundraaringen 2
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097666.mkv
-#EXTINF:-1 tvg-id="" tvg-name="hunt for the wilderpeople" tvg-logo="https://th.bing.com/th/id/R.3dec4285718f6f0a9859f0a7f23bd7e4?rik=TtzZzyfdBvvL8w&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",hunt for the wilderpeople
+#EXTINF:-1 tvg-id="" tvg-name="hunt for the wilderpeople" tvg-logo="https://image.tmdb.org/t/p/original/hkmz9rxgcweizXNElozGeKwmAJE.jpg" group-title="VOD - AVENTURA",Hunt for the wilderpeople
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097667.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el reino de la calavera de cristal - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGG1Ljd0ULYHOegN8Qm3r1ndXhE.jpg" group-title="VOD - SAGAS",Indiana Jones y el reino de la calavera de cristal - 2008
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097668.mkv
@@ -8579,13 +8590,13 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097668.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097671.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Interestelar" tvg-logo="https://m.media-amazon.com/images/I/51uKNGBecbL._AC_.jpg" group-title="VOD - CIENCIA FICCION",Interestelar
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097672.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Into the Blue (1950)" tvg-logo="https://th.bing.com/th/id/OIP.KN26ryMz9jansy9fIXNUQwAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",Into the Blue (1950)
+#EXTINF:-1 tvg-id="" tvg-name="Into the Blue (1950)" tvg-logo="https://image.tmdb.org/t/p/original/h5oXcjRu0EOiAxSxYuGq58897tu.jpg" group-title="VOD - AVENTURA",Into the Blue 2005
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097673.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Into the WIld (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82NGUfP4aFxy6IoUtU1EMrerrGj.jpg" group-title="VOD - AVENTURA",Into the WIld (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Into the WIld (2021)" tvg-logo="https://image.tmdb.org/t/p/original/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg" group-title="VOD - AVENTURA",Into the wild (2007)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097674.mkv
 #EXTINF:-1 tvg-id="" tvg-name="inuyasha the movie affections touching across time 2001" tvg-logo="https://www.themoviedb.org/t/p/original/8N1EsafpP8vLDht6dosdaf735Ej.jpg" group-title="VOD - AVENTURA",inuyasha the movie affections touching across time 2001
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="invader zim enter the florpus 2019" tvg-logo="https://th.bing.com/th/id/OIP.3o0p4fWlpfspa0Vy05OO4AHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",invader zim enter the florpus 2019
+#EXTINF:-1 tvg-id="" tvg-name="invader zim enter the florpus 2019" tvg-logo="https://image.tmdb.org/t/p/original/lYy5EBxl8cwpyejcy85LgSdf34m.jpg" group-title="VOD - AVENTURA",invader zim enter the florpus 2019
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097676.mkv
 #EXTINF:-1 tvg-id="" tvg-name="jack londons white fang" tvg-logo="https://th.bing.com/th/id/R.3efc2dacd91319edbca6ee103662038d?rik=HVqB651Hb2H0Rw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-x8963YfEg5k%2fVOuqZ83MU8I%2fAAAAAAAAS_0%2fYzs7_LBh6uE%2fs1600%2fwhitefang.jpg&ehk=P87%2f0B71%2b6ybvHWo5RB3t1OV7QEvetf46vveOY7TZg8%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",jack londons white fang
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097677.mkv
@@ -8611,7 +8622,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097686.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097687.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (Parque Jurásico) (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="VOD - SAGAS",Jurassic Park (Parque Jurásico) (1993)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097688.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kaijuu no kodomo 2019" tvg-logo="https://th.bing.com/th/id/OIP.hdNej_mvgmbO-Dh_svWp9wHaKf?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",kaijuu no kodomo 2019
+#EXTINF:-1 tvg-id="" tvg-name="kaijuu no kodomo 2019" tvg-logo="https://image.tmdb.org/t/p/original/9Fch8X5C5yW2srPVBiq6LNRvwd.jpg" group-title="VOD - AVENTURA",kaijuu no kodomo 2019
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097692.mkv
 #EXTINF:-1 tvg-id="" tvg-name="keplers dream 2017" tvg-logo="https://worldfilmgeek.files.wordpress.com/2017/11/keplersdream.jpg" group-title="VOD - AVENTURA",keplers dream 2017
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097694.mkv
@@ -8627,19 +8638,19 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097698.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097699.mkv
 #EXTINF:-1 tvg-id="" tvg-name="King Kong (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88aRA5WwvYgFSjNI4Wx3RUFSR7i.jpg" group-title="VOD - AVENTURA",King Kong (1976)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097700.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kingsman the golden circle" tvg-logo="https://th.bing.com/th/id/R.2a1034ac18aaac3fd83e4e2ec57f14b3?rik=OkyKD8KxF4bXEg&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",kingsman the golden circle
+#EXTINF:-1 tvg-id="" tvg-name="kingsman the golden circle" tvg-logo="https://image.tmdb.org/t/p/original/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg" group-title="VOD - AVENTURA",Kingsman the golden circle
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097701.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kingsman: The Secret Service Revealed (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72QFb5EpZwqbqJYLwgRsvoxiplv.jpg" group-title="VOD - AVENTURA",Kingsman: The Secret Service Revealed (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097702.mkv
 #EXTINF:-1 tvg-id="" tvg-name="knight and day" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a7JmOBMNj5erYTgt4u1mQgvHItu.jpg" group-title="VOD - AVENTURA",knight and day
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097703.mkv
-#EXTINF:-1 tvg-id="" tvg-name="knights of badassdom" tvg-logo="https://th.bing.com/th/id/R.401afffd48158908ad1f530bfac7983b?rik=NIoE3JFox0zKoQ&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",knights of badassdom
+#EXTINF:-1 tvg-id="" tvg-name="knights of badassdom" tvg-logo="https://image.tmdb.org/t/p/original/7TP8E4nTqT0SFkwlj2kYRfMRwfH.jpg" group-title="VOD - AVENTURA",Knights of Badassdom
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kong skull island" tvg-logo="https://th.bing.com/th/id/OIP.7YiKVvnLKo04R3_KG3qeEQHaJ4?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",kong skull island
+#EXTINF:-1 tvg-id="" tvg-name="kong skull island" tvg-logo="https://image.tmdb.org/t/p/original/3jvAfm6caSLkDeJKsfbC1ttdLAE.jpg" group-title="VOD - AVENTURA",Kong skull island
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097705.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJlyA7f4kMus9xK1ZUzq98rwcmz.jpg" group-title="VOD - AVENTURA",Kung Fu Yoga (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097706.mkv
-#EXTINF:-1 tvg-id="" tvg-name="la bruja de los cabellos blancos" tvg-logo="https://th.bing.com/th/id/R.f588e75429d755773af2a857f3e15ef1?rik=9wqvTbJA571ZLA&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",la bruja de los cabellos blancos
+#EXTINF:-1 tvg-id="" tvg-name="la bruja de los cabellos blancos" tvg-logo="https://image.tmdb.org/t/p/original/wsKijqhCPcIh80DKm07C1bfONMG.jpg" group-title="VOD - AVENTURA",La bruja de los cabellos blancos
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097707.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Labyrinth" tvg-logo="https://i1.wp.com/www.my-sf.com/wp-content/uploads/2016/01/Labyrinth-poster.jpeg?fit=1249%2C1713&ssl=1" group-title="VOD - AVENTURA",The Labyrinth
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097708.mkv
@@ -8649,17 +8660,17 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097710.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097714.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La gran aventura de los Lunnis y el libro mágico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyIb9OAsOtH0FXTkUPeazWN1mUm.jpg" group-title="VOD - AVENTURA",La gran aventura de los Lunnis y el libro mágico (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097715.mkv
-#EXTINF:-1 tvg-id="" tvg-name="la increible vida de walter mitty" tvg-logo="https://cinergetica.com.mx/wp-content/uploads/2013/10/the-secret-life-of-walter-mitty-poster3-645x954.jpg" group-title="VOD - AVENTURA",la increible vida de walter mitty
+#EXTINF:-1 tvg-id="" tvg-name="la increible vida de walter mitty" tvg-logo="https://cinergetica.com.mx/wp-content/uploads/2013/10/the-secret-life-of-walter-mitty-poster3-645x954.jpg" group-title="VOD - AVENTURA",La increible vida de walter mitty
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097716.mkv
-#EXTINF:-1 tvg-id="" tvg-name="la invension de hugo" tvg-logo="https://th.bing.com/th/id/R.732ca91beac80bb734f612ce7fa7d7e7?rik=G4aVyyCxMoPNsQ&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",la invension de hugo
+#EXTINF:-1 tvg-id="" tvg-name="la invension de hugo" tvg-logo="https://th.bing.com/th/id/R.732ca91beac80bb734f612ce7fa7d7e7?rik=G4aVyyCxMoPNsQ&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",La invension de hugo
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097717.mkv
-#EXTINF:-1 tvg-id="" tvg-name="la leyenda del diamante 2017" tvg-logo="https://th.bing.com/th/id/OIP.4F6aGSgi9mjNcXbmhzrWWwAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",la leyenda del diamante 2017
+#EXTINF:-1 tvg-id="" tvg-name="la leyenda del diamante 2017" tvg-logo="https://th.bing.com/th/id/OIP.4F6aGSgi9mjNcXbmhzrWWwAAAA?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",La leyenda del diamante 2017
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="la leyenda del jinete sin cabeza" tvg-logo="https://www.elsotano.com/imagenes/7502275/750227567168.JPG" group-title="VOD - AVENTURA",la leyenda del jinete sin cabeza
+#EXTINF:-1 tvg-id="" tvg-name="la leyenda del jinete sin cabeza" tvg-logo="https://image.tmdb.org/t/p/original/7DgCv4sOScbIo99VPcTXk7C4UQD.jpg" group-title="VOD - AVENTURA",La leyenda del jinete sin cabeza
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097719.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1C8IaftKueVq3ayANjhJ4hT7hns.jpg" group-title="VOD - AVENTURA",La Odisea (2016)
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2016)" tvg-logo="https://image.tmdb.org/t/p/original/ggS9vsstP5rJ0sq1kY0fBtfELVB.jpg" group-title="VOD - AVENTURA",La Odisea (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097720.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La pantera rosa (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9yCA2YBRvdfVlwGuvDJGJGBMrX.jpg" group-title="VOD - AVENTURA",La pantera rosa (1963)
+#EXTINF:-1 tvg-id="" tvg-name="La pantera rosa (1963)" tvg-logo="https://image.tmdb.org/t/p/original/5wYfVgR8hIGeeCk8vifYHZteWdk.jpg" group-title="VOD - AVENTURA",La pantera rosa (2006)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097721.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La pantera rosa 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVUZfXbq473EIyJKpUkG3TfU8tC.jpg" group-title="VOD - AVENTURA",La pantera rosa 2 (2009)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097722.mkv
@@ -8669,9 +8680,9 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097723.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097726.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El ascenso (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpcoSp9vAU6xi45ZPhSoObn0TgL.jpg" group-title="VOD - AVENTURA",El ascenso (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097728.mkv
-#EXTINF:-1 tvg-id="" tvg-name="las fantasticas aventuras de spirou 2018" tvg-logo="https://th.bing.com/th/id/R.e9ab89a497c602d48191ca08afc68970?rik=swcBaNIL3UE6qw&riu=http%3a%2f%2ffr.web.img3.acsta.net%2fpictures%2f17%2f10%2f25%2f10%2f26%2f2721622.jpg&ehk=ylii%2fcQdM1px02jbzD%2biLwdB3uJ1ZWzDgg94x64LJxA%3d&risl=&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",las fantasticas aventuras de spirou 2018
+#EXTINF:-1 tvg-id="" tvg-name="las fantasticas aventuras de spirou 2018" tvg-logo="https://image.tmdb.org/t/p/original/d9GuCrK1KhyE8i8ZVMvUTIRQslS.jpg" group-title="VOD - AVENTURA",Las fantasticas aventuras de Spirou 2018
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Sirenita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57bEiV6qwcT1sWyYD8pye39qH7T.jpg" group-title="VOD - AVENTURA",La Sirenita
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita" tvg-logo="https://image.tmdb.org/t/p/original/nPkhdH8K3Ua995lyxZQIWgOyTqZ.jpg" group-title="VOD - AVENTURA",La Sirenita 2018
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097732.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gurren Lagann: Las luces en el cielo son estrellas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28mU2qCSqYlqnNNHsfYD4Wg3A6y.jpg" group-title="VOD - AVENTURA",Gurren Lagann: Las luces en el cielo son estrellas (2009)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097733.mkv
@@ -8705,7 +8716,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097748.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097749.mkv
 #EXTINF:-1 tvg-id="" tvg-name="los siete pecados capitales prisioneros del cielo" tvg-logo="https://th.bing.com/th/id/OIP.44dKeme5yM3pYLi_4Q7inwHaLH?rs=1&pid=ImgDetMain" group-title="VOD - AVENTURA",los siete pecados capitales prisioneros del cielo
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="lost in space 1998" tvg-logo="https://th.bing.com/th/id/R.a11106b6ac71e46cae4990ac5b91e9ca?rik=yJG7DyHE2hjvXQ&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",lost in space 1998
+#EXTINF:-1 tvg-id="" tvg-name="lost in space 1998" tvg-logo="https://image.tmdb.org/t/p/original/fCocPDUFuKswY2GxDdfYsT9BXMd.jpg" group-title="VOD - AVENTURA",Lost in space 1998
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097751.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los viajes de Gulliver (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AdbmSYBu1N70vx8ytkRRhLyD3l.jpg" group-title="VOD - AVENTURA",Los viajes de Gulliver (1983)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097752.mkv
@@ -8743,7 +8754,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097768.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097769.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El hogar de Miss Peregrine para niños peculiares (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4585PS4VZEqvwvVZiqeYZkpxhC.jpg" group-title="VOD - AVENTURA",El hogar de Miss Peregrine para niños peculiares (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moby Dick (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QWdrnCFftqS22DqeDT18cZXhAB.jpg" group-title="VOD - AVENTURA",Moby Dick (1956)
+#EXTINF:-1 tvg-id="" tvg-name="Moby Dick (1956)" tvg-logo="https://image.tmdb.org/t/p/original/7JXcm3RyWlGsRCZ0YlOliWr6TNv.jpg" group-title="VOD - AVENTURA",Moby Dick (1956)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097771.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un monje baja de la montaña (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wabG7FNEijm21LjD9QZgG77OKR0.jpg" group-title="VOD - AVENTURA",Un monje baja de la montaña (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097772.mkv
@@ -8765,7 +8776,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097779.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097780.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Naruto 1: ¡La Gran misión! ¡El rescate de la Princesa de la Nieve! (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1VqLmhz2QpjfCMNGne8ETapBco.jpg" group-title="VOD - AVENTURA",Naruto 1: ¡La Gran misión! ¡El rescate de la Princesa de la Nieve! (2004)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="National Treasure 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPmDLlo1xTzxnYiClP96khPAu6z.jpg" group-title="VOD - AVENTURA",National Treasure 3
+#EXTINF:-1 tvg-id="" tvg-name="National Treasure 3" tvg-logo="https://image.tmdb.org/t/p/original/noRVimjdx6PwPBCVikhExYqogsX.jpg" group-title="VOD - AVENTURA",National Treasure 3
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097782.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La búsqueda 2: El diario secreto (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSDlNITmHPdGdY5uD05DoTg4thP.jpg" group-title="VOD - AVENTURA",La búsqueda 2: El diario secreto (2007)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097783.mkv
@@ -8775,9 +8786,9 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097784.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097785.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Noticias del gran mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW1V0lNs7LSM8VFVjyFslrk7NbK.jpg" group-title="VOD - AVENTURA",Noticias del gran mundo (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097786.mkv
-#EXTINF:-1 tvg-id="" tvg-name="next gen" tvg-logo="https://th.bing.com/th/id/R.68948106629af0accdbc46455de749ce?rik=rfyjndVjSvm50Q&pid=ImgRaw&r=0" group-title="VOD - AVENTURA",next gen
+#EXTINF:-1 tvg-id="" tvg-name="next gen" tvg-logo="https://image.tmdb.org/t/p/original/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg" group-title="VOD - AVENTURA",Next gen
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097787.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noah (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNVZ4ZZ5DgO9V0ylUCnP05iKJsq.jpg" group-title="VOD - AVENTURA",Noah (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Noah (2014)" tvg-logo="https://image.tmdb.org/t/p/original/vVLkHabnF5lVpCpqyhZBI5iCYMA.jpg" group-title="VOD - AVENTURA",Noah (2014)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097788.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Brother! (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oM0wyvrnEiNa3HyGlDO3nU7DtF.jpg" group-title="VOD - AVENTURA",O Brother! (2000)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097789.mkv
@@ -8805,7 +8816,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097800.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097801.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pasajeros  (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLMtX4MGl8WjKCPfMgCdDuceOth.jpg" group-title="VOD - AVENTURA",Pasajeros  (2016)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097802.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Pathfinder (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qW91Fa6dYPsV9ioOFUKFhyDE2p.jpg" group-title="VOD - AVENTURA",The Pathfinder (1952)
+#EXTINF:-1 tvg-id="" tvg-name="The Pathfinder (1952)" tvg-logo="https://image.tmdb.org/t/p/original/q3ZfXXGEZ0IHGK0WnyyksVeXJtw.jpg" group-title="VOD - AVENTURA",The Pathfinder (2007)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097803.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Paul (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bX8TP2qRWh2OcmeUHGn1ENDkCu6.jpg" group-title="VOD - AVENTURA",Paul (2011)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097804.mkv
@@ -8823,7 +8834,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097809.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097810.mkv
 #EXTINF:-1 tvg-id="" tvg-name="pie pequeño" tvg-logo="https://mx.web.img2.acsta.net/pictures/18/10/08/17/29/3296079.jpg" group-title="VOD - AVENTURA",pie pequeño
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097811.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pilgrimage (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1E00aA52Qm6Hgp6gniF9pxc2vx.jpg" group-title="VOD - AVENTURA",Pilgrimage (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Pilgrimage (2001)" tvg-logo="https://image.tmdb.org/t/p/original/lR5ilnIzIonItxL5mQPAPzXpwPJ.jpg" group-title="VOD - AVENTURA",Pilgrimage (2017)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097812.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Piratas del Caribe: En el fin del mundo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMXZQPJ3VnPR6IrD62OY9xqRK0n.jpg" group-title="VOD - SAGAS",Piratas del Caribe: En el fin del mundo (2007)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097813.mkv
@@ -8877,13 +8888,13 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1097838.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097839.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Robin Hood: Men In Tights - The Legend Had It Coming (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfMto2zlmHETpt5F9LCqBtfSLoF.jpg" group-title="VOD - AVENTURA",Robin Hood: Men In Tights - The Legend Had It Coming (1993)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Robo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JFUWCgFC9oLjlcMlmhrseFudS6.jpg" group-title="VOD - AVENTURA",Robo (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Robo (2019)" tvg-logo="https://image.tmdb.org/t/p/original/2b9opW0eZWbOVP3CEd7QnZE5KfZ.jpg" group-title="VOD - AVENTURA",Robo (2019)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097841.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cody, el robosapien (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPLjmGDuMN6szF16P6Iic0nJxDU.jpg" group-title="VOD - AVENTURA",Cody, el robosapien (2013)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097842.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lupin III: El castillo de Cagliostro (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pIZhSNcKSSc0u9venlWcGhaA7V.jpg" group-title="VOD - AVENTURA",Lupin III: El castillo de Cagliostro (1979)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samson and Delilah (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5BD4rNvGthCZSoJzJsIO8bQJhA.jpg" group-title="VOD - AVENTURA",Samson and Delilah (2009)
+#EXTINF:-1 tvg-id="" tvg-name="Samson and Delilah (2009)" tvg-logo="https://image.tmdb.org/t/p/original/d2AHCe6WzvshD7ucKuUWgugExjc.jpg" group-title="VOD - AVENTURA",Samson and Delilah (1949)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097844.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Santana (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rj8l6gElLpRL7Kj17iZhrT5Zuw.jpg" group-title="VOD - ACCION",Santana (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1097845.mkv
@@ -12111,7 +12122,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1099553.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1099554.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La maldición de Damien (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRia8oAQHOxpDTEGnTExsibROU.jpg" group-title="VOD - SUSPENSO",La maldición de Damien (1978)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1099555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ladronas de Almas (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTI2YjEwOGMtMmIwYi00OWU2LThkM2UtYjQyNzI4NWNmOGFmXkEyXkFqcGdeQXVyMjcyMTkwOQ@@._V1_.jpg" group-title="VOD - TERROR",Ladronas de Almas (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Ladronas de Almas (2015)" tvg-logo="https://image.tmdb.org/t/p/original/stpSYenK1TO8B2Dc2LUmKy7vtzD.jpg" group-title="VOD - TERROR",Ladronas de Almas (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1099556.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La marca del demonio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg" group-title="VOD - TERROR",La marca del demonio (2020)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1099557.mkv
@@ -14767,7 +14778,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1123211.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1123212.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Sadness - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhjLvPWcdFoCatk8rMhOYfAT44Q.jpg" group-title="VOD - ACCION",The Sadness - 2021
 http://23.137.84.107:8443/movie/soytrico/lolita214/1123255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Salem’s Lot (2004)" tvg-logo="https://unsoloclic.info/wp-content/uploads/2021/02/MV5BMTQzMzQ2Nzg5M15BMl5BanBnXkFtZTYwOTU1Mjk2._V1_FMjpg_UX404_1.jpg" group-title="VOD - TERROR",Salem’s Lot (2004)
+#EXTINF:-1 tvg-id="" tvg-name="Salem’s Lot (2004)" tvg-logo="https://image.tmdb.org/t/p/original/hcdFVK9CLsnHIF4mU1ITCmKXYMq.jpg" group-title="VOD - TERROR",Salem’s Lot (2004)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1123507.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Salem’s Lot (1979)" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F046%2F792%2Fel-misterio-de-salems-lot-1.jpg&nuevoancho=690&medio=abc" group-title="VOD - TERROR",Salem’s Lot (1979)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1123560.mkv
@@ -17203,7 +17214,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1178057.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1178221.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Totally killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK8XJCvxuN6BJ3dKbxyjrwDbR1M.jpg" group-title="VOD - TERROR",Totally killer (2023)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1178222.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bailarina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQeYXIZADDQqyJ3EsJNY7qWUbCL.jpg" group-title="VOD - CRIMEN",Bailarina (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Bailarina (2023)" tvg-logo="https://image.tmdb.org/t/p/original/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg" group-title="VOD - CRIMEN",Bailarina (2023)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1178223.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Juego limpio (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9DEQQTeNPLBQvy40AGdcoD3hGE.jpg" group-title="VOD - DRAMA",Juego limpio (2023)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1178224.mkv
@@ -20973,7 +20984,7 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1281933.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1281934.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hermandad: Estado de terror (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdyCFS4jUzp7kghoptaiYqir48X.jpg" group-title="VOD - ACCION",Hermandad: Estado de terror (2026)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1281936.mkv
-#EXTINF:-1 tvg-id="" tvg-name=" El precio de la violencia" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - ESTRENOS Y RECIENTES", El precio de la violencia
+#EXTINF:-1 tvg-id="" tvg-name=" El precio de la violencia" tvg-logo="https://image.tmdb.org/t/p/original/bRPI3ZLSPJehbnb1OCpWBVBBx0c.jpg" group-title="VOD - ESTRENOS Y RECIENTES", El precio de la violencia
 http://23.137.84.107:8443/movie/soytrico/lolita214/1282146.mkv
 #EXTINF:-1 tvg-id="" tvg-name=" Mutante: Destino sombrío (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKhOLSU0XlvPVE4m0hCMuJ2fFc4.jpg" group-title="VOD - CIENCIA FICCION", Mutante: Destino sombrío (2024)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1282147.mkv
@@ -20981,8 +20992,6 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1282147.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1282148.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los cantores rusos (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M70a76Y9IQbvzCb8bPCFRutKGD.jpg" group-title="VOD - MUSICALES",Los cantores rusos (2026)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1282149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Super Bowl  2026" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",Super Bowl  2026
-http://23.137.84.107:8443/movie/soytrico/lolita214/1282150.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El día que todo cambió (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/691eg5Ao7RKkr2QxwHcN2lQ37Dg.jpg" group-title="VOD - DRAMA",El día que todo cambió (2024)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1282433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El diablo en el camino (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zERfeG55esSxp9mjNClFKvtQIrt.jpg" group-title="VOD - DRAMA",El diablo en el camino (2025)
@@ -21059,40 +21068,12 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1286196.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1286197.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acusada (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkQJz9mhx9JHQbs8uRN86S6r4Ko.jpg" group-title="VOD - SUSPENSO",Acusada (2026)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1286198.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - PARODISTAS CABALLEROS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - PARODISTAS CABALLEROS 
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA CAYO LA CABRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA CAYO LA CABRA
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - HUMORISTAS CYRANOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - HUMORISTAS CYRANOS
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA FALTA Y RESTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA FALTA Y RESTO
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - REVISTA LA COMPAÑIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - REVISTA LA COMPAÑIA
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA LA TRASNOCHADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA LA TRASNOCHADA
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - PARODISTAS MOMOSAPIENS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - PARODISTAS MOMOSAPIENS
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA UN TITULO VIEJO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA UN TITULO VIEJO
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - SOCIEDAD DE NEGROS Y LUBOLOS VALORES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - SOCIEDAD DE NEGROS Y LUBOLOS VALORES
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286207.mp4
 #EXTINF:-1 tvg-id="" tvg-name="En un instante (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN130HxJYMXPDEIO03wtpdhwj6K.jpg" group-title="VOD - DRAMA",En un instante (2026)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1286483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA LA NUEVA MILONGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA LA NUEVA MILONGA
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - REVISTA MADAME GOTICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - REVISTA MADAME GOTICA
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - PARODISTAS ZINGAROS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - PARODISTAS ZINGAROS
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286488.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jerarquia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVq24NkOn98nrSEAFphnRWVWNd.jpg" group-title="VOD - ACCION",Jerarquia (2025)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1286489.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gladiadores (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg" group-title="VOD - ACCION",Gladiadores (2025)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1286490.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nacional Vs Peñarol 01-03-2026 Apertura" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",Nacional Vs Peñarol 01-03-2026 Apertura
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA LOS PATOS CABREROS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA LOS PATOS CABREROS
-http://23.137.84.107:8443/movie/soytrico/lolita214/1286827.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los domingos (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwpDm6qtON8pLCSY0C8MltMofEE.jpg" group-title="VOD - DRAMA",Los domingos (2025)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1286917.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Clika (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIbx6Lr1ENz1QxAvyUAWL5kWbVG.jpg" group-title="VOD - DRAMA",Clika (2026)
@@ -21107,30 +21088,8 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1286924.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1286925.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Anaconda 4k  (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg" group-title=" VOD - 4K",Anaconda 4k  (2025)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1286926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - HUMORISTAS SOCIEDAD ANONIMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - HUMORISTAS SOCIEDAD ANONIMA
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287102.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El agente secreto (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fB0uqqzq6mSuAZQBvDDpx9JfA6v.jpg" group-title="VOD - CRIMEN",El agente secreto (2025)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1287103.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - HUMORISTAS LOS ROLIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - HUMORISTAS LOS ROLIN
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA DOÑA BASTARDA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA DOÑA BASTARDA
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA DIABLOS VERDES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA DIABLOS VERDES
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - SOCIEDAD DE NEGROS Y LUBOLOS INTEGRACION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - SOCIEDAD DE NEGROS Y LUBOLOS INTEGRACION
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - SOCIEDAD DE NEGROS Y LUBOLOS LA SARA DEL CORDON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - SOCIEDAD DE NEGROS Y LUBOLOS LA SARA DEL CORDON
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA PATOS CABREROS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA PATOS CABREROS
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - MURGA QUESO MAGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - MURGA QUESO MAGRO
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - REVISTA TABU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - REVISTA TABU
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - SOCIEDAD DE NEGROS Y LUBOLOS YAMBO KENIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - SOCIEDAD DE NEGROS Y LUBOLOS YAMBO KENIA
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CARNAVAL 2026 - PARODISTAS LOS MUCHACHOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JWfa_ctXxkLvc4yOkeaO35u09hCaQndY7Q&s" group-title="VOD - EVENTOS DEPORTIVOS Y MÁS",CARNAVAL 2026 - PARODISTAS LOS MUCHACHOS
-http://23.137.84.107:8443/movie/soytrico/lolita214/1287302.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kill Bill: Todo el sangriento asunto (2025)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/65oC5uzlhZpKVXVdGkUp1dxWZyK.jpg" group-title="VOD - ACCION",Kill Bill: Todo el sangriento asunto (2025)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1287303.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vida privada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FGnuUdNLcdYtDjg3XP69ejXEhq.jpg" group-title="VOD - CRIMEN",Vida privada (2025)
@@ -21773,7 +21732,6 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1311565.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1311810.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El desconocido (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRaBBPb2YyVJW5qNSC7DmrICE7B.jpg" group-title="VOD - SUSPENSO",El desconocido (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1311831.mkv
-
 
 
 
