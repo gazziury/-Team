@@ -1,5 +1,32 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/i7FE6qoqzLKxp2FA9y4tuIP72rk.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Moana (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/3XWJwBfa4zzki6rkiBVu6vUX3aU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los Extraños: Capítulo 3 (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zBwSaw3sEwqH9vSijiPbUdbHNQz.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Moscas (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/zPVWOGE2kSU7GjGNazkdwhkq6Yn.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Olmo (2026)
+http://23.137.84.107:59000/movie/soytrico/lolita214/1312734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yOtIiIqKVlg5QH0pF88kJSI6c6K.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Una mujer sin pasado (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El último gran guerrero (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Mongoose (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Mayday (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/eF1wxjqwxlhTDGp3npbjSLitTHW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Instadocs: El avión señuelo (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Gandhari (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/360qdtu2hLnqMu8SVHMywn420w1.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Batman: Knightfall parte 1: Knightfall (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/5Olp4wGl2XEGkjVebukgZljYW3Q.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Fito Páez: El mundo cabe en una canción (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/fQTACeQLpFoMUqYitxY0DMzfQu9.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Bajo tus pies (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/AdqYIxkoUbQUgB67lRpvmMCDZmh.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Insidious: Fuera del más allá (2026)
+http://23.137.84.107:8443/movie/soytrico/lolita214/1312516.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Carrera contra el tiempo (2026)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1312010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Just play dead (2026)
@@ -21732,19 +21759,6 @@ http://23.137.84.107:8443/movie/soytrico/lolita214/1311565.mkv
 http://23.137.84.107:8443/movie/soytrico/lolita214/1311810.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El desconocido (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRaBBPb2YyVJW5qNSC7DmrICE7B.jpg" group-title="VOD - SUSPENSO",El desconocido (2015)
 http://23.137.84.107:8443/movie/soytrico/lolita214/1311831.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
