@@ -17,11 +17,17 @@ http://23.137.84.107:8443/live/soytrico/lolita214/1285661.ts
 http://23.137.84.107:8443/live/soytrico/lolita214/1285662.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 3
 http://23.137.84.107:8443/live/soytrico/lolita214/1285663.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",EXTRA
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",PRINCIPAL
+http://23.137.84.107:8443/live/robertogarci4/017261/1285296.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",MULTICÁMARA
+http://23.137.84.107:8443/live/robertogarci4/017261/1285664.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 1
+http://23.137.84.107:8443/live/robertogarci4/017261/1285661.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 2
+http://23.137.84.107:8443/live/robertogarci4/017261/1285662.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 3
+http://23.137.84.107:8443/live/robertogarci4/017261/1285663.ts
 
 
 
