@@ -6,6 +6,19 @@ ESSA LISTA E DE USO PARTICULAR... NAO VENDEMOS Y NAO TEMOS SERVIDOR PROPIO... TO
 #EXTINF:-1 tvg-logo="http://i.ibb.co/C3fmCjk8/20250308-203943.jpg" group-title="TEAM VIP",REALITY GRATIS
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/newr7/L6UHKWVUU5EX3BTTUUA5VF47QU.jpg" group-title="A FAZENDA (BRASIL) 1",CAM 1
+http://emsatonline.club:80/joana1407/Ja14072025/397320.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/newr7/L6UHKWVUU5EX3BTTUUA5VF47QU.jpg" group-title="A FAZENDA (BRASIL) 1",CAM 2
+http://emsatonline.club:80/joana1407/Ja14072025/397321.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/newr7/L6UHKWVUU5EX3BTTUUA5VF47QU.jpg" group-title="A FAZENDA (BRASIL) 1",CAM 3
+http://emsatonline.club:80/joana1407/Ja14072025/397322.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/newr7/L6UHKWVUU5EX3BTTUUA5VF47QU.jpg" group-title="A FAZENDA (BRASIL) 1",CAM 4
+http://emsatonline.club:80/joana1407/Ja14072025/397323.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/newr7/L6UHKWVUU5EX3BTTUUA5VF47QU.jpg" group-title="A FAZENDA (BRASIL) 1",CAM 5
+http://emsatonline.club:80/joana1407/Ja14072025/397324.ts
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",PRINCIPAL
 http://23.137.84.107:8443/live/soytrico/lolita214/1285296.ts
