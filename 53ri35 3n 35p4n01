@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-http://series.tuxchannel.mx/series/lanterns/s_01_e_02.mkv... 8
+Linternas 5... 8
 
 http://series.tuxchannel.mx/series/reacher/s_04_e_05.mkv... 8
 
@@ -5870,6 +5870,869 @@ http://23.137.84.107:8443/series/soytrico/lolita214/1183885.mkv
 http://23.137.84.107:8443/series/soytrico/lolita214/1183886.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/24/20/57/3405849.jpg" group-title="La rueda del tiempo",Cap. 08
 http://23.137.84.107:8443/series/soytrico/lolita214/1183889.mkv
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1310244.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1310245.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1310246.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1310247.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1310248.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1310249.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1310250.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1310251.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1310252.mkv
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/J3RqFIL.jpeg" group-title="Las Azules",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1310253.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFGAdH9e93tLTe9jEYVI4vggd5U.jpg" group-title="Las brujas de Mayfair T1",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1170570.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFGAdH9e93tLTe9jEYVI4vggd5U.jpg" group-title="Las brujas de Mayfair T1",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1170571.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFGAdH9e93tLTe9jEYVI4vggd5U.jpg" group-title="Las brujas de Mayfair T1",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1170572.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFGAdH9e93tLTe9jEYVI4vggd5U.jpg" group-title="Las brujas de Mayfair T1",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1170573.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFGAdH9e93tLTe9jEYVI4vggd5U.jpg" group-title="Las brujas de Mayfair T1",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1170574.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFGAdH9e93tLTe9jEYVI4vggd5U.jpg" group-title="Las brujas de Mayfair T1",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1170575.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFGAdH9e93tLTe9jEYVI4vggd5U.jpg" group-title="Las brujas de Mayfair T1",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1170576.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFGAdH9e93tLTe9jEYVI4vggd5U.jpg" group-title="Las brujas de Mayfair T1",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1170577.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pf2ULmWK1EeVf55hryyCz3nKZNj.jpg" group-title="Las cuatro estaciones T1",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1242525.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pf2ULmWK1EeVf55hryyCz3nKZNj.jpg" group-title="Las cuatro estaciones T1",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1242526.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pf2ULmWK1EeVf55hryyCz3nKZNj.jpg" group-title="Las cuatro estaciones T1",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1242527.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pf2ULmWK1EeVf55hryyCz3nKZNj.jpg" group-title="Las cuatro estaciones T1",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1242528.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pf2ULmWK1EeVf55hryyCz3nKZNj.jpg" group-title="Las cuatro estaciones T1",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1242529.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pf2ULmWK1EeVf55hryyCz3nKZNj.jpg" group-title="Las cuatro estaciones T1",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1242530.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pf2ULmWK1EeVf55hryyCz3nKZNj.jpg" group-title="Las cuatro estaciones T1",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1242531.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pf2ULmWK1EeVf55hryyCz3nKZNj.jpg" group-title="Las cuatro estaciones T1",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1242532.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1232489.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1232490.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1232491.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1232492.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1232493.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1232494.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1232495.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1232496.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1232497.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1232498.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1232499.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1232500.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1232501.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 14
+http://23.137.84.107:8443/series/soytrico/lolita214/1232502.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 15
+http://23.137.84.107:8443/series/soytrico/lolita214/1232503.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 16
+http://23.137.84.107:8443/series/soytrico/lolita214/1232504.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 17
+http://23.137.84.107:8443/series/soytrico/lolita214/1232505.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 18
+http://23.137.84.107:8443/series/soytrico/lolita214/1232506.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 19
+http://23.137.84.107:8443/series/soytrico/lolita214/1232507.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xALatPMF1uWObnCV9ddCuFMmJMu.jpg" group-title="Las hermanas Guerra",Cap. 20
+http://23.137.84.107:8443/series/soytrico/lolita214/1232508.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nXze4Ya0DhcnF3qeypE0b7X1DZ5.jpg" group-title="Las maldiciones",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1255775.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nXze4Ya0DhcnF3qeypE0b7X1DZ5.jpg" group-title="Las maldiciones",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1255776.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nXze4Ya0DhcnF3qeypE0b7X1DZ5.jpg" group-title="Las maldiciones",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1255777.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhekXJx8MCKWJPETh68jitvIMGn.jpg" group-title="Las muertas",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1256684.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhekXJx8MCKWJPETh68jitvIMGn.jpg" group-title="Las muertas",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1256685.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhekXJx8MCKWJPETh68jitvIMGn.jpg" group-title="Las muertas",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1256686.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhekXJx8MCKWJPETh68jitvIMGn.jpg" group-title="Las muertas",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1256687.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhekXJx8MCKWJPETh68jitvIMGn.jpg" group-title="Las muertas",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1256688.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhekXJx8MCKWJPETh68jitvIMGn.jpg" group-title="Las muertas",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1256689.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7smYcoulvWaavIHZgBqJjHVZUG.jpg" group-title="Las pelotaris 1926",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1161321.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7smYcoulvWaavIHZgBqJjHVZUG.jpg" group-title="Las pelotaris 1926",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1161322.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7smYcoulvWaavIHZgBqJjHVZUG.jpg" group-title="Las pelotaris 1926",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1161323.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7smYcoulvWaavIHZgBqJjHVZUG.jpg" group-title="Las pelotaris 1926",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1161324.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7smYcoulvWaavIHZgBqJjHVZUG.jpg" group-title="Las pelotaris 1926",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1161325.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7smYcoulvWaavIHZgBqJjHVZUG.jpg" group-title="Las pelotaris 1926",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1161326.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7smYcoulvWaavIHZgBqJjHVZUG.jpg" group-title="Las pelotaris 1926",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1161327.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x7smYcoulvWaavIHZgBqJjHVZUG.jpg" group-title="Las pelotaris 1926",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1161328.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1POTKLnnN4bNskCDeYCLWXtOEgV.jpg" group-title="La tierra del pecado",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1274505.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1POTKLnnN4bNskCDeYCLWXtOEgV.jpg" group-title="La tierra del pecado",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1274506.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1POTKLnnN4bNskCDeYCLWXtOEgV.jpg" group-title="La tierra del pecado",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1274507.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1POTKLnnN4bNskCDeYCLWXtOEgV.jpg" group-title="La tierra del pecado",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1274508.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tiuHh535qjHLNpjghblGqGk4iNv.jpg" group-title="La tierra permanece",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1248935.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tiuHh535qjHLNpjghblGqGk4iNv.jpg" group-title="La tierra permanece",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1248936.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tiuHh535qjHLNpjghblGqGk4iNv.jpg" group-title="La tierra permanece",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1248937.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tiuHh535qjHLNpjghblGqGk4iNv.jpg" group-title="La tierra permanece",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1248938.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tiuHh535qjHLNpjghblGqGk4iNv.jpg" group-title="La tierra permanece",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1248939.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tiuHh535qjHLNpjghblGqGk4iNv.jpg" group-title="La tierra permanece",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1248940.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1228723.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1228724.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1228725.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1228726.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1228727.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1228728.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1228729.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1228730.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1228731.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1228732.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1228733.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1228734.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1228735.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 14
+http://23.137.84.107:8443/series/soytrico/lolita214/1228736.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 15
+http://23.137.84.107:8443/series/soytrico/lolita214/1228737.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bULKxDY88WNWsKedNTSfLtmmiER.jpg" group-title="Legacies T1",Cap. 16
+http://23.137.84.107:8443/series/soytrico/lolita214/1228738.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1228739.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1228740.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1228741.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1228742.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1228743.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1228744.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1228745.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1228746.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1228747.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1228748.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1228749.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1228750.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1228751.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 14
+http://23.137.84.107:8443/series/soytrico/lolita214/1228752.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 15
+http://23.137.84.107:8443/series/soytrico/lolita214/1228753.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2AtgynwPnn5GS4bG8ZAHxewmaFu.jpg" group-title="Legacies T2",Cap. 16
+http://23.137.84.107:8443/series/soytrico/lolita214/1228754.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1228755.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1228756.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1228757.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1228758.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1228759.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1228760.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1228761.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1228762.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1228763.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1228764.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1228765.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1228766.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1228767.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 14
+http://23.137.84.107:8443/series/soytrico/lolita214/1228768.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 15
+http://23.137.84.107:8443/series/soytrico/lolita214/1228769.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg" group-title="Legacies T3",Cap. 16
+http://23.137.84.107:8443/series/soytrico/lolita214/1228770.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1228771.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1228772.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1228773.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1228774.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1228775.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1228776.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1228777.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1228778.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1228779.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1228780.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1228781.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1228782.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1228783.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 14
+http://23.137.84.107:8443/series/soytrico/lolita214/1228784.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 15
+http://23.137.84.107:8443/series/soytrico/lolita214/1228785.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 16
+http://23.137.84.107:8443/series/soytrico/lolita214/1228786.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 17
+http://23.137.84.107:8443/series/soytrico/lolita214/1228787.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 18
+http://23.137.84.107:8443/series/soytrico/lolita214/1228788.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 19
+http://23.137.84.107:8443/series/soytrico/lolita214/1228789.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg" group-title="Legacies T4",Cap. 20
+http://23.137.84.107:8443/series/soytrico/lolita214/1228790.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ulQvYKdPtBILaXXEFnglPTmLvJZ.jpg" group-title="Legado",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1244228.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ulQvYKdPtBILaXXEFnglPTmLvJZ.jpg" group-title="Legado",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1244229.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ulQvYKdPtBILaXXEFnglPTmLvJZ.jpg" group-title="Legado",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1244230.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ulQvYKdPtBILaXXEFnglPTmLvJZ.jpg" group-title="Legado",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1244231.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ulQvYKdPtBILaXXEFnglPTmLvJZ.jpg" group-title="Legado",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1244232.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ulQvYKdPtBILaXXEFnglPTmLvJZ.jpg" group-title="Legado",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1244233.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ulQvYKdPtBILaXXEFnglPTmLvJZ.jpg" group-title="Legado",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1244234.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ulQvYKdPtBILaXXEFnglPTmLvJZ.jpg" group-title="Legado",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1244235.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sau4shfuivm2ETGxLkMUgJSPqc5.jpg" group-title="Legion T1",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1106380.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sau4shfuivm2ETGxLkMUgJSPqc5.jpg" group-title="Legion T1",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1106381.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sau4shfuivm2ETGxLkMUgJSPqc5.jpg" group-title="Legion T1",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1106382.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sau4shfuivm2ETGxLkMUgJSPqc5.jpg" group-title="Legion T1",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1106383.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sau4shfuivm2ETGxLkMUgJSPqc5.jpg" group-title="Legion T1",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1106384.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sau4shfuivm2ETGxLkMUgJSPqc5.jpg" group-title="Legion T1",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1106385.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sau4shfuivm2ETGxLkMUgJSPqc5.jpg" group-title="Legion T1",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1106386.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sau4shfuivm2ETGxLkMUgJSPqc5.jpg" group-title="Legion T1",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1106387.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1106388.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1106389.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1106390.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1106391.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1106392.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1106393.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1106394.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1106395.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1106396.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1106397.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5oB9PomJ6WBpB70C8diMTx1Jkjs.jpg" group-title="Legion T2",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1106398.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9gYsrny4tUnG9lGLxfAluuCVw5g.jpg" group-title="Legion T3",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1106399.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9gYsrny4tUnG9lGLxfAluuCVw5g.jpg" group-title="Legion T3",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1106400.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9gYsrny4tUnG9lGLxfAluuCVw5g.jpg" group-title="Legion T3",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1106401.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9gYsrny4tUnG9lGLxfAluuCVw5g.jpg" group-title="Legion T3",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1106402.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9gYsrny4tUnG9lGLxfAluuCVw5g.jpg" group-title="Legion T3",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1106403.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9gYsrny4tUnG9lGLxfAluuCVw5g.jpg" group-title="Legion T3",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1106404.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9gYsrny4tUnG9lGLxfAluuCVw5g.jpg" group-title="Legion T3",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1106405.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9gYsrny4tUnG9lGLxfAluuCVw5g.jpg" group-title="Legion T3",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1106406.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1300983.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1300984.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1300985.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1300986.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1300987.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c3f8mSBBytggoUfd8gRT3CYRhI4.jpg" group-title="Leyendas",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1300988.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gpC7h43xPMEV3goYMQShfJbTtLq.jpg" group-title="Linternas",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1310085.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gpC7h43xPMEV3goYMQShfJbTtLq.jpg" group-title="Linternas",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1310956.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gpC7h43xPMEV3goYMQShfJbTtLq.jpg" group-title="Linternas",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1311807.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gpC7h43xPMEV3goYMQShfJbTtLq.jpg" group-title="Linternas",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1312732.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gpC7h43xPMEV3goYMQShfJbTtLq.jpg" group-title="Linternas",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1313706.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg" group-title="Loki T1",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1113053.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg" group-title="Loki T1",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1113054.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg" group-title="Loki T1",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1113051.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg" group-title="Loki T1",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1113052.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg" group-title="Loki T1",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1114868.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg" group-title="Loki T1",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1114869.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg" group-title="Loki T2",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1178055.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg" group-title="Loki T2",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1178594.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg" group-title="Loki T2",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1179222.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg" group-title="Loki T2",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1180219.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg" group-title="Loki T2",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1185661.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg" group-title="Loki T2",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1185660.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1072137.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1072138.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1072139.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1072140.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1072141.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1072142.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1072143.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1072144.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1072145.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1072146.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1072147.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1072148.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jAsSkxSGEjeEEHL3KiWXr3NwyPG.jpg" group-title="Los 100 T1",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1072149.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1072158.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1072153.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1072163.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1072154.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1072157.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1072151.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1072164.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1072155.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1072152.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1072162.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1072159.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1072165.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1072160.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 14
+http://23.137.84.107:8443/series/soytrico/lolita214/1072150.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 15
+http://23.137.84.107:8443/series/soytrico/lolita214/1072161.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4ngujsHppz4Imxh7qf9NQIIMlLY.jpg" group-title="Los 100 T2",Cap. 16
+http://23.137.84.107:8443/series/soytrico/lolita214/1072156.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1072170.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1072178.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1072168.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1072179.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1072180.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1072167.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1072171.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1072172.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1072177.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1072181.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1072169.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1072175.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1072166.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 14
+http://23.137.84.107:8443/series/soytrico/lolita214/1072173.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 15
+http://23.137.84.107:8443/series/soytrico/lolita214/1072176.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayebqASxTXVSo9Qoug6M5YowZS0.jpg" group-title="Los 100 T3",Cap. 16
+http://23.137.84.107:8443/series/soytrico/lolita214/1072174.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1072183.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1072193.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1072190.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1072191.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1072184.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1072189.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1072188.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1072192.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1072186.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1072187.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1072182.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1072185.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qCdJvikZUQkr4sOVYNkKHntRfha.jpg" group-title="Los 100 T4",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1072194.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1072201.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1072199.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1072204.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1072197.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1072195.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1072205.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1072206.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1072196.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1072207.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1072200.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1072203.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1072198.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oYhQz0jHC3pgJKNMyKXiLKauQUC.jpg" group-title="Los 100 T5",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1072202.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1072213.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1072214.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1072216.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1072218.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1072217.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1072210.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1072209.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1072211.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1072212.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1072220.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1072219.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1072208.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wBzNjurA8ijJPF21Ggs9nbviIzi.jpg" group-title="Los 100 T6",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1072215.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1072224.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1072233.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1072231.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1072221.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1072232.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1072235.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1072230.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1072223.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1072228.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1072229.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1072225.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1072222.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 13
+http://23.137.84.107:8443/series/soytrico/lolita214/1072227.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 14
+http://23.137.84.107:8443/series/soytrico/lolita214/1072234.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 15
+http://23.137.84.107:8443/series/soytrico/lolita214/1072226.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xLOEWox9zuvzDbDdODP92RnQtjO.jpg" group-title="Los 100 T7",Cap. 16
+http://23.137.84.107:8443/series/soytrico/lolita214/1072236.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" group-title="Los Farad",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1270184.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" group-title="Los Farad",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1270185.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" group-title="Los Farad",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1270186.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" group-title="Los Farad",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1270187.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" group-title="Los Farad",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1270188.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" group-title="Los Farad",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1270189.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" group-title="Los Farad",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1270190.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg" group-title="Los Farad",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1270191.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1248245.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1248246.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1248247.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1248248.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1248249.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1248250.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1248251.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1248252.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1248253.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1248254.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 11
+http://23.137.84.107:8443/series/soytrico/lolita214/1248255.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2ZsZMe1KhSFgyzf6AQTkG7kGhu3.jpg" group-title="Los gringo hunters",Cap. 12
+http://23.137.84.107:8443/series/soytrico/lolita214/1248256.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg" group-title="Los ojos de Wakanda",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1250545.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg" group-title="Los ojos de Wakanda",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1250546.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg" group-title="Los ojos de Wakanda",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1250547.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yuOfb1MgnaGPa4guzV0n1IFYVGN.jpg" group-title="Los ojos de Wakanda",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1250548.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1215825.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1215826.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1215827.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1215828.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1215829.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1215830.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1215831.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1215832.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1215833.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwPvgZM6IgCZjTZjea7kpJa2N2j.jpg" group-title="Los que están a punto de morir",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1215834.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1295630.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1295631.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1295632.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1296527.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1297453.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1298539.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1299436.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1300148.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1300971.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xBtLGccaICHoxy1PhBdePO5IgdA.jpg" group-title="Los testamentos",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1301756.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1306208.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1306209.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1307181.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1307526.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1308439.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1309595.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg" group-title="Lucky",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1310257.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1299413.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1299414.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1299415.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1299416.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/02/16/26/3665868.jpg" group-title="Lupin T1",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1299417.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/11/55/5007531.jpg" group-title="Lupin T2",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1299418.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/11/55/5007531.jpg" group-title="Lupin T2",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1299419.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/11/55/5007531.jpg" group-title="Lupin T2",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1299420.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/11/55/5007531.jpg" group-title="Lupin T2",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1299421.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/11/55/5007531.jpg" group-title="Lupin T2",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1299422.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/paY2sozObeIErsBq3QKz7O2ZIM8.jpg" group-title="Lupin T3",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1299423.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/paY2sozObeIErsBq3QKz7O2ZIM8.jpg" group-title="Lupin T3",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1299424.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/paY2sozObeIErsBq3QKz7O2ZIM8.jpg" group-title="Lupin T3",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1299425.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/paY2sozObeIErsBq3QKz7O2ZIM8.jpg" group-title="Lupin T3",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1299426.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/paY2sozObeIErsBq3QKz7O2ZIM8.jpg" group-title="Lupin T3",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1299427.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/paY2sozObeIErsBq3QKz7O2ZIM8.jpg" group-title="Lupin T3",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1299428.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/paY2sozObeIErsBq3QKz7O2ZIM8.jpg" group-title="Lupin T3",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1299429.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1234579.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1234580.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1234581.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1234582.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1234583.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1234584.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1234585.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1234586.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1234587.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vBeXZhh4gbk3zBEyBtaPDFMtTSV.jpg" group-title="Machos alfa T1",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1234588.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1234589.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1234590.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1234591.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1234592.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1234593.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1234594.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1234595.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1234596.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1234597.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yGalvIjQOBiEPalNawxrnuZayOY.jpg" group-title="Machos alfa T2",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1234598.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1231288.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1231289.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1231290.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1231291.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1231292.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1231293.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1231294.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1231295.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 09
+http://23.137.84.107:8443/series/soytrico/lolita214/1231296.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/68rLdi5BYypFvVHzY0QBylJCchE.jpg" group-title="Machos alfa T3",Cap. 10
+http://23.137.84.107:8443/series/soytrico/lolita214/1231297.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kwjEBk0ZBG8ryqszxrf0aIsqO07.jpg" group-title="Machos alfa T4",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1275460.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kwjEBk0ZBG8ryqszxrf0aIsqO07.jpg" group-title="Machos alfa T4",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1275461.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kwjEBk0ZBG8ryqszxrf0aIsqO07.jpg" group-title="Machos alfa T4",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1275462.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kwjEBk0ZBG8ryqszxrf0aIsqO07.jpg" group-title="Machos alfa T4",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1275463.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kwjEBk0ZBG8ryqszxrf0aIsqO07.jpg" group-title="Machos alfa T4",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1275464.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kwjEBk0ZBG8ryqszxrf0aIsqO07.jpg" group-title="Machos alfa T4",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1275465.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fH1ezEIDo2YznbqwIu5z1HETde1.jpg" group-title="Machos alfa T5",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1297324.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fH1ezEIDo2YznbqwIu5z1HETde1.jpg" group-title="Machos alfa T5",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1297325.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fH1ezEIDo2YznbqwIu5z1HETde1.jpg" group-title="Machos alfa T5",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1297326.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fH1ezEIDo2YznbqwIu5z1HETde1.jpg" group-title="Machos alfa T5",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1297327.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fH1ezEIDo2YznbqwIu5z1HETde1.jpg" group-title="Machos alfa T5",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1297328.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fH1ezEIDo2YznbqwIu5z1HETde1.jpg" group-title="Machos alfa T5",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1297329.mkv
+
+
+
 
 
 
