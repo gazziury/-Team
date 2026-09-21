@@ -8,6 +8,31 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 1",PRINCIPAL
+http://23.137.84.107:8443/live/soytrico/lolita214/1285296.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 1",MULTICÁMARA
+http://23.137.84.107:8443/live/soytrico/lolita214/1285664.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 1",CAM 1
+http://23.137.84.107:8443/live/soytrico/lolita214/1285661.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 1",CAM 2
+http://23.137.84.107:8443/live/soytrico/lolita214/1285662.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 1",CAM 3
+http://23.137.84.107:8443/live/soytrico/lolita214/1285663.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",PRINCIPAL
+http://23.137.84.107:8443/live/robertogarci4/017261/1285296.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",MULTICÁMARA
+http://23.137.84.107:8443/live/robertogarci4/017261/1285664.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",CAM 1
+http://23.137.84.107:8443/live/robertogarci4/017261/1285661.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",CAM 2
+http://23.137.84.107:8443/live/robertogarci4/017261/1285662.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",CAM 3
+http://23.137.84.107:8443/live/robertogarci4/017261/1285663.ts
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/newr7/L6UHKWVUU5EX3BTTUUA5VF47QU.jpg" group-title="A FAZENDA (BRASIL) 1",CAM 1
 http://opcional.eu/166143/ayn9B5/397320.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/newr7/L6UHKWVUU5EX3BTTUUA5VF47QU.jpg" group-title="A FAZENDA (BRASIL) 1",CAM 2
@@ -41,30 +66,6 @@ http://opcional.eu/joana1407/Ja14072025/397323.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/newr7/L6UHKWVUU5EX3BTTUUA5VF47QU.jpg" group-title="A FAZENDA (BRASIL) 3",CAM 5
 http://opcional.eu/joana1407/Ja14072025/397324.ts
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",PRINCIPAL
-http://23.137.84.107:8443/live/soytrico/lolita214/1285296.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",MULTICÁMARA
-http://23.137.84.107:8443/live/soytrico/lolita214/1285664.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 1
-http://23.137.84.107:8443/live/soytrico/lolita214/1285661.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 2
-http://23.137.84.107:8443/live/soytrico/lolita214/1285662.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 1",CAM 3
-http://23.137.84.107:8443/live/soytrico/lolita214/1285663.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",PRINCIPAL
-http://23.137.84.107:8443/live/robertogarci4/017261/1285296.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",MULTICÁMARA
-http://23.137.84.107:8443/live/robertogarci4/017261/1285664.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 1
-http://23.137.84.107:8443/live/robertogarci4/017261/1285661.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 2
-http://23.137.84.107:8443/live/robertogarci4/017261/1285662.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="EL GRAN HERMANO (ARGENTINA) 2",CAM 3
-http://23.137.84.107:8443/live/robertogarci4/017261/1285663.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://katzedesign.com/portfolio/wp-content/uploads/2024/04/Asset-2.png" group-title="LA CASA DE LOS FAMOSOS (MEXICO) 1",ACCESO TOTAL
 http://23.137.84.107:8443/soytrico/lolita214/1303202
