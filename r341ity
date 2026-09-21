@@ -31,14 +31,25 @@ http://23.137.84.107:8443/live/robertogarci4/017261/1285662.ts
 http://23.137.84.107:8443/live/robertogarci4/017261/1285663.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 3",PRINCIPAL
-http://nousplayer.io/ger2842/g3351/1285296
+http://nousplayer.io/osvaldoserga/os4112021/1285296
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 3",MULTICÁMARA
-http://nousplayer.io/ger2842/g3351/1285664
+http://nousplayer.io/osvaldoserga/os4112021/1285664
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 3",CAM 1
-http://nousplayer.io/ger2842/g3351/1285661
+http://nousplayer.io/osvaldoserga/os4112021/1285661
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 3",CAM 2
-http://nousplayer.io/ger2842/g3351/1285662
+http://nousplayer.io/osvaldoserga/os4112021/1285662
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 3",CAM 3
+http://nousplayer.io/osvaldoserga/os4112021/1285663
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 4",PRINCIPAL
+http://nousplayer.io/ger2842/g3351/1285296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 4",MULTICÁMARA
+http://nousplayer.io/ger2842/g3351/1285664
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 4",CAM 1
+http://nousplayer.io/ger2842/g3351/1285661
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 4",CAM 2
+http://nousplayer.io/ger2842/g3351/1285662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 4",CAM 3
 http://nousplayer.io/ger2842/g3351/1285663
 
 
