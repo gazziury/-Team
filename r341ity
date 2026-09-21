@@ -18,6 +18,8 @@ http://23.137.84.107:8443/live/soytrico/lolita214/1285661.ts
 http://23.137.84.107:8443/live/soytrico/lolita214/1285662.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 1",CAM 3
 http://23.137.84.107:8443/live/soytrico/lolita214/1285663.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/d/db/Canal10Plano_Azul.png" group-title="EL GRAN HERMANO (URUGUAY) 1",CANAL 10
+http://23.137.84.107:8443/live/soytrico/lolita214/1218122
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",PRINCIPAL
 http://23.137.84.107:8443/live/robertogarci4/017261/1285296.ts
@@ -29,6 +31,8 @@ http://23.137.84.107:8443/live/robertogarci4/017261/1285661.ts
 http://23.137.84.107:8443/live/robertogarci4/017261/1285662.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",CAM 3
 http://23.137.84.107:8443/live/robertogarci4/017261/1285663.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/d/db/Canal10Plano_Azul.png" group-title="EL GRAN HERMANO (URUGUAY) 2",CANAL 10
+http://23.137.84.107:8443/robertogarci4/017261/1218122
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 3",PRINCIPAL
 http://nousplayer.io/osvaldoserga/os4112021/1285296
@@ -40,6 +44,8 @@ http://nousplayer.io/osvaldoserga/os4112021/1285661
 http://nousplayer.io/osvaldoserga/os4112021/1285662
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 3",CAM 3
 http://nousplayer.io/osvaldoserga/os4112021/1285663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/d/db/Canal10Plano_Azul.png" group-title="EL GRAN HERMANO (URUGUAY) 3",CANAL 10
+http://nousplayer.io/osvaldoserga/os4112021/1218122
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 4",PRINCIPAL
 http://nousplayer.io/ger2842/g3351/1285296
@@ -51,6 +57,8 @@ http://nousplayer.io/ger2842/g3351/1285661
 http://nousplayer.io/ger2842/g3351/1285662
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 4",CAM 3
 http://nousplayer.io/ger2842/g3351/1285663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/la-logoteca-oriental/images/d/db/Canal10Plano_Azul.png" group-title="EL GRAN HERMANO (URUGUAY) 4",CANAL 10
+http://nousplayer.io/ger2842/g3351/1218122
 
 
 
