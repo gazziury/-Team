@@ -6,6 +6,26 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 01
+http://opcional.eu/series/joana1407/Ja14072025/159320.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 02
+http://opcional.eu/series/joana1407/Ja14072025/159321.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 03
+http://opcional.eu/series/joana1407/Ja14072025/159322.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 04
+http://opcional.eu/series/joana1407/Ja14072025/159323.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 05
+http://opcional.eu/series/joana1407/Ja14072025/159324.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 06
+http://opcional.eu/series/joana1407/Ja14072025/159325.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 07
+http://opcional.eu/series/joana1407/Ja14072025/159326.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 08
+http://opcional.eu/series/joana1407/Ja14072025/159327.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 09
+http://opcional.eu/series/joana1407/Ja14072025/159328.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" group-title="1883",Cap. 10
+http://opcional.eu/series/joana1407/Ja14072025/159329.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 01
 http://opcional.eu/series/joana1407/Ja14072025/186492.mp4
@@ -671,6 +691,118 @@ http://opcional.eu/series/joana1407/Ja14072025/199637.mp4
 http://opcional.eu/series/joana1407/Ja14072025/199638.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/67NGCkX3EUg5yY785cQ50zqyw1S.jpg" group-title="Barra brava T1",Cap. 08
 http://opcional.eu/series/joana1407/Ja14072025/199639.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/46MsHi3ZWCwZD2jBvUlJ0AmnA71.jpg" group-title="Bebê rena",Cap. 01
+http://opcional.eu/series/joana1407/Ja14072025/256293.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/46MsHi3ZWCwZD2jBvUlJ0AmnA71.jpg" group-title="Bebê rena",Cap. 02
+http://opcional.eu/series/joana1407/Ja14072025/256294.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/46MsHi3ZWCwZD2jBvUlJ0AmnA71.jpg" group-title="Bebê rena",Cap. 03
+http://opcional.eu/series/joana1407/Ja14072025/256295.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/46MsHi3ZWCwZD2jBvUlJ0AmnA71.jpg" group-title="Bebê rena",Cap. 04
+http://opcional.eu/series/joana1407/Ja14072025/256296.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/46MsHi3ZWCwZD2jBvUlJ0AmnA71.jpg" group-title="Bebê rena",Cap. 05
+http://opcional.eu/series/joana1407/Ja14072025/256297.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/46MsHi3ZWCwZD2jBvUlJ0AmnA71.jpg" group-title="Bebê rena",Cap. 06
+http://opcional.eu/series/joana1407/Ja14072025/256298.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/46MsHi3ZWCwZD2jBvUlJ0AmnA71.jpg" group-title="Bebê rena",Cap. 07
+http://opcional.eu/series/joana1407/Ja14072025/256299.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Ta1nx9rmwVi7eliQlXsh2fQLjj.jpg" group-title="Berlím T1",Cap. 01
+http://opcional.eu/series/joana1407/Ja14072025/236246.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Ta1nx9rmwVi7eliQlXsh2fQLjj.jpg" group-title="Berlím T1",Cap. 02
+http://opcional.eu/series/joana1407/Ja14072025/236247.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Ta1nx9rmwVi7eliQlXsh2fQLjj.jpg" group-title="Berlím T1",Cap. 03
+http://opcional.eu/series/joana1407/Ja14072025/236248.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Ta1nx9rmwVi7eliQlXsh2fQLjj.jpg" group-title="Berlím T1",Cap. 04
+http://opcional.eu/series/joana1407/Ja14072025/236249.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Ta1nx9rmwVi7eliQlXsh2fQLjj.jpg" group-title="Berlím T1",Cap. 05
+http://opcional.eu/series/joana1407/Ja14072025/236250.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Ta1nx9rmwVi7eliQlXsh2fQLjj.jpg" group-title="Berlím T1",Cap. 06
+http://opcional.eu/series/joana1407/Ja14072025/236251.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Ta1nx9rmwVi7eliQlXsh2fQLjj.jpg" group-title="Berlím T1",Cap. 07
+http://opcional.eu/series/joana1407/Ja14072025/236252.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Ta1nx9rmwVi7eliQlXsh2fQLjj.jpg" group-title="Berlím T1",Cap. 08
+http://opcional.eu/series/joana1407/Ja14072025/236253.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg" group-title="Berlím T2",Cap. 01
+http://opcional.eu/series/joana1407/Ja14072025/378220.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg" group-title="Berlím T2",Cap. 02
+http://opcional.eu/series/joana1407/Ja14072025/378221.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg" group-title="Berlím T2",Cap. 03
+http://opcional.eu/series/joana1407/Ja14072025/378222.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg" group-title="Berlím T2",Cap. 04
+http://opcional.eu/series/joana1407/Ja14072025/378223.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg" group-title="Berlím T2",Cap. 05
+http://opcional.eu/series/joana1407/Ja14072025/378224.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg" group-title="Berlím T2",Cap. 06
+http://opcional.eu/series/joana1407/Ja14072025/378225.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg" group-title="Berlím T2",Cap. 07
+http://opcional.eu/series/joana1407/Ja14072025/378226.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg" group-title="Berlím T2",Cap. 08
+http://opcional.eu/series/joana1407/Ja14072025/378227.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 01
+http://opcional.eu/series/joana1407/Ja14072025/275003.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 02
+http://opcional.eu/series/joana1407/Ja14072025/275004.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 03
+http://opcional.eu/series/joana1407/Ja14072025/277245.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 04
+http://opcional.eu/series/joana1407/Ja14072025/277246.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 05
+http://opcional.eu/series/joana1407/Ja14072025/278706.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 06
+http://opcional.eu/series/joana1407/Ja14072025/278707.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 07
+http://opcional.eu/series/joana1407/Ja14072025/279238.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 08
+http://opcional.eu/series/joana1407/Ja14072025/279239.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 09
+http://opcional.eu/series/joana1407/Ja14072025/281400.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3rs80Tqc1QJbSjBmAQzxUPyu5pY.jpg" group-title="Betty a feia: A historia continúa T1",Cap. 10
+http://opcional.eu/series/joana1407/Ja14072025/281401.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 01
+http://opcional.eu/series/joana1407/Ja14072025/339816.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 02
+http://opcional.eu/series/joana1407/Ja14072025/339817.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 03
+http://opcional.eu/series/joana1407/Ja14072025/340301.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 04
+http://opcional.eu/series/joana1407/Ja14072025/340302.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 05
+http://opcional.eu/series/joana1407/Ja14072025/341162.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 06
+http://opcional.eu/series/joana1407/Ja14072025/341163.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 07
+http://opcional.eu/series/joana1407/Ja14072025/341822.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 08
+http://opcional.eu/series/joana1407/Ja14072025/341823.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 09
+http://opcional.eu/series/joana1407/Ja14072025/343377.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg" group-title="Betty a feia: A historia continúa T2",Cap. 10
+http://opcional.eu/series/joana1407/Ja14072025/343378.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 01
+http://opcional.eu/series/joana1407/Ja14072025/394664.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 02
+http://opcional.eu/series/joana1407/Ja14072025/394665.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 03
+http://opcional.eu/series/joana1407/Ja14072025/394666.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 04
+http://opcional.eu/series/joana1407/Ja14072025/394669.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 05
+http://opcional.eu/series/joana1407/Ja14072025/394670.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 06
+http://opcional.eu/series/joana1407/Ja14072025/394671.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 07
+http://opcional.eu/series/joana1407/Ja14072025/394672.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 08
+http://opcional.eu/series/joana1407/Ja14072025/394673.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 09
+http://opcional.eu/series/joana1407/Ja14072025/394674.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/obm1EXS1WILteHoWDbdFhgnnlVu.jpg" group-title="Betty a feia: A historia continúa T3",Cap. 10
+http://opcional.eu/series/joana1407/Ja14072025/394676.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gmkPnxdevFtJyDbsfPq63E3FMow.jpg" group-title="Cilada",Cap. 01
 http://opcional.eu/series/joana1407/Ja14072025/316769.mp4
