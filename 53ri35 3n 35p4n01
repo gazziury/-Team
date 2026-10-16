@@ -1285,6 +1285,19 @@ http://23.137.84.107:8443/series/soytrico/lolita214/1316544.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 08
 http://23.137.84.107:8443/series/soytrico/lolita214/1316545.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fRjnp3eYk5BNlAayBxH7w1cM2qr.jpg" group-title="Causa abierta",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1316528.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fRjnp3eYk5BNlAayBxH7w1cM2qr.jpg" group-title="Causa abierta",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1316529.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fRjnp3eYk5BNlAayBxH7w1cM2qr.jpg" group-title="Causa abierta",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1316530.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fRjnp3eYk5BNlAayBxH7w1cM2qr.jpg" group-title="Causa abierta",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1316531.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fRjnp3eYk5BNlAayBxH7w1cM2qr.jpg" group-title="Causa abierta",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1316532.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fRjnp3eYk5BNlAayBxH7w1cM2qr.jpg" group-title="Causa abierta",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1316533.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg" group-title="Cazador de demonios",Cap. 01
 http://23.137.84.107:8443/series/soytrico/lolita214/1261129.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg" group-title="Cazador de demonios",Cap. 02
