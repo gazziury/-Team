@@ -7444,6 +7444,23 @@ http://23.137.84.107:8443/series/soytrico/lolita214/1252906.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9yZdTNyHEOyrLBODcXprNGp41mw.jpg" group-title="Muertos S.L. T3",Cap. 06
 http://23.137.84.107:8443/series/soytrico/lolita214/1252907.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pM1lpwrRcgde6GpL4Qx54xBePA4.jpg" group-title="Neagley",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1316298.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pM1lpwrRcgde6GpL4Qx54xBePA4.jpg" group-title="Neagley",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1316299.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pM1lpwrRcgde6GpL4Qx54xBePA4.jpg" group-title="Neagley",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1316300.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pM1lpwrRcgde6GpL4Qx54xBePA4.jpg" group-title="Neagley",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1316301.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pM1lpwrRcgde6GpL4Qx54xBePA4.jpg" group-title="Neagley",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1316302.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pM1lpwrRcgde6GpL4Qx54xBePA4.jpg" group-title="Neagley",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1316303.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pM1lpwrRcgde6GpL4Qx54xBePA4.jpg" group-title="Neagley",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1316304.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pM1lpwrRcgde6GpL4Qx54xBePA4.jpg" group-title="Neagley",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1316305.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7TKaDIE9qRJk2vKS91KNO5pJqgB.jpg" group-title="Némesis",Cap. 01
 http://23.137.84.107:8443/series/soytrico/lolita214/1300375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7TKaDIE9qRJk2vKS91KNO5pJqgB.jpg" group-title="Némesis",Cap. 02
