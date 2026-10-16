@@ -1257,6 +1257,23 @@ http://23.137.84.107:8443/series/soytrico/lolita214/1307168.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e6wZXfymD5FtyMeoU7JGCfv0Ajj.jpg" group-title="Cabo de miedo",Cap. 10
 http://23.137.84.107:8443/series/soytrico/lolita214/1308012.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 01
+http://23.137.84.107:8443/series/soytrico/lolita214/1316538.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 02
+http://23.137.84.107:8443/series/soytrico/lolita214/1316539.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 03
+http://23.137.84.107:8443/series/soytrico/lolita214/1316540.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 04
+http://23.137.84.107:8443/series/soytrico/lolita214/1316541.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 05
+http://23.137.84.107:8443/series/soytrico/lolita214/1316542.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 06
+http://23.137.84.107:8443/series/soytrico/lolita214/1316543.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 07
+http://23.137.84.107:8443/series/soytrico/lolita214/1316544.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5tvcXGJAEqajnCA1Lqjsiyr0b06.jpg" group-title="Carrie",Cap. 08
+http://23.137.84.107:8443/series/soytrico/lolita214/1316545.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg" group-title="Cazador de demonios",Cap. 01
 http://23.137.84.107:8443/series/soytrico/lolita214/1261129.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg" group-title="Cazador de demonios",Cap. 02
