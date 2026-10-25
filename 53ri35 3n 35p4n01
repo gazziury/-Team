@@ -7,7 +7,7 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
 Marshals t2... cap 2
-Visionquest... cap 2
+Visionquest... cap 4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 01
@@ -10279,6 +10279,10 @@ http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1067829.mp4
 http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1317505.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg" group-title="VisionQuest",Cap. 02
 http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1317506.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg" group-title="VisionQuest",Cap. 03
+http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1317967.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jfltxthL5nDD14AxOd6gxbBYX6v.jpg" group-title="VisionQuest",Cap. 04
+http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1317968.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/deRsh3toU0gbqSSZbNqndkxsrnw.jpg" group-title="Warrior T1",Cap. 01
 http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1170676.mkv
