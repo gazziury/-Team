@@ -6,7 +6,7 @@ ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... 
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #####################################################################################################################################
 
-Marshals t2... cap 2
+Marshals t2... cap 4
 Visionquest... cap 4
 
 
@@ -7024,6 +7024,10 @@ http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1301537.mkv
 http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1316471.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wJUJ6vTSq7qUSXkht2NcwnxVm8x.jpg" group-title="Marshals: Una historia de Yellowstone T2",Cap. 02
 http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1317402.mkv
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wJUJ6vTSq7qUSXkht2NcwnxVm8x.jpg" group-title="Marshals: Una historia de Yellowstone T2",Cap. 04
+http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1318094.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rSAmgcoA74371rplbqM27yVsd3y.jpg" group-title="Masters of the air: Los amos del aire",Cap. 01
 http://nousplayer.io/series/danielposada8@hotmail.com/6548987/1195531.mkv
