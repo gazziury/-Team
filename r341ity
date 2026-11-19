@@ -14,11 +14,9 @@ http://link123.lat:8080/843PCTFkNyAH/5RBxkyc7XHER/458255
 http://link123.lat:8080/843PCTFkNyAH/5RBxkyc7XHER/396633
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",PRINCIPAL
-http://nousplayer.io/live/robertogarci4/017261/1285296.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 2",CAM 1
-http://nousplayer.io/live/robertogarci4/017261/1285664.ts
+http://ccf.center:8444/irenehernandez908/yCy34jab32/222657.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="EL GRAN HERMANO (URUGUAY) 2",CANAL 10
-http://nousplayer.io/robertogarci4/017261/1218122
+http://ccf.center:8444/irenehernandez908/yCy34jab32/8518.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNUb43UxJLiiD_q7AuEkiVded4PYUp7502AQlGtKmnQ&s=10" group-title="EL GRAN HERMANO (URUGUAY) 3",PRINCIPAL
 http://nousplayer.io/osvaldoserga/os4112021/1285296
