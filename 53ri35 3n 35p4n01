@@ -10,39 +10,6 @@ Marshals t2... cap 4
 Visionquest... cap 4
 
 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 01
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1167775.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 02
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1167776.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 03
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1167777.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 04
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1167778.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 05
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1167779.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 06
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1167780.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 07
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1167781.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg" group-title="1923 T1",Cap. 08
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1167782.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="1923 T2",Cap. 01
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1235703.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="1923 T2",Cap. 02
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1237200.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="1923 T2",Cap. 03
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1237626.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="1923 T2",Cap. 04
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1238371.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="1923 T2",Cap. 05
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1239340.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="1923 T2",Cap. 06
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1239341.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg" group-title="1923 T2",Cap. 07
-http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1239866.mkv
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 01
 http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1141833.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AqcHMbvN4lkYUXKNalOxOFe025K.jpg" group-title="28 días paranormales",Cap. 02
@@ -10654,6 +10621,7 @@ http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1211998.mkv
 http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1211999.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5NDs12paqvz4Jug3f13fC9XmSVN.jpg" group-title="Your honor: Su señoría T2",Cap. 10
 http://nousplayer.io:8880/series/acosta1953@icloud.com/0g8h57axOM/1212000.mkv
+
 
 
 
